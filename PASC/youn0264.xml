@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c8ft8t7x/">youn0264.xml</eadid><filedesc><titlestmt><titleproper type="filing">Younger (A.P.) papers</titleproper><titleproper>Finding Aid for the A.P. Younger Papers <num>PASC.0264</num></titleproper><author>Finding aid prepared by Jasmine Larkin, 2020.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2020 December 10.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>spec-coll@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/special-collections" xlink:show="new" xlink:title="https://www.library.ucla.edu/special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-08-03 17:41:18 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>A.P. Younger papers</unittitle>
+    <origination label="Creator">
+      <persname authfilenumber="http://id.loc.gov/authorities/names/n93117220" source="naf">Younger, A. P.</persname>
+    </origination>
+    <unitid>PASC.0264</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">20.5 Linear Feet</extent>
+      <extent altrender="carrier">(41 boxes, 2 flat boxes)</extent>
+    </physdesc>
+    <unitdate certainty="approximate" datechar="creation" normal="1915/1931" type="inclusive">circa 1915-1931</unitdate>
+    <physloc id="aspace_2eb73c771fc82eddd7426aee3784c8d8">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_2a31b99ff19cffeb90639500eeac576d">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_12373c5f00337506c4af8bf10c718cd5">
+    <head>Conditions Governing Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <acqinfo id="aspace_073610d968c34a7b33e6ca9a72170cd2">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of receipt unknown.</p>  </acqinfo>
+  <bioghist id="aspace_7e7f93c749eec5e696d5e8e81e913755">
+    <head>Biographical / Historical</head>
+<p>A.P. (Bill) Younger was a contract writer for Metro Goldwyn Mayer studio; he died of a self inflicted pistol wound (offically recorded as accidential) November 29, 1931.</p>  </bioghist>
+  <processinfo id="aspace_896f0a3bcb6fd27fe196df4095f76d64">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/toward-ethical-inclusive-descriptive-practices-ucla-library-special-collections/report-potentially-offensive-description-library-special-collections">Report Potentially Offensive Description in Library Special Collections.</extref></p>  </processinfo>
+  <odd id="aspace_d78341d4561dfb4b9475cdbccee9adcb">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/trta7g/alma9948578193606533">9948578193606533</extref></p>  </odd>
+  <prefercite id="aspace_d4b8d668d0a3e9c9524a90278332c636">
+    <head>Preferred Citation</head>
+<p>[Identification of item], A.P. Younger papers (Collection 264). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <scopecontent id="aspace_afa1feb0b49cc05a1b194d6194373885">
+    <head>Scope and Contents</head>
+<p>Collection consists of script materials, story ideas, notes, and story clippings related to the career of motion picture writer, A.P. Younger.</p>  </scopecontent>
+  <userestrict id="aspace_d01f1edd9eba89f972cbd91cd842fec9">
+    <head>Conditions Governing Reproduction and Use</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <dsc/>
+</archdesc>
+</ead>
