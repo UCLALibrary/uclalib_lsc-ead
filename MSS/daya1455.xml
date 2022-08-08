@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/kt9s2021rm/">daya1455.xml</eadid><filedesc><titlestmt><titleproper type="filing">Day (A.L.) Collection of Photographs of the Philippines</titleproper><titleproper>Finding Aid for the A.L. Day Collection of Photographs of the Philippines, 1921 <num>LSC.1455</num></titleproper><author>Finding aid prepared by Caroline Cubé, 2003.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>© 2003</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>spec-coll@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/special-collections" xlink:show="new" xlink:title="https://www.library.ucla.edu/special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-08-08 14:42:57 -0700</date>.</creation><langusage>Description is in <language>English.</language></langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>A.L. Day Collection of Photographs of the Philippines</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Day, A.L.</persname>
+    </origination>
+    <unitid>LSC.1455</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1921</unitdate>
+    <physloc id="aspace_ced6e89054146e65033bf744d193c71b">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_6ebecd6fa752b2ebfc9df299d38ed091">
+    <head>Restrictions on Access</head>
+<p>Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_76fe7e0ffe0f0f6cb9a53fe201556186">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <prefercite id="aspace_c5a24a2d6627bef70a86cab5c3820f64">
+    <head>Preferred Citation</head>
+<p>[Identification of item], A.L. Day Collection of Photographs of the Philippines (Collection 1455). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <odd id="aspace_a7c48d40b94e4da6d307f148d36d4038">
+    <head>General note</head>
+<p><emph render="italic">Description derived from in-house card file.</emph></p>  </odd>
+  <odd id="aspace_0dab87296375059f642a3beb0b729b68">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/trta7g/alma9942329283606533">9942329283606533</extref></p>  </odd>
+  <processinfo id="aspace_2a4e5ecdc8015763dc58fd60631d186a">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/toward-ethical-inclusive-descriptive-practices-ucla-library-special-collections/report-potentially-offensive-description-library-special-collections">Report Potentially Offensive Description in Library Special Collections.</extref></p>  </processinfo>
+  <controlaccess>
+    <genreform source="gmgpc">Photographs -- Philippines.</genreform>
+    <persname source="local">Day, A.L.--Archives.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref7_uut" level="collection"><did><unittitle>Photographs of the Philippines,</unittitle><unitdate datechar="creation">1921</unitdate><physdesc id="aspace_09353a2f6b8e351331c875624f7d2391" label="General Physical Description note">(1 box)</physdesc></did></c01></dsc>
+</archdesc>
+</ead>
