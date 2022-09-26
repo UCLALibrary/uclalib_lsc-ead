@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/tf0199n62z/">lanca213.xml</eadid><filedesc><titlestmt><titleproper type="filing">Lancashire and Cheshire Antiquarian Society records</titleproper><titleproper>Finding Aid for the Lancashire and Cheshire Antiquarian Society Records <num>LSC.0213</num></titleproper><author>Finding aid prepared by Manuscripts Division staff; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2002.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>spec-coll@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/special-collections" xlink:show="new" xlink:title="https://www.library.ucla.edu/special-collections" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><subject source="cdl"></subject><subject source="cdl"></subject><subject source="cdl"></subject><subject source="cdl"></subject></p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-09-26 14:45:45 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Lancashire and Cheshire Antiquarian Society records</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="naf">Lancashire and Cheshire Antiquarian Society</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Hughes, T. Cann</persname>
+    </origination>
+    <unitid>LSC.0213</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1899/1946" type="inclusive">1899-1946</unitdate>
+    <physloc id="aspace_fa4fe3909971af1e3cfe6442b9a05fc4">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_8281555c522cf4d593986f8b02a99faa">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_cdc2c83248317eccf247cefa73ede6a8">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_b541d82f971ae9281f1d581132304d73">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_e33a40b6a26bd121479e0b42475d02e1">
+    <head>Provenance/Source of Acquisition</head>
+<p>Collection originally assembled by T. Cann Hughes.</p>  </acqinfo>
+  <prefercite id="aspace_218b8e60c414937a666456e13bd65a6a">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Lancashire and Cheshire Antiquarian Society Records (Collection 213). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_91dd0b10a64483cb483a76649ee3d852">
+    <head>Processing Information</head>
+<p>Processed by Manuscripts Division staff.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language
+that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form
+located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special
+Collections.</extref></p>  </processinfo>
+  <odd id="aspace_441d885407bd6dacf3486545b44fa513">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9919730523606533">9919730523606533</extref></p>  </odd>
+  <scopecontent id="aspace_4c3104646185b5635b4fb0ce9170630b">
+    <head>Scope and Content</head>
+<p>Collection consists of correspondence, announcements, and notices addressed to T. Cann Hughes, an active member of the Lancashire and Cheshire Antiquarian Society, and related manuscripts, pamphlets, ephemera, and clippings, all collected by him.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Cheshire (England) -- Antiquities -- Archives.</geogname>
+    <geogname source="lcsh">Lancashire (England) -- Antiquities -- Archives.</geogname>
+    <persname source="local">Hughes, T. Cann--Archives.</persname>
+    <corpname source="naf">Lancashire and Cheshire Antiquarian Society--Archives.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref9_48m" level="collection"><did><unittitle>Lancashire and Cheshire Antiquarian Society Records</unittitle><physdesc id="aspace_5b16712721e599b5bfdf0c672f07ea16" label="General Physical Description note">1 box.</physdesc></did><odd id="aspace_7e623bf7503e99e9adb5a5aca2ae43e1"><head>General note</head><p><emph render="italic">Description derived from in-house card file.</emph></p></odd><scopecontent id="aspace_da12c057a3b6cea19ed0c9811a1e32ac"><head>Scope and Contents note</head><p>Collection is comprised of correspondence, announcements, and notices addressed to T. Cann Hughes, an active member of the Society, and related manuscripts, pamphlets, ephemera, and clippings, all collected by him.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>
