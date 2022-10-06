@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c82f7vmp/">amer1018.xml</eadid><filedesc><titlestmt><titleproper type="filing">American Cotton Oil Company collection of correspondence and other material</titleproper><titleproper>Finding Aid for the American Cotton Oil Company Collection of Correspondence and Other Material <num>Biomed.1018</num></titleproper><author>Finding aid prepared by Shira Peltzman, 2020.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2020 November 13.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>spec-coll@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/special-collections" xlink:show="new" xlink:title="https://www.library.ucla.edu/special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-06 12:50:24 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>American Cotton Oil Company collection of correspondence and other material</unittitle>
+    <origination label="source">
+      <corpname role="sll" rules="rda" source="local">Rabelais</corpname>
+    </origination>
+    <unitid>Biomed.1018</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.4 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" normal="1914/1955" type="inclusive">1914-1955</unitdate>
+    <unitdate datechar="creation" normal="1919/1924" type="bulk">1919-1924</unitdate>
+    <physloc id="aspace_043ebc58eab308abcfc375d8fa462f7e">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_6bf58f75f074d29fc19ca140e359c1d2">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_ffe518df13bf1a4e66871661d794103f">
+    <head>Conditions Governing Access</head>
+<p>Unprocessed collection. Material is unavailable for access. Please contact Special Collections reference (spec-coll@library.ucla.edu) for more information.</p>  </accessrestrict>
+  <userestrict id="aspace_5216aa6d442cfbcc911e714d3a2b764b">
+    <head>Conditions Governing Use</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_d08ad19c707d3fe7a6df5965faf8f97e">
+    <head>Immediate Source of Acquisition</head>
+<p>Purchased from Rabelais from the Franklin E. Murphy, M.D. Fund, 2019.</p>  </acqinfo>
+  <prefercite id="aspace_faf67a19a1f107c12685028197465722">
+    <head>Preferred Citation</head>
+<p>[Identification of item], American Cotton Oil Company Collection of Correspondence and Other Material (Collection 1018). Louise M. Darling Biomedical Library History and Special Collections for the Sciences, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_3995ce2fe2d5ebc35c37040bf4b0a46e">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special Collections.</extref></p>  </processinfo>
+  <odd id="aspace_f4ffeddbec84a9311f3d89923f03f970">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/trta7g/alma9988733283606533">9988733283606533</extref></p>  </odd>
+  <scopecontent id="aspace_26bc6645cad38c0531de8cb4e6eb80d7">
+    <head>Scope and Contents</head>
+<p>Correspondence and related items related to the American Cotton Oil Company.</p>  </scopecontent>
+  <controlaccess>
+    <corpname role="sll" rules="rda" source="local">Rabelais</corpname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>
