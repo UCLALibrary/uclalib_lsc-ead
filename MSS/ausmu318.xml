@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/tf7s2007mk/">ausmu318.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ausmus (Delbert) papers</titleproper><titleproper>Finding Aid for the Delbert Ausmus Papers <num>LSC.0318</num></titleproper><author>Finding aid prepared by Saundra Taylor, July 1970; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2006.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>spec-coll@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/special-collections" xlink:show="new" xlink:title="https://www.library.ucla.edu/special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 14:59:35 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Delbert Ausmus papers</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Ausmus, Delbert</persname>
+    </origination>
+    <unitid>LSC.0318</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate certainty="approximate" datechar="creation" normal="1964/1964">circa 1964</unitdate>
+    <physloc id="aspace_929297b10fbb2cbf369a113cf6eaed08">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_3b2e5a97fb5d0769e23ce60e887f9303">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_1fed1479a8c49a913e43c84323933129">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_06d24da9aa0ab09dec0438a9616f069c">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <prefercite id="aspace_ea4ebcaf8dd9620e525b937f854c7c63">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Delbert Ausmus Papers (Collection 318). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_57719217bf2bdfe240509c384046fa58">
+    <head>Processing Information</head>
+<p>Processed by Saundra Taylor, July 1970.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language
+that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form
+located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special Collections.</extref></p>  </processinfo>
+  <odd id="aspace_36576a0a5b3f4c26571b0ecaedaded47">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9942303383606533">9942303383606533</extref></p>  </odd>
+  <scopecontent id="aspace_afb3434aafc97304bac9435a6ba1903e">
+    <head>Scope and Content</head>
+<p>Collection consists of notes made by Colonel Delbert Ausmus on 5 x 8 cards in preparation for his oral history interview, A career in the U.S. Coast Artillery Corps, in which he relates his boyhood in the Southern Kansas wheat belt and his career in the Coast Artillery Corps, 1903-1946.</p>  </scopecontent>
+  <relatedmaterial id="aspace_49ec6f8a9763a829a3fcf1cfb2039f95">
+    <head>Related Material</head>
+<p><extref xlink:actuate="onRequest" xlink:show="new" xlink:href=
+"https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma994622613606533"><title type="simple">A Career in the U.S. Coast Artillery Corps</title> [oral history transcript] / Colonel Delbert Ausmus, interviewee.</extref> UCLA Oral History Department interview, 1970. Available at Library Special Collections, UCLA.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">World War, 1939-1945 -- Personal narratives.</subject>
+    <occupation source="lcsh">Artillerymen -- United States -- Archives.</occupation>
+    <persname source="local">Ausmus, Delbert, 1887- --Archives.</persname>
+    <persname source="local">Ausmus, Delbert,1887- --Career in the U.S. Coast Artillery Corps.</persname>
+    <corpname rules="rda" source="naf">United States. Army. Coast Artillery</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref8_6j7" level="file"><did><unittitle>Notes</unittitle><physdesc id="aspace_4a3c794893a2c02ca7af027310f066a4" label="General Physical Description note">1 box.</physdesc></did><scopecontent id="aspace_e30b92180d4cea91167247befbb76dc6"><head>Scope and Contents note</head><p>Notes made by Colonel Ausmus on 5 x 8 cards in preparation for his oral history interview.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>
