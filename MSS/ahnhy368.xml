@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid countrycode="us" identifier="ark:/13030/kt6m3nc8zq" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library Special Collections//TEXT&#10;(US::CLU-SC::368::Hyung-ju Ahn Collection of Korean Materials)//EN&quot; &quot;ahnhy368.xml&quot;&#10;">ahnhy368.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Hyung-ju Ahn Collection of Korean Materials, 1902-1959</titleproper><titleproper type="filing">Ahn (Hyung-ju) Korean Materials Collection</titleproper>
+ <author>Processed by UCLA Library Special Collections staff; machine-readable finding aid created by Caroline Cub&#xE9;</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">&#xA9; 2004</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text rekeyed by Apex Data Services from in-house paper finding aid, <date calendar="gregorian" era="ce">November 1999</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date calendar="gregorian" era="ce">unknown</date>.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library Special Collections//TEXT
+(US::CLU-SC::368::Hyung-ju Ahn Collection of Korean Materials)//EN" "ahnhy368.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Hyung-ju Ahn Collection of Korean Materials, 1902-1959</titleproper>
+ <num>Collection number: 368</num>
+ <publisher>UCLA Library Special Collections
+<lb/>UCLA Library Special Collections staff
+<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Hyung-ju Ahn and Eiichiro Azuma</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cub&#xE9;</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item><list type="simple">
+<item>Josh Fiala, September 2004</item>
+<item>Caroline Cub&#xE9;, August 2006</item>
+ </list></item>
+ </defitem>
+ </list>
+ <p>&#xA9; 2004 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Hyung-ju Ahn Collection of Korean Materials, </unittitle>
+<unitdate type="inclusive" normal="1902/1959">1902-1959</unitdate>
+ <unitid countrycode="US" repositorycode="CLU-SC" label="Collection number">368</unitid>
+ <origination label="Creator">
+ <persname role="subject" source="lcnaf">Ahn, Hyung-ju</persname>
+ </origination>
+ <physdesc label="Extent"><extent>10 boxes (5 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Hyung-ju (also known as Henry) Ahn graduated from the Wharton School of Finance and Commerce at the University of Pennsylvania in 1964, worked as a computer systems analyst for aerospace companies and for Orange County, California (1965-95), and received his MA in history from California State University, Fullerton. He wrote his thesis on Korean interpreters at Japanese-American internment camps during World War II. The collection contains mostly Korean printed materials, including religion and history books, and textbooks published under Japanese occupation. Also contains an original documentary motion picture film, Mugunghwa Tongsan (Hibiscus Garden), about the Korean community in Hawaii from 1900-47.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of Hyung-ju Ahn, 1997.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Hyung-ju Ahn Collection of Korean Materials (Collection 368). UCLA Library Special Collections, Charles E. Young Research Library.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4230300">4230300</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Hyung-ju (also known as Henry) Ahn was born in Seoul, Korea; attended Seoul National University for two years; came to Honolulu, Hawaii in 1957 and then Reedley, California a few years later; graduated from the Wharton School of Finance and Commerce at the University of Pennsylvania in 1964; worked as a computer systems analyst for aerospace companies and for Orange County, California from 1965-95; MA in history from California State University, Fullerton; wrote his thesis on Korean interpreters at Japanese-American internment camps during World War II.</p>
+ <bioghist>
+ <head>Biographical Narrative</head>
+ <p><emph render="bold">Hyung-ju Ahn [Korean characters],</emph> or Henry Ahn, was born in Seoul and attended Seoul National University for two years. In 1957 he came to Honolulu where his paternal grandfather, Reverend Chang-ho Ahn [Korean characters], had been a minister since 1926 at the Korean Methodist churches in Wahiawa, Oahu and in Honolulu. A Couple of years later, he joined his maternal grandparents, Mr. and Mrs. Charles Ho Kim [Korean characters] in Reedley, California. Charles Ho Kim had come to the United States in 1914 and his wife came 35 years later.</p>
+ <p>Hyung-ju Ahn graduated from the Wharton School of Finance and Commerce at the University of Pennsylvania in 1964. From 1965 to 1995, he worked as a computer systems analyst for aerospace companies and the County of Orange. He also earned a Master of Arts degree in history from California State University, Fullerton. His second master's thesis was &#x201C;the Korean Interpreters at Japanese Alien Detention Centers During World War II.&#x201D;</p>
+ <p>Beginning in 1987, Hyung-ju Ahn visited his relatives to interview and to collect Korean American primary source materials. He interviewed his great-aunt in Detroit, whose late husband, C.C. Ahn [Korean characters], came to Honolulu in January 1903 on the first shipload of Korean to come to Hawaii to work on sugar plantations. He also interviewed his grand-aunt in Hilo, Hawaii, whose father was an elder brother of C.C. Ahn and had sailed with him to Hawaii. Hyung-ju visited many historic Korean American sites and surveyed primary source materials including newsreels, home movies, documentary films, photographs, documents, audio recordings, and unpublished manuscripts written both in Korean and English.</p>
+ </bioghist>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection contains mostly Korean printed materials, including religion and history books, and textbooks published under Japanese occupation. Includes 1902 passport, Korean Bible, fiction works, and a 1919 Korean Provisional Government savings bond issued in 1919. Also contains an original documentary motion picture film, Mugunghwa Tongsan (Hibiscus Garden), about the Korean community in Hawaii from 1900-47.</p>
+ <scopecontent>
+ <head>Expanded Scope and Content</head>
+ <p><emph render="bold">The Hyung-ju Ahn Archival Collection</emph> consists of his great-uncle's passport issued to him by the Korean Imperial Government in 1902 to allow him to emigrate to Hawaii; his great uncle's Korean Bible and Korean fiction works; textbooks published in Hawaii and the Mainland United States for Korean language schools; textbooks published in Korea prior to 1910; a one-hundred dollar Korean Provisional Government savings bond issued in 1919; textbooks published in Korea under Japanese rule, which were used at the Korean Central School [Korean characters] in Honolulu in the 1920s; and the thirty-minute documentary film on the Korean American community in Hawaii entitled &#x201C;Mugunghwa tongsan&#x201D; [[Korean characters] Hibiscus Garden], which was directed by his father in 1947.</p>
+ </scopecontent>
+ </scopecontent>
+ <arrangement id="arrangement-1.8.5">
+ <head>Organization and Arrangement</head>
+ <p>Arranged in the following series: <list type="ordered"><item>Books and documents on Korean Independence Movement and Korean Immigrant History (Box 1).</item><item>Books published under Korean imperial government (Box 2).</item><item>Textbooks published under Japanese rule (Box 3).</item><item>Books on religion (Box 4).</item><item>General history books (Boxes 5-6).</item><item>Chinese language books (Boxes 7-8).</item><item>Miscellaneous books (Boxes 9-10).</item><item>Film, Mugunghwa Tongsan (Hibiscus Garden), 1947 (Box 11).</item></list></p>
+ </arrangement>
+ <controlaccess id="controlaccess-1.8.6">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+ <persname role="subject" source="lcnaf" encodinganalog="600">Ahn, Hyung-ju--Archives.</persname>
+ <geogname source="lcnaf" encodinganalog="651">Korea--Civilization--Archival resources.</geogname>
+ </controlaccess>
+</controlaccess>
+ <relatedmaterial id="relatedmaterial-1.8.8">
+ <head>Related Material</head>
+ <p>
+ <extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt0g5009ww" actuate="onrequest" show="new">Korean American Oral History Project (Collection 1414)
+ </extref>. Available at the UCLA Library Special Collections, Charles E. Young Research Library.</p>
+ </relatedmaterial>
+ <dsc type="in-depth" id="dsc-1.8.7">
+ <head>Container List</head>
+ <c01 id="c01-1.3.7.2" level="series">
+ <did>
+ <unittitle>Books and Documents on Korean Independence Movement and Korean Immigrant History</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.2.2">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder"> 1</container>
+ <unittitle>Korean Imperial Government Special Passport, <unitdate calendar="gregorian" era="ce">1903.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.2.3">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder"> 1</container>
+ <unittitle>Korean Provisional Government $100 Savings Bond Receipt, <unitdate calendar="gregorian" era="ce">1919.</unitdate></unittitle>
+ <physdesc> (Copy).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.2.4">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Pak &#xDA;nsik [Korean characters], <emph render="bold">&#x201C;Hanguk t'ongsa&#x201D;</emph> [Korean characters] Translated by Kim Py&#xF3;ngsik [Korean characters]. Honolulu, <unitdate calendar="gregorian" era="ce">1917.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.2.5">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>Kim Y&#xF3;ngu [Korean characters], <emph render="bold">&#x201C;Toklip hy&#xF3;lj&#xF3;ngi&#x201D;</emph> [Korean characters]. Honolulu, <unitdate calendar="gregorian" era="ce">1919.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.2.6">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Pak &#xDA;nsik [Korean characters], <emph render="bold">&#x201C;Hanguk toklip undong chi hy&#xF3;lsa&#x201D;</emph> [Korean characters]. Shanghai, <unitdate calendar="gregorian" era="ce">1920</unitdate> (In Chinese).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.2.7">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle>Warren Y. Kim [Korean characters], <emph render="bold">&#x201C;Haebang chos&#xF3;n&#x201D;</emph> [Korean characters]. Los Angeles, <unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.2.8">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle>Textbooks of Economics, Biology, and Criminal Law, <unitdate calendar="gregorian" era="ce">1900s.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.7.3" level="series">
+ <did>
+ <unittitle>Books Published Under Korean Imperial Government</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.3.2">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Korean History, <unitdate calendar="gregorian" era="ce">1900s.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.3.3">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Japanese History, <unitdate calendar="gregorian" era="ce">1900s.</unitdate></unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.3.4">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>World History, <unitdate calendar="gregorian" era="ce">1900s.</unitdate></unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.3.5">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Geography, <unitdate calendar="gregorian" era="ce">1900s.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.3.6">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle>Korean Reader, <unitdate calendar="gregorian" era="ce">1900s.</unitdate></unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.3.7">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle>Miscellaneous Textbooks, <unitdate calendar="gregorian" era="ce">1900s.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.7.4" level="series">
+ <did>
+ <unittitle>Textbooks Published Under Japanese Rule</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.4.2">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Korean Reader, <unitdate calendar="gregorian" era="ce">1920s-1930s.</unitdate></unittitle>
+ <physdesc> (5 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.4.3">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Chinese and Japanese Reader, <unitdate calendar="gregorian" era="ce">1909, 1937.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.4.4">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>Japanese History and Geography, <unitdate calendar="gregorian" era="ce">1930s</unitdate> </unittitle>
+ <physdesc> (3 items).</physdesc>
+<note>
+<p>(In Japanese).</p>
+</note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.4.5">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Bible, <unitdate calendar="gregorian" era="ce">1912.</unitdate></unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.7.5">
+ <did>
+ <unittitle>Books on Religion</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.5.2">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Christian Books, <unitdate calendar="gregorian" era="ce">1908, 1912.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.5.3">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Christian Books, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.5.4">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>Christian Books, <unitdate calendar="gregorian" era="ce">1924, 1938.</unitdate></unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.5.5">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Bible, <unitdate calendar="gregorian" era="ce">1906.</unitdate></unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.5.6">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle>Miscellaneous Publications, <unitdate calendar="gregorian" era="ce">ca. 1910s.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.7.6">
+ <did>
+ <unittitle>General History Books</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.6.2">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Biographies of Great Korean Historic Figures: &#x201C;Wiinj&#xF3;n&#x201D; [Korean characters], <unitdate calendar="gregorian" era="ce">1920s.</unitdate></unittitle>
+ <physdesc> (4 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.6.3">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>&#x201C;Wiinj&#xF3;n,&#x201D; <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.6.4">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>&#x201C;Wiinj&#xF3;n,&#x201D; <unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.7.7" level="series">
+ <did>
+ <unittitle>General History Books</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.7.2">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>&#x201C;Wiinj&#xF3;n,&#x201D; <unitdate calendar="gregorian" era="ce">1950s.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.7.3">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>History of Wars in Korea, <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.7.4">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>General Korean History.</unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.7.5">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>World Christian History, <unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.7.8" level="series">
+ <did>
+ <unittitle>Chinese-Language Books</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.8.2">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><emph render="bold">&#x201C;Sohak&#x201D;</emph> [Korean characters], <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.8.3">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><emph render="bold">&#x201C;Taehak&#x201D;</emph> [Korean characters], <unitdate calendar="gregorian" era="ce">1927</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.7.9" level="series">
+ <did>
+ <unittitle><emph render="bold">&#x201C;Non-&#xF3;&#x201D;</emph> [Korean characters], <unitdate calendar="gregorian" era="ce">1927</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.9.2">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>Classical Poetry.</unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.9.3">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Classical Poetry.</unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.7.10">
+ <did>
+ <unittitle>Chinese-Language Books</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.10.2">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Classical Writing.</unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.10.3">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><emph render="bold">&#x201C;Hunmin ch&#xF3;ng&#xDA;m,&#x201D;</emph> [Korean characters], Seoul, <unitdate calendar="gregorian" era="ce">1946,</unitdate> (Classical Reading).</unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.10.4">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>Chinese-Korean Dictionary.</unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.7.11">
+ <did>
+ <unittitle>Miscellaneous Books</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.7.11.2">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Korean Language and Stories, <unitdate calendar="gregorian" era="ce">1910s-1920s.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.11.3">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>South Korean Elementary School Music Textbooks, <unitdate calendar="gregorian" era="ce">1969-1970.</unitdate></unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.11.4">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>Miscellaneous Publications.</unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.11.5">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Miscellaneous Publications.</unittitle>
+ <physdesc> (2 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.11.6">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle>&#x201C;Economic Report on Defeated Japan,&#x201D; Unpublished English Material, ca. <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.7.12.2">
+ <did>
+ <container type="Box" label="Box">10</container>
+ <unittitle>Chinese-Japanese Dictionary.</unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="item" id="c01-1.3.7.13">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <unittitle>&#x201C;Mugunghwa tongsan,&#x201D; [Korean characters] Hibiscus Garden, <unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>30-minute Documentary Film on a Korean Community in Hawaii.</p>
+ </scopecontent>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
