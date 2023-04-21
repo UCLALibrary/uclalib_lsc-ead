@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD)
+Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier="ARK:/13030/kt4199q2rv">PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::2060::Griffith Family Papers)//EN" "grif2060.xml"
+</eadid><filedesc><titlestmt>
+<titleproper>Finding Aid for the Griffith Family Papers, 1845-1973</titleproper>
+<titleproper type="filing">Griffith Family Papers</titleproper>
+<author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cub&#x00E9; and edited by Josh Fiala.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library, Department of Special Collections</publisher>
+<address>
+  <addressline>Manuscripts Division</addressline>
+  <addressline>Room A1713, Charles E. Young Research Library</addressline>
+  <addressline>Box 951575</addressline>
+  <addressline>Los Angeles, CA 90095-1575</addressline>
+  <addressline>Email: spec-coll@library.ucla.edu</addressline>
+  <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2005</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Text rekeyed by Caroline Cub&#x00E9; from in-house paper finding aid, <date>February 2005</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date>DDMMYYYY</date>.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Griffith Family Papers, </unittitle>
+<unitdate type="inclusive" normal="1845/1973">1845-1973</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2060</unitid>
+<origination label="Creator"><famname role="subject" rules="local">Griffith family</famname></origination>
+<physdesc label="Extent"><extent>117 boxes (58.5 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+<abstract label="Abstract">Griffith Jenkins Griffith (1850-1919) engaged in mining operations in Mexico. In 1882, he purchased Los Feliz Rancho near Los Angeles, and acquired extensive real estate in the city. In 1896, he donated most of his ranch to the city for a public park, and in 1912 provided money for the construction of an astronomical observatory on Mt. Hollywood. His son, Van Griffith, became president of the Los Angeles Park Board, and was manager of the Griffith Park Transportation Company. He was also a member of the Los Angeles Police Commission and an ombudsman for Mayor Fletcher Bowron. His wife, Constance Griffith, served on the Los Angeles board of directors of the League of Women Voters and on the state board. The collection contains manuscripts, documents, photographs, glass negatives, newspapers, maps, clippings, magazines, books, and miscellaneous memorabilia of the Griffith family, including Griffith J. Griffith, his son Van, and Van's wife, Constance Griffith, including material in the Citizens Research Institute, the Los Angeles city police commission, the Griffith Trust Fund, and the League of Women Voters.</abstract>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library.
+Department of Special Collections.</corpname>
+<address>
+<addressline>Los Angeles, California 90095-1575</addressline>
+</address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+ <p>
+ <list type="simple">
+ <item>Gift of Mrs. Van Griffith, 1975.</item>
+ <item>Gift of Mrs. Harold Griffith, 1976.</item>
+ <item>Gift of Mr. and Mrs. Harold Griffith, 1976-77.</item>
+ </list>
+ </p>
+</acqinfo>
+<prefercite encodinganalog="544">
+<head>Preferred Citation</head>
+<p>[Identification of item], Griffith Family Papers (Collection 2060). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233097">4233097</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography</head>
+<p>Griffith Jenkins Griffith was born on January 4, 1850 in Glamorganshire, South Wales; attended Fowler Institute, New York City; came to California in 1873; engaged in mining operations in Mexico; in 1882 purchased Los Feliz Rancho near Los Angeles, and acquired extensive real estate in the city; in 1896 donated most of his ranch to the city for a public park, and in 1912 provided money for the construction of an astronomical observatory on Mt. Hollywood; died on July 6, 1919; his son, Van Griffith, became president of the Los Angeles Park Board, and was manager of the Griffith Park Transportation Company; he was also a member of the Los Angeles Police Commission and an ombudsman for Mayor Fletcher Bowron; his wife, Constance Griffith, served on the Los Angeles board of directors of the League of Women Voters and on the state board.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+ <p>Collection contains manuscripts, documents, photographs, glass negatives, newspapers, maps, clippings, magazines, books, and miscellaneous memorabilia of the Griffith family, including Griffith J. Griffith, founder of Griffith Park in Los Angeles. Also contains papers of his son Van, and Van's wife, Constance Griffith, including material in the Citizens Research Institute, the Los Angeles city police commission, the Griffith Trust Fund, and the League of Women Voters.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<famname role="subject" rules="local" encodinganalog="600">Griffith family--Archives.</famname>
+<persname role="subject" rules="aacr2" encodinganalog="600">Griffith, Griffith J.--Archives.</persname>
+<persname role="subject" rules="aacr2" encodinganalog="600">Griffith, Van--Archives.</persname>
+<persname role="subject" rules="aacr2" encodinganalog="600">Griffith, Constance--Archives.</persname>
+<occupation source="lcsh" encodinganalog="650">Civic leaders--California--Los Angeles--Archival resources.</occupation>
+</controlaccess>
+</controlaccess>
+<dsc type="in-depth" id="dsc-1.8.6">
+ <head>Container List</head>
+ <c01 level="series" id="c01-1.3.6.2">
+ <did>
+ <unittitle>Papers Relating to Aviation, [<unitdate calendar="gregorian" era="ce">1910-1932</unitdate>]</unittitle>
+ </did>
+ <c02 id="c02-1.3.6.2.2" level="subseries">
+ <did>
+ <unittitle>Aero Club of California, [<unitdate calendar="gregorian" era="ce">1910-1913</unitdate>]</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.3.6.2.2.2">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folders">1-2</container>
+ <unittitle>2 minute books, <unitdate calendar="gregorian" era="ce">June 7, 1910-June 7, 1913.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Includes: 
+ <list type="simple">
+ <item>By-laws, <unitdate calendar="gregorian" era="ce">1909, 1911.</unitdate></item>
+ <item>Articles of Incorporation, <unitdate calendar="gregorian" era="ce">April 2, 1910.</unitdate></item>
+ <item>Termination of affiliation with Aero Club of America, <unitdate calendar="gregorian" era="ce">July 14, 1916.</unitdate></item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.2.3">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folders">3-14</container>
+ <unittitle>Correspondence bills, membership applications, and miscellany, <unitdate calendar="gregorian" era="ce">1909-1913.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.2.4">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folders">1-17</container>
+ <unittitle>Correspondence bills, membership applications, and miscellany, <unitdate calendar="gregorian" era="ce">1909-1913.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.2.5">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folders">18-21</container>
+ <unittitle>Local aviation meetings of <unitdate calendar="gregorian" era="ce">1910, 1911-1912, and 1913.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.2.6">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unittitle>Scrapbook of clippings <emph render="italic">re</emph> local aviation meets, <unitdate calendar="gregorian" era="ce">1912-1913.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.2.7">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unittitle>Framed Certification of Articles of Incorporation of Aero Club
+of California, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.3">
+ <did>
+ <unittitle><title linktype="simple">Aviation</title> Magazine and Griffith Aviation Field, [<unitdate calendar="gregorian" era="ce">1909-1963</unitdate>]</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.3.6.2.3.2">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folders">2-18</container>
+ <container type="Box" label="Box">4</container>
+ <unittitle>3 alphabetized book folders <emph render="italic">re</emph> Aviation Publishing Company and Griffith Aviation Field.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Includes correspondence, bills, photographs and biographical notes <emph render="italic">re</emph> flyers, <unitdate calendar="gregorian" era="ce">1909-15.</unitdate></p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.3.3">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folders">1</container>
+ <unittitle>Clippings and correspondence <emph render="italic">re</emph> aviation and Griffith Aviation Park, <unitdate calendar="gregorian" era="ce">1912.</unitdate></unittitle>
+ <physdesc> (In envelope)</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.3.4">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unittitle>Framed photograph of aviator Frank Champion.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.3.5">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unittitle>171 copper plates for photographs published in <title linktype="simple">Aviation</title> magazine.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.3.6">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folders">2</container>
+ <unittitle>Correspondence with Harold E. Morehouse, <unitdate calendar="gregorian" era="ce">1962-1963</unitdate>, and various items as listed on the folder.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.2.4" level="subseries">
+ <did>
+ <unittitle>Books, [<unitdate calendar="gregorian" era="ce">1910-1932</unitdate>]</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.3.6.2.4.2">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folders">3-4</container>
+ <unittitle>Yearbooks. Aero Club of America, <unitdate calendar="gregorian" era="ce">1910, 1911, 1913-1916.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.3">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folders">3</container>
+ <unittitle>Handbook. Aero Club of America, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Advance copy and another copy.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.4">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <unittitle>Hoagland, Roland, W., ed. <title linktype="simple">The Blue Book of Aviation</title>. Los Angeles: The Hoagland Company, <unitdate calendar="gregorian" era="ce">1932.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.5">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <unittitle>Lougheed, Victor. <title linktype="simple">Vehicles of the Air</title> (3rd edition). Chicago: Reilly and Britton Company, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.6">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <unittitle>Hubbard, T.O'B., and others. <title linktype="simple">The Aeroplane</title>. London: Longmans, Green &#x0026; Company, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.7">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <unittitle><title linktype="simple">An account of the exercises on the occasion of the presentation of the Langley Medal... May 6, 1913...</title> Washington, D.C.: the Smithsonian Institution, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.8">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <unittitle>Langley, S.P. and Manley, Charles M. <title linktype="simple">Langley memoir on mechanical flight</title>. Washington, D.C.: the Smithsonian Institution, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.9">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <unittitle>Berrman, A.E. Aviation. London: Methuen &#x0026; Company, &#x0026; New York: G.H. Doran Company, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.10">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <unittitle>National Advisory Committee for Aeronautics. <title linktype="simple">First and second annual reports (1915-1916)</title>. Washington, D.C.: Government Printing Office, <unitdate calendar="gregorian" era="ce">1916 &#x0026; 1917.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.11">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <unittitle>National Advisory Committee for Aeronautics. Report no.13, <title linktype="simple">Meteorology &#x0026; Aeronautics</title>. Washington, D.C.: Government Printing Office, <unitdate calendar="gregorian" era="ce">1917.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.12">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <unittitle>National Advisory Committee for Aeronautics. Report no.14, <title linktype="simple">Experimental Research on Air Propellers</title>. Washington, D.C.: Government Printing Office, <unitdate calendar="gregorian" era="ce">1917.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.13">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <unittitle>Hatfield, D.D. <title linktype="simple">Aeroplane Scrapbook, 1911-1929</title>. Northrup Institute of Technology, <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.14">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <unittitle>8 miscellaneous publications of the U.S. Geological Survey.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.4.15">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>10 miscellaneous brochures and pamphlets.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.2.5" level="subseries">
+ <did>
+ <unittitle>Magazines, [<unitdate calendar="gregorian" era="ce">1910-1930</unitdate>]</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.3.6.2.5.2">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folders">1</container>
+ <unittitle><title linktype="simple">Aviation</title> (<unitdate calendar="gregorian" era="ce">January-November 1911</unitdate>). Los Angeles, Aviation Publishing Company.</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.1, no.1-11.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.3">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <unittitle><title linktype="simple">Aeronautics</title> (<unitdate calendar="gregorian" era="ce">January-September and November-December 1909; January-October and December 1910; April-December 1911; January-March, July and September-November 1912; May-December 1913; January-October 1914; March-July 1915</unitdate>). New York: Aeronautics Press, Incorporated.</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>vol.4, no.1-5.</item>
+ <item>vol.5, no.1-3, 5-6.</item>
+ <item>vol.6, no.1-6.</item>
+ <item>vol.7, no.1-4, 6.</item>
+ <item>vol.8, no.4-6.</item>
+ <item>vol.9, no.1-6.</item>
+ <item>vol.10, no.1-3.</item>
+ <item>vol.11, no.1, 3-5.</item>
+ <item>vol.12, no.5, 6.</item>
+ <item>vol.13, no.1-6.</item>
+ <item>vol.14, no.1-12.</item>
+ <item>vol.15, no.1-8.</item>
+ <item>vol.16, no.1-6, 8.</item>
+ <item>vol.17, no.1-2.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.4">
+ <did>
+ <container type="Box" label="Box">10-11</container>
+ <unittitle><title linktype="simple">Aerial Age</title> (<unitdate calendar="gregorian" era="ce">May-July 1913</unitdate>). Chicago: Aerial Age Publishing Company, Incorporated.</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>vol.1, no.10.</item>
+ <item>vol.2, no.1-2.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.5">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <unittitle>Aerial Age (<unitdate calendar="gregorian" era="ce">March 22, May 10, 24, 31, June 28, July 5 and 19, September 13 and 27, October 18, 1915; January 18, April 24, May 15 and 29, July 10 and 24, September 25, October 9-30, November 13, December 18-25, 1916; January 1, 22-29, February 12, April 2 and 23, May 14 and 28, July 23, August 6, September 3, 1917</unitdate>). New York: Aerial Age Company, Incorporated.</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>vol.1, no.1-8, 10, 11, 15, 16, 18-26.</item>
+ <item>vol.2, no.2-5, 18-26.</item>
+ <item>vol.3, no.1-6, 9, 11-17, 19-26.</item>
+ <item>vol.4, no.1-2, 4-7, 9, 14-16, 19, 20, 22-26.</item>
+ <item>vol.5, no.1-3, 6-9, 11-19, 21-25.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.6">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <unittitle>Aircraft (<unitdate calendar="gregorian" era="ce">March-September, December 1911; January 1912</unitdate>). New York: the Lawson Publishing Company.</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.2, no.1-7, 10, 11.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.7">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <unittitle><title linktype="simple">Aero</title> (<unitdate calendar="gregorian" era="ce">December 10, 1910; October 21, November 11, 18, 1911</unitdate>). St. Louis: Aero Publishing Company.</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>vol.1, no.10.</item>
+ <item>vol.3, no.3, 6, 7.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.8">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <unittitle><title linktype="simple">Flight</title> (<unitdate calendar="gregorian" era="ce">June 17, 1911</unitdate>). London: the Royal Aero Club of the United Kingdom.</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.3, no.24.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.9">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <unittitle><title linktype="simple">Flying</title> (<unitdate calendar="gregorian" era="ce">November 1912-December 1913; January-December 1914; January-June, August-October 1915; February-April, June-September 1916</unitdate>). New York: the Aero Club of America.</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>vol.1, no.10-12.</item>
+ <item>vol.2, no.1-12.</item>
+ <item>vol.3, no.1-12.</item>
+ <item>vol.4, no.1-5, 7-9.</item>
+ <item>vol.5, no.1-3, 5-8.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.10">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Aero Club of America Bulletin</title> (<unitdate calendar="gregorian" era="ce">February/March, April 1912</unitdate>). New York: the Aero Club of America.</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.1, no.2,3.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.11">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">2-4</container>
+ <unittitle><title linktype="simple">Fly</title> (<unitdate calendar="gregorian" era="ce">December 1910; October-December 1911; January, March-April, June, August, September, November, December, 1912; April 1913</unitdate>). Philadelphia: Aero Publishing Company.</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>vol.3, no.2, 12.</item>
+ <item>vol.4, no.1-3, 5, 6, 8, 10, 11.</item>
+ <item>vol.5, no.1-2, 6.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.12">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle><title linktype="simple">The Ace</title> (<unitdate calendar="gregorian" era="ce">April-July, 1922</unitdate>). Los Angeles: the Ace Publishing Company.</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.3,nos. 4-7.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.13">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle><title linktype="simple">Western Flight</title> (<unitdate calendar="gregorian" era="ce">June 14-28, 1913</unitdate>). San Francisco: Irvin C. Keeler.</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.1, no.1-3.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.14">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle><title linktype="simple">Aviation and Aeronautical Engineering</title> (<unitdate calendar="gregorian" era="ce">September 15, 1916</unitdate>). New York: the Gardner, Moffat Company.</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.1, no.4.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.5.15">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle><title linktype="simple">Aviation</title> (<unitdate calendar="gregorian" era="ce">July 5, 1930</unitdate>). New York: McGraw Hill Publishing Company, Incorporated.</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.29, no.1.</p>
+ </scopecontent>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.2.6" level="subseries">
+ <did>
+ <unittitle>Duplicate Magazines, [<unitdate calendar="gregorian" era="ce">1911-1930</unitdate>]</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.3.6.2.6.2">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unittitle><title linktype="simple">Aerial Age</title> (<unitdate calendar="gregorian" era="ce">June 1913</unitdate>).</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.2, no.1.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.6.3">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unittitle><title linktype="simple">Aerial Age</title> (<unitdate calendar="gregorian" era="ce">August 2, October 11, 1915; March, 20, April 3, 1916</unitdate>).</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>vol.1, no.20.</item>
+ <item>vol.2, no.4.</item>
+ <item>vol.3, no.1, 3.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.6.4">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unittitle><title linktype="simple">Aeronautics</title> (<unitdate calendar="gregorian" era="ce">May-July 1911; December 1913</unitdate>).</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>vol.8, no.5, 6.</item>
+ <item>vol.9, no.1.</item>
+ <item>vol.13, no.6.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.6.5">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unittitle><title linktype="simple">Aero Club of America Bulletin</title> (<unitdate calendar="gregorian" era="ce">February/March, April 1912</unitdate>).</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.1, no.2 (2 copies), 3 (5 copies).</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.6.6">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unittitle><title linktype="simple">Aviation</title> (<unitdate calendar="gregorian" era="ce">July 5, 1930</unitdate>).</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.29, no.1.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.6.7">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unittitle><title linktype="simple">Flying</title> (<unitdate calendar="gregorian" era="ce">November 1912; November 1913; March-April 1914</unitdate>).</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>vol.1, no.10.</item>
+ <item>vol.2, no.10 (2 copies).</item>
+ <item>vol.3, no.2-3.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.3.6.2.6.8">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unittitle><title linktype="simple">Western Flight</title> (<unitdate calendar="gregorian" era="ce">June 21, 1913</unitdate>).</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.1, no.2.</p>
+ </scopecontent>
+ </c03>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.3" level="series">
+ <did>
+ <unittitle>Papers <emph render="italic">re</emph> Griffith J. Griffith, [<unitdate calendar="gregorian" era="ce">1896-1967</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.3.2">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Autobiography and biographical accounts, <unitdate calendar="gregorian" era="ce">ca. 1903-1937.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.3">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">Crime and Criminals</title>. Los Angeles: Prison Reform League, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <note>
+ <p>(Chapter 4 by Griffith)</p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.4">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Griffith, Griffith J. <title linktype="simple">Parks, Boulevards and Playgrounds</title>. Los Angeles: Prison Reform League, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.5">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Correspondence and clippings, <unitdate calendar="gregorian" era="ce">1905-1950</unitdate>, including letter from Leo Tolstoy to Griffith, <unitdate calendar="gregorian" era="ce">April 3/16, 1910.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.6">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>Ringbinder of research material compiled by Marion Bowen <emph render="italic">re</emph> Griffith and Rancho Los Feliz, <unitdate calendar="gregorian" era="ce">1937-1950.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.7">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Legal documents <emph render="italic">re</emph> Griffith, including naturalization papers, <unitdate calendar="gregorian" era="ce">1877</unitdate>, copy will filed <unitdate calendar="gregorian" era="ce">1919</unitdate>, correspondence and papers <emph render="italic">re</emph> estate and gifts of property to the City of Los Angeles, <unitdate calendar="gregorian" era="ce">1896-1931.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.8">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle>Articles and clippings <emph render="italic">re</emph> Griffith's park gifts, <unitdate calendar="gregorian" era="ce">1924-1967.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.9">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle>Correspondence <emph render="italic">re</emph> Greek Theatre, <unitdate calendar="gregorian" era="ce">1913-1914.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.10">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle>Correspondence <emph render="italic">re</emph> Hall of Science and Observatory, <unitdate calendar="gregorian" era="ce">1913-14.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.11">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unittitle>11 photographic prints.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.12">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unittitle>2 glass negatives of Griffith.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.4" level="series">
+ <did>
+ <unittitle>Los Feliz Rancho History, [<unitdate calendar="gregorian" era="ce">1845-1973</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.4.2">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Abstract of title, <unitdate calendar="gregorian" era="ce">1845-1887.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.3">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <container type="Folder" label="Folder">2-3</container>
+ <unittitle>Miscellaneous deeds and legal papers including abstract of title, schedule of deeds and field notes, <unitdate calendar="gregorian" era="ce">1871-1896.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.4">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Pictures and articles <emph render="italic">re</emph> 2 adobe buildings, <unitdate calendar="gregorian" era="ce">ca. 1912-1921.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.5">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unittitle>2 framed pictures of adobe buildings.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.6">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Agreement to dig for treasure, <unitdate calendar="gregorian" era="ce">1896</unitdate>, and miscellaneous articles <emph render="italic">re</emph> history of the rancho, <unitdate calendar="gregorian" era="ce">1930-1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.7">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unittitle>Printed map of the Old Spanish and Mexican Ranchos of Los Angeles
+County.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.5">
+ <did>
+ <unittitle>Griffith Park, [<unitdate calendar="gregorian" era="ce">1917-1970s</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.5.2">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">1-4</container>
+ <unittitle>Miscellaneous correspondence, clippings and magazine articles, <unitdate calendar="gregorian" era="ce">1922-70s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.5.3">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle>Clippings and correspondence <emph render="italic">re</emph> Park Commission and 1928 National Park Convention, <unitdate calendar="gregorian" era="ce">1917-1939.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.5.4">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle>Miscellaneous articles <emph render="italic">re</emph> saving public parks, <unitdate calendar="gregorian" era="ce">1963-1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.5.5">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle>Clippings and correspondence <emph render="italic">re</emph> Park Water System and fire protection, <unitdate calendar="gregorian" era="ce">1898-1957.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.5.6">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">8-11</container>
+ <unittitle>Clippings, correspondence and papers <emph render="italic">re</emph> controversial decisions, <unitdate calendar="gregorian" era="ce">1916-1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.5.7">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">12</container>
+ <unittitle>Clippings <emph render="italic">re</emph> proposed projects not authorized, <unitdate calendar="gregorian" era="ce">1953-1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.5.8">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">13-20</container>
+ <unittitle>Clippings, brochures, correspondence and miscellany <emph render="italic">re</emph> features of Griffith Park, <unitdate calendar="gregorian" era="ce">1931-1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.5.9">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">21</container>
+ <unittitle>7 photographs of Griffith Park.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.5.10">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unittitle>6 Architect's drawings (Sketches 1-6) of proposed entrance to Mt. Hollywood Road, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.6">
+ <did>
+ <unittitle>Greek Theatre, [<unitdate calendar="gregorian" era="ce">1912-1975</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.6.2">
+ <did>
+ <container type="Box" label="Box">18</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Correspondence, copy minutes, dedicatory program and miscellany, <unitdate calendar="gregorian" era="ce">1912-1962.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.3">
+ <did>
+ <container type="Box" label="Box">18</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Clippings, <unitdate calendar="gregorian" era="ce">1930-1975.</unitdate></unittitle>
+ <physdesc> (In envelope)</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.4">
+ <did>
+ <container type="Box" label="Box">18</container>
+ <container type="Folder" label="Folder">3-4</container>
+ <unittitle>Correspondence, clippings and papers <emph render="italic">re</emph> development proposals, <unitdate calendar="gregorian" era="ce">1951-1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.5">
+ <did>
+ <container type="Box" label="Box">18</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle>2 photographic prints.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.6">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unittitle>Architect's sketch of Theatre.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.7" level="series">
+ <did>
+ <unittitle>Hall of Science and Industry, [<unitdate calendar="gregorian" era="ce">1912-1975</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.7.2">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Correspondence, copy minutes, reports and agreement and miscellaneous papers, <unitdate calendar="gregorian" era="ce">1912-1962.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.7.3">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Miscellaneous pictures and sketches.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.7.4">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>Brochures and programs, <unitdate calendar="gregorian" era="ce">ca. 1912-1955.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.7.5">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Clippings, <unitdate calendar="gregorian" era="ce">1930s-1960s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.7.6">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">5-7</container>
+ <unittitle><title linktype="simple">Griffith Observer</title> (<unitdate calendar="gregorian" era="ce">February 1937-December 1975</unitdate>).</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.1, no.1-vol.39, no.12 (incomplete run).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.7.7">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle>Resolution by City Council on twentieth anniversary of Observatory, <unitdate calendar="gregorian" era="ce">1955.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.7.8">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle>3 photographic negatives and 1 print.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.7.9">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unittitle>1 photographic print.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.8">
+ <did>
+ <unittitle>Los Angeles Park System, [<unitdate calendar="gregorian" era="ce">1891-1913</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.8.2">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <container type="Folder" label="Folder">1-8</container>
+ <unittitle>Correspondence and clippings <emph render="italic">re</emph> park system and personalities, <unitdate calendar="gregorian" era="ce">1891-1970s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.3">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle>11 photographic prints of various parks.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.4">
+ <did>
+ <container type="Box" label="Box">31</container>
+ <unittitle>2 albums, photographs of various parks, <unitdate calendar="gregorian" era="ce">1911-1913.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.9" level="series">
+ <did>
+ <unittitle>Van M. Griffith and Park Work, [<unitdate calendar="gregorian" era="ce">1915-1923</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.9.2">
+ <did>
+ <container type="Box" label="Box">21</container>
+ <container type="Folder" label="Folder">1-6</container>
+ <unittitle>Clippings, photographs, record books and miscellany, <unitdate calendar="gregorian" era="ce">1915-1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.9.3">
+ <did>
+ <container type="Box" label="Box">21</container>
+ <container type="Folder" label="Folder">1-6</container>
+ <unittitle>Ledger, <unitdate calendar="gregorian" era="ce">1915-1923</unitdate>; printing block.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.10">
+ <did>
+ <unittitle>Law Suits to Protect Griffith Park Property, [<unitdate calendar="gregorian" era="ce">1946-1960</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.10.2">
+ <did>
+ <container type="Box" label="Box">22-24</container>
+ <unittitle>Correspondence, legal papers and clippings, <unitdate calendar="gregorian" era="ce">1946-1960.</unitdate></unittitle>
+ <physdesc> (21 folders)</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.11">
+ <did>
+ <unittitle>Park Board, [<unitdate calendar="gregorian" era="ce">September 1930-December 1931</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.11.2">
+ <did>
+ <container type="Box" label="Box">25</container>
+ <unittitle>Copy minutes, <unitdate calendar="gregorian" era="ce">September 1930-December 1931</unitdate> (gaps).</unittitle>
+ <physdesc> (14 folders)</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.12" level="series">
+ <did>
+ <unittitle>Books and Reports Relating to Parks, [<unitdate calendar="gregorian" era="ce">1969 and n.d.</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.12.2">
+ <did>
+ <container type="Box" label="Box">26</container>
+ <unittitle>[No further description available].</unittitle>
+ <physdesc> (30 items)</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.12.3">
+ <did>
+ <container type="Box" label="Box">31</container>
+ <unittitle>Griffith park coster plan, <unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.13" level="series">
+ <did>
+ <unittitle>Grand Jury Papers, [<unitdate calendar="gregorian" era="ce">1934-1970s</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.13.2">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Manual for grand jurors in the City of New York. Grand Jury Association, New York County Fund Corporation, <unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.3">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Reports of 1934 Los Angeles County Grand Jury. List of proposed grand jurors, <unitdate calendar="gregorian" era="ce">1934.</unitdate></unittitle>
+ <physdesc> (Bound volume)</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.4">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>Final Report of 1936 Los Angeles County Grand Jury.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.5">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>List of jurors, roster, notes of evidence, clippings, interim and final reports, <unitdate calendar="gregorian" era="ce">1949</unitdate> Los Angeles County Grand Jury.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.6">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle>Clippings and final report, <unitdate calendar="gregorian" era="ce">1951</unitdate> Los Angeles County Grand Jury.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.7">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle>Clippings and final report, <unitdate calendar="gregorian" era="ce">1952</unitdate> Los Angeles County Grand Jury.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.8">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <container type="Folder" label="Folder">7-12</container>
+ <unittitle>Clippings, correspondence, various lists and miscellaneous items <emph render="italic">re</emph> County Grand juries, <unitdate calendar="gregorian" era="ce">1937-71, n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.9">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <container type="Folder" label="Folder">13</container>
+ <unittitle>Clippings and ephemera <emph render="italic">re</emph> the grand jury system, <unitdate calendar="gregorian" era="ce">1937-1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.10">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unittitle>Photographic print of <unitdate calendar="gregorian" era="ce">1950</unitdate> Grand Jury.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.11">
+ <did>
+ <container type="Box" label="Box">28</container>
+ <container type="Folder" label="Folder">1-6</container>
+ <unittitle>Correspondence, reports, clippings and papers <emph render="italic">re</emph><unitdate calendar="gregorian" era="ce">1950</unitdate> County Grand Jury.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.13.12">
+ <did>
+ <container type="Box" label="Box">28</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle>Correspondence, clippings and papers <emph render="italic">re</emph><unitdate calendar="gregorian" era="ce">1955</unitdate> Federal Grand Jury.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.14">
+ <did>
+ <unittitle>Miscellaneous Publications, [<unitdate calendar="gregorian" era="ce">1912</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.14.2">
+ <did>
+ <container type="Box" label="Box">28</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle><title linktype="simple">Sports</title><unitdate calendar="gregorian" era="ce">{February 22, March 2, 1912</unitdate>).</unittitle>
+ </did>
+ <scopecontent>
+ <p>vol.1, no.1-2.</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.15">
+ <did>
+ <unittitle>Memorabilia and Miscellaneous, [<unitdate calendar="gregorian" era="ce">1922-1955</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.15.2">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unittitle>Resolution, Board of Park Commissioners to retiring Board President, <unitdate calendar="gregorian" era="ce">1930.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.15.3">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unittitle>2 certificates of appointment of Van M. Griffith as member of Board of Park Commissioners, <unitdate calendar="gregorian" era="ce">1922, 1927.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.15.4">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unittitle>Plaque awarded to Van M Griffith as Foreman of the <unitdate calendar="gregorian" era="ce">1955</unitdate> Federal Grand Jury of Southern California.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.16" level="series">
+ <did>
+ <unittitle>Constance Griffith Papers, [<unitdate calendar="gregorian" era="ce">1951-1953 and n.d.</unitdate>]</unittitle>
+ </did>
+ <c02 level="item" id="c02-1.3.6.16.2">
+ <did>
+ <container type="Box" label="Box">33</container>
+ <unittitle>League of Women Voters study, Civil Liberty &#x0026; Security (<unitdate calendar="gregorian" era="ce">1952</unitdate>), Review of LWV Study &#x0026; Action (<unitdate calendar="gregorian" era="ce">1953</unitdate>).</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.6.16.3">
+ <did>
+ <container type="Box" label="Box">34</container>
+ <unittitle>Civil liberties studies approved, challenged, <unitdate calendar="gregorian" era="ce">August 14 and 21, 1951.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.6.16.4">
+ <did>
+ <container type="Box" label="Box">35</container>
+ <unittitle>Implementing the study of Civil Liberties &#x0026; Security, <unitdate calendar="gregorian" era="ce">1951-1952.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.6.16.5">
+ <did>
+ <container type="Box" label="Box">36</container>
+ <unittitle>Foundation of Freedoms Institute, <unitdate calendar="gregorian" era="ce">March 1, 1952</unitdate>, Controversy over UNESCO</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.6.16.6">
+ <did>
+ <container type="Box" label="Box">37</container>
+ <unittitle>Foundation Freedom Institute and kit, controversy over UNESCO resignations, <unitdate calendar="gregorian" era="ce">1952-1953.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.6.16.7">
+ <did>
+ <container type="Box" label="Box">38</container>
+ <unittitle>Constance Griffith letters, <unitdate calendar="gregorian" era="ce">1943-1949.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.6.16.8">
+ <did>
+ <container type="Box" label="Box">50</container>
+ <unittitle>Silverlake unit.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.6.16.9">
+ <did>
+ <container type="Box" label="Box">51</container>
+ <unittitle>Politics -- state &#x0026; local goverment.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.6.16.10">
+ <did>
+ <container type="Box" label="Box">68</container>
+ <unittitle>Personal papers.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.6.16.11">
+ <did>
+ <container type="Box" label="Box">97-99</container>
+ <unittitle>University extension classes.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.17">
+ <did>
+ <unittitle>[League of Women Voters, <unitdate calendar="gregorian" era="ce">1947-1963</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.17.2">
+ <did>
+ <container type="Box" label="Box">40</container>
+ <unittitle>State &#x0026; national, <unitdate calendar="gregorian" era="ce">1947-1960.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.3">
+ <did>
+ <container type="Box" label="Box">41</container>
+ <unittitle>Los Angeles, <unitdate calendar="gregorian" era="ce">1947-1948.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.4">
+ <did>
+ <container type="Box" label="Box">43</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1948-1949.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.5">
+ <did>
+ <container type="Box" label="Box">44</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1949-1950.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.6">
+ <did>
+ <container type="Box" label="Box">45</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1950-1951.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.7">
+ <did>
+ <container type="Box" label="Box">46</container>
+ <unittitle>Los Angeles, <unitdate calendar="gregorian" era="ce">1951-1952</unitdate>, mental health, miscellany -- civil liberties.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.8">
+ <did>
+ <container type="Box" label="Box">47</container>
+ <unittitle>Los Angeles, <unitdate calendar="gregorian" era="ce">1954-1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.9">
+ <did>
+ <container type="Box" label="Box">48</container>
+ <unittitle>Los Angeles, <unitdate calendar="gregorian" era="ce">1940-1953.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.10">
+ <did>
+ <container type="Box" label="Boxes">53-58, 64-65</container>
+ <unittitle>[No further description available].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.11">
+ <did>
+ <container type="Box" label="Boxes">60, 63</container>
+ <unittitle>Local government study.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.12">
+ <did>
+ <container type="Box" label="Box">70-72</container>
+ <unittitle>Local, <unitdate calendar="gregorian" era="ce">1941-1951.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.13">
+ <did>
+ <container type="Box" label="Boxes">80-82</container>
+ <unittitle>League of Women Voters and local government study materials, <unitdate calendar="gregorian" era="ce">1944-1948, 1945-1951.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.17.14">
+ <did>
+ <container type="Box" label="Box">83-85</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1945-1951.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.18">
+ <did>
+ <unittitle>[Miscellaneous, <unitdate calendar="gregorian" era="ce">v.d.</unitdate>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.18.2">
+ <did>
+ <container type="Box" label="Box">32</container>
+ <unittitle>Van Griffith correspondence, papers, clippings.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.3">
+ <did>
+ <container type="Box" label="Box">38</container>
+ <unittitle>Beverly Hills-Wilshire separation, <unitdate calendar="gregorian" era="ce">1941-1943.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.4">
+ <did>
+ <container type="Box" label="Box">39</container>
+ <unittitle>Clippings <emph render="italic">re</emph> civil liberties, <unitdate calendar="gregorian" era="ce">1946-1953.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.5">
+ <did>
+ <container type="Box" label="Box">48</container>
+ <unittitle>Education, housing, health, structure of goverment.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.6">
+ <did>
+ <container type="Box" label="Box">49</container>
+ <unittitle>Silverlake, <unitdate calendar="gregorian" era="ce">1947-1951</unitdate>, community survey.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.7">
+ <did>
+ <container type="Box" label="Box">52</container>
+ <unittitle>Removal of Van [Griffith] as police commissioner.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.8">
+ <did>
+ <container type="Box" label="Box">59</container>
+ <unittitle>Clippings &#x0026; articles on early aviation, <unitdate calendar="gregorian" era="ce">1920s-1930s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.9">
+ <did>
+ <container type="Box" label="Box">61</container>
+ <unittitle>Clippings &#x0026; pamphlets about parks.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.10">
+ <did>
+ <container type="Box" label="Box">62</container>
+ <unittitle>Unidentified.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.11">
+ <did>
+ <container type="Box" label="Box">67</container>
+ <unittitle>Los Angeles county &#x0026; city.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.12">
+ <did>
+ <container type="Box" label="Box">73</container>
+ <unittitle>Citizens Research Institute -- seal &#x0026; address cards.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.13">
+ <did>
+ <container type="Box" label="Boxes">74, 77</container>
+ <unittitle>Local government, <unitdate calendar="gregorian" era="ce">1952.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.14">
+ <did>
+ <container type="Box" label="Boxes">69, 75</container>
+ <unittitle>Fundamentals of government.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.15">
+ <did>
+ <container type="Box" label="Box">76</container>
+ <unittitle>Unidentified [&#x201C;1 letter from Norris Poulson&#x201D;].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.16">
+ <did>
+ <container type="Box" label="Boxes">66, 78-79, 95-96, 107-108</container>
+ <unittitle>Police Commission.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.17">
+ <did>
+ <container type="Box" label="Boxes">86-89</container>
+ <unittitle>Politics -- State &#x0026; Local Government, <unitdate calendar="gregorian" era="ce">1947-1951.</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.18.17.2">
+ <did>
+ <container type="Box" label="Box">86</container>
+ <unittitle>Photograph of Griffith J. Griffith, printed material.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.18.17.3">
+ <did>
+ <container type="Box" label="Box">87-88</container>
+ <unittitle>[No further description available].</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.18.17.4">
+ <did>
+ <container type="Box" label="Box">89</container>
+ <unittitle>Publications.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.18">
+ <did>
+ <container type="Box" label="Box">91</container>
+ <unittitle>Publications.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.19">
+ <did>
+ <container type="Box" label="Boxes">92-94, 100-104</container>
+ <unittitle>Citizens Research Institute.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.20">
+ <did>
+ <container type="Box" label="Boxes">105-106</container>
+ <unittitle>Parks, Griffith trust fund, elections.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.21">
+ <did>
+ <container type="Box" label="Boxes">109-117</container>
+ <unittitle>Print blocks.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.18.22">
+ <did>
+ <container type="Box" label="Box">118</container>
+ <unittitle>Articles of incorporation.</unittitle>
+ <physdesc> (1 item)</physdesc>
+ </did>
+ </c02>
+ </c01>
+ </dsc>
+ <separatedmaterial id="separatedmaterial-1.8.7">
+ <head>Items Removed from Collection</head>
+ <p>
+ <list type="simple">
+ <item>64 glass negatives and 14 photographic negatives of aviators and aircraft [in small metal box].</item>
+ </list>
+ </p>
+ <p>[Items have not been placed in a box that can be requested. Consult Manuscripts Librarian for access.]</p>
+ </separatedmaterial>
+ </archdesc>
+</ead>
