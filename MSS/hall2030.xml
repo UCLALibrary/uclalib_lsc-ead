@@ -1,1255 +1,427 @@
-<?xml version="1.0"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
-<ead>
- 
- 
- 
- 
- 
- <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="unverified-full-draft"><eadid countrycode="us" identifier="ark:/13030/kt9c60230k" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT (US::CLU-SC::2030::Halleck, Peachy &#x0026; Billings Records)//EN&quot; &quot;hall2030.xml&quot;">hall2030.xml</eadid><filedesc>
- <titlestmt>
- <titleproper>Finding Aid of the Halleck, Peachy &#x0026; Billings Records</titleproper><titleproper type="filing">Halleck, Peachy &#x0026; Billings Records</titleproper>
- <author/>
- </titlestmt>
- <publicationstmt>
- <date calendar="gregorian" era="ce">&#xA9; 2004</date>
- <p>The Regents of the University of California. All rights reserved.</p>
- </publicationstmt>
- </filedesc><profiledesc>
- <creation>Machine-readable finding aid created by ByteManagers using OAC finding aid conversion service specifications.
-Machine-readable finding aid derived from in-house paper finding aid.
-Date of source: <date calendar="gregorian" era="ce"/></creation>
- <langusage>
- <language>English</language>
- </langusage>
- </profiledesc><revisiondesc>
- <change>
- <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
- <item>PUBLIC "-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT (US::CLU-SC::2030::Halleck, Peachy &#x0026; Billings Records)//EN" "hall2030.xml" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
- </change>
- </revisiondesc></eadheader>
- <frontmatter>
- <titlepage>
- <titleproper>Finding Aid of the Halleck, Peachy &#x0026; Billings Records</titleproper>
- <publisher>UCLA Library, Department of Special Collections
-<lb/>Manuscripts Division<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
- <list type="deflist">
- <defitem>
- <label>Processed by:</label>
- <item>Manuscripts Division staff</item>
- </defitem>
- <defitem>
- <label>Finding aid revided by:</label>
- <item>Grace Bertalot under the supervision of Saundra Taylor, December 1973</item>
- </defitem>
- <defitem>
- <label>Encoded by:</label>
- <item>ByteManagers using OAC finding aid conversion service specifications</item>
- </defitem>
- <defitem>
- <label>Encoding supervision and revision by:</label>
- <item>Caroline Cub&#xE9;</item>
- </defitem>
- <defitem>
- <label>Edited by:</label>
- <item>Josh Fiala, September 2004</item>
- </defitem>
- </list>
- <p>&#xA9; 2004 The Regents of the University of California. All rights reserved.</p>
- </titlepage>
- </frontmatter>
- <archdesc level="collection">
- <did id="did-1.8.1">
- <head>Descriptive Summary</head>
- <unittitle label="Title">Halleck, Peachy &#x0026; Billings Records, </unittitle>
-<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1842/1862">1842-1862</unitdate>
- <unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2030</unitid>
- <origination label="Creator" encodinganalog="100">
- <persname source="lcnaf">Halleck, Peachy &#x0026; Billings (Firm)</persname>
- </origination>
- <physdesc label="Extent" encodinganalog="300"><extent>7 boxes (3.5 linear ft.)</extent>
-<extent>1 carton (1 linear ft.)</extent></physdesc>
- <repository label="Repository">
- <corpname source="lcnaf">University of California, Los Angeles. Library.
-Department of Special Collections.</corpname>
- <address>
- <addressline>Los Angeles, California 90095-1575</addressline>
- </address>
- </repository>
- <abstract label="Abstract">Halleck, Peachy &#x0026; Billings was one of the leading San Francisco law firms in the settlement of titles to Mexican land grants. The firm was dissolved in 1861. The collection contains correspondence, mainly relating to land litigation of Halleck, Peachy &#x0026; Billings, with documents and dise&#xF1;os (originals, copies, and translations) used in the settlement of the claims. Also contains papers in various legal cases, some concerning ships, Chinese immigration and the San Francisco funding bill, as well as a few accounts and some tax records.</abstract>
- <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
- <langmaterial label="Language">
- <language langcode="eng">English.</language>
- </langmaterial>
- </did>
- <descgrp type="admininfo" id="descgrp-1.8.2">
- <head>Administrative Information</head>
- <accessrestrict encodinganalog="506">
- <head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</p>
- <p>Originals restricted. Use microfilm copy only.</p>
- </accessrestrict>
- <userestrict encodinganalog="540">
- <head>Restrictions on Use and Reproduction</head>
- <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
-copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
- </userestrict>
- <prefercite>
- <head>Preferred Citation</head>
- <p>[Identification of item], Halleck, Peachy &#x0026; Billings Records (Collection 2030). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
- </prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233109">4233109</extref></p>
-</odd>
- <acqinfo encodinganalog="541">
- <head>Provenance/Source of Acquisition</head>
- <p>
- <list type="simple">
- <item>John Howell Books, purchase, 1948.</item>
- <item>Collection previously in the libraries of Robert Ernest Cowan and T.W. Norris.</item>
- </list>
- </p>
- </acqinfo>
- </descgrp>
- <bioghist encodinganalog="545" id="bioghist-1.8.3">
- <head>Biography</head>
- <p>Halleck, Peachy &#x0026; Billings was one of the leading San Francisco law firms in the settlement of titles to Mexican land grants; Frederick Billings arrived in San Francisco in 1849; he immediately established a law practice, and soon formed a partnership with Archibald C. Peachy; Peachy later became a member of the California State Assembly in 1852, and of the State Senate in 1860 and 1862; Henry Wager Halleck graduated in engineering from West point, participated in the Mexican War, and later prepared a report on California land titles; became an active member of the California Constitutional Convention; he resigned from the army and joined the law firm in 1854, compiling his books: The mining laws of Spain and Mexico, and International law; returned to the U.S. Army in 1860, later becoming a general during the Civil War; the firm was dissolved in 1861.</p>
- </bioghist>
- <scopecontent encodinganalog="520" id="scopecontent-1.8.4">
- <head>Scope and Content</head>
- <p>Collection contains correspondence, mainly relating to land litigation of Halleck, Peachy &#x0026; Billings, with documents and dise&#xF1;os (originals, copies, and translations) used in the settlement of the claims. Also contains papers in various legal cases, some concerning ships, Chinese immigration and the San Francisco funding bill, as well as a few accounts and some tax records. Includes files on the settlement of the William Alexander Leidesdorff and Joseph L. Folsom estates. Contains a small group of correspondence and papers relating to Henry Wager Halleck's military career, 1847-56, and manuscript drafts and notes for his History of California.</p>
- </scopecontent>
- <controlaccess id="controlaccess-1.8.6">
- <head>Indexing Terms</head>
- <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
- <controlaccess>
-<head>Subjects</head>
- <persname source="lcnaf" encodinganalog="600">Halleck, H.W. (Henry Wager), 1815-1872--Archives.</persname>
- <corpname source="lcnaf" encodinganalog="610">Halleck, Peachy &#x0026; Billings (Firm)--Archives.</corpname>
- <subject source="lcsh" encodinganalog="650">Law firms--California--San Francisco--Archival resources.</subject>
- </controlaccess>
- </controlaccess>
- <index>
- <head>Partial Index to Correspondents in Collection</head>
- <indexentry>
- <name>Alsop &#x0026; Chauncey</name>
- <ref linktype="simple">letter to: Box 6, folder 15</ref>
- </indexentry>
- <indexentry>
- <name>Bahneberg, Mr.</name>
- <ref linktype="simple">Box 6, folder 16, 18</ref>
- </indexentry>
- <indexentry>
- <name>Barnes, James</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Barron, William E.</name>
- <ref linktype="simple">Box 4, folders 1, 2</ref>
- </indexentry>
- <indexentry>
- <name>Barron, Forbes &#x0026; Company</name>
- <ref linktype="simple">letter to: Box 4, folder 1</ref>
- </indexentry>
- <indexentry>
- <name>Billings, Frederick</name>
- <ref linktype="simple">Box 1, folders 2, 3; Box 4, folder 1</ref>
- </indexentry>
- <indexentry>
- <name>Bradford, A.C.</name>
- <ref linktype="simple">Box 1, folder 4</ref>
- </indexentry>
- <indexentry>
- <name>Bradley, Mr.</name>
- <ref linktype="simple">letter to: Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Brannan, Samuel</name>
- <ref linktype="simple">Box 6, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Burch, John Chilton</name>
- <ref linktype="simple">Box 4, folder 2</ref>
- </indexentry>
- <indexentry>
- <name>Calverwell, Stephen L.</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Carillo, Anastasio</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Carter, Bernard</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Cross &#x0026; Company</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Crowell, William H.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>de la Rosa, Luis</name>
- <ref linktype="simple">Box 6, folder 15</ref>
- </indexentry>
- <indexentry>
- <name>Duncan, Sherman &#x0026; Company</name>
- <ref linktype="simple">Box 6, folder 18; letter to: Box 6, folder 14</ref>
- </indexentry>
- <indexentry>
- <name>Dupuy, A.</name>
- <ref linktype="simple">Box 6, folder 15</ref>
- </indexentry>
- <indexentry>
- <name>Durfee &#x0026; Myers</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Ender, E.</name>
- <ref linktype="simple">Box 4, folder 2</ref>
- </indexentry>
- <indexentry>
- <name>Folsom, Joseph</name>
- <ref linktype="simple">Box 6, folder 13, 14; letter to: Box 6, folders 15-18</ref>
- </indexentry>
- <indexentry>
- <name>Forbes, Alexander</name>
- <ref linktype="simple">Box 4, folder 2</ref>
- </indexentry>
- <indexentry>
- <name>Forbes, James Alexander</name>
- <ref linktype="simple">Box 4, folder 2; Box 6, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Forrest, S.T.</name>
- <ref linktype="simple">Box 6, folder 19</ref>
- </indexentry>
- <indexentry>
- <name>Fourgeaud, V.J.</name>
- <ref linktype="simple">Box 6, folder 17</ref>
- </indexentry>
- <indexentry>
- <name>Goodhue &#x0026; Company</name>
- <ref linktype="simple">letter to: Box 4, folder 1</ref>
- </indexentry>
- <indexentry>
- <name>Grannis, G.W.</name>
- <ref linktype="simple">memoranda: Box 5, folder 1</ref>
- </indexentry>
- <indexentry>
- <name>Gray, J.B.</name>
- <ref linktype="simple">Box 4, folder 2</ref>
- </indexentry>
- <indexentry>
- <name>Grim, A.K.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Guerrero, Francisco</name>
- <ref linktype="simple">Box 6, folder 2; letter to: Box 6, folder 1</ref>
- </indexentry>
- <indexentry>
- <name>Gwin, William M.</name>
- <ref linktype="simple">letters to: Box 4, folder 2; Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Halleck, Henry Wager</name>
- <ref linktype="simple">Box 4, folder 1; Box 6, folder 15</ref>
- </indexentry>
- <indexentry>
- <name>Hansen [governor-general]</name>
- <ref linktype="simple">letter to: Box 6, folder 13</ref>
- </indexentry>
- <indexentry>
- <name>Hardie, James A.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Harrison, John</name>
- <ref linktype="simple">Box 6, folder 18</ref>
- </indexentry>
- <indexentry>
- <name>Hendricks, Thomas</name>
- <ref linktype="simple">Box 1, folder 6; Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Hennen, Duncan</name>
- <ref linktype="simple">Box 6, folder 19</ref>
- </indexentry>
- <indexentry>
- <name>Hill, Richard</name>
- <ref linktype="simple">letter to: Box 6, folder 15</ref>
- </indexentry>
- <indexentry>
- <name>Humphreys, Joshua J.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Huse, Charles E.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Inge, Samuel William</name>
- <ref linktype="simple">Box 6, folder 19</ref>
- </indexentry>
- <indexentry>
- <name>Jesup, Thomas Sidney</name>
- <ref linktype="simple">letter to: Box 6, folder 14</ref>
- </indexentry>
- <indexentry>
- <name>Larkin, Thomas Oliver</name>
- <ref linktype="simple">Box 6, folder 3</ref>
- </indexentry>
- <indexentry>
- <name>Latham, Milton S.</name>
- <ref linktype="simple">Box 1, folder 1; letter to: Box 4, folder 2</ref>
- </indexentry>
- <indexentry>
- <name>Latham &#x0026; Aldrich</name>
- <ref linktype="simple">letter to: Box 6, folder 14</ref>
- </indexentry>
- <indexentry>
- <name>Leidesdorff, William Alexander</name>
- <ref linktype="simple">Box 6, folder 1; letters to: Box 6, folders 2-6</ref>
- </indexentry>
- <indexentry>
- <name>Loomis, Charles</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Mackay, J.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Mackay, W.R. Isaacs</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>McMurray, R.O.</name>
- <ref linktype="simple">Box 1, folder 5</ref>
- </indexentry>
- <indexentry>
- <name>Marcy, William Learned</name>
- <ref linktype="simple">letter to: Box 6, folder 1</ref>
- </indexentry>
- <indexentry>
- <name>Meredith, I.W.S.</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Miner &#x0026; Haynes</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Montgomery, John B.</name>
- <ref linktype="simple">Box 6, folder 4</ref>
- </indexentry>
- <indexentry>
- <name>Morgan, John</name>
- <ref linktype="simple">Box 6, folder 18</ref>
- </indexentry>
- <indexentry>
- <name>Morrison, James</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>M&#xFC;ller, C.</name>
- <ref linktype="simple">Box 6, folder 15</ref>
- </indexentry>
- <indexentry>
- <name>O'Connor, Cornelius</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Olmstead, Horace</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Naglee, Henry M.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Pairo, A.W.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Parrott, Juan</name>
- <ref linktype="simple">Box 6, folder 15</ref>
- </indexentry>
- <indexentry>
- <name>Peralta, Antonio Maria</name>
- <ref linktype="simple">Box 6, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Pickett, Mr.</name>
- <ref linktype="simple">Box 6, folder 17</ref>
- </indexentry>
- <indexentry>
- <name>Revere, Joseph Warren</name>
- <ref linktype="simple">Box 6, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Robinson, J.P.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Rogers, Mrs.</name>
- <ref linktype="simple">Letter to: Box 6, folder 13</ref>
- </indexentry>
- <indexentry>
- <name>Rogers, D.</name>
- <ref linktype="simple">Box 6, folder 15-17</ref>
- </indexentry>
- <indexentry>
- <name>Rogers, S.R.</name>
- <ref linktype="simple">Box 6, folder 16</ref>
- </indexentry>
- <indexentry>
- <name>Sanders &#x0026; Brenham</name>
- <ref linktype="simple">Box 6, folder 19</ref>
- </indexentry>
- <indexentry>
- <name>Scott, Charles L.</name>
- <ref linktype="simple">letter to: Box 4, folder 2</ref>
- </indexentry>
- <indexentry>
- <name>Sherman, Edwin A.</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Sherwood, John</name>
- <ref linktype="simple">Box 6, folder 18; letter to: Box 6, folder 15</ref>
- </indexentry>
- <indexentry>
- <name>Smith, James Broom</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Smith, S.A.</name>
- <ref linktype="simple">Box 1, folder 1</ref>
- </indexentry>
- <indexentry>
- <name>Smith, Stephen</name>
- <ref linktype="simple">Box 6, folder 5</ref>
- </indexentry>
- <indexentry>
- <name>Snydam, Reed &#x0026; Company</name>
- <ref linktype="simple">Box 6, folders 15-19; letters to: Box 6, folders 13, 14, 16-17</ref>
- </indexentry>
- <indexentry>
- <name>Southall, A.G.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Stimson, Robert J.</name>
- <ref linktype="simple">Box 6, folder 19</ref>
- </indexentry>
- <indexentry>
- <name>Suter, Lee &#x0026; Company</name>
- <ref linktype="simple">Box 6, folder 19</ref>
- </indexentry>
- <indexentry>
- <name>Sutter, John Augustus</name>
- <ref linktype="simple">Box 6, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Taliaferro, Alfred W.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Wakeman, A.C.</name>
- <ref linktype="simple">letter to: Box 6, folder 19</ref>
- </indexentry>
- <indexentry>
- <name>Watson, J.R.</name>
- <ref linktype="simple">Box 1, folder 6</ref>
- </indexentry>
- <indexentry>
- <name>Wilson, James B.</name>
- <ref linktype="simple">Box 1, folder 6; Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Wise, Tully R.</name>
- <ref linktype="simple">Box 4, folder 2</ref>
- </indexentry>
- <indexentry>
- <name>Woodliff, Thomas</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- <indexentry>
- <name>Yale, Gregory</name>
- <ref linktype="simple">Box 4, folder 1; Box 6, folder 20 letters to: Box 4, folders 1-2</ref>
- </indexentry>
- <indexentry>
- <name>Young, P.R.</name>
- <ref linktype="simple">Box 6, folder 20</ref>
- </indexentry>
- </index>
- <relatedmaterial>
- <head>Related Material</head>
- <p>
- <extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt6f59r1cc" actuate="onrequest" show="new">Halleck, Peachy &#x0026; Billings correspondence and papers (Collection 102)
- </extref>. Available at Department of Special Collections, UCLA.</p>
- </relatedmaterial>
- <dsc type="in-depth" id="dsc-1.8.7">
- <head>Container List</head>
- <c01 level="series" id="c01-1.3.7.2">
- <did>
- <unittitle>Various Cases</unittitle>
- </did>
- <c02 level="file" id="c02-1.3.7.2.2">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">1</container>
- <unittitle>Letters from Halleck, Peachy, &#x0026; Billings to various persons, <unitdate calendar="gregorian" era="ce">1855-60.</unitdate></unittitle>
- <physdesc> (3 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.3">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">2</container>
- <unittitle>Letters from Frederick Billings to Alfred Barstow, <unitdate calendar="gregorian" era="ce">1866-69.</unitdate></unittitle>
- <physdesc> (24 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.4">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">3</container>
- <unittitle>Frederick Billings - papers relating to his official appointments, <unitdate calendar="gregorian" era="ce">1848-55.</unitdate></unittitle>
- <physdesc> (14 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.5">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">4</container>
- <unittitle>Letters from A.C. Bradford to Halleck, Peachy &#x0026; Billings, <unitdate calendar="gregorian" era="ce">1857-58.</unitdate></unittitle>
- <physdesc> (9 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.6">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">5</container>
- <unittitle>Letters from R.O. McMurray to Halleck, Peachy and Billings, <unitdate calendar="gregorian" era="ce">1851-53.</unitdate></unittitle>
- <physdesc> (14 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.7">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">6</container>
- <unittitle>Letters from various persons to Halleck, Peachy &#x0026; Billings, <unitdate calendar="gregorian" era="ce">1849-60.</unitdate></unittitle>
- <physdesc> (34 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.8">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">7</container>
- <unittitle>City of San Francisco: claim to Pueblo Lands, prosecuted before the Land Commission - correspondence and papers, <unitdate calendar="gregorian" era="ce">1834-54.</unitdate></unittitle>
- <physdesc> (16 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.9">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">8</container>
- <unittitle>John A. Sutter, Jr: sale of Sacramento property to Archibald Peachy - papers, <unitdate calendar="gregorian" era="ce">1839, 1848-49.</unitdate></unittitle>
- <physdesc> (5 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.10">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">9</container>
- <unittitle>Mary H. Machett <emph render="italic">vs.</emph> Stephen W. Tichenor - correspondence and papers, <unitdate calendar="gregorian" era="ce">1842-52.</unitdate></unittitle>
- <physdesc> (7 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.11">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">10</container>
- <unittitle>U. S. Marine Hospital, Rincon Point - correspondence relating to, <unitdate calendar="gregorian" era="ce">1847-57.</unitdate></unittitle>
- <physdesc> (25 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.12">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">11</container>
- <unittitle>Alcalde Levanworth: grants of San Francisco property - papers, <unitdate calendar="gregorian" era="ce">1849-52.</unitdate></unittitle>
- <physdesc> (6 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.13">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">12</container>
- <unittitle>Henry Hill <emph render="italic">vs.</emph> Charles Botts - correspondence and papers, <unitdate calendar="gregorian" era="ce">1849-55.</unitdate></unittitle>
- <physdesc> (16 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.14">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">13</container>
- <unittitle>Henry Hill <emph render="italic">vs.</emph> Charles Botts - correspondence and papers, <unitdate calendar="gregorian" era="ce">1856-59.</unitdate></unittitle>
- <physdesc> (25 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.15">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">14</container>
- <unittitle>Thomas W. Hardy estate - correspondence and papers, <unitdate calendar="gregorian" era="ce">1850-68.</unitdate></unittitle>
- <physdesc> (19 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.16">
- <did>
- <container type="Box" label="Box">1</container>
- <container type="Folder" label="Folder">15</container>
- <unittitle>Street assessment cases, San Francisco - papers, <unitdate calendar="gregorian" era="ce">1851 and n.d.</unitdate></unittitle>
- <physdesc> (16 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.17">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">1</container>
- <unittitle>Daniel C. Callahan, property in Sacramento - mortgages and other papers, <unitdate calendar="gregorian" era="ce">1851-62.</unitdate></unittitle>
- <physdesc> (26 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.18">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">2</container>
- <unittitle>Joaquin Carrillo <emph render="italic">et al.</emph>, claimants for Rancho Llano de Santa Rosa - papers, <unitdate calendar="gregorian" era="ce">1852-60.</unitdate></unittitle>
- <physdesc> (5 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.19">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">3</container>
- <unittitle>Rancho Jesus Maria: claim of John G. Parish, James M. Harkin, <emph render="italic">et al.</emph> - papers, <unitdate calendar="gregorian" era="ce">1854-55.</unitdate></unittitle>
- <physdesc> (13 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.20">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">4</container>
- <unittitle>Rancho La Visitacion Ca&#xF1;ada de Guadalupe y Rodeo Viejo, <unitdate calendar="gregorian" era="ce">1854-59.</unitdate></unittitle>
- <physdesc> (4 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.21">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">5</container>
- <unittitle>Rancho Refugio: claim of Juan and Francisco Bolcoff [no.214 (Land Commission)] - papers, <unitdate calendar="gregorian" era="ce">ca. 1855.</unitdate></unittitle>
- <physdesc> (4 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.22">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">6</container>
- <unittitle>Noah E. Smith <emph render="italic">vs.</emph> William F. Roelofson, involving the latter's interest in the Union Mining and Trading Company, Starr, Binsley &#x0026; Company, Sacramento, and F. Vassault &#x0026; Company, San Francisco - depositions on Roelofson's behalf and other papers, <unitdate calendar="gregorian" era="ce">1855-56.</unitdate></unittitle>
- <physdesc> (11 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.23">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">7</container>
- <unittitle>William A. Pfeiffer - mortgage papers, <unitdate calendar="gregorian" era="ce">1855-60.</unitdate></unittitle>
- <physdesc> (6 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.24">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">8</container>
- <unittitle>C. Morrill <emph render="italic">vs.</emph> G.R. Garretson: reclamation against Garretson's account - correspondence and papers, <unitdate calendar="gregorian" era="ce">1856-59.</unitdate></unittitle>
- <physdesc> (6 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.25">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">9</container>
- <unittitle>Grant Hudson <emph render="italic">vs.</emph> Northern <emph render="italic">et al.</emph> - depositions and testimony, <unitdate calendar="gregorian" era="ce">1856-59.</unitdate></unittitle>
- <physdesc> (1 vol.)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.26">
- <did>
- <container type="Box" label="Box">2</container>
- <container type="Folder" label="Folder">10</container>
- <unittitle>David C. Broderick estate: claims of David Hawkes Broderick and John Broderick - correspondence and papers, <unitdate calendar="gregorian" era="ce">1856-60.</unitdate></unittitle>
- <physdesc> (8 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.27">
- <did>
- <container type="Box" label="Box">3</container>
- <container type="Folder" label="Folder">1</container>
- <unittitle>Accounts, notes, receipts, etc., <unitdate calendar="gregorian" era="ce">1849-60.</unitdate></unittitle>
- <physdesc> (22 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.2.28">
- <did>
- <container type="Box" label="Box">3</container>
- <container type="Folder" label="Folder">2</container>
- <unittitle>Articles and reports relating to land titles, land law, transportation and trade in sparsely settled areas of the West, mining claims, and a list of a U.S. Grand Jury in San Francisco.</unittitle>
- <physdesc> (16 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="subseries" id="c02-1.3.7.2.29">
- <did>
- <unittitle>Various Legal Matters Handled by Halleck, Peachy &#x0026; Billings</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.2.29.2">
- <did>
- <container type="Box" label="Box">3</container>
- <container type="Folder" label="Folder">3</container>
- <unittitle>Correspondence and papers, <unitdate calendar="gregorian" era="ce">1851-58.</unitdate></unittitle>
- <physdesc> (47 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.2.29.3">
- <did>
- <container type="Box" label="Box">3</container>
- <container type="Folder" label="Folder">4</container>
- <unittitle>Correspondence and papers, <unitdate calendar="gregorian" era="ce">1859-61 and n.d.</unitdate></unittitle>
- <physdesc> (21 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.2.29.4">
- <did>
- <container type="Box" label="Box">3</container>
- <container type="Folder" label="Folder">5</container>
- <unittitle>Journals, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
- <physdesc> (2 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 id="c02-1.3.7.2.30" level="subseries">
- <did>
- <unittitle>Land Claims - Memoranda and Abstracts, Chiefly in Halleck's Handwriting, Transactions <unitdate calendar="gregorian" era="ce">ca. 1835-55</unitdate>, no.1-172</unittitle>
- </did>
- <note>
- <p>(Some numbers missing)</p>
- </note>
- <c03 level="item" id="c03-1.3.7.2.30.3">
- <did>
- <container type="Box" label="Box">3</container>
- <container type="Folder" label="Folder">6</container>
- <unittitle>no.1-54.</unittitle>
- <physdesc> (50 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.2.30.4">
- <did>
- <container type="Box" label="Box">3</container>
- <container type="Folder" label="Folder">7</container>
- <unittitle>no.55-100.</unittitle>
- <physdesc> (45 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.2.30.5">
- <did>
- <container type="Box" label="Box">3</container>
- <container type="Folder" label="Folder">8</container>
- <unittitle>no.101-172.</unittitle>
- <physdesc> (45 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- </c01>
- <c01 level="series" id="c01-1.3.7.3">
- <did>
- <unittitle>Almaden Claim</unittitle>
-<unitdate calendar="gregorian" era="ce">1848-60</unitdate>
- </did>
- <c02 level="file" id="c02-1.3.7.3.2">
- <did>
- <container type="Box" label="Box">4</container>
- <container type="Folder" label="Folder">1</container>
- <unittitle>Halleck, Peachy &#x0026; Billings - letters sent, <unitdate calendar="gregorian" era="ce">1858-60.</unitdate></unittitle>
- <physdesc> (31 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.3.3">
- <did>
- <container type="Box" label="Box">4</container>
- <container type="Folder" label="Folder">2</container>
- <unittitle>Letters between, various persons, including some to Halleck, Peachy &#x0026; Billings, <unitdate calendar="gregorian" era="ce">1848-60.</unitdate></unittitle>
- <physdesc> (13 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.3.4">
- <did>
- <container type="Box" label="Box">4</container>
- <container type="Folder" label="Folder">3</container>
- <unittitle>Legal papers concerning the case, <unitdate calendar="gregorian" era="ce">1847-59.</unitdate></unittitle>
- <physdesc> (16 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.3.5">
- <did>
- <container type="Box" label="Box">4</container>
- <container type="Folder" label="Folder">4</container>
- <unittitle>Argument for the claim - manuscript draft.</unittitle>
- <physdesc> (253 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="file" id="c02-1.3.7.3.6">
- <did>
- <container type="Box" label="Box">4</container>
- <container type="Folder" label="Folder">5</container>
- <unittitle>Argument for the claim - manuscript draft of the printed argument.</unittitle>
- <physdesc> (12 pieces)</physdesc>
- </did>
- </c02>
- </c01>
- <c01 level="series" id="c01-1.3.7.4">
- <did>
- <unittitle>
- <title linktype="simple">The William Alexander Leidesdorff &#x0026; Joseph Libbey Folsom Estates</title>
- </unittitle>
- </did>
- <c02 level="file" id="c02-1.3.7.4.2">
- <did>
- <container type="Box" label="Box">5</container>
- <container type="Folder" label="Folder">1</container>
- <unittitle>G.W. Granniss. Memorandum relating to the Leidesdorff Estate.</unittitle>
- <physdesc> (2 pieces)</physdesc>
- </did>
- </c02>
- <c02 level="subseries" id="c02-1.3.7.4.3">
- <did>
- <unittitle>Working Papers of Halleck, Peachy &#x0026; Billings Regarding the Settlement of the Two Estates, Containing, Manuscript Notes, etc.</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.4.3.2">
- <did>
- <container type="Box" label="Box">5</container>
- <container type="Folder" label="Folder">2</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1850-51.</unitdate></unittitle>
- <physdesc> (18 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.4.3.3">
- <did>
- <container type="Box" label="Box">5</container>
- <container type="Folder" label="Folder">3</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1851-56.</unitdate></unittitle>
- <physdesc> (29 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.4.3.4">
- <did>
- <container type="Box" label="Box">5</container>
- <container type="Folder" label="Folder">4</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1857-63.</unitdate></unittitle>
- <physdesc> (24 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 id="c02-1.3.7.4.4" level="subseries">
- <did>
- <unittitle>Legal Documents, Agreements, etc., Concerning the two Estates</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.4.4.2">
- <did>
- <container type="Box" label="Box">5</container>
- <container type="Folder" label="Folder">5</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1847-50.</unitdate></unittitle>
- <physdesc> (37 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.4.4.3">
- <did>
- <container type="Box" label="Box">5</container>
- <container type="Folder" label="Folder">6</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1851.</unitdate></unittitle>
- <physdesc> (15 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.4.4.4">
- <did>
- <container type="Box" label="Box">5</container>
- <container type="Folder" label="Folder">7</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1852.</unitdate></unittitle>
- <physdesc> (12 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.4.4.5">
- <did>
- <container type="Box" label="Box">5</container>
- <container type="Folder" label="Folder">8</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1853-54.</unitdate></unittitle>
- <physdesc> (7 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- </c01>
- <c01 level="series" id="c01-1.3.7.5">
- <did>
- <unittitle>Papers Concerning the Leidesdorff Estate</unittitle>
- </did>
- <c02 id="c02-1.3.7.5.2" level="subseries">
- <did>
- <unittitle>Correspondence</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.5.2.2">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">1</container>
- <unittitle>Letters from William A. Leidesdorff to various persons, <unitdate calendar="gregorian" era="ce">1846-47.</unitdate></unittitle>
- <physdesc> (2 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.5.2.3">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">2</container>
- <unittitle>Letters from Francisco Guerrero to Leidesdorff, <unitdate calendar="gregorian" era="ce">1846.</unitdate></unittitle>
- <physdesc> (3 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.5.2.4">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">3</container>
- <unittitle>Letters from Thomas Oliver Larkin to Leidesdorff, <unitdate calendar="gregorian" era="ce">1845-46.</unitdate></unittitle>
- <physdesc> (2 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.5.2.5">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">4</container>
- <unittitle>Letters from John B. Montgomery to Leidesdorff, <unitdate calendar="gregorian" era="ce">1846.</unitdate></unittitle>
- <physdesc> (5 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.5.2.6">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">5</container>
- <unittitle>Letters from Stephen Smith to Leidesdorff, <unitdate calendar="gregorian" era="ce">1847-48.</unitdate></unittitle>
- <physdesc> (4 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.5.2.7">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">6</container>
- <unittitle>Letters from various persons to Leidesdorff, <unitdate calendar="gregorian" era="ce">1846-48.</unitdate></unittitle>
- <physdesc> (5 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 id="c02-1.3.7.5.3" level="subseries">
- <did>
- <unittitle>Legal Documents</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.5.3.2">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">7</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1854-55.</unitdate></unittitle>
- <physdesc> (17 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.5.3.3">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">8</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1856-59.</unitdate></unittitle>
- <physdesc> (12 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 id="c02-1.3.7.5.4" level="subseries">
- <did>
- <unittitle>Accounts and Bills, Mainly Relating to the Leidesdorff Estate</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.5.4.2">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">9</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1841-47.</unitdate></unittitle>
- <physdesc> (27 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.5.4.3">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">10</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1848.</unitdate></unittitle>
- <physdesc> (65 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.5.4.4">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">11</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1849.</unitdate></unittitle>
- <physdesc> (47 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.5.4.5">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">12</container>
- <unittitle>
- <unitdate calendar="gregorian" era="ce">1850-51 and n.d.</unitdate>
- </unittitle>
- <physdesc> (21 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- </c01>
- <c01 id="c01-1.3.7.6" level="series">
- <did>
- <unittitle>Papers Concerning the Folsom Estate</unittitle>
- </did>
- <c02 id="c02-1.3.7.6.2" level="subseries">
- <did>
- <unittitle>Letters from Joseph L. Folsom to Various Persons</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.6.2.2">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">13</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1849-51.</unitdate></unittitle>
- <physdesc> (14 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.2.3">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">14</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1852-54.</unitdate></unittitle>
- <physdesc> (6 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 id="c02-1.3.7.6.3" level="subseries">
- <did>
- <unittitle>Letters from Various Persons to Joseph L. Folsom</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.6.3.2">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">15</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1849-June 1851.</unitdate></unittitle>
- <physdesc> (14 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.3.3">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">16</container>
- <unittitle><unitdate calendar="gregorian" era="ce">July-December 1851.</unitdate></unittitle>
- <physdesc> (13 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.3.4">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">17</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1852-53.</unitdate></unittitle>
- <physdesc> (8 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.3.5">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">18</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1854-55.</unitdate></unittitle>
- <physdesc> (14 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 id="c02-1.3.7.6.4" level="subseries">
- <did>
- <unittitle>Letters Received by Halleck. Peachy, and P. Warren Van Winkle, Executors of the Estate, Relating to its Administration</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.6.4.2">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">19</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1850-56.</unitdate></unittitle>
- <physdesc> (12 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.4.3">
- <did>
- <container type="Box" label="Box">6</container>
- <container type="Folder" label="Folder">20</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1857-62.</unitdate></unittitle>
- <physdesc> (12 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 level="subseries" id="c02-1.3.7.6.5">
- <did>
- <unittitle>American and Union Theaters, San Francisco</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.6.5.2">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">1</container>
- <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1852-55.</unitdate></unittitle>
- <physdesc> (5 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.5.3">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">2</container>
- <unittitle>Legal papers, <unitdate calendar="gregorian" era="ce">1854-55.</unitdate></unittitle>
- <physdesc> (13 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.5.4">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">3</container>
- <unittitle>Legal papers, <unitdate calendar="gregorian" era="ce">1856 and n.d.</unitdate></unittitle>
- <physdesc> (13 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 level="subseries" id="c02-1.3.7.6.6">
- <did>
- <unittitle>Folsom as Assistant Quarter Master, San Francisco: Settlement of Accounts</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.6.6.2">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">4</container>
- <unittitle>Papers, <unitdate calendar="gregorian" era="ce">1847-52.</unitdate></unittitle>
- <physdesc> (38 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 level="subseries" id="c02-1.3.7.6.7">
- <did>
- <unittitle>Tehama House Boarding House. San Francisco: Papers and Accounts</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.6.7.2">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">5</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1852.</unitdate></unittitle>
- <physdesc> (47 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.7.3">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">6</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1853-54.</unitdate></unittitle>
- <physdesc> (38 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.7.4">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">7</container>
- <unittitle>
- <unitdate calendar="gregorian" era="ce">1855 and n.d.</unitdate>
- </unittitle>
- <physdesc> (36 pieces)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 id="c02-1.3.7.6.8" level="subseries">
- <did>
- <unittitle>Settlement of the Folsom Estate: Bills and Accounts</unittitle>
- </did>
- <c03 level="item" id="c03-1.3.7.6.8.2">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">8</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1848-51.</unitdate></unittitle>
- <physdesc> (61 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.8.3">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">9</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1852-53.</unitdate></unittitle>
- <physdesc> (58 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.8.4">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">10</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1854.</unitdate></unittitle>
- <physdesc> (42 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.8.5">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">11</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1855.</unitdate></unittitle>
- <physdesc> (78 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.8.6">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">12</container>
- <unittitle>
- <unitdate calendar="gregorian" era="ce">1856-60 and n.d.</unitdate>
- </unittitle>
- <physdesc> (25 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.8.7">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">13</container>
- <unittitle>City, State and County taxes - various lists, <unitdate calendar="gregorian" era="ce">1851/52-1855/56.</unitdate></unittitle>
- <physdesc> (11 pieces)</physdesc>
- </did>
- </c03>
- <c03 level="item" id="c03-1.3.7.6.8.8">
- <did>
- <container type="Box" label="Box">7</container>
- <container type="Folder" label="Folder">14</container>
- <unittitle>Account books, <unitdate calendar="gregorian" era="ce">1852-55, 1871-77.</unitdate></unittitle>
- <physdesc> (4 volumes)</physdesc>
- </did>
- </c03>
- </c02>
- <c02 level="file" id="c02-1.3.7.6.9">
- <did>
- <container type="Box" label="Oversize Box">8</container>
- <unittitle>Empty strong-box (with key) which originally contained part of the Halleck, Peachy, and Billings papers.</unittitle>
- </did>
- </c02>
- </c01>
- </dsc>
- </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/kt9c60230k/">hall2030.xml</eadid><filedesc><titlestmt><titleproper type="filing">Halleck, Peachy &amp; Billings Records</titleproper><titleproper>Finding Aid of the Halleck, Peachy &amp; Billings Records <num>LSC.2030</num></titleproper></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>© 2004</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-04-24 11:53:27 -0700</date>.</creation><langusage>Finding aid is in <language>English</language></langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Halleck, Peachy &amp; Billings records</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="local">Halleck, Peachy &amp; Billings (Firm)</corpname>
+    </origination>
+    <unitid>LSC.2030</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+      <extent altrender="carrier">(7 boxes)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(1 carton)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1842/1862" type="inclusive">1842-1862</unitdate>
+    <abstract id="aspace_d87948f4ea451fa69c5ed74fe7a647cf" label="Abstract">Halleck, Peachy &amp; Billings was one of the leading San Francisco law firms in the settlement of titles to Mexican land grants. The firm was dissolved in 1861. The collection contains correspondence, mainly relating to land litigation of Halleck, Peachy &amp; Billings, with documents and diseños (originals, copies, and translations) used in the settlement of the claims. Also contains papers in various legal cases, some concerning ships, Chinese immigration and the San Francisco funding bill, as well as a few accounts and some tax records.</abstract>
+    <physloc id="aspace_e6bad20732420073c875f881e381383e">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_f790a34ab58fd466c7f43482f437f25b">Materials are in English.</langmaterial>
+  </did>
+  <dao xlink:actuate="onRequest" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00092ggz" xlink:show="new" xlink:title="Halleck, Peachy &amp; Billings Records (1 item)" xlink:type="simple">
+    <daodesc><p>Halleck, Peachy &amp; Billings Records (1 item)</p></daodesc>
+  </dao>
+  <accessrestrict id="aspace_69d4be207a35707186cc82858e3913b1">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p><p>Portions of this collection (originals) are restricted. Use microfilm only.</p>  </accessrestrict>
+  <userestrict id="aspace_c43a6f42db53d07800490cbe2f139931">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_fb80c2bb013868dc3addffad85525530">
+    <head>Provenance/Source of Acquisition</head>
+<p><list type="simple"><item>John Howell Books, purchase, 1948.</item><item>Collection previously in the libraries of Robert Ernest Cowan and T.W. Norris.</item></list></p>  </acqinfo>
+  <odd id="aspace_4f0d2b7d38daff2f61712c9f41bb1562">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9942331093606533">9942331093606533</extref></p>  </odd>
+  <prefercite id="aspace_cdf9f215e8d46dc51d0b8f6375aaa95b">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Halleck, Peachy &amp; Billings Records (Collection 2030). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_d24df4542571ca3296f5a27d056fe8b7">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special
+Collections.</extref></p>  </processinfo>
+  <bioghist id="aspace_d24a28ddc2e2cbc1c93f7dffdd627fe1">
+    <head>Biography</head>
+<p>Halleck, Peachy &amp; Billings was one of the leading San Francisco law firms in the settlement of titles to Mexican land grants; Frederick Billings arrived in San Francisco in 1849; he immediately established a law practice, and soon formed a partnership with Archibald C. Peachy; Peachy later became a member of the California State Assembly in 1852, and of the State Senate in 1860 and 1862; Henry Wager Halleck graduated in engineering from West point, participated in the Mexican War, and later prepared a report on California land titles; became an active member of the California Constitutional Convention; he resigned from the army and joined the law firm in 1854, compiling his books: The mining laws of Spain and Mexico, and International law; returned to the U.S. Army in 1860, later becoming a general during the Civil War; the firm was dissolved in 1861.</p>  </bioghist>
+  <scopecontent id="aspace_6d00ed3c22f3592604bc6ef6540e60ea">
+    <head>Scope and Content</head>
+<p>Collection contains correspondence, mainly relating to land litigation of Halleck, Peachy &amp; Billings, with documents and diseños (originals, copies, and translations) used in the settlement of the claims. Also contains papers in various legal cases, some concerning ships, Chinese immigration and the San Francisco funding bill, as well as a few accounts and some tax records. Includes files on the settlement of the William Alexander Leidesdorff and Joseph L. Folsom estates. Contains a small group of correspondence and papers relating to Henry Wager Halleck's military career, 1847-56, and manuscript drafts and notes for his History of California.</p>  </scopecontent>
+  <relatedmaterial id="aspace_4d329c1954d1a5c6636ae2bad285c27a">
+    <head>Related Material</head>
+<p><extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.oac.cdlib.org/findaid/ark:/13030/kt6f59r1cc">Halleck, Peachy &amp; Billings correspondence and papers (Collection 102) </extref>. Available at UCLA Library Special Collections.</p>  </relatedmaterial>
+  <altformavail id="aspace_1e0cef90d1fa18a734cb5ae6faf6fad1">
+    <head>Online Items Available</head>
+<p>Portions of this collection have been digitized and are available online:
+<extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00092ggz">Halleck, Peachy &amp; Billings Records (1 item)</extref>.</p>  </altformavail>
+  <index id="aspace_6a284b636db9a922b85bb93359ab374e">
+    <head>Partial Index to Correspondents in Collection</head>
+    <indexentry>
+      <name>Alsop &amp; Chauncey</name>
+      <ref>letter to: Box 6, folder 15</ref>
+    </indexentry>
+    <indexentry>
+      <name>Bahneberg, Mr.</name>
+      <ref>Box 6, folder 16, 18</ref>
+    </indexentry>
+    <indexentry>
+      <name>Barnes, James</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Barron, William E.</name>
+      <ref>Box 4, folders 1, 2</ref>
+    </indexentry>
+    <indexentry>
+      <name>Barron, Forbes &amp; Company</name>
+      <ref>letter to: Box 4, folder 1</ref>
+    </indexentry>
+    <indexentry>
+      <name>Billings, Frederick</name>
+      <ref>Box 1, folders 2, 3; Box 4, folder 1</ref>
+    </indexentry>
+    <indexentry>
+      <name>Bradford, A.C.</name>
+      <ref>Box 1, folder 4</ref>
+    </indexentry>
+    <indexentry>
+      <name>Bradley, Mr.</name>
+      <ref>letter to: Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Brannan, Samuel</name>
+      <ref>Box 6, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Burch, John Chilton</name>
+      <ref>Box 4, folder 2</ref>
+    </indexentry>
+    <indexentry>
+      <name>Calverwell, Stephen L.</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Carillo, Anastasio</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Carter, Bernard</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Cross &amp; Company</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Crowell, William H.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>de la Rosa, Luis</name>
+      <ref>Box 6, folder 15</ref>
+    </indexentry>
+    <indexentry>
+      <name>Duncan, Sherman &amp; Company</name>
+      <ref>Box 6, folder 18; letter to: Box 6, folder 14</ref>
+    </indexentry>
+    <indexentry>
+      <name>Dupuy, A.</name>
+      <ref>Box 6, folder 15</ref>
+    </indexentry>
+    <indexentry>
+      <name>Durfee &amp; Myers</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Ender, E.</name>
+      <ref>Box 4, folder 2</ref>
+    </indexentry>
+    <indexentry>
+      <name>Folsom, Joseph</name>
+      <ref>Box 6, folder 13, 14; letter to: Box 6, folders 15-18</ref>
+    </indexentry>
+    <indexentry>
+      <name>Forbes, Alexander</name>
+      <ref>Box 4, folder 2</ref>
+    </indexentry>
+    <indexentry>
+      <name>Forbes, James Alexander</name>
+      <ref>Box 4, folder 2; Box 6, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Forrest, S.T.</name>
+      <ref>Box 6, folder 19</ref>
+    </indexentry>
+    <indexentry>
+      <name>Fourgeaud, V.J.</name>
+      <ref>Box 6, folder 17</ref>
+    </indexentry>
+    <indexentry>
+      <name>Goodhue &amp; Company</name>
+      <ref>letter to: Box 4, folder 1</ref>
+    </indexentry>
+    <indexentry>
+      <name>Grannis, G.W.</name>
+      <ref>memoranda: Box 5, folder 1</ref>
+    </indexentry>
+    <indexentry>
+      <name>Gray, J.B.</name>
+      <ref>Box 4, folder 2</ref>
+    </indexentry>
+    <indexentry>
+      <name>Grim, A.K.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Guerrero, Francisco</name>
+      <ref>Box 6, folder 2; letter to: Box 6, folder 1</ref>
+    </indexentry>
+    <indexentry>
+      <name>Gwin, William M.</name>
+      <ref>letters to: Box 4, folder 2; Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Halleck, Henry Wager</name>
+      <ref>Box 4, folder 1; Box 6, folder 15</ref>
+    </indexentry>
+    <indexentry>
+      <name>Hansen [governor-general]</name>
+      <ref>letter to: Box 6, folder 13</ref>
+    </indexentry>
+    <indexentry>
+      <name>Hardie, James A.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Harrison, John</name>
+      <ref>Box 6, folder 18</ref>
+    </indexentry>
+    <indexentry>
+      <name>Hendricks, Thomas</name>
+      <ref>Box 1, folder 6; Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Hennen, Duncan</name>
+      <ref>Box 6, folder 19</ref>
+    </indexentry>
+    <indexentry>
+      <name>Hill, Richard</name>
+      <ref>letter to: Box 6, folder 15</ref>
+    </indexentry>
+    <indexentry>
+      <name>Humphreys, Joshua J.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Huse, Charles E.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Inge, Samuel William</name>
+      <ref>Box 6, folder 19</ref>
+    </indexentry>
+    <indexentry>
+      <name>Jesup, Thomas Sidney</name>
+      <ref>letter to: Box 6, folder 14</ref>
+    </indexentry>
+    <indexentry>
+      <name>Larkin, Thomas Oliver</name>
+      <ref>Box 6, folder 3</ref>
+    </indexentry>
+    <indexentry>
+      <name>Latham, Milton S.</name>
+      <ref>Box 1, folder 1; letter to: Box 4, folder 2</ref>
+    </indexentry>
+    <indexentry>
+      <name>Latham &amp; Aldrich</name>
+      <ref>letter to: Box 6, folder 14</ref>
+    </indexentry>
+    <indexentry>
+      <name>Leidesdorff, William Alexander</name>
+      <ref>Box 6, folder 1; letters to: Box 6, folders 2-6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Loomis, Charles</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Mackay, J.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Mackay, W.R. Isaacs</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>McMurray, R.O.</name>
+      <ref>Box 1, folder 5</ref>
+    </indexentry>
+    <indexentry>
+      <name>Marcy, William Learned</name>
+      <ref>letter to: Box 6, folder 1</ref>
+    </indexentry>
+    <indexentry>
+      <name>Meredith, I.W.S.</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Miner &amp; Haynes</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Montgomery, John B.</name>
+      <ref>Box 6, folder 4</ref>
+    </indexentry>
+    <indexentry>
+      <name>Morgan, John</name>
+      <ref>Box 6, folder 18</ref>
+    </indexentry>
+    <indexentry>
+      <name>Morrison, James</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Müller, C.</name>
+      <ref>Box 6, folder 15</ref>
+    </indexentry>
+    <indexentry>
+      <name>O'Connor, Cornelius</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Olmstead, Horace</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Naglee, Henry M.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Pairo, A.W.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Parrott, Juan</name>
+      <ref>Box 6, folder 15</ref>
+    </indexentry>
+    <indexentry>
+      <name>Peralta, Antonio Maria</name>
+      <ref>Box 6, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Pickett, Mr.</name>
+      <ref>Box 6, folder 17</ref>
+    </indexentry>
+    <indexentry>
+      <name>Revere, Joseph Warren</name>
+      <ref>Box 6, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Robinson, J.P.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Rogers, Mrs.</name>
+      <ref>Letter to: Box 6, folder 13</ref>
+    </indexentry>
+    <indexentry>
+      <name>Rogers, D.</name>
+      <ref>Box 6, folder 15-17</ref>
+    </indexentry>
+    <indexentry>
+      <name>Rogers, S.R.</name>
+      <ref>Box 6, folder 16</ref>
+    </indexentry>
+    <indexentry>
+      <name>Sanders &amp; Brenham</name>
+      <ref>Box 6, folder 19</ref>
+    </indexentry>
+    <indexentry>
+      <name>Scott, Charles L.</name>
+      <ref>letter to: Box 4, folder 2</ref>
+    </indexentry>
+    <indexentry>
+      <name>Sherman, Edwin A.</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Sherwood, John</name>
+      <ref>Box 6, folder 18; letter to: Box 6, folder 15</ref>
+    </indexentry>
+    <indexentry>
+      <name>Smith, James Broom</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Smith, S.A.</name>
+      <ref>Box 1, folder 1</ref>
+    </indexentry>
+    <indexentry>
+      <name>Smith, Stephen</name>
+      <ref>Box 6, folder 5</ref>
+    </indexentry>
+    <indexentry>
+      <name>Snydam, Reed &amp; Company</name>
+      <ref>Box 6, folders 15-19; letters to: Box 6, folders 13, 14, 16-17</ref>
+    </indexentry>
+    <indexentry>
+      <name>Southall, A.G.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Stimson, Robert J.</name>
+      <ref>Box 6, folder 19</ref>
+    </indexentry>
+    <indexentry>
+      <name>Suter, Lee &amp; Company</name>
+      <ref>Box 6, folder 19</ref>
+    </indexentry>
+    <indexentry>
+      <name>Sutter, John Augustus</name>
+      <ref>Box 6, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Taliaferro, Alfred W.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Wakeman, A.C.</name>
+      <ref>letter to: Box 6, folder 19</ref>
+    </indexentry>
+    <indexentry>
+      <name>Watson, J.R.</name>
+      <ref>Box 1, folder 6</ref>
+    </indexentry>
+    <indexentry>
+      <name>Wilson, James B.</name>
+      <ref>Box 1, folder 6; Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Wise, Tully R.</name>
+      <ref>Box 4, folder 2</ref>
+    </indexentry>
+    <indexentry>
+      <name>Woodliff, Thomas</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+    <indexentry>
+      <name>Yale, Gregory</name>
+      <ref>Box 4, folder 1; Box 6, folder 20 letters to: Box 4, folders 1-2</ref>
+    </indexentry>
+    <indexentry>
+      <name>Young, P.R.</name>
+      <ref>Box 6, folder 20</ref>
+    </indexentry>
+  </index>
+  <controlaccess>
+    <subject source="lcsh">Law firms -- California -- San Francisco -- Archives.</subject>
+    <persname rules="aacr" source="naf">Halleck, H.W. (Henry Wager)</persname>
+    <persname source="naf">Halleck, H.W. (Henry Wager), 1815-1872--Archives.</persname>
+    <corpname source="local">Halleck, Peachy &amp; Billings (Firm)--Archives.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref12_adv" level="series"><did><unittitle>Various Cases</unittitle></did><c02 id="aspace_ref13_ucd" level="file"><did><unittitle>Letters from Halleck, Peachy, &amp; Billings to various persons,</unittitle><unitdate datechar="creation">1855-60.</unitdate><physdesc id="aspace_8771789140f9bc421ed7de207e24046a" label="General Physical Description note">(3 pieces)</physdesc><container id="aspace_6638d8d8b62ac6d58843623687b8d4c1" label="Mixed Materials" type="box">1</container><container id="aspace_70808426ec330ebcab1321da06c67b9f" parent="aspace_6638d8d8b62ac6d58843623687b8d4c1" type="folder">1</container></did></c02><c02 id="aspace_ref15_vd8" level="file"><did><unittitle>Letters from Frederick Billings to Alfred Barstow,</unittitle><unitdate datechar="creation">1866-69.</unitdate><physdesc id="aspace_780122733f3edf489692f4c99930907d" label="General Physical Description note">(24 pieces)</physdesc><container id="aspace_e14e5037a1227673e3d376aad5fa91cd" label="Mixed Materials" type="box">1</container><container id="aspace_c78c99986aafbd9be7291c5a80a43746" parent="aspace_e14e5037a1227673e3d376aad5fa91cd" type="folder">2</container></did></c02><c02 id="aspace_ref17_v6l" level="file"><did><unittitle>Frederick Billings - papers relating to his official appointments,</unittitle><unitdate datechar="creation">1848-55.</unitdate><physdesc id="aspace_746a87b8e940d6706bcddba192daca70" label="General Physical Description note">(14 pieces)</physdesc><container id="aspace_c67d9e46423e17e92797c1f65da4a559" label="Mixed Materials" type="box">1</container><container id="aspace_22f64c08a5614f4ac8cde146d68b90f0" parent="aspace_c67d9e46423e17e92797c1f65da4a559" type="folder">3</container></did></c02><c02 id="aspace_ref19_nqk" level="file"><did><unittitle>Letters from A.C. Bradford to Halleck, Peachy &amp; Billings,</unittitle><unitdate datechar="creation">1857-58.</unitdate><physdesc id="aspace_ff312c3434551f009110fafc8bc6052d" label="General Physical Description note">(9 pieces)</physdesc><container id="aspace_fd4ea2c6a7350d7f9a260a38e7815297" label="Mixed Materials" type="box">1</container><container id="aspace_93acf2bbad50e2cc3d33cff5e418a7a6" parent="aspace_fd4ea2c6a7350d7f9a260a38e7815297" type="folder">4</container></did></c02><c02 id="aspace_ref21_43m" level="file"><did><unittitle>Letters from R.O. McMurray to Halleck, Peachy and Billings,</unittitle><unitdate datechar="creation">1851-53.</unitdate><physdesc id="aspace_f69839691f3109a5d5e067e73c3279be" label="General Physical Description note">(14 pieces)</physdesc><container id="aspace_49f55209db0a5ffc985b9f3a75133c1a" label="Mixed Materials" type="box">1</container><container id="aspace_e852d5c3c6181172debd83a4a6ce9dfd" parent="aspace_49f55209db0a5ffc985b9f3a75133c1a" type="folder">5</container></did></c02><c02 id="aspace_ref23_5xh" level="file"><did><unittitle>Letters from various persons to Halleck, Peachy &amp; Billings,</unittitle><unitdate datechar="creation">1849-60.</unitdate><physdesc id="aspace_0e055a290662995bf69220dcbb6165a5" label="General Physical Description note">(34 pieces)</physdesc><container id="aspace_c43f73625aa0331cb6266ffbb5223464" label="Mixed Materials" type="box">1</container><container id="aspace_3903459330908871261406afd56cd31e" parent="aspace_c43f73625aa0331cb6266ffbb5223464" type="folder">6</container></did></c02><c02 id="aspace_ref25_g26" level="file"><did><unittitle>City of San Francisco: claim to Pueblo Lands, prosecuted before the Land Commission - correspondence and papers,</unittitle><unitdate datechar="creation">1834-54.</unitdate><physdesc id="aspace_49c2c1068d72c221646517c0e36de31b" label="General Physical Description note">(16 pieces)</physdesc><container id="aspace_ea1a56f98085576a9cefd295650c32aa" label="Mixed Materials" type="box">1</container><container id="aspace_d68f2aeab4360c35b29faa2c0d39bf77" parent="aspace_ea1a56f98085576a9cefd295650c32aa" type="folder">7</container></did></c02><c02 id="aspace_ref27_mst" level="file"><did><unittitle>John A. Sutter, Jr: sale of Sacramento property to Archibald Peachy - papers,</unittitle><unitdate datechar="creation">1839, 1848-49.</unitdate><physdesc id="aspace_48fc095f5bcaec8928f51207aa288dd8" label="General Physical Description note">(5 pieces)</physdesc><container id="aspace_2a38649bfb987c86354e57e73d03f537" label="Mixed Materials" type="box">1</container><container id="aspace_a290c130ae7a00c832805c850eba3bc5" parent="aspace_2a38649bfb987c86354e57e73d03f537" type="folder">8</container></did></c02><c02 id="aspace_ref29_e3g" level="file"><did><unittitle>Mary H. Machett <emph render="italic">vs.</emph> Stephen W. Tichenor - correspondence and papers,</unittitle><unitdate datechar="creation">1842-52.</unitdate><physdesc id="aspace_36f18d09f3444d308c314c8f96e1a417" label="General Physical Description note">(7 pieces)</physdesc><container id="aspace_a99100ac119ed6308959a19debcc78f5" label="Mixed Materials" type="box">1</container><container id="aspace_8b796471ddc8c0896db73763038a9cc5" parent="aspace_a99100ac119ed6308959a19debcc78f5" type="folder">9</container></did></c02><c02 id="aspace_ref31_adz" level="file"><did><unittitle>U. S. Marine Hospital, Rincon Point - correspondence relating to,</unittitle><unitdate datechar="creation">1847-57.</unitdate><physdesc id="aspace_3c0075368c86041bbeaf2dde2ba4d5cf" label="General Physical Description note">(25 pieces)</physdesc><container id="aspace_fb8901caa73d5759bf52889999c6c0cb" label="Mixed Materials" type="box">1</container><container id="aspace_2b2ab30ff292f9835f20e8a288806f82" parent="aspace_fb8901caa73d5759bf52889999c6c0cb" type="folder">10</container></did></c02><c02 id="aspace_ref33_64r" level="file"><did><unittitle>Alcalde Levanworth: grants of San Francisco property - papers,</unittitle><unitdate datechar="creation">1849-52.</unitdate><physdesc id="aspace_da1563a050afa45169e56f811d20fea2" label="General Physical Description note">(6 pieces)</physdesc><container id="aspace_d12017dfc5f7b6de0772d6fdafd8f256" label="Mixed Materials" type="box">1</container><container id="aspace_a6000db853df68d93032b3a96f70ce15" parent="aspace_d12017dfc5f7b6de0772d6fdafd8f256" type="folder">11</container></did></c02><c02 id="aspace_ref35_8aq" level="file"><did><unittitle>Henry Hill <emph render="italic">vs.</emph> Charles Botts - correspondence and papers,</unittitle><unitdate datechar="creation">1849-55.</unitdate><physdesc id="aspace_fdf11b64e016523e4efbd73c756a8d11" label="General Physical Description note">(16 pieces)</physdesc><container id="aspace_612407b2f78f87f0d654bed67da03e75" label="Mixed Materials" type="box">1</container><container id="aspace_4158c17ef6444f4740e0b07b6b257d7b" parent="aspace_612407b2f78f87f0d654bed67da03e75" type="folder">12</container></did></c02><c02 id="aspace_ref37_j3m" level="file"><did><unittitle>Henry Hill <emph render="italic">vs.</emph> Charles Botts - correspondence and papers,</unittitle><unitdate datechar="creation">1856-59.</unitdate><physdesc id="aspace_37b52dbcd1f484f64dcc8cb2daeea9b1" label="General Physical Description note">(25 pieces)</physdesc><container id="aspace_057c580027c353d36db86dc5c830d851" label="Mixed Materials" type="box">1</container><container id="aspace_9b7d03fe4dcb0e39633ef073e6d7f9b1" parent="aspace_057c580027c353d36db86dc5c830d851" type="folder">13</container></did></c02><c02 id="aspace_ref39_sci" level="file"><did><unittitle>Thomas W. Hardy estate - correspondence and papers,</unittitle><unitdate datechar="creation">1850-68.</unitdate><physdesc id="aspace_04c10dc86619cdbb12f6d90506e60f99" label="General Physical Description note">(19 pieces)</physdesc><container id="aspace_33a5b09c5dba384629fd4065ecf30b7f" label="Mixed Materials" type="box">1</container><container id="aspace_cdbbb019123a72b88d4b194f0523539f" parent="aspace_33a5b09c5dba384629fd4065ecf30b7f" type="folder">14</container></did></c02><c02 id="aspace_ref41_lyz" level="file"><did><unittitle>Street assessment cases, San Francisco - papers,</unittitle><unitdate datechar="creation">1851 and n.d.</unitdate><physdesc id="aspace_57a1469059e1cb3047788f9b3d99c7c1" label="General Physical Description note">(16 pieces)</physdesc><container id="aspace_a2268d4addce7bfac5440a0782e8e530" label="Mixed Materials" type="box">1</container><container id="aspace_40d55f8dcbbd3a175a037461b8b3a758" parent="aspace_a2268d4addce7bfac5440a0782e8e530" type="folder">15</container></did></c02><c02 id="aspace_ref43_bjj" level="file"><did><unittitle>Daniel C. Callahan, property in Sacramento - mortgages and other papers,</unittitle><unitdate datechar="creation">1851-62.</unitdate><physdesc id="aspace_d64c4de41e452069f4f70d4f5b13441c" label="General Physical Description note">(26 pieces)</physdesc><container id="aspace_833792f2c5aad5d6f23f23cc07d82e9d" label="Mixed Materials" type="box">2</container><container id="aspace_77f2f4795af5f43d0cdddfedbaf26dda" parent="aspace_833792f2c5aad5d6f23f23cc07d82e9d" type="folder">1</container></did></c02><c02 id="aspace_ref45_woq" level="file"><did><unittitle>Joaquin Carrillo <emph render="italic">et al.</emph>, claimants for Rancho Llano de Santa Rosa - papers,</unittitle><unitdate datechar="creation">1852-60.</unitdate><physdesc id="aspace_31e6054ee6b87c58fd4d5b1ec07d8c15" label="General Physical Description note">(5 pieces)</physdesc><container id="aspace_d99b48cc9b52efa19b1f05a3e6d7b2fd" label="Mixed Materials" type="box">2</container><container id="aspace_c19d5a2ec6cd8b8a671e589292ffbd75" parent="aspace_d99b48cc9b52efa19b1f05a3e6d7b2fd" type="folder">2</container></did></c02><c02 id="aspace_ref47_e86" level="file"><did><unittitle>Rancho Jesus Maria: claim of John G. Parish, James M. Harkin, <emph render="italic">et al.</emph> - papers,</unittitle><unitdate datechar="creation">1854-55.</unitdate><physdesc id="aspace_06a19796440c1d69163344301c81f51d" label="General Physical Description note">(13 pieces)</physdesc><container id="aspace_517c140f8c7c9f1dad405a20dd19dbdf" label="Mixed Materials" type="box">2</container><container id="aspace_e152d762e85e237fc89b998ebd92f810" parent="aspace_517c140f8c7c9f1dad405a20dd19dbdf" type="folder">3</container></did></c02><c02 id="aspace_ref49_4qk" level="file"><did><unittitle>Rancho La Visitacion Cañada de Guadalupe y Rodeo Viejo,</unittitle><unitdate datechar="creation">1854-59.</unitdate><physdesc id="aspace_21ddd7740b4684e7f4d22666a6e9c6a5" label="General Physical Description note">(4 pieces)</physdesc><container id="aspace_a7034ba2986699e7c7442e6e6ee287d0" label="Mixed Materials" type="box">2</container><container id="aspace_233e146a425cb1cd93d30ac065750bee" parent="aspace_a7034ba2986699e7c7442e6e6ee287d0" type="folder">4</container></did></c02><c02 id="aspace_ref51_0dp" level="file"><did><unittitle>Rancho Refugio: claim of Juan and Francisco Bolcoff [no.214 (Land Commission)] - papers,</unittitle><unitdate datechar="creation">ca. 1855.</unitdate><physdesc id="aspace_40514f437a4a954dfcf25c2d66e40ed7" label="General Physical Description note">(4 pieces)</physdesc><container id="aspace_e437c81019910adc16f8e823b9bd2c50" label="Mixed Materials" type="box">2</container><container id="aspace_428d2fee6bc576ea191068426aa5c958" parent="aspace_e437c81019910adc16f8e823b9bd2c50" type="folder">5</container></did></c02><c02 id="aspace_ref53_7kw" level="file"><did><unittitle>Noah E. Smith <emph render="italic">vs.</emph> William F. Roelofson, involving the latter's interest in the Union Mining and Trading Company, Starr, Binsley &amp; Company, Sacramento, and F. Vassault &amp; Company, San Francisco - depositions on Roelofson's behalf and other papers,</unittitle><unitdate datechar="creation">1855-56.</unitdate><physdesc id="aspace_3a71aa8a131a485e9342a4d566a499ac" label="General Physical Description note">(11 pieces)</physdesc><container id="aspace_6518342862d299ad6ad0429e5e782767" label="Mixed Materials" type="box">2</container><container id="aspace_e6d4e98e1d1aa066619634db1fa24461" parent="aspace_6518342862d299ad6ad0429e5e782767" type="folder">6</container></did></c02><c02 id="aspace_ref55_ga7" level="file"><did><unittitle>William A. Pfeiffer - mortgage papers,</unittitle><unitdate datechar="creation">1855-60.</unitdate><physdesc id="aspace_a107f302bfc0217eaf94875ab368328b" label="General Physical Description note">(6 pieces)</physdesc><container id="aspace_a88fddceb4e5e4756580ed74cdcbd398" label="Mixed Materials" type="box">2</container><container id="aspace_7f985360485fb3d30a17ce6b876b3820" parent="aspace_a88fddceb4e5e4756580ed74cdcbd398" type="folder">7</container></did></c02><c02 id="aspace_ref57_zeg" level="file"><did><unittitle>C. Morrill <emph render="italic">vs.</emph> G.R. Garretson: reclamation against Garretson's account - correspondence and papers,</unittitle><unitdate datechar="creation">1856-59.</unitdate><physdesc id="aspace_45686f9258c24dd79102bf6e93ccf9bf" label="General Physical Description note">(6 pieces)</physdesc><container id="aspace_8a1d9629488450371d5708e2c86712e3" label="Mixed Materials" type="box">2</container><container id="aspace_bb721738b89900e605a5692c02274a39" parent="aspace_8a1d9629488450371d5708e2c86712e3" type="folder">8</container></did></c02><c02 id="aspace_ref59_yza" level="file"><did><unittitle>Grant Hudson <emph render="italic">vs.</emph> Northern <emph render="italic">et al.</emph> - depositions and testimony,</unittitle><unitdate datechar="creation">1856-59.</unitdate><physdesc id="aspace_b2da31fb38434b8fbc82bc5b2fff8e69" label="General Physical Description note">(1 vol.)</physdesc><container id="aspace_ea74da268476f6e76954a14823f73a47" label="Mixed Materials" type="box">2</container><container id="aspace_7e43ab5448b7a5fbda30f6c55de500c3" parent="aspace_ea74da268476f6e76954a14823f73a47" type="folder">9</container></did></c02><c02 id="aspace_ref61_2tq" level="file"><did><unittitle>David C. Broderick estate: claims of David Hawkes Broderick and John Broderick - correspondence and papers,</unittitle><unitdate datechar="creation">1856-60.</unitdate><physdesc id="aspace_c19b24a82c4c31b49151c5456e938514" label="General Physical Description note">(8 pieces)</physdesc><container id="aspace_aef7139672ba1a06fc761315cd63b526" label="Mixed Materials" type="box">2</container><container id="aspace_3b72e359f97a8c449f91e1e25a17402a" parent="aspace_aef7139672ba1a06fc761315cd63b526" type="folder">10</container></did></c02><c02 id="aspace_ref63_2pa" level="file"><did><unittitle>Accounts, notes, receipts, etc.,</unittitle><unitdate datechar="creation">1849-60.</unitdate><physdesc id="aspace_07b2ac9fbc7cec9bfb4214e95ccb2853" label="General Physical Description note">(22 pieces)</physdesc><container id="aspace_e9fa66cb225bc74c789877abb2ce2911" label="Mixed Materials" type="box">3</container><container id="aspace_72b536a31f4a6f6a087a41c4f3d48214" parent="aspace_e9fa66cb225bc74c789877abb2ce2911" type="folder">1</container></did></c02><c02 id="aspace_ref65_3mf" level="file"><did><unittitle>Articles and reports relating to land titles, land law, transportation and trade in sparsely settled areas of the West, mining claims, and a list of a U.S. Grand Jury in San Francisco.</unittitle><physdesc id="aspace_26c4747a14d432b4d0a7015bbfa61d9d" label="General Physical Description note">(16 pieces)</physdesc><container id="aspace_a54feb08e7791682122d1e350ab34438" label="Mixed Materials" type="box">3</container><container id="aspace_67dc32b94433afc0e685605c289c36b2" parent="aspace_a54feb08e7791682122d1e350ab34438" type="folder">2</container></did></c02><c02 id="aspace_ref67_wkq" level="subseries"><did><unittitle>Various Legal Matters Handled by Halleck, Peachy &amp; Billings</unittitle></did><c03 id="aspace_ref68_5yr" level="item"><did><unittitle>Correspondence and papers,</unittitle><unitdate datechar="creation">1851-58.</unitdate><physdesc id="aspace_e99e086f07f105c45942d146441accb8" label="General Physical Description note">(47 pieces)</physdesc><container id="aspace_21f5e24136a3f75c33c1186695f041f6" label="Mixed Materials" type="box">3</container><container id="aspace_b12d079805f533b48efa116c51547085" parent="aspace_21f5e24136a3f75c33c1186695f041f6" type="folder">3</container></did></c03><c03 id="aspace_ref70_6iu" level="item"><did><unittitle>Correspondence and papers,</unittitle><unitdate datechar="creation">1859-61 and n.d.</unitdate><physdesc id="aspace_e04810f1e0259b958044fc62be5cb14c" label="General Physical Description note">(21 pieces)</physdesc><container id="aspace_f54b1a4c9dbb4acc286cbf90b7d0248f" label="Mixed Materials" type="box">3</container><container id="aspace_76b6f5e51fd03a3d219d41f877b44a00" parent="aspace_f54b1a4c9dbb4acc286cbf90b7d0248f" type="folder">4</container></did></c03><c03 id="aspace_ref72_zsi" level="item"><did><unittitle>Journals,</unittitle><unitdate datechar="creation">n.d.</unitdate><physdesc id="aspace_4a5938809d2c4f9ba4ab77a1a2431134" label="General Physical Description note">(2 pieces)</physdesc><container id="aspace_149e33d84c92a75a9ba6cce57917a8ab" label="Mixed Materials" type="box">3</container><container id="aspace_7ceca6484f2d86dcfe59aa5ead50a863" parent="aspace_149e33d84c92a75a9ba6cce57917a8ab" type="folder">5</container></did></c03></c02><c02 id="aspace_ref74_mrb" level="subseries"><did><unittitle>Land Claims - Memoranda and Abstracts, Chiefly in Halleck's Handwriting, Transactions , no.1-172</unittitle><unitdate datechar="creation">ca. 1835-55</unitdate></did><odd id="aspace_0d909b4e653ed800491e06b53ca5ac86"><head>General note</head><p>(Some numbers missing)</p></odd><c03 id="aspace_ref75_a2t" level="item"><did><unittitle>no.1-54.</unittitle><physdesc id="aspace_d7479750a5746ad6d2d65eb452ec86e3" label="General Physical Description note">(50 pieces)</physdesc><container id="aspace_c18393ef7e598dd56b6e618078f12fe2" label="Mixed Materials" type="box">3</container><container id="aspace_8d40b1f292b6ca372da62eb9fa4cb044" parent="aspace_c18393ef7e598dd56b6e618078f12fe2" type="folder">6</container></did></c03><c03 id="aspace_ref77_u3n" level="item"><did><unittitle>no.55-100.</unittitle><physdesc id="aspace_9b7c86c3c60b8f95a682321b338ff8c3" label="General Physical Description note">(45 pieces)</physdesc><container id="aspace_4ec0be416c75a7df87ad32c0f7dabf3c" label="Mixed Materials" type="box">3</container><container id="aspace_35e3b447e2f1215263303830e4e20b50" parent="aspace_4ec0be416c75a7df87ad32c0f7dabf3c" type="folder">7</container></did></c03><c03 id="aspace_ref79_d8y" level="item"><did><unittitle>no.101-172.</unittitle><physdesc id="aspace_584659ea035b2e6a739699637c34a18f" label="General Physical Description note">(45 pieces)</physdesc><container id="aspace_9e10bb5edb7887192c9e9fa9e232f590" label="Mixed Materials" type="box">3</container><container id="aspace_c1f2f64ed92b709965d7cd893d7e6c3a" parent="aspace_9e10bb5edb7887192c9e9fa9e232f590" type="folder">8</container></did></c03></c02></c01><c01 id="aspace_ref82_8dw" level="series"><did><unittitle>Almaden Claim</unittitle><unitdate datechar="creation">1848-60</unitdate></did><c02 id="aspace_ref83_qsd" level="file"><did><unittitle>Halleck, Peachy &amp; Billings - letters sent,</unittitle><unitdate datechar="creation">1858-60.</unitdate><physdesc id="aspace_63d6bb8698684feab83c97d3a75dda15" label="General Physical Description note">(31 pieces)</physdesc><container id="aspace_51e7109af99a7d80239787bdc263b732" label="Mixed Materials" type="box">4</container><container id="aspace_5ed06b0d3823e8bbef451c1bec69300f" parent="aspace_51e7109af99a7d80239787bdc263b732" type="folder">1</container></did></c02><c02 id="aspace_ref85_uyx" level="file"><did><unittitle>Letters between, various persons, including some to Halleck, Peachy &amp; Billings,</unittitle><unitdate datechar="creation">1848-60.</unitdate><physdesc id="aspace_8bb19d4442e5d5b9cb89a3395e161929" label="General Physical Description note">(13 pieces)</physdesc><container id="aspace_38d898f8543ebe6c68efe0a76be29a69" label="Mixed Materials" type="box">4</container><container id="aspace_3c7aa843cfafdf1e776b5a47980b515b" parent="aspace_38d898f8543ebe6c68efe0a76be29a69" type="folder">2</container></did></c02><c02 id="aspace_ref87_452" level="file"><did><unittitle>Legal papers concerning the case,</unittitle><unitdate datechar="creation">1847-59.</unitdate><physdesc id="aspace_70da052ffb647ad573e2c97634aeedc8" label="General Physical Description note">(16 pieces)</physdesc><container id="aspace_17eea3a4142ff22b2170813f42f755cb" label="Mixed Materials" type="box">4</container><container id="aspace_ee9f9eb796bf051e6a73b95d56c493ed" parent="aspace_17eea3a4142ff22b2170813f42f755cb" type="folder">3</container></did></c02><c02 id="aspace_ref89_t13" level="file"><did><unittitle>Argument for the claim - manuscript draft.</unittitle><physdesc id="aspace_de83688948d05c6caba622f58d40b19e" label="General Physical Description note">(253 pieces)</physdesc><container id="aspace_604e99d4ff031078a66026d81ae2bd8b" label="Mixed Materials" type="box">4</container><container id="aspace_021aef92b33d51c248ee4393084fe3ef" parent="aspace_604e99d4ff031078a66026d81ae2bd8b" type="folder">4</container></did></c02><c02 id="aspace_ref91_tqo" level="file"><did><unittitle>Argument for the claim - manuscript draft of the printed argument.</unittitle><physdesc id="aspace_d79d7cac4e070ab8f50b108592bcfd84" label="General Physical Description note">(12 pieces)</physdesc><container id="aspace_1e89e89a321a69d03bad300e5809207f" label="Mixed Materials" type="box">4</container><container id="aspace_fcba0e3cfe89d79a125d54a603456816" parent="aspace_1e89e89a321a69d03bad300e5809207f" type="folder">5</container></did></c02></c01><c01 id="aspace_ref93_6uc" level="series"><did><unittitle><title>The William Alexander Leidesdorff &amp; Joseph Libbey Folsom Estates</title></unittitle></did><c02 id="aspace_ref94_pt7" level="file"><did><unittitle>G.W. Granniss. Memorandum relating to the Leidesdorff Estate.</unittitle><physdesc id="aspace_1d0d5b70f56ddaec9ba9a719f56b6d40" label="General Physical Description note">(2 pieces)</physdesc><container id="aspace_872423ab656dc3ed289d18e104bec0ce" label="Mixed Materials" type="box">5</container><container id="aspace_fda14f434452964c86ba2a6d44d75492" parent="aspace_872423ab656dc3ed289d18e104bec0ce" type="folder">1</container></did></c02><c02 id="aspace_ref96_z04" level="subseries"><did><unittitle>Working papers of Halleck, Peachy &amp; Billings Regarding the Settlement of the Two Estates, Containing, Manuscript Notes, etc.</unittitle></did><c03 id="aspace_ref97_ch0" level="item"><did><unitdate datechar="creation">1850-51.</unitdate><physdesc id="aspace_c5627863869aef175c7f77ef55977ed4" label="General Physical Description note">(18 pieces)</physdesc><container id="aspace_28428b2d4645dacff77a65ddbd2b1610" label="Mixed Materials" type="box">5</container><container id="aspace_467cef661c182545eb38c01427786589" parent="aspace_28428b2d4645dacff77a65ddbd2b1610" type="folder">2</container></did></c03><c03 id="aspace_ref99_l17" level="item"><did><unitdate datechar="creation">1851-56.</unitdate><physdesc id="aspace_4abb4a85a6aa93d7511b3b494fa2b492" label="General Physical Description note">(29 pieces)</physdesc><container id="aspace_016d92327e847ee920962471be3252ed" label="Mixed Materials" type="box">5</container><container id="aspace_15298a231c3f160edd3fef43ee186c88" parent="aspace_016d92327e847ee920962471be3252ed" type="folder">3</container></did></c03><c03 id="aspace_ref101_2lq" level="item"><did><unitdate datechar="creation">1857-63.</unitdate><physdesc id="aspace_983484310c65142c3978512ed8fbf63d" label="General Physical Description note">(24 pieces)</physdesc><container id="aspace_62bf03546135cfaaaf25abd6d109b6f6" label="Mixed Materials" type="box">5</container><container id="aspace_c9eb5b6112ac5abd2b759fd825064115" parent="aspace_62bf03546135cfaaaf25abd6d109b6f6" type="folder">4</container></did></c03></c02><c02 id="aspace_ref103_k1u" level="subseries"><did><unittitle>Legal Documents, Agreements, etc., Concerning the two Estates</unittitle></did><c03 id="aspace_ref104_bjm" level="item"><did><unitdate datechar="creation">1847-50.</unitdate><physdesc id="aspace_ba34fc0ea89a348cfc11e02e41378e3e" label="General Physical Description note">(37 pieces)</physdesc><container id="aspace_ea5c07ca929147239e8029e8d1ae52c1" label="Mixed Materials" type="box">5</container><container id="aspace_5880f025d16dcfbfa30a45f4e8545cd9" parent="aspace_ea5c07ca929147239e8029e8d1ae52c1" type="folder">5</container></did></c03><c03 id="aspace_ref106_fc7" level="item"><did><unitdate datechar="creation">1851.</unitdate><physdesc id="aspace_28f16ead6f843d021827ec6831f09f68" label="General Physical Description note">(15 pieces)</physdesc><container id="aspace_a9410855930639ed6c6a64b698b1fd80" label="Mixed Materials" type="box">5</container><container id="aspace_ec921dbc2a52ac724c6d70c429960890" parent="aspace_a9410855930639ed6c6a64b698b1fd80" type="folder">6</container></did></c03><c03 id="aspace_ref108_it5" level="item"><did><unitdate datechar="creation">1852.</unitdate><physdesc id="aspace_7907747c9a7502047cc719518135ad58" label="General Physical Description note">(12 pieces)</physdesc><container id="aspace_9dcc279c4a1882ea58f30b7035f1a7db" label="Mixed Materials" type="box">5</container><container id="aspace_4e843dcfa935d1079bfe1bea95380786" parent="aspace_9dcc279c4a1882ea58f30b7035f1a7db" type="folder">7</container></did></c03><c03 id="aspace_ref110_hpp" level="item"><did><unitdate datechar="creation">1853-54.</unitdate><physdesc id="aspace_8b21d4d7aa4c16859b77c7d5728ca8c5" label="General Physical Description note">(7 pieces)</physdesc><container id="aspace_5b2742a0a4ff99bdac164a609fdb16ae" label="Mixed Materials" type="box">5</container><container id="aspace_c5786b04d45f675681d36869106172a8" parent="aspace_5b2742a0a4ff99bdac164a609fdb16ae" type="folder">8</container></did></c03></c02></c01><c01 id="aspace_ref112_n6g" level="series"><did><unittitle>Papers Concerning the Leidesdorff Estate</unittitle></did><c02 id="aspace_ref113_xu7" level="subseries"><did><unittitle>Correspondence</unittitle></did><c03 id="aspace_ref114_3jr" level="item"><did><unittitle>Letters from William A. Leidesdorff to various persons,</unittitle><unitdate datechar="creation">1846-47.</unitdate><physdesc id="aspace_b14f18036d54c57579dae7861b348875" label="General Physical Description note">(2 pieces)</physdesc><container id="aspace_c0f1e5d81ac83c6ed2944043acfc04b8" label="Mixed Materials" type="box">6</container><container id="aspace_d7ac3cfc3de2c49cd7b8a50b47195c93" parent="aspace_c0f1e5d81ac83c6ed2944043acfc04b8" type="folder">1</container></did></c03><c03 id="aspace_ref116_58m" level="item"><did><unittitle>Letters from Francisco Guerrero to Leidesdorff,</unittitle><unitdate datechar="creation">1846.</unitdate><physdesc id="aspace_d73f2b41af9d1713ed8ff9843235ed40" label="General Physical Description note">(3 pieces)</physdesc><container id="aspace_f58566434a72a339f9eec057b6bb798d" label="Mixed Materials" type="box">6</container><container id="aspace_055036b663f7a5cdf2cb2776f43b7fb1" parent="aspace_f58566434a72a339f9eec057b6bb798d" type="folder">2</container></did></c03><c03 id="aspace_ref118_ua0" level="item"><did><unittitle>Letters from Thomas Oliver Larkin to Leidesdorff,</unittitle><unitdate datechar="creation">1845-46.</unitdate><physdesc id="aspace_e56b9d875c6f1e59f466083d3880cf9a" label="General Physical Description note">(2 pieces)</physdesc><container id="aspace_bed841f07be88c345f861b753c6c6949" label="Mixed Materials" type="box">6</container><container id="aspace_0e656d35308900ab5fcf6313b6c62591" parent="aspace_bed841f07be88c345f861b753c6c6949" type="folder">3</container></did></c03><c03 id="aspace_ref120_rd2" level="item"><did><unittitle>Letters from John B. Montgomery to Leidesdorff,</unittitle><unitdate datechar="creation">1846.</unitdate><physdesc id="aspace_2b11e0ca4429dd7531566bafbac5e38c" label="General Physical Description note">(5 pieces)</physdesc><container id="aspace_e52207b5a71959f8e2319495ba8bd986" label="Mixed Materials" type="box">6</container><container id="aspace_c9d69cccd9f0dc50e18ac25db3f3faab" parent="aspace_e52207b5a71959f8e2319495ba8bd986" type="folder">4</container></did></c03><c03 id="aspace_ref122_bvp" level="item"><did><unittitle>Letters from Stephen Smith to Leidesdorff,</unittitle><unitdate datechar="creation">1847-48.</unitdate><physdesc id="aspace_236845ce698a5f166927a0e08e6bdaad" label="General Physical Description note">(4 pieces)</physdesc><container id="aspace_1d66e053d6d41f34b622d3f138344334" label="Mixed Materials" type="box">6</container><container id="aspace_35e05be31973c777fcebad49f873b850" parent="aspace_1d66e053d6d41f34b622d3f138344334" type="folder">5</container></did></c03><c03 id="aspace_ref124_q4c" level="item"><did><unittitle>Letters from various persons to Leidesdorff,</unittitle><unitdate datechar="creation">1846-48.</unitdate><physdesc id="aspace_f45aa77b1de7e1d2456d2c7e06a2b239" label="General Physical Description note">(5 pieces)</physdesc><container id="aspace_87a49d2736f0aeaa638de52bdcb342fd" label="Mixed Materials" type="box">6</container><container id="aspace_1a81828d3bcfd1ba2f471f88df65f8a7" parent="aspace_87a49d2736f0aeaa638de52bdcb342fd" type="folder">6</container></did></c03></c02><c02 id="aspace_ref126_tln" level="subseries"><did><unittitle>Legal Documents</unittitle></did><c03 id="aspace_ref127_5kl" level="item"><did><unitdate datechar="creation">1854-55.</unitdate><physdesc id="aspace_2746892035468e3244cec462863398b3" label="General Physical Description note">(17 pieces)</physdesc><container id="aspace_325dd80d7b9e51f03ffb7d7ab13f6e48" label="Mixed Materials" type="box">6</container><container id="aspace_19f344b5deb3b15f5a19e1276cb2e0b6" parent="aspace_325dd80d7b9e51f03ffb7d7ab13f6e48" type="folder">7</container></did></c03><c03 id="aspace_ref129_649" level="item"><did><unitdate datechar="creation">1856-59.</unitdate><physdesc id="aspace_ce6a55959b155e5c74d0c28e4bdbabe5" label="General Physical Description note">(12 pieces)</physdesc><container id="aspace_e018a1db8578f494bf3a95616517f482" label="Mixed Materials" type="box">6</container><container id="aspace_ea322220a82a149b7c0d9dbac9612e41" parent="aspace_e018a1db8578f494bf3a95616517f482" type="folder">8</container></did></c03></c02><c02 id="aspace_ref131_1jr" level="subseries"><did><unittitle>Accounts and Bills, Mainly Relating to the Leidesdorff Estate</unittitle></did><c03 id="aspace_ref132_vpg" level="item"><did><unitdate datechar="creation">1841-47.</unitdate><physdesc id="aspace_075bf4b15c7477d12eb6163863c5f104" label="General Physical Description note">(27 pieces)</physdesc><container id="aspace_e9880fdcfb33559165e7ce0f58118e15" label="Mixed Materials" type="box">6</container><container id="aspace_f329ff47a624eb3de315a40b87316b3b" parent="aspace_e9880fdcfb33559165e7ce0f58118e15" type="folder">9</container></did></c03><c03 id="aspace_ref134_gvq" level="item"><did><unitdate datechar="creation">1848.</unitdate><physdesc id="aspace_b6e0dff0e5903cff44706d74163573ee" label="General Physical Description note">(65 pieces)</physdesc><container id="aspace_190550e050f33470d846a657d8ee798c" label="Mixed Materials" type="box">6</container><container id="aspace_18b558a726bd8bb90547a264a7b1e383" parent="aspace_190550e050f33470d846a657d8ee798c" type="folder">10</container></did></c03><c03 id="aspace_ref136_6q1" level="item"><did><unitdate datechar="creation">1849.</unitdate><physdesc id="aspace_17b284312edcea78c0d4121a1c934e6a" label="General Physical Description note">(47 pieces)</physdesc><container id="aspace_a2a00be3d14d707274e5e383dec6d345" label="Mixed Materials" type="box">6</container><container id="aspace_96a5f3e37acd84c86152bc884231cb34" parent="aspace_a2a00be3d14d707274e5e383dec6d345" type="folder">11</container></did></c03><c03 id="aspace_ref138_9gw" level="item"><did><unitdate datechar="creation">1850-51 and n.d.</unitdate><physdesc id="aspace_b2b99f70be86ad34818e2a4526cc4207" label="General Physical Description note">(21 pieces)</physdesc><container id="aspace_d8a48872f853dbb04a1d61cacfeb8fe1" label="Mixed Materials" type="box">6</container><container id="aspace_9ca895564b05128686dd7c8c16e8d676" parent="aspace_d8a48872f853dbb04a1d61cacfeb8fe1" type="folder">12</container></did></c03></c02></c01><c01 id="aspace_ref140_bus" level="series"><did><unittitle>Papers Concerning the Folsom Estate</unittitle></did><c02 id="aspace_ref141_laq" level="subseries"><did><unittitle>Letters from Joseph L. Folsom to Various Persons</unittitle></did><c03 id="aspace_ref142_sgm" level="item"><did><unitdate datechar="creation">1849-51.</unitdate><physdesc id="aspace_83db55ebb0d5ac81fdf8ff63c1005ad2" label="General Physical Description note">(14 pieces)</physdesc><container id="aspace_95c99ebfddb79083aa4d0d86cf190a6e" label="Mixed Materials" type="box">6</container><container id="aspace_29f1100110a69f493e39d34c58857678" parent="aspace_95c99ebfddb79083aa4d0d86cf190a6e" type="folder">13</container></did></c03><c03 id="aspace_ref144_avn" level="item"><did><unitdate datechar="creation">1852-54.</unitdate><physdesc id="aspace_382e4e1ba4f3ca35e9e5be37e59976d6" label="General Physical Description note">(6 pieces)</physdesc><container id="aspace_8aa8b42d99dbec48e0a86e12a521bc81" label="Mixed Materials" type="box">6</container><container id="aspace_a19314a2f9953b1bbb3bfe914ef11b27" parent="aspace_8aa8b42d99dbec48e0a86e12a521bc81" type="folder">14</container></did></c03></c02><c02 id="aspace_ref146_53j" level="subseries"><did><unittitle>Letters from Various Persons to Joseph L. Folsom</unittitle></did><c03 id="aspace_ref147_g00" level="item"><did><unitdate datechar="creation">1849-June 1851.</unitdate><physdesc id="aspace_ea1df7be47fd759a9b048d576fc8b27a" label="General Physical Description note">(14 pieces)</physdesc><container id="aspace_55edab9322956cf0ac8b31f8709e9c4a" label="Mixed Materials" type="box">6</container><container id="aspace_3e7a374bd3318efb35f60f56bc7996f8" parent="aspace_55edab9322956cf0ac8b31f8709e9c4a" type="folder">15</container></did></c03><c03 id="aspace_ref149_y59" level="item"><did><unitdate datechar="creation">July-December 1851.</unitdate><physdesc id="aspace_fe584de30a4869aa09b21e5c33154a8b" label="General Physical Description note">(13 pieces)</physdesc><container id="aspace_3d3d97fc8c41648a8ff5a960abea228d" label="Mixed Materials" type="box">6</container><container id="aspace_16012746f9ec02aa74b7e1be390aae61" parent="aspace_3d3d97fc8c41648a8ff5a960abea228d" type="folder">16</container></did></c03><c03 id="aspace_ref151_z1t" level="item"><did><unitdate datechar="creation">1852-53.</unitdate><physdesc id="aspace_1f2c606a111c647d23077b1e08165ed0" label="General Physical Description note">(8 pieces)</physdesc><container id="aspace_119d758cc534044db2664c3749142455" label="Mixed Materials" type="box">6</container><container id="aspace_9d411c7ed82dbbc9eaff705fb98b18fc" parent="aspace_119d758cc534044db2664c3749142455" type="folder">17</container></did></c03><c03 id="aspace_ref153_qp1" level="item"><did><unitdate datechar="creation">1854-55.</unitdate><physdesc id="aspace_fbe0941e385e9b54c1ecfd0ead3e753c" label="General Physical Description note">(14 pieces)</physdesc><container id="aspace_cdfb6b831c307c7e9c191446a8825616" label="Mixed Materials" type="box">6</container><container id="aspace_308176f34b9fc265f666a16186761e1a" parent="aspace_cdfb6b831c307c7e9c191446a8825616" type="folder">18</container></did></c03></c02><c02 id="aspace_ref155_787" level="subseries"><did><unittitle>Letters Received by Halleck. Peachy, and P. Warren Van Winkle, Executors of the Estate, Relating to its Administration</unittitle></did><c03 id="aspace_ref156_mjo" level="item"><did><unitdate datechar="creation">1850-56.</unitdate><physdesc id="aspace_ce330ba611c594feb2d0275dcb7d64d3" label="General Physical Description note">(12 pieces)</physdesc><container id="aspace_e37c9d78f08b099b0961cdbb04f2f461" label="Mixed Materials" type="box">6</container><container id="aspace_a41569549077b8e67f61dff7bb19a594" parent="aspace_e37c9d78f08b099b0961cdbb04f2f461" type="folder">19</container></did></c03><c03 id="aspace_ref158_hbv" level="item"><did><unitdate datechar="creation">1857-62.</unitdate><physdesc id="aspace_19b28060850367d61edb13d02e0524bd" label="General Physical Description note">(12 pieces)</physdesc><container id="aspace_e978337249e31ac9d0c3645dc0a29143" label="Mixed Materials" type="box">6</container><container id="aspace_a0064df531cacabb4af2cbe8a0574d0b" parent="aspace_e978337249e31ac9d0c3645dc0a29143" type="folder">20</container></did></c03></c02><c02 id="aspace_ref160_y3z" level="subseries"><did><unittitle>American and Union Theaters, San Francisco</unittitle></did><c03 id="aspace_ref161_k8b" level="item"><did><unittitle>Correspondence,</unittitle><unitdate datechar="creation">1852-55.</unitdate><physdesc id="aspace_ccca4e453949709b6a8b7532ce9ed479" label="General Physical Description note">(5 pieces)</physdesc><container id="aspace_20d5074039eb23f801b6ea178c3724c0" label="Mixed Materials" type="box">7</container><container id="aspace_afd7e05c448c45a595ff699970b5df16" parent="aspace_20d5074039eb23f801b6ea178c3724c0" type="folder">1</container></did></c03><c03 id="aspace_ref163_eje" level="item"><did><unittitle>Legal papers,</unittitle><unitdate datechar="creation">1854-55.</unitdate><physdesc id="aspace_76a431fdfa006b6d602102adb13d007b" label="General Physical Description note">(13 pieces)</physdesc><container id="aspace_e1677071d68fa6749fa0b9b4faf9a8d6" label="Mixed Materials" type="box">7</container><container id="aspace_27390b23b5a63d7a8dd6a2b591f2402f" parent="aspace_e1677071d68fa6749fa0b9b4faf9a8d6" type="folder">2</container></did></c03><c03 id="aspace_ref165_vnb" level="item"><did><unittitle>Legal papers,</unittitle><unitdate datechar="creation">1856 and n.d.</unitdate><physdesc id="aspace_3cac442ade23bb0419aee002ecc88fab" label="General Physical Description note">(13 pieces)</physdesc><container id="aspace_7638aaa691f1fa4b6501aeb8f4a4671d" label="Mixed Materials" type="box">7</container><container id="aspace_68af266acca19bd11897f3d2fe8272ac" parent="aspace_7638aaa691f1fa4b6501aeb8f4a4671d" type="folder">3</container></did></c03></c02><c02 id="aspace_ref167_0sm" level="subseries"><did><unittitle>Folsom as Assistant Quarter Master, San Francisco: Settlement of Accounts</unittitle></did><c03 id="aspace_ref168_dxw" level="item"><did><unittitle>Papers,</unittitle><unitdate datechar="creation">1847-52.</unitdate><physdesc id="aspace_241d6b83c5aed56a1c9473dca631b250" label="General Physical Description note">(38 pieces)</physdesc><container id="aspace_293db8e806576d1a3f5aa9cbfdbd1965" label="Mixed Materials" type="box">7</container><container id="aspace_ff61597d180570428f92470b5dcf2752" parent="aspace_293db8e806576d1a3f5aa9cbfdbd1965" type="folder">4</container></did></c03></c02><c02 id="aspace_ref170_bcn" level="subseries"><did><unittitle>Tehama House Boarding House. San Francisco: papers and Accounts</unittitle></did><c03 id="aspace_ref171_h9y" level="item"><did><unitdate datechar="creation">1852.</unitdate><physdesc id="aspace_1902d0b47a9ec3ca6d4bc7cc1ab0fa77" label="General Physical Description note">(47 pieces)</physdesc><container id="aspace_80f22305a223e589638f19cd3df19432" label="Mixed Materials" type="box">7</container><container id="aspace_504f87c774531b205f29848c2ccbe26e" parent="aspace_80f22305a223e589638f19cd3df19432" type="folder">5</container></did></c03><c03 id="aspace_ref173_w2q" level="item"><did><unitdate datechar="creation">1853-54.</unitdate><physdesc id="aspace_dd36da0b3afc858977afcc65d646782c" label="General Physical Description note">(38 pieces)</physdesc><container id="aspace_4da58b0f80d1908fff45a89d8d9cf4ae" label="Mixed Materials" type="box">7</container><container id="aspace_4b9ad020839b8948ad11cbbd33cc43fc" parent="aspace_4da58b0f80d1908fff45a89d8d9cf4ae" type="folder">6</container></did></c03><c03 id="aspace_ref175_88f" level="item"><did><unitdate datechar="creation">1855 and n.d.</unitdate><physdesc id="aspace_a960d79a92a1b7187769096fc74a53e0" label="General Physical Description note">(36 pieces)</physdesc><container id="aspace_8671190390b7bd070806234a87fb078e" label="Mixed Materials" type="box">7</container><container id="aspace_f83f87770f5d05b7b1066e6ba95d87da" parent="aspace_8671190390b7bd070806234a87fb078e" type="folder">7</container></did></c03></c02><c02 id="aspace_ref177_c6q" level="subseries"><did><unittitle>Settlement of the Folsom Estate: Bills and Accounts</unittitle></did><c03 id="aspace_ref178_otz" level="item"><did><unitdate datechar="creation">1848-51.</unitdate><physdesc id="aspace_223e40615ed6526bb48faabc33d5c461" label="General Physical Description note">(61 pieces)</physdesc><container id="aspace_f7bb118ccf61acad4fe69edece170e56" label="Mixed Materials" type="box">7</container><container id="aspace_f6c69191bdfa198d608f501dc102811d" parent="aspace_f7bb118ccf61acad4fe69edece170e56" type="folder">8</container></did></c03><c03 id="aspace_ref180_l7g" level="item"><did><unitdate datechar="creation">1852-53.</unitdate><physdesc id="aspace_930d29be62aa0e52b29cab16833ca5c7" label="General Physical Description note">(58 pieces)</physdesc><container id="aspace_1ec7ed2ae9c3c8192e5fbad463313ea6" label="Mixed Materials" type="box">7</container><container id="aspace_242afd08db67b67be7912d6ce9392c40" parent="aspace_1ec7ed2ae9c3c8192e5fbad463313ea6" type="folder">9</container></did></c03><c03 id="aspace_ref182_cb1" level="item"><did><unitdate datechar="creation">1854.</unitdate><physdesc id="aspace_b2a9dda7295453d3a3b0223994a3a1ec" label="General Physical Description note">(42 pieces)</physdesc><container id="aspace_579807d32183fc763f9a43ea8bf19cd6" label="Mixed Materials" type="box">7</container><container id="aspace_e60826ee8e101bfaa7df3cc30e95891c" parent="aspace_579807d32183fc763f9a43ea8bf19cd6" type="folder">10</container></did></c03><c03 id="aspace_ref184_vv1" level="item"><did><unitdate datechar="creation">1855.</unitdate><physdesc id="aspace_6ba13cf58362a996ccd41fcb7947146f" label="General Physical Description note">(78 pieces)</physdesc><container id="aspace_f0b2f376623c39ca8885bda8589546c5" label="Mixed Materials" type="box">7</container><container id="aspace_c03bfeca9df0ab0480929323a74938e4" parent="aspace_f0b2f376623c39ca8885bda8589546c5" type="folder">11</container></did></c03><c03 id="aspace_ref186_46o" level="item"><did><unitdate datechar="creation">1856-60 and n.d.</unitdate><physdesc id="aspace_d64b3fb7e3f06a8ecdc9e4061152226b" label="General Physical Description note">(25 pieces)</physdesc><container id="aspace_a99ce9a57a0f4b957487f27864bafd26" label="Mixed Materials" type="box">7</container><container id="aspace_cb3fc81a6adac17425531e0e6ae17d5f" parent="aspace_a99ce9a57a0f4b957487f27864bafd26" type="folder">12</container></did></c03><c03 id="aspace_ref188_i7i" level="item"><did><unittitle>City, State and County taxes - various lists,</unittitle><unitdate datechar="creation">1851/52-1855/56.</unitdate><physdesc id="aspace_30607c2c1c11559156c948a6f17a928b" label="General Physical Description note">(11 pieces)</physdesc><container id="aspace_7ee7873139d152579812346984b7e87a" label="Mixed Materials" type="box">7</container><container id="aspace_ee80064e246959bfdf9d46772e1fc370" parent="aspace_7ee7873139d152579812346984b7e87a" type="folder">13</container></did></c03><c03 id="aspace_ref190_fay" level="item"><did><unittitle>Account books,</unittitle><unitdate datechar="creation">1852-55, 1871-77.</unitdate><physdesc id="aspace_55b1b0be8386dfc58c9ce22b2b23b138" label="General Physical Description note">(4 volumes)</physdesc><container id="aspace_d8d08728ac779402be6ddf76a2d1d264" label="Mixed Materials" type="box">7</container><container id="aspace_b9d78b8889377e0da55edeb4a24b96a3" parent="aspace_d8d08728ac779402be6ddf76a2d1d264" type="folder">14</container></did></c03></c02><c02 id="aspace_ref192_vq4" level="file"><did><unittitle>Empty strong-box (with key) which originally contained part of the Halleck, Peachy, and Billings papers.</unittitle><container id="aspace_d7f7fbcf9148b313675b38ef5e4f6b6d" label="Mixed Materials" type="box">8</container></did></c02></c01></dsc>
+</archdesc>
 </ead>
