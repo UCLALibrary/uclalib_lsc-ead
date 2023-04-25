@@ -1,0 +1,1408 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="unverified-full-draft"><eadid countrycode="us" identifier="ark:/13030/kt296nc4jc" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT (US::CLU-SC::1203::Jerome Robinson Theatrical Photographs Collection)//EN&quot; &quot;robi1203.xml&quot;">robi1203.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid of the Jerome Robinson Theatrical Photographs collection</titleproper><titleproper type="filing">Robinson (Jerome) Theatrical Photographs collection</titleproper>
+ <author>Processed by Manuscripts Division staff</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">&#xA9; 2004</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>
+Machine-readable finding aid derived created by ByteManagers using OAC finding aid conversion service specifications and Notetab Pro; Date of source: <date calendar="gregorian" era="ce"> 2001;</date> frontmatter gathered MARC Record. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.</creation>
+ <langusage>
+ <language>English</language>
+ </langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT (US::CLU-SC::1203::Jerome Robinson Theatrical Photographs Collection)//EN" "robi1203.xml" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid of the Jerome Robinson Theatrical Photographs Collection</titleproper>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Manuscripts Division staff</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>ByteManagers using OAC finding aid conversion service specifications</item>
+ </defitem>
+ <defitem>
+ <label>Encoding supervision and revision by:</label>
+ <item>Caroline Cub&#xE9;</item>
+ </defitem>
+ <defitem>
+ <label>Edited by:</label>
+ <item>Josh Fiala, August 2004</item>
+ </defitem>
+ </list>
+ <p>&#xA9; 2004 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Jerome Robinson Theatrical Photographs Collection, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1930/1955">ca. 1930-1955</unitdate>
+ <unitid label="Collection number" repositorycode="CLUSC" countrycode="US">1203</unitid>
+ <origination label="Creator" encodinganalog="100">
+ <persname source="lcnaf">Robinson, Jerome</persname>
+ </origination>
+ <physdesc encodinganalog="300" label="Extent"><extent>27 boxes (13.5 linear ft.)</extent>
+<extent>2 cartons (2 linear ft.)</extent>
+<extent>2 oversize boxes</extent></physdesc>
+ <repository label="Repository">
+ <corpname source="lcnaf">University of California, Los Angeles. Library.
+Department of Special Collections.</corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Jerome Robinson (1910-1976) was the official photographer for the D'Oyly Carte Opera Company in New York (1930-31), published a book titled, <title linktype="simple">The complete plays of Gilbert and Sullivan</title> (1938), joined the staff of <title linktype="simple">Theater arts and Stage</title> magazines, and did theater features for <title linktype="simple">Life</title> magazine. He moved to Hollywood, California (1943) and worked as the official photographer for the Pasadena Playhouse (1943-58). He was called before the House Un-American Activities Committee (HUAC) in 1950 and declared an unfriendly witness because he refused to testify. He never worked in a motion picture studio again, although his career in the theater continued until 1958. The collection consists of approximately 10,000 photographs and 20,000 negatives taken by Robinson of theatrical performances and performers in New York, Pasadena, and Los Angeles.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <accessrestrict encodinganalog="506">
+ <head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</p>
+ </accessrestrict>
+ <userestrict encodinganalog="540">
+ <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Jerome Robinson Theatrical Photographs collection (Collection 1203). Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=2723129">2723129</extref></p>
+</odd>
+ <acqinfo encodinganalog="541">
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of Mrs. Jerome Robinson, 1977.</p>
+ </acqinfo>
+ </descgrp>
+ <bioghist encodinganalog="545" id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Robinson was born in New York City on February 25, 1910; an uncle gave him a camera as a birthday gift, and he won first prize in the Radio City Music Hall opening photographic contest; official photographer, D'Oyly Carte Opera Company performing Gilbert and Sullivan operettas in New York, 1930-31; Robinson published a book titled, <title linktype="simple">The complete plays of Gilbert and Sullivan</title> (1938); later joined the staff of <title linktype="simple">Theater arts and Stage</title> magazines and even did theater features for <title linktype="simple">Life</title> magazine; decided to move to Hollywood, California, in 1943; official photographer, Pasadena Playhouse, 1943-58; began working in major film studios in 1944; called before the House Un-American Activities Committee (HUAC) in 1950 and declared an unfriendly witness because he refused to testify; he never worked in a motion picture studio again, although his career in the theater continued until 1958; did free-lance work for the Los Angeles Civic Light Opera Association, the Biltmore Theatre, the Los Angeles Philharmonic, the Circle Theatre, the Ivar, and many others; died July 9, 1976.</p>
+ <bioghist>
+ <head>Biographical Narrative</head>
+ <p>Jerome Robinson was born in New York City on February 25, 1910, son of Barney and Nettie Robinson. He had one sister, now Beatrice (Mrs. Wilbur) Schreiber, and many aunts and uncles, sisters and brothers of his mother. He attended public schools in New York, and though he read continuously, he never liked school mainly because he was not getting the art training he wanted. At 16 he quit school and found a job as a painters' &#x201C;devil&#x201D; in a fabric design company. He did, however, continue art studies at both Art Center and Cooper Union at night. By age 19 he was himself a designer of floral prints and &#x201C;happi-coats.&#x201D;</p>
+ <p>The year before an uncle had given him a camera for a birthday gift, and he entered many contests and won many prizes, among them first prize in the Radio City Music Hall opening photographic contest. Through winning this contest he first met the Schuberts and began photographing in the theatre.</p>
+ <p>At this time, almost simultaneously with his discovering &#x201C;fast&#x201D; film, he was invited to work in the laboratory at Massachusetts Institute of Technology with the man who invented the film and also the first Strobe unit. This job lasted only a few months, but from it grew his whole photographic career.</p>
+ <p>He was the first to do available light or actual performance photography in the theatre -- that is, without flash-lights or any other addition to the normal stage lighting. He worked entirely free-lance, but photographed and sold prints of the bulk of what appeared on Broadway for the next ten years.</p>
+ <p>In 1930-31 the D'Oyly Carte Opera Company came to New York from England and presented twenty-some Gilbert and Sullivan operettas. They became known as the American Company for Gilbert and Sullivan. For almost two years Jerome Robinson was their official photographer. From this association came a book: <title linktype="simple">The Complete Plays of Gilbert and Sullivan.....including 32 photographs.....by Jerome Robinson</title>, published in 1938 (some five years after) by the Garden City Publishing Company.</p>
+ <p>Also from this association came an introduction to Antoinette Perry who was so impressed with his pictures that she re-introduced him to the Schuberts. Though he photographed all of their plays he refused any limited business association with them because he was by then on the staff of <title linktype="simple">Theatre Arts</title> magazine and <title linktype="simple">Stage</title> Magazine and later did many theatre features for <title linktype="simple">Life</title> Magazine where his frequent partner doing the writing was Alexander King.</p>
+ <p>From 1941 to 1950 he was married to Mildred Okuneff, sister to one of his aunts by marriage, but this marriage ended in divorce in California.</p>
+ <p>By 1942 and the war, since he was ineligible for military service because of the asthma he had had since early childhood, he went to work for Bethlehem Shipyard in New York. After only a month or so, he took an examination and won a scholarship to a crash program in Naval Architecture at Johns Hopkins University. He worked in shipbuilding for almost a year in New London, Connecticut, when a severe asthmatic attack ended his job there and sent him back to recuperate in New York.</p>
+ <p>During the next year he was involved with the United States Government in developing a super-fast film for use in aerial photography.</p>
+ <p>He tried to return to theatrical photography in 1943, but found that many others were doing his kind of photography by then, so the decision was made to move permanently to Hollywood.</p>
+ <p>In Hollywood he became official photographer for many of the little theatres while he was trying to have his work seen at the motion picture studios. He also almost immediately through Oliver and Maude Prickett and Gilmore Brown became official photographer for the Pasadena Playhouse (1943 - 1958). He began working in the major film studios in 1944 doing all the still photography for many pictures including <title linktype="simple">The Green Years</title> and <title linktype="simple">The Yearling</title>.</p>
+ <p>In 1950, because he knew many of &#x201C;The 10&#x201D; and others associated with them, he was called before the House Un-American Activities Committee in Los Angeles, refused (like Lillian Hellman and others) to testify about anyone but himself, and was declared an &#x201C;unfriendly witness.&#x201D; He never worked in any motion picture studio again, though his career in the theatre went on until 1958. He did free-lance work for the Los Angeles Civic Light Opera Association, the Biltmore Theatre, the Los Angeles Philharmonic, the Circle Theatre, the Ivar and many others.</p>
+ <p>In 1955, because he had sailed boats since he was 12 years old and had the Johns Hopkins war-time training, he decided to take the Yacht and Ship-Brokers examination for license (which he passed the first time) and open an office in Newport Beach. There in 1957, he met and married Zelda Cartman Seal and became step-father to her three sons. He retired the first time in 1966 when he suffered his first heart attack but later did drafting design for Todd Shipyard in Long Beach for two years and for Decca navigational equipment for another two years..</p>
+ <p>In 1972, their sons grown, educated and independent, he and his wife moved from Newport Beach to Palos Verdes where, on July 9, 1976, he suffered a fatal heart attack at age 66, exactly like his father.</p>
+ <p>Zelda Robinson</p>
+ </bioghist>
+ </bioghist>
+ <scopecontent encodinganalog="520" id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of approximately 10,000 photographs and 20,000 negatives taken by Jerome Robinson of theatrical performances and performers in New York, Pasadena, and Los Angeles.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
+ <controlaccess>
+ <head>Subjects</head>
+ <persname source="lcnaf" encodinganalog="600">Robinson, Jerome--Archives.</persname>
+ <occupation source="lcsh" encodinganalog="650">Photographers--United States--Archival resources.</occupation>
+ <subject source="lcsh" encodinganalog="650">Stage photography--New York (State)--New York--Archival resources.</subject>
+ <subject source="lcsh" encodinganalog="650">Stage photography--California, Southern--Archival resources.</subject>
+ </controlaccess>
+ <controlaccess>
+ <head>Genres and Forms of Material</head>
+ <genreform source="aat" encodinganalog="655">Negatives.</genreform>
+ <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+ </controlaccess>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6">
+ <head>Container List</head>
+ <c01 level="file" id="c01-1.3.6.2">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Abe Lincoln in Illinois</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.3">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">The American Way</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.4">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">As you like it</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.5">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">Banjo Eyes</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.6">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folders">5-6</container>
+ <unittitle><title linktype="simple">Between the Devil</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.7">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folders">7-9</container>
+ <unittitle><title linktype="simple">Boys and Girls</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.8">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">10</container>
+ <unittitle><title linktype="simple">Burlesque</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.9">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <container type="Folder" label="Folder">11</container>
+ <unittitle><title linktype="simple">Christmas '65</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.10">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Devil Under</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.11">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folders">2-3</container>
+ <unittitle><title linktype="simple">Du Barry was a Lady</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.12">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">Earl Carroll's Vanities</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.13">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle><title linktype="simple">Father Malachy's Miracle</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.14">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle><title linktype="simple">Follies Bergere</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.15">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle><title linktype="simple">French Casino</title> (<unitdate calendar="gregorian" era="ce">1937)</unitdate>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.16">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle><title linktype="simple">Great Lady</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.17">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle><title linktype="simple">Green Years</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.18">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Having Wonderful Time</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.19">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">Higher and Higher</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.20">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">Hooray for Love</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.21">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">I'd Rather be Right</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.22">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle><title linktype="simple">I married an angel</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.23">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle><title linktype="simple">International (Revue)</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.24">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle><title linktype="simple">Junior Miss</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.25">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle><title linktype="simple">Keep off the Grass</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.26">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle><title linktype="simple">Knickerbocker Holiday</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.27">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folders">1-2</container>
+ <unittitle><title linktype="simple">Lady comes across</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.28">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">Landscape</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.29">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">Leave it to me</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.30">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folders">5-6</container>
+ <unittitle><title linktype="simple">Let's face it</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.31">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle><title linktype="simple">Lorelei</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.32">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folders">1-2</container>
+ <unittitle><title linktype="simple">Louisiana Purchase</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.33">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">Love on the Dole</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.34">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">Mamba</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.35">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folders">5-6</container>
+ <unittitle><title linktype="simple">Manna</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.36">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle><title linktype="simple">Martin, Tony, &#x0026; Jane Savitt</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.37">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle><title linktype="simple">More the Merrier</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.38">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle><title linktype="simple">Native Son</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.39">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">New Faces</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.40">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">Of Mice and Men</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.41">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">On borrowed time</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.42">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">Orchids Preferred</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.43">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folders">5-6</container>
+ <unittitle><title linktype="simple">Pal Joey</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.44">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folders">7-8</container>
+ <unittitle><title linktype="simple">Panama Hattie</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.45">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle><title linktype="simple">Paris</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.46">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Red, Hot &#x0026; Blue</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.47">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">Riviera</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.48">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">Roberta</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.49">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">The Show's On</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.50">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle><title linktype="simple">Sing out the News</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.51">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle><title linktype="simple">Sketch Book</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.52">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle><title linktype="simple">Sons of Fun</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.53">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Sons of Fun</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.54">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">Spring is here</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.55">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">Stars in your Eyes</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.56">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">Straw Hat</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.57">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle><title linktype="simple">Talley Method</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.58">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle><title linktype="simple">'Tis of Thee</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.59">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle><title linktype="simple">Too Many Girls</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.60">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle><title linktype="simple">Two Bouquets</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.61">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle><title linktype="simple">Two for the Show</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.62">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Very warm for May</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.63">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">Virginia</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.64">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">Waltzes</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.65">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">What a Life</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.66">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <container type="Folder" label="Folders">5-7</container>
+ <unittitle><title linktype="simple">White Horse Inn</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.67">
+ <did>
+ <container type="Box" label="Box">10</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">White Horse Inn</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.68">
+ <did>
+ <container type="Box" label="Box">10</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">You Never Know</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.69">
+ <did>
+ <container type="Box" label="Box">10</container>
+ <container type="Folder" label="Folders">3-4</container>
+ <unittitle><title linktype="simple">Ziegfeld Follies</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.70">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Arden, Robbins, etc.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.71">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Brice, Hope.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.72">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <container type="Folder" label="Folders">3-6</container>
+ <unittitle>New Faces 1-4.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.73">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle>Nelson, Arden.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.74">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Merman, Hope.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.75">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">On your toes</title> (Bolger, Mac Veigh)</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.76">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">On your toes</title> (Chorus)</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.77">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Monte Wooley.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.78">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle><title linktype="simple">Ziegfeld Follies</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.79">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle><title linktype="simple">Ziegfeld Follies</title>, Chorus Line.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.80">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <container type="Folder" label="Folders">7-8</container>
+ <unittitle><title linktype="simple">Ziegfeld Follies</title>, Principals no.1-2.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.81">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">All the Living</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.82">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">American Way</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.83">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">Casa</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.84">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle><title linktype="simple">Cotton Club</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.85">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle><title linktype="simple">French Casino</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.86">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle>French (?).</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.87">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle><title linktype="simple">Golden Boy</title> (John Garfield).</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.88">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle><title linktype="simple">Hellzapoppin</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.89">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle><title linktype="simple">Holiday</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.90">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">10</container>
+ <unittitle><title linktype="simple">Hollywood</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.91">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">11</container>
+ <unittitle><title linktype="simple">House in the country</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.92">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">12</container>
+ <unittitle><title linktype="simple">Landscape</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.93">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">13</container>
+ <unittitle>Lewis, Joey; <title linktype="simple">Harper's</title> Magazine Assignment.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.94">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">14</container>
+ <unittitle>Murray, Ken.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.95">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">15</container>
+ <unittitle><title linktype="simple">No Time for Comedy</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.96">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">16</container>
+ <unittitle><title linktype="simple">One for the money</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.97">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">17</container>
+ <unittitle><title linktype="simple">Othello</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.98">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">18</container>
+ <unittitle><title linktype="simple">Paradise</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.99">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">19</container>
+ <unittitle><title linktype="simple">Possessed</title>/<title linktype="simple">Time of Life</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.100">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">20</container>
+ <unittitle>Russell, Blane, Pierce, Reed, etc.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.101">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">21</container>
+ <unittitle>Stone &#x0026; Collins.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.102">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <container type="Folder" label="Folder">22</container>
+ <unittitle><title linktype="simple">Without Warning</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.103">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Gilbert &#x0026; Sullivan; American Company.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.104">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Cox &#x0026; Box.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.105">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <container type="Folder" label="Folders">3-4</container>
+ <unittitle>Gondoliers 1-2.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.106">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <container type="Folder" label="Folders">5-6</container>
+ <unittitle>Iolanthe 1-2.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.107">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folders">1-3</container>
+ <unittitle>Mikado 1-3.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.108">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folders">4-5</container>
+ <unittitle>Patience 1-2.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.109">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <container type="Folder" label="Folders">6-8</container>
+ <unittitle><title linktype="simple">Pinafore</title> 1-3.</unittitle>
+ </did>
+ <scopecontent>
+ <p><title linktype="simple">Pinafore</title> 2 (folder 7) <title linktype="simple">with Trial by Jury</title>.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.110">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Pirates of Penzance</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.111">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <container type="Folder" label="Folders">2-4</container>
+ <unittitle><title linktype="simple">Princess Ida</title> 1-3.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.112">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle><title linktype="simple">Ruddigore</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.113">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle><title linktype="simple">Trial by Jury</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.114">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <container type="Folder" label="Folders">7-8</container>
+ <unittitle><title linktype="simple">Yeoman of the Guard</title> 1-2.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.3.6.115" level="file">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>New York Miscellaneous. <unitdate calendar="gregorian" era="ce">1937-1941 and n.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.115.2">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.115.3">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.115.4">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1941.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.115.5">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <container type="Folder" label="Folders">4-5</container>
+ <unittitle>
+ <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+ </unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.116">
+ <did>
+ <container type="Box" label="Box">18</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Illustrator's Show</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.117">
+ <did>
+ <container type="Box" label="Box">18</container>
+ <container type="Folder" label="Folders">2-5</container>
+ <unittitle>Minsky's.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.118">
+ <did>
+ <container type="Box" label="Box">18</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle>Vaudeville.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.119">
+ <did>
+ <container type="Box" label="Box">18</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle>World's Fair.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.3.6.120" level="file">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folders">1-9</container>
+ <unittitle>Los Angeles Biltmore</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.120.2">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folders">1-2</container>
+ <unittitle>Actors' Lab.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.120.3">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle>April Fool.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.120.4">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Philharmonic.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.120.5">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folders">5-9</container>
+ <unittitle>[No further description available].</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.121">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">10</container>
+ <unittitle>Hollywood Miscellaneous.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.122">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <container type="Folder" label="Folder">11</container>
+ <unittitle>Miscellaneous Stills.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.123">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <container type="Folder" label="Folders">1-7</container>
+ <unittitle>Pasadena Playhouse</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.123.2">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle><title linktype="simple">Country wife</title>, etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.123.3">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">Pal Joey</title>, etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.123.4">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <container type="Folder" label="Folders">3-7</container>
+ <unittitle>No further description available].</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.124">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <container type="Folder" label="Folders">8-14</container>
+ <unittitle>Greek Theatre.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.125">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <container type="Folder" label="Folder">15</container>
+ <unittitle>Burlesque. Los Angeles. <unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.126">
+ <did>
+ <container type="Box" label="Box">21</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Charles Laughton (Galileo).</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.127">
+ <did>
+ <container type="Box" label="Box">21</container>
+ <container type="Folder" label="Folders">2-5</container>
+ <unittitle>Portraits - Hollywood.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.128">
+ <did>
+ <container type="Box" label="Box">21</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle>Mae West.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.129">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>D'oyly Carte.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.130">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle><title linktype="simple">Fields Beyond</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.131">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">Larger than Life</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.132">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">4</container>
+ <unittitle>Miscellaneous.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.133">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">5</container>
+ <unittitle><title linktype="simple">New Faces</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.134">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle><title linktype="simple">On Borrowed Time</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.135">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle><title linktype="simple">On your Toes</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.136">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle>Puppets.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.137">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle><title linktype="simple">Shoemakers Holiday</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.138">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">10</container>
+ <unittitle>Unidentified Rehearsal.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.139">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">11</container>
+ <unittitle>Ed Wynn Flash.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.140">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <container type="Folder" label="Folder">12</container>
+ <unittitle><title linktype="simple">Ziegfeld Follies of the Air</title> (roughs).</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.3.6.141" level="file">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">1-2</container>
+ <unittitle>
+ <title linktype="simple">Anything Goes</title>
+ </unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.141.2">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">1</container>
+ <unittitle>Greek - unretouched.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.141.3">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">2</container>
+ <unittitle>Publicity Stills, set.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.142">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">3</container>
+ <unittitle><title linktype="simple">Arms and the man</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.143">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folders">4-5</container>
+ <unittitle><title linktype="simple">Awake and sing</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.144">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">6</container>
+ <unittitle>Ballet.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.145">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">7</container>
+ <unittitle>Barrie, Lee Scott, Dot, Bob, Gloria Grey.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.146">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">8</container>
+ <unittitle><title linktype="simple">Fez</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.147">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">9</container>
+ <unittitle><title linktype="simple">Great God Brown</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.148">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">10</container>
+ <unittitle>Greek, Gloria Lyn, Frances &#x0026; Walburn.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.149">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">11</container>
+ <unittitle>Hopkins.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.150">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folders">12-15</container>
+ <unittitle><title linktype="simple">Inspector General</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.151">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">16</container>
+ <unittitle><title linktype="simple">Merry Widow</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.152">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">17</container>
+ <unittitle><title linktype="simple">My Los Angeles</title> - Retouched Publicity shots.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.153">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">18</container>
+ <unittitle><title linktype="simple">Pagaent of Montley</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.154">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">19</container>
+ <unittitle><title linktype="simple">Streets of New York</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.155">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folders">20-22</container>
+ <unittitle><title linktype="simple">Student Prince</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.156">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">23</container>
+ <unittitle>Triola, Jenkins.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.157">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">24</container>
+ <unittitle>Unidentified.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.3.6.158" level="file">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folders">25-26</container>
+ <unittitle>
+ <title linktype="simple">Vagabond King</title>
+ </unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.158.2">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">25</container>
+ <unittitle>Publicity.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.158.3">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">26</container>
+ <unittitle>Set Stills.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.159">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">27</container>
+ <unittitle><title linktype="simple">Volpone</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.160">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <container type="Folder" label="Folder">28</container>
+ <unittitle><title linktype="simple">Winterset</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.161">
+ <did>
+ <container type="Box" label="Box">24</container>
+ <unittitle>Miscellaneous prints.</unittitle>
+ <physdesc> (12 &#xD7; 15&#x201D;)</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.3.6.162">
+ <did>
+ <container type="Box" label="Boxes">25-30</container>
+ <unittitle>Negatives.</unittitle>
+ </did>
+ </c01>
+            <c01 id="ref189" level="file">
+                <did>
+                    <unittitle>Scrapbooks of photographs</unittitle>
+                    <container id="cid6135177" type="Box" label="Box">31</container>
+                    <physdesc>
+                        <extent>2 volumes.</extent>
+                    </physdesc>
+                    <unitdate>ca. 1930s-1940s</unitdate>
+                </did>
+                <c02 id="ref190" level="item">
+                    <did>
+                        <unittitle>Vol. 1 - photographs of New York City</unittitle>
+                        <container id="cid6135178" type="Box" label="Box">31</container>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="item">
+                    <did>
+                        <unittitle>Vol. 2 - Photographs of Jerome Robinson, family and friends, scenes of New York, nude studies</unittitle>
+                        <container id="cid6135179" type="Box" label="Box">31</container>
+                    </did>
+                </c02>
+            </c01>
+ </dsc>
+ </archdesc>
+</ead>
