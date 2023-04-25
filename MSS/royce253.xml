@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD)
+Version 2002)//EN" "ead.dtd">
+
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier="ARK:/13030/tf9b69p2bc">PUBLIC "-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::253::Josiah Royce Memorial Collection)//EN" "royce253.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Josiah Royce Memorial Collection, 1875-1936</titleproper>
+<titleproper type="filing">Royce (Josiah) Memorial Collection</titleproper>
+<author>Processed by Grace Bertalot, November 1965; machine-readable finding aid created by Caroline Cub&#x00E9; and edited by Josh Fiala, Caroline Cub&#x00E9;, Laurel McPhee and Amy Shung-Gee Wong.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library, Department of Special Collections</publisher>
+<address>
+<addressline>Manuscripts Division</addressline>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 1999</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">April 1999</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cub&#xE9;. Online finding aid edited by Josh Fiala and Amy Shung-Gee Wong.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+<revisiondesc><change>
+<date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+<item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::253::Josiah Royce Memorial Collection)//EN" "royce253.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+</change></revisiondesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Josiah Royce Memorial Collection,</unittitle>
+<unitdate type="inclusive" normal="1870/1940">1875-1936</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">253</unitid>
+<physdesc label="Extent"><extent>20 boxes (10 linear ft.)</extent></physdesc>
+<abstract label="Abstract">Josiah Royce (1855-1916) was a professor of philosophy at the University of California at Berkeley and Harvard University. His published works include: <title linktype="simple">Primer of Logical Analysis for the Use of Composition Students</title> (1881), <title linktype="simple">The Religious Aspect of Philosophy</title> (1885) and <title linktype="simple">The Spirit of Modern Philosophy</title> (1892). The collection consists of writings by and about Josiah Royce, copies of his correspondence, books, clippings and photographs.</abstract>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library. Department of Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Collection was originally assembled by UCLA Department of Philosophy. Transferred from Royce Hall, 1954.</p>
+</acqinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Josiah Royce Memorial Collection (Collection 253). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233228">4233228</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography/History</head>
+<p>Royce was born on November 20, 1855 in Grass Valley, California; AB, University of California at Berkeley, 1875; studied at Leipzig and G&#xF6;ttingen Universities (1875-76), and then entered Johns Hopkins University, where he received his Ph.D in 1878; instructor in English literature and logic (1878-82), University of California at Berkeley; instructor in philosophy (1882-85), assistant professor (1885-92), professor of the history of philosophy (1892-1914), and in 1914 was named Alford professor of natural religion, moral philosophy, and civil polity, Harvard University; published works include: <title linktype="simple">Primer of Logical Analysis for the Use of Composition Students</title> (1881), <title linktype="simple">The Religious Aspect of Philosophy</title> (1885), <title linktype="simple">The Spirit of Modern Philosophy</title> (1892), <title linktype="simple">The Conception of God</title> (1895), <title linktype="simple">The World and the Individual</title> (1899, 1901), and <title linktype="simple">The Problem of Christianity</title> (2 vols., 1913); he died on September 14, 1916 in Cambridge, Massachusetts.</p>
+<bioghist>
+<head>Expanded Biographical/Historical Narrative</head>
+<p>In 1927 the Regents of the University of California approved a recommendation that the main classroom building on the new Westwood campus of the University be named Royce Hall in honor of the great American scholar and philosopher, Josiah Royce. The Department of Philosophy on this campus undertook the task of assembling a Josiah Royce Memorial Collection to be placed in a designated alcove of the building, known as the Josiah Royce Alcove.</p>
+<p>Through the generosity of Royce's family and friends, books and articles by and about Royce, originals and copies of some of his correspondence, his master's and doctor's thesis, as well as pictures, clippings and other Royce memorabilia were acquired for this collection. His own large and stately walnut bookcase was used to house the collection.</p>
+<p>The Royce Memorial remained in Royce Hall under the care of the Philosophy Department until December, 1954. At this time, because of the program for remodeling Royce Hall, it was transferred to the University Library's Department of Special Collections.</p>
+</bioghist>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>Collection consists of writings by and about Josiah Royce, copies of his correspondence, books, clippings, photographs, a typescript copy of a journal written by his mother, Sarah Eleanor Royce entitled, Across the Plains (1849), and other Royce memorabilia collected by the UCLA Department of Philosophy in memory of Royce.</p>
+</scopecontent>
+<arrangement>
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: 
+<list type="ordered" numeration="arabic">
+<item>Letters (Box 1).</item>
+<item>Papers and writings (Box 2).</item>
+<item>Writings of Josiah Royce (Boxes 3-6, 8-17).</item>
+<item>Other books (Boxed 6-7).</item>
+<item>Reviews of Royce's books (Boxes 16-19).</item>
+<item>Essays in honor of Royce (Box 20).</item>
+</list></p>
+</arrangement>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" rules="lcnaf" encodinganalog="600">Royce, Josiah, 1855-1916--Archives.</persname>
+<occupation source="lcsh" encodinganalog="650">Philosophers--United States--Archives.</occupation>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Manuscripts for publication.</genreform>
+<controlaccess>
+<head>Other Index Terms Related to this Collection</head>
+<persname rules="lcnaf" encodinganalog="700">Royce, Sarah, 1819-1891.</persname>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+
+<dsc type="in-depth" id="dsc-1.8.7">
+<head>Container List</head>
+<c01 level="series" id="c01-1.8.7.2">
+<did>
+<unittitle>Letters and Papers</unittitle>
+</did>
+<c02 level="file" id="c02-1.8.7.2.2">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">1</container>
+<unittitle>Biographical material.</unittitle>
+</did>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.3">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">2</container>
+<unittitle>Pictures of Josiah Royce and of his mother.</unittitle>
+</did>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.4">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">3</container>
+<unittitle>Clippings.</unittitle>
+</did>
+<scopecontent>
+<p><emph render="italic">re</emph> Josiah Royce, including obituaries. A few related to his sister, Ruth Royce, Librarian of San Jose (California) State Normal School.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.5">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">4</container>
+<unittitle>Copies of congratulations, regrets; telegrams received by Royce at the time of the anniversary dinner given to him by the American Philosophical Society.<unitdate calendar="gregorian" era="ce">January 1916.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.6">
+<did>
+<container label="Box" type="Box">1</container>
+<unittitle>War and Insurance. In the<title linktype="simple">New York Times</title> Magazine Section.<unitdate calendar="gregorian" era="ce">July 25, 1915.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.7">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">5</container>
+<unittitle>Letter.<unitdate calendar="gregorian" era="ce">February 2, 1928</unitdate>, from Ruth Royce to Ralph Barton Perry.</unittitle>
+</did>
+<scopecontent>
+<p><emph render="italic">re</emph> Josiah Royce.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.8">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">6</container>
+<unittitle>Letter from Eleanor R. Ingraham.</unittitle>
+</did>
+<scopecontent>
+<p><emph render="italic">re</emph> the armchair presented to UCLA for the Josiah Royce Alcove, Royce Hall.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.9">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">7</container>
+<unittitle>Letters, chiefly to Ruth Royce, at the time of Josiah Royce's death.</unittitle>
+</did>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.10">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">8</container>
+<unittitle>Correspondence to Professor Hugh Miller.</unittitle>
+</did>
+<scopecontent>
+<p><emph render="italic">re</emph> the organization of the Royce Memorial, Royce Hall, UCLA.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.11">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">9</container>
+<unittitle>Josiah Royce correspondence.</unittitle>
+<physdesc> Copies.</physdesc>
+</did>
+<scopecontent>
+<p><emph render="italic">re</emph> the naming of Royce Hall.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.12">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">10</container>
+<unittitle>Royce, Sarah Eleanor.</unittitle>
+</did>
+<c03 id="c03-1.8.7.2.12.2">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">10</container>
+<unittitle><title linktype="simple">Across the Plains</title>.</unittitle>
+<physdesc> 127 leaves. Typescript (copy).</physdesc>
+</did>
+<scopecontent>
+<p>Includes letter:<unitdate calendar="gregorian" era="ce">November 1, 1929</unitdate>, from Ralph Barton Perry to Charles H. Rieber. Published by Yale University Press.</p>
+</scopecontent>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.8.7.2.13">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">11</container>
+<unittitle>Articles and writings.</unittitle>
+</did>
+<scopecontent>
+<p>Including copies of examinations in philosophy given by him at Harvard (some are about Royce's work).</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.8.7.3">
+<did>
+<unittitle>Papers and Writings</unittitle>
+</did>
+<c02 level="file" id="c02-1.8.7.3.2">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">1</container>
+<unittitle>The Intention of the `Prometheus Bound' of Aeschylus, Being an Investigation in the Department of Greek Theology.<unitdate calendar="gregorian" era="ce">1875.</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Thesis prepared by Royce as a candidate for the degree of Bachelor of Arts.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.8.7.3.3">
+<did>
+<container label="Box" type="Box">2</container>
+<unittitle>Of the Interdependence of the Principles of Knowledge; an Investigation of Elementary Epistemology...</unittitle>
+</did>
+<scopecontent>
+<p>Royce's Ph.D. dissertation, Johns Hopkins University.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.8.7.3.4">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">2</container>
+<unittitle>War and Insurance.<unitdate calendar="gregorian" era="ce">September 27, 1914.</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>An address by Royce delivered at Berkeley.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.8.7.3.5">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">2</container>
+<unittitle>Royce's lectures on metaphysics.<unitdate calendar="gregorian" era="ce">1915-1916.</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Part 1:<unitdate calendar="gregorian" era="ce">September 30, 1915-March 4, 1916</unitdate></p>
+<p>Part 2:<unitdate calendar="gregorian" era="ce">March 7, 1916-May 27, 1916.</unitdate></p>
+</scopecontent>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.8.7.4">
+<did>
+<unittitle>Writings of Josiah Royce</unittitle>
+</did>
+<c02 id="c02-1.8.7.4.2">
+<did>
+<container label="Box" type="Box">3</container>
+<unittitle><title linktype="simple">California, from the Conquest in 1846 to the Second Vigilance Committee in San Francisco--a Study of American Character</title>. Boston and New York: Houghton Mifflin Company.<unitdate calendar="gregorian" era="ce">1886.</unitdate></unittitle>
+<physdesc> 2 copies, variant printing and binding.</physdesc>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.3">
+<did>
+<container label="Box" type="Box">3</container>
+<unittitle><title linktype="simple">The Conception of God; a Philosophical Discussion Concerning the Nature of the Divine Idea as a Demonstrable Reality</title>, by Josiah Royce, Joseph LeConte, G.H. Howison, and Sidney Edward Mezes. New York: Macmillan Company.<unitdate calendar="gregorian" era="ce">1897.</unitdate></unittitle>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.4">
+<did>
+<container label="Box" type="Box">3</container>
+<unittitle><title linktype="simple">The Conception of Immortality. The Ingersoll Lecture, 1899</title>. Boston and New York: Houghton Mifflin Company.<unitdate calendar="gregorian" era="ce">1900.</unitdate></unittitle>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.5">
+<did>
+<container label="Box" type="Box">3</container>
+<unittitle><title linktype="simple">The Feud of Oakfield Creek; a Novel of California Life</title>. Boston and New York: Houghton, Mifflin Company.<unitdate calendar="gregorian" era="ce">1887.</unitdate></unittitle>
+<physdesc> (2 copies)</physdesc>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.6">
+<did>
+<container label="Box" type="Box">3</container>
+<unittitle><title linktype="simple">Fugitive Essays</title>. Introduction by Dr. J. Loewenberg. Cambridge: Harvard University Press.<unitdate calendar="gregorian" era="ce">1920.</unitdate></unittitle>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.7">
+<did>
+<container label="Box" type="Box">3</container>
+<unittitle><title linktype="simple">Herbert Spencer, an Estimate and Review</title>. New York: Fox, Duffield &#x0026; Company.<unitdate calendar="gregorian" era="ce">1904.</unitdate></unittitle>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.8">
+<did>
+<container label="Box" type="Box">4</container>
+<unittitle><title linktype="simple">The Hope of the Great Community</title>. New York: Macmillan Company.<unitdate calendar="gregorian" era="ce">1916.</unitdate></unittitle>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.9">
+<did>
+<container label="Box" type="Box">4</container>
+<unittitle><title linktype="simple">Logic</title>, by Arnold Ruge, Wilhelm Windelband, Josiah Royce, Louis Couturat, Benedetto Croce, Federigo Enriques, and Nicolaj Losskij. Translated by B. Ethel Meyer. London: Macmillan and Company.<unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.10">
+<did>
+<container label="Box" type="Box">4</container>
+<unittitle><title linktype="simple">Outlines of Psychology; an Elementary Treatise with some Practical Applications</title>. New York: Macmillan Company.<unitdate calendar="gregorian" era="ce">1903.</unitdate></unittitle>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.11">
+<did>
+<container label="Box" type="Box">4</container>
+<unittitle><title linktype="simple">The Philosophy of Loyalty</title>. New York: Macmillan Company.<unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+</did>
+</c02>
+<c02 id="c02-1.8.7.4.12">
+<did>
+<container label="Box" type="Box">4</container>
+<unittitle><title linktype="simple">The Problem of Christianity; Lectures Delivered at the Lowell Institute in Boston, and at Manchester College, Oxford</title>. New York: Macmillan Company.<unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+</did>
+<c03 level="item" id="c03-1.8.7.4.12.2">
+<did>
+<container label="Box" type="Box">4</container>
+<unittitle>vol.1: The Christian Doctrine of Life.</unittitle>
+</did>
+</c03>
+<c03 level="item" id="c03-1.8.7.4.12.3">
+<did>
+<container label="Box" type="Box">4</container>
+<unittitle>vol.2: The Real World and the Christian Ideal.</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.13">
+<did>
+<container label="Box" type="Box">5</container>
+<unittitle><title linktype="simple">The Religious Aspect of Philosophy; a Critique of the Bases of Faith and Conduct</title>. Boston: Houghton Mifflin &#x0026; Company.<unitdate calendar="gregorian" era="ce">1885.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.14">
+<did>
+<container label="Box" type="Box">5</container>
+<unittitle><title linktype="simple">The Sources of Religious Insight; Lectures Delivered Before Lake Forest College...</title> New York: Charles Scribner's Sons.<unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.15">
+<did>
+<container label="Box" type="Box">5</container>
+<unittitle><title linktype="simple">The Spirit of Modern Philosophy; an Essay in the Form of Lectures</title>. Boston and New York: Houghton Mifflin &#x0026; Company.<unitdate calendar="gregorian" era="ce">1892.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.16">
+<did>
+<container label="Box" type="Box">5</container>
+<unittitle><title linktype="simple">Studies of Good and Evil; a Series of Essays Upon Problems of Philosophy and of Life</title>. New York: D. Appleton &#x0026; Company.<unitdate calendar="gregorian" era="ce">1898.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.17">
+<did>
+<container label="Box" type="Box">5</container>
+<unittitle><title linktype="simple">War and Insurance; an Address Delivered Before the Philosophical Union of the University of California at its Twenty-Fifth Anniversary at Berkeley, California, August 27, 1914</title>. New York: Macmillan Company.<unitdate calendar="gregorian" era="ce">1914.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.18">
+<did>
+<container label="Box" type="Box">5</container>
+<unittitle><title linktype="simple">Willian James, and Other Essays on the Philosophy of Life</title>. New York: Macmillan Company.<unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.19">
+<did>
+<container label="Box" type="Box">6</container>
+<unittitle>Is There a Philosophy of Evolution? In the<title linktype="simple">Unitarian Review</title> (vol.32).</unittitle>
+</did>
+<scopecontent>
+<p>First Paper.<unitdate calendar="gregorian" era="ce">July.</unitdate></p>
+<p>Second Paper.<unitdate calendar="gregorian" era="ce">August.</unitdate></p>
+</scopecontent>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.20">
+<did>
+<container label="Box" type="Box">6</container>
+<unittitle>K&#xFC;hnemann, Eugen.</unittitle>
+</did>
+<c03 level="item" id="c03-1.8.7.4.20.2">
+<did>
+<container label="Box" type="Box">6</container>
+<unittitle><title linktype="simple">Schiller</title>. Translated from the third edition of the German original by Katherine Royce; introduction by Josiah Royce. Boston and London: Ginn &#x0026; Company.<unitdate calendar="gregorian" era="ce">1912.</unitdate></unittitle>
+<physdesc> 2 vol.</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.21">
+<did>
+<container label="Box" type="Box">6</container>
+<unittitle><title linktype="simple">The World and the Individual; Gifford Lectures Delivered Before the University of Aberdeen</title>. New York: Macmillan Company.<unitdate calendar="gregorian" era="ce">1900 and 1901.</unitdate></unittitle>
+<physdesc> 2 vol.</physdesc>
+</did>
+<c03 level="item" id="c03-1.8.7.4.21.2">
+<did>
+<container label="Box" type="Box">6</container>
+<unittitle>First series - The Four Historical Conceptions of Being.</unittitle>
+</did>
+</c03>
+<c03 level="item" id="c03-1.8.7.4.21.3">
+<did>
+<container label="Box" type="Box">6</container>
+<unittitle>Second series - Nature, Man, and the Moral Order.</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.22">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>The American College and Life. In<title linktype="simple">Science</title> (vol.29, no.741).<unitdate calendar="gregorian" era="ce">March 12, 1909.</unitdate></unittitle>
+<physdesc> p.401.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.23">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>An American Thinker on the War. In the<title linktype="simple">Hibbert Journal</title>.<unitdate calendar="gregorian" era="ce">October 1915.</unitdate></unittitle>
+<physdesc> p.37.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.24">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>The American University Gymnasium; its Influence on Academic Life. In<title linktype="simple">Alma Mater</title>, Aberdeen University Magazine (vol.17, no.14).<unitdate calendar="gregorian" era="ce">February 7, 1900.</unitdate></unittitle>
+<physdesc> p.1. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.25">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>Atonement. In the<title linktype="simple">Atlantic Monthly</title>.<unitdate calendar="gregorian" era="ce">March 1913.</unitdate></unittitle>
+<physdesc> p.406.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.26">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>Before and Since Kant. In the<title linktype="simple">Berkeley Quarterly</title> (vol.2, no.2).<unitdate calendar="gregorian" era="ce">April 1881.</unitdate></unittitle>
+<physdesc> p.134.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.27">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>The Carnegie Foundation for the Advancement of Teaching and the case of Middlebury College. In<title linktype="simple">School and Society</title> (vol.1, no.5).<unitdate calendar="gregorian" era="ce">January 30, 1915.</unitdate></unittitle>
+<physdesc> p.145.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.28">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>The Case of John Bunyan. In the<title linktype="simple">Psychological Review</title> (vol.1, no.1).<unitdate calendar="gregorian" era="ce">January 1894.</unitdate></unittitle>
+<physdesc> p.22. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.29">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>Certitudes and Illusions. In<title linktype="simple">Science</title> (vol.3, no.62).<unitdate calendar="gregorian" era="ce">March 6, 1896.</unitdate></unittitle>
+<physdesc> p.354.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.30">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>The Christian Doctrine of Life. In the<title linktype="simple">Hibbert Journal</title> (vol.11, no.3).<unitdate calendar="gregorian" era="ce">April 1913.</unitdate></unittitle>
+<physdesc> p.473.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.31">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle>The Concept of the Infinite. In the<title linktype="simple">Hibbert Journal</title> (vol.1, no.1).<unitdate calendar="gregorian" era="ce">October 1902.</unitdate></unittitle>
+<physdesc> p.21.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.32">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle><title linktype="simple">The Conception of God; an Address Before the Union...</title> Berkeley, Excutive Council of the Union.<unitdate calendar="gregorian" era="ce">1895.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.33">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>The Hope of the Great Community. In the<title linktype="simple">Yale Review</title>.<unitdate calendar="gregorian" era="ce">January 1916.</unitdate></unittitle>
+<physdesc> p.269. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.34">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>Hallucinations of Memory and `Telepathy.' In<title linktype="simple">Mind</title> (no.50).<unitdate calendar="gregorian" era="ce">April 1888.</unitdate></unittitle>
+<physdesc> p.244.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.35">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>Herbert Spencer. In the<title linktype="simple">International Quarterly</title> (vol.9, no.9).<unitdate calendar="gregorian" era="ce">June-September 1904.</unitdate></unittitle>
+<physdesc> p.335.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.36">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>Football and Ideals. In the<title linktype="simple">Harvard Illustrated Magazine</title> (vol.10, no.2).<unitdate calendar="gregorian" era="ce">November 1908.</unitdate></unittitle>
+<physdesc> p.40.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.37">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>The Fremont Legend. A letter to the editor of the<title linktype="simple">Nation</title> (vol.52, no.1351).<unitdate calendar="gregorian" era="ce">May 21, 1891.</unitdate></unittitle>
+<physdesc> p.423.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.39">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>George Eliot as a Religious Teacher. In<title linktype="simple">The Californian</title> (vol.3, no.16).<unitdate calendar="gregorian" era="ce">April 1881.</unitdate></unittitle>
+<physdesc> p.300.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.40">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>Fremont. In the<title linktype="simple">Atlantic Monthly</title> (vol.66, no.396).<unitdate calendar="gregorian" era="ce">October 1890.</unitdate></unittitle>
+<physdesc> p.548.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.41">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>The Outlook in Ethics. In<title linktype="simple">International Journal of Ethics</title> (vol.2, no.1).<unitdate calendar="gregorian" era="ce">October 1891.</unitdate></unittitle>
+<physdesc> p.106.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.42">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>The Decay of Earnestness. In<title linktype="simple">The Californian</title> (vol.3, no.13).<unitdate calendar="gregorian" era="ce">January 1881.</unitdate></unittitle>
+<physdesc> p.18.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.43">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>Doubting and Working. In<title linktype="simple">The Californian</title> (vol.3, no.15).<unitdate calendar="gregorian" era="ce">March 1881.</unitdate></unittitle>
+<physdesc> p.229.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.44">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>A Case Involving Problems of Loyalty. An examination question for students in a University Extension course in ethics.<unitdate calendar="gregorian" era="ce">1916.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.45">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle>The Eternal and the Practical. Reprinted from the<title linktype="simple">Philosophical Review</title> (vol.13, no.2).<unitdate calendar="gregorian" era="ce">March 1904).</unitdate></unittitle>
+<physdesc> 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.46">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>The Implications of Self-Consciousness. In the<title linktype="simple">New World</title> (no.2).<unitdate calendar="gregorian" era="ce">June 1892.</unitdate></unittitle>
+<physdesc> p.289.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.47">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>How Beliefs Are Made. Reprinted from<title linktype="simple">The Californian</title>.<unitdate calendar="gregorian" era="ce">February 1882.</unitdate></unittitle>
+<physdesc> 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.48">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>The Imitative Functions, and Their Place in Human Nature. In the<title linktype="simple">Century Magazine</title>.<unitdate calendar="gregorian" era="ce">May 1894.</unitdate></unittitle>
+<physdesc> p.137.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.49">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>Immortality. In the<title linktype="simple">Hibbert Journal</title> (vol.5, no.4).<unitdate calendar="gregorian" era="ce">July 1907.</unitdate></unittitle>
+<physdesc> p.724. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.50">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>Is There a Philosophy of Evolution? First paper. The<title linktype="simple">Unitarian Review</title> (vol.32, no.1).<unitdate calendar="gregorian" era="ce">July 1889.</unitdate></unittitle>
+<physdesc> p.1. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.51">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>Is There a Philosophy of Evolution? Second paper. In the<title linktype="simple">Unitarian Review</title> (vol.32, no.2).<unitdate calendar="gregorian" era="ce">August 1889.</unitdate></unittitle>
+<physdesc> p.97.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.52">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>Is there a Science of Education? Part one,<title linktype="simple">Educational Review</title> (vol.1, no.1).<unitdate calendar="gregorian" era="ce">January 1891.</unitdate></unittitle>
+<physdesc> p.151.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.53">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>Is There a Science of Education? Part two, in<title linktype="simple">Educational Review</title> (vol.1, no.2).<unitdate calendar="gregorian" era="ce">February 1891.</unitdate></unittitle>
+<physdesc> p.121.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.54">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>James as a Philosopher. In<title linktype="simple">Science</title> (vol.34, no.863).<unitdate calendar="gregorian" era="ce">July 14, 1911.</unitdate></unittitle>
+<physdesc> p.33.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.55">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>John Fiske as a Thinker. In the<title linktype="simple">Harvard Graduates' Magazine</title> (vol.10, no.37).<unitdate calendar="gregorian" era="ce">September 1901.</unitdate></unittitle>
+<physdesc> p.23.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.56">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>Joseph LeConte. In the<title linktype="simple">International Monthly</title> (vol.4, no.3).<unitdate calendar="gregorian" era="ce">September 1901.</unitdate></unittitle>
+<physdesc> p.324.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.57">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>Kant's Doctrine of the Basis of Mathematics. In the<emph render="italic">Journal of Philosophy, Psychology, and Scientific Methods</emph>. vol.2, no.8).<unitdate calendar="gregorian" era="ce">April 13, 1905.</unitdate></unittitle>
+<physdesc> p.197.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.58">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle>Kant's Relation to Modern Philosophic Progress [in the<title linktype="simple">Journal of Speculative Philosophy</title>].</unittitle>
+<physdesc> 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.59">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>Natural Rights and Spinoza's Essay on Liberty. In the<title linktype="simple">Berkeley Quarterly</title> (vol.1, no.4).<unitdate calendar="gregorian" era="ce">October 1880.</unitdate></unittitle>
+<physdesc> p.312.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.60">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>The New Psychology and the Consulting Psychologist. In the<title linktype="simple">Forum</title> (vol.26, no.1).<unitdate calendar="gregorian" era="ce">September 1898.</unitdate></unittitle>
+<physdesc> p.80.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.61">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>A New Study of Psychology. In<title linktype="simple">International Journal of Ethics</title> (vol.1, no.2).<unitdate calendar="gregorian" era="ce">January 1891.</unitdate></unittitle>
+<physdesc> p.143.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.62">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>The Nature of Voluntary Progress. In the<title linktype="simple">Berkeley Quarterly</title> (vol.1, no.3).<unitdate calendar="gregorian" era="ce">July 1880.</unitdate></unittitle>
+<physdesc> p.161.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.63">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>[?????]<title linktype="simple">Overland Monthly</title> (vol.15, no.2).<unitdate calendar="gregorian" era="ce">August 1875.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.64">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>The Mechanical, the Historical and the Statistical. In<title linktype="simple">Science</title> (vol.39, no.1007).<unitdate calendar="gregorian" era="ce">April 17, 1914.</unitdate></unittitle>
+<physdesc> p.551.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.65">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle> `Mind-stuff' and Reality. In<title linktype="simple">Mind</title> (no.23).<unitdate calendar="gregorian" era="ce">July 1881.</unitdate></unittitle>
+<physdesc> p.365.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.66">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>Mind and Reality. In<title linktype="simple">Mind</title> (no.25).<unitdate calendar="gregorian" era="ce">January 1882.</unitdate></unittitle>
+<physdesc> p.30.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.67">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>Montgomery and Fremont: New Documents on the Bear Flag Affair. In<title linktype="simple">Century Magazine</title> (vol.41, no.5).</unittitle>
+<physdesc> p.780.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.68">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>Natural Law, Ethics, and Evolution. A discussion in<title linktype="simple">International Journal of Ethics</title> (vol.5, no.4).<unitdate calendar="gregorian" era="ce">July 1895.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.69">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle>Light on the Seizure of California. In<title linktype="simple">Century Magazine</title> (vol.40, no.5).<unitdate calendar="gregorian" era="ce">September 1890.</unitdate></unittitle>
+<physdesc> p.792.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.70">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle><title linktype="simple">Primer of Logical Analysis for the Use of Composition Students</title>. San Francisco: A.L. Bancroft and Company.<unitdate calendar="gregorian" era="ce">1881.</unitdate></unittitle>
+<physdesc> 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.71">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>Present Ideals of American University Life. In<title linktype="simple">Scribner's Magazine</title> (vol.10, no.3).<unitdate calendar="gregorian" era="ce">September 1891.</unitdate></unittitle>
+<physdesc> p.376.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.72">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>The Problem of Truth in the Light of Recent Discussion. Paper for the International Philosophical Congress, Heidelberg.<unitdate calendar="gregorian" era="ce">1908.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.73">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>Primitive Ways of Thinking, with Special Reference to Negation and Classification. In<title linktype="simple">The Open Court</title> (vol.27, no.689).<unitdate calendar="gregorian" era="ce">October 1913.</unitdate></unittitle>
+<physdesc> p.577.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.74">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>The Problem of Natural Religion. In the<title linktype="simple">International Quarterly</title> (vol.7, no.1).<unitdate calendar="gregorian" era="ce">March-June 1903.</unitdate></unittitle>
+<physdesc> p.85.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.75">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>On Definitions and Debates. In the<title linktype="simple">Journal of Philosophy, Psychology, and Scientific Method</title> (vol.9, no.4).<unitdate calendar="gregorian" era="ce">February 15, 1912.</unitdate></unittitle>
+<physdesc> p.85.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.76">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>The Present State of the Question Regarding the First Principles of Theoretical Science. In<title linktype="simple">Proceedings of the American Philosophical Society held at Philadelphia, for Promoting Useful Knowledge</title> (vol.45, no.182).<unitdate calendar="gregorian" era="ce">January-April, 1906.</unitdate></unittitle>
+<physdesc> p.82.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.77">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>A Plea for Provincial Independence in Education. Middlebury, Vermont.<unitdate calendar="gregorian" era="ce">1914.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.78">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>Originality and Consciousness. In the<title linktype="simple">Harvard Monthly</title> (vol.24, no.4).<unitdate calendar="gregorian" era="ce">June 1897.</unitdate></unittitle>
+<physdesc> p.133.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.79">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>The Pacific Coast: a Psychological Study of Influence. In the<title linktype="simple">International Monthly</title> (vol.2, no.5).<unitdate calendar="gregorian" era="ce">November 1900.</unitdate></unittitle>
+<physdesc> p.555. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.80">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>Pessimism and Modern Thought. In the<title linktype="simple">Berkeley Quarterly</title> (vol.2, no.4).<unitdate calendar="gregorian" era="ce">October 1881.</unitdate></unittitle>
+<physdesc> p.292.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.81">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>Professor Royce on his Reviewer. A letter to the editor in the<title linktype="simple">New Republic</title> (vol.1, no.8).<unitdate calendar="gregorian" era="ce">December 26, 1914.</unitdate></unittitle>
+<physdesc> p.23.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.82">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>The Practical Value of Philosophy. In the<title linktype="simple">Ethical Record</title> (vol.2).<unitdate calendar="gregorian" era="ce">April 1889.</unitdate></unittitle>
+<physdesc> p.9.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.83">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>Nietzsche. In the<title linktype="simple">Atlantic Monthly</title>.<unitdate calendar="gregorian" era="ce">March 1917.</unitdate></unittitle>
+<physdesc> p.321. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.84">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>On Certain Psychological Aspects of Moral Training. In<title linktype="simple">International Journal of Ethics</title> (vol.3, no.4).<unitdate calendar="gregorian" era="ce">July 1893.</unitdate></unittitle>
+<physdesc> p.28.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.85">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle>The Old and the New--a Lesson. In the<title linktype="simple">University Chronicle</title> (vol.5, no.2).<unitdate calendar="gregorian" era="ce">July 1902.</unitdate></unittitle>
+<physdesc> p.92. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.86">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>The Sciences of the Ideal. In<title linktype="simple">Science</title> (vol.20, no.510).<unitdate calendar="gregorian" era="ce">October 7, 1904.</unitdate></unittitle>
+<physdesc> p.449.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.87">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>Schiller's Ethical Studies. In the<title linktype="simple">Journal of Speculative Philosophy</title> (vol.12, no.4).<unitdate calendar="gregorian" era="ce">October 1878.</unitdate></unittitle>
+<physdesc> p.373. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.88">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>Report of the Committee on Phantasms and Presentiments.<title linktype="simple">Proceedings of the American Society for Psychical Research</title> (vol.1, no.4).<unitdate calendar="gregorian" era="ce">March 1889.</unitdate></unittitle>
+<physdesc> p.350.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.89">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>Recent Logical Inquiries and Their Psychological Bearings. In the<title linktype="simple">Psychological Review</title> (vol.9, no.2).<unitdate calendar="gregorian" era="ce">March 1902.</unitdate></unittitle>
+<physdesc> p.105.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.90">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>The Reality of the Temporal. Reprinted from the<title linktype="simple">International Journal of Ethics</title> (vol.20).<unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+<physdesc> p.257.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.91">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>The Psychology of Invention. In the<title linktype="simple">Psychological Review</title> (vol.5, no.2).<unitdate calendar="gregorian" era="ce">March 1898.</unitdate></unittitle>
+<physdesc> p.113.</physdesc>
+</did>
+<scopecontent>
+<p>(Also a reprint of same)</p>
+</scopecontent>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.92">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>Provincialism. In<title linktype="simple">Putnam's Magazine</title> (vol.7, no.2).<unitdate calendar="gregorian" era="ce">November 1909.</unitdate></unittitle>
+<physdesc> p.232.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.93">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>Preliminary Report on Imitation. In the<title linktype="simple">Psychological Review</title> (vol.2, no.3).<unitdate calendar="gregorian" era="ce">May 1895.</unitdate></unittitle>
+<physdesc> p.217.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.94">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>Professor Everett as a Metaphysician. In the<title linktype="simple">New World</title> (vol.9, no.36).<unitdate calendar="gregorian" era="ce">December 1900.</unitdate></unittitle>
+<physdesc> p.726.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.95">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>Race Questions and Prejudices. In the<title linktype="simple">International Journal of Ethics</title> (vol.16, no.3).<unitdate calendar="gregorian" era="ce">April 1906.</unitdate></unittitle>
+<physdesc> p.265.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.96">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle>The Problem of Natural Religion. In the<title linktype="simple">International Quarterly</title> (vol.7, no.1).<unitdate calendar="gregorian" era="ce">March-June 1903.</unitdate></unittitle>
+<physdesc> p.85.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.97">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Some Psychological Problems Emphasized by Pragmatism. In the<title linktype="simple">Popular Science Monthly</title> (vol.83, no.4).<unitdate calendar="gregorian" era="ce">October 1913.</unitdate></unittitle>
+<physdesc> p.394.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.98">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Some Observations on the Anomalies of Self-Consciousness (1). In the<title linktype="simple">Psychological Review</title> (vol.2, no.5).<unitdate calendar="gregorian" era="ce">September 1895.</unitdate></unittitle>
+<physdesc> p.433.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.99">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Some Observations on the Anomalies of Self-Consciousness (2). In the<title linktype="simple">Psychological Review</title> (vol.2, no.6).<unitdate calendar="gregorian" era="ce">November 1895.</unitdate></unittitle>
+<physdesc> p.574.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.100">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Self-consciousness, Social Consciousness, and Nature (1). In the<title linktype="simple">Philosophical Review</title> (vol.4, no.5).<unitdate calendar="gregorian" era="ce">September 1895.</unitdate></unittitle>
+<physdesc> p.465.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.101">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Self-Consciousness, Social Consciousness, and Nature (2). In the<title linktype="simple">Philosophical Review</title> (vol.4, no.6).<unitdate calendar="gregorian" era="ce">November 1895.</unitdate></unittitle>
+<physdesc> p.577.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.102">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>The Second Death. In the<title linktype="simple">Atlantic Monthly</title> (vol.3, no.2).<unitdate calendar="gregorian" era="ce">February 1913.</unitdate></unittitle>
+<physdesc> p.242.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.103">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Some Relations of Physical Training to the Present Problems of Moral Education in America. Boston, Boston Normal School of Gymnastics.<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.104">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Two Philosophers of the Paradoxical. First paper: Hegel. In the<title linktype="simple">Atlantic Monthly</title> (vol.67, no.399).<unitdate calendar="gregorian" era="ce">January 1891.</unitdate></unittitle>
+<physdesc> p.45.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.105">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Two Philosophers of the Paradoxical. Second paper: Schopenhauer. In the<title linktype="simple">Atlantic Monthly</title> (vol.67, no.400).<unitdate calendar="gregorian" era="ce">February 1891.</unitdate></unittitle>
+<physdesc> p.161.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.106">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>The Student of Philosophy. In the<title linktype="simple">Harvard Monthly</title> (vol.18, no.3).<unitdate calendar="gregorian" era="ce">May, 1894.</unitdate></unittitle>
+<physdesc> p.87 .</physdesc>
+</did>
+<note>
+<p>[Missing]</p>
+</note>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.107">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Wie unterschieden sich gesunde und krankhafte Geisteszust&#xE4;nde beim Kinde? Vortrag von Josiah Royce. Translated by Chr. Ufer.<title linktype="simple">P&#xE4;dagogisches Magazin</title> (vol.44).<unitdate calendar="gregorian" era="ce">1904.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.108">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Shelley and the Revolution. In the<title linktype="simple">Californian</title> (vol.1, no.6).<unitdate calendar="gregorian" era="ce">June 1880.</unitdate></unittitle>
+<physdesc> p.543.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.109">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle>Some Relations Between Philosophy and Science in the First Half of the Nineteenth Century in Germany. In<title linktype="simple">Science</title> (vol.38, no.982).<unitdate calendar="gregorian" era="ce">October 24, 1913.</unitdate></unittitle>
+<physdesc> p.567.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.110">
+<did>
+<container label="Box" type="Box">15</container>
+<unittitle>An Extension of the Algebra of Logic. In<title linktype="simple">The Journal of Philosophy, Psychology and Scientific Methods</title> (vol.10, no.23).<unitdate calendar="gregorian" era="ce">November 6, 1913.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.111">
+<did>
+<container label="Box" type="Box">15</container>
+<unittitle>George Fox as a Mystic. In the<title linktype="simple">Harvard Theological Review</title> (vol.6, no.1).<unitdate calendar="gregorian" era="ce">January 1913.</unitdate></unittitle>
+<physdesc> 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.112">
+<did>
+<container label="Box" type="Box">15</container>
+<unittitle>Review of Mental Development in the Child and the Race: Methods and Processes, by James Mark Baldwin. In the<title linktype="simple">Psychological Review</title> (vol.3, no.2).<unitdate calendar="gregorian" era="ce">March 1896.</unitdate></unittitle>
+<physdesc> p.201.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.113">
+<did>
+<container label="Box" type="Box">15</container>
+<unittitle>What is Vital in Christianity? In the<title linktype="simple">Harvard Theological Review</title> (vol.2, no.4).<unitdate calendar="gregorian" era="ce">October 1909.</unitdate></unittitle>
+<physdesc> p.408. 3 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.114">
+<did>
+<container label="Box" type="Box">15</container>
+<unittitle>What Should Be the Attitude of Teachers of Philosophy Toward Religion? In<title linktype="simple">International Journal of Ethics</title> (vol.13, no.3).<unitdate calendar="gregorian" era="ce">April 1903.</unitdate></unittitle>
+<physdesc> p.280.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.115">
+<did>
+<container label="Box" type="Box">15</container>
+<unittitle>A Word for the Times. In the<title linktype="simple">Harvard Graduates' Magazine</title> (vol.23, no.90).<unitdate calendar="gregorian" era="ce">December 1914.</unitdate></unittitle>
+<physdesc> p.207.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.116">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Chapman, John Jay.</origination>
+<unittitle>Portrait of Josiah Royce, the Philosopher. In the<title linktype="simple">Outlook</title> (vol.122, no.9).<unitdate calendar="gregorian" era="ce">July 2, 1916.</unitdate></unittitle>
+<physdesc> p.4.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.117">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Hocking, William Ernest</origination>
+<unittitle>Professor Josiah Royce. In the<title linktype="simple">Harvard Alumni Bulletin</title> (vol.19, no.1).<unitdate calendar="gregorian" era="ce">September 28, 1916.</unitdate></unittitle>
+<physdesc> p.4.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.118">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Carr, Edwin S.</origination>
+<container label="Box" type="Box">16</container>
+<unittitle>Royce's Philosophy of Religion. In<title linktype="simple">Bibliotheca Sacra</title> (vol.71, no.282).<unitdate calendar="gregorian" era="ce">April 1914.</unitdate></unittitle>
+<physdesc> p.283.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.119">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Aronson, Moses Judah</origination>
+<unittitle>La philosophie morale de Josiah Royce; essai sur l'id&#xE9;alisme social aux Etats-Unis d'Amerique. Paris: Librairie F&#xE9;lix Alcan.<unitdate calendar="gregorian" era="ce">1927.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.120">
+<did>
+<container label="Box" type="Box">16</container>
+<unittitle>A Bibliography of the Unpublished Writings of Josiah Royce. In the<title linktype="simple">Philosophical Review</title> (vol.26, no.5).<unitdate calendar="gregorian" era="ce">September 1917.</unitdate></unittitle>
+<physdesc> p.578.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.121">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Kawaguchi, Ukichi</origination>
+<unittitle>The Doctrine of Evolution and the Conception of God. In the<title linktype="simple">American Journal of Theology</title> (vol.19, no.4).<unitdate calendar="gregorian" era="ce">October 1915.</unitdate></unittitle>
+<physdesc> p.556.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.122">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Driscoll, John T.</origination>
+<unittitle>Professor Royce and the Problem of Christianity. In the<title linktype="simple">North American Review</title> (vol.198, no.5).<unitdate calendar="gregorian" era="ce">November 1913.</unitdate></unittitle>
+<physdesc> p.640.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.123">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Cabot, Richard C.</origination>
+<unittitle>America's Duty Today, from the Point of View of a Hospital Doctor. In the<title linktype="simple">Outlook</title> (vol.115, no.14).<unitdate calendar="gregorian" era="ce">April 4, 1917.</unitdate></unittitle>
+<physdesc> p.606.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.124">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Buckham, John Wright</origination>
+<unittitle>The Contribution of Professor Royce to Christian Thought. In the<title linktype="simple">Harvard Theological Review</title> (vol.8, no.2).<unitdate calendar="gregorian" era="ce">April 1915.</unitdate></unittitle>
+<physdesc> p.219. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.125">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Cabot, Richard C.</origination>
+<unittitle>Review of<title linktype="simple">The World and the Individual</title>. In the<title linktype="simple">Harvard Graduates' Magazine</title> (vol.8, no.31.<unitdate calendar="gregorian" era="ce">March 1900.</unitdate></unittitle>
+<physdesc> p.317.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.126">
+<did>
+<container label="Box" type="Box">16</container>
+<unittitle>Review of<title linktype="simple">William James and Other Essays on the Philosophy of Life</title>. In the<title linktype="simple">International Journal of Ethics</title> (vol.22, no.3).<unitdate calendar="gregorian" era="ce">April 1912.</unitdate></unittitle>
+<physdesc> p.354.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.127">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Rothman, Walter</origination>
+<unittitle>Josiah Royces Versuch einer Synthese von Pragmatismus und Objektivit&#xE4;t. Jena, Universit&#xE4;ts-Buchdrukerei G. Neuenhahn.<unitdate calendar="gregorian" era="ce">1926.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.128">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Sorley, W.R.</origination>
+<unittitle>Josiah Royce, 1855-1916. Reprinted from the<title linktype="simple">Proceedings of the British Academy</title> (vol.7).</unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.129">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>Josiah Royce. In the<title linktype="simple">Outlook</title> (vol.114, no.4).<unitdate calendar="gregorian" era="ce">September 27, 1916.</unitdate></unittitle>
+<physdesc> p.165.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.130">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>A Philosopher of Imagination. In the<title linktype="simple">Nation</title> (vol.103, no.2674).<unitdate calendar="gregorian" era="ce">September 28, 1916.</unitdate></unittitle>
+<physdesc> p.296.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.131">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>The Philosophy of Religion. A review of<title linktype="simple">The World and the Individual</title>. In the<title linktype="simple">Outlook</title> (vol.66, no.8).<unitdate calendar="gregorian" era="ce">October 20, 1900.</unitdate></unittitle>
+<physdesc> p.466.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.132">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>Memorials of Professor Royce. In the<title linktype="simple">Harvard Alumni Bulletin</title> (vol.19, no.14).<unitdate calendar="gregorian" era="ce">January 4, 1917.</unitdate></unittitle>
+<physdesc> p.261.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.133">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>Some Modern Philosophy. A review of<title linktype="simple">The Conception of Immortality</title>. In the<title linktype="simple">Outlook</title> (vol.66, no.4).<unitdate calendar="gregorian" era="ce">September 22, 1900.</unitdate></unittitle>
+<physdesc> p.227.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.134">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>Roycian Reminiscences; Letters to the<title linktype="simple">Bulletin</title>. In the<title linktype="simple">Harvard Alumni Bulletin</title> (vol.19, no.6).<unitdate calendar="gregorian" era="ce">October 26, 1916.</unitdate></unittitle>
+<physdesc> p.81.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.135">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Loewenberg, J.</origination>
+<unittitle>The Teachings of Royce: an Estimation. In the<title linktype="simple">California Alumni Fortnightly</title> (vol.9, no.14<unitdate calendar="gregorian" era="ce">(September 30, 1916.</unitdate></unittitle>
+<physdesc> p.216.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.136">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Loewenberg, J.</origination>
+<unittitle>Josiah Royce: Interpreter of American Problems. Reprinted from the<title linktype="simple">University of California Chronicle</title> (vol.19, no.1).</unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.137">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>The Philosophy of Religion. Review of<title linktype="simple">The world and the individual</title>. In the<title linktype="simple">Outlook</title> (vol.71, no.8).<unitdate calendar="gregorian" era="ce">June 21, 1902.</unitdate></unittitle>
+<physdesc> p.511.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.138">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Ogliati, Francesco</origination>
+<unittitle>Un Pensatore Americano: Josiah Royce. Milan.<unitdate calendar="gregorian" era="ce">1917.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.139">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Mead, George H.</origination>
+<unittitle>Josiah Royce: a Personal Impression. In the<title linktype="simple">International Journal of Ethics</title> (vol.27, no.2).<unitdate calendar="gregorian" era="ce">January 1917.</unitdate></unittitle>
+<physdesc> p.168.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.140">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Palmer, George Herbert</origination>
+<unittitle>Josiah Royce. In the<title linktype="simple">Harvard Graduates' Magazine</title> (vol.25, no.98).<unitdate calendar="gregorian" era="ce">December 1916.</unitdate></unittitle>
+<physdesc> p.165.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.4.141">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Slattery, Charles Lewis</origination>
+<unittitle>Josiah Royce. In the<title linktype="simple">Outlook</title> (vol.121, no.3).<unitdate calendar="gregorian" era="ce">January 15, 1919.</unitdate></unittitle>
+<physdesc> p.114.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.8.7.5">
+<did>
+<unittitle>Writings about Royce, and Reviews of his Books</unittitle>
+</did>
+<c02 level="item" id="c02-1.8.7.5.2">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Chapman, John Jay</origination>
+<unittitle>Portrait of Josiah Royce, the Philosopher. In the<title linktype="simple">Outlook</title> (vol.122, no.9).<unitdate calendar="gregorian" era="ce">July 2, 1916.</unitdate></unittitle>
+<physdesc> p.4.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.3">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Hocking, William Ernest</origination>
+<unittitle>Professor Josiah Royce. In the<title linktype="simple">Harvard Alumni Bulletin</title> (vol.19, no.1).<unitdate calendar="gregorian" era="ce">September 28, 1916.</unitdate></unittitle>
+<physdesc> p.4.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.4">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Carr, Edwin S.</origination>
+<unittitle>Royce's Philosophy of Religion. In<title linktype="simple">Bibliotheca Sacra</title> (vol.71, no.282).<unitdate calendar="gregorian" era="ce">April 1914.</unitdate></unittitle>
+<physdesc> p.283.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.5">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Aronson, Moses Judah</origination>
+<unittitle>La philosophie morale de Josiah Royce; essai sur l'id&#xE9;alisme social aux Etats-Unis d'Amerique. Paris: Librairie F&#xE9;lix Alcan.<unitdate calendar="gregorian" era="ce">1927.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.6">
+<did>
+<container label="Box" type="Box">16</container>
+<unittitle>A Bibliography of the Unpublished Writings of Josiah Royce. In the<title linktype="simple">Philosophical Review</title> (vol.26, no.5).<unitdate calendar="gregorian" era="ce">September 1917.</unitdate></unittitle>
+<physdesc> p.578.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.7">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Kawaguchi, Ukichi</origination>
+<unittitle>The Doctrine of Evolution and the Conception of God. In the<title linktype="simple">American Journal of Theology</title> (vol.19, no.4).<unitdate calendar="gregorian" era="ce">October 1915.</unitdate></unittitle>
+<physdesc> p.556.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.8">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Driscoll, John T.</origination>
+<unittitle>Professor Royce and the Problem of Christianity. In the<title linktype="simple">North American Review</title> (vol.198, no.5).<unitdate calendar="gregorian" era="ce">November 1913.</unitdate></unittitle>
+<physdesc> p.640.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.9">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Cabot, Richard C.</origination>
+<unittitle>America's Duty Today, from the Point of View of a Hospital Doctor. In the<title linktype="simple">Outlook</title> (vol.115, no.14).<unitdate calendar="gregorian" era="ce">April 4, 1917.</unitdate></unittitle>
+<physdesc> p.606.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.10">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Buckham, John Wright</origination>
+<unittitle>The Contribution of Professor Royce to Christian Thought. In the<title linktype="simple">Harvard Theological Review</title> (vol.8, no.2).<unitdate calendar="gregorian" era="ce">April 1915.</unitdate></unittitle>
+<physdesc> p.219. 2 copies.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.11">
+<did>
+<container label="Box" type="Box">16</container>
+<origination>Cabot, Richard C.</origination>
+<unittitle>Review of<title linktype="simple">The World and the Individual</title>. In the<title linktype="simple">Harvard Graduates' Magazine</title> (vol.8, no.31).<unitdate calendar="gregorian" era="ce">March 1900.</unitdate></unittitle>
+<physdesc> p.317.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.12">
+<did>
+<container label="Box" type="Box">16</container>
+<unittitle>Review of<title linktype="simple">William James and other Essays on the Philosophy of Life</title>. In the<title linktype="simple">International Journal of Ethics</title> (vol.22, no.3).<unitdate calendar="gregorian" era="ce">April 1912.</unitdate></unittitle>
+<physdesc> p.354.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.13">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Rothman, Walter</origination>
+<unittitle>Josiah Royces Versuch einer Synthese von Pragmatismus und Objektivit&#xE4;t. Jena, Universit&#xE4;ts-Buchdrukerei G. Neuenhahn.<unitdate calendar="gregorian" era="ce">1926.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.14">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Sorley, W.R.</origination>
+<unittitle>Josiah Royce, 1855-1916. Reprinted from the<title linktype="simple">Proceedings of the British Academy</title> (vol.7).</unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.15">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>Josiah Royce. In the<title linktype="simple">Outlook</title> (vol.114, no.4).<unitdate calendar="gregorian" era="ce">September 27, 1916.</unitdate></unittitle>
+<physdesc> p.165.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.16">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>A Philosopher of Imagination. In the<title linktype="simple">Nation</title> (vol.103, no.2674).<unitdate calendar="gregorian" era="ce">September 28, 1916.</unitdate></unittitle>
+<physdesc> p.296.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.17">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>The Philosophy of Religion. A review of<title linktype="simple">The World and the Individual</title>. In the<title linktype="simple">Outlook</title> (vol.66, no.8).<unitdate calendar="gregorian" era="ce">October 20, 1900.</unitdate></unittitle>
+<physdesc> p.466.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.18">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>Memorials of Professor Royce. In the<title linktype="simple">Harvard Alumni Bulletin</title> (vol.19, no.14).<unitdate calendar="gregorian" era="ce">January 4, 1917.</unitdate></unittitle>
+<physdesc> p.261.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.19">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>Some Modern Philosophy. A review of<title linktype="simple">The Conception of Immortality</title>. In the<title linktype="simple">Outlook</title> (vol.66, no.4).<unitdate calendar="gregorian" era="ce">September 22, 1900.</unitdate></unittitle>
+<physdesc> p.227.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.20">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>Roycian Reminiscences; Letters to the<title linktype="simple">Bulletin</title>. In the<title linktype="simple">Harvard Alumni Bulletin</title> (vol.19, no.6).<unitdate calendar="gregorian" era="ce">October 26, 1916.</unitdate></unittitle>
+<physdesc> p.81.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.21">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Loewenberg, J.</origination>
+<unittitle>The Teachings of Royce: an Estimation. In the<title linktype="simple">California Alumni Fortnightly</title> (vol.9, no.14).<unitdate calendar="gregorian" era="ce">September 30, 1916.</unitdate></unittitle>
+<physdesc> p.216.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.22">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Loewenberg, J.</origination>
+<unittitle>Josiah Royce: Interpreter of American Problems. Reprinted from the<title linktype="simple">University of California Chronicle</title> (vol.19, no.1).</unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.23">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle>The Philosophy of Religion. Review of<title linktype="simple">The World and the Individual</title>. In the<title linktype="simple">Outlook</title> (vol.71, no.8).<unitdate calendar="gregorian" era="ce">June 21, 1902.</unitdate></unittitle>
+<physdesc> p.511.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.24">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Ogliati, Francesco</origination>
+<unittitle>Un Pensatore Americano: Josiah Royce. Milan.<unitdate calendar="gregorian" era="ce">1917.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.25">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Mead, George H.</origination>
+<unittitle>Josiah Royce: a Personal Impression. In the<title linktype="simple">International Journal of Ethics</title> (vol.27, no.2).<unitdate calendar="gregorian" era="ce">January 1917.</unitdate></unittitle>
+<physdesc> p.168.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.26">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Palmer, George Herbert</origination>
+<unittitle>Josiah Royce. In the<title linktype="simple">Harvard Graduates' Magazine</title> (vol.25, no.98).<unitdate calendar="gregorian" era="ce">December 1916.</unitdate></unittitle>
+<physdesc> p.165.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.5.27">
+<did>
+<container label="Box" type="Box">17</container>
+<origination>Slattery, Charles Lewis</origination>
+<unittitle>Josiah Royce. In the<title linktype="simple">Outlook</title> (vol.121, no.3).<unitdate calendar="gregorian" era="ce">January 15, 1919.</unitdate></unittitle>
+<physdesc> p.114.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.8.7.6">
+<did>
+<unittitle>Reviews of Royce's Books</unittitle>
+</did>
+<c02 level="item" id="c02-1.8.7.6.2">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Caldwell, William</origination>
+<unittitle><title linktype="simple">The World and the Individual</title>. Review of the Gifford lectures of the same title. In the<title linktype="simple">Dial</title> (vol.32, no.377).<unitdate calendar="gregorian" era="ce">March 1, 1902.</unitdate></unittitle>
+<physdesc> p.148.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.3">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Brown, William Adams</origination>
+<unittitle>Royce's<emph render="italic">The Problem of Christianity</emph>. Review in the<emph render="italic">Journal of Philosophy, Psychology, and Scientific Methods</emph>. vol.11, no.22).<unitdate calendar="gregorian" era="ce">October 22, 1914.</unitdate></unittitle>
+<physdesc> p.608.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.4">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Creighton, J.E.</origination>
+<unittitle>Review of<title linktype="simple">William James and Other Essays...</title> In the<title linktype="simple">Philosophical Review</title> (vol.21, no.4).<unitdate calendar="gregorian" era="ce">July 1912.</unitdate></unittitle>
+<physdesc> p.478.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.5">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Creighton, J.E.</origination>
+<unittitle>Studies of Good and Evil. Review in the<title linktype="simple">Philosophical Review</title> (vol.8, no.1).<unitdate calendar="gregorian" era="ce">January 1899.</unitdate></unittitle>
+<physdesc> p.66.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.6">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Colvin, S.S.</origination>
+<unittitle><title linktype="simple">The World and the Individual</title>. Review in the<title linktype="simple">American Journal of Psychology</title> (vol.11, no.4).<unitdate calendar="gregorian" era="ce">July 1900.</unitdate></unittitle>
+<physdesc> p.596.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.7">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Griffin, Edward H.</origination>
+<unittitle>Herbert Spencer. Review in the<title linktype="simple">Psychological Bulletin</title> (vol.2, no.6).<unitdate calendar="gregorian" era="ce">June 15, 1905.</unitdate></unittitle>
+<physdesc> p.205.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.8">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Dewey, John</origination>
+<unittitle><title linktype="simple">The World and the Individual</title>. Review in the<title linktype="simple">Philosophical Review</title> (vol.9, no.3).<unitdate calendar="gregorian" era="ce">May 1900.</unitdate></unittitle>
+<physdesc> p.311.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.9">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Dewey, John</origination>
+<unittitle><title linktype="simple">The World and the Individual</title> (vol.II.<title linktype="simple">Nature, Man, and the Moral Order.</title> Review in the<title linktype="simple">Philosophical Review</title> (vol.11, no.4).<unitdate calendar="gregorian" era="ce">July 1902.</unitdate></unittitle>
+<physdesc> p.392.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.10">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>de Laguna, Theodore</origination>
+<unittitle>The Relation of the Principles of Logic to the Foundations of Geometry. Review in the<title linktype="simple">Journal of Philosophy, Psychology, and Scientific Methods</title> (vol.3, no.13).<unitdate calendar="gregorian" era="ce">June 21, 1906.</unitdate></unittitle>
+<physdesc> p.357.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.11">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Creighton, J.E.</origination>
+<unittitle><title linktype="simple">The Spirit of Modern Philosophy</title>. Review in the<title linktype="simple">Philosophical Review</title> (vol.1, no.3).<unitdate calendar="gregorian" era="ce">May 1892.</unitdate></unittitle>
+<physdesc> p.322.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.12">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Hocking, William Ernest</origination>
+<unittitle>The Christian Doctrine of Life. Review in the<title linktype="simple">Harvard Theological Review</title> (vol.7, no.1).<unitdate calendar="gregorian" era="ce">January 1914.</unitdate></unittitle>
+<physdesc> p.107.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.13">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Jodl, Friedrich</origination>
+<unittitle>Jahresbericht &#xFC;ber Erscheinungen der anglo-amerikanischen Litteratur aus der Zeit von 1891-1892.<title linktype="simple">Zeitschrift f&#xFC;r Philosophie und philosophische Kritik</title> (vol.104, no.1).<unitdate calendar="gregorian" era="ce">1894.</unitdate></unittitle>
+<physdesc> p.117.</physdesc>
+</did>
+<scopecontent>
+<p>(Also a reprint of same)</p>
+</scopecontent>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.14">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Muzzey, David Saville</origination>
+<unittitle><title linktype="simple">The Philosophy of Loyalty</title>. Review in the<title linktype="simple">International Journal of Ethics</title> (vol.19, no.4).<unitdate calendar="gregorian" era="ce">July 1909.</unitdate></unittitle>
+<physdesc> p.509.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.15">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Loewenberg, J.</origination>
+<unittitle>The Sources of Religious Insight. In the<title linktype="simple">International Journal of Ethics</title> (vol.23, no.1).<unitdate calendar="gregorian" era="ce">October 1912.</unitdate></unittitle>
+<physdesc> p.85.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.16">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Rieber, C.H.</origination>
+<unittitle>Race Questions and other American Problems. Review in the<title linktype="simple">Journal of Philosophy, Psychology, and Scientific Methods</title> (vol.6, no.6).<unitdate calendar="gregorian" era="ce">March 18, 1909.</unitdate></unittitle>
+<physdesc> p.163.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.17">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Perry, Ralph Barton</origination>
+<unittitle>Professor Royce's Refutation of Realism and Pluralism. Review of<title linktype="simple">The World and the Individual</title> in the<title linktype="simple">Monist</title> (vol.12, no.3).<unitdate calendar="gregorian" era="ce">April 1902.</unitdate></unittitle>
+<physdesc> p.446.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.18">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Tanner, Amy E.</origination>
+<unittitle><title linktype="simple">The Philosophy of Loyalty</title>. Review in the<title linktype="simple">American Journal of Psychology</title> (vol.19, no.3).<unitdate calendar="gregorian" era="ce">July 1908.</unitdate></unittitle>
+<physdesc> p.409.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.19">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Riley, J.</origination>
+<unittitle><title linktype="simple">Race Questions, Provincialism, and other American Problems</title>. Review in the<title linktype="simple">American Journal of Psychology</title> (vol.20, no.4).<unitdate calendar="gregorian" era="ce">October 1909.</unitdate></unittitle>
+<physdesc> p.588.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.20">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Jacks, L.P.</origination>
+<unittitle><title linktype="simple">The Problem of Christianity</title>. Review in the<title linktype="simple">Hibbert Journal</title> (vol.12, no.1).<unitdate calendar="gregorian" era="ce">October 1913.</unitdate></unittitle>
+<physdesc> p.215.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.21">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Jacoby, Gunther</origination>
+<unittitle><title linktype="simple">The Philosophy of Loyalty</title>. Review in<title linktype="simple">Zeitschrift f&#xFC;r Philosophie und philosophische Kritik</title> (vol.139, no.2).<unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+<physdesc> p.242.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.22">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Kallen, H.M.</origination>
+<unittitle><title linktype="simple">William James and Other Essays in the Philosophy of Life</title>. Review in the<title linktype="simple">Journal of Philosophy, Psychology, and Scientific Methods</title> (vol.9, no.20).<unitdate calendar="gregorian" era="ce">September 26, 1912.</unitdate></unittitle>
+<physdesc> p.548.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.23">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Caldwell, William</origination>
+<unittitle><title linktype="simple">The World and the Individual</title>. Review of the Gifford lectures of the same title. In the<title linktype="simple">Dial</title> (vol.32, no.377).<unitdate calendar="gregorian" era="ce">March 1, 1902.</unitdate></unittitle>
+<physdesc> p.148.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.24">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Brown, William Adams</origination>
+<unittitle>Royce's<title linktype="simple">The Problem of Christianity</title>. Review in the<title linktype="simple">Journal of Philosophy, Psychology, and Scientific Methods</title> (vol.11, no.22).<unitdate calendar="gregorian" era="ce">October 22, 1914.</unitdate></unittitle>
+<physdesc> p.608.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.25">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Creighton, J.E.</origination>
+<unittitle>Review of<title linktype="simple">William James and other Essays...</title> In the<title linktype="simple">Philosophical Review</title> (vol.21, no.4).<unitdate calendar="gregorian" era="ce">July 1912.</unitdate></unittitle>
+<physdesc> p.478.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.26">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Creighton, J.E.</origination>
+<unittitle>Studies of Good and Evil. Review in the<title linktype="simple">Philosophical Review</title> (vol.8, no.1).<unitdate calendar="gregorian" era="ce">January 1899.</unitdate></unittitle>
+<physdesc> p.66.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.27">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Colvin, S.S.</origination>
+<unittitle><title linktype="simple">The World and the Individual</title>. Review in the<title linktype="simple">American Journal of Psychology</title> (vol.11, no.4).<unitdate calendar="gregorian" era="ce">July 1900.</unitdate></unittitle>
+<physdesc> p.596.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.28">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Griffin, Edward H.</origination>
+<unittitle>Herbert Spencer. Review in the<title linktype="simple">Psychological Bulletin</title> (vol.2, no.6).<unitdate calendar="gregorian" era="ce">June 15, 1905.</unitdate></unittitle>
+<physdesc> p.205.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.29">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Dewey, John</origination>
+<unittitle><title linktype="simple">The World and the Individual</title>. Review in the<title linktype="simple">Philosophical Review</title> (vol.9, no.3).<unitdate calendar="gregorian" era="ce">May 1900.</unitdate></unittitle>
+<physdesc> p.311.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.30">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Dewey, John</origination>
+<unittitle><title linktype="simple">The World and the Individual</title> (vol.2).<title linktype="simple">Nature, Man, and the Moral Order</title>. Review in the<title linktype="simple">Philosophical Review</title> (vol.11, no.4).<unitdate calendar="gregorian" era="ce">July 1902.</unitdate></unittitle>
+<physdesc> p.392.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.31">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>de Laguna, Theodore</origination>
+<unittitle>The Relation of the Principles of Logic to the Foundations of Geometry. Review in the<title linktype="simple">Journal of Philosophy, Psychology, and Scientific Methods</title> (vol.3, no.13).<unitdate calendar="gregorian" era="ce">June 21, 1906.</unitdate></unittitle>
+<physdesc> p.357.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.32">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Creighton, J.E.</origination>
+<unittitle><title linktype="simple">The Spirit of Modern Philosophy</title>. Review in the<title linktype="simple">Philosophical Review</title> (vol.1, no.3).<unitdate calendar="gregorian" era="ce">May 1892.</unitdate></unittitle>
+<physdesc> p.322.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.33">
+<did>
+<container label="Box" type="Box">18</container>
+<origination>Hocking, William Ernest</origination>
+<unittitle>The Christian Doctrine of Life. Review in the<title linktype="simple">Harvard Theological Review</title> (vol.7, no.1).<unitdate calendar="gregorian" era="ce">January 1914.</unitdate></unittitle>
+<physdesc> p.107.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.34">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Jodl, Friedrich</origination>
+<unittitle>Jahresbericht &#xFC;ber Erscheinungen der anglo-amerikanischen Litteratur aus der Zeit von 1891-1892.<title linktype="simple">Zeitschrift f&#xFC;r Philosophie und philosophische Kritik</title> (vol.104, no.1).<unitdate calendar="gregorian" era="ce">1894.</unitdate></unittitle>
+<physdesc> p.117.</physdesc>
+</did>
+<scopecontent>
+<p>(Also a reprint of same)</p>
+</scopecontent>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.35">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Muzzey, David Saville</origination>
+<unittitle><title linktype="simple">The Philosophy of Loyalty</title>. Review in the<title linktype="simple">International Journal of Ethics</title> (vol.19, no.4).<unitdate calendar="gregorian" era="ce">July 1909.</unitdate></unittitle>
+<physdesc> p.509.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.36">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Loewenberg, J.</origination>
+<unittitle>The Sources of Religious Insight. In the<title linktype="simple">International Journal of Ethics</title> (vol.23, no.1).<unitdate calendar="gregorian" era="ce">October 1912.</unitdate></unittitle>
+<physdesc> p.85.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.37">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Rieber, C.H.</origination>
+<unittitle>Race Questions and other American Problems. Review in the<title linktype="simple">Journal of Philosophy, Psychology, and Scientific Methods</title> (vol.6, no.6).<unitdate calendar="gregorian" era="ce">March 18, 1909.</unitdate></unittitle>
+<physdesc> p.163.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.38">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Perry, Ralph Barton</origination>
+<unittitle>Professor Royce's Refutation of Realism and Pluralism. Review of<title linktype="simple">The World and the Individual</title> in the<title linktype="simple">Monist</title> (vol.12, no.3).<unitdate calendar="gregorian" era="ce">April 1902.</unitdate></unittitle>
+<physdesc> p.446.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.39">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Tanner, Amy E.</origination>
+<unittitle><title linktype="simple">The Philosophy of Loyalty</title>. Review in the<title linktype="simple">American Journal of Psychology</title> (vol.19, no.3).<unitdate calendar="gregorian" era="ce">July 1908.</unitdate></unittitle>
+<physdesc> p.409.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.40">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Riley, J.</origination>
+<unittitle><title linktype="simple">Race Questions, Provincialism, and other American Problems</title>. Review in the<title linktype="simple">American Journal of Psychology</title> (vol.20, no.4).<unitdate calendar="gregorian" era="ce">October 1909.</unitdate></unittitle>
+<physdesc> p.588.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.41">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Jacks, L.P.</origination>
+<unittitle><title linktype="simple">The Problem of Christianity</title>. Review in the<title linktype="simple">Hibbert Journal</title> (vol.12, no.1).<unitdate calendar="gregorian" era="ce">October 1913.</unitdate></unittitle>
+<physdesc> p.215.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.42">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Jacoby, Gunther</origination>
+<unittitle><title linktype="simple">The Philosophy of Loyalty</title>. Review in<title linktype="simple">Zeitschrift f&#xFC;r Philosophie und philosophische Kritik</title> (vol.139, no.2).<unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+<physdesc> p.242.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.6.43">
+<did>
+<container label="Box" type="Box">19</container>
+<origination>Kallen, H.M.</origination>
+<unittitle><title linktype="simple">William James and Other Essays in the Philosophy of Life</title>. Review in the<title linktype="simple">Journal of Philosophy, Psychology, and Scientific Methods</title> (vol.9, no.20).<unitdate calendar="gregorian" era="ce">September 26, 1912.</unitdate></unittitle>
+<physdesc> p.548.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.8.7.7">
+<did>
+<unittitle>Reviews of Royce's Books; Essays in his Honor</unittitle>
+</did>
+<c02 level="item" id="c02-1.8.7.7.2">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Primer of Logical Analysis...</title>. Review in<title linktype="simple">Mind</title> (no.26).<unitdate calendar="gregorian" era="ce">April 1882.</unitdate></unittitle>
+<physdesc> p.311.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.3">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Outlines of Psychology</title>. Review in the<title linktype="simple">Independent</title> (vol.60, no.2858).<unitdate calendar="gregorian" era="ce">September 10, 1903.</unitdate></unittitle>
+<physdesc> p.2179.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.4">
+<did>
+<container label="Box" type="Box">20</container>
+<origination>Wenley, R.M.</origination>
+<unittitle><title linktype="simple">The World and the Individual</title> (vol.2. Review in<title linktype="simple">Science</title> (vol.15, no.374).<unitdate calendar="gregorian" era="ce">February 28, 1902.</unitdate></unittitle>
+<physdesc> p.347.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.5">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">The Spirit of Modern Philosophy</title>. Review in the<title linktype="simple">Monist</title> (vol.3, no.2).<unitdate calendar="gregorian" era="ce">January 1893.</unitdate></unittitle>
+<physdesc> p.306.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.6">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">The Problem of Christianity</title>. Review in the<title linktype="simple">North American Review</title> (vol.198, no.2).<unitdate calendar="gregorian" era="ce">August 1913.</unitdate></unittitle>
+<physdesc> p.282.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.7">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">The World and the Individual</title>. Review in the<title linktype="simple">Nation</title> (vol.70, no.1814).<unitdate calendar="gregorian" era="ce">April 5, 1900.</unitdate></unittitle>
+<physdesc> p.267.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.8">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">The World and the Individual</title> (vol.2). Review in the<title linktype="simple">Nation</title> (vol.75, no.1935).<unitdate calendar="gregorian" era="ce">July 31, 1902.</unitdate></unittitle>
+<physdesc> p.94.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.9">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Studies of Good and Evil; a Series of Essays...</title> Review in the<title linktype="simple">Nation</title> (vol.67, no.1736).<unitdate calendar="gregorian" era="ce">October 6, 1898.</unitdate></unittitle>
+<physdesc> p.263.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.10">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Outlines of Psychology</title>. Review in the<title linktype="simple">Nation</title> (vol.79, no.2048).<unitdate calendar="gregorian" era="ce">September 29, 1904.</unitdate></unittitle>
+<physdesc> p.264.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.11">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Papers in Honor of Josiah Royce on his Sixtieth Birthday</title> [This volume appeared also as vol.25, no.3.<unitdate calendar="gregorian" era="ce">May 1916</unitdate> of the<title linktype="simple">Philosophical Review</title>].</unittitle>
+</did>
+<scopecontent>
+<p>Contains articles on Royce by John Dewey, etc.</p>
+</scopecontent>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.12">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Primer of Logical Analysis...</title>. Review in<title linktype="simple">Mind</title> (no.26).<unitdate calendar="gregorian" era="ce">April 1882.</unitdate></unittitle>
+<physdesc> p.311.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.13">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Outlines of Psychology</title>. Review in the<title linktype="simple">Independent</title> (vol.60, no.2858).<unitdate calendar="gregorian" era="ce">September 10, 1903.</unitdate></unittitle>
+<physdesc> p.2179.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.14">
+<did>
+<container label="Box" type="Box">20</container>
+<origination>Wenley, R.M.</origination>
+<unittitle><title linktype="simple">The World and the Individual</title> (vol.2. Review in<title linktype="simple">Science</title> (vol.15, no.374).<unitdate calendar="gregorian" era="ce">February 28, 1902.</unitdate></unittitle>
+<physdesc> p.347.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.15">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">The Spirit of Modern Philosophy</title>. Review in the<title linktype="simple">Monist</title> (vol.3, no.2).<unitdate calendar="gregorian" era="ce">January 1893.</unitdate></unittitle>
+<physdesc> p.306.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.16">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">The Problem of Christianity</title>. Review in the<title linktype="simple">North American Review</title> (vol.198, no.2).<unitdate calendar="gregorian" era="ce">August 1913.</unitdate></unittitle>
+<physdesc> p.282.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.17">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">The World and the Individual</title>. Review in the<title linktype="simple">Nation</title> (vol.70, no.1814).<unitdate calendar="gregorian" era="ce">April 5, 1900.</unitdate></unittitle>
+<physdesc> p.267.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.18">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">The World and the Individual</title> (vol.2). Review in the<title linktype="simple">Nation</title> (vol.75, no.1935).<unitdate calendar="gregorian" era="ce">July 31, 1902.</unitdate></unittitle>
+<physdesc> p.94.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.19">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Studies of Good and Evil; a Series of Essays...</title> Review in the<title linktype="simple">Nation</title> (vol.67, no.1736).<unitdate calendar="gregorian" era="ce">October 6, 1898.</unitdate></unittitle>
+<physdesc> p.263.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.20">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Outlines of Psychology</title>. Review in the<title linktype="simple">Nation</title> (vol.79, no.2048).<unitdate calendar="gregorian" era="ce">September 29, 1904.</unitdate></unittitle>
+<physdesc> p.264.</physdesc>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.7.21">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle><title linktype="simple">Papers in Honor of Josiah Royce on his Sixtieth Birthday</title> [This volume appeared also as vol.25, no.3.<unitdate calendar="gregorian" era="ce">May 1916)</unitdate> of the<title linktype="simple">Philosophical Review</title>].</unittitle>
+</did>
+<scopecontent>
+<p>Contains articles on Royce by John Dewey, etc.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.8.7.8">
+<did>
+<unittitle>Other Books</unittitle>
+</did>
+<c02 level="item" id="c02-1.8.7.8.2">
+<did>
+<container label="Box" type="Box">7</container>
+<origination>Butler, Judson Rea</origination>
+<unittitle><title linktype="simple">Human Psychology</title>, by Judson Rea Butler and Theodore Francis Karwoski. New York and Chicago: Pitman Publishing Corporation.<unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.8.7.8.3">
+<did>
+<container label="Box" type="Box">7</container>
+<origination>H&#xFC;bner, Julius</origination>
+<unittitle><title linktype="simple">The Dresden Gallery</title>. New York: Stroeffer and Kirchner.<unitdate calendar="gregorian" era="ce">1875.</unitdate></unittitle>
+</did>
+<note>
+<p>Gift of Josiah Royce to his mother, 1876.</p>
+</note>
+</c02>
+<c02 level="item" id="c02-1.8.7.8.4">
+<did>
+<container label="Box" type="Box">7</container>
+<origination>Montaigne, Michel de</origination>
+<unittitle>Essais. Paris, Fermin-Didot et Cie.<unitdate calendar="gregorian" era="ce">1876.</unitdate></unittitle>
+</did>
+<note>
+<p>Gift from Josiah Royce to Anna Head, 1875.</p>
+</note>
+</c02>
+<c02 level="item" id="c02-1.8.7.8.5">
+<did>
+<container label="Box" type="Box">7</container>
+<origination>Shelley, Percy Bysshe</origination>
+<unittitle><title linktype="simple">The Poetical Works</title>. Edited by Mrs. Shelly, with a memoir. Boston: Houghton, Osgood &#x0026; Company.<unitdate calendar="gregorian" era="ce">1878.</unitdate></unittitle>
+<physdesc> 4 vol. in two.</physdesc>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
