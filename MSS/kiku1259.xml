@@ -1,79 +1,1713 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/tf8w1008hg/">kiku1259.xml</eadid><filedesc><titlestmt><titleproper type="filing">Kikuchi (Charles) papers</titleproper><titleproper>Finding Aid for the Charles Kikuchi Papers <num>LSC.1259</num></titleproper><author>Finding aid prepared by UCLA Library Special Collections staff, additions by Dydia DeLyser, January 1989 and Dan Luckenbill, January 1998; machine-readable finding aid created by Caroline Cubé.</author><sponsor>Funding: Finding aid and digital representations of archival material funded in part by a grant from the Library Services and Technology Act (LSTA).</sponsor></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2000.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-04-06 12:25:45 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>UCLA Library Special Collections</corpname>
-    </repository>
-    <unittitle>Charles Kikuchi papers</unittitle>
-    <origination label="Creator">
-      <persname rules="aacr" source="naf">Kikuchi, Charles</persname>
-    </origination>
-    <unitid>LSC.1259</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">29.0 Linear Feet</extent>
-      <extent altrender="carrier">(58 boxes and 4 oversize boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1941/1988" type="inclusive">1941-1988</unitdate>
-    <abstract id="aspace_b498b716344e8849863db80e0105a4e1" label="Abstract">Charles Kikuchi (1917- ) worked for the California State Employment Service, surveying Nisei occupations. He was recruited by Berkeley sociologist Dorothy Swaine Thomas for the Japanese Evacuation and Relocation Study (JERS). He began to keep a diary and completed field surveys at the Tanforan Assembly Center in Northern California and at the Gila River Relocation Center in Arizona and in 1943 chronicled camp resident settlement in Chicago. He was drafted into the United States Army just before the bombing of Hiroshima. The collection consists of Charles Kikuchi's diaries, correspondence, and related printed material about Japanese Americans and their relocation during World War II. Many diaries include clippings and programs related to the career of Kikuchi's wife, Yuriko Amemiya, a professional dancer and a member of Martha Graham's dance group.</abstract>
-    <physloc id="aspace_de329aaca2651719938cb57e8320cdf0">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
-    <langmaterial id="aspace_6009d0849887f59d8e38f10e1d397533">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_310ec73e8b3f714e2e879e979c158ada">
-    <head>Restrictions on Access</head>
-<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
-  <userestrict id="aspace_a6eb2bac5fa36810b822f13b245b4f99">
-    <head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
-  <phystech id="aspace_864bb87e51380d5c6449e5baca911ad9">
-    <head>Physical Characteristics and Technical Requirements</head>
-<p>PORTIONS OF THIS COLLECTION HAVE BEEN DIGITIZED. See the Existence and Location of Copies note for the link to the digitized materials.</p>  </phystech>
-  <odd id="aspace_eb63006ba207096fe3d21a2c2c937255">
-    <head>Funding</head>
-<p>Finding aid and digital representations of archival material funded in part by a grant from the Library Services and Technology Act (LSTA).</p>  </odd>
-  <acqinfo id="aspace_aa2d8f16e8f50cda653d6c6f99e461e3">
-    <head>Provenance/Source of Acquisition</head>
-<p><list type="simple"><item>Gift of Charles Kikuchi, 1981-83.</item><item>Gift of Yuriko Kikuchi, 1991.</item><item>Gift of Warren Tsuneishi, 1981.</item><item>Gift of Arthur Hansen, 1989.</item></list></p>  </acqinfo>
-  <odd id="aspace_9dd3b57cf2b770034e15a6188ab5b88b">
-    <head>UCLA Catalog Record ID</head>
-<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9942332553606533">9942332553606533</extref></p>  </odd>
-  <prefercite id="aspace_0aa317b8f69eaa7ee96094c9b71b7abf">
-    <head>Preferred Citation</head>
-<p>[Identification of item], Charles Kikuchi papers (Collection 1259). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
-  <processinfo id="aspace_fb8f6cf335571c9b205489f1143d85a5">
-    <head>Processing Information</head>
-<p>Processed by UCLA Library Special Collections staff. Additions processed by Dydia DeLyser, January 1989 and Dan Luckenbill, January 1998.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language
-that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form
-located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special
-Collections.</extref></p>  </processinfo>
-  <bioghist id="aspace_c98f50b2ce678db18d6fa2256a708481">
-    <head>Biography/History</head>
-<p>Kikuchi was born in 1917 in the San Francisco Bay Area; his father was an Issei barbershop owner; he was placed in an orphanage when he was 8 years old; in 1934 he headed for San Francisco; BA, San Francisco State College, 1939; anonymously published an autobiographical essay, A Young American with a Japanese Face, in Louis Adamic's anthology titled, <title type="simple">From Many Lands</title> (1939); worked for the California State Employment Service, surveying Nisei occupations; attended School of Social Welfare, University of California, Berkeley, and received certificate in social work in 1942; recruited by Berkeley sociologist Dorothy Swaine Thomas for the Japanese Evacuation and Relocation Study (JERS); Kikuchi began to keep a diary and completed field surveys at the Tanforan Assembly Center in Northern California and at the Gila River Relocation Center in Arizona; began chronicling camp resident settlement in Chicago, 1943; he was drafted into the United States Army just before the bombing of Hiroshima; received master's degree in social work, New York University (NYU), 1947; worked as a social worker with the Veterans Administration, New York; married Yuriko Amemiya, a professional dancer, in 1946; died September 25, 1988.</p>  </bioghist>
-  <scopecontent id="aspace_809def4d45a3648efa69a52c3c03f44e">
-    <head>Scope and Content</head>
-<p>Collection consists of Charles Kikuchi's diaries, correspondence, and related printed material about Japanese Americans and their relocation during World War II. Includes 63 volumes of Kikuchi's original diaries, May 1942-June 1948. Copy diaries span the years 1941-79. Also includes materials related to Kikuchi's work and surveys for the Japanese Evacuation and Relocation Study (JERS) and his study of Japanese American relocation to Chicago, Illinois. Contains various War Relocation Authority (WRA) publications, National Defense Migration reports, various issues of the Gila News Courier, and related publications. Many diaries include clippings and programs related to the career of Kikuchi's wife, Yuriko, a professional dancer and a member of Martha Graham's dance group.</p>  </scopecontent>
-  <arrangement id="aspace_28520b234866b3e2cf35ad85bb0dc65b">
-    <head>Organization and Arrangement</head>
-<p>Arranged in the following series: <list numeration="arabic" type="ordered"><item>Original diaries (Boxes 1-10).</item><item>Copy diaries (Boxes 11-44).</item><item>Loose items from diaries (Box 56).</item><item>Correspondence and writings (Boxes 45, 57-60, 62).</item><item>Japanese Evacuation and Relocation Study (JERS) (Boxes 46-49, 54).</item><item>Pacific Coast Committee on American Principles and Fair Play (Box 54).</item><item>Photographs and biographical data (Box 54).</item><item>Printed material (Boxes 50-53, 62).</item><item>Relocation center news publications (Box 55).</item><item>Reports (Box 61).</item><item>Proclamation documents (Box 61).</item></list></p>  </arrangement>
-  <altformavail id="aspace_bace80a71b438ba91feee8f5916d0c06">
-    <head>Digital Representations Available</head>
-<p>Digital image files of the journal of Charles Kikuchi were made from the originals by UCLA's Office of Instructional Development Photographic Services using a Fuji FinePix S1-Pro digital camera with a maximum resolution of 3,040 x 2,016 pixels. The camera was equipped with a Micro-Nikkor flat field lens. Images of the individual pages of the journal were captured as uncompressed 24-bit RGB TIFF files. These archival images were used to create JPEG user images to the specifications of the MoAII viewer.</p>  </altformavail>
-  <altformavail id="aspace_4fa11168c5ff240b37333dd5f4e86d74">
-    <head>Existence and Location of Copies</head>
-<p>Digitized materials are available electronically at<extref xlink:href="https://digital.library.ucla.edu/catalog/w2339000zz-89112" xlink:actuate="onRequest" xlink:show="new"> https://digital.library.ucla.edu/catalog/w2339000zz-89112. </extref></p>  </altformavail>
-  <relatedmaterial id="aspace_f328cfced9625c9464c6fdd5a6fb7057">
-    <head>Related Material</head>
-<p><extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.oac.cdlib.org/findaid/ark:/13030/tf6d5nb3z6"><unittitle>Japanese American Research Project collection of material about Japanese in the United States (Yuji Ichioka papers) - Collection number 2010.</unittitle></extref> Available at the Library Special Collections, UCLA.</p>  </relatedmaterial>
-  <altformavail id="aspace_e06cbc41d5c58960984f3f6f1743b279">
-    <head>Existence and Location of Copies</head>
-<p>Digital reproductions of some of the material from the Charles Kikuchi Papers is available electronically at<extref xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz0009332w" xlink:actuate="onRequest" xlink:show="new"> UCLA Library Digital Collections </extref></p><p>Digital reproductions of some of the material from the Charles Kikuchi Papers is available electronically at<extref xlink:href="https://calisphere.org/collections/11773/" xlink:actuate="onRequest" xlink:show="new"> Calisphere </extref></p>  </altformavail>
-  <controlaccess>
-    <genreform source="aat">Diaries.</genreform>
-    <subject source="lcsh">Japanese Americans -- Evacuation and relocation, 1942-1945</subject>
-    <corpname rules="aacr" source="naf">Gila River Relocation Center</corpname>
-    <persname source="naf">Kikuchi, Charles--Archives.</persname>
-    <corpname source="ingest">Tanforan Assembly Center (San Bruno, Calif.)</corpname>
-    <persname source="ingest">Yuriko, 1920- .</persname>
-  </controlaccess>
-  <dsc><c01 id="aspace_ref14_z1b" level="series"><did><unittitle>Original Diaries</unittitle></did><odd id="aspace_66c2236fe034643c1d510c9c5b0e6363"><head>General note</head><p>Volume [#] = number assigned by the Department of Special Collections</p></odd><c02 id="aspace_ref15_wz5" level="item"><did><unitdate datechar="creation">May-October 1942.</unitdate><container id="aspace_0da7b3f8ac2831b43c7b18c888594c01" label="Mixed Materials" type="box">1</container><container id="aspace_82e549fe98d53f1c1d457c3b63313ac1" parent="aspace_0da7b3f8ac2831b43c7b18c888594c01" type="volume">1-7</container></did><c03 id="aspace_ref16_qac" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 07</unittitle><unitdate datechar="creation">September 1-30, 1942.</unitdate><physdesc id="aspace_aecf1993b813b0d6e5c445a64e5b1829" label="General Physical Description note">(pages 91-346)</physdesc><container id="aspace_3e39869f551c791f20064f9049cb3e39" label="Mixed Materials" type="box">1</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt9j49r2w6/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 07" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 07</p></daodesc></dao></did></c03></c02><c02 id="aspace_ref18_4fe" level="item"><did><unitdate datechar="creation">October-December 1942.</unitdate><container id="aspace_5b35df09dda5f21a3631e1743b3ebba2" label="Mixed Materials" type="box">2</container><container id="aspace_5c02b2ba1e3e3835c9a1f3bd881894c7" parent="aspace_5b35df09dda5f21a3631e1743b3ebba2" type="volume">8-14</container></did><c03 id="aspace_ref19_61r" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 08</unittitle><unitdate datechar="creation">October 1-26, 1942.</unitdate><physdesc id="aspace_1ade7204e5daf16a406c7b1e2186d029" label="General Physical Description note">(pages 1-225)</physdesc><container id="aspace_e42096be323faea09eb8bb46f0bf8ed6" label="Mixed Materials" type="volume">8</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt1z09q8h3/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 08" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 08</p></daodesc></dao></did></c03><c03 id="aspace_ref21_gi0" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 9</unittitle><unitdate datechar="creation">October 27-November 3, 1942.</unitdate><physdesc id="aspace_d55968bbf961f97e983161181750a844" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_82be7c9763a7b57f7c5aa540a8497452" label="Mixed Materials" type="volume">9</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt8580293d/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 9" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 9</p></daodesc></dao></did></c03><c03 id="aspace_ref23_e6f" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 10</unittitle><unitdate datechar="creation">November 4-9, 1942.</unitdate><physdesc id="aspace_212c5624dc8fafb531d59a0270292bf1" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_89d814fb6ec270f505bdaf24883e86a0" label="Mixed Materials" type="volume">10</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt8m3nd7g2/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 10" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 10</p></daodesc></dao></did></c03><c03 id="aspace_ref25_ypt" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 11</unittitle><unitdate datechar="creation">November 10-17, 1942.</unitdate><physdesc id="aspace_f25261b3b6d92cc2e9e12e1c54cb85c2" label="General Physical Description note">(pages 1-93)</physdesc><container id="aspace_c9f6fb17e038d8588dbee2817c761791" label="Mixed Materials" type="volume">11</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt6t1nd3vh/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 11" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 11</p></daodesc></dao></did></c03><c03 id="aspace_ref27_tjb" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 12</unittitle><unitdate datechar="creation">November 17-25, 1942.</unitdate><physdesc id="aspace_f5c5fee5474aed511b4176eb05a8d2d4" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_90ca504833ec42e6b0a571a2b76c296d" label="Mixed Materials" type="volume">12</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt158023p4/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 12" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 12</p></daodesc></dao></did></c03><c03 id="aspace_ref29_s6a" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 13</unittitle><unitdate datechar="creation">November 25-December 2, 1942.</unitdate><physdesc id="aspace_c2feb08970a767c8eeb77420132570fb" label="General Physical Description note">(pages 1-120)</physdesc><container id="aspace_ecc54e3a0454e30db30fbfe6a1c381d1" label="Mixed Materials" type="volume">13</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt7b69r0fk/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 13" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 13</p></daodesc></dao></did></c03><c03 id="aspace_ref31_utg" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 14</unittitle><unitdate datechar="creation">December 3-9, 1942.</unitdate><physdesc id="aspace_6d6bc1982baff3a2776fcf8e427bb485" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_8c050b87951f09d6950043dd242bb154" label="Mixed Materials" type="volume">14</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt9f59r36p/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 14" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 14</p></daodesc></dao></did></c03></c02><c02 id="aspace_ref33_dsf" level="item"><did><unitdate datechar="creation">December 1942-February 1943.</unitdate><container id="aspace_eff412c981d1056fe9a03b7f14cb81a9" label="Mixed Materials" type="box">3</container><container id="aspace_36eecf4103a3f677f29263f6c2ed7fa7" parent="aspace_eff412c981d1056fe9a03b7f14cb81a9" type="volume">15-23</container></did><c03 id="aspace_ref34_bzd" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 15</unittitle><unitdate datechar="creation">December 10-18, 1942.</unitdate><physdesc id="aspace_b7b2365cff297c64742b14a9610a66f1" label="General Physical Description note">(pages 1-118)</physdesc><container id="aspace_e1416973b1bcfc8a36258cda7af05f13" label="Mixed Materials" type="volume">15</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt1k4024zc/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 15" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 15</p></daodesc></dao></did></c03><c03 id="aspace_ref36_arf" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 16</unittitle><unitdate datechar="creation">December 20-29, 1942.</unitdate><physdesc id="aspace_bfba3a73645eb7c0af8e1ecc1bcf6ebf" label="General Physical Description note">(pages 1-119)</physdesc><container id="aspace_ecb09f0bcfde58bf7ff0f0bc9c798705" label="Mixed Materials" type="volume">16</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt8b69r377/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 16" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 16</p></daodesc></dao></did></c03><c03 id="aspace_ref38_izp" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 17</unittitle><unitdate datechar="creation">December 30-January 5, 1942.</unitdate><physdesc id="aspace_7ec5f5ced34c3878e16ff991a3e1f41d" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_2726f113ab7ebf23996c8a3f251304a5" label="Mixed Materials" type="volume">17</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt0k40244n/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 17" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 17</p></daodesc></dao></did></c03><c03 id="aspace_ref40_otb" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 18</unittitle><unitdate datechar="creation">January 6-15, 1942.</unitdate><physdesc id="aspace_61f7624bb9f8dac8356c6a16f7b90f46" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_1acc5d06f43a891b2548f29f09cabb26" label="Mixed Materials" type="volume">18</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt1g5026bc/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 18" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 18</p></daodesc></dao></did></c03><c03 id="aspace_ref42_frk" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 19</unittitle><unitdate datechar="creation">January 16-20, 1942.</unitdate><physdesc id="aspace_2150d29ac8ca615752a42380e01b2d39" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_595fc69418821b5f507ec8e466bd997a" label="Mixed Materials" type="volume">19</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt5w10265n/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 19" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 19</p></daodesc></dao></did></c03><c03 id="aspace_ref44_g7e" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 20</unittitle><unitdate datechar="creation">January 21-26, 1942.</unitdate><physdesc id="aspace_f28b4c8ebb7d8b8f92408529683081b7" label="General Physical Description note">(pages 1-118)</physdesc><container id="aspace_5d08a0eae4de1460e8624fd846753758" label="Mixed Materials" type="volume">20</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt529027c0/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 20" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 20</p></daodesc></dao></did></c03><c03 id="aspace_ref46_cbg" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 21</unittitle><unitdate datechar="creation">January 27-February 2, 1943.</unitdate><physdesc id="aspace_86dc5f00f057c4e950ffe2f52f17e2b4" label="General Physical Description note">(pages 1-123)</physdesc><container id="aspace_207ac1da88772c9b18c0e205d0e96608" label="Mixed Materials" type="volume">21</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt2r29q8s7/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 21" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 21</p></daodesc></dao></did></c03><c03 id="aspace_ref48_qov" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 22</unittitle><unitdate datechar="creation">February 2-9, 1943.</unitdate><physdesc id="aspace_43911fa4ccc5306e03ec7ac614364814" label="General Physical Description note">(pages 1-120)</physdesc><container id="aspace_239a1c4b4b6c9bd680bfcabd9a92feb1" label="Mixed Materials" type="volume">22</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt6w1029sq/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 22" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 22</p></daodesc></dao></did></c03><c03 id="aspace_ref50_kj6" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 23</unittitle><unitdate datechar="creation">February 10-15, 1943.</unitdate><physdesc id="aspace_1d4e7f2719a2ed598d99af2c9285d53c" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_d41dbe83ba5f2d100839b5642637e69c" label="Mixed Materials" type="volume">23</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt3q2nd143/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 23" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 23</p></daodesc></dao></did></c03></c02><c02 id="aspace_ref52_jow" level="item"><did><unitdate datechar="creation">February-April 1943.</unitdate><container id="aspace_27e2630edaa5fd2a239adb0d8cf29ba6" label="Mixed Materials" type="box">4</container><container id="aspace_f4892e20f4b3cf0f4ece0e489cef49ff" parent="aspace_27e2630edaa5fd2a239adb0d8cf29ba6" type="volume">24-31</container></did><c03 id="aspace_ref53_mf4" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 24</unittitle><unitdate datechar="creation">February 16-23, 1942.</unitdate><physdesc id="aspace_55d31680147e1f2c0bbfa813ce996c30" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_595b2364232062c2487b81ff26163826" label="Mixed Materials" type="volume">24</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt0x0nd21d/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 24" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 24</p></daodesc></dao></did></c03><c03 id="aspace_ref55_i97" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 25</unittitle><unitdate datechar="creation">February 24-27, 1943.</unitdate><physdesc id="aspace_db88676f5912fa2d5175b297784d69cd" label="General Physical Description note">(pages 1-120)</physdesc><container id="aspace_b65c508ccd6f8d6d5a53c903bd3195c3" label="Mixed Materials" type="volume">25</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt667nd3hd/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 25" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 25</p></daodesc></dao></did></c03><c03 id="aspace_ref57_i7x" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 26</unittitle><unitdate datechar="creation">February 28-March 7, 1943.</unitdate><physdesc id="aspace_749ab660638d91cc37ac1b320263e574" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_37d1b6c19c1af7d6976e84dbe55daaa1" label="Mixed Materials" type="volume">26</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt2000236f/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 26" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 26</p></daodesc></dao></did></c03><c03 id="aspace_ref59_ic0" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 27</unittitle><unitdate datechar="creation">March 9-16, 1943.</unitdate><physdesc id="aspace_052735d47a4c6104b4bb4d512678a2c4" label="General Physical Description note">(pages 1-121)</physdesc><container id="aspace_3afc6542330d5f3e09352c46237c6588" label="Mixed Materials" type="volume">27</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt3m3nd0xv/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 27" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 27</p></daodesc></dao></did></c03><c03 id="aspace_ref61_8hb" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 28</unittitle><unitdate datechar="creation">March 16-21, 1943.</unitdate><physdesc id="aspace_afbcd9c9b7d9024a971ea40ecb17cfe3" label="General Physical Description note">(pages 1-120)</physdesc><container id="aspace_0fde9ec99163a5cfd6dda6f41fae230c" label="Mixed Materials" type="volume">28</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt087022hd/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 28" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 28</p></daodesc></dao></did></c03><c03 id="aspace_ref63_gij" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 29</unittitle><unitdate datechar="creation">March 22-29, 1943.</unitdate><physdesc id="aspace_c857b8963fc76c4d5ba254c4b1ad86bf" label="General Physical Description note">(pages 1-120)</physdesc><container id="aspace_86c1241705a0bae838b21a9cc1c50ac6" label="Mixed Materials" type="volume">29</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt309nd2r9/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 29" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 29</p></daodesc></dao></did></c03><c03 id="aspace_ref65_zre" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 30</unittitle><unitdate datechar="creation">March 29-April 6, 1943.</unitdate><physdesc id="aspace_76e95528bea7333777dc159345456ef5" label="General Physical Description note">(pages 1-118)</physdesc><container id="aspace_65f3a98c4677774dfb77698eab9bd1fb" label="Mixed Materials" type="volume">30</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt4b69q9t7/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 30" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 30</p></daodesc></dao></did></c03><c03 id="aspace_ref67_ggj" level="item"><did><unittitle>Charles Kikuchi original diary: Volume 31</unittitle><unitdate datechar="creation">April 7-18, 1943.</unitdate><physdesc id="aspace_3d8554783849a489cb3c4f24b9c9184a" label="General Physical Description note">(pages 1-120)</physdesc><container id="aspace_501c65a00363173bd2d025ea8fb660cc" label="Mixed Materials" type="volume">31</container><dao xlink:actuate="onRequest" xlink:href="https://calisphere.org/item/ark:/13030/kt767nd3qt/" xlink:show="new" xlink:title="Charles Kikuchi original diary: Volume 31" xlink:type="simple"><daodesc><p>Charles Kikuchi original diary: Volume 31</p></daodesc></dao></did></c03></c02><c02 id="aspace_ref69_1ab" level="item"><did><unitdate datechar="creation">April-September 1943.</unitdate><container id="aspace_4427115ac0c6171d04e77b65b8501918" label="Mixed Materials" type="box">5</container><container id="aspace_18ffd36de3da41f2b063acc7f35d7743" parent="aspace_4427115ac0c6171d04e77b65b8501918" type="volume">32-39</container></did></c02><c02 id="aspace_ref70_a1y" level="item"><did><unitdate datechar="creation">September 1943-January 1944.</unitdate><container id="aspace_eb5acee935791a5c01d3197c8e2aa7fe" label="Mixed Materials" type="box">6</container><container id="aspace_88ec014eba79df098bb2e06681405e19" parent="aspace_eb5acee935791a5c01d3197c8e2aa7fe" type="volume">40-46</container></did></c02><c02 id="aspace_ref71_nid" level="item"><did><unitdate datechar="creation">January 1944-March 1945.</unitdate><container id="aspace_006a305f868839c4dbeaafd197fdfe8e" label="Mixed Materials" type="box">7</container><container id="aspace_03958b7e6260e750fbd4f1050e30f070" parent="aspace_006a305f868839c4dbeaafd197fdfe8e" type="volume">47-[54]</container></did></c02><c02 id="aspace_ref72_83o" level="item"><did><unitdate datechar="creation">August 1945-April 1946.</unitdate><container id="aspace_d8104b2ea355a1a9ae1974ad16de825f" label="Mixed Materials" type="box">8</container><container id="aspace_c431e744413bd310168cb417a9b74810" parent="aspace_d8104b2ea355a1a9ae1974ad16de825f" type="volume">[55]-[58]</container></did></c02><c02 id="aspace_ref73_th1" level="item"><did><unitdate datechar="creation">September 19, 1946-June 19, 1948.</unitdate><container id="aspace_6d2e779512ba90d1923bcd7f9a8d61cb" label="Mixed Materials" type="box">9</container><container id="aspace_3cf957f3a055fbd8d6c90a86946ae5f3" parent="aspace_6d2e779512ba90d1923bcd7f9a8d61cb" type="volume">[59]-[63]</container></did></c02><c02 id="aspace_ref74_2i6" level="item"><did><unittitle>Indexes to diaries.</unittitle><unitdate datechar="creation">1941-1947.</unitdate><container id="aspace_3b0fe9b9d3d15b5734e58db03e63a02d" label="Mixed Materials" type="box">10</container></did></c02></c01><c01 id="aspace_ref76_cs0" level="series"><did><unittitle>Copy Diaries</unittitle></did><c02 id="aspace_ref77_d71" level="item"><did><unitdate datechar="creation">December 1941-November 1942.</unitdate><container id="aspace_4cff3ce8d8d08d64ca15b19e94389e05" label="Mixed Materials" type="box">11</container><container id="aspace_9fcbda8e2cb1335316c88db48d0c59a3" parent="aspace_4cff3ce8d8d08d64ca15b19e94389e05" type="volume">1-3</container></did></c02><c02 id="aspace_ref78_wt3" level="item"><did><unitdate datechar="creation">November 1942-March 1943.</unitdate><container id="aspace_504cc939d9c825e7ef919f6ec13f60f9" label="Mixed Materials" type="box">12</container><container id="aspace_eec7e956b5796fe06093afaf6dde8075" parent="aspace_504cc939d9c825e7ef919f6ec13f60f9" type="volume">4-6</container></did></c02><c02 id="aspace_ref79_jpg" level="item"><did><unitdate datechar="creation">April 1943-December 1943.</unitdate><container id="aspace_8fa735e95b02335567a3e019631692c9" label="Mixed Materials" type="box">13</container><container id="aspace_01e9c183195106c2368adca873d66cd7" parent="aspace_8fa735e95b02335567a3e019631692c9" type="volume">7-9</container></did></c02><c02 id="aspace_ref80_s23" level="item"><did><unitdate datechar="creation">November 1943-July 1944.</unitdate><container id="aspace_db979f544766cfb46200a5196b457837" label="Mixed Materials" type="box">14</container><container id="aspace_575ec6a32f2a1470add0017e50ad0ed4" parent="aspace_db979f544766cfb46200a5196b457837" type="volume">10-12</container></did></c02><c02 id="aspace_ref81_9jl" level="item"><did><unitdate datechar="creation">July 1944-January 1945.</unitdate><container id="aspace_028316886fcd149137da35a36a228bfa" label="Mixed Materials" type="box">15</container><container id="aspace_2ce686e71e144e7ed14ebfa1b7b7fc0f" parent="aspace_028316886fcd149137da35a36a228bfa" type="volume">13-15</container></did></c02><c02 id="aspace_ref82_8oi" level="item"><did><unitdate datechar="creation">January-May 1945.</unitdate><container id="aspace_baefda95bb1f39cb41ec43d287c57aeb" label="Mixed Materials" type="box">16</container><container id="aspace_6592dba40937bb21ef471c0c8aab1937" parent="aspace_baefda95bb1f39cb41ec43d287c57aeb" type="volume">16-18</container></did></c02><c02 id="aspace_ref83_kuh" level="item"><did><unitdate datechar="creation">June-December 1945.</unitdate><container id="aspace_ac68db71b06aa93b94d285dbd21fb8c6" label="Mixed Materials" type="box">17</container><container id="aspace_3bda037f14d9ec2f8081bd3b049c3c5a" parent="aspace_ac68db71b06aa93b94d285dbd21fb8c6" type="volume">19-21</container></did></c02><c02 id="aspace_ref84_puh" level="item"><did><unitdate datechar="creation">January 1946-April 1947.</unitdate><container id="aspace_6f39302479731d8413d2be923c54e0b1" label="Mixed Materials" type="box">18</container><container id="aspace_9f3ca849c07270553efb34da5dcff30c" parent="aspace_6f39302479731d8413d2be923c54e0b1" type="volume">22-24</container></did></c02><c02 id="aspace_ref85_89v" level="item"><did><unitdate datechar="creation">May 1947-February 1948.</unitdate><container id="aspace_5c5de3544f57849fddfe8123ef35c383" label="Mixed Materials" type="box">19</container><container id="aspace_f025648247d36d15e86d2b72e77cdc60" parent="aspace_5c5de3544f57849fddfe8123ef35c383" type="volume">25-27</container></did></c02><c02 id="aspace_ref86_evc" level="item"><did><unitdate datechar="creation">March 1948-June 1950.</unitdate><container id="aspace_7465393c5aa8015a942fde547681e890" label="Mixed Materials" type="box">20</container><container id="aspace_5f18145bac98f5a7464e0e857f11f083" parent="aspace_7465393c5aa8015a942fde547681e890" type="volume">28-30</container></did></c02><c02 id="aspace_ref87_u6f" level="item"><did><unitdate datechar="creation">July 1950-December 1951.</unitdate><container id="aspace_15a9066cda2c39a6f7ff1348d75d542b" label="Mixed Materials" type="box">21</container><container id="aspace_80ec02894860f96fec40f84a43ed1378" parent="aspace_15a9066cda2c39a6f7ff1348d75d542b" type="volume">31-33</container></did></c02><c02 id="aspace_ref88_qkq" level="item"><did><unitdate datechar="creation">January 1952-June 1953.</unitdate><container id="aspace_8f1a60e2414ea133ae87c64b3089704f" label="Mixed Materials" type="box">22</container><container id="aspace_fdf9bdf72e76c589b83f7e9d0ed2a14d" parent="aspace_8f1a60e2414ea133ae87c64b3089704f" type="volume">34-36</container></did></c02><c02 id="aspace_ref89_av4" level="item"><did><unitdate datechar="creation">July 1953-December 1954.</unitdate><container id="aspace_2834afe90d871be239ae370a571d9544" label="Mixed Materials" type="box">23</container><container id="aspace_70d3e2cea4b5b85aaa8ea60c51482aff" parent="aspace_2834afe90d871be239ae370a571d9544" type="volume">37-39</container></did></c02><c02 id="aspace_ref90_jnx" level="item"><did><unitdate datechar="creation">January 1955-May 1956.</unitdate><container id="aspace_33423524a46ae1eb4f9c0c244b176820" label="Mixed Materials" type="box">24</container><container id="aspace_7f0a50c2376a046f20a0b2c35a755ade" parent="aspace_33423524a46ae1eb4f9c0c244b176820" type="volume">40-42</container></did></c02><c02 id="aspace_ref91_893" level="item"><did><unitdate datechar="creation">June 1956-December 1957.</unitdate><container id="aspace_06ddea956bc9477a9e221d0e1fb4dbc8" label="Mixed Materials" type="box">25</container><container id="aspace_346f644d9d6d2ae0330caedfc0279575" parent="aspace_06ddea956bc9477a9e221d0e1fb4dbc8" type="volume">43-45</container></did></c02><c02 id="aspace_ref92_4a5" level="item"><did><unitdate datechar="creation">January 1958-June 1959.</unitdate><container id="aspace_9828737a4a4ca14ecedd540323034113" label="Mixed Materials" type="box">26</container><container id="aspace_ce680d1f8e0c5517c47dd7a47409af20" parent="aspace_9828737a4a4ca14ecedd540323034113" type="volume">46-48</container></did></c02><c02 id="aspace_ref93_mc1" level="item"><did><unitdate datechar="creation">July 1959-December 1960.</unitdate><container id="aspace_e38e94ca8f6ff5691999253ea00c03bc" label="Mixed Materials" type="box">27</container><container id="aspace_c9cf4ac6e992ce4aa2376dca8674d5c8" parent="aspace_e38e94ca8f6ff5691999253ea00c03bc" type="volume">49-51</container></did></c02><c02 id="aspace_ref94_pmw" level="item"><did><unitdate datechar="creation">January 1961-June 1962.</unitdate><container id="aspace_d8710fc5da89e0a913411a07decac6fe" label="Mixed Materials" type="box">28</container><container id="aspace_de5b5e7c0c592769c53f78faff3beeb2" parent="aspace_d8710fc5da89e0a913411a07decac6fe" type="volume">52-54</container></did></c02><c02 id="aspace_ref95_vt0" level="item"><did><unitdate datechar="creation">July 1962-June 1963.</unitdate><container id="aspace_ea1a38998d334026a2c59dc84f99b86f" label="Mixed Materials" type="box">29</container><container id="aspace_822d74e08232254665b09f9366453df6" parent="aspace_ea1a38998d334026a2c59dc84f99b86f" type="volume">55-56</container></did></c02><c02 id="aspace_ref96_ujw" level="item"><did><unitdate datechar="creation">July 1963-December 1964.</unitdate><container id="aspace_80ca4e112096c2e576242e58358ff154" label="Mixed Materials" type="box">30</container><container id="aspace_19d8dcf0c4a6be2a9cce1ef50c2991ee" parent="aspace_80ca4e112096c2e576242e58358ff154" type="volume">57-59</container></did></c02><c02 id="aspace_ref97_vjk" level="item"><did><unitdate datechar="creation">January 1965-June 1966.</unitdate><container id="aspace_366909d055fef5f935389e7b291570eb" label="Mixed Materials" type="box">31</container><container id="aspace_bd59531d2d8360b52c98a370dd1289d5" parent="aspace_366909d055fef5f935389e7b291570eb" type="volume">60-62</container></did></c02><c02 id="aspace_ref98_sbx" level="item"><did><unitdate datechar="creation">July 1966-December 1967.</unitdate><container id="aspace_cacfba2e088083b0f067a6e75f45b86d" label="Mixed Materials" type="box">32</container><container id="aspace_689389e720cfbbde340a2d4ab92118d4" parent="aspace_cacfba2e088083b0f067a6e75f45b86d" type="volume">63-65</container></did></c02><c02 id="aspace_ref99_k3d" level="item"><did><unitdate datechar="creation">January-December 1968.</unitdate><container id="aspace_bf874e8efd5ffd69d10d74ff0d22f3df" label="Mixed Materials" type="box">33</container><container id="aspace_9b17d37fcb01291069bea25886c9dedf" parent="aspace_bf874e8efd5ffd69d10d74ff0d22f3df" type="volume">66-67</container></did></c02><c02 id="aspace_ref100_mbn" level="item"><did><unitdate datechar="creation">January 1969-June 1970.</unitdate><container id="aspace_62c9cb9c66c0a0065c624dc896bd8182" label="Mixed Materials" type="box">34</container><container id="aspace_b442c7d69594812ce9ab005ee458fa2c" parent="aspace_62c9cb9c66c0a0065c624dc896bd8182" type="volume">68-70</container></did></c02><c02 id="aspace_ref101_tpg" level="item"><did><unitdate datechar="creation">July 1970-December 1971.</unitdate><container id="aspace_f50b812dea381b68153ae5609e7f3cf6" label="Mixed Materials" type="box">35</container><container id="aspace_b5524e80d314beefcbc96496f41a153c" parent="aspace_f50b812dea381b68153ae5609e7f3cf6" type="volume">71-73</container></did></c02><c02 id="aspace_ref102_dsx" level="item"><did><unitdate datechar="creation">January 1972-June 1973.</unitdate><container id="aspace_5804f862e835242522eb04d575275fd4" label="Mixed Materials" type="box">36</container><container id="aspace_24a2e8cc71a26de7b58f022fed96e1c9" parent="aspace_5804f862e835242522eb04d575275fd4" type="volume">74-76</container></did></c02><c02 id="aspace_ref103_elt" level="item"><did><unitdate datechar="creation">July 1973-March 1974.</unitdate><container id="aspace_033be3640ba8ea9cdfc6869cf0621bd2" label="Mixed Materials" type="box">37</container><container id="aspace_9af94827c1cd62c66b72d33414874dd2" parent="aspace_033be3640ba8ea9cdfc6869cf0621bd2" type="volume">77-79</container></did></c02><c02 id="aspace_ref104_q52" level="item"><did><unitdate datechar="creation">March 1974-May 1975.</unitdate><container id="aspace_3967af0be60b59df32c8084ff327f57e" label="Mixed Materials" type="box">38</container><container id="aspace_ac2060abb5aa47ec343e0f5cad2fe689" parent="aspace_3967af0be60b59df32c8084ff327f57e" type="volume">80-83</container></did></c02><c02 id="aspace_ref105_o1d" level="item"><did><unitdate datechar="creation">May 1975-March 1976.</unitdate><container id="aspace_74356ae210fdefff0066c117c361d7ed" label="Mixed Materials" type="box">39</container><container id="aspace_f60ca985bb8d2db26c42fe5144ee38fa" parent="aspace_74356ae210fdefff0066c117c361d7ed" type="volume">84-86</container></did></c02><c02 id="aspace_ref106_e5m" level="item"><did><unitdate datechar="creation">April-December 1976.</unitdate><container id="aspace_fdeb88a21d9d1e7210b5c22001f1f8b4" label="Mixed Materials" type="box">40</container><container id="aspace_8a14fd2f03bd5c0d455234d158b60eb3" parent="aspace_fdeb88a21d9d1e7210b5c22001f1f8b4" type="volume">87-89</container></did></c02><c02 id="aspace_ref107_w5n" level="item"><did><unitdate datechar="creation">December 1976-September 1977.</unitdate><container id="aspace_957b4ab857169bd58973af966ee034c0" label="Mixed Materials" type="box">41</container><container id="aspace_6cb1562aa12507cddca4dac413bb0f0f" parent="aspace_957b4ab857169bd58973af966ee034c0" type="volume">90-92</container></did></c02><c02 id="aspace_ref108_pzs" level="item"><did><unitdate datechar="creation">October 1977-September 1978.</unitdate><container id="aspace_181939d1981bc685f0c8bb2110dde346" label="Mixed Materials" type="box">42</container><container id="aspace_e4e108e6573db293cccbecd4a910b70d" parent="aspace_181939d1981bc685f0c8bb2110dde346" type="volume">93-95</container></did></c02><c02 id="aspace_ref109_1ix" level="item"><did><unitdate datechar="creation">October 1978-June 1979.</unitdate><container id="aspace_d60b06f834b2a9deb45a1dd8b7467d5d" label="Mixed Materials" type="box">43</container><container id="aspace_a81f7318df79f117a6c96c7e3a7572db" parent="aspace_d60b06f834b2a9deb45a1dd8b7467d5d" type="volume">96-98</container></did></c02><c02 id="aspace_ref110_cbm" level="item"><did><unitdate datechar="creation">July-December 1979.</unitdate><container id="aspace_74c61afb329865acd8d6890a7d213ac4" label="Mixed Materials" type="box">44</container><container id="aspace_156f01bb235c593516b486116d4ed60a" parent="aspace_74c61afb329865acd8d6890a7d213ac4" type="volume">99-100</container></did></c02></c01><c01 id="aspace_ref111_gdu" level="series"><did><unittitle>Loose Items from Diaries [Additions, 1989, 1998]</unittitle></did><odd id="aspace_9300ee41e3a42ec932debbdcaf5c91d6"><head>General note</head><p><emph render="italic">Loose items from diaries have been foldered. Original box, volume and page numbers of these items are listed below.</emph></p></odd><c02 id="aspace_ref112_gmx" level="item"><did><unittitle>Box 8, vol.[55]: p. 0(6), 1, 58(2), 207, 232, 262, 270-27/(3).</unittitle><container id="aspace_b8725ee44062209b5d6326b8451718a7" label="Mixed Materials" type="box">56</container><container id="aspace_0e3ffffc44cd030bf3aaa82360a36178" parent="aspace_b8725ee44062209b5d6326b8451718a7" type="folder">1</container></did></c02><c02 id="aspace_ref113_hs1" level="item"><did><unittitle>Box 8, vol.[55]: p. 276-277, 291, 293, 309, 314, 320, 327, 341, 361, 372-373, 373, 393(2), 395, 399, 437(6), 453(2), 457.</unittitle><container id="aspace_65e2217033e01abc54a7100fb308c1ff" label="Mixed Materials" type="box">56</container><container id="aspace_f7aeb224d153819f6bfae1f6e8ced539" parent="aspace_65e2217033e01abc54a7100fb308c1ff" type="folder">2</container></did></c02><c02 id="aspace_ref114_tn7" level="item"><did><unittitle>Box 11, vol.1: attached to Charles Kikuchi's letter of</unittitle><unitdate datechar="creation">December 20, 1941.</unitdate><container id="aspace_38fffc09db37779579c1b237c2fa4e3e" label="Mixed Materials" type="box">56</container><container id="aspace_a24f84a3a7637e88c30ac9fc49f38938" parent="aspace_38fffc09db37779579c1b237c2fa4e3e" type="folder">3</container></did></c02><c02 id="aspace_ref115_10r" level="item"><did><unittitle>Box 11, vol.1: attached to end of vol.[1].</unittitle><container id="aspace_043146861f1e8e230e410b4406419c75" label="Mixed Materials" type="box">56</container><container id="aspace_473603a0dcb1997d4526c989500896d3" parent="aspace_043146861f1e8e230e410b4406419c75" type="folder">4</container></did></c02><c02 id="aspace_ref116_46y" level="item"><did><unittitle>Box 11, vol.2: p. 376, 547, 551, 567(2), 586.</unittitle><container id="aspace_b19f14629244007f662ca682085abfdf" label="Mixed Materials" type="box">56</container><container id="aspace_eb9230006547162345ec52343f4836e7" parent="aspace_b19f14629244007f662ca682085abfdf" type="folder">5</container></did></c02><c02 id="aspace_ref117_zj1" level="item"><did><unittitle>Box 11, vol.3: p. 681.</unittitle><container id="aspace_b04adfe897be506d5db33f7b594bc6f4" label="Mixed Materials" type="box">56</container><container id="aspace_03e5eb5e6625618457d801baa7e73047" parent="aspace_b04adfe897be506d5db33f7b594bc6f4" type="folder">6</container></did></c02><c02 id="aspace_ref118_hy5" level="item"><did><unittitle>Box 12, vol.6: p. 2244, 2303.</unittitle><container id="aspace_e072a72ccfe77b6b70dfeef44fc896be" label="Mixed Materials" type="box">56</container><container id="aspace_21d0857104f292e4702810cf1a180edc" parent="aspace_e072a72ccfe77b6b70dfeef44fc896be" type="folder">7</container></did></c02><c02 id="aspace_ref119_2o1" level="item"><did><unittitle>Box 13, vol.8: p. 2843.</unittitle><container id="aspace_80471a738e86e931202f75afa9155d0b" label="Mixed Materials" type="box">56</container><container id="aspace_f3aa73cc7e6a1c19115aaebd9963d883" parent="aspace_80471a738e86e931202f75afa9155d0b" type="folder">8</container></did></c02><c02 id="aspace_ref120_wcp" level="item"><did><unittitle>Box 13, vol.9: p. 3512, 3554(7).</unittitle><container id="aspace_06bf9281fb677672c027fbef3aa3a93e" label="Mixed Materials" type="box">56</container><container id="aspace_00b2ae85732c97d3fc294ab720157987" parent="aspace_06bf9281fb677672c027fbef3aa3a93e" type="folder">9</container></did></c02><c02 id="aspace_ref121_n56" level="item"><did><unittitle>Box 14, vol.10: p. 3624(2).</unittitle><container id="aspace_c89dd82ec1e4c55c9851f2dfc0dbd8ba" label="Mixed Materials" type="box">56</container><container id="aspace_808a3dfaa2fd4ace8df4dd2b42cb12c4" parent="aspace_c89dd82ec1e4c55c9851f2dfc0dbd8ba" type="folder">10</container></did></c02><c02 id="aspace_ref122_tqw" level="item"><did><unittitle>Box 14, vol.12: p. 4741.</unittitle><container id="aspace_abeb1e6ba9c54412cde32e4d745eb939" label="Mixed Materials" type="box">56</container><container id="aspace_9c956ef78c317846df66d3f789e60930" parent="aspace_abeb1e6ba9c54412cde32e4d745eb939" type="folder">11</container></did></c02><c02 id="aspace_ref123_z9q" level="item"><did><unittitle>Box 17, vol.19: p. 8032-8033, 8058-8059, 8074.</unittitle><container id="aspace_2dd34e8229427bb7fc625ac22dd45e2a" label="Mixed Materials" type="box">56</container><container id="aspace_7f6a5d58afc5896048fa12caf27dc83c" parent="aspace_2dd34e8229427bb7fc625ac22dd45e2a" type="folder">12</container></did></c02><c02 id="aspace_ref124_zjs" level="item"><did><unittitle>Box 17, vol.20: Attached to the end of vol.[20].</unittitle><container id="aspace_64eefbff7cc1ff148f1f08f276da6add" label="Mixed Materials" type="box">56</container><container id="aspace_fa87c02861572fb3aeb8bb12446ac854" parent="aspace_64eefbff7cc1ff148f1f08f276da6add" type="folder">13</container></did></c02><c02 id="aspace_ref125_qwv" level="item"><did><unittitle>Box 17, vol.21: p. 79(2), 321.</unittitle><container id="aspace_61d8c2886a6335d6b993abfebe0cb4b0" label="Mixed Materials" type="box">56</container><container id="aspace_798767681636c63a92181a7820879e7e" parent="aspace_61d8c2886a6335d6b993abfebe0cb4b0" type="folder">14</container></did></c02><c02 id="aspace_ref126_0ap" level="item"><did><unittitle>Box 18, vol.22: p. 1272(2), 1307(7).</unittitle><container id="aspace_4cbbe3cb08f700625c047811b8b25fac" label="Mixed Materials" type="box">56</container><container id="aspace_4ba734021210bae77d6329c89d2346c6" parent="aspace_4cbbe3cb08f700625c047811b8b25fac" type="folder">15</container></did></c02><c02 id="aspace_ref127_jji" level="item"><did><unittitle>Box 18, vol.22: attached to the end of vol.[22].</unittitle><container id="aspace_28211b4bb3b58eb8c2e640671144afe1" label="Mixed Materials" type="box">56</container><container id="aspace_9ef2c66548a9ef71cc06f64bc75c89d0" parent="aspace_28211b4bb3b58eb8c2e640671144afe1" type="folder">16</container></did></c02><c02 id="aspace_ref128_5ez" level="item"><did><unittitle>Box 18, vol.23: p. 1691(5), 1727, 1764.</unittitle><container id="aspace_99c4ddde746d9ac670922e3207e087a8" label="Mixed Materials" type="box">56</container><container id="aspace_8e3496490afd8c8826e86ca200c48b0d" parent="aspace_99c4ddde746d9ac670922e3207e087a8" type="folder">17</container></did></c02><c02 id="aspace_ref129_xpj" level="item"><did><unittitle>Box 18, vol.23: sample of Yuriko's credits:</unittitle><unitdate datechar="creation">1944-1946.</unitdate><container id="aspace_4b63c0a0900a1997e31b6c3bf0d2f057" label="Mixed Materials" type="box">56</container><container id="aspace_828352f2d5f5b8cfb5e3951e32b9ab9d" parent="aspace_4b63c0a0900a1997e31b6c3bf0d2f057" type="folder">18</container></did></c02><c02 id="aspace_ref130_2bw" level="item"><did><unittitle>Box 18, vol.24: Attached to Charles Kikuchi's diary inside of the cover page.</unittitle><unitdate datechar="creation">(1947)</unitdate><container id="aspace_fbdc18d360f5fab90d30ca075d09ea7e" label="Mixed Materials" type="box">56</container><container id="aspace_1c197df7c67e929d4f705107550bb556" parent="aspace_fbdc18d360f5fab90d30ca075d09ea7e" type="folder">20</container></did></c02><c02 id="aspace_ref131_ste" level="item"><did><unittitle>Box 18, vol.24: attachment to program, Martha Graham Dance Company.</unittitle><container id="aspace_8c3823ad16e32775e769e1abdebc5ac5" label="Mixed Materials" type="box">56</container><container id="aspace_b06907213eae7d81cb984e0b3fe37142" parent="aspace_8c3823ad16e32775e769e1abdebc5ac5" type="folder">21</container></did></c02><c02 id="aspace_ref132_lzf" level="item"><did><unittitle>Box 19, vol.27: attachment to program, Martha Graham Dance Company.</unittitle><container id="aspace_2a139dee2c177c8427dc9b9fe80ceb0c" label="Mixed Materials" type="box">56</container><container id="aspace_1f024560191ee1b4a96f666c161db599" parent="aspace_2a139dee2c177c8427dc9b9fe80ceb0c" type="folder">22</container></did></c02><c02 id="aspace_ref133_lou" level="item"><did><unittitle>Box 20, vol.28: p. 3707.</unittitle><container id="aspace_508e085bf3dfea6ecadf2e822bd7926d" label="Mixed Materials" type="box">56</container><container id="aspace_f6ae22f8b64ba9dfc734d559e1f979eb" parent="aspace_508e085bf3dfea6ecadf2e822bd7926d" type="folder">23</container></did></c02><c02 id="aspace_ref134_ae0" level="item"><did><unittitle>Box 20, vol.29: attached to diary. ; attached to diary. ; red card inserted</unittitle><unitdate datechar="creation">January 6, 1949 January 28, 1949 June 19, 1949.</unitdate><container id="aspace_a308c941f99dcfecc69b6fddd9d6a7a9" label="Mixed Materials" type="box">56</container><container id="aspace_482a2556c3115c88561d021f5a5346fa" parent="aspace_a308c941f99dcfecc69b6fddd9d6a7a9" type="folder">24</container></did></c02><c02 id="aspace_ref135_zaw" level="item"><did><unittitle>Box 20, vol.30: attached to letter from Yuriko. ; Martha Graham Dance Company route sheet attached to letter from Charlie. ; attached to diary. ; letters from Bobby.</unittitle><unitdate datechar="creation">February 7, 1950 March 20, 1950 May 12, 1950</unitdate><container id="aspace_609306fbcb34cc06158d8b5ee2e633a8" label="Mixed Materials" type="box">56</container><container id="aspace_7bdac35d5b265b7f0e32430055e0bd64" parent="aspace_609306fbcb34cc06158d8b5ee2e633a8" type="folder">25</container></did></c02></c01><c01 id="aspace_ref137_8l5" level="series"><did><unittitle>Correspondence &amp; Writings</unittitle></did><c02 id="aspace_ref138_d8b" level="item"><did><unittitle>Correspondence &amp; miscellaneous writings.</unittitle><container id="aspace_66b097873eedf7db460f24dad6f9deac" label="Mixed Materials" type="box">45</container></did></c02><c02 id="aspace_ref139_8qf" level="item"><did><unittitle>Correspondence, etc.</unittitle><unitdate datechar="creation">Early 1980s.</unitdate><container id="aspace_5962aaf06cd49da51366b80731e41fc2" label="Mixed Materials" type="box">57</container><container id="aspace_fe8eaee90643a581367d4cda3d64931b" label="Mixed Materials" type="box">58</container><container id="aspace_d056e753a5b10b82ef57226c8c903dc4" label="Mixed Materials" type="box">59</container><container id="aspace_085aa373db8a4c142fc1ae857f08148d" label="Mixed Materials" type="box">60</container></did><odd id="aspace_598bbf472d4d300f6a74bd4a2c2df32f"><head>General note</head><p>[Additions, 1989, 1991]</p></odd></c02><c02 id="aspace_ref141_jpf" level="item"><did><unittitle>Copies of letters.</unittitle><physdesc id="aspace_b10e60be4a86ad8cebcfdf949f20c8aa" label="General Physical Description note">[half legal size document box]</physdesc><container id="aspace_9984b579a7208cab96b68ebf0f3060bd" label="Mixed Materials" type="box">62</container><container id="aspace_7804ae1f0d34b7bd415544252d5c5ea1" parent="aspace_9984b579a7208cab96b68ebf0f3060bd" type="folder">4</container></did><odd id="aspace_c2981ae556b28ee68b1740b091bf2445"><head>General note</head><p>[Additions, 1989, 1991]</p></odd></c02></c01><c01 id="aspace_ref144_r0x" level="series"><did><unittitle>Japanese Evacuation and Relocation Study (JERS)</unittitle></did><c02 id="aspace_ref145_zl9" level="item"><did><unittitle>Chicago case studies of evacuation and relocation, vols.1-14.</unittitle><container id="aspace_a83bfb7387fd2f6df05ef6d1ab0039eb" label="Mixed Materials" type="box">46</container></did></c02><c02 id="aspace_ref146_d3o" level="item"><did><unittitle>Chicago case studies of evacuation and relocation, vols.16-32.</unittitle><container id="aspace_54946146484e6dadbf44803d26adab84" label="Mixed Materials" type="box">47</container></did></c02><c02 id="aspace_ref147_tgv" level="item"><did><unittitle>Chicago case studies of evacuation and relocation, vols.33-46.</unittitle><container id="aspace_d276fa90742c25dfe394174157e45731" label="Mixed Materials" type="box">48</container></did></c02><c02 id="aspace_ref148_97s" level="item"><did><unittitle>Chicago case studies of evacuation and relocation, vols.48-50.</unittitle><container id="aspace_439efb33d31dbd069a54fcb3f44b493c" label="Mixed Materials" type="box">49</container></did><odd id="aspace_0448e74d72632c45e9d6d5b469e6c296"><head>General note</head><p>[<emph render="italic">Volume 47 is UNAVAILABLE.</emph>]</p></odd></c02><c02 id="aspace_ref150_116" level="file"><did><unittitle>Case histories taken by Mr. Kikuchi of the following Japanese Americans in the Chicago area.</unittitle><container id="aspace_a0efd3d53ac4b945c0d6e1f019d48a85" label="Mixed Materials" type="box">54</container></did><odd id="aspace_24c1c0cee337bfb2ffe4012b7baa94b3"><head>General note</head><p><emph render="italic"> Papers donated per Warren Tsuneishi.</emph></p></odd><scopecontent id="aspace_6a09f982656bd79daefd3daf6ca4a896"><head>Scope and Contents note</head><p><list type="simple"><item>5. Iwagami, Ichiro</item><item>10. Sawamoto, Chutaro</item><item>35. Ikenaka, Ike</item><item>37. Saruwatari, Akira</item><item>49. Saruwatari, Masako</item></list></p></scopecontent></c02></c01><c01 id="aspace_ref153_vjv" level="series"><did><unittitle>Pacific Coast Committee on American Principles and Fair Play</unittitle></did><c02 id="aspace_ref154_jpx" level="file"><did><unittitle>Records including minutes and correspondence, of the Pacific Coast Committee on American Principles and Fair Play (of Galen M. Fisher. , as sometime secretary of the Committee).</unittitle><unitdate datechar="creation">1941-45</unitdate><container id="aspace_9390b1851a40466dce48d7bd24059bbb" label="Mixed Materials" type="box">54</container></did><odd id="aspace_01a0c06ae93414aac6a51521dc42a92e"><head>General note</head><p><emph render="italic">Papers donated by Warren Tsuneishi given to him by Kikuchi.</emph></p></odd></c02></c01><c01 id="aspace_ref156_ws1" level="series"><did><unittitle>Photographs and Biographical Data [Additions, 1989]</unittitle></did><c02 id="aspace_ref157_ctx" level="item"><did><unittitle>10 prints made from originals retained by Mrs. Charles Kikuchi, of Charles Kikuchi. , and accompanying biographical information.</unittitle><unitdate datechar="creation">ca. 1938-1944</unitdate><container id="aspace_d8eab835f70690e4474c837664717a0e" label="Mixed Materials" type="box">54</container><dao xlink:actuate="onRequest" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00093ft3" xlink:show="new" xlink:title="Charles Kikuchi, 3rd Squard, 2nd Platoon, 69th [illegible] Co. [illegible], Virginia, group portrait, 1945" xlink:type="simple"><daodesc><p>Charles Kikuchi, 3rd Squard, 2nd Platoon, 69th [illegible] Co. [illegible], Virginia, group portrait, 1945</p></daodesc></dao><dao xlink:actuate="onRequest" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00093fqj" xlink:show="new" xlink:title="Charles Kikuchi, 3rd Squard, 2nd Platoon....[handwriting on back of photograph]" xlink:type="simple"><daodesc><p>Charles Kikuchi, 3rd Squard, 2nd Platoon....[handwriting on back of photograph]</p></daodesc></dao><dao xlink:actuate="onRequest" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00093fsk" xlink:show="new" xlink:title="Charles Kikuchi with his daughter Susan in New York City, N.Y., 1950" xlink:type="simple"><daodesc><p>Charles Kikuchi with his daughter Susan in New York City, N.Y., 1950</p></daodesc></dao><dao xlink:actuate="onRequest" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00093fr2" xlink:show="new" xlink:title="Charles Kikuchi writing at desk at Gila River, AZ., circa 1943" xlink:type="simple"><daodesc><p>Charles Kikuchi writing at desk at Gila River, AZ., circa 1943</p></daodesc></dao></did><odd id="aspace_a71066ac24f3bfb525a822b433f823ea"><head>General note</head><p><emph render="italic">Papers donated by Professor Arthur Hansen.</emph></p></odd></c02></c01><c01 id="aspace_ref159_w2g" level="series"><did><unittitle>Printed Materials</unittitle></did><c02 id="aspace_ref160_6hh" level="item"><did><unittitle>Government publications relating to the Japanese.</unittitle><container id="aspace_ee2bfcaccf17521384ace46091f83cfa" label="Mixed Materials" type="box">50</container><container id="aspace_4e4efb1ebbe08807f70cd86437709e02" label="Mixed Materials" type="box">51</container></did></c02><c02 id="aspace_ref161_s30" level="item"><did><unittitle>Various printed items.</unittitle><container id="aspace_d5331f83c7d37be25a6ab00bc8cddcb6" label="Mixed Materials" type="box">52</container></did></c02><c02 id="aspace_ref162_j7t" level="item"><did><unittitle>Various publications by Japanese Americans, mostly copies of <title>Trek</title> [Utah Relocation Center newspaper].</unittitle><container id="aspace_ac73ba34848780f6f5e53dfe47a6ff7c" label="Mixed Materials" type="box">53</container></did></c02><c02 id="aspace_ref163_i8x" level="item"><did><unittitle>Newsprint items: newsletters, clippings.</unittitle><physdesc id="aspace_3d36b0a85c1a82f84b8358395155bbd8" label="General Physical Description note">[half legal size document box]</physdesc><container id="aspace_60854b776ec84b98572f325f4b6049ab" label="Mixed Materials" type="box">62</container><container id="aspace_33956851fda9dccdf9fcadfcfa298616" parent="aspace_60854b776ec84b98572f325f4b6049ab" type="folder">3</container></did></c02><c02 id="aspace_ref165_yng" level="item"><did><unittitle>Theater program.</unittitle><unitdate datechar="creation">1988.</unitdate><physdesc id="aspace_92cabddb0dcf35cb5559c45cb1ae8b46" label="General Physical Description note">[half legal size document box]</physdesc><container id="aspace_f1b2dba0569a5783d0fc98069fa3fd9a" label="Mixed Materials" type="box">62</container><container id="aspace_4fb836bc5fedfe9be74d10b97df8ebcd" parent="aspace_f1b2dba0569a5783d0fc98069fa3fd9a" type="folder">4</container></did></c02></c01><c01 id="aspace_ref167_jkr" level="series"><did><unittitle>Relocation Center News Publications [Additions, 1989, 1998]</unittitle></did><c02 id="aspace_ref168_lin" level="item"><did><unittitle><title>Totalizer</title> - Tanforan Assembly Center, California, vol.I nos.2-9.</unittitle><unitdate datechar="creation">May 23-July 11, 1942.</unitdate><container id="aspace_9ac165a24fd6bf576fa45051b5d4c300" label="Mixed Materials" type="box">55</container><container id="aspace_40091e197cd129603cbc5002bbf322df" parent="aspace_9ac165a24fd6bf576fa45051b5d4c300" type="folder">1</container></did></c02><c02 id="aspace_ref169_pu7" level="item"><did><unittitle><title>Totalizer</title> - Tanforan Assembly Center, California, vol.I, nos.11-18.</unittitle><unitdate datechar="creation">July 18-September 5, 1942.</unitdate><container id="aspace_b170d54b82d751ba9fb9a69d0e5fb0dd" label="Mixed Materials" type="box">55</container><container id="aspace_38dfa44668563d0ede7b8141e25134c9" parent="aspace_b170d54b82d751ba9fb9a69d0e5fb0dd" type="folder">2</container></did></c02><c02 id="aspace_ref170_oui" level="item"><did><unittitle><title>Totalizer</title> - Tanforan Assembly Center, California, vol.I no.19.</unittitle><unitdate datechar="creation">September 12, 1942.</unitdate><physdesc id="aspace_1937899d92bbc791bd9642a234693c4b" label="General Physical Description note">6 copies.</physdesc><container id="aspace_70665a62e5ff5cbd50f292b8ecf2908b" label="Mixed Materials" type="box">55</container><container id="aspace_bcb43dd3d98fb0ac78bc79bccc16a368" parent="aspace_70665a62e5ff5cbd50f292b8ecf2908b" type="folder">3</container></did></c02><c02 id="aspace_ref172_4n7" level="item"><did><unittitle><title>Desert Sentinel</title>, vol.II.</unittitle><unitdate datechar="creation">October 22, 1943.</unitdate><physdesc id="aspace_c9846a52aa0976a54df844b53df473e9" label="General Physical Description note">1 item.</physdesc><container id="aspace_c8e8d48615bfb004a841a312f6959c47" label="Mixed Materials" type="box">55</container><container id="aspace_70994c02a32b6aa42deb5f42b72abdad" parent="aspace_c8e8d48615bfb004a841a312f6959c47" type="folder">4</container></did></c02><c02 id="aspace_ref174_u59" level="item"><did><unittitle><title>Relocator News Week</title>, vol.I nos.2-3, 5 and 11.</unittitle><unitdate datechar="creation">October 14-December 23, 1943.</unitdate><container id="aspace_28e249897268b06d56d9cf9c8d4281db" label="Mixed Materials" type="box">55</container><container id="aspace_9f296bea4ef00bfeb53cc308f4f06de1" parent="aspace_28e249897268b06d56d9cf9c8d4281db" type="folder">5</container></did></c02><c02 id="aspace_ref175_vdc" level="item"><did><unittitle><title>Gila Coop News</title> - Rivers, Arizona, vol.I nos. 5, 6, 8, 9, 11, 13, 18 and 19.</unittitle><unitdate datechar="creation">July 20-October 26, 1943.</unitdate><container id="aspace_f6313eaad854bc27da31d3d736e1fe06" label="Mixed Materials" type="box">55</container><container id="aspace_fea81f30404462103e80bd252987b88b" parent="aspace_f6313eaad854bc27da31d3d736e1fe06" type="folder">6</container></did></c02><c02 id="aspace_ref176_bjq" level="item"><did><unittitle><title>Gila News Courier</title> - Rivers, Arizona, vol.I nos.1-34.</unittitle><unitdate datechar="creation">September 12-December 29, 1942.</unitdate><container id="aspace_ba68a4222fdb1d52071de838c7620da6" label="Mixed Materials" type="box">55</container><container id="aspace_09aac410b5219355ee6d065edc715e30" parent="aspace_ba68a4222fdb1d52071de838c7620da6" type="folder">7</container></did></c02><c02 id="aspace_ref177_abv" level="item"><did><unittitle><title>Gila News Courier</title> - Rivers, Arizona, vol.II nos.1-29.</unittitle><unitdate datechar="creation">January 1-March 9, 1943.</unitdate><container id="aspace_d679295049f04d7e5ac4c338c1d0dbc3" label="Mixed Materials" type="box">55</container><container id="aspace_eb26e63eac59f43d461a2ba9242b6b47" parent="aspace_d679295049f04d7e5ac4c338c1d0dbc3" type="folder">8</container></did></c02><c02 id="aspace_ref178_pcw" level="item"><did><unittitle><title>Gila News Courier</title> - Rivers, Arizona, vol.II nos.30-53 and 55-59.</unittitle><unitdate datechar="creation">March 11-May 18, 1943.</unitdate><container id="aspace_fbe012f92d820a5005897b2818cda3d1" label="Mixed Materials" type="box">55</container><container id="aspace_c8d86137acfdd33b3bc51ab642328d1f" parent="aspace_fbe012f92d820a5005897b2818cda3d1" type="folder">9</container></did></c02><c02 id="aspace_ref179_erb" level="item"><did><unittitle><title>Gila News Courier</title> - Rivers, Arizona, vol.II nos.60-62, 64-80, 83-84, 86-87, 89-90, 92-98 and 100.</unittitle><unitdate datechar="creation">May 20-August 21, 1943.</unitdate><container id="aspace_a3f9f380f8c7e6c9cf3b1d9eda257597" label="Mixed Materials" type="box">55</container><container id="aspace_208011d3819805a65d572985ce6d70ac" parent="aspace_a3f9f380f8c7e6c9cf3b1d9eda257597" type="folder">10</container></did></c02><c02 id="aspace_ref180_1r8" level="item"><did><unittitle><title>Gila News Courier</title> - Rivers, Arizona, vol.III nos.1-5, 8-11, 13-16 and 18-37.</unittitle><unitdate datechar="creation">August 24-November 16, 1943.</unitdate><container id="aspace_fd014c2857bb5806fefecd456f1aaca7" label="Mixed Materials" type="box">55</container><container id="aspace_6624bf0dce537fd623246c0aae2ff488" parent="aspace_fd014c2857bb5806fefecd456f1aaca7" type="folder">11</container></did></c02><c02 id="aspace_ref181_wjk" level="item"><did><unittitle><title>Gila News Courier</title> - Rivers, Arizona, vol.III nos.40-50, 52-70, 72-76 and 95.</unittitle><unitdate datechar="creation">November 23-March 30, 1944.</unitdate><container id="aspace_b4999155410cd6e00177815cc13e552c" label="Mixed Materials" type="box">55</container><container id="aspace_4b510e1b35b8bb840a11f455d4e11c1e" parent="aspace_b4999155410cd6e00177815cc13e552c" type="folder">12</container></did></c02></c01><c01 id="aspace_ref182_3jc" level="series"><did><unittitle>Reports</unittitle></did><c02 id="aspace_ref183_zdz" level="item"><did><unittitle>Bob Spencer Gila reports, vol.1.</unittitle><unitdate datechar="creation">1942-43.</unitdate><physdesc id="aspace_55816b2a3f3a91b0b7dcebf897b1ec81" label="General Physical Description note">Fragile carbons in large binder.</physdesc><container id="aspace_1306cbd40e180e6c00955e9a78cc4dbf" label="Mixed Materials" type="box">61</container><container id="aspace_cabac9f8810304d74263f09db5d35379" parent="aspace_1306cbd40e180e6c00955e9a78cc4dbf" type="folder">1</container></did><odd id="aspace_ee0cc3f9c3cdd1d637fcbb91f2594b8d"><head>General note</head><p>Kikuchi copy.</p></odd></c02><c02 id="aspace_ref186_pgw" level="item"><did><unittitle>Gila report - Ivers, Arizona, vol.2.</unittitle><unitdate datechar="creation">April 1943.</unitdate><physdesc id="aspace_ad226ce8f4eafea01560f1263c888c7b" label="General Physical Description note">Fragile carbons and mimeograph sheets in large binder.</physdesc><container id="aspace_06e02a28bf0c7a5026111873890fa75d" label="Mixed Materials" type="box">61</container><container id="aspace_a41fe32c3a1e993dd85a3e0d00ed55d6" parent="aspace_06e02a28bf0c7a5026111873890fa75d" type="folder">2</container></did></c02></c01><c01 id="aspace_ref188_k9d" level="series"><did><unittitle>Proclamation Documents</unittitle></did><c02 id="aspace_ref189_rl4" level="item"><did><unittitle>Letter, copies of proclamation documents</unittitle><physdesc id="aspace_026dedb8d1bdb3beea23eea13f98e0c5" label="General Physical Description note">[half legal size document box]</physdesc><container id="aspace_b8c8f286c0e72ca8d31f862b9ab4a952" label="Mixed Materials" type="box">62</container><container id="aspace_66f5539cd5432346dc9b7374bef93f11" parent="aspace_b8c8f286c0e72ca8d31f862b9ab4a952" type="folder">1</container></did></c02><c02 id="aspace_ref191_a3t" level="item"><did><unittitle>Copies of proclamation documents, etc.</unittitle><physdesc id="aspace_92e7baf218f2253a332b0596a32bfe30" label="General Physical Description note">[half legal size document box]</physdesc><container id="aspace_fe2a95fa748336cb392a02f2fb2dcc3a" label="Mixed Materials" type="box">62</container><container id="aspace_7ae4976b19077daab09a6b8ebb02e838" parent="aspace_fe2a95fa748336cb392a02f2fb2dcc3a" type="folder">2</container></did></c02></c01></dsc>
-</archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed"
+    langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-CLU-SC"
+      url="https://oac.cdlib.org/findaid/ark:/13030/tf8w1008hg/">kiku1259.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Kikuchi (Charles) papers</titleproper>
+        <titleproper>Finding Aid for the Charles Kikuchi Papers <num>LSC.1259</num></titleproper>
+        <author>Finding aid prepared by UCLA Library Special Collections staff, additions by Dydia
+          DeLyser, January 1989 and Dan Luckenbill, January 1998; machine-readable finding aid
+          created by Caroline Cubé.</author>
+        <sponsor>Funding: Finding aid and digital representations of archival material funded in
+          part by a grant from the Library Services and Technology Act (LSTA).</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>UCLA Library Special Collections</publisher>
+        <p><date>Online finding aid last updated 2023 April 21.</date></p>
+        <address>
+          <addressline>Room A1713, Charles E. Young Research Library</addressline>
+          <addressline>Box 951575</addressline>
+          <addressline>Los Angeles, CA 90095-1575</addressline>
+          <addressline>Business Number: 310-825-4988</addressline>
+          <addressline>Fax Number: 310-206-1864</addressline>
+          <addressline>AskLSC@library.ucla.edu</addressline>
+          <addressline>URL: <extptr
+              xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/"
+              xlink:show="new"
+              xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/"
+              xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-04-21 14:15:23
+          -0700</date>.</creation>
+      <langusage>Finding aid is in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>UCLA Library Special Collections</corpname>
+      </repository>
+      <unittitle>Charles Kikuchi papers</unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Kikuchi, Charles</persname>
+      </origination>
+      <unitid>LSC.1259</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">29.0 Linear Feet</extent>
+        <extent altrender="carrier">(58 boxes and 4 oversize boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1941/1988" type="inclusive">1941-1988</unitdate>
+      <abstract id="aspace_b498b716344e8849863db80e0105a4e1" label="Abstract">Charles Kikuchi (1917-
+        ) worked for the California State Employment Service, surveying Nisei occupations. He was
+        recruited by Berkeley sociologist Dorothy Swaine Thomas for the Japanese Evacuation and
+        Relocation Study (JERS). He began to keep a diary and completed field surveys at the
+        Tanforan Assembly Center in Northern California and at the Gila River Relocation Center in
+        Arizona and in 1943 chronicled camp resident settlement in Chicago. He was drafted into the
+        United States Army just before the bombing of Hiroshima. The collection consists of Charles
+        Kikuchi's diaries, correspondence, and related printed material about Japanese Americans and
+        their relocation during World War II. Many diaries include clippings and programs related to
+        the career of Kikuchi's wife, Yuriko Amemiya, a professional dancer and a member of Martha
+        Graham's dance group.</abstract>
+      <physloc id="aspace_de329aaca2651719938cb57e8320cdf0">Stored off-site. All requests to access
+        special collections material must be made in advance using the request button located on
+        this page.</physloc>
+      <langmaterial id="aspace_6009d0849887f59d8e38f10e1d397533">Materials are in
+        English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_310ec73e8b3f714e2e879e979c158ada">
+      <head>Restrictions on Access</head>
+      <p>Open for research. All requests to access special collections materials must be made in
+        advance using the request button located on this page.</p>
+    </accessrestrict>
+    <phystech id="aspace_864bb87e51380d5c6449e5baca911ad9">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>PORTIONS OF THIS COLLECTION HAVE BEEN DIGITIZED. See the Existence and Location of Copies
+        note for the link to the digitized materials.</p>
+    </phystech>
+    <userestrict id="aspace_a6eb2bac5fa36810b822f13b245b4f99">
+      <head>Restrictions on Use and Reproduction</head>
+      <p>Property rights to the physical objects belong to UCLA Library Special Collections. All
+        other rights, including copyright, are retained by the creators and their heirs. It is the
+        responsibility of the researcher to determine who holds the copyright and pursue the
+        copyright owner or his or her heir for permission to publish where The UC Regents do not
+        hold the copyright.</p>
+    </userestrict>
+    <prefercite id="aspace_0aa317b8f69eaa7ee96094c9b71b7abf">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Charles Kikuchi papers (Collection 1259). UCLA Library Special
+        Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+    </prefercite>
+    <acqinfo id="aspace_aa2d8f16e8f50cda653d6c6f99e461e3">
+      <head>Provenance/Source of Acquisition</head>
+      <p><list type="simple">
+          <item>Gift of Charles Kikuchi, 1981-83.</item>
+          <item>Gift of Yuriko Kikuchi, 1991.</item>
+          <item>Gift of Warren Tsuneishi, 1981.</item>
+          <item>Gift of Arthur Hansen, 1989.</item>
+        </list></p>
+    </acqinfo>
+    <processinfo id="aspace_fb8f6cf335571c9b205489f1143d85a5">
+      <head>Processing Information</head>
+      <p>Processed by UCLA Library Special Collections staff. Additions processed by Dydia DeLyser,
+        January 1989 and Dan Luckenbill, January 1998.</p>
+      <p>Collections are processed to a variety of levels depending on the work necessary to make
+        them usable, their perceived user interest and research value, availability of staff and
+        resources, and competing priorities. Library Special Collections provides a standard level
+        of preservation and access for all collections and, when time and resources permit, conducts
+        more intensive processing. These materials have been arranged and described according to
+        national and local standards and best practices.</p>
+      <p>We are committed to providing ethical, inclusive, and anti-racist description of the
+        materials we steward, and to remediating existing description of our materials that contains
+        language that may be offensive or cause harm. We invite you to submit feedback about how our
+        collections are described, and how they could be described more accurately, by filling out
+        the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new"
+          xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description
+          in Library Special Collections.</extref></p>
+    </processinfo>
+    <odd id="aspace_eb63006ba207096fe3d21a2c2c937255">
+      <head>Funding</head>
+      <p>Finding aid and digital representations of archival material funded in part by a grant from
+        the Library Services and Technology Act (LSTA).</p>
+    </odd>
+    <odd id="aspace_9dd3b57cf2b770034e15a6188ab5b88b">
+      <head>UCLA Catalog Record ID</head>
+      <p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new"
+          xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9942332553606533"
+          >9942332553606533</extref></p>
+    </odd>
+    <bioghist id="aspace_c98f50b2ce678db18d6fa2256a708481">
+      <head>Biography/History</head>
+      <p>Kikuchi was born in 1917 in the San Francisco Bay Area; his father was an Issei barbershop
+        owner; he was placed in an orphanage when he was 8 years old; in 1934 he headed for San
+        Francisco; BA, San Francisco State College, 1939; anonymously published an autobiographical
+        essay, A Young American with a Japanese Face, in Louis Adamic's anthology titled, <title
+          type="simple">From Many Lands</title> (1939); worked for the California State Employment
+        Service, surveying Nisei occupations; attended School of Social Welfare, University of
+        California, Berkeley, and received certificate in social work in 1942; recruited by Berkeley
+        sociologist Dorothy Swaine Thomas for the Japanese Evacuation and Relocation Study (JERS);
+        Kikuchi began to keep a diary and completed field surveys at the Tanforan Assembly Center in
+        Northern California and at the Gila River Relocation Center in Arizona; began chronicling
+        camp resident settlement in Chicago, 1943; he was drafted into the United States Army just
+        before the bombing of Hiroshima; received master's degree in social work, New York
+        University (NYU), 1947; worked as a social worker with the Veterans Administration, New
+        York; married Yuriko Amemiya, a professional dancer, in 1946; died September 25, 1988.</p>
+    </bioghist>
+    <scopecontent id="aspace_809def4d45a3648efa69a52c3c03f44e">
+      <head>Scope and Content</head>
+      <p>Collection consists of Charles Kikuchi's diaries, correspondence, and related printed
+        material about Japanese Americans and their relocation during World War II. Includes 63
+        volumes of Kikuchi's original diaries, May 1942-June 1948. Copy diaries span the years
+        1941-79. Also includes materials related to Kikuchi's work and surveys for the Japanese
+        Evacuation and Relocation Study (JERS) and his study of Japanese American relocation to
+        Chicago, Illinois. Contains various War Relocation Authority (WRA) publications, National
+        Defense Migration reports, various issues of the Gila News Courier, and related
+        publications. Many diaries include clippings and programs related to the career of Kikuchi's
+        wife, Yuriko, a professional dancer and a member of Martha Graham's dance group.</p>
+    </scopecontent>
+    <arrangement id="aspace_28520b234866b3e2cf35ad85bb0dc65b">
+      <head>Organization and Arrangement</head>
+      <p>Arranged in the following series: <list numeration="arabic" type="ordered">
+          <item>Original diaries (Boxes 1-10).</item>
+          <item>Copy diaries (Boxes 11-44).</item>
+          <item>Loose items from diaries (Box 56).</item>
+          <item>Correspondence and writings (Boxes 45, 57-60, 62).</item>
+          <item>Japanese Evacuation and Relocation Study (JERS) (Boxes 46-49, 54).</item>
+          <item>Pacific Coast Committee on American Principles and Fair Play (Box 54).</item>
+          <item>Photographs and biographical data (Box 54).</item>
+          <item>Printed material (Boxes 50-53, 62).</item>
+          <item>Relocation center news publications (Box 55).</item>
+          <item>Reports (Box 61).</item>
+          <item>Proclamation documents (Box 61).</item>
+        </list></p>
+    </arrangement>
+    <altformavail id="aspace_e06cbc41d5c58960984f3f6f1743b279">
+      <head>Online Items Available</head>
+      <p>Portions of this collection have been digitized and are available online: 
+        <list>
+          <item><extref xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz0009332w" xlink:actuate="onRequest" xlink:show="new">Charles Kikuchi Papers (4 items)</extref>.</item>
+          <item><extref xlink:href="https://calisphere.org/collections/11773/" xlink:actuate="onRequest" xlink:show="new">Calisphere | Kikuchi (Charles) papers (25 items)</extref>.</item>
+        </list></p>
+    </altformavail>
+    <relatedmaterial id="aspace_f328cfced9625c9464c6fdd5a6fb7057">
+      <head>Related Material</head>
+      <p><extref xlink:href="http://www.oac.cdlib.org/findaid/ark:/13030/tf6d5nb3z6"
+          xlink:actuate="onRequest" xlink:show="new">Japanese American Research Project collection
+          of material about Japanese in the United States (Yuji Ichioka papers)(LSC.2010).</extref>
+        Available at UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+    </relatedmaterial>
+    <controlaccess>
+      <genreform source="aat">Diaries.</genreform>
+      <subject source="lcsh">Japanese Americans -- Evacuation and relocation, 1942-1945</subject>
+      <corpname rules="aacr" source="naf">Gila River Relocation Center</corpname>
+      <persname source="naf">Kikuchi, Charles--Archives.</persname>
+      <corpname source="ingest">Tanforan Assembly Center (San Bruno, Calif.)</corpname>
+      <persname source="ingest">Yuriko, 1920- .</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ref14_z1b" level="series">
+        <did>
+          <unittitle>Original Diaries</unittitle>
+        </did>
+        <odd id="aspace_66c2236fe034643c1d510c9c5b0e6363">
+          <head>General note</head>
+          <p>Volume [#] = number assigned by the Department of Special Collections</p>
+        </odd>
+        <c02 id="aspace_ref15_wz5" level="item">
+          <did>
+            <unitdate datechar="creation">May-October 1942.</unitdate>
+            <container id="aspace_e978116149a3033b0b0455a643b122ef" label="Mixed Materials"
+              type="box">1</container>
+            <container id="aspace_28edd5b09bba8dec2361bee91b9382a6"
+              parent="aspace_e978116149a3033b0b0455a643b122ef" type="volume">1-7</container>
+          </did>
+          <c03 id="aspace_ref16_qac" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 07</unittitle>
+              <unitdate datechar="creation">September 1-30, 1942.</unitdate>
+              <physdesc id="aspace_aecf1993b813b0d6e5c445a64e5b1829"
+                label="General Physical Description note">(pages 91-346)</physdesc>
+              <container id="aspace_9ac0d694a579b05fecbaffd535816698" label="Mixed Materials"
+                type="box">1</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt9j49r2w6/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 07" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 07</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref18_4fe" level="item">
+          <did>
+            <unitdate datechar="creation">October-December 1942.</unitdate>
+            <container id="aspace_789c1ad4c43c2646bfc8220f51373e89" label="Mixed Materials"
+              type="box">2</container>
+            <container id="aspace_be0bc1ce50c2823aabcbc1753b4e5c93"
+              parent="aspace_789c1ad4c43c2646bfc8220f51373e89" type="volume">8-14</container>
+          </did>
+          <c03 id="aspace_ref19_61r" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 08</unittitle>
+              <unitdate datechar="creation">October 1-26, 1942.</unitdate>
+              <physdesc id="aspace_1ade7204e5daf16a406c7b1e2186d029"
+                label="General Physical Description note">(pages 1-225)</physdesc>
+              <container id="aspace_326d2e0af99f38bfaa2a53617fa7964b" label="Mixed Materials"
+                type="volume">8</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt1z09q8h3/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 08" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 08</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref21_gi0" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 9</unittitle>
+              <unitdate datechar="creation">October 27-November 3, 1942.</unitdate>
+              <physdesc id="aspace_d55968bbf961f97e983161181750a844"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_4e3b00f385b6c49c771d8cf630b58b90" label="Mixed Materials"
+                type="volume">9</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt8580293d/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 9" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 9</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref23_e6f" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 10</unittitle>
+              <unitdate datechar="creation">November 4-9, 1942.</unitdate>
+              <physdesc id="aspace_212c5624dc8fafb531d59a0270292bf1"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_f29c66bceba9a6a61e4e350cea072403" label="Mixed Materials"
+                type="volume">10</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt8m3nd7g2/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 10" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 10</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref25_ypt" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 11</unittitle>
+              <unitdate datechar="creation">November 10-17, 1942.</unitdate>
+              <physdesc id="aspace_f25261b3b6d92cc2e9e12e1c54cb85c2"
+                label="General Physical Description note">(pages 1-93)</physdesc>
+              <container id="aspace_a3bb64bcde6be8416ffc12c084ecd3d6" label="Mixed Materials"
+                type="volume">11</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt6t1nd3vh/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 11" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 11</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref27_tjb" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 12</unittitle>
+              <unitdate datechar="creation">November 17-25, 1942.</unitdate>
+              <physdesc id="aspace_f5c5fee5474aed511b4176eb05a8d2d4"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_e920f1ad329df17f7f14af2ea2eaf145" label="Mixed Materials"
+                type="volume">12</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt158023p4/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 12" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 12</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref29_s6a" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 13</unittitle>
+              <unitdate datechar="creation">November 25-December 2, 1942.</unitdate>
+              <physdesc id="aspace_c2feb08970a767c8eeb77420132570fb"
+                label="General Physical Description note">(pages 1-120)</physdesc>
+              <container id="aspace_4215bc5265e3c1c18ed68e414509e4a7" label="Mixed Materials"
+                type="volume">13</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt7b69r0fk/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 13" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 13</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref31_utg" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 14</unittitle>
+              <unitdate datechar="creation">December 3-9, 1942.</unitdate>
+              <physdesc id="aspace_6d6bc1982baff3a2776fcf8e427bb485"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_667e298865450209466b9a78550977c7" label="Mixed Materials"
+                type="volume">14</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt9f59r36p/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 14" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 14</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref33_dsf" level="item">
+          <did>
+            <unitdate datechar="creation">December 1942-February 1943.</unitdate>
+            <container id="aspace_16808f2e8151c220a838d224e879d081" label="Mixed Materials"
+              type="box">3</container>
+            <container id="aspace_b6b31e67a3cb210f5b0138af862e4b8b"
+              parent="aspace_16808f2e8151c220a838d224e879d081" type="volume">15-23</container>
+          </did>
+          <c03 id="aspace_ref34_bzd" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 15</unittitle>
+              <unitdate datechar="creation">December 10-18, 1942.</unitdate>
+              <physdesc id="aspace_b7b2365cff297c64742b14a9610a66f1"
+                label="General Physical Description note">(pages 1-118)</physdesc>
+              <container id="aspace_06e674a45a984f03da04d5e76468185d" label="Mixed Materials"
+                type="volume">15</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt1k4024zc/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 15" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 15</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref36_arf" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 16</unittitle>
+              <unitdate datechar="creation">December 20-29, 1942.</unitdate>
+              <physdesc id="aspace_bfba3a73645eb7c0af8e1ecc1bcf6ebf"
+                label="General Physical Description note">(pages 1-119)</physdesc>
+              <container id="aspace_6c427f9c5f24d9034624d0308e303917" label="Mixed Materials"
+                type="volume">16</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt8b69r377/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 16" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 16</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref38_izp" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 17</unittitle>
+              <unitdate datechar="creation">December 30-January 5, 1942.</unitdate>
+              <physdesc id="aspace_7ec5f5ced34c3878e16ff991a3e1f41d"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_3e600571dcc1099331208d1bf642b729" label="Mixed Materials"
+                type="volume">17</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt0k40244n/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 17" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 17</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref40_otb" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 18</unittitle>
+              <unitdate datechar="creation">January 6-15, 1942.</unitdate>
+              <physdesc id="aspace_61f7624bb9f8dac8356c6a16f7b90f46"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_d411869327342b58f55a0aabb7f25e9b" label="Mixed Materials"
+                type="volume">18</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt1g5026bc/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 18" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 18</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref42_frk" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 19</unittitle>
+              <unitdate datechar="creation">January 16-20, 1942.</unitdate>
+              <physdesc id="aspace_2150d29ac8ca615752a42380e01b2d39"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_1c2e35c61091d072dfb4bc12da15c6e9" label="Mixed Materials"
+                type="volume">19</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt5w10265n/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 19" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 19</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref44_g7e" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 20</unittitle>
+              <unitdate datechar="creation">January 21-26, 1942.</unitdate>
+              <physdesc id="aspace_f28b4c8ebb7d8b8f92408529683081b7"
+                label="General Physical Description note">(pages 1-118)</physdesc>
+              <container id="aspace_257516da7023cca2a24070c9ccfbd1f3" label="Mixed Materials"
+                type="volume">20</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt529027c0/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 20" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 20</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref46_cbg" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 21</unittitle>
+              <unitdate datechar="creation">January 27-February 2, 1943.</unitdate>
+              <physdesc id="aspace_86dc5f00f057c4e950ffe2f52f17e2b4"
+                label="General Physical Description note">(pages 1-123)</physdesc>
+              <container id="aspace_5b5237166881a8d77a7d2c4d01625696" label="Mixed Materials"
+                type="volume">21</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt2r29q8s7/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 21" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 21</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref48_qov" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 22</unittitle>
+              <unitdate datechar="creation">February 2-9, 1943.</unitdate>
+              <physdesc id="aspace_43911fa4ccc5306e03ec7ac614364814"
+                label="General Physical Description note">(pages 1-120)</physdesc>
+              <container id="aspace_844722765b4a2ed00a237506e74f3f85" label="Mixed Materials"
+                type="volume">22</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt6w1029sq/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 22" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 22</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref50_kj6" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 23</unittitle>
+              <unitdate datechar="creation">February 10-15, 1943.</unitdate>
+              <physdesc id="aspace_1d4e7f2719a2ed598d99af2c9285d53c"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_59015c29e4be4d6df49a4e78d70523c1" label="Mixed Materials"
+                type="volume">23</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt3q2nd143/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 23" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 23</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref52_jow" level="item">
+          <did>
+            <unitdate datechar="creation">February-April 1943.</unitdate>
+            <container id="aspace_8535e56115c267bc8e7e34966c28ba7c" label="Mixed Materials"
+              type="box">4</container>
+            <container id="aspace_592188995cd4ef8018c19159739e9c0a"
+              parent="aspace_8535e56115c267bc8e7e34966c28ba7c" type="volume">24-31</container>
+          </did>
+          <c03 id="aspace_ref53_mf4" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 24</unittitle>
+              <unitdate datechar="creation">February 16-23, 1942.</unitdate>
+              <physdesc id="aspace_55d31680147e1f2c0bbfa813ce996c30"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_afef0b29f17b3e80363c57e72203dc18" label="Mixed Materials"
+                type="volume">24</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt0x0nd21d/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 24" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 24</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref55_i97" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 25</unittitle>
+              <unitdate datechar="creation">February 24-27, 1943.</unitdate>
+              <physdesc id="aspace_db88676f5912fa2d5175b297784d69cd"
+                label="General Physical Description note">(pages 1-120)</physdesc>
+              <container id="aspace_04f3c89f7eb99b22ac4223692f4f638a" label="Mixed Materials"
+                type="volume">25</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt667nd3hd/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 25" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 25</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref57_i7x" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 26</unittitle>
+              <unitdate datechar="creation">February 28-March 7, 1943.</unitdate>
+              <physdesc id="aspace_749ab660638d91cc37ac1b320263e574"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_58acd1063aa029260cc554821a211bbf" label="Mixed Materials"
+                type="volume">26</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt2000236f/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 26" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 26</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref59_ic0" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 27</unittitle>
+              <unitdate datechar="creation">March 9-16, 1943.</unitdate>
+              <physdesc id="aspace_052735d47a4c6104b4bb4d512678a2c4"
+                label="General Physical Description note">(pages 1-121)</physdesc>
+              <container id="aspace_a205da79c8fe026b3e210af3e18e2282" label="Mixed Materials"
+                type="volume">27</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt3m3nd0xv/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 27" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 27</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref61_8hb" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 28</unittitle>
+              <unitdate datechar="creation">March 16-21, 1943.</unitdate>
+              <physdesc id="aspace_afbcd9c9b7d9024a971ea40ecb17cfe3"
+                label="General Physical Description note">(pages 1-120)</physdesc>
+              <container id="aspace_10aade91928963d8597c5dbb6bea6091" label="Mixed Materials"
+                type="volume">28</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt087022hd/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 28" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 28</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref63_gij" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 29</unittitle>
+              <unitdate datechar="creation">March 22-29, 1943.</unitdate>
+              <physdesc id="aspace_c857b8963fc76c4d5ba254c4b1ad86bf"
+                label="General Physical Description note">(pages 1-120)</physdesc>
+              <container id="aspace_d5c95d5b20cfc69f3f529aa4b38779bb" label="Mixed Materials"
+                type="volume">29</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt309nd2r9/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 29" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 29</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref65_zre" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 30</unittitle>
+              <unitdate datechar="creation">March 29-April 6, 1943.</unitdate>
+              <physdesc id="aspace_76e95528bea7333777dc159345456ef5"
+                label="General Physical Description note">(pages 1-118)</physdesc>
+              <container id="aspace_4e90f0d753400e78a1939790a287607e" label="Mixed Materials"
+                type="volume">30</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt4b69q9t7/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 30" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 30</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+          <c03 id="aspace_ref67_ggj" level="item">
+            <did>
+              <unittitle>Charles Kikuchi original diary: Volume 31</unittitle>
+              <unitdate datechar="creation">April 7-18, 1943.</unitdate>
+              <physdesc id="aspace_3d8554783849a489cb3c4f24b9c9184a"
+                label="General Physical Description note">(pages 1-120)</physdesc>
+              <container id="aspace_2cdeee36144af4490f9262eeac771ac3" label="Mixed Materials"
+                type="volume">31</container>
+              <dao xlink:actuate="onRequest"
+                xlink:href="https://calisphere.org/item/ark:/13030/kt767nd3qt/" xlink:show="new"
+                xlink:title="Charles Kikuchi original diary: Volume 31" xlink:type="simple">
+                <daodesc>
+                  <p>Charles Kikuchi original diary: Volume 31</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="aspace_ref69_1ab" level="item">
+          <did>
+            <unitdate datechar="creation">April-September 1943.</unitdate>
+            <container id="aspace_ce93f77329d750c0661cfb5d96f0cfce" label="Mixed Materials"
+              type="box">5</container>
+            <container id="aspace_6543a865c67ddaeb518ea9a2e857954a"
+              parent="aspace_ce93f77329d750c0661cfb5d96f0cfce" type="volume">32-39</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref70_a1y" level="item">
+          <did>
+            <unitdate datechar="creation">September 1943-January 1944.</unitdate>
+            <container id="aspace_d9610fbd9b19153e7c5bc996d9779fae" label="Mixed Materials"
+              type="box">6</container>
+            <container id="aspace_e24842796637b9b370440735c9d84a56"
+              parent="aspace_d9610fbd9b19153e7c5bc996d9779fae" type="volume">40-46</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref71_nid" level="item">
+          <did>
+            <unitdate datechar="creation">January 1944-March 1945.</unitdate>
+            <container id="aspace_9130e1370b67eb78cb2f30e503aeea9c" label="Mixed Materials"
+              type="box">7</container>
+            <container id="aspace_1cff0078849af428ec9efdc0f41da541"
+              parent="aspace_9130e1370b67eb78cb2f30e503aeea9c" type="volume">47-[54]</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref72_83o" level="item">
+          <did>
+            <unitdate datechar="creation">August 1945-April 1946.</unitdate>
+            <container id="aspace_d627821906e1bcc2cd58235b4b1bdb18" label="Mixed Materials"
+              type="box">8</container>
+            <container id="aspace_ca524df4df8512e5ed68926fa47dd3f3"
+              parent="aspace_d627821906e1bcc2cd58235b4b1bdb18" type="volume">[55]-[58]</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref73_th1" level="item">
+          <did>
+            <unitdate datechar="creation">September 19, 1946-June 19, 1948.</unitdate>
+            <container id="aspace_c0e1e01b5538550615fc3a698c3c07e5" label="Mixed Materials"
+              type="box">9</container>
+            <container id="aspace_c656c84c7eb7f6b27d9067e0a6ac24c5"
+              parent="aspace_c0e1e01b5538550615fc3a698c3c07e5" type="volume">[59]-[63]</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref74_2i6" level="item">
+          <did>
+            <unittitle>Indexes to diaries.</unittitle>
+            <unitdate datechar="creation">1941-1947.</unitdate>
+            <container id="aspace_6b34f8f8cb47a363c97b9c26fc7341c2" label="Mixed Materials"
+              type="box">10</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref76_cs0" level="series">
+        <did>
+          <unittitle>Copy Diaries</unittitle>
+        </did>
+        <c02 id="aspace_ref77_d71" level="item">
+          <did>
+            <unitdate datechar="creation">December 1941-November 1942.</unitdate>
+            <container id="aspace_c41de528e95673c8f6b833b7196febf9" label="Mixed Materials"
+              type="box">11</container>
+            <container id="aspace_ace5e8ad174b013d0be20dfb6c2e8901"
+              parent="aspace_c41de528e95673c8f6b833b7196febf9" type="volume">1-3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref78_wt3" level="item">
+          <did>
+            <unitdate datechar="creation">November 1942-March 1943.</unitdate>
+            <container id="aspace_1f72b522cddf4dc6ecab4ac1c2e8df76" label="Mixed Materials"
+              type="box">12</container>
+            <container id="aspace_f4d5c40b4ecb9845b9cad7bef7c85e77"
+              parent="aspace_1f72b522cddf4dc6ecab4ac1c2e8df76" type="volume">4-6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref79_jpg" level="item">
+          <did>
+            <unitdate datechar="creation">April 1943-December 1943.</unitdate>
+            <container id="aspace_62f3c82ece6c4502927e110c44b3ea7f" label="Mixed Materials"
+              type="box">13</container>
+            <container id="aspace_09a45decf312e41112a97a7ea70dc699"
+              parent="aspace_62f3c82ece6c4502927e110c44b3ea7f" type="volume">7-9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref80_s23" level="item">
+          <did>
+            <unitdate datechar="creation">November 1943-July 1944.</unitdate>
+            <container id="aspace_d3d23a6710b3400d489c437d8064807c" label="Mixed Materials"
+              type="box">14</container>
+            <container id="aspace_d0350199d6c9acd67fc4fbb6db84f18f"
+              parent="aspace_d3d23a6710b3400d489c437d8064807c" type="volume">10-12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref81_9jl" level="item">
+          <did>
+            <unitdate datechar="creation">July 1944-January 1945.</unitdate>
+            <container id="aspace_a08857e8ccb66c0dd94ba25dc1b52a7f" label="Mixed Materials"
+              type="box">15</container>
+            <container id="aspace_9dad66634d1b8f5741247d07058e046a"
+              parent="aspace_a08857e8ccb66c0dd94ba25dc1b52a7f" type="volume">13-15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref82_8oi" level="item">
+          <did>
+            <unitdate datechar="creation">January-May 1945.</unitdate>
+            <container id="aspace_15f474acbed3d1614b3c9eb7327fe964" label="Mixed Materials"
+              type="box">16</container>
+            <container id="aspace_d8011c74963d73c4df1aa8ddcc6bf7f5"
+              parent="aspace_15f474acbed3d1614b3c9eb7327fe964" type="volume">16-18</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref83_kuh" level="item">
+          <did>
+            <unitdate datechar="creation">June-December 1945.</unitdate>
+            <container id="aspace_4dd879480e2172d30b4fe7b177130dbe" label="Mixed Materials"
+              type="box">17</container>
+            <container id="aspace_db180854a37c04a54d3bb06c82c9dae5"
+              parent="aspace_4dd879480e2172d30b4fe7b177130dbe" type="volume">19-21</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref84_puh" level="item">
+          <did>
+            <unitdate datechar="creation">January 1946-April 1947.</unitdate>
+            <container id="aspace_5be69eac272473f8aff3a41dcdd90fc7" label="Mixed Materials"
+              type="box">18</container>
+            <container id="aspace_f65b56d8e2bab3e2700129f796ac0839"
+              parent="aspace_5be69eac272473f8aff3a41dcdd90fc7" type="volume">22-24</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref85_89v" level="item">
+          <did>
+            <unitdate datechar="creation">May 1947-February 1948.</unitdate>
+            <container id="aspace_c5ed2f4e52637d3ce6c86e7b6ec3e288" label="Mixed Materials"
+              type="box">19</container>
+            <container id="aspace_4e67abdfa1cdc392f89cdf31af1c90ad"
+              parent="aspace_c5ed2f4e52637d3ce6c86e7b6ec3e288" type="volume">25-27</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref86_evc" level="item">
+          <did>
+            <unitdate datechar="creation">March 1948-June 1950.</unitdate>
+            <container id="aspace_cfb8e4b4b6f65138587cf4a78af59495" label="Mixed Materials"
+              type="box">20</container>
+            <container id="aspace_1c74c7379ad70c7ede6998730230b505"
+              parent="aspace_cfb8e4b4b6f65138587cf4a78af59495" type="volume">28-30</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref87_u6f" level="item">
+          <did>
+            <unitdate datechar="creation">July 1950-December 1951.</unitdate>
+            <container id="aspace_a23d4aeea24d1edc3eb015c51bf196d7" label="Mixed Materials"
+              type="box">21</container>
+            <container id="aspace_e766bdc91134c1514c4c27262ad9d0b4"
+              parent="aspace_a23d4aeea24d1edc3eb015c51bf196d7" type="volume">31-33</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref88_qkq" level="item">
+          <did>
+            <unitdate datechar="creation">January 1952-June 1953.</unitdate>
+            <container id="aspace_a011922a0aaa4d710dfce5e36e581571" label="Mixed Materials"
+              type="box">22</container>
+            <container id="aspace_42f5ec46b11da6d1859c3a5c74a791e9"
+              parent="aspace_a011922a0aaa4d710dfce5e36e581571" type="volume">34-36</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref89_av4" level="item">
+          <did>
+            <unitdate datechar="creation">July 1953-December 1954.</unitdate>
+            <container id="aspace_f215ae09b688a405aa825a490caae8b6" label="Mixed Materials"
+              type="box">23</container>
+            <container id="aspace_66f3e504b863d77a3e1769a46cf51a52"
+              parent="aspace_f215ae09b688a405aa825a490caae8b6" type="volume">37-39</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref90_jnx" level="item">
+          <did>
+            <unitdate datechar="creation">January 1955-May 1956.</unitdate>
+            <container id="aspace_ab451563d9f233f1634e61240eeef9d9" label="Mixed Materials"
+              type="box">24</container>
+            <container id="aspace_d492d9f1e50c100465064fa80f8728d3"
+              parent="aspace_ab451563d9f233f1634e61240eeef9d9" type="volume">40-42</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref91_893" level="item">
+          <did>
+            <unitdate datechar="creation">June 1956-December 1957.</unitdate>
+            <container id="aspace_67838fa175ba903e27ba71ce2255ab85" label="Mixed Materials"
+              type="box">25</container>
+            <container id="aspace_6991f4660110e2e6e543f2a0357bc7a8"
+              parent="aspace_67838fa175ba903e27ba71ce2255ab85" type="volume">43-45</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref92_4a5" level="item">
+          <did>
+            <unitdate datechar="creation">January 1958-June 1959.</unitdate>
+            <container id="aspace_af23f56464576368d2b974ca3cc5a1fb" label="Mixed Materials"
+              type="box">26</container>
+            <container id="aspace_7d9a91a174eabc2f18052b842e922a8e"
+              parent="aspace_af23f56464576368d2b974ca3cc5a1fb" type="volume">46-48</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref93_mc1" level="item">
+          <did>
+            <unitdate datechar="creation">July 1959-December 1960.</unitdate>
+            <container id="aspace_15f81b761f5107205f0e41bce99cde41" label="Mixed Materials"
+              type="box">27</container>
+            <container id="aspace_9cd830b1bf484f25b701ae214bd29b25"
+              parent="aspace_15f81b761f5107205f0e41bce99cde41" type="volume">49-51</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref94_pmw" level="item">
+          <did>
+            <unitdate datechar="creation">January 1961-June 1962.</unitdate>
+            <container id="aspace_8f314d56bb413204e47c8e20c8b9bbe2" label="Mixed Materials"
+              type="box">28</container>
+            <container id="aspace_306b53f57983585360b496818a04c209"
+              parent="aspace_8f314d56bb413204e47c8e20c8b9bbe2" type="volume">52-54</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref95_vt0" level="item">
+          <did>
+            <unitdate datechar="creation">July 1962-June 1963.</unitdate>
+            <container id="aspace_1ab3609412c786b602fba28be5d1dff8" label="Mixed Materials"
+              type="box">29</container>
+            <container id="aspace_1ae0ee1868f299f4b3e080336712f4c7"
+              parent="aspace_1ab3609412c786b602fba28be5d1dff8" type="volume">55-56</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref96_ujw" level="item">
+          <did>
+            <unitdate datechar="creation">July 1963-December 1964.</unitdate>
+            <container id="aspace_4a97dfd7df558466e849d228e5d4a434" label="Mixed Materials"
+              type="box">30</container>
+            <container id="aspace_c011b9898cbe0b9ac5142e0424760d24"
+              parent="aspace_4a97dfd7df558466e849d228e5d4a434" type="volume">57-59</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref97_vjk" level="item">
+          <did>
+            <unitdate datechar="creation">January 1965-June 1966.</unitdate>
+            <container id="aspace_5f5bd07f2668ce45c782123442ea7c42" label="Mixed Materials"
+              type="box">31</container>
+            <container id="aspace_16970a8017d3b24d3915edcd30596cdd"
+              parent="aspace_5f5bd07f2668ce45c782123442ea7c42" type="volume">60-62</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref98_sbx" level="item">
+          <did>
+            <unitdate datechar="creation">July 1966-December 1967.</unitdate>
+            <container id="aspace_cdbbaff9ce3ba7002fce24dfbfe4b0e4" label="Mixed Materials"
+              type="box">32</container>
+            <container id="aspace_96ad31772b5f0417878ed0ae41993329"
+              parent="aspace_cdbbaff9ce3ba7002fce24dfbfe4b0e4" type="volume">63-65</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref99_k3d" level="item">
+          <did>
+            <unitdate datechar="creation">January-December 1968.</unitdate>
+            <container id="aspace_70eb2f4892d106baf6a30aefd548ee04" label="Mixed Materials"
+              type="box">33</container>
+            <container id="aspace_d0598814d1d544b34908e20c5cf677e8"
+              parent="aspace_70eb2f4892d106baf6a30aefd548ee04" type="volume">66-67</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref100_mbn" level="item">
+          <did>
+            <unitdate datechar="creation">January 1969-June 1970.</unitdate>
+            <container id="aspace_6e625e378999bb60f2fcfb3a19827e50" label="Mixed Materials"
+              type="box">34</container>
+            <container id="aspace_1d79878f0127fed7b5799c6ce31cc5b0"
+              parent="aspace_6e625e378999bb60f2fcfb3a19827e50" type="volume">68-70</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref101_tpg" level="item">
+          <did>
+            <unitdate datechar="creation">July 1970-December 1971.</unitdate>
+            <container id="aspace_7c50330bfb194d750ec09f7766088b9f" label="Mixed Materials"
+              type="box">35</container>
+            <container id="aspace_d9185dbc6bd1ed9114afb25045ddf53c"
+              parent="aspace_7c50330bfb194d750ec09f7766088b9f" type="volume">71-73</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref102_dsx" level="item">
+          <did>
+            <unitdate datechar="creation">January 1972-June 1973.</unitdate>
+            <container id="aspace_6da6b61bbf5416c6ee1301dab0deadbd" label="Mixed Materials"
+              type="box">36</container>
+            <container id="aspace_de9052dd95fd46f4650c016390c926bc"
+              parent="aspace_6da6b61bbf5416c6ee1301dab0deadbd" type="volume">74-76</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref103_elt" level="item">
+          <did>
+            <unitdate datechar="creation">July 1973-March 1974.</unitdate>
+            <container id="aspace_3de3e858dd79ae66288af8f2a85e7ca6" label="Mixed Materials"
+              type="box">37</container>
+            <container id="aspace_cb0c2ac259ad42b5651a4b4ae8cf1e64"
+              parent="aspace_3de3e858dd79ae66288af8f2a85e7ca6" type="volume">77-79</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref104_q52" level="item">
+          <did>
+            <unitdate datechar="creation">March 1974-May 1975.</unitdate>
+            <container id="aspace_04e072d7d27c458c34549363714c34b1" label="Mixed Materials"
+              type="box">38</container>
+            <container id="aspace_a6f814cfade4521acab367910fad85b7"
+              parent="aspace_04e072d7d27c458c34549363714c34b1" type="volume">80-83</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref105_o1d" level="item">
+          <did>
+            <unitdate datechar="creation">May 1975-March 1976.</unitdate>
+            <container id="aspace_ba53b665434544f24294019649043f30" label="Mixed Materials"
+              type="box">39</container>
+            <container id="aspace_85d68d4ee5138cc96b15755356f73fd7"
+              parent="aspace_ba53b665434544f24294019649043f30" type="volume">84-86</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref106_e5m" level="item">
+          <did>
+            <unitdate datechar="creation">April-December 1976.</unitdate>
+            <container id="aspace_a5c64a585ae4bb340fecdf5b80774f88" label="Mixed Materials"
+              type="box">40</container>
+            <container id="aspace_b20778b836b45768167ff8e880a51f99"
+              parent="aspace_a5c64a585ae4bb340fecdf5b80774f88" type="volume">87-89</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref107_w5n" level="item">
+          <did>
+            <unitdate datechar="creation">December 1976-September 1977.</unitdate>
+            <container id="aspace_b53b2816f3c7936fcf49714972c7fd72" label="Mixed Materials"
+              type="box">41</container>
+            <container id="aspace_fe7d5a475f8eea5eb9e67862529347ad"
+              parent="aspace_b53b2816f3c7936fcf49714972c7fd72" type="volume">90-92</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref108_pzs" level="item">
+          <did>
+            <unitdate datechar="creation">October 1977-September 1978.</unitdate>
+            <container id="aspace_0590bff915cb1cfaf6c2460299632f61" label="Mixed Materials"
+              type="box">42</container>
+            <container id="aspace_916a0e574bb95859ba565378bca9f54d"
+              parent="aspace_0590bff915cb1cfaf6c2460299632f61" type="volume">93-95</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref109_1ix" level="item">
+          <did>
+            <unitdate datechar="creation">October 1978-June 1979.</unitdate>
+            <container id="aspace_93a78c568faa7dff54f1b7a7b8450d88" label="Mixed Materials"
+              type="box">43</container>
+            <container id="aspace_3eae53daac3854d86cf74ac3116dde53"
+              parent="aspace_93a78c568faa7dff54f1b7a7b8450d88" type="volume">96-98</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref110_cbm" level="item">
+          <did>
+            <unitdate datechar="creation">July-December 1979.</unitdate>
+            <container id="aspace_4d5a3a38917d9228e94070eef0b21cfd" label="Mixed Materials"
+              type="box">44</container>
+            <container id="aspace_ae3dd8b427c7d81f1be1f80a1ba528bf"
+              parent="aspace_4d5a3a38917d9228e94070eef0b21cfd" type="volume">99-100</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref111_gdu" level="series">
+        <did>
+          <unittitle>Loose Items from Diaries [Additions, 1989, 1998]</unittitle>
+        </did>
+        <odd id="aspace_9300ee41e3a42ec932debbdcaf5c91d6">
+          <head>General note</head>
+          <p><emph render="italic">Loose items from diaries have been foldered. Original box, volume
+              and page numbers of these items are listed below.</emph></p>
+        </odd>
+        <c02 id="aspace_ref112_gmx" level="item">
+          <did>
+            <unittitle>Box 8, vol.[55]: p. 0(6), 1, 58(2), 207, 232, 262, 270-27/(3).</unittitle>
+            <container id="aspace_7ff169f92b2b7bce54a6a4f403b16c4a" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_2d0fbb6d9f07d2057aa59f17471bd6fd"
+              parent="aspace_7ff169f92b2b7bce54a6a4f403b16c4a" type="folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref113_hs1" level="item">
+          <did>
+            <unittitle>Box 8, vol.[55]: p. 276-277, 291, 293, 309, 314, 320, 327, 341, 361, 372-373,
+              373, 393(2), 395, 399, 437(6), 453(2), 457.</unittitle>
+            <container id="aspace_61d0ae875717722c65d6fc6bbe82018e" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_44e85a864880f34f717df358dcc31ae1"
+              parent="aspace_61d0ae875717722c65d6fc6bbe82018e" type="folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref114_tn7" level="item">
+          <did>
+            <unittitle>Box 11, vol.1: attached to Charles Kikuchi's letter of</unittitle>
+            <unitdate datechar="creation">December 20, 1941.</unitdate>
+            <container id="aspace_e695781d9695a88bec1426297d0ce49f" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_9e4adb4674ed92aaa93f9fb9dd92d3a0"
+              parent="aspace_e695781d9695a88bec1426297d0ce49f" type="folder">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref115_10r" level="item">
+          <did>
+            <unittitle>Box 11, vol.1: attached to end of vol.[1].</unittitle>
+            <container id="aspace_a258038ae320366019b7568699b8e3fc" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_abc8f2aa97bc109c7b385edf9cfc0130"
+              parent="aspace_a258038ae320366019b7568699b8e3fc" type="folder">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref116_46y" level="item">
+          <did>
+            <unittitle>Box 11, vol.2: p. 376, 547, 551, 567(2), 586.</unittitle>
+            <container id="aspace_7c5f0b8cbcb36ada60570fc5226bda0c" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_6cd3041dce1d7ca490f557a7eb2b2f5f"
+              parent="aspace_7c5f0b8cbcb36ada60570fc5226bda0c" type="folder">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref117_zj1" level="item">
+          <did>
+            <unittitle>Box 11, vol.3: p. 681.</unittitle>
+            <container id="aspace_96e87a852e56088b09e1822e2b081734" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_3fba544f41b96023105796621eb584b7"
+              parent="aspace_96e87a852e56088b09e1822e2b081734" type="folder">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref118_hy5" level="item">
+          <did>
+            <unittitle>Box 12, vol.6: p. 2244, 2303.</unittitle>
+            <container id="aspace_c1fcb50e0389efa65254c38af0a47eb1" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_aa551e10f78af11aff0d5832ba86022d"
+              parent="aspace_c1fcb50e0389efa65254c38af0a47eb1" type="folder">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref119_2o1" level="item">
+          <did>
+            <unittitle>Box 13, vol.8: p. 2843.</unittitle>
+            <container id="aspace_123425ee64ef9909515cd1471a574c9a" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_97561b14d4b79c7d62c336e1c152abf5"
+              parent="aspace_123425ee64ef9909515cd1471a574c9a" type="folder">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref120_wcp" level="item">
+          <did>
+            <unittitle>Box 13, vol.9: p. 3512, 3554(7).</unittitle>
+            <container id="aspace_5af7653e2980fbf55d68c83e0d25d7bd" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_c43ba74d353aa8be47bc2a7f351bc892"
+              parent="aspace_5af7653e2980fbf55d68c83e0d25d7bd" type="folder">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref121_n56" level="item">
+          <did>
+            <unittitle>Box 14, vol.10: p. 3624(2).</unittitle>
+            <container id="aspace_09f391bb00018ef986837119e13b60ac" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_ee3212941c42cfa98c0fdea745c83674"
+              parent="aspace_09f391bb00018ef986837119e13b60ac" type="folder">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref122_tqw" level="item">
+          <did>
+            <unittitle>Box 14, vol.12: p. 4741.</unittitle>
+            <container id="aspace_803200676439bb0f49f81e990137865c" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_ae99e43fb8eaef067b25979729ebcbd8"
+              parent="aspace_803200676439bb0f49f81e990137865c" type="folder">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref123_z9q" level="item">
+          <did>
+            <unittitle>Box 17, vol.19: p. 8032-8033, 8058-8059, 8074.</unittitle>
+            <container id="aspace_7e052ff29fb689b81c397c8b8003c688" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_743c76c0c0b15c87014e46d49e17e68d"
+              parent="aspace_7e052ff29fb689b81c397c8b8003c688" type="folder">12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref124_zjs" level="item">
+          <did>
+            <unittitle>Box 17, vol.20: Attached to the end of vol.[20].</unittitle>
+            <container id="aspace_240c7aed40b53d8c7e7ca592238a8ae2" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_51fdb170d63c7afd0bd601191029daad"
+              parent="aspace_240c7aed40b53d8c7e7ca592238a8ae2" type="folder">13</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref125_qwv" level="item">
+          <did>
+            <unittitle>Box 17, vol.21: p. 79(2), 321.</unittitle>
+            <container id="aspace_de01c112841396675227c2633205b2b4" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_c55e3f95a081c859d457b62d09ae87e0"
+              parent="aspace_de01c112841396675227c2633205b2b4" type="folder">14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref126_0ap" level="item">
+          <did>
+            <unittitle>Box 18, vol.22: p. 1272(2), 1307(7).</unittitle>
+            <container id="aspace_15bbf8be4064394d8b86b2296e21098d" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_7e666ae93a6070ca51513f3b7b22ce0c"
+              parent="aspace_15bbf8be4064394d8b86b2296e21098d" type="folder">15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref127_jji" level="item">
+          <did>
+            <unittitle>Box 18, vol.22: attached to the end of vol.[22].</unittitle>
+            <container id="aspace_2f516ac396217303565a66446a94502e" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_6589ad6143321cc88af87b9457653cb2"
+              parent="aspace_2f516ac396217303565a66446a94502e" type="folder">16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref128_5ez" level="item">
+          <did>
+            <unittitle>Box 18, vol.23: p. 1691(5), 1727, 1764.</unittitle>
+            <container id="aspace_9aedb2e4ff2ae0d1e316f2ce8885b865" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_158ff778574f8a85f21024febb72ca1d"
+              parent="aspace_9aedb2e4ff2ae0d1e316f2ce8885b865" type="folder">17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref129_xpj" level="item">
+          <did>
+            <unittitle>Box 18, vol.23: sample of Yuriko's credits:</unittitle>
+            <unitdate datechar="creation">1944-1946.</unitdate>
+            <container id="aspace_aa0f818ab4d5968292f07bbc0db02c97" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_d2611612dafe6690c1b1fb195fd0f9d3"
+              parent="aspace_aa0f818ab4d5968292f07bbc0db02c97" type="folder">18</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref130_2bw" level="item">
+          <did>
+            <unittitle>Box 18, vol.24: Attached to Charles Kikuchi's diary inside of the cover
+              page.</unittitle>
+            <unitdate datechar="creation">(1947)</unitdate>
+            <container id="aspace_c2c35f5a17b93f725e4efeeee6823a0c" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_e7c3eda65b42b2c421ba2c60d97caa6d"
+              parent="aspace_c2c35f5a17b93f725e4efeeee6823a0c" type="folder">20</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref131_ste" level="item">
+          <did>
+            <unittitle>Box 18, vol.24: attachment to program, Martha Graham Dance
+              Company.</unittitle>
+            <container id="aspace_1d07344922f85c902642a1754eb5188d" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_594d1c6f967a9626df1339bbe4a356e6"
+              parent="aspace_1d07344922f85c902642a1754eb5188d" type="folder">21</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref132_lzf" level="item">
+          <did>
+            <unittitle>Box 19, vol.27: attachment to program, Martha Graham Dance
+              Company.</unittitle>
+            <container id="aspace_1318789c0036464b5be4b544586bd693" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_74fb326a93394362392bf747aa51da42"
+              parent="aspace_1318789c0036464b5be4b544586bd693" type="folder">22</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref133_lou" level="item">
+          <did>
+            <unittitle>Box 20, vol.28: p. 3707.</unittitle>
+            <container id="aspace_1c70738edb915615950727a23f1ab0ab" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_f2ecdf5af2c5812912e6ca6ebc0bca3f"
+              parent="aspace_1c70738edb915615950727a23f1ab0ab" type="folder">23</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref134_ae0" level="item">
+          <did>
+            <unittitle>Box 20, vol.29: attached to diary. ; attached to diary. ; red card
+              inserted</unittitle>
+            <unitdate datechar="creation">January 6, 1949 January 28, 1949 June 19, 1949.</unitdate>
+            <container id="aspace_88e1b241cc7179a466ce8059f4ad231c" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_cd2ab3a2fbb83feae4c7bdce80a18d91"
+              parent="aspace_88e1b241cc7179a466ce8059f4ad231c" type="folder">24</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref135_zaw" level="item">
+          <did>
+            <unittitle>Box 20, vol.30: attached to letter from Yuriko. ; Martha Graham Dance Company
+              route sheet attached to letter from Charlie. ; attached to diary. ; letters from
+              Bobby.</unittitle>
+            <unitdate datechar="creation">February 7, 1950 March 20, 1950 May 12, 1950</unitdate>
+            <container id="aspace_a0b95b087910adecf4d34a7764622c19" label="Mixed Materials"
+              type="box">56</container>
+            <container id="aspace_b5e96a9f7fbd087167d2ff5579945576"
+              parent="aspace_a0b95b087910adecf4d34a7764622c19" type="folder">25</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref137_8l5" level="series">
+        <did>
+          <unittitle>Correspondence &amp; Writings</unittitle>
+        </did>
+        <c02 id="aspace_ref138_d8b" level="item">
+          <did>
+            <unittitle>Correspondence &amp; miscellaneous writings.</unittitle>
+            <container id="aspace_a84269d6c68f2d8f9e22a9213f2f6967" label="Mixed Materials"
+              type="box">45</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref139_8qf" level="item">
+          <did>
+            <unittitle>Correspondence, etc.</unittitle>
+            <unitdate datechar="creation">Early 1980s.</unitdate>
+            <container id="aspace_c31267b4df954186adab60524df9b7e3" label="Mixed Materials"
+              type="box">57</container>
+            <container id="aspace_95fd7c79efca8406fbe9c271030354f1" label="Mixed Materials"
+              type="box">58</container>
+            <container id="aspace_b6a44094bf5ad2af66642c7ba9c7b5d3" label="Mixed Materials"
+              type="box">59</container>
+            <container id="aspace_a705aff341d342c1da2c2af99e213f94" label="Mixed Materials"
+              type="box">60</container>
+          </did>
+          <odd id="aspace_598bbf472d4d300f6a74bd4a2c2df32f">
+            <head>General note</head>
+            <p>[Additions, 1989, 1991]</p>
+          </odd>
+        </c02>
+        <c02 id="aspace_ref141_jpf" level="item">
+          <did>
+            <unittitle>Copies of letters.</unittitle>
+            <physdesc id="aspace_b10e60be4a86ad8cebcfdf949f20c8aa"
+              label="General Physical Description note">[half legal size document box]</physdesc>
+            <container id="aspace_df5d9b497e80ca2f15b0deb34b91809a" label="Mixed Materials"
+              type="box">62</container>
+            <container id="aspace_00958f6c8b88ce50315eed9b83caf3e0"
+              parent="aspace_df5d9b497e80ca2f15b0deb34b91809a" type="folder">4</container>
+          </did>
+          <odd id="aspace_c2981ae556b28ee68b1740b091bf2445">
+            <head>General note</head>
+            <p>[Additions, 1989, 1991]</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref144_r0x" level="series">
+        <did>
+          <unittitle>Japanese Evacuation and Relocation Study (JERS)</unittitle>
+        </did>
+        <c02 id="aspace_ref145_zl9" level="item">
+          <did>
+            <unittitle>Chicago case studies of evacuation and relocation, vols.1-14.</unittitle>
+            <container id="aspace_5ce8b59d8a23f77735378419ad88ca13" label="Mixed Materials"
+              type="box">46</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref146_d3o" level="item">
+          <did>
+            <unittitle>Chicago case studies of evacuation and relocation, vols.16-32.</unittitle>
+            <container id="aspace_e90455d0e2bc164d97ca90d8bd1a2818" label="Mixed Materials"
+              type="box">47</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref147_tgv" level="item">
+          <did>
+            <unittitle>Chicago case studies of evacuation and relocation, vols.33-46.</unittitle>
+            <container id="aspace_f289b2f5de5ec2736f28336435c3f7cd" label="Mixed Materials"
+              type="box">48</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref148_97s" level="item">
+          <did>
+            <unittitle>Chicago case studies of evacuation and relocation, vols.48-50.</unittitle>
+            <container id="aspace_c9b797e32aac8b212400b98c17cd2ae5" label="Mixed Materials"
+              type="box">49</container>
+          </did>
+          <odd id="aspace_0448e74d72632c45e9d6d5b469e6c296">
+            <head>General note</head>
+            <p>[<emph render="italic">Volume 47 is UNAVAILABLE.</emph>]</p>
+          </odd>
+        </c02>
+        <c02 id="aspace_ref150_116" level="file">
+          <did>
+            <unittitle>Case histories taken by Mr. Kikuchi of the following Japanese Americans in
+              the Chicago area.</unittitle>
+            <container id="aspace_dbe4c057495d6860744405a9f3714c3f" label="Mixed Materials"
+              type="box">54</container>
+          </did>
+          <odd id="aspace_24c1c0cee337bfb2ffe4012b7baa94b3">
+            <head>General note</head>
+            <p><emph render="italic"> Papers donated per Warren Tsuneishi.</emph></p>
+          </odd>
+          <scopecontent id="aspace_6a09f982656bd79daefd3daf6ca4a896">
+            <head>Scope and Contents note</head>
+            <p><list type="simple">
+                <item>5. Iwagami, Ichiro</item>
+                <item>10. Sawamoto, Chutaro</item>
+                <item>35. Ikenaka, Ike</item>
+                <item>37. Saruwatari, Akira</item>
+                <item>49. Saruwatari, Masako</item>
+              </list></p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref153_vjv" level="series">
+        <did>
+          <unittitle>Pacific Coast Committee on American Principles and Fair Play</unittitle>
+        </did>
+        <c02 id="aspace_ref154_jpx" level="file">
+          <did>
+            <unittitle>Records including minutes and correspondence, of the Pacific Coast Committee
+              on American Principles and Fair Play (of Galen M. Fisher. , as sometime secretary of
+              the Committee).</unittitle>
+            <unitdate datechar="creation">1941-45</unitdate>
+            <container id="aspace_b2778d1876be850547411ad9070477e7" label="Mixed Materials"
+              type="box">54</container>
+          </did>
+          <odd id="aspace_01a0c06ae93414aac6a51521dc42a92e">
+            <head>General note</head>
+            <p><emph render="italic">Papers donated by Warren Tsuneishi given to him by
+                Kikuchi.</emph></p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref156_ws1" level="series">
+        <did>
+          <unittitle>Photographs and Biographical Data [Additions, 1989]</unittitle>
+        </did>
+        <c02 id="aspace_ref157_ctx" level="item">
+          <did>
+            <unittitle>10 prints made from originals retained by Mrs. Charles Kikuchi, of Charles
+              Kikuchi. , and accompanying biographical information.</unittitle>
+            <unitdate datechar="creation">ca. 1938-1944</unitdate>
+            <container id="aspace_ef25afc7a9ce6d697a85beea30281bdd" label="Mixed Materials"
+              type="box">54</container>
+            <dao xlink:actuate="onRequest"
+              xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00093ft3"
+              xlink:show="new"
+              xlink:title="Charles Kikuchi, 3rd Squard, 2nd Platoon, 69th [illegible] Co. [illegible], Virginia, group portrait, 1945"
+              xlink:type="simple">
+              <daodesc>
+                <p>Charles Kikuchi, 3rd Squard, 2nd Platoon, 69th [illegible] Co. [illegible],
+                  Virginia, group portrait, 1945</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onRequest"
+              xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00093fqj"
+              xlink:show="new"
+              xlink:title="Charles Kikuchi, 3rd Squard, 2nd Platoon....[handwriting on back of photograph]"
+              xlink:type="simple">
+              <daodesc>
+                <p>Charles Kikuchi, 3rd Squard, 2nd Platoon....[handwriting on back of
+                  photograph]</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onRequest"
+              xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00093fsk"
+              xlink:show="new"
+              xlink:title="Charles Kikuchi with his daughter Susan in New York City, N.Y., 1950"
+              xlink:type="simple">
+              <daodesc>
+                <p>Charles Kikuchi with his daughter Susan in New York City, N.Y., 1950</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onRequest"
+              xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz00093fr2"
+              xlink:show="new"
+              xlink:title="Charles Kikuchi writing at desk at Gila River, AZ., circa 1943"
+              xlink:type="simple">
+              <daodesc>
+                <p>Charles Kikuchi writing at desk at Gila River, AZ., circa 1943</p>
+              </daodesc>
+            </dao>
+          </did>
+          <odd id="aspace_a71066ac24f3bfb525a822b433f823ea">
+            <head>General note</head>
+            <p><emph render="italic">Papers donated by Professor Arthur Hansen.</emph></p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref159_w2g" level="series">
+        <did>
+          <unittitle>Printed Materials</unittitle>
+        </did>
+        <c02 id="aspace_ref160_6hh" level="item">
+          <did>
+            <unittitle>Government publications relating to the Japanese.</unittitle>
+            <container id="aspace_d2557c5815cd1fd8e0bb6e333481cf46" label="Mixed Materials"
+              type="box">50</container>
+            <container id="aspace_969981662e88d1b7dc2f76e55309366c" label="Mixed Materials"
+              type="box">51</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref161_s30" level="item">
+          <did>
+            <unittitle>Various printed items.</unittitle>
+            <container id="aspace_ba708e2e474b5a4d4cbbdd6835ba8574" label="Mixed Materials"
+              type="box">52</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref162_j7t" level="item">
+          <did>
+            <unittitle>Various publications by Japanese Americans, mostly copies of <title
+                >Trek</title> [Utah Relocation Center newspaper].</unittitle>
+            <container id="aspace_689b33b085b67464736a25859422d515" label="Mixed Materials"
+              type="box">53</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref163_i8x" level="item">
+          <did>
+            <unittitle>Newsprint items: newsletters, clippings.</unittitle>
+            <physdesc id="aspace_3d36b0a85c1a82f84b8358395155bbd8"
+              label="General Physical Description note">[half legal size document box]</physdesc>
+            <container id="aspace_5a7cc2d62a629f8458b7ff7ec85e935c" label="Mixed Materials"
+              type="box">62</container>
+            <container id="aspace_fe1c036d08a02ef57969f5f2bf450f89"
+              parent="aspace_5a7cc2d62a629f8458b7ff7ec85e935c" type="folder">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref165_yng" level="item">
+          <did>
+            <unittitle>Theater program.</unittitle>
+            <unitdate datechar="creation">1988.</unitdate>
+            <physdesc id="aspace_92cabddb0dcf35cb5559c45cb1ae8b46"
+              label="General Physical Description note">[half legal size document box]</physdesc>
+            <container id="aspace_0e83f98e342f01a3717c037458cb1f47" label="Mixed Materials"
+              type="box">62</container>
+            <container id="aspace_5fd89571f91c76686496f84d7c9edc48"
+              parent="aspace_0e83f98e342f01a3717c037458cb1f47" type="folder">4</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref167_jkr" level="series">
+        <did>
+          <unittitle>Relocation Center News Publications [Additions, 1989, 1998]</unittitle>
+        </did>
+        <c02 id="aspace_ref168_lin" level="item">
+          <did>
+            <unittitle><title >Totalizer</title> - Tanforan Assembly Center,
+              California, vol.I nos.2-9.</unittitle>
+            <unitdate datechar="creation">May 23-July 11, 1942.</unitdate>
+            <container id="aspace_47240b7c869964c943cfbe373b05b87c" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_d35faa1a8fa96d178a2ec23d55e668e8"
+              parent="aspace_47240b7c869964c943cfbe373b05b87c" type="folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref169_pu7" level="item">
+          <did>
+            <unittitle><title >Totalizer</title> - Tanforan Assembly Center,
+              California, vol.I, nos.11-18.</unittitle>
+            <unitdate datechar="creation">July 18-September 5, 1942.</unitdate>
+            <container id="aspace_05b239632c0adf3a620c431e8fd6a18b" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_2fc62f3beb24be4284c84edb55dbdcd0"
+              parent="aspace_05b239632c0adf3a620c431e8fd6a18b" type="folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref170_oui" level="item">
+          <did>
+            <unittitle><title >Totalizer</title> - Tanforan Assembly Center,
+              California, vol.I no.19.</unittitle>
+            <unitdate datechar="creation">September 12, 1942.</unitdate>
+            <physdesc id="aspace_1937899d92bbc791bd9642a234693c4b"
+              label="General Physical Description note">6 copies.</physdesc>
+            <container id="aspace_3031eee1f97d845953504ceb9f5864fc" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_04cf22554364771c0b48b9dc2de454c8"
+              parent="aspace_3031eee1f97d845953504ceb9f5864fc" type="folder">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref172_4n7" level="item">
+          <did>
+            <unittitle><title >Desert Sentinel</title>, vol.II.</unittitle>
+            <unitdate datechar="creation">October 22, 1943.</unitdate>
+            <physdesc id="aspace_c9846a52aa0976a54df844b53df473e9"
+              label="General Physical Description note">1 item.</physdesc>
+            <container id="aspace_66d49ec533ac2633eacd6bdd497ef102" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_86b0c9964513e7a2a7b2b64cacc4ae1d"
+              parent="aspace_66d49ec533ac2633eacd6bdd497ef102" type="folder">4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref174_u59" level="item">
+          <did>
+            <unittitle><title >Relocator News Week</title>, vol.I nos.2-3, 5 and
+              11.</unittitle>
+            <unitdate datechar="creation">October 14-December 23, 1943.</unitdate>
+            <container id="aspace_2728c8b6c504a391aa443a9d62a68f3f" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_ab90d588087af3e56ba8a7197e524b08"
+              parent="aspace_2728c8b6c504a391aa443a9d62a68f3f" type="folder">5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref175_vdc" level="item">
+          <did>
+            <unittitle><title >Gila Coop News</title> - Rivers, Arizona, vol.I nos.
+              5, 6, 8, 9, 11, 13, 18 and 19.</unittitle>
+            <unitdate datechar="creation">July 20-October 26, 1943.</unitdate>
+            <container id="aspace_5497b6bd874a0bd28ca2bf6c5d6e31cd" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_a1f074ba1e2e677223081a3662975b40"
+              parent="aspace_5497b6bd874a0bd28ca2bf6c5d6e31cd" type="folder">6</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref176_bjq" level="item">
+          <did>
+            <unittitle><title >Gila News Courier</title> - Rivers, Arizona, vol.I
+              nos.1-34.</unittitle>
+            <unitdate datechar="creation">September 12-December 29, 1942.</unitdate>
+            <container id="aspace_51c70a066599333b1f83bde13f71d48b" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_69c15bb80cc4e4bb6eade0ba95a08c0b"
+              parent="aspace_51c70a066599333b1f83bde13f71d48b" type="folder">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref177_abv" level="item">
+          <did>
+            <unittitle><title >Gila News Courier</title> - Rivers, Arizona, vol.II
+              nos.1-29.</unittitle>
+            <unitdate datechar="creation">January 1-March 9, 1943.</unitdate>
+            <container id="aspace_114ff8fee31f2cb4ebdeb9ddf9b96c26" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_a783f2734b7023ac61dc9b10ec57eef9"
+              parent="aspace_114ff8fee31f2cb4ebdeb9ddf9b96c26" type="folder">8</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref178_pcw" level="item">
+          <did>
+            <unittitle><title >Gila News Courier</title> - Rivers, Arizona, vol.II
+              nos.30-53 and 55-59.</unittitle>
+            <unitdate datechar="creation">March 11-May 18, 1943.</unitdate>
+            <container id="aspace_3878e833719010f3b3105d416bfd731e" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_8c42e44117ca3aaff5e5a56889f45538"
+              parent="aspace_3878e833719010f3b3105d416bfd731e" type="folder">9</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref179_erb" level="item">
+          <did>
+            <unittitle><title >Gila News Courier</title> - Rivers, Arizona, vol.II
+              nos.60-62, 64-80, 83-84, 86-87, 89-90, 92-98 and 100.</unittitle>
+            <unitdate datechar="creation">May 20-August 21, 1943.</unitdate>
+            <container id="aspace_01493ffff41be43b8f1e74cccb6c89e0" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_335d4b09fd26c0d9f2c2b62e1b89ac0e"
+              parent="aspace_01493ffff41be43b8f1e74cccb6c89e0" type="folder">10</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref180_1r8" level="item">
+          <did>
+            <unittitle><title >Gila News Courier</title> - Rivers, Arizona, vol.III
+              nos.1-5, 8-11, 13-16 and 18-37.</unittitle>
+            <unitdate datechar="creation">August 24-November 16, 1943.</unitdate>
+            <container id="aspace_2bc10683bc5b69d56b7336303d213501" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_c26120c6bdd4373601f348c50f378d15"
+              parent="aspace_2bc10683bc5b69d56b7336303d213501" type="folder">11</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref181_wjk" level="item">
+          <did>
+            <unittitle><title >Gila News Courier</title> - Rivers, Arizona, vol.III
+              nos.40-50, 52-70, 72-76 and 95.</unittitle>
+            <unitdate datechar="creation">November 23-March 30, 1944.</unitdate>
+            <container id="aspace_e888bdf3e9ea0a2e7ac2de521ded8381" label="Mixed Materials"
+              type="box">55</container>
+            <container id="aspace_a7f2f6b914d8cf5848cf0b1d487cbbcb"
+              parent="aspace_e888bdf3e9ea0a2e7ac2de521ded8381" type="folder">12</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref182_3jc" level="series">
+        <did>
+          <unittitle>Reports</unittitle>
+        </did>
+        <c02 id="aspace_ref183_zdz" level="item">
+          <did>
+            <unittitle>Bob Spencer Gila reports, vol.1.</unittitle>
+            <unitdate datechar="creation">1942-43.</unitdate>
+            <physdesc id="aspace_55816b2a3f3a91b0b7dcebf897b1ec81"
+              label="General Physical Description note">Fragile carbons in large binder.</physdesc>
+            <container id="aspace_510445d15820fe68a92ec1ad0282acca" label="Mixed Materials"
+              type="box">61</container>
+            <container id="aspace_d37db7516e740b66544bc81e49e6d357"
+              parent="aspace_510445d15820fe68a92ec1ad0282acca" type="folder">1</container>
+          </did>
+          <odd id="aspace_ee0cc3f9c3cdd1d637fcbb91f2594b8d">
+            <head>General note</head>
+            <p>Kikuchi copy.</p>
+          </odd>
+        </c02>
+        <c02 id="aspace_ref186_pgw" level="item">
+          <did>
+            <unittitle>Gila report - Ivers, Arizona, vol.2.</unittitle>
+            <unitdate datechar="creation">April 1943.</unitdate>
+            <physdesc id="aspace_ad226ce8f4eafea01560f1263c888c7b"
+              label="General Physical Description note">Fragile carbons and mimeograph sheets in
+              large binder.</physdesc>
+            <container id="aspace_a36eb6c99c6464bb22938c675aadb36e" label="Mixed Materials"
+              type="box">61</container>
+            <container id="aspace_03be84b5eec57073a43c585f52180ac0"
+              parent="aspace_a36eb6c99c6464bb22938c675aadb36e" type="folder">2</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_ref188_k9d" level="series">
+        <did>
+          <unittitle>Proclamation Documents</unittitle>
+        </did>
+        <c02 id="aspace_ref189_rl4" level="item">
+          <did>
+            <unittitle>Letter, copies of proclamation documents</unittitle>
+            <physdesc id="aspace_026dedb8d1bdb3beea23eea13f98e0c5"
+              label="General Physical Description note">[half legal size document box]</physdesc>
+            <container id="aspace_f19377b91cc8b776ad0c45f14ec1b1b7" label="Mixed Materials"
+              type="box">62</container>
+            <container id="aspace_c652171574f7db0e027527f468afdf4e"
+              parent="aspace_f19377b91cc8b776ad0c45f14ec1b1b7" type="folder">1</container>
+          </did>
+        </c02>
+        <c02 id="aspace_ref191_a3t" level="item">
+          <did>
+            <unittitle>Copies of proclamation documents, etc.</unittitle>
+            <physdesc id="aspace_92e7baf218f2253a332b0596a32bfe30"
+              label="General Physical Description note">[half legal size document box]</physdesc>
+            <container id="aspace_482a596aa27c6f12ea66b0036c802a34" label="Mixed Materials"
+              type="box">62</container>
+            <container id="aspace_de21aa3fe0abeda4b5f5235a8a5d8891"
+              parent="aspace_482a596aa27c6f12ea66b0036c802a34" type="folder">2</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
 </ead>
