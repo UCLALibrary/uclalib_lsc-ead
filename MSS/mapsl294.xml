@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/kt487011tc/">mapsl294.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Collection of Maps of Los Angeles, California, the United States and the World, ca. 1516-
+</titleproper>
+<titleproper type="filing">Maps of Los Angeles, Calif., the U.S. and the World Collection</titleproper>
+<author>Finding aid prepared by Manuscripts Division staff; machine-readable finding aid created by Caroline Cubé</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©1998 The Regents of the University of California. All rights reserved.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2015-06-02T11:39-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<langusage>Description is in 
+<language>English.</language></langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Maps Collection of Los Angeles, California, the United States and the World</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">294</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>204 oversize folders</extent>
+</physdesc>
+<unitdate>ca. 1516-</unitdate>
+<abstract id="ref2" label="Abstract">The collection consists of maps of Los Angeles and other parts of the United States including: California Geological Survey maps, tract maps of the San Francisco Bay area, beach cities of Southern California, New Mexico oil fields, maps from the American Civil War, railroad map of California, California gold fields, the Ranchos of Los Angeles and California city street maps. The collection also contains world maps and maps of other countries.</abstract>
+<physloc id="ref3" label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+<dao ns2:role="http://oac.cdlib.org/arcrole/link/search/" ns2:href="http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0002h48z" ns2:title="Online items">
+<daodesc>
+<p>Selected digitized images from this collection.</p>
+</daodesc></dao>
+</did>
+<userestrict id="ref4">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<accessrestrict id="ref5">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</p>
+</accessrestrict>
+<prefercite id="ref6">
+<head>Preferred Citation</head>
+<p>[Identification of item], Collection of Maps of Los Angeles, California, the United States and the World (Collection 294). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+</prefercite>
+<scopecontent id="ref7">
+<head>Scope and Content</head>
+<p>Collection consists of maps of Los Angeles, other parts of the United States, and various places in the world. Includes maps of California, California Geological Survey maps, tract maps of the San Francisco Bay area, beach cities of Southern California, New Mexico oil fields, maps from the 1860s concerning the American Civil War, railroad map of California, California gold fields, the Ranchos of Los Angeles, California city street maps, Mexico, South America, Caribbean, Russia, Australia, Pacific islands, Africa, India, Asia Minor, Middle East, Orient, Great Britain and Ireland, Western Europe, and world maps.</p>
+</scopecontent>
+<odd id="ref278">
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232752">4232752</extref></p>
+</odd>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref8" level="series">
+<did>
+<unittitle>[Online Items]</unittitle>
+</did>
+<c02 id="ref9" level="subseries">
+<did>
+<unittitle></unittitle>
+<unitdate>[Undated]</unitdate>
+</did>
+<c03 id="ref10" level="item">
+<did>
+<unittitle>Map of the subdivision of the Rancho Santa Ysabel and adjacent lands, San Luis Obispo Co., California.</unittitle>
+<container id="cid5869091" type="Folder">100</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref11" level="item">
+<did>
+<unittitle>Map of the Centinela and Sausal Redondo ranches in Los Angeles County, Cal.</unittitle>
+<container id="cid5869089" type="Folder">121</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref12" level="item">
+<did>
+<unittitle>Map of Los Angeles and vicinity : featuring Redondo Beach.</unittitle>
+<container id="cid5869087" type="Folder">125</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+</c02>
+<c02 id="ref13" level="subseries">
+<did>
+<unittitle>.</unittitle>
+<unitdate>[1695].</unitdate>
+</did>
+<c03 id="ref14" level="item">
+<did>
+<unittitle>Amérique septentrionale divisée en ses principales parties, ou sont distingués les vns des autres les estats suivant quils appartiennent presentement aux François, Castillans, Anglois, Suedois, Danois, Hollandois, tirée des relations de toutes ces nations.</unittitle>
+<container id="cid5869084" type="Folder">49</container>
+<unitdate>1695.</unitdate>
+</did>
+</c03>
+</c02>
+<c02 id="ref15" level="subseries">
+<did>
+<unittitle>.</unittitle>
+<unitdate>[1700s].</unitdate>
+</did>
+<c03 id="ref16" level="item">
+<did>
+<unittitle>De Californie et du nouveau Mexique.</unittitle>
+<container id="cid5869081" type="Folder">65</container>
+<unitdate>1700.</unitdate>
+</did>
+</c03>
+<c03 id="ref17" level="item">
+<did>
+<unittitle>La Californie ou Nouvelle Caroline : teatro do los trabajos, Apostolicos de la Compa. e Jesus en la America Septe.</unittitle>
+<container id="cid5869079" type="Folder">66</container>
+<unitdate>1720.</unitdate>
+</did>
+</c03>
+</c02>
+<c02 id="ref18" level="subseries">
+<did>
+<unittitle>.</unittitle>
+<unitdate>[1800-1850].</unitdate>
+</did>
+<c03 id="ref19" level="item">
+<did>
+<unittitle>United States and additions : 1820.</unittitle>
+<container id="cid5869076" type="Folder">51</container>
+<unitdate>1821.</unitdate>
+</did>
+</c03>
+<c03 id="ref20" level="item">
+<did>
+<unittitle>Carta general para las navegaciones a la India Oriental por el mar del sur y el grande oceano que separa el continente americano del asiatico.</unittitle>
+<container id="cid5869074" type="Folder">48</container>
+<unitdate>1825.</unitdate>
+</did>
+</c03>
+<c03 id="ref21" level="item">
+<did>
+<unittitle>Map of an exploring expedition to the Rocky Mountains in the year 1842 and to Oregon and North California in the years 1843-44.</unittitle>
+<container id="cid5869072" type="Folder">56</container>
+<unitdate>1844.</unitdate>
+</did>
+</c03>
+<c03 id="ref22" level="item">
+<did>
+<unittitle>Map of an exploring expedition to the Rocky Mountains in the year 1842 and to Oregon and North California in the years 1843-44.</unittitle>
+<container id="cid5869070" type="Folder">183</container>
+<unitdate>1845.</unitdate>
+</did>
+</c03>
+<c03 id="ref23" level="item">
+<did>
+<unittitle>Miltiary reconnassance of the Arkansas, Rio del Norte, and Rio Gila.</unittitle>
+<container id="cid5869068" type="Folder">183</container>
+<unitdate>1847.</unitdate>
+</did>
+</c03>
+<c03 id="ref24" level="item">
+<did>
+<unittitle>Map of Mexico, including Yucatan and Upper California, exhibiting the chief cities and towns, the principal travelling routes, etc.; and, Map of the principal roads from Vera Cruz and Alvarado to the city of Mexico, including the Valley of Mexico, mountia.</unittitle>
+<container id="cid5869066" type="Folder">205</container>
+<unitdate>1847.</unitdate>
+</did>
+</c03>
+</c02>
+<c02 id="ref25" level="subseries">
+<did>
+<unittitle>.</unittitle>
+<unitdate>[1851-1900].</unitdate>
+</did>
+<c03 id="ref26" level="item">
+<did>
+<unittitle>A new map of California by Charles Drayton Gibbes from his own and other recent surveys and explorations.</unittitle>
+<container id="cid5869063" type="Folder">59</container>
+<unitdate>1852.</unitdate>
+</did>
+</c03>
+<c03 id="ref27" level="item">
+<did>
+<unittitle>Plaza in Los Angeles City, Calif.</unittitle>
+<container id="cid5869061" type="Folder">13</container>
+<unitdate>1856-12-01.</unitdate>
+</did>
+</c03>
+<c03 id="ref28" level="item">
+<did>
+<unittitle>Map of the city of Los Angeles showing the confirmed limits surveyed in August 1857 by Henry Hancock.</unittitle>
+<container id="cid5869059" type="Folder">5</container>
+<unitdate>1857-08.</unitdate>
+</did>
+</c03>
+<c03 id="ref29" level="item">
+<did>
+<unittitle>Map of Central California from 37th to 40th deg. north lat. : showing various railroad routes projected or in progress together with a practicable route to enter the state with a Pacific railroad.</unittitle>
+<container id="cid5869057" type="Folder">87</container>
+<unitdate>1860.</unitdate>
+</did>
+</c03>
+<c03 id="ref30" level="item">
+<did>
+<unittitle>Map of the public land [in the] states and territories constructed from the public surveys and other official sources in the General Land Office.</unittitle>
+<container id="cid5869055" type="Folder">51</container>
+<unitdate>1865.</unitdate>
+</did>
+</c03>
+<c03 id="ref31" level="item">
+<did>
+<unittitle>Map of the Union Pacific Railway Eastern Division and connections, from the Mississippi River to San Francisco.</unittitle>
+<container id="cid5869053" type="Folder">55</container>
+<unitdate>1867.</unitdate>
+</did>
+</c03>
+<c03 id="ref32" level="item">
+<did>
+<unittitle>Plat of the Rancho Muscupiabe, finally confirmed to Miguel White.</unittitle>
+<container id="cid5869051" type="Folder">99</container>
+<unitdate>1867-11.</unitdate>
+</did>
+</c03>
+<c03 id="ref33" level="item">
+<did>
+<unittitle>Map showing the lands of the Tide Land Reclamation Company.</unittitle>
+<container id="cid5869049" type="Folder">132</container>
+<unitdate>1869.</unitdate>
+</did>
+</c03>
+<c03 id="ref34" level="item">
+<did>
+<unittitle>San Francisco Peninsula.</unittitle>
+<container id="cid5869047" type="Folder">71</container>
+<unitdate>1869.</unitdate>
+</did>
+</c03>
+<c03 id="ref35" level="item">
+<did>
+<unittitle>City of Los Angeles, Los Angeles County, Cal.</unittitle>
+<container id="cid5869045" type="Folder">8</container>
+<unitdate>1871.</unitdate>
+</did>
+</c03>
+<c03 id="ref36" level="item">
+<did>
+<unittitle>Map of a portion of Los Angeles County showing the Abel Stearns' ranches : La Habra, Los Coyotes, San Juan Cajon, Las Bolsas, La Bolsa Chica.</unittitle>
+<container id="cid5869043" type="Folder">94</container>
+<unitdate>1873-05.</unitdate>
+</did>
+</c03>
+<c03 id="ref37" level="item">
+<did>
+<unittitle>Map of the county of San Luis Obispo, California.</unittitle>
+<container id="cid5869041" type="Folder">100</container>
+<unitdate>1874.</unitdate>
+</did>
+</c03>
+<c03 id="ref38" level="item">
+<did>
+<unittitle>Map of the Ranchos Centinela and Sausal Redondo.</unittitle>
+<container id="cid5869039" type="Folder">105</container>
+<unitdate>1875.</unitdate>
+</did>
+</c03>
+<c03 id="ref39" level="item">
+<did>
+<unittitle>Rand McNally and Co.'s indexed map of California and Nevada.</unittitle>
+<container id="cid5869037" type="Folder">134</container>
+<unitdate>1877.</unitdate>
+</did>
+</c03>
+<c03 id="ref40" level="item">
+<did>
+<unittitle>New transcontinental map of the Pacific R.R. and routes of overland travel to Colorado, Nebraska, the Black Hills, Utah, Idaho, Nevada, Montana, California and the Pacific Coast.</unittitle>
+<container id="cid5869035" type="Folder">55</container>
+<unitdate>1877.</unitdate>
+</did>
+</c03>
+<c03 id="ref41" level="item">
+<did>
+<unittitle>Lands of the Los Angeles City Water Co., in Los Angeles City, Cal.</unittitle>
+<container id="cid5869033" type="Folder">6</container>
+<unitdate>1877.</unitdate>
+</did>
+</c03>
+<c03 id="ref42" level="item">
+<did>
+<unittitle>Bird's-eye-view of Los Angeles, California.</unittitle>
+<container id="cid5869031" type="Folder">60</container>
+<unitdate>1877.</unitdate>
+</did>
+</c03>
+<c03 id="ref43" level="item">
+<did>
+<unittitle>Map of the exterior boundaries and official locations of Ranchos San Jose addition to San Jose and Azusa.</unittitle>
+<container id="cid5869029" type="Folder">12</container>
+<unitdate>1877-04.</unitdate>
+</did>
+</c03>
+<c03 id="ref44" level="item">
+<did>
+<unittitle>Guide map of the city of San Francisco : compiled from the official surveys and engraved expressly for Langley's San Francisco Directory.</unittitle>
+<container id="cid5869027" type="Folder">71</container>
+<unitdate>1878.</unitdate>
+</did>
+</c03>
+<c03 id="ref45" level="item">
+<did>
+<unittitle>A portion of Los Angeles as seen from the Ninth Street tract; and, Map of the ninth street tract.</unittitle>
+<container id="cid5869025" type="Folder">36</container>
+<unitdate>1880.</unitdate>
+</did>
+</c03>
+<c03 id="ref46" level="item">
+<did>
+<unittitle>Railway map of the Weekly Call.</unittitle>
+<container id="cid5869023" type="Folder">50</container>
+<unitdate>1880.</unitdate>
+</did>
+</c03>
+<c03 id="ref47" level="item">
+<did>
+<unittitle>Bird's eye view of Coronado Beach, San Diego Bay and city of San Diego, Cal. in distance.</unittitle>
+<container id="cid5869021" type="Folder">60</container>
+<unitdate>1880.</unitdate>
+</did>
+</c03>
+<c03 id="ref48" level="item">
+<did>
+<unittitle>Map of the Central Pacific Railroad, Southern Pacific Railroad, and connections.</unittitle>
+<container id="cid5869019" type="Folder">83</container>
+<unitdate>1880.</unitdate>
+</did>
+</c03>
+<c03 id="ref49" level="item">
+<did>
+<unittitle>Map of the county of Los Angeles, California.</unittitle>
+<container id="cid5869017" type="Folder">125</container>
+<unitdate>1881.</unitdate>
+</did>
+</c03>
+<c03 id="ref50" level="item">
+<did>
+<unittitle>Nuevo mapa de los estados de Sonora, Chihuahua, Sinaloa, Durango y territoria de la Baja California = New map of Sonora, Chihuahua, Sinaloa, Durango and Lower California.</unittitle>
+<container id="cid5869015" type="Folder">205</container>
+<unitdate>1881.</unitdate>
+</did>
+</c03>
+<c03 id="ref51" level="item">
+<did>
+<unittitle>Map of the city of Los Angeles, California.</unittitle>
+<container id="cid5869013" type="Folder">37</container>
+<unitdate>1884.</unitdate>
+</did>
+</c03>
+<c03 id="ref52" level="item">
+<did>
+<unittitle>Mining map of Inyo County.</unittitle>
+<container id="cid5869011" type="Folder">92</container>
+<unitdate>1884.</unitdate>
+</did>
+</c03>
+<c03 id="ref53" level="item">
+<did>
+<unittitle>El Cajon Rancho and surrounding region.</unittitle>
+<container id="cid5869009" type="Folder">105</container>
+<unitdate>1885.</unitdate>
+</did>
+</c03>
+<c03 id="ref54" level="item">
+<did>
+<unittitle>The unique map of California.</unittitle>
+<container id="cid5869007" type="Folder">134</container>
+<unitdate>1885.</unitdate>
+</did>
+</c03>
+<c03 id="ref55" level="item">
+<did>
+<unittitle>Pasadena, Los Angeles County, Cal.</unittitle>
+<container id="cid5869005" type="Folder">60</container>
+<unitdate>1885.</unitdate>
+</did>
+</c03>
+<c03 id="ref56" level="item">
+<did>
+<unittitle>Map of the subdivision of Rancho San Jose de Buenos Ayres and the town of Sunset, owned by [the] Los Angeles &amp; Santa Monica Land &amp; Water Co.</unittitle>
+<container id="cid5869003" type="Folder">2</container>
+<unitdate>1887.</unitdate>
+</did>
+</c03>
+<c03 id="ref57" level="item">
+<did>
+<unittitle>Map showing subdivision of lands belonging to the Lankershim Ranch Land and Water Co. : being the east 1200 acres of the south half of Ranch Ex Mission of San Fernando, Los Angeles County, California.</unittitle>
+<container id="cid5869001" type="Folder">93</container>
+<unitdate>1887-11.</unitdate>
+</did>
+</c03>
+<c03 id="ref58" level="item">
+<did>
+<unittitle>Map showing routes of the Pacific Coast Steamship Company.</unittitle>
+<container id="cid5868999" type="Folder">57</container>
+<unitdate>1888.</unitdate>
+</did>
+</c03>
+<c03 id="ref59" level="item">
+<did>
+<unittitle>Bird's eye view of Placerville, Calif.</unittitle>
+<container id="cid5868997" type="Folder">60</container>
+<unitdate>1888.</unitdate>
+</did>
+</c03>
+<c03 id="ref60" level="item">
+<did>
+<unittitle>Map of St. Louis and San Francisco R[ailwa]y and connections.</unittitle>
+<container id="cid5868995" type="Folder">83</container>
+<unitdate>1889.</unitdate>
+</did>
+</c03>
+<c03 id="ref61" level="item">
+<did>
+<unittitle>San Buena Ventura.</unittitle>
+<container id="cid5868993" type="Folder">60</container>
+<unitdate>1890.</unitdate>
+</did>
+</c03>
+<c03 id="ref62" level="item">
+<did>
+<unittitle>Map of a portion of San Bernardino and San Diego counties, showing the Bear Valley reservoir, its watershed, also the valleys where its waters are to be used, including the Alessandro and Perris irrigation districts.</unittitle>
+<container id="cid5868991" type="Folder">99</container>
+<unitdate>1890.</unitdate>
+</did>
+</c03>
+<c03 id="ref63" level="item">
+<did>
+<unittitle>Cox and Sanders index map of Los Angeles City.</unittitle>
+<container id="cid5868989" type="Folder">3</container>
+<unitdate>1896.</unitdate>
+</did>
+</c03>
+<c03 id="ref64" level="item">
+<did>
+<unittitle>Map of the city of Los Angeles, 1897 : accompanying Maxwell's Los Angeles city directory and gazetteer of Southern California.</unittitle>
+<container id="cid5868987" type="Folder">108</container>
+<unitdate>1897.</unitdate>
+</did>
+</c03>
+<c03 id="ref65" level="item">
+<did>
+<unittitle>Official map of the county of Los Angeles.</unittitle>
+<container id="cid5868985" type="Folder">131</container>
+<unitdate>1898.</unitdate>
+</did>
+</c03>
+<c03 id="ref66" level="item">
+<did>
+<unittitle>State of California.</unittitle>
+<container id="cid5868983" type="Folder">134</container>
+<unitdate>1900.</unitdate>
+</did>
+</c03>
+<c03 id="ref67" level="item">
+<did>
+<unittitle>Commisioners' official railway map of California, completed to January 1st, 1900.</unittitle>
+<container id="cid5868981" type="Folder">57</container>
+<unitdate>1900.</unitdate>
+</did>
+</c03>
+<c03 id="ref68" level="item">
+<did>
+<unittitle>Map of the Los Angeles-Pacific R.R.</unittitle>
+<container id="cid5868979" type="Folder">96</container>
+<unitdate>1900.</unitdate>
+</did>
+</c03>
+</c02>
+<c02 id="ref69" level="subseries">
+<did>
+<unittitle>.</unittitle>
+<unitdate>[1900s].</unitdate>
+</did>
+<c03 id="ref70" level="item">
+<did>
+<unittitle>Map of Sausal Redondo Rancho, Centinela Rancho and part of Rancho La Ballona.</unittitle>
+<container id="cid5868976" type="Folder">123</container>
+<unitdate>1901.</unitdate>
+</did>
+</c03>
+<c03 id="ref71" level="item">
+<did>
+<unittitle>Map of the sub-division of the Puente Crude Oil Co's lands.</unittitle>
+<container id="cid5868974" type="Folder">93</container>
+<unitdate>1901-12-20.</unitdate>
+</did>
+</c03>
+<c03 id="ref72" level="item">
+<did>
+<unittitle>California political subdivisions maps showing senatorial, congressional, railroad, equalization, and assembly districts plus a map of San Francisco political subdivisions.</unittitle>
+<container id="cid5868972" type="Folder">57</container>
+<unitdate>1902.</unitdate>
+</did>
+</c03>
+<c03 id="ref73" level="item">
+<did>
+<unittitle>Weber's township and county map of the states of California and Nevada compiled from the latest data available.</unittitle>
+<container id="cid5868970" type="Folder">59</container>
+<unitdate>1902.</unitdate>
+</did>
+</c03>
+<c03 id="ref74" level="item">
+<did>
+<unittitle>Map of the city of Los Angeles.</unittitle>
+<container id="cid5868968" type="Folder">18</container>
+<unitdate>1903.</unitdate>
+</did>
+</c03>
+<c03 id="ref75" level="item">
+<did>
+<unittitle>El Camino Real : outline map of California showing missions and principal settlements prior to secularization of the missions in 1834.</unittitle>
+<container id="cid5868966" type="Folder">61</container>
+<unitdate>1903.</unitdate>
+</did>
+</c03>
+<c03 id="ref76" level="item">
+<did>
+<unittitle>Grazing lands, western United States : general location and area.</unittitle>
+<container id="cid5868964" type="Folder">55</container>
+<unitdate>1905.</unitdate>
+</did>
+</c03>
+<c03 id="ref77" level="item">
+<did>
+<unittitle>Birdseye view of Casa Verdugo Villa tract, a sub-division of a portion of the old Rancho San Rafael.</unittitle>
+<container id="cid5868962" type="Folder">105</container>
+<unitdate>1906.</unitdate>
+</did>
+</c03>
+<c03 id="ref78" level="item">
+<did>
+<unittitle>Map of Los Angeles and suburbs.</unittitle>
+<container id="cid5868960" type="Folder">20</container>
+<unitdate>1906.</unitdate>
+</did>
+</c03>
+<c03 id="ref79" level="item">
+<did>
+<unittitle>Road map of the Bay counties : compiled from the latest and most accurate official data.</unittitle>
+<container id="cid5868958" type="Folder">88</container>
+<unitdate>1907.</unitdate>
+</did>
+</c03>
+<c03 id="ref80" level="item">
+<did>
+<unittitle>Inglewood the hub city : map of Los Angeles County, Southwest.</unittitle>
+<container id="cid5868956" type="Folder">121</container>
+<unitdate>1908.</unitdate>
+</did>
+</c03>
+<c03 id="ref81" level="item">
+<did>
+<unittitle>Map of part of San Francisco, California, April 18, 1908 : showing buildings constructed and buildings under construction during two years after fire of April 18, 1906.</unittitle>
+<container id="cid5868954" type="Folder">71</container>
+<unitdate>1908-04-18.</unitdate>
+</did>
+</c03>
+<c03 id="ref82" level="item">
+<did>
+<unittitle>Map of city and county of San Francisco.</unittitle>
+<container id="cid5868952" type="Folder">71</container>
+<unitdate>1909.</unitdate>
+</did>
+</c03>
+<c03 id="ref83" level="item">
+<did>
+<unittitle>California, now or never! The new glory of the Golden State, map of the Sacramento Valley Irrigation Project, California.</unittitle>
+<container id="cid5868950" type="Folder">88</container>
+<unitdate>1909-09-21.</unitdate>
+</did>
+</c03>
+<c03 id="ref84" level="item">
+<did>
+<unittitle>Lines of the Pacific Electric Railway in Southern California.</unittitle>
+<container id="cid5868948" type="Folder">120</container>
+<unitdate>1912.</unitdate>
+</did>
+</c03>
+<c03 id="ref85" level="item">
+<did>
+<unittitle>Clason's map of California.</unittitle>
+<container id="cid5868946" type="Folder">58</container>
+<unitdate>1913.</unitdate>
+</did>
+</c03>
+<c03 id="ref86" level="item">
+<did>
+<unittitle>Map of the city of Los Angeles.</unittitle>
+<container id="cid5868944" type="Folder">21</container>
+<unitdate>1918.</unitdate>
+</did>
+</c03>
+<c03 id="ref87" level="item">
+<did>
+<unittitle>Map of a portion of the Agua Caliente Indian Reservation, Riverside County, California.</unittitle>
+<container id="cid5868942" type="Folder">99</container>
+<unitdate>1919-02.</unitdate>
+</did>
+</c03>
+<c03 id="ref88" level="item">
+<did>
+<unittitle>Relief map of territory served by lines of [the] Pacific Electric Railway in Southern California; largest electric railway system in the world.</unittitle>
+<container id="cid5868940" type="Folder">91</container>
+<unitdate>1920.</unitdate>
+</did>
+</c03>
+<c03 id="ref89" level="item">
+<did>
+<unittitle>City of Los Angeles : city limits as at end of year 1875.</unittitle>
+<container id="cid5868938" type="Folder">94</container>
+<unitdate>1920.</unitdate>
+</did>
+</c03>
+<c03 id="ref90" level="item">
+<did>
+<unittitle>Maps of city of Los Angeles.</unittitle>
+<container id="cid5868936" type="Folder">9</container>
+<unitdate>1923-01.</unitdate>
+</did>
+</c03>
+<c03 id="ref91" level="item">
+<did>
+<unittitle>The heart of Los Angeles.</unittitle>
+<container id="cid5868934" type="Folder">31</container>
+<unitdate>1925.</unitdate>
+</did>
+</c03>
+<c03 id="ref92" level="item">
+<did>
+<unittitle>Los Angeles as it appeared in 1871, when the Germain Seed &amp; Plant Co. was established.</unittitle>
+<container id="cid5868932" type="Folder">4</container>
+<unitdate>1929.</unitdate>
+</did>
+</c03>
+<c03 id="ref93" level="item">
+<did>
+<unittitle>Map showing territory annexed to the city of Los Angeles, California.</unittitle>
+<container id="cid5868930" type="Folder">42</container>
+<unitdate>1935.</unitdate>
+</did>
+</c03>
+<c03 id="ref94" level="item">
+<did>
+<unittitle>California, the golden state.</unittitle>
+<container id="cid5868928" type="Folder">133</container>
+<unitdate>1938.</unitdate>
+</did>
+</c03>
+<c03 id="ref95" level="item">
+<did>
+<unittitle>Los Angeles County drainage area, California : San Gabriel River improvement : Whittier Narrows flood control basin : base map of land to be acquired.</unittitle>
+<container id="cid5868926" type="Folder">132</container>
+<unitdate>1948-12.</unitdate>
+</did>
+</c03>
+<c03 id="ref96" level="item">
+<did>
+<unittitle>City of Los Angeles : incorporated under American law April 4, 1850.</unittitle>
+<container id="cid5868924" type="Folder">125</container>
+<unitdate>1950.</unitdate>
+</did>
+</c03>
+<c03 id="ref97" level="item">
+<did>
+<unittitle>A map of the marked historical sites of California : compiled from the official registrations of the California State Department of Natural Resources.</unittitle>
+<container id="cid5868922" type="Folder">61</container>
+<unitdate>1952.</unitdate>
+</did>
+</c03>
+<c03 id="ref98" level="item">
+<did>
+<unittitle>A map of the missions, presidios, pueblos, and some of the more interesting ranchos of Spanish California : together with the routes of the principal land explorations therein.</unittitle>
+<container id="cid5868920" type="Folder">134</container>
+<unitdate>1956-12.</unitdate>
+</did>
+</c03>
+<c03 id="ref99" level="item">
+<did>
+<unittitle>California.</unittitle>
+<container id="cid5868918" type="Folder">59</container>
+<unitdate>1967.</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 id="ref100" level="file">
+<did>
+<unittitle>Southern California and beach cities.</unittitle>
+<container id="cid5868916" type="Folder">120</container>
+<physdesc id="ref101">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref102" level="file">
+<did>
+<unittitle>Southern California and beach cities, including Rancho Ballona, Redondo and Playa del Rey.</unittitle>
+<container id="cid5868915" type="Folder">121</container>
+<physdesc id="ref103">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref104" level="file">
+<did>
+<unittitle>Southern California and beach cities, including Rancho Ballona, Redondo and Playa del Rey.</unittitle>
+<container id="cid5868914" type="Folder">122</container>
+<physdesc id="ref105">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref106" level="file">
+<did>
+<unittitle>Southern California and beach cities, including Rancho Ballona, Redondo and Playa del Rey.</unittitle>
+<container id="cid5868913" type="Folder">123</container>
+<physdesc id="ref107">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref108" level="file">
+<did>
+<unittitle>Southern California and beach cities, including Rancho Ballona, Redondo and Playa del Rey.</unittitle>
+<container id="cid5868912" type="Folder">124</container>
+<physdesc id="ref109">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref110" level="file">
+<did>
+<unittitle>Los Angeles.</unittitle>
+<container id="cid5868911" type="Folder">125</container>
+<physdesc id="ref111">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref112" level="file">
+<did>
+<unittitle>Los Angeles.</unittitle>
+<container id="cid5868910" type="Folder">126</container>
+<physdesc id="ref113">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref114" level="file">
+<did>
+<unittitle>Los Angeles.</unittitle>
+<container id="cid5868909" type="Folder">127</container>
+<physdesc id="ref115">8 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref116" level="file">
+<did>
+<unittitle>Los Angeles.</unittitle>
+<container id="cid5868908" type="Folder">128</container>
+<physdesc id="ref117">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref118" level="file">
+<did>
+<unittitle>Los Angeles.</unittitle>
+<container id="cid5868907" type="Folder">129</container>
+<physdesc id="ref119">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref120" level="file">
+<did>
+<unittitle>Los Angeles, Azusa, Venice.</unittitle>
+<container id="cid5868906" type="Folder">130</container>
+<physdesc id="ref121">6 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref122" level="file">
+<did>
+<unittitle>Miscellaneous California.</unittitle>
+<container id="cid5868905" type="Folder">131</container>
+<physdesc id="ref123">11 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref124" level="file">
+<did>
+<unittitle>Miscellaneous California.</unittitle>
+<container id="cid5868904" type="Folder">132</container>
+<physdesc id="ref125">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref126" level="file">
+<did>
+<unittitle>Miscellaneous California. (Includes Jo Mora California poster.).</unittitle>
+<container id="cid5868903" type="Folder">133</container>
+<physdesc id="ref127">11 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref128" level="file">
+<did>
+<unittitle>California.</unittitle>
+<container id="cid5868902" type="Folder">134</container>
+<physdesc id="ref129">11 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref130" level="file">
+<did>
+<unittitle>Northern California.</unittitle>
+<container id="cid5868901" type="Folder">135</container>
+<physdesc id="ref131">13 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref132" level="file">
+<did>
+<unittitle>Northern California.</unittitle>
+<container id="cid5868900" type="Folder">136</container>
+<physdesc id="ref133">12 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref134" level="file">
+<did>
+<unittitle>Southern California.</unittitle>
+<container id="cid5868899" type="Folder">137</container>
+<physdesc id="ref135">11 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref136" level="file">
+<did>
+<unittitle>Southern California.</unittitle>
+<container id="cid5868898" type="Folder">138</container>
+<physdesc id="ref137">17 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref138" level="file">
+<did>
+<unittitle>Cataloged maps. See shelf list for location and description. items.</unittitle>
+<container id="cid5868897" type="Folder">139</container>
+</did>
+</c01>
+<c01 id="ref139" level="file">
+<did>
+<unittitle>California Geological Survey materials, Eastern Sierra region.</unittitle>
+<container id="cid5868896" type="Folder">140</container>
+<physdesc id="ref140">11 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref141" level="file">
+<did>
+<unittitle>California Geological Survey materials, Eastern Sierra region.</unittitle>
+<container id="cid5868895" type="Folder">141</container>
+</did>
+</c01>
+<c01 id="ref142" level="file">
+<did>
+<unittitle>San Francisco Bay area.</unittitle>
+<container id="cid5868894" type="Folder">142</container>
+<physdesc id="ref143">11 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref144" level="file">
+<did>
+<unittitle>San Francisco Bay area.</unittitle>
+<container id="cid5868893" type="Folder">143</container>
+<physdesc id="ref145">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref146" level="file">
+<did>
+<unittitle>San Francisco Bay area.</unittitle>
+<container id="cid5868892" type="Folder">144</container>
+<physdesc id="ref147">4 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref148" level="file">
+<did>
+<unittitle>Northern California tract maps, subdivisions, lots for sale, ranchos, etc.</unittitle>
+<container id="cid5868891" type="Folder">145</container>
+<physdesc id="ref149">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref150" level="file">
+<did>
+<unittitle>Northern California tract maps, lots for sale, subdivisions, ranchos, etc.</unittitle>
+<container id="cid5868890" type="Folders" label="Folders">146-147</container>
+</did>
+</c01>
+<c01 id="ref151" level="file">
+<did>
+<unittitle>Northern California (mostly San Francisco Bay area) tract maps, subdivisions and ranchos.</unittitle>
+<container id="cid5868889" type="Folder">148</container>
+<unitdate>ca. 1860-1880.</unitdate>
+<physdesc id="ref152">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref153" level="file">
+<did>
+<unittitle>Northern California (mostly San Francisco Bay area) tract maps, subdivisions and ranchos.</unittitle>
+<container id="cid5868888" type="Folder">149</container>
+<unitdate>ca. 1860-1880.</unitdate>
+<physdesc id="ref154">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref155" level="file">
+<did>
+<unittitle>Northern California (mostly San Francisco Bay area) tract maps, subdivisions and ranchos.</unittitle>
+<container id="cid5868887" type="Folder">150</container>
+<unitdate>ca. 1860-1880.</unitdate>
+<physdesc id="ref156">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref157" level="file">
+<did>
+<unittitle>Northern California (mostly San Francisco Bay area) tract maps, subdivisions and ranchos.</unittitle>
+<container id="cid5868886" type="Folder">151</container>
+<unitdate>ca. 1860-1880.</unitdate>
+<physdesc id="ref158">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref159" level="file">
+<did>
+<unittitle>Northern California (mostly San Francisco Bay area) tract maps, subdivisions and ranchos.</unittitle>
+<container id="cid5868885" type="Folder">152</container>
+<unitdate>ca. 1860-1880.</unitdate>
+<physdesc id="ref160">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref161" level="file">
+<did>
+<unittitle>Northern California (mostly San Francisco Bay area) tract maps, subdivisions and ranchos.</unittitle>
+<container id="cid5868884" type="Folder">153</container>
+<unitdate>ca. 1860-1880.</unitdate>
+<physdesc id="ref162">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref163" level="file">
+<did>
+<unittitle>Northern California (mostly San Francisco Bay area) tract maps, subdivisions and ranchos.</unittitle>
+<container id="cid5868883" type="Folder">154</container>
+<unitdate>ca. 1860-1880.</unitdate>
+<physdesc id="ref164">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref165" level="file">
+<did>
+<unittitle>Northern California (mostly San Francisco Bay area) tract maps, subdivisions and ranchos.</unittitle>
+<container id="cid5868882" type="Folder">155</container>
+<unitdate>ca. 1860-1880.</unitdate>
+<physdesc id="ref166">18 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref167" level="file">
+<did>
+<unittitle>Arizona.</unittitle>
+<container id="cid5868881" type="Folder">156</container>
+<physdesc id="ref168">9 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref169" level="file">
+<did>
+<unittitle>New Mexico oil fields.</unittitle>
+<container id="cid5868880" type="Folder">157</container>
+<physdesc id="ref170">8 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref171" level="file">
+<did>
+<unittitle>New Mexico.</unittitle>
+<container id="cid5868879" type="Folder">158</container>
+<physdesc id="ref172">8 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref173" level="file">
+<did>
+<unittitle>North Carolina.</unittitle>
+<container id="cid5868878" type="Folder">159</container>
+<unitdate>1779-1897.</unitdate>
+<physdesc id="ref174">27 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref175" level="file">
+<did>
+<unittitle>South Carolina.</unittitle>
+<container id="cid5868877" type="Folder">160</container>
+<unitdate>1779-1873.</unitdate>
+<physdesc id="ref176">20 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref177" level="file">
+<did>
+<unittitle>South Carolina.</unittitle>
+<container id="cid5868876" type="Folder">161</container>
+<unitdate>1704-1860.</unitdate>
+<physdesc id="ref178">14 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref179" level="file">
+<did>
+<unittitle>North Carolina and South Carolina.</unittitle>
+<container id="cid5868875" type="Folder">162</container>
+<unitdate>1775-1875.</unitdate>
+<physdesc id="ref180">15 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref181" level="file">
+<did>
+<unittitle>North Carolina and South Carolina.</unittitle>
+<container id="cid5868874" type="Folder">163</container>
+<unitdate>1676-1891.</unitdate>
+<physdesc id="ref182">28 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref183" level="file">
+<did>
+<unittitle>Arkansas and Louisiana.</unittitle>
+<container id="cid5868873" type="Folder">164</container>
+<unitdate>1774-1877.</unitdate>
+<physdesc id="ref184">21 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref185" level="file">
+<did>
+<unittitle>Florida.</unittitle>
+<container id="cid5868872" type="Folder">165</container>
+<unitdate>1775-1949.</unitdate>
+<physdesc id="ref186">19 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref187" level="file">
+<did>
+<unittitle>Virginia.</unittitle>
+<container id="cid5868871" type="Folder">166</container>
+<unitdate>1754-1932.</unitdate>
+<physdesc id="ref188">20 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref189" level="file">
+<did>
+<unittitle>Virginia and Washington, D.C.</unittitle>
+<container id="cid5868870" type="Folder">167</container>
+<unitdate>1769-1863.</unitdate>
+<physdesc id="ref190">5 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref191" level="file">
+<did>
+<unittitle>Alabama and Mississippi.</unittitle>
+<container id="cid5868869" type="Folder">168</container>
+<unitdate>1825-1875.</unitdate>
+<physdesc id="ref192">24 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref193" level="file">
+<did>
+<unittitle>Tennessee.</unittitle>
+<container id="cid5868868" type="Folder">169</container>
+<unitdate>1795-1865.</unitdate>
+<physdesc id="ref194">6 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref195" level="file">
+<did>
+<unittitle>Kentucky.</unittitle>
+<container id="cid5868867" type="Folder">170</container>
+<unitdate>1810-1952.</unitdate>
+<physdesc id="ref196">27 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref197" level="file">
+<did>
+<unittitle>Tennessee and Kentucky.</unittitle>
+<container id="cid5868866" type="Folder">171</container>
+<unitdate>1823-1890.</unitdate>
+<physdesc id="ref198">22 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref199" level="file">
+<did>
+<unittitle>Georgia.</unittitle>
+<container id="cid5868865" type="Folder">172</container>
+<unitdate>1779-1927.</unitdate>
+<physdesc id="ref200">14 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref201" level="file">
+<did>
+<unittitle>Southern States.</unittitle>
+<container id="cid5868864" type="Folder">173</container>
+<unitdate>1799-1915.</unitdate>
+<physdesc id="ref202">20 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref203" level="file">
+<did>
+<unittitle>Southern States.</unittitle>
+<container id="cid5868863" type="Folder">174</container>
+<unitdate>1755-1878.</unitdate>
+<physdesc id="ref204">12 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref205" level="file">
+<did>
+<unittitle>Civil War. Sherman's March, Chancellorsville, Gettysburg, and Peninsula Campaign.</unittitle>
+<container id="cid5868862" type="Folder">175</container>
+<unitdate>1862-1867.</unitdate>
+<physdesc id="ref206">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref207" level="file">
+<did>
+<unittitle>Civil War.</unittitle>
+<container id="cid5868861" type="Folder">176</container>
+<physdesc id="ref208">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref209" level="file">
+<did>
+<unittitle>Civil War. Including, Michler Series (The War Department Office of the Chief of Engineers. Military maps illustrating the operations of the Potomac and James, 1864-1865....) and Antietam and Harper's Ferry.</unittitle>
+<container id="cid5868860" type="Folder">177</container>
+<unitdate>1864-1867.</unitdate>
+<physdesc id="ref210">15 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref211" level="file">
+<did>
+<unittitle>Civil War.</unittitle>
+<container id="cid5868859" type="Folder">178</container>
+<physdesc id="ref212">21 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref213" level="file">
+<did>
+<unittitle>Civil War. War Department, Chickamauga and Chatanooga National Park Commission.</unittitle>
+<container id="cid5868858" type="Folder">179</container>
+<unitdate>1901-1902.</unitdate>
+</did>
+</c01>
+<c01 id="ref214" level="file">
+<did>
+<unittitle>Hawaii, Nevada and Texas.</unittitle>
+<container id="cid5868857" type="Folder">180</container>
+<unitdate>1810-1933.</unitdate>
+<physdesc id="ref215">29 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref216" level="file">
+<did>
+<unittitle>Oregon and Washington.</unittitle>
+<container id="cid5868856" type="Folder">181</container>
+<unitdate>1843-1948.</unitdate>
+<physdesc id="ref217">22 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref218" level="file">
+<did>
+<unittitle>Nevada, Colorado, Montana, Utah and Wyoming.</unittitle>
+<container id="cid5868855" type="Folder">182</container>
+<unitdate>1861-1952.</unitdate>
+<physdesc id="ref219">14 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref220" level="file">
+<did>
+<unittitle>Western United States.</unittitle>
+<container id="cid5868854" type="Folder">183</container>
+<unitdate>1800s.</unitdate>
+<physdesc id="ref221">5 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref222" level="file">
+<did>
+<unittitle>United States.</unittitle>
+<container id="cid5868853" type="Folder">184</container>
+<unitdate>ca. 1844-1920.</unitdate>
+<physdesc id="ref223">20 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref224" level="file">
+<did>
+<unittitle>United States.</unittitle>
+<container id="cid5868852" type="Folder">185</container>
+<unitdate>1768-1936.</unitdate>
+<physdesc id="ref225">35 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref226" level="file">
+<did>
+<unittitle>United States.</unittitle>
+<container id="cid5868851" type="Folder">186</container>
+<unitdate>1806-1953.</unitdate>
+<physdesc id="ref227">14 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref228" level="file">
+<did>
+<unittitle>North America, Greenland, Atlantic.</unittitle>
+<container id="cid5868850" type="Folder">187</container>
+<unitdate>1740-1884.</unitdate>
+<physdesc id="ref229">30 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref230" level="file">
+<did>
+<unittitle>North America.</unittitle>
+<container id="cid5868849" type="Folder">188</container>
+<unitdate>1790-1952.</unitdate>
+<physdesc id="ref231">31 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref232" level="file">
+<did>
+<unittitle>South America.</unittitle>
+<container id="cid5868848" type="Folder">189</container>
+<unitdate>1750-1874.</unitdate>
+<physdesc id="ref233">25 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref234" level="file">
+<did>
+<unittitle>Mexico, Central America and Caribbean. Includes Amelia Earhart map.</unittitle>
+<container id="cid5868847" type="Folder">190</container>
+<unitdate>1595-1933.</unitdate>
+<physdesc id="ref235">29 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref236" level="file">
+<did>
+<unittitle>Mexico, Central America, Caribbean.</unittitle>
+<container id="cid5868846" type="Folder">191</container>
+<unitdate>1626-1945.</unitdate>
+<physdesc id="ref237">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref238" level="file">
+<did>
+<unittitle>Northern and Central Atlantic States.</unittitle>
+<container id="cid5868845" type="Folder">192</container>
+<unitdate>ca. 1750-1960.</unitdate>
+<physdesc id="ref239">34 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref240" level="file">
+<did>
+<unittitle>Midwestern United States.</unittitle>
+<container id="cid5868844" type="Folder">193</container>
+<unitdate>ca. 1850-1960.</unitdate>
+<physdesc id="ref241">34 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref242" level="file">
+<did>
+<unittitle>Russia and USSR.</unittitle>
+<container id="cid5868843" type="Folder">194</container>
+<unitdate>ca. 1650-1947.</unitdate>
+<physdesc id="ref243">37 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref244" level="file">
+<did>
+<unittitle>Russia and USSR.</unittitle>
+<container id="cid5868842" type="Folder">195</container>
+<unitdate>ca. 1650-1947.</unitdate>
+<physdesc id="ref245">20 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref246" level="file">
+<did>
+<unittitle>Australia and Pacific Islands.</unittitle>
+<container id="cid5868841" type="Folder">196</container>
+<unitdate>ca. 1630-1903.</unitdate>
+<physdesc id="ref247">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref248" level="file">
+<did>
+<unittitle>World Maps.</unittitle>
+<container id="cid5868840" type="Folder">197</container>
+<unitdate>1529-1927.</unitdate>
+<physdesc id="ref249">26 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref250" level="file">
+<did>
+<unittitle>Asia Minor, Middle East and Orient.</unittitle>
+<container id="cid5868839" type="Folder">198</container>
+<unitdate>ca. 1700-1906.</unitdate>
+<physdesc id="ref251">34 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref252" level="file">
+<did>
+<unittitle>World Maps.</unittitle>
+<container id="cid5868838" type="Folder">199</container>
+<unitdate>1516-1939.</unitdate>
+<physdesc id="ref253">28 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref254" level="file">
+<did>
+<unittitle>Great Britain and Ireland.</unittitle>
+<container id="cid5868837" type="Folder">200</container>
+<unitdate>1574-1933.</unitdate>
+<physdesc id="ref255">23 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref256" level="file">
+<did>
+<unittitle>Western Europe.</unittitle>
+<container id="cid5868836" type="Folder">201</container>
+<unitdate>1639-1946.</unitdate>
+<physdesc id="ref257">32 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref258" level="file">
+<did>
+<unittitle>Africa and India.</unittitle>
+<container id="cid5868835" type="Folder">202</container>
+<unitdate>ca. 1700-1880.</unitdate>
+<physdesc id="ref259">14 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref260" level="file">
+<did>
+<unittitle>Central America.</unittitle>
+<container id="cid5868834" type="Folder">203</container>
+<unitdate>1852.</unitdate>
+<physdesc id="ref261">8 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref262" level="file">
+<did>
+<unittitle>Cataloged maps.</unittitle>
+<container id="cid5868830" type="Folders">204-206</container>
+</did>
+<c02 id="ref263" level="item">
+<did>
+<unittitle>Official map of Los Angeles County, comp. under insructions and by order of the Board of Superintendents .... San Francisco, Schmidt Label &amp; Lithograph Company.</unittitle>
+<unitid>* G4363 L8 1888</unitid>
+<unitdate>c. 1888.</unitdate>
+<physdesc id="ref264">Cf. Robinson 52.
+<physfacet> Poor Condition</physfacet>
+<physfacet> Cracked along middle; edges flaking; mounted on linen; bottom badly cracked and flaking.</physfacet></physdesc>
+<physdesc id="ref265" label="Dimensions">
+<dimensions>Colored map. 182 × 153cm. Scale 1: 1.5 miles.</dimensions>
+</physdesc>
+</did>
+</c02>
+<c02 id="ref266" level="item">
+<did>
+<unittitle>Rueger's map of greater Los Angeles, Los Angeles.</unittitle>
+<unitid>* G4364 L875 1904</unitid>
+<container id="cid5868833" type="Roll">* Roll 211</container>
+<unitdate>1904.</unitdate>
+<physdesc id="ref267">Cf. Robinson 52.
+<physfacet>Mounted on linen; edges cracked; very dirty on bottom 12.</physfacet></physdesc>
+<physdesc id="ref268" label="Dimensions">
+<dimensions>Colored map. 174 × 162cm. Scale 1: 600'.</dimensions>
+</physdesc>
+<abstract id="ref269" label="Abstract">
+<lb/> Insets: Marginal map of North East corner of the city; index to subdivisions. 
+<lb/>Note: The $ in 1904 is hand-lettered and pasted over another number; also, corrections and additions have been made.</abstract>
+</did>
+</c02>
+<c02 id="ref270" level="item">
+<did>
+<unittitle>Official map of Yuba County California Co. &amp; drawn from official surveys. San Francisco, Britton &amp; Company.</unittitle>
+<unitid>* G4363 Y8 1861</unitid>
+<container id="cid5868832" type="Roll">* Roll 217</container>
+<unitdate>1861.</unitdate>
+<physdesc id="ref271">
+<physfacet>Cracking all over under varnish (?) covering.</physfacet></physdesc>
+<physdesc id="ref272" label="Dimensions">
+<dimensions>Colored map. 135 × 94cm. Scale 1: 1 mile.</dimensions>
+</physdesc>
+</did>
+<odd id="ref273">
+<head>General note</head>
+<p>Note: Approved and declared official county map.</p>
+</odd>
+</c02>
+<c02 id="ref274" level="item">
+<did>
+<unittitle>Map of the county of Los Angeles, California Co. ... by J.H. Wildy and A.J. Stahlberg. n.p., Julius Bien Lithograph.</unittitle>
+<unitid>* G4363 L8 1877a</unitid>
+<container id="cid5868831" type="Roll">* Roll 220</container>
+<unitdate>1877.</unitdate>
+<physdesc id="ref275">Cf. Robinson 47.
+<physfacet>Cracking; mounted on linen; varnished (?).</physfacet></physdesc>
+<physdesc id="ref276" label="Dimensions">
+<dimensions>Colored map. 128 × 117cm. Scale 1: 2,640'.</dimensions>
+</physdesc>
+</did>
+<odd id="ref277">
+<head>General note</head>
+<p>Note: Adopted by Board of Supervisors August 7, 1877.</p>
+<p>Gift of Miss Helena Fairbanks.</p>
+</odd>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
