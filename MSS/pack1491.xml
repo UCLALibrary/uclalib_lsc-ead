@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD)
+Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier="ARK:/13030/kt4870174x">PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::1491::Ana B&#xE9;gu&#xE9; de Packman Papers)//EN" "pack1491.xml"
+</eadid><filedesc><titlestmt>
+<titleproper>Finding Aid for the Ana B&#xE9;gu&#xE9; de Packman Papers, 1870-1960</titleproper>
+<titleproper type="filing">Packman (Ana B. de) Papers</titleproper>
+<author>Processed by by Erika P&#xE9;rez, with assistance from Laurel McPhee; machine-readable finding aid created by Caroline Cub&#x00E9; and frontmatter edited by Josh Fiala.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library, Department of Special Collections</publisher>
+<address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2003</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce">12/2005;</date> frontmatter gathered MARC Record and edited by Josh Fiala. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.
+</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Ana B&#xE9;gu&#xE9; de Packman Papers, </unittitle>
+<unitdate type="inclusive" normal="1870/1960">1870-1960</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1491</unitid>
+<origination label="Creator"><persname role="subject" rules="aacr2">Packman, Ana B&#xE9;gu&#xE9; de, 1882-1973</persname></origination>
+<physdesc label="Extent"><extent>12 boxes (6 linear ft.)</extent><extent>1 oversize box</extent></physdesc>
+<abstract label="Abstract">Ana B&#xE9;gu&#xE9; de Packman (1882-1973) served as Secretary of the Historical Society of Southern California from the 1930s through the 1950s. The collection consists of Packman's photographs, newspaper articles, manuscripts, genealogies, maps, ephemera, and correspondence pertaining to the history of the city of Los Angeles, California missions, and Southern California ranchos and adobes.</abstract>
+<langmaterial label="Language">
+<language langcode="eng">English</language>
+</langmaterial>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library.
+Department of Special Collections.</corpname>
+<address>
+<addressline>Los Angeles, California 90095-1575</addressline>
+</address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Mary Louise, Bernice, and Col. James L. Packman, 1977.</p>
+</acqinfo>
+<processinfo>
+<head>Processing Note</head>
+<p>The collection was partially processed until 2005, when Erika P&#xE9;rez completed a detailed inventory of each folder. Packman's original folder titles were transcribed onto new folders at this time. The collection was then arranged into five series to enhance access to the collection. Processed by by Erika P&#xE9;rez, with assistance from Laurel McPhee in the Center For Primary Research Training (CFPRT).</p>
+</processinfo>
+<prefercite encodinganalog="544">
+<head>Preferred Citation</head>
+<p>[Identification of item], Ana B&#xE9;gu&#xE9; de Packman Papers (Collection 1491). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233536">4233536</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography</head>
+<p>Ana B&#xE9;gu&#xE9; de Packman (1882-1973) was a fifth-generation descendant of Maria Luisa Dominguez and Juan Francisco Reyes, former alcalde of El Pueblo de Los Angeles. She was also a descendant of Maximo Alaniz, who arrived in Los Angeles in 1769 and became the first grantee of Rancho San Jose de Buenos Aires (now Westwood and the University of California, Los Angeles). She served as the Secretary of the Historical Society of Southern California from the 1930s through the 1950s, where she was actively engaged in educational outreach programs, speaking engagements, and assisting in restoration efforts for various California landmarks. In addition to her duties as secretary for the Historical Society, Packman was the curator of Casa Figueroa, a historic adobe built by Don Ramon Figueroa prior to the arrival of Anglo-Americans.</p>
+<p>Packman was an avid collector of historic photographs, newspaper articles, and ephemera relating to the history of Southern California, especially missions, ranchos, cattle brands, adobes, and early Los Angeles landmarks. She was also the author of several publications, including <title>Leather Dollars: Short Stories of Pueblo Los Angeles</title>, a collection of reminiscences of early California passed down from her family and published in 1932; and <title>Early California Hospitality: The Cookery Customs of Spanish California, With Authentic Recipes and Menus of the Period</title>, published in 1938.</p>
+
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>The collection consists of Ana B&#xE9;gu&#xE9; de Packman's collection of photographs, newspaper articles, manuscripts, genealogies, maps, ephemera, and correspondence pertaining to the California missions, Southern California adobes and ranchos, and the city of Los Angeles. Many of the photographs are reproductions of images taken by anonymous photographers, though reproductions of the work of C.C. Pierce &#x0026; Company and Edward Vischer may also be found in the collection.</p>
+</scopecontent>
+<arrangement>
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: <list type="ordered">
+<item>Correspondence, 1929-1965 (.5 box)</item>
+<item>Los Angeles, ca. 1850-1962 (2.5 boxes)</item>
+<item>California missions, ca. 1880-1965 (2.5 boxes)</item>
+<item>Ranchos and adobes, ca. 1845-1962 (3 boxes)</item>
+<item>Miscellaneous, ca. 1850-1976 (3 boxes).</item>
+</list></p>
+</arrangement>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" rules="aacr2" encodinganalog="600">Packman, Ana B&#xE9;gu&#xE9; de--Archives.</persname>
+<occupation source="lcsh" encodinganalog="650">Women historians--California--Los Angeles--Archival resources.</occupation>
+<subject source="lcsh" encodinganalog="650">Missions, Spanish--California--Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Ranches--California--Photographs.</subject>
+</controlaccess>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 level="series"><did><unittitle>Correspondence </unittitle>
+<unitdate> 1929-1965</unitdate>
+<physdesc>.5 box </physdesc>
+</did>
+<scopecontent><p>Correspondence addressed to Packman, principally relating to her role as the secretary for the Historical Society
+ of Southern California, curator of Casa Figueroa, and an independent historian. </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Corespondence</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Corespondence</unittitle>
+<unitdate> 1929-1933</unitdate>
+</did>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Corespondence</unittitle>
+<unitdate> 1934-1935</unitdate>
+</did>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Corespondence</unittitle>
+<unitdate> 1936</unitdate>
+</did>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Corespondence</unittitle>
+<unitdate> 1937-1940</unitdate>
+</did>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Corespondence</unittitle>
+<unitdate> 1941-1949</unitdate>
+</did>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Corespondence</unittitle>
+<unitdate> 1958-1963</unitdate>
+</did>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Corespondence</unittitle>
+<unitdate> 1964-1965</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series"><did><unittitle>Los Angeles </unittitle>
+<unitdate> ca. 1850-1962</unitdate>
+<physdesc>2.5 boxes </physdesc>
+</did>
+<scopecontent><p>Photographs, clippings, notes and Packman's own manuscripts relating to the history of Los Angeles and Los
+ Angeles County. Most of the photographs are reproductions, though some may be original. Arranged alphabetically by folder title. See
+ box 14 for a folder of oversize newspapers clippings about Los Angeles, mostly historical in nature. </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Adams Boulevard</unittitle>
+<unitdate> ca. 1907</unitdate>
+</did>
+<scopecontent><p>Photographs of the Adams / Figueroa area. Images include Judge Silents' residence, and the Lucien Napoleon
+ Brunswig mansion at 3528-30 West Adams Boulevard. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Aliso Street</unittitle>
+<unitdate> ca. 1870-1923</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: oldest fan palm in Los Angeles, located on the Ramirez property; Mellus Row,
+ former location of Los Angeles' first City Hall (ca. 1885-1923); Old Sonora Town; burros carrying wood to market that had been gathered
+ by Sonorans from Rancho Los Feliz (ca. 1870); and photographs of artistic renderings of the area. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>B'Nai B'rith Synagogue</unittitle>
+<unitdate> ca. 1902</unitdate>
+</did>
+<scopecontent><p>Photographs of the synagogue on W. Ninth and Hope Streets. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Bradbury Building</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Notes, and a copy of the floor plan. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Broadway</unittitle>
+<unitdate> ca. 1880-1900</unitdate>
+</did>
+<scopecontent><p>Clippings, notes, and photographs. Images include: Women's Christian Temperance Union (WCTU) building at 401
+ N. Broadway; view from Hill and Court Streets showing N. Broadway residences and Hotel Aberdeen (ca. 1895); view of S. Broadway
+ taken from the Olive Street Hill (ca. 1880); Bradbury Building at 304 S. Broadway; and various street scenes, including prominent
+ buildings and businesses. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Casa Figueroa</unittitle>
+<unitdate> ca. 1934</unitdate>
+</did>
+<scopecontent><p>Casa Figueroa event cards,  announcements and photographs. Photographs include: the adobe on Jefferson and
+ S. Figueroa Streets; the 1934 dedication ceremony at Casa Figueroa; portraits of Ana Begue de Packman. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>Cemeteries</unittitle>
+<unitdate> ca. 1914-1920</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Rancho Buena Vista cemetery under excavation; Pio Pico tomb (ca. 1920);
+ Workman monument at Rancho La Puente (ca. 1914); Catholic Calvary cemetery on North Broadway; and the tomb of Robert Carlisle
+ at the first Protestant cemetery. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">16 </container>
+<unittitle>Chinatown</unittitle>
+<unitdate> ca. 1890-1934</unitdate>
+</did>
+<scopecontent><p>Clippings, notes, and photographs. Images include: early views of Chinatown residents and Chinese settlements;
+ Los Angeles Street; Apablaza House; members of the ceremonial Chinese Dragon troupe resting before the La Fiesta Parade (ca.
+ 1902); and Peter Johnson of Chinatown (ca. 1890s). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">17 </container>
+<unittitle>Churches (1 of 2)</unittitle>
+<unitdate> ca. 1949</unitdate>
+</did>
+<scopecontent><p>Assorted printed materials. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">18 </container>
+<unittitle>Churches (2 of 2)</unittitle>
+<unitdate> ca. 1870-1923</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: First Baptist Church (founded 1874); Christian Church of Christ; First Congregational
+ Church (ca. 1875); Church of Nuestra Se&#x00F1;ora la Reina de Los Angeles (ca. 1886); Cathedral of St. Vibiana (ca. 1888); First Methodist
+ Episcopalian Church (ca. 1905); First Presbyterian Church and Trinity Methodist Episcopalian (ca. 1880); First Methodist Episcopalian
+ Church on Broadway (formerly Fort Street); Congregational Church and the home of Justice of the Peace, John Trafford; St. Athanasius
+ Church (ca. 1874); B'Nai B'rith Synagogue; First Presbyterian Church and Jewish synagogue on the corner of Second Street and
+ Broadway (ca. 1870s); and others. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">19 </container>
+<unittitle>City Hall and Civic Center</unittitle>
+<unitdate> ca. 1905-1926</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: old City Hall on Broadway near Second Street (ca. 1905); City Hall and Civic Center
+ (ca. 1926); Spring Street. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">20 </container>
+<unittitle>Clubs</unittitle>
+<unitdate> ca. 1936-1962</unitdate>
+</did>
+<scopecontent><p>Printed ephemera and photographs. Images include: Ebell Club building on S. Broadway near Seventh Street;
+ Woman's Club House; and Sunset Club. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Commercial Street</unittitle>
+<unitdate> ca. 1870</unitdate>
+</did>
+<scopecontent><p>Photographs. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Father John Philip Conneally, S.J.</unittitle>
+<unitdate> 1949</unitdate>
+</did>
+<scopecontent><p>Letter to Packman from Father Philip Conneally, S.J.  Includes several group photographs of school-age children
+ associated with Father Conneally. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>County Courthouse</unittitle>
+<unitdate> ca. 1860-1900</unitdate>
+</did>
+<scopecontent><p>Clippings, notes and photographs. Images include: Red Sandstone Courthouse on Temple and Buena Vista
+ Streets; negatives and prints taken from Courthouse Hill (ca. 1867), including views of the Clock Tower Courthouse, Main Street, the
+ Masonic Temple, and neighboring buildings. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Downey Road</unittitle>
+<unitdate> ca. 1920</unitdate>
+</did>
+<scopecontent><p>Photograph of a residence on Downey Road; advertisement for Farmers and Merchants National Bank of Los
+ Angeles. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Eighth Street</unittitle>
+<unitdate> ca. 1905</unitdate>
+</did>
+<scopecontent><p>Photograph of pedestrians crossing Eighth Street and S. Broadway; photograph of the Abbotsford Inn on Eighth
+ Street, which later became the first Methodist Episcopalian Church. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>El Pueblo</unittitle>
+<unitdate> ca. 1936</unitdate>
+</did>
+<scopecontent><p>Clippings, notes and Packman's research materials. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Fifth Street</unittitle>
+<unitdate> ca. 1887-1905</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Los Angeles Examiner building on Fifth Street and Broadway; irrigation ditch in
+ Central Park (Pershing Square); Hazard's Pavilion on W. Fifth Street, opposite Central Park. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Figueroa Street</unittitle>
+<unitdate> ca. 1905, 1947</unitdate>
+</did>
+<scopecontent><p>Printed ephemera and photographs. Images include: first woolen mill in Los Angeles; pigeon farm (ca. 1905) on
+ Pasadena Avenue and North Figueroa; the Stimson / Maier House on S. Figueroa (earlier known as Pearl Street); and Figueroa street
+ scenes. Includes a Warner's film studio promotional card for the movie Life with Father (the back features a photograph and
+ biographical sketch of Mary E. Foy, first woman librarian of the Los Angeles Public Library). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>First Street</unittitle>
+<unitdate> ca. 1870-1900</unitdate>
+</did>
+<scopecontent><p>Notes and photographs. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Fort Moore Hill (1 of 2)</unittitle>
+<unitdate> 1938</unitdate>
+</did>
+<scopecontent><p>Manuscripts, notes, and a typewritten letter from Major General E. S. Adams of the War Department addressed to
+ Bert H. Cocks, in response to Cocks' letter requesting information about Fort Moore. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Fort Moore Hill (2 of 2)</unittitle>
+<unitdate> ca. 1880-1900</unitdate>
+</did>
+<scopecontent><p>Photographs. Images are principally of homes on Fort Moore Hill (present-day Fort Moore Place), Bunker Hill, and
+ Court Street (no longer in existance). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Fourth Street</unittitle>
+<unitdate> ca. 1903</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Reverend Edward Hildreth's home on the corner of Fourth and Hope Streets;
+ Chamber of Commerce Building on Fourth and 404 S. Broadway (ca. 1903). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Grand Avenue</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of the B. F. Coutler home at 215 N. Grand Avenue, L. J. Rose home at Fourth Street and Grand
+ Avenue, and Hotel Melrose at 140 S. Grand. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Hill Street</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photograph of the 800 block of Hill Street. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>Hollywood Bowl campaign event for Republican presidential candidate Alf M. Landon</unittitle>
+<unitdate> 1936</unitdate>
+</did>
+<scopecontent><p>Photographs. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">16 </container>
+<unittitle>Hospitals</unittitle>
+<unitdate> ca. 1880-1956</unitdate>
+</did>
+<scopecontent><p>Notes, correspondence, and printed materials related to the Sisters of Charity. Photographs include: Sisters'
+ Hospital on Beaudry Hill; Sisters of Charity St. Vincent's Hospital on Beaudry near Sunset (ca. 1888); county hospital located at 1416
+ Naud Street between Ann and Sotello Streets; Don Cristobal Aguilar's adobe on North Spring Street (ca. 1895) in Sonora Town, Los
+ Angeles, where the first charitable hospital was established by the Sisters of Charity; and the Good Samaritan Hospital on Seventh and
+ Figueroa Streets (ca. 1905). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">17 </container>
+<unittitle>Hotels</unittitle>
+<unitdate> ca. 1870-1937</unitdate>
+</did>
+<scopecontent><p>Notes, clippings and photographs. Images include: St. Charles Hotel and the New Queen Restaurant located at
+ 314 and 316 N. Main Street; Bella Union Hotel on Main Street (ca. 1873); Hotel Lankershim on Broadway and Seventh Street (ca.
+ 1904); Main Street, the former site of the St. Charles Hotel (ca. 1937); Biltmore Hotel on Fifth and Olive Streets; hotel on Spring and
+ Fourth Streets; Westminster Hotel; Hollenbeck Hotel; and Nadeau House. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">18 </container>
+<unittitle>Main Street</unittitle>
+<unitdate> ca. 1870-1938</unitdate>
+</did>
+<scopecontent><p>Clippings, notes and photographs. Images include: various street scenes; Fiesta Parade; St. Charles Hotel (ca.
+ 1875); El Dorado Store in the Lan Franco building; Forty-Niners' Procession on the 4th of July in front of the U.S. Hotel (ca. 1875); Abel
+ Stearns residence on Baker Block on N. Main Street; Russian Electric Baths (ca. 1880); Temple, Spring, and Main Street junction
+ (ca. 1887); Farmers &#x0026; Merchants National Bank building on Main and Commercial Streets; volunteer fire department display in
+ commemoration of the centennial celebration of American Independence (ca. 1876) on N. Main Street near Commercial; Haas family at
+ the John B. Haas ranch on Main between Washington and Adams Boulevards; and others. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">19 </container>
+<unittitle>Mayors</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Newspaper or magazine photographs of portraits of the mayors of Los Angeles, including: W. H. Workman, John
+ Bryson, H. T. Hazard, Fred Eaton, T. E. Rowan, Frank Rader, Owen McAleer, A. C. Harper, W. D. Stephens, George Alexander, H. H.
+ Rose, C. E. Sebastian, F. T. Woodman, and M. P. Snyder. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">20 </container>
+<unittitle>Miscellaneous</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Miscellaneous photographs and ephemera. Includes photographs of the view from Mt. Lowe, aerial photographs of
+ the city and downtown businesses, and unidentified homes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">21 </container>
+<unittitle>National Soldiers' Home</unittitle>
+<unitdate> ca. 1905-1933</unitdate>
+</did>
+<scopecontent><p>Photographs and two articles, including one on William Edward Sawtelle. Images include: The Old Soldiers' Home
+ during a 1905 Memorial Day review; a speaking engagement with President McKinley; and a photograph labeld "Sonoma" dated 1915.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">22 </container>
+<unittitle>Olive Street</unittitle>
+<unitdate> ca. 1880</unitdate>
+</did>
+<scopecontent><p>Photographs of Olive Street Hill near Third Street, and steet views south from Fifth Street. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Parades</unittitle>
+<unitdate> ca. 1870-1920</unitdate>
+</did>
+<scopecontent><p>Clippings and photographs. Images include: cars and carriages decorated with flowers for the La Fiesta and Fourth
+ of July parades (ca. 1873-1919); President McKinley and his wife at the Los Angeles La Fiesta parade of 1901; and various groups from
+ parade processions, including Franciscan priests, Citrus Belt groups, trade unions, Ladies of the Chamber of Commerce, fire
+ departments, caballeros, and military veterans (ca. 1873-1919). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Parks</unittitle>
+<unitdate> ca. 1880-1951</unitdate>
+</did>
+<scopecontent><p>Clippings, notes and photographs. Images include: Hollenbeck Park; Charles Prudhomme pointing to the Bartolo
+ Pass; Photograph of a stream in Central Park / Pershing Square (ca. 1880); calla lily field; Shutes Park on Main and Washington
+ Street; Westlake Park and Hotel del Monte; Exposition Park; City Gardens on San Pedro Street and Eighth (ca. 1896); Elysian Park
+ hillside near Griffith Park (ca. 1895); East Lake Park watering hole; Armistice Day procession (ca. 1931); and banana plants, date
+ palms, twin palms, and pepper tree berries. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Pico Boulevard</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of the Charles Forman home at 1015 West Pico Boulevard. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Plaza District</unittitle>
+<unitdate> ca. 1880-1955</unitdate>
+</did>
+<scopecontent><p>Printed ephemera, photographs, notes and manuscripts. Images include: Plaza Church and the main plaza; Pico
+ House; Los Angeles City Water Co. and Gas Works buildings; negative of Don Manuel Gal&#x00F3;n, Aztec soap maker, on Olvera Street;
+ Tallyho stagecoach on the Sierra Madre-Pasadena-Los Angeles route, and passengers in front of the Pico House (ca. 1884); retailers
+ adjacent to Teatro Merced; the Pedro Ybarra homestead on N. Broadway and W. College Streets (ca. 1895); and Commander
+ Stockton's headquarters. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Post Office and Federal Building</unittitle>
+<unitdate> ca. 1890-1910</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: old post office on Main Street near Fifth (ca. 1895); Downey Block (ca. 1905) before
+ its demolition for construction of a new post office, completed in 1910; Los Angeles Post Office and Federal Building on Main and
+ Temple Streets (ca. 1910). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Residences</unittitle>
+<unitdate> ca. 1880-1950</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Doheny residence; E. T. Earl residence; Marco Hellman residence; Morris brothers
+ residence; Charles Forman residence and ranch at Toluca Lake; and others. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Santa Monica</unittitle>
+<unitdate> ca. 1890-1930</unitdate>
+</did>
+<scopecontent><p>Watkins' New Series photographs of Santa Monica, and photographs of Long Wharf and the shoreline.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Schools (1 of 2)</unittitle>
+<unitdate> ca. 1923-1957</unitdate>
+</did>
+<scopecontent><p>Assorted printed materials and notes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Schools (2 of 2)</unittitle>
+<unitdate> ca. 1850-1900</unitdate>
+</did>
+<scopecontent><p>Photographs, including group portraits of 19th century pupils and instructors. Images include: school on Temple
+ near High Street and Fort (Broadway); Second Street School (ca. 1895); the first Los Angeles high school (ca. 1898); Rosedale School
+ (ca. 1895); Los Angeles County Teacher's Institute (ca. 1884), including Hattie Gower, Mary L. Gower, Henry C. Gower, Olive Wilson,
+ Ira Moore, J. W. Hiuton, and S. A. Waldron; the Florence School (ca. 1885); Lordsburg College in La Verne (ca. 1900); Sisters of
+ Charity Pioneer Girls School (ca. 1856); Padres Parochial School; St. Vibiana's School (ca. 1893); and St. Vincent College, taken by
+ Edward Vischer (ca. 1869). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Second Street</unittitle>
+<unitdate> ca. 1880</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Second and Hill Streets; Second Street tunnel on the west end of Figueroa Street;
+ and local businesses. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Seventh Street</unittitle>
+<unitdate> ca. 1880-1900</unitdate>
+</did>
+<scopecontent><p>Photographs and notes. Images include the State Militia Parade on Seventh and Hope Streets (ca. 1889).
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Sixth Street</unittitle>
+<unitdate> ca. 1880-1930</unitdate>
+</did>
+<scopecontent><p>Photographs of streets and buildings. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Spring Street</unittitle>
+<unitdate> ca. 1880-1941</unitdate>
+</did>
+<scopecontent><p>Clippings and photographs. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Temple Street</unittitle>
+<unitdate> ca. 1850-1900</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Horticultural Pavilion (ca. 1878); Juan Temple adobe; Temple Street west from
+ Broadway, with views of residences and the Gillette Pavilion; junction of Spring, Main, and the original Temple Street (ca. 1863); Juan
+ Temple adobe (ca. 1869); Poundcake Hill (later Telegraph Hill) and Justicia Street (ca. 1870) north from Temple Street, including the
+ residence of Jack Brundidge (aka the Bilderrain Home); and others. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>Theaters</unittitle>
+<unitdate> ca. 1890-1910</unitdate>
+</did>
+<scopecontent><p>Photographs of the Childs' Grand Opera House and Belasco Theater. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">16 </container>
+<unittitle>Third Street</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Angel's Flight trolley on Third and Hill Streets (before 1930) showing the Hill Crest
+ Inn; and local businesses. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">17 </container>
+<unittitle>Washington Boulevard</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Newspaper clipping showing two contrasting photographs of Washington Boulevard. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">18 </container>
+<unittitle>Water</unittitle>
+<unitdate> ca. 1932</unitdate>
+</did>
+<scopecontent><p>Notes and photographs. Images include: Charles Jenkins, Mr. Spiegel, Don de la Guerra, Judge Pleasance, and
+ Mr. Dodson; old water mill on S. Alameda Street; old mill on Bale Ranch; an Indian zanjero ("keeper of the water ditch"); site of Los
+ Angeles Water Company's office; city water tank in the old Plaza; and the city water wheel constructed on the property of Rafael
+ Carrabajal and Marta Reyes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">19 </container>
+<unittitle>Wilshire Boulevard</unittitle>
+<unitdate> ca. 1905-1926</unitdate>
+</did>
+<scopecontent><p>Newspaper clipping featuring photographs of Wilshire Boulevard and Western Avenue in 1906 and 1926; images of
+ homes and businesses along Wilshire. </p></scopecontent>
+</c02>
+</c01>
+<c01 level="series"><did><unittitle>California missions </unittitle>
+<unitdate> ca. 1880-1965</unitdate>
+<physdesc>2.5 boxes </physdesc>
+</did>
+<scopecontent><p>Photographs, clippings, notes and Packman's own manuscripts relating to the history of Southern California
+ missions. Arranged alphabetically by folder title. See box 14 for a folder of oversize newspapers clippings about the missions, including
+ a 1934 publication entitled Catholic Missions, published by the Society for the Propagation of the Faith. </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Mission Asistencia de San Antonio de Pala (Sub-mission of Mission San Lu&#x00ED;s Rey)</unittitle>
+<unitdate> ca. 1929</unitdate>
+</did>
+<scopecontent><p>Newspaper clippings from 1929. Postcards and photographs of Mission Asistencia de San Antonio de Pala, a
+ submission of Mission San Lu&#x00ED;s Rey, including interior and exterior shots. Photograph of an 1883 etching by Henry Chapman Ford.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Mission Asistencia de San Bernardino (Sub-Mission of Mission San Gabriel)</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Pamphlet and three photographs. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Mission Asistencia de Santa Ysabel (Sub-Mission of Mission San Diego de Alcal&#x00E1;)</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photograph of a man on horseback in front of the main church. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Mission La Exaltaci&#x00F3;n de La Santa Cruz</unittitle>
+<unitdate> ca. 1904</unitdate>
+</did>
+<scopecontent><p>Postcard and sepia photographs of a sketch of Mission La Exaltacion de La Santa Cruz (ca. 1904), and a
+ photograph of a painting by Toussaint. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Mission La Pur&#x00ED;sima Concepci&#x00F3;n de Mar&#x00ED;a Sant&#x00ED;sima</unittitle>
+<unitdate> ca. 1937</unitdate>
+</did>
+<scopecontent><p>Booklets and brochures with information on the restoration of the mission, notes, and photographs of the structure
+ and grounds. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Mission Nuestra Se&#x00F1;ora Dolorosisima de la Soledad</unittitle>
+<unitdate> ca. 1959</unitdate>
+</did>
+<scopecontent><p>Souvenir program from the First Annual Soledad Mission Fiesta on October 11, 1959; photographs.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Mission Nuestra Se&#x00F1;ora Reina de Los Angeles (Old Plaza Church)--Miscellaneous</unittitle>
+<unitdate> ca. 1906-1957</unitdate>
+</did>
+<scopecontent><p>Clippings and notes. Personal letter to Packman from Tom Owen of the United States Navy. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Mission Nuestra Se&#x00F1;ora Reina de Los Angeles (Old Plaza Church)--Photographs</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Assorted photographs of the mission and the priests. Includes interior and exterior shots with views of the plaza.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Mission San Antonio de Padua</unittitle>
+<unitdate> ca. 1934-1950</unitdate>
+</did>
+<scopecontent><p>Booklets, brochures and fliers. Photographs of the buildings, grounds and ruins. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Mission San Buenaventura</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Printed materials and photographs of the buildings and grounds. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Mission San Carlos Borromeo de Carmelo--Miscellaneous</unittitle>
+<unitdate> ca. 1914</unitdate>
+</did>
+<scopecontent><p>Brochures, postcards and clippings. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Mission San Carlos Borromeo de Carmelo--Photographs</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of the buildings, grounds, and ruins, including interior views. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Mission San Diego de Alcal&#x00E1;--Miscellaneous</unittitle>
+<unitdate> ca. 1930</unitdate>
+</did>
+<scopecontent><p>Clippings and printed ephemera. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Mission San Diego de Alcal&#x00E1;--Photographs</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of the buildings, grounds and ruins. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>Mission San Fernando Rey de Espa&#x00F1;a</unittitle>
+<unitdate> ca. 1909-1936</unitdate>
+</did>
+<scopecontent><p>Business card of T. R. Griffith and other printed ephemera, including invitations to events, brochures,
+ announcements and postcards. Typed account of an inventory describing the condition of the Church; assorted typed histories and
+ speeches; and photographs. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Mission San Francisco de As&#x00ED;s (Mission Dolores)</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of Mission Dolores showing the cemetery, neighboring ruins, front entrance of the mission, and the
+ Arg&#x00FC;ello monument. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Mission San Francisco de Solano (Sonoma Mission)</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of exterior before and after restoration. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Mission San Gabriel Arc&#x00E1;ngel--Miscellaneous</unittitle>
+<unitdate> ca. 1909-1965</unitdate>
+</did>
+<scopecontent><p>Assorted printed ephemera, notes and clippings. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Mission San Gabriel Arc&#x00E1;ngel --Photographs (1 of 2)</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of adobes, streets, and structures in the area surrounding the mission; photographs of the mission
+ buildings and grounds. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Mission San Gabriel Arc&#x00E1;ngel--Photographs (2 of 2)</unittitle>
+<unitdate> ca. 1870-1930</unitdate>
+</did>
+<scopecontent><p>Images include: Carrie Winters, Levy Maxson, Harry Sanderson, and Margaret Maxson; Eulalia P&#x00E9;rez (widow of a
+ former Spanish-Mexican soldier), who lived and worked as a cook at Mission San Gabriel; adobes of Judge Clinton Gibbs and Volney
+ E. Howard from 1872-1880 (later owned by the Purcell family, from 1880 onward); and assorted ruins. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Mission San Jos&#x00E9; de Guadalupe</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of the administration building before and after restoration. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Mission San Juan Bautista</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs and postcards. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Mission San Juan Capistrano</unittitle>
+<unitdate> ca. 1933-1951</unitdate>
+</did>
+<scopecontent><p>Photographs, clippings, a typewritten page with the Spanish-language epitaph for Antonio Yorba, and additional
+ typescripts. Eleven handwritten pages of notes by Packman pertaining to ranchos in Orange County and cattle holdings by members of
+ the Yorba, Sepulveda, Ruiz, O'Campo, and Avila families. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Mission San Lu&#x00ED;s Obispo</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs and postcards. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Mission San Lu&#x00ED;s Rey de Francia (1 of 2)</unittitle>
+<unitdate> ca. 1938-1963</unitdate>
+</did>
+<scopecontent><p>Postcards, photographs and printed ephemera. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Mission San Lu&#x00ED;s Rey de Francia (2 of 2)</unittitle>
+<unitdate> ca. 1880-1956</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Packman, Marco Newpark, and  attorney Joseph Scott on a  Historical Society visit
+to the Mission; various priests and persons, including an Indian woman named Bacella (ca. 1899); and the buildings and grounds.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Mission San Miguel Arc&#x00E1;ngel</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs and clippings. Images include: Father Ignatius in the garden at Mission San Miguel; olive crusher in
+the mission courtyard; the mission before and after restoration. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Mission San Rafael Arc&#x00E1;ngel</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Postcard. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Mission Santa B&#x00E1;rbara--Miscellaneous</unittitle>
+<unitdate> ca. 1898-1957</unitdate>
+</did>
+<scopecontent><p>Notes, printed ephemera and research materials. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Mission Santa B&#x00E1;rbara--Photographs</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Exterior views of the mission and photographs of priests. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Mission Santa Clara de As&#x00ED;s</unittitle>
+<unitdate> ca. 1937</unitdate>
+</did>
+<scopecontent><p>Photographs, postcards and clippings. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Mission Santa In&#x00E9;s (Santa Cruz)</unittitle>
+<unitdate> ca. 1934-1935</unitdate>
+</did>
+<scopecontent><p>Photographs, postcards and printed ephemera. </p></scopecontent>
+</c02>
+</c01>
+<c01 level="series"><did><unittitle>Ranchos and adobes </unittitle>
+<unitdate> ca. 1845-1962</unitdate>
+<physdesc>3 boxes (1.5 linear ft.) </physdesc>
+</did>
+<scopecontent><p>Photographs, clippings, notes and Packman's own manuscripts relating to the history of California ranchos and
+ adobes. Arranged alphabetically by folder title. See box 14 for a folder of oversize newspapers clippings about Southern California
+ ranchos and California families, mostly historical in nature. </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Rancho Aguaje de Centinela</unittitle>
+<unitdate> ca. 1933-1946</unitdate>
+</did>
+<scopecontent><p>Photograph, notes and clippings. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Rancho Ca&#x00F1;ada de Santa Ana</unittitle>
+<unitdate> ca. 1940</unitdate>
+</did>
+<scopecontent><p>Packman's handwritten notes pertaining to brands of Irvine County; June 1940 issue of The Quarterly (Historical
+ Society of Southern California publication). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Rancho de La Ballona--Miscellaneous</unittitle>
+<unitdate> ca. 1955</unitdate>
+</did>
+<scopecontent><p>Clippings, manuscripts and printed ephemera. Includes a detailed genealogy of the Higuera family.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Rancho de La Ballona--Photographs</unittitle>
+<unitdate> ca. 1870-1940</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: De Bartolo Winery (ca. 1939); Talamantes Adobe ruins in Culver City (ca. 1939);
+ Machado hacienda (ca. 1870); the Higuera-Chapman family, including Francisco Higuera, Enrique Higuera, Secundio Higuera, Manuela
+ Higuera, Rosario Higuera, Bernardo Higuera, Estevan Higuera, Maria Chapman, Joseph Chapman, Juan Chapman, Eva Chapman,
+ Juanita Chapman, and Claudena Olvera; Captain and Mrs. Timms (ca. 1880); and various photographs of La Ballona and Port Ballona.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Rancho de La Brea</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs, clippings, manuscripts and printed ephemera. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Rancho de La Cienega O' Paso de la Tijera</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of a map and the Sanchez adobe. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Rancho de la Isla de Santa Catalina--Miscellaneous</unittitle>
+<unitdate> ca. 1890</unitdate>
+</did>
+<scopecontent><p>Postcards, photographs and clippings. Handwritten transcription by Geneva Wheeler of the diary of Frank Le
+ Couvrer. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Rancho de la Isla de Santa Catalina---Photographs</unittitle>
+<unitdate> ca. 1880-1900</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: bay and city of Avalon; Seal Rock; Sugar Loaf; Bath House; Chef from Hotel
+ Metropole with the catch of the day, labeled as a "Catalina Island Jew Fish." </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Rancho de la Merced</unittitle>
+<unitdate> ca. 1869-1937</unitdate>
+</did>
+<scopecontent><p>Notes and photographs of the Rafael Bayse adobe and the Juan Matias Sanchez home. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Rancho La Puente (Temple / Workman Ranch)</unittitle>
+<unitdate> ca. 1845-1923</unitdate>
+</did>
+<scopecontent><p>Research materials pertaining to the John Temple / Alfred Workman Ranch. Photographs include: an adobe or
+ ranch house on Valley Boulevard in El Monte; the site of the old John Rowland adobe; Walter P. Temple Memorial / Pio Pico
+ mausoleum; Alfred Workman wine cellar and adobe; home of Walter P. Temple; home of Sheriff John Rowland; and three women in
+ front of the John Rowland ranch. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Rancho de las Cienegas</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Packman's notes and a three-page typewritten report entitled "Rancho de Las Cienegas." </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Rancho de los Cerritos</unittitle>
+<unitdate> ca. 1880-1933</unitdate>
+</did>
+<scopecontent><p>Photographs of various subjects, including: John Temple ranch house at Rancho de los Cerritos; tourists and
+ sunbathers at Long Beach (ca. 1887);  wharf, bath house and pier at Long Beach near Ocean Boulevard and Magnolia Avenue (ca.
+ 1890); swimming costumes; promenade at Long Beach (ca. 1905); Long Beach at Pine Avenue (ca. 1900); Devil's Gate, present-day
+ Belmont Beach in Los Alamitos (ca. 1908); artesian well in Long Beach; Hotel Virginia; and oil derricks. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Rancho de los Coyotes</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Packman's notes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Rancho de los Encinos</unittitle>
+<unitdate> ca. 1946</unitdate>
+</did>
+<scopecontent><p>Notes and manuscripts. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Rancho de Los Feliz</unittitle>
+<unitdate> ca. 1890-1910</unitdate>
+</did>
+<scopecontent><p>Photographs and printed ephemera. Images include: Catalina Verdugo adobe at La Ca&#x00F1;ada; Los Feliz adobe;
+ Teodoro Verdugo adobe and the Oak of Peace. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Rancho de Los Palos Verdes</unittitle>
+<unitdate> ca. 1900-1959</unitdate>
+</did>
+<scopecontent><p>Photographs, clippings and notes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Rancho El Tejon</unittitle>
+<unitdate> ca. 1900-1955</unitdate>
+</did>
+<scopecontent><p>Photographs, clippings and notes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Rancho Jurupa</unittitle>
+<unitdate> ca. 1800-1950</unitdate>
+</did>
+<scopecontent><p>Photographs and notes. Images include: Casa Loma ranch house; stage station in Palm Springs; home of Antonio
+ or Francisco Estudillo in San Jacinto, Riverside; Good Hope mine on Ortega Road in Perris Valley, Riverside (ca. 1943); adobe on
+ North Canyon Drive, Palm Springs; Juan Machado adobe in Lake Elsinore; Courthouse; Glenwood Cottage / Mission Inn; Luis
+ Rubidoux Rancho (ca. 1860-1921); President Theodore Roosevelt planting a navel orange tree at the Mission Inn in Riverside; Indians at
+ the Agua Mansa Rancheria; and Pechanga Reservation. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Rancho Paso de Bartolo</unittitle>
+<unitdate> ca. 1890-1940</unitdate>
+</did>
+<scopecontent><p>Postcards, clippings, Packman's notes, and photographs of Pio Pico's adobe at Rancho Paso de Bartolo.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Rancho Repetto</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Clippings and an article. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Rancho Rinc&#x00F3;n de los Bueyes</unittitle>
+<unitdate> ca. 1885, 1940</unitdate>
+</did>
+<scopecontent><p>Photographs and notes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Rancho Rodeo de las Aguas--Miscellaneous</unittitle>
+<unitdate> ca. 1934-1938, 1962</unitdate>
+</did>
+<scopecontent><p>Pamphlets, clippings and notes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Rancho Rodeo de las Aguas--Photographs</unittitle>
+<unitdate> ca. 1900-1930</unitdate>
+</did>
+<scopecontent><p>Photographs include: the ranch house at Rodeo de las Aguas; house of Do&#x00F1;a Maria Rita Valdez de Villa; view of
+ Beverly Hills from the Beverly Hills Hotel; aerial photographs of the Mercury Aviation Company airfield, with a view of oil wells and
+ Hammel bean fields; Beverly Hills mayor Will Rogers; early development; trolley station; Beverly Hills Raceway on Wilshire (ca. 1921);
+ Denker and Hammel creamery on Pruess Road (later Robertson Boulevard); and Benjamin "Don Benito" Davis Wilson's cattle on
+ Rancho Rodeo de las Aguas. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Rancho San Antonio</unittitle>
+<unitdate> ca. 1890-1910</unitdate>
+</did>
+<scopecontent><p>Photographs include: Lugo Adobe ruins on E. Washington; Lugo House bedroom; Ballesteros sisters; Henry T.
+ Gage's ranch house; Lugo adobe (ca. 1890) and family members including Vicenta P&#x00E9;rez, Victoria Avila Lugo, Felipe Lugo, Toney
+ Lugo, Vicente Lugo, Pedro Lugo, Andres Lugo, and Geo. Merrill. Packman's notes and a plat map reproduction. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Rancho San Francisco (1 of 2)</unittitle>
+<unitdate> ca. 1926-1934</unitdate>
+</did>
+<scopecontent><p>Ephemera and manuscripts. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Rancho San Francisco (2 of 2)</unittitle>
+<unitdate> ca. 1850-1910</unitdate>
+</did>
+<scopecontent><p>Notes and photographs. Images include: Rancho Camulos (ca. 1906); members of the del Valle family (the
+ inspiration for the Helen Hunt Jackson novel Ramona); Se&#x00F1;ora Ysabell Varela del Valle; Josefa del Valle de Forster; street scenes at
+ Newhall, California; and the Santa Clarita Valley. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Rancho San Jos&#x00E9; (1 of 2)</unittitle>
+<unitdate> ca. 1937-1960</unitdate>
+</did>
+<scopecontent><p>Notes, manuscripts and research materials. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Rancho San Jos&#x00E9; (2 of 2)</unittitle>
+<unitdate> ca. 1860-1940</unitdate>
+</did>
+<scopecontent><p>Notes and photographs. Images include: Palomares adobe (ca. 1934); gravesites of Francisca Lopez Arvizu and
+ Don Ygnacio Palomares; downtown Pomona; La Casa de Saturnino Carrion near San Dimas; William Rubottom Hotel and Stage
+ Station (ca. 1867) on Rancho San Jos&#x00E9;; Ygnacio Palomares ranch house; Ontario and San Antonio Heights Railroad Company railcar;
+ Los Nogales ranch house in Spadra, owned by Don Ramon Vejar; Palomares Hotel; and the adobe at Bear Canyon, south of Walnut.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>Rancho San Pasqual</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Notes, manuscripts and research materials. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Rancho San Pedro--Miscellaneous</unittitle>
+<unitdate> ca. 1942-1960</unitdate>
+</did>
+<scopecontent><p>Notes, manuscripts and research materials. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Rancho San Pedro--Photographs (1 of 3)</unittitle>
+<unitdate> ca. 1900-1931</unitdate>
+</did>
+<scopecontent><p>Photographs include: the Dominguez Adobe ranch house at Rancho San Pedro; whale fishermen in San Pedro;
+ original Manuel Dominguez adobe ruins; Louis Paulhan making an altitude flight at Dominguez Airpark (ca. 1910); Howard Gill flying a
+ Wright plane at Dominguez Airpark (ca. January 1912); Union Oil Co. wells at Signal Hill, Long Beach (ca. 1924); oil fire at Point
+ Fermin, California (ca. 1923); S. S. Wortley oil wells at Signal Hill (ca. 1931). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Rancho San Pedro--Photographs (2 of 3)</unittitle>
+<unitdate> ca. 1850-1910</unitdate>
+</did>
+<scopecontent><p>Photographs include the Camp Drum barracks in Wilmington and views of the wharf. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Rancho San Pedro--Photographs (3 of 3)</unittitle>
+<unitdate> ca. 1886-1910</unitdate>
+</did>
+<scopecontent><p>Photographs of San Pedro Harbor, Dead Man's Island, and nearby businesses and streets. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Rancho San Rafael--Miscellaneous</unittitle>
+<unitdate> ca. 1926-1932</unitdate>
+</did>
+<scopecontent><p>Notes, manuscripts and research materials. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Rancho San Rafael--Photographs</unittitle>
+<unitdate> ca. 1850-1930</unitdate>
+</did>
+<scopecontent><p>Images include: Verdugo Adobe; Eagle Rock trolley car; la Piedra Gorda (the Fat Rock); homes of Tomas
+ Sanchez and E. H. Gould at La Crescenta (ca. 1888); and the Sanchez Adobe at Rancho San Rafael. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Rancho San Vicente y Santa Monica--Miscellaneous</unittitle>
+<unitdate> ca. 1952-1962</unitdate>
+</did>
+<scopecontent><p>Notes, manuscripts and research materials. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Rancho San Vicente y Santa Monica--Photographs</unittitle>
+<unitdate> ca. 1850-1910</unitdate>
+</did>
+<scopecontent><p>Images include: T. A. Sanchez and John Wilson; Castle Rock; adobe of Dolores Sepulveda at Rancho San
+ Vicente; Santa Monica beach and Arch Rock; and local landmarks and businesses. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Rancho Santa Anita--Miscellaneous</unittitle>
+<unitdate> ca. 1947-1960</unitdate>
+</did>
+<scopecontent><p>Notes and printed ephemera. See box 14 for oversize newspapers clippings about Rancho Santa Anita and the
+ race track. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Rancho Santa Anita--Photographs</unittitle>
+<unitdate> ca. 1890</unitdate>
+</did>
+<scopecontent><p>Images include Baldwin Park and Rancho Santa Anita; Queen Anne Cottage; Baldwin Ranch (ca. 1890); adobe
+ home of Hugo Reid; and other local scenes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Rancho Santa Gertrudes--Miscellaneous</unittitle>
+<unitdate> ca. 1951</unitdate>
+</did>
+<scopecontent><p>Notes, manuscripts and research materials. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Rancho Santa Gertrudes--Photographs</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Images include the Ramirez family and Lemuel Carpenter's Los Nietos Ranch (bought by Jos&#x00E9; Ramirez in 1856).
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Rancho Santa Rosa</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Pechanga Indian church, cemetery, and the Coahuilla Indian cemetery; the Juan
+ Moreno adobe; and the areas of Temecula and Lake Elsinore. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Rancho Sausal Redondo</unittitle>
+<unitdate> ca. 1900</unitdate>
+</did>
+<scopecontent><p>Photographs and copies of images of Redondo Beach and the pier. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>Rancho Tajauta</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Article. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">16 </container>
+<unittitle>Rancho Topanga Malibu Sequiet</unittitle>
+<unitdate> ca. 1910</unitdate>
+</did>
+<scopecontent><p>Printed materials and photographs of Rancho Topanga Malibu canyon, Fernwood Park, and Topanga Canyon.
+</p></scopecontent>
+</c02>
+</c01>
+<c01 level="series"><did><unittitle>Miscellaneous </unittitle>
+<unitdate> ca. 1850-1976</unitdate>
+<physdesc>3 boxes (1.5 linear ft.) </physdesc>
+</did>
+<scopecontent><p>Miscellaneous research files on a variety of topics, including two folders of material related to Packman's
+ publications Leather Dollars and Early California Hospitality. Files contain photographs, clippings, notes and manuscripts.
+</p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Goat Island (Yerba Buena), San Francisco, Calif.</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photograph of the island from across the harbor. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>San Francisco, Calif.</unittitle>
+<unitdate> ca. 1846</unitdate>
+</did>
+<scopecontent><p>Photograph of a illustration of San Francisco's Montgomery Street, drawn from the harbor perspective.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>French pioneers in California</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of Jean Luis Vignes, George Mensager, Jean-Louis Sainsevain, Theodor Maximilian Ferdinand Franz
+ Lecouvreur, Jose Mascrell, Jean Bernard (husband to Susana Machado), Charles Ducommon, and Joseph Mesmer.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Missions</unittitle>
+<unitdate> ca. 1917-1957</unitdate>
+</did>
+<scopecontent><p>Brochures and printed ephemera related to visiting the California missions. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>California sporting history</unittitle>
+<unitdate> ca. 1932</unitdate>
+</did>
+<scopecontent><p>Photographs of artworks, and a typewritten manuscript entitled "Corrida de Toros." </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>California women</unittitle>
+<unitdate> ca. 1850-1910</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Mary Emily Foy; Eliza Madigan; the Volney E. Howard family including Mrs.
+ Catharine Elizabeth Howard' Mrs. Joshua Reed Giddings (probably Jennie Hollingsworth Giddings) of Pasadena; Mrs. Osoro W. Childs
+ II, Fiesta Queen in 1894; Louise Ward Watkins; Anita Johnson Mellus de Trudell; Helen Hunt Jackson; Grace Mellus Thomas; and a
+ photograph of a portrait of Mrs. Anita Johnson Mellus de Trudell (wife of Henry Mellus). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Californios</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs and images of Don Jos&#x00E9; Maria Covarrubias and Don Miguel de los Rios, General Victor Castro,
+ Santiago E. Arg&#x00FC;ello, and George Edward Hall. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Cattle Brands of Early California manuscript (1 of 2)</unittitle>
+<unitdate> ca. 1967</unitdate>
+</did>
+<scopecontent><p>Handwritten and typewritten notes for a manuscript tracing cattle brands and genealogies among southern
+ California's early Spanish-Mexican families, specifically the Nieto, Olvera, Sepulveda, and Yorba families. The main source of
+ information appears to be Los Angeles County brand books, the oldest dating back to 1835. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Cattle Brands of Early California manuscript (2 of 2)</unittitle>
+<unitdate> ca. 1967</unitdate>
+</did>
+<scopecontent><p>Additional notes and manuscript material. Includes a photograph of a chart entitled "The First Brands Registered in
+ Each County of California" prepared by Bert Sooy. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Alvarado family</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of members of the Alvarado family, including Juan Bautista Valent&#x00ED;n Alvarado y Vallejo, Adolfo Rivera
+ outside the Casa de Cahuenga, Jos&#x00E9; Antonio Serrano, Anna Grazide Alvarado and Margarite Grazide Pillario, Jos&#x00E9; Francisco Alvarado,
+ Rendon y Alvarado de Carrillo, Narcissa Alvarado de los Rios, and others. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Native Americans</unittitle>
+<unitdate> ca. 1885-1933</unitdate>
+</did>
+<scopecontent><p>Assorted research materials. Photographs include images of Southern California Indians, such as Jose Pedro
+ Losero, a Saboba Indian (ca. 1899); Capitan Pedro Pablo and others in front of his house (ca. 1885); Rojerio, the chorister of San
+ Fernando; and others. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>California Herald</unittitle>
+<unitdate> 1967 June-July</unitdate>
+</did>
+<scopecontent><p>Official publication of The Native Daughters of the Golden West. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Early Californians</unittitle>
+<unitdate> ca. 1924-1932</unitdate>
+</did>
+<scopecontent><p>Photographs of descendants of early Californians, including: Adela Thompson y de la Osa; Ricardo and Francisco
+ Viejar; Eugene Plummer; Don Manuel Sazueta (ca. 1924); Mr. W. Patter at the Repetto rancho (in present-day Monterey Park); Leo E.
+ Triggs Revera standing at the site of the Don Lu&#x00ED;s Botillier adobe; Casildo Aguilar; Victoria Rains, wife of Governor Gage; and Judge
+ August&#x00ED;n Olvera. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Texas missions</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Postcards of Mission San Jos&#x00E9; and Mission de La Purisima Conception in San Antonio, Texas.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>El Molino Viejo</unittitle>
+<unitdate> ca. 1885</unitdate>
+</did>
+<scopecontent><p>Postcards and photographs. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">16 </container>
+<unittitle>Riverside County</unittitle>
+<unitdate> ca. 1890</unitdate>
+</did>
+<scopecontent><p>Photograph of a school built in 1889 alongside Corona-Ellsinore Road in Temescal Canyon; assorted photographs
+ of adobe ruins and structures. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">17 </container>
+<unittitle>Gage family</unittitle>
+<unitdate> ca. 1850-1931</unitdate>
+</did>
+<scopecontent><p>Photographs of the Gage home and various family members, including Lucy Gage as an infant, Robert Rains,
+ Luisa Carrillo Curry, Lucy Gage Rand, Henry T. Gage and other unidentified people. Also includes printed ephemera, such as
+ invitations and announcements, and notes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>William G. Dryden</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photograph of a portrait of Judge William G. Dryden, and a one-page typed biography. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Kern County Historical Society</unittitle>
+<unitdate> 1949-1950</unitdate>
+</did>
+<scopecontent><p>Correspondence and Kern County Historical Society newsletters, dating from January to May 1950.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Miscellaneous photographs (1 of 2)</unittitle>
+<unitdate> ca. 1880-1930</unitdate>
+</did>
+<scopecontent><p>Photographs from a folder originally labeled "North Americans." Images include: Benjamin D. Wilson and his son,
+ John Wilson; John C. Campbell; William R. Rowland; William Bettis; Tomas Sanchez; Rabbi Edelman; Jacob Rich; Henry D. Barrows;
+ Thomas Delano; Felix J. Zeehandelaar; Frank Wiggins; Greek George; Thomas Scully (ca. 1926); F. C. Shurtleff; President and Mrs.
+ McKinley (ca. 1901); Alfred Robinson; Samuel D. Hunter; Don Carlos Johnson; Tiburcio Vasquez and his captors; a group shot of
+ General Phineas Banning, Mathew Keller, and Col. John H. Hollister; William H. Workman and John King; David Alexander; Andrew
+ Glassell; John Jones; John Lanfranco; Isaac Lankershim; Louis Phillips; Billy Warren; James Miller Guinn; Ferdinand Nicolay and his
+ parents; Rockwell D. Hunt; Victor Chevallier (ca. 1884); Mr. and Mrs. C. C. Thomas; Mr. and Mrs. de Mellus; Mr. and Mrs. Ozro W.
+ Childs; William R. Rowland; Gen. Charles Foreman; and unidentified persons. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Miscellaneous photographs (2 of 2)</unittitle>
+<unitdate> ca. 1850-1950</unitdate>
+</did>
+<scopecontent><p>Photographs and notes related to Packman's research. Images include: beach scenes; a photograph of a man
+ playing a guitar, with a handwritten dedication to Do&#x00F1;a Elvira Winston signed by Charles Lummis; Mr. and Mrs. Benjamin D. Wilson;
+ Eugene Plummer, head of a dance troupe in Hollywood, and Carmen Abbott wearing Spanish-era clothing; a man in costume.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Pasadena</unittitle>
+<unitdate> ca. 1890-1931</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: Hotel Raymond; Cawston Ostrich Farm (in operation from 1896-1931) in South
+ Pasadena; El Molino Viejo (the Old Mill); Benjamin D. "Don Benito" Wilson and his residence; laborers making adobe bricks; and the
+ trolley line running through San Marino, California (ca. 1905). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Livestock</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of livestock on various rancho lands in California, including Baldwin Ranch on Rancho Santa Anita,
+ the San Fernando Valley, and Santa Margarita Ranch. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>San Bernardino</unittitle>
+<unitdate> ca. 1900</unitdate>
+</did>
+<scopecontent><p>Photographs. Images include: adobes; Urbita Springs (ca. 1905); trail to Camp Baldy in Upland; Smiley Heights,
+ Redlands; Squirrel Inn, San Bernardino Mountains; Orange Street in Redlands following a parade for President Roosevelt (ca. 1903);
+ Arrowhead Hot Springs Hotel in San Bernardino; City Park, San Bernardino; Santa Fe rail station; Elk's Clubhouse; Carnegie Library
+ (ca. 1904); Masonic Temple; San Bernardino Business College; Courthouse; "I" Street in Colton (ca. 1907); E. Fourth and Third Streets
+ in downtown San Bernardino; and the Frank Maddock residence at the Cajon Pass. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>San Bernardino churches</unittitle>
+<unitdate> ca. 1915</unitdate>
+</did>
+<scopecontent><p>Photographs of various churches, including the First Methodist Episcopalian Church, San Bernardino Baptist
+ Church, and a Catholic church. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>San Gabriel</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Photographs of Mt. Lowe, orange groves, and Mt. San Antonio. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Adobes</unittitle>
+<unitdate> ca. 1880-1910</unitdate>
+</did>
+<scopecontent><p>Photographs and notes pertaining to Southern California adobes and Sonora Town. Images include the General
+ Jos&#x00E9; Castro adobe; a San Gabriel adobe; a Pala adobe; Antonio Arg&#x00FC;ella adobe on Washington Street (ca. 1898); and the Casa
+ Cahuenga adobe. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Valle de San Fernando</unittitle>
+<unitdate> ca. 1880-1930</unitdate>
+</did>
+<scopecontent><p>Assorted photographs and printed ephemera. Images include: Beale's Cut in the San Fernando Pass; Fremont
+ Pass (also called Newhall Pass), which separated the Santa Susana and San Gabriel Mountains (ca. 1926); Rancho de los Encinos;
+ old toll road; Cahuenga Pass (ca. 1890); Olive Walk at Mission San Fernando Rey (ca. 1894); and Valle de los Encinos near Mission
+ San Fernando (ca. 1886). </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Whittier</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Duplicate photographs of Whittier, including the Whittier Lumber and Mill Co., San Pedro Lumber Co., and the San
+ Jose hills. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Notebooks</unittitle>
+<unitdate> ca. 1962</unitdate>
+</did>
+<scopecontent><p>Notebooks containing Packman's research on Southern California history, including Spanish soldiers, Mission San
+ Gabriel births and deaths, and ranchos. Includes a letter from Charles Puck, photographer. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Peralta family</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Handwritten notes. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>Dams</unittitle>
+<unitdate> ca. 1952-1959</unitdate>
+</did>
+<scopecontent><p>Clippings relating to the Frank Latta case and the Kernville Dam, and the 1928 break of the St. Francis Dam in
+ Santa Clarita. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>First Century Families</unittitle>
+<unitdate> ca. 1960-1965</unitdate>
+</did>
+<scopecontent><p>Clippings and printed ephemera for First Century Families events. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Genealogical research</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Packman's research notes on the family histories of California's Spanish-Mexican and Anglo-American families,
+ including the Sepulveda, Lopez, Carrillo, Pico, and Rimpau families. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Rancho maps and titles</unittitle>
+<unitdate> ca. 1966</unitdate>
+</did>
+<scopecontent><p>Photocopies of California Spanish-Mexican era rancho maps and an indenture agreement dated February 23, 1866
+ regarding the lands held at Ranchos Los Cerritos, San Pedro, Santa Gertrudes, Los Coyotes, and Los Alamitos. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Packman family photographs</unittitle>
+<unitdate> n.d.</unitdate>
+</did>
+<scopecontent><p>Family photographs of the Packmans, including Ana B&#x00E9;gu&#x00E9; de Packman, Julia B&#x00E9;gu&#x00E9; de Pedroli, and Louisa
+ Alaniz B&#x00E9;gu&#x00E9;. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Notes and clippings</unittitle>
+<unitdate> ca. 1930</unitdate>
+</did>
+<scopecontent><p>Four typewritten pages of notes about Los Angeles-area photographs. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Leather Dollars: Short Stories of Pueblo Los Angeles (1 of 2)</unittitle>
+<unitdate> ca. 1932</unitdate>
+</did>
+<scopecontent><p>Sample illustrations and suggested layouts. For oversize illustrations, additional photographs of the missions, and
+ an article on branding, see box 13, folder 3. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Leather Dollars: Short Stories of Pueblo Los Angeles (1 of 2)</unittitle>
+<unitdate> ca. 1930-1940</unitdate>
+</did>
+<scopecontent><p>Additional miscellaneous materials related to Leather Dollars. Includes a clipping about Mary Louise Packman,
+ proofs, and publicity material for Early California Hospitality. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Ranchos (1 of 3)</unittitle>
+<unitdate> ca. 1952-1955</unitdate>
+</did>
+<scopecontent><p>Printed ephemera, notes, maps, and a pamphlet by W.W. Robinson entitled The Old Spanish and Mexican
+ Ranchos of Orange County. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Ranchos (2 of 3)</unittitle>
+<unitdate> ca. 1939-1940</unitdate>
+</did>
+<scopecontent><p>Printed ephemera, including a small pamphlet by R. W. Brackett entitled History of the Ranchos of San Diego
+ County; Packman's publication announcement for Early California Hospitality; and The Romance of the Ranchos by (E.) Palmer
+ Conner. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Ranchos (3 of 3)</unittitle>
+<unitdate> ca. 1890-1925</unitdate>
+</did>
+<scopecontent><p>Miscellaneous photographs, including a wine press in San Diego; Don Antonio Coronel and a woman dressed in
+ Spanish-Mexican attire (ca. 1890); a group dressed in Spanish-Mexican attire at the Santa Maria adobe (ca. 1925); and Deputy Sheriff
+ Edward in Spanish-Mexican attire. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Westwood--Miscellaneous research materials</unittitle>
+<unitdate> ca. 1905-1940</unitdate>
+</did>
+<scopecontent><p>Assorted research materials relelated to West Los Angeles, Westwood, and Santa Monica. Includes: photographs
+ of Packman with Sheriff Eugene Biscailuz; exhibit copy; a photograph of the Sawtelle water supply dam in Sepulveda Canyon;
+ materials on Rancho San Jose de Buenos Aires, including a photograph of Packman with Irvin S. Cobb; and materials on the National
+ Soldiers' Home. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Westwood Bicentennial project</unittitle>
+<unitdate> 1935, 1975-1976</unitdate>
+</did>
+<scopecontent><p>Correspondence, notes, exhibit copy and ephemera relating to a project on the history of  Westwood. Includes
+ biographical information about Packman, including a family tree in ink; and a 1935 transcription of the last will and testiment of Don
+ Jose Maximo Alaniz. </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Westwood Village--Sepulveda Highway fiesta</unittitle>
+<unitdate> 1935</unitdate>
+</did>
+<scopecontent><p>Newspapers include mention of the opening of Sepulveda Boulevard from West Los Angeles to the San Fernando
+ Valley. One issue of the Harbor District News, featuring a cover image of Dr. Ernest Carroll Moore. </p></scopecontent>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
