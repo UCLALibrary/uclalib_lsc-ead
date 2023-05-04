@@ -49,7 +49,7 @@ Materials are in English.
 <address><addressline>Los Angeles, California 90095-1575</addressline></address>
 </repository>
 <physloc label="Physical location">Materials located at the Louise M. Darling Biomedical Library's History and Special Collections Division, the John E. Anderson Graduate School of Management Library's Robert E. Gross collection of Rare Books in Business and Economics, the Music Library's Hathaway Collection, and UCLA Library Special Collections. Some materials are stored off-site at SRLF. Advance notice is required for access to those items in the collection. For items listed in the <emph render="bold">Container List</emph> please contact the UCLA Library Special Collections Reference Desk for paging information. For all other items listed in the various <emph render="bold">Indexes</emph> as not part of UCLA Library Special Collections, please contact the specified repository for more information.</physloc>
-<dao role="http://oac.cdlib.org/arcrole/link/search/" href="http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0009gx4f" title="Online items">
+    <dao role="http://oac.cdlib.org/arcrole/link/search/" href="https://digital.library.ucla.edu/catalog/ark:/21198/zz0009gx4f" title="Online items">
 <daodesc>
 <p>Selected digitized images from this collection.</p>
 </daodesc></dao>
@@ -64,11 +64,21 @@ Materials are in English.
 <head>Restrictions on Use and Reproduction</head>
 <p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
 </userestrict>
+    <odd>
+        <head>UCLA Catalog Record ID</head>
+        <p>UCLA Catalog Record ID: 
+            <extref href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9911933133606533" actuate="onrequest" show="new">9911933133606533</extref></p>
+    </odd>
 <prefercite encodinganalog="524">
 <head>Preferred Citation</head>
 <p>[Identification of item], Medieval and Renaissance Manuscripts Collection. UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
 </prefercite>
 </descgrp>
+    <processinfo>
+        <head>Processing Note</head>
+        <p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p>
+        <p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <emph render="bold"><extref href="https://n2t.net/ark:/21198/r2zs2tnj" actuate="onrequest" show="new">Report Potentially Offensive Description in Library Special Collections.</extref></emph></p>
+    </processinfo>
 <bioghist encodinganalog="545">
 <head>History</head>
 <p>The present catalog, begun over a decade ago, stands at the beginning of modern cataloging of medieval manuscripts in North America. Its completion may serve as the occasion to pause for a moment and examine the beginnings and progress to date of manuscript cataloging in America, as well as to offer some comment on what it has taught us and how best to continue.<ref target="f-01">1</ref></p>
@@ -204,6 +214,10 @@ Materials are in English.
 <item>&#x002A;&#x002A;&#x002A;170/403 (10 oversized ringed binders): Collection of loose leaves, s. IX-XV</item>
 </list></p>
 </arrangement>
+    <odd><head>Online Items Available</head>
+    <p>Portions of this collection have been digitized and are available online:
+        <extref href="https://digital.library.ucla.edu/catalog/ark:/21198/zz0009gx4f" actuate="onrequest" show="new">
+>Medieval and Renaissance Manuscripts (142 items)</extref>.</p></odd>
 <index>
 <head>Index 2: Place and Date</head>
 <note><p>Manuscripts in the UCLA Library System organized by place and date.</p></note>
@@ -1549,10 +1563,8 @@ Materials are in English.
 <p>5. A <emph render="italic">SECUNDO FOLIO</emph> reference (the opening words of the second leaf) is supplied for manuscripts that may have belonged to an institution in the Middle Ages and thus have been listed in a medieval inventory.</p>
 <p>6. <emph render="italic">BIBLIOGRAPHY</emph>. The bibliography cited here refers to the manuscript as a whole, rather than to its parts.</p>
 </arrangement>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p>UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=1193313">1193313</extref></p>
-</odd>
+
+    
 <dsc type="in-depth">
 <head>Container List</head>
 <c01 level="collection">
