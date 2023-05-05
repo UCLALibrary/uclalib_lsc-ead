@@ -1,0 +1,1403 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid countrycode="us" identifier="ark:/13030/ft0t1n97c1" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::639::Bern Porter Papers)//EN&quot; &quot;porte639.sgm&quot;">porte639.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Bern Porter Papers, 1935-1983</titleproper><titleproper type="filing">Porter (Bern) Papers</titleproper>
+ <author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cub&#xE9;</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">&#xA9; 2002</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">March 2000</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::639::Bern Porter Papers)//EN" "porte639.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Bern Porter Papers, 1935-1983</titleproper>
+ <num>Collection number: 639</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Manuscripts Division staff, March 1984</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cub&#xE9;</item>
+ </defitem>
+ <defitem>
+ <label>Text converted and initial container list EAD tagging by:</label>
+ <item>Apex Data Services</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, April 2002</item>
+ </defitem>
+ </list>
+ <p>&#xA9; 2002 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Bern Porter Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1935-1983</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">639</unitid>
+ <origination label="Creator">
+ <persname source="lcnaf" role="subject">Porter, Bern, 1911- </persname>
+ </origination>
+ <physdesc label="Extent"><extent>100 boxes (50 linear ft.) </extent>
+<extent>5 oversize boxes</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Bernard Harden Porter (1911- )was the Republican candidate for governor of Maine (1969) and was an author, poet, editor, illustrator, and publisher. The collection includes papers, correspondence, manuscripts, notes, books, printed items, ephemera, a film, illustrations, portraits, and lithographs by, and relating to, Bern Porter.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>PARTIALLY PROCESSED COLLECTION UNAVAILABLE FOR USE: except for boxes 1, 37, 39, 41-43, 95-98, 103-105. Inquiries regarding these materials should be directed, in writing, to the Manuscripts Librarian, UCLA Dept. of Special Collections.</p>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Bern Porter Papers (Collection 639). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233602">4233602</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Bernard Harden Porter was born on February 14, 1911 in Porter Settlement, Maine; Sc.B, Colby College, 1932; Sc.M, Brown University, 1933; special courses at Da Vinci School (1937), Convair School (1957), University of Maine (1960), and Federal School (1963); in 1929 founded Bern Porter (publishing company) in Belfast, Maine; became physicist for Acheson Colloids Corporation (1935-40) and for the Manhattan District Engineers (1940-45); became consulting physicist in 1945; director of Contemporary Gallery, West Coast Design Guild, and Fund for Contemporary Expression, 1947-50; Republican candidate for governor of Maine, 1969; became author, poet, editor, illustrator, and publisher; founding fellow, International Poetry Society; published works include <title linktype="simple">Colloidal Graphite: its Properties and Applications</title> (1939), <title linktype="simple">Map of Physics</title> (1939), <title linktype="simple">Henry Miller: a Bibliography</title> (compiler, 1943), <title linktype="simple">Scandinavian Summer</title> (1961), <title linktype="simple">Wernher Von Braun: a Bibliography and Selected Papers</title> (editor, 1966), <title linktype="simple">Reminiscences</title>, 1927-1970 (1970), <title linktype="simple">American Strange</title> (1979), and <title linktype="simple">Isla Vista</title> (1981).</p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Boxes 1, 37, 39, 41-43, 95-98, and 103-105 include papers, correspondence, manuscripts, notes, books, printed items, ephemera, a film, illustrations, portraits, and lithographs by and relating to Bern Porter. Manuscripts include <title linktype="simple">Man</title> (1965) by William Faulkner (edited by Porter), <title linktype="simple">Semblance of a Devoted Past</title>, <title linktype="simple">What To Do About Alf</title>, and <title linktype="simple">Verda: The Master Builder</title> by Henry Miller, and an essay, poems, and Run on by Porter. Also includes a portrait of James Joyce, a portrait of Porter by Liesel Rosenthal, three lithographs, and one oil painting.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname source="lcnaf" encodinganalog="600" role="subject">Porter, Bern, 1911- --Archives.</persname>
+ <occupation source="lcsh" encodinganalog="650">Physicists--United States--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Poets, American--20th century--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Authors, American--20th century--Archival resources.</occupation>
+ <subject source="lcsh" encodinganalog="650">Publishers and publishing--United States--Archival resources.</subject>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6">
+ <head>Container List</head>
+ <c01 level="file" id="c01-1.8.6.2">
+ <did>
+ <unittitle>[Huntsville, Alabama]</unittitle>
+ </did>
+ <note>
+ <p>[No further description available]</p>
+ </note>
+ <c02 level="file" id="c02-1.8.6.2.3">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <unittitle>Through <unitdate calendar="gregorian" era="ce">January 1966.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.4">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <unittitle>Through <unitdate calendar="gregorian" era="ce">May 15, 1966.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.5">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <unittitle>Through <unitdate calendar="gregorian" era="ce">July 20, 1966.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.6">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">December 1966.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.7">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <unittitle>To <unitdate calendar="gregorian" era="ce">February 15, 1967.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.8">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <unittitle>To <unitdate calendar="gregorian" era="ce">June 15, 1967.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Includes Ole.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.9">
+ <did>
+ <container label="Box" type="Box">50</container>
+ <unittitle>To <unitdate calendar="gregorian" era="ce">October 1, 1967.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.10">
+ <did>
+ <container label="Box" type="Box">50</container>
+ <unittitle>To <unitdate calendar="gregorian" era="ce">November 1, 1967.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.11">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <unittitle>Dated <unitdate calendar="gregorian" era="ce">November 10, 1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.12">
+ <did>
+ <container label="Box" type="Box">52</container>
+ <unittitle>To departure for Guatemala. <unitdate calendar="gregorian" era="ce">February 25, 1968.</unitdate></unittitle>
+ <physdesc> 2 folders.</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.3">
+ <did>
+ <unittitle>[Bernard Porter]</unittitle>
+ </did>
+ <note>
+ <p>[No further description available]</p>
+ </note>
+ <c02 level="file" id="c02-1.8.6.3.3">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <unittitle>Folio.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.4">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <unittitle>Folder.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.5">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <unittitle>Distributed by Bernard Porter--his early authors.</unittitle>
+ <physdesc> Envelope.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.6">
+ <did>
+ <container label="Box" type="Box">96</container>
+ <unittitle>Bibliographical notes. <unitdate calendar="gregorian" era="ce">November 1971-January 1977.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.4">
+ <did>
+ <unittitle>[Illustrations by Bernard Porter]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.4.2">
+ <did>
+ <container label="Box" type="Box">57</container>
+ <unittitle>Folder no.2: Marijuana Review no.2.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.4.3">
+ <did>
+ <container label="Box" type="Box">75</container>
+ <unittitle>Drawing. <unitdate calendar="gregorian" era="ce">1961.</unitdate> By Bernard Porter.</unittitle>
+ </did>
+ <note>
+ <p>Case by Bernard Porter.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.4.4">
+ <did>
+ <container label="Box" type="Box">75</container>
+ <unittitle>Original illustrations for <title linktype="simple">Taifun Willi</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.4.5">
+ <did>
+ <container label="Box" type="Box">93</container>
+ <unittitle>Original illustrations for Lamantia's erotic poems. Run-on by Bern Porter.</unittitle>
+ <physdesc> Original manuscript.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.4.6">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <unittitle>Letter. John G. Moore. vol.1, illustrated by Bernard Porter.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.4.7">
+ <did>
+ <container label="Box" type="Box">66</container>
+ <unittitle>Dawnbird.</unittitle>
+ <physdesc> Original cut.</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.5">
+ <did>
+ <unittitle>[Miscellaneous]</unittitle>
+ </did>
+ <note>
+ <p>[No further description available]</p>
+ </note>
+ <c02 level="file" id="c02-1.8.6.5.3">
+ <did>
+ <container label="Box" type="Box">81</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">March 15, 1972-October 15, 1972.</unitdate></unittitle>
+ <physdesc> Folders.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.4">
+ <did>
+ <container label="Box" type="Box">82</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">March 15, 1972-October 15, 1972.</unitdate></unittitle>
+ <physdesc> Folders.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.5">
+ <did>
+ <container label="Box" type="Box">84</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">October 15, 1972-January 1, 1973.</unitdate></unittitle>
+ <physdesc> Folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.6">
+ <did>
+ <container label="Box" type="Box">85</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 1, 1973-June 1, 1973.</unitdate></unittitle>
+ <physdesc> Folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.7">
+ <did>
+ <container label="Box" type="Box">85</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 1, 1973-October 15, 1973.</unitdate></unittitle>
+ <physdesc> Folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.8">
+ <did>
+ <container label="Box" type="Box">90</container>
+ <unittitle>no.1-2: Correspondence, notes, manuscript material and little magazines. <unitdate calendar="gregorian" era="ce">October 1973-December 1973.</unitdate></unittitle>
+ <physdesc> 2 folders.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.9">
+ <did>
+ <container label="Box" type="Box">91</container>
+ <unittitle>Correspondence, notes, manuscript material and little magazines. <unitdate calendar="gregorian" era="ce">January 1974-April 1975.</unitdate></unittitle>
+ <physdesc> 2 folders.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.10">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <unittitle>Bay Area Creators. <unitdate calendar="gregorian" era="ce">1945-1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.11">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <unittitle>[Miscellaneous].</unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Frank Lobdell Catalog. Faulkner Poetry Project. Production material for Art Productions. <unitdate calendar="gregorian" era="ce">1928-1965.</unitdate> Correspondence with W. Lowenfels.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.12">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <unittitle>#7. <unitdate calendar="gregorian" era="ce">May 1967.</unitdate> Contains reviews of seven Porter publications.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.13">
+ <did>
+ <container label="Box" type="Box">53</container>
+ <unittitle>Folder no.1: Guatemala City. <unitdate calendar="gregorian" era="ce">February 26, 1968-April 27, 1968.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.14">
+ <did>
+ <container label="Box" type="Box">53</container>
+ <unittitle>Folder no.2: Guatemala City and Rockland, Maine. <unitdate calendar="gregorian" era="ce">April 1968-May 2, 1968.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.15">
+ <did>
+ <container label="Box" type="Box">61</container>
+ <unittitle>Summary of Knox County Regional Report. <unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.16">
+ <did>
+ <container label="Box" type="Box">94</container>
+ <unittitle><title linktype="simple">Cell 666</title>: A television script by Eve Linkletter, Clinton Dufy and Bern Porter.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.17">
+ <did>
+ <container label="Box" type="Box">97</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 20, 1977-October 2, 1978.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.18">
+ <did>
+ <container label="Box" type="Box">98</container>
+ <unittitle><title linktype="simple">Vagabond White Paper</title>, no.5 (c. <unitdate calendar="gregorian" era="ce">1983).</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Contains interview with Bern Porter by Phil Nuremberg. Signed by Porter and Nuremberg.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.19">
+ <did>
+ <container label="Box" type="Box">103</container>
+ <unittitle>Portrait of James Joyce.</unittitle>
+ <physdesc> Framed and boxed.</physdesc>
+ </did>
+ <note>
+ <p>A coloured photograph, part of Porter's Joyce collection which did not go to Colby College, Maine.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.20">
+ <did>
+ <container label="Boxes" type="Box">99-100</container>
+ <unittitle>Unprocessed additions.</unittitle>
+ </did>
+ <note>
+ <p>Purchase, ca. 1986(?).</p>
+ </note>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.6">
+ <did>
+ <unittitle>[Edited by Bernard Porter]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.6.2">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <unittitle><title linktype="simple">Leaves Fall</title>. Fred Luigel and Bernard Porter, editors.</unittitle>
+ <physdesc> Complete file, autographed. [Photocopy].</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.3">
+ <did>
+ <container label="Box" type="Box">66</container>
+ <unittitle><title linktype="simple">Henry: Anthology of World Poets</title>, edited by Bernard Porter.</unittitle>
+ <physdesc> Manuscript.</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.7">
+ <did>
+ <unittitle>[Published / Distributed by Bernard Porter]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.7.2">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <unittitle><title linktype="simple">Recent Selected Articles by Buckminster Fuller</title>. Introduction autographed by Gertz. Distributed by Bern Porter Books.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.3">
+ <did>
+ <container label="Box" type="Box">61</container>
+ <unittitle><title linktype="simple">Bernard Langlais</title>, by P.L. Ely.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.4">
+ <did>
+ <container label="Box" type="Box">104</container>
+ <unittitle><title linktype="simple">A Bridge for Luxembourg</title>, by Paolo Soleri. Pasadena California: Bern Porter. <unitdate calendar="gregorian" era="ce">1958.</unitdate></unittitle>
+ <physdesc> 7 sheets.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.5">
+ <did>
+ <container label="Box" type="Box">105</container>
+ <unittitle>3 lithographs and 1 oil painting by George Stliilman. Pasadena, California: Bern Porter. <unitdate calendar="gregorian" era="ce">1958.</unitdate></unittitle>
+ <physdesc> 4 items.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.6">
+ <did>
+ <container label="Box" type="Box">65</container>
+ <unittitle><title linktype="simple">The Genesis of `The Tropic of Cancer'</title>, by Michael Fraenkel. Additions by Bernard Porter. Published by Bernard Porter in <unitdate calendar="gregorian" era="ce">1970.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.8">
+ <did>
+ <unittitle>[Photographs / Portraits of Bernard Porter]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.8.2">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <unittitle><title linktype="simple">Portrait of Bernard Porter</title> by Imogen Cunningham.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.8.3">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <unittitle><title linktype="simple">Bernard Porter at Schillerhaus Gardens</title> by H. Bowden. Sausalito, California. <unitdate calendar="gregorian" era="ce">August 12, 1950.</unitdate></unittitle>
+ <physdesc> Original copperplate.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.8.4">
+ <did>
+ <container label="Box" type="Box">88</container>
+ <unittitle>Photograph of Bern Porter, by Harry Bowden. San Francisco. <unitdate calendar="gregorian" era="ce">ca. 1950.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.8.5">
+ <did>
+ <container label="Box" type="Box">66</container>
+ <unittitle>Portrait of Bernard Porter.</unittitle>
+ <physdesc> Original cut.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.8.6">
+ <did>
+ <container label="Box" type="Box">103</container>
+ <unittitle>Portrait of Bern Porter by Liesel Rosenthal.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.9">
+ <did>
+ <unittitle>[Works by Others]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.9.2">
+ <did>
+ <container label="Box" type="Box">66</container>
+ <unittitle><title linktype="simple">Wildcat Hall Revisited: A Photographic Visit With Edward Weston</title>, by H. Bowden.</unittitle>
+ <physdesc> Film.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.3">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <unittitle>Fifty-six Preliminary Poems. Lee Ver Duft.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.4">
+ <did>
+ <container label="Box" type="Box">37</container>
+ <unittitle><title linktype="simple">Lyrics &#x0026; Epigrams</title>. Dakin Laurence, translator.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.5">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <unittitle><title linktype="simple">Man</title>. William Faulkner. <unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ <physdesc> Manuscript.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.6">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <unittitle><title linktype="simple">Bibliography of Henry Miller</title>. Maxine Renken. Denver. <unitdate calendar="gregorian" era="ce">1962.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.7">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <unittitle>Copley-Book. Diter Rot. <unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.8">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <unittitle><title linktype="simple">Cancer on Trial</title>. E.R. Hutchison.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Insert by Bernard Porter.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.9">
+ <did>
+ <container label="Box" type="Box">58</container>
+ <unittitle>Folder no.3: Letters, manuscripts, early pamphlet publications of Dutch-American poet Lee Ver Duft, etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.10">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle><title linktype="simple">Pop Art. Do it yourself</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.11">
+ <did>
+ <container label="Box" type="Box">75</container>
+ <unittitle><title linktype="simple">Semblance of a Devoted Past</title>, by Henry Miller.</unittitle>
+ <physdesc> Manuscript.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.12">
+ <did>
+ <container label="Box" type="Box">76</container>
+ <unittitle>What to do About Alf, by Henry Miller.</unittitle>
+ <physdesc> Manuscript.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.13">
+ <did>
+ <container label="Box" type="Box">76</container>
+ <unittitle><title linktype="simple">Metaphor: an Annotated Bibliography and History</title>, by Warren Shibles. Whitewater, Wisconsin: Language Press, c. <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.14">
+ <did>
+ <container label="Box" type="Box">77</container>
+ <unittitle><title linktype="simple">Varda: the Master Builder</title>, by Henry Miller.</unittitle>
+ <physdesc> Manuscript.</physdesc>
+ </did>
+ <scopecontent>
+ <p>With Bernard Porter drawings.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.15">
+ <did>
+ <container label="Box" type="Box">95</container>
+ <unittitle>Bibliography. Janelle-Therese Viglini. Manuscripts. Poetry. <title linktype="simple">Where to go / What to do in New York</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.16">
+ <did>
+ <container label="Box" type="Box">83</container>
+ <unittitle>Easy Dream Book, by Toby Messman. Piedmont, California, Bernard Porter Books. <unitdate calendar="gregorian" era="ce">October 1972.</unitdate></unittitle>
+ <physdesc> Copy number one.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.17">
+ <did>
+ <container label="Box" type="Box">83</container>
+ <unittitle><title linktype="simple">Pregnant Man, 4: Still Life</title> <unitdate calendar="gregorian" era="ce">(1971-1972</unitdate>), by Simon Fallon. n.p.,. <unitdate calendar="gregorian" era="ce">ca. 1972.</unitdate></unittitle>
+ <physdesc> Original typescript.</physdesc>
+ </did>
+ <note>
+ <p>Case by Bernard Porter.</p>
+ </note>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.10">
+ <did>
+ <unittitle>[Belfast, Maine]</unittitle>
+ </did>
+ <note>
+ <p>[No further description available]</p>
+ </note>
+ <c02 level="file" id="c02-1.8.6.10.3">
+ <did>
+ <container label="Box" type="Box">92</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 1, 1975-May 6, 1976.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.4">
+ <did>
+ <container label="Box" type="Box">92</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 6, 1976-September 7, 1976.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.5">
+ <did>
+ <container label="Box" type="Box">93</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 7, 1976-February 20, 1977.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.11">
+ <did>
+ <unittitle>[Rockland, Maine]</unittitle>
+ </did>
+ <note>
+ <p>[No further description available]</p>
+ </note>
+ <c02 level="file" id="c02-1.8.6.11.3">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <unittitle>To <unitdate calendar="gregorian" era="ce">September 1968.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Letters from Ginsburg, Rockwell Kent, etc.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.4">
+ <did>
+ <container label="Box" type="Box">54</container>
+ <unittitle>no.3: <unitdate calendar="gregorian" era="ce">June 1968.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.5">
+ <did>
+ <container label="Box" type="Box">54</container>
+ <unittitle>no.4: through <unitdate calendar="gregorian" era="ce">July 1, 1968.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.6">
+ <did>
+ <container label="Box" type="Box">55</container>
+ <unittitle>no.1-2: <unitdate calendar="gregorian" era="ce">Summer 1968.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.7">
+ <did>
+ <container label="Box" type="Box">56</container>
+ <unittitle>no.1-2: <unitdate calendar="gregorian" era="ce">Fall 1968.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.8">
+ <did>
+ <container label="Box" type="Box">57</container>
+ <unittitle>no.1: <unitdate calendar="gregorian" era="ce">September 1968-March 1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.9">
+ <did>
+ <container label="Box" type="Box">59</container>
+ <unittitle>no.1: <unitdate calendar="gregorian" era="ce">January 1969-July 1969.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Production materials include correspondence for <title linktype="simple">Dieresis</title> by Bernard Porter and Man by William Faulkner.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.10">
+ <did>
+ <container label="Box" type="Box">59</container>
+ <unittitle>no.2: <unitdate calendar="gregorian" era="ce">April-June 1969.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>John Martin (Black Sparrow Press), Dick Higgins (Something Else Press).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.11">
+ <did>
+ <container label="Box" type="Box">60</container>
+ <unittitle>no.3: <unitdate calendar="gregorian" era="ce">June-July 1969.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Issues of the time: <title linktype="simple">Berkeley Barb</title>, <title linktype="simple">New York Free Press</title>, <title linktype="simple">Village Voice</title>, etc.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.12">
+ <did>
+ <container label="Box" type="Box">60</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 1969.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Contains Bernard Porter bibliography.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.13">
+ <did>
+ <container label="Box" type="Box">62</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July-August, 1969.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.14">
+ <did>
+ <container label="Box" type="Box">62</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">August 1969-December 1969.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.15">
+ <did>
+ <container label="Boxes" type="Box">63-64</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 1970.</unitdate></unittitle>
+ <physdesc> 4 folders.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.16">
+ <did>
+ <container label="Box" type="Box">65</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 1970-March 1970.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.17">
+ <did>
+ <container label="Box" type="Box">67</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May-June, 1970.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.18">
+ <did>
+ <container label="Box" type="Box">67</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 1970.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.19">
+ <did>
+ <container label="Box" type="Box">68</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">August 1970-December 1970.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Contains Bernard Porter lecture: Aspects of the Atomic Bomb, October 10, 1970, and correspondence.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.20">
+ <did>
+ <container label="Box" type="Box">68</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 1970.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.21">
+ <did>
+ <container label="Box" type="Box">73</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 1971.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.22">
+ <did>
+ <container label="Box" type="Box">73</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 1971-March 1971.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.23">
+ <did>
+ <container label="Box" type="Box">74</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 1971-May 1971.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.24">
+ <did>
+ <container label="Box" type="Box">74</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">Through June 1, 1971.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.25">
+ <did>
+ <container label="Box" type="Box">77</container>
+ <unittitle><title linktype="simple">Bernard Porter: Bibliography</title>. <unitdate calendar="gregorian" era="ce">August 30, 1969-October 2, 1971.</unitdate> Rockland, Maine. <unitdate calendar="gregorian" era="ce">January 11, 1972.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.26">
+ <did>
+ <container label="Box" type="Box">78</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">Through August 1, 1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.27">
+ <did>
+ <container label="Box" type="Box">79</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">Through January 1, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.28">
+ <did>
+ <container label="Box" type="Box">80</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">Through January 1, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.29">
+ <did>
+ <container label="Box" type="Box">80</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">Through March 15, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.11.30">
+ <did>
+ <container label="Box" type="Box">81</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">Through March 15, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.12">
+ <did>
+ <unittitle>[<title linktype="simple">The Viglini Letters</title>]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.12.2">
+ <did>
+ <container label="Box" type="Box">94</container>
+ <unittitle>vol.1. <unitdate calendar="gregorian" era="ce">February 1973-June 1974.</unitdate> Bern Porter. <unitdate calendar="gregorian" era="ce">1977.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.3">
+ <did>
+ <container label="Box" type="Box">95</container>
+ <unittitle>vol.2. <unitdate calendar="gregorian" era="ce">July 1974-February 1977.</unitdate> Bern Porter. <unitdate calendar="gregorian" era="ce">1977.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.4">
+ <did>
+ <container label="Box" type="Box">97</container>
+ <unittitle>vol.3. <unitdate calendar="gregorian" era="ce">March 1977-February 1979.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.5">
+ <did>
+ <container label="Box" type="Box">96</container>
+ <unittitle><title linktype="simple">The Viglini Manuscripts</title>.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.13">
+ <did>
+ <unittitle>[By Bernard Porter]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.13.2">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><title linktype="simple">Artifacts</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.3">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <unittitle><title linktype="simple">Cosmic Sight</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.4">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <unittitle><title linktype="simple">Alollo</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.5">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <unittitle><title linktype="simple">Miller Said</title>.</unittitle>
+ <physdesc> Original.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.6">
+ <did>
+ <container label="Box" type="Box">104</container>
+ <unittitle>Art productions. <unitdate calendar="gregorian" era="ce">1937.</unitdate> New York. <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ <physdesc> 80 leaves in a cloth case.</physdesc>
+ </did>
+ <note>
+ <p>Collected and assembled by Bern Porter.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.7">
+ <did>
+ <container label="Box" type="Box">105</container>
+ <unittitle>Broadside. San Francisco. <unitdate calendar="gregorian" era="ce">1955-58.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Complete file of 52 numbered items, and negatives of most of them. Also included are a few projected broadsides, never published. Photographed in March, 1976, Matt Lubic, Seattle, Washington, in order to publish them in facsimile.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.8">
+ <did>
+ <container label="Box" type="Box">102</container>
+ <unittitle>Art Scrapbook.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Collected, assembled and with a front cover in oil, by Bernard Porter (On loan).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.9">
+ <did>
+ <container label="Box" type="Box">88</container>
+ <unittitle><title linktype="simple">After Brockman: A Symposium</title>. n.p., Abyss Publications. <unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>With typescript manuscript of essay by Bern Porter (inserted).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.10">
+ <did>
+ <container label="Box" type="Box">88</container>
+ <unittitle><title linktype="simple">Contemporary Italian Artists</title>, compiled by Bern Porter. Venice. <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ <physdesc> Copy 1 of 2 copies.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.11">
+ <did>
+ <container label="Box" type="Box">69</container>
+ <unittitle><title linktype="simple">Per Book</title>. Rockland, Maine. <unitdate calendar="gregorian" era="ce">1970.</unitdate></unittitle>
+ <physdesc> Copy number one.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.12">
+ <did>
+ <container label="Box" type="Box">69</container>
+ <unittitle><title linktype="simple">Enry One</title>. Rockland, Maine. <unitdate calendar="gregorian" era="ce">1970.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.13">
+ <did>
+ <container label="Box" type="Box">69</container>
+ <unittitle><title linktype="simple">Enry 2-5</title>. Rockland, Maine. <unitdate calendar="gregorian" era="ce">1970.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.14">
+ <did>
+ <container label="Box" type="Box">69</container>
+ <unittitle><title linktype="simple">OEye</title>. Rockland, Maine. <unitdate calendar="gregorian" era="ce">1970.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.15">
+ <did>
+ <container label="Box" type="Box">69</container>
+ <unittitle><title linktype="simple">Reminiscences, 1927-1970</title>. Rockland, Maine. <unitdate calendar="gregorian" era="ce">1970.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.16">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <unittitle><title linktype="simple">Moscow</title>. <unitdate calendar="gregorian" era="ce">1966.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.17">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <unittitle><title linktype="simple">468B</title>. <unitdate calendar="gregorian" era="ce">1966.</unitdate></unittitle>
+ <physdesc> One of six copies.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.18">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <unittitle><title linktype="simple">Maldorot</title>.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>With original frontispiece by Bernard Porter.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.19">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <unittitle>My life in New Hampshire. <unitdate calendar="gregorian" era="ce">1961.</unitdate></unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ <scopecontent>
+ <p>A collection of papers.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.20">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <unittitle><title linktype="simple">Mathematics for Electronics</title>. Englewood Cliffs: Prentice Hall. <unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.21">
+ <did>
+ <container label="Box" type="Box">58</container>
+ <unittitle><title linktype="simple">Knox County, Maine</title>.</unittitle>
+ <physdesc> Holograph.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.22">
+ <did>
+ <container label="Box" type="Box">61</container>
+ <unittitle><title linktype="simple">Knox County, Maine</title>. A Regional Report. <unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.23">
+ <did>
+ <container label="Box" type="Box">61</container>
+ <unittitle><title linktype="simple">The Box</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.24">
+ <did>
+ <container label="Box" type="Box">61</container>
+ <unittitle><title linktype="simple">Soda 19</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.25">
+ <did>
+ <container label="Box" type="Box">65</container>
+ <unittitle><title linktype="simple">Recollections of Alabama</title>.</unittitle>
+ <physdesc> Copper plate.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.26">
+ <did>
+ <container label="Box" type="Box">65</container>
+ <unittitle><title linktype="simple">Oraisons Fan&#xE8;bres de Bossuet</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.27">
+ <did>
+ <container label="Box" type="Box">69</container>
+ <unittitle><title linktype="simple">Novel Art News</title>.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.28">
+ <did>
+ <container label="Box" type="Box">69</container>
+ <unittitle><title linktype="simple">Ula</title>. <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.29">
+ <did>
+ <container label="Box" type="Box">69</container>
+ <unittitle>b.p. <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.30">
+ <did>
+ <container label="Box" type="Box">70</container>
+ <unittitle>Package no.1: <title linktype="simple">Assorted Cuts, 1938-1965</title>. vol.1.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.31">
+ <did>
+ <container label="Box" type="Box">70</container>
+ <unittitle><title linktype="simple">Assorted Cuts, 1935-1965</title>. vol.2, by Bernard Porter.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.32">
+ <did>
+ <container label="Box" type="Box">70</container>
+ <unittitle>Package no.2: <title linktype="simple">Assorted Cuts, 1949-1965</title>. vol.3.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.33">
+ <did>
+ <container label="Box" type="Box">71</container>
+ <unittitle><title linktype="simple">Assorted Cuts, 1961-1967</title>. vol.4.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.34">
+ <did>
+ <container label="Box" type="Box">71</container>
+ <unittitle><title linktype="simple">Assorted Cuts, 1945-1965</title>. vol.5.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.35">
+ <did>
+ <container label="Box" type="Box">71</container>
+ <unittitle><title linktype="simple">Assorted Cuts, 1965</title>. vol.6.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.36">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle><title linktype="simple">Cut Leaves</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.37">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle><title linktype="simple">Day Notes for Mother</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.38">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle><title linktype="simple">Ginsberg/Porter</title>.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.39">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle><title linktype="simple">Hexa 914</title>.</unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.40">
+ <did>
+ <container label="Box" type="Box">75</container>
+ <unittitle>Knox County Diary.</unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.41">
+ <did>
+ <container label="Box" type="Box">76</container>
+ <unittitle><title linktype="simple">I've Left</title>.</unittitle>
+ <physdesc> Paperback.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.42">
+ <did>
+ <container label="Box" type="Box">76</container>
+ <unittitle><title linktype="simple">Construction</title>. <unitdate calendar="gregorian" era="ce">1961.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.43">
+ <did>
+ <container label="Box" type="Box">76</container>
+ <unittitle><title linktype="simple">Mechanical Drawing</title>.</unittitle>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.44">
+ <did>
+ <container label="Box" type="Box">77</container>
+ <unittitle><title linktype="simple">Found Painting</title>. <unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.45">
+ <did>
+ <container label="Box" type="Box">77</container>
+ <unittitle><title linktype="simple">Frosted 1C27</title>. <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.46">
+ <did>
+ <container label="Box" type="Box">78</container>
+ <unittitle><title linktype="simple">The 14th of February</title>. <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.47">
+ <did>
+ <container label="Box" type="Box">81</container>
+ <unittitle><title linktype="simple">Found Poems</title>. Millerton, New York: Something Else Press. <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Paperback edition with holograph notes and signature.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.48">
+ <did>
+ <container label="Box" type="Box">83</container>
+ <unittitle><title linktype="simple">Founds</title>, vol.3. n.p. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.49">
+ <did>
+ <container label="Box" type="Box">84</container>
+ <unittitle><title linktype="simple">Hand Fashioned Chocolates</title>. n.p.,. <unitdate calendar="gregorian" era="ce">ca. 1972.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.50">
+ <did>
+ <container label="Box" type="Box">86</container>
+ <unittitle><title linktype="simple">Founds</title>, vol.1. <unitdate calendar="gregorian" era="ce">1968-1972.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.51">
+ <did>
+ <container label="Box" type="Box">86</container>
+ <unittitle><title linktype="simple">Mothering Time: Selected Works</title>. <unitdate calendar="gregorian" era="ce">1928-1973 .</unitdate> Published by Black Sparrow Press: Los Angeles. <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ <physdesc> Original typescript.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.52">
+ <did>
+ <container label="Box" type="Box">87</container>
+ <unittitle><title linktype="simple">Founds</title>, vol.2. <unitdate calendar="gregorian" era="ce">1968-1972.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.53">
+ <did>
+ <container label="Box" type="Box">87</container>
+ <unittitle><title linktype="simple">Trattoria Due Forni</title>.</unittitle>
+ <physdesc> First of two copies.</physdesc>
+ </did>
+ <note>
+ <p>Porter also made the case by hand.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.54">
+ <did>
+ <container label="Box" type="Box">88</container>
+ <unittitle><title linktype="simple">Where to go / what to do / when in New York / week of June 12, 1972</title>, by Bern Porter. n.p. <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ <physdesc> Copy 146 of 250 copies.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.55">
+ <did>
+ <container label="Box" type="Box">88</container>
+ <unittitle>no.1: <title linktype="simple">Life in Alabama</title>.</unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ <scopecontent>
+ <p>A collection of papers.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.56">
+ <did>
+ <container label="Box" type="Box">89</container>
+ <unittitle>no.2: <title linktype="simple">Life in Alabama</title>.</unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.57">
+ <did>
+ <container label="Box" type="Box">89</container>
+ <unittitle>no.3: <title linktype="simple">Life in Alabama</title>.</unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.58">
+ <did>
+ <container label="Box" type="Box">101</container>
+ <unittitle><title linktype="simple">Found Object</title>. <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+ <physdesc> Only copy.</physdesc>
+ </did>
+ <note>
+ <p>Case by Bernard Porter, 1971.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.59">
+ <did>
+ <container label="Box" type="Box">98</container>
+ <unittitle><title linktype="simple">The Manhattan telephone book</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.60">
+ <did>
+ <container label="Box" type="Box">98</container>
+ <unittitle>Poems. <unitdate calendar="gregorian" era="ce">1984.</unitdate></unittitle>
+ <physdesc> Holograph and photocopy.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Written on this around-the-world trip. <unitdate calendar="gregorian" era="ce">January-March 1984.</unitdate></p>
+ </scopecontent>
+ </c02>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
