@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier=" http://www.oac.cdlib.org/findaid/ark:/13030/c8ws8v1b">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::94/171::Hazard-Dyson Los Angeles photograph album)//EN" "haz94171.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Hazard-Dyson Los Angeles photograph album, 1880-1910</titleproper>
+<titleproper type="filing">Hazard-Dyson Los Angeles photograph album</titleproper>
+<author>Processed by Jane Carpenter with assistance from Simon Elliott; machine-readable finding aid created by Caroline Cub&#x00E9;.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2013</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from MARC record, encoding added via  Notetab Pro. Date of source: <date>2013</date>. Supplementary encoding and revision by Caroline Cub&#x00E9;.</creation>
+<langusage>Description is in <language langcode="eng" 
+scriptcode="Latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Hazard-Dyson Los Angeles photograph album</unittitle>
+<unitdate type="inclusive" normal="1880/1910">1880-1910</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">94/171</unitid>
+<origination label="Creator">
+<persname rules="aacr2">Hazard, George Washington, 1842-1914. </persname></origination>
+<physdesc label="Physical Description">
+<extent>1 album (989 photographic prints) : b&#x0026;w, 38 x 48 cm (album)</extent>
+<physfacet><lb/>Photographs are mounted on rectos and versos of thin cardboard leaves, many of which have been re-purposed from some other text, with up to 16 photos per page; ms. captions below for about half of the photos.</physfacet>
+<physfacet><lb/>Bound in brown cloth album, with black grained cloth spine and corners.</physfacet>
+<physfacet><lb/>Spec. Coll. copy: leaves disbound, with upper cover wanting; numerous photographs have been removed, leaving behind traces of glue. In modern beige cloth clamshell box, with box title "Hazard-Dyson Los Angeles Photograph Album."</physfacet>
+</physdesc>
+<abstract label="Abstract">Album, compiled by G.W. Hazard, containing 989 photographs of early Los Angeles and surrounding cities. </abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<langmaterial label="Language of the Material">
+Materials are in English.
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Hazard-Dyson Los Angeles photograph album (Collection 94/171). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233582">4233582</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography/History</head>
+<p>Hazard began compiling his extensive collection of photographs of historical persons and places relating to the history of Los Angeles in the 1880s, which he planned to use in writing his "History of Los Angeles and vicinity." When Hazard died in 1914, Verne Dyson, a writer for the Los Angeles Times and manager of the Pasadena News Bureau, purchased the collection from the Hazard family. Dyson continued to add to the collection, with the intention of finishing and producing Hazard's work. Although Dyson did complete a manuscript (now in the
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt358004g7/" actuate="onrequest" show="new">Verne Dyson Papers, 1914-1962 (Collection 804)
+</extref> in Special Collections), and issued a 30-p. prospectus for the work in 1914, it was never published. </p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>The album contains mainly photographs--both amateur snapshots, most likely by Hazard himself, and stock commercial photographs by such studios as F.H. Maude, Baldwin Foto, and Garden City Foto Company-- as well as printed illustrations removed from other texts, and feature articles from local newspapers on topics related to the history of Los Angeles. Hazard collected many small snapshots of old homes and cottages in what is the downtown area of Los Angeles today, as well as in neighboring cities such as El Monte, Boyle Heights, Pasadena, Huntington Beach, San Pedro, Whittier, Riverside, San Fernando, Redondo Beach, Redlands, Pomona, and Wilmington. Often the homes belong--or once belonged--to early settlers and residents of the area, or to those active in early local government or business, such as the historian J.M. Guinn, Maj. Edwin A. Sherman, Andr&#x00E9;s Pico, brother of Pio Pico, Horace Bell, David C. Cook, publisher of religious books, and founder of Piru, and W.H. Workman, Stephen C. Foster, and Henry T. Hazard, all former mayors of Los Angeles. Many of the photos document early Los Angeles streetscapes and buildings, such as the Los Angeles Infirmary--known as the old Sisters Hospital--the first hospital in Los Angeles; cable cars at the top of Bunker Hill on the Second and Spring Street line; the original Raymond Hotel in Pasadena; the Rubio Hotel at the head of the incline railroad leading up to Mt. Lowe in Altadena, early ranchos, such as Rancho Cota in Riverside County, Rancho Camulos, home of Helen Hunt Jackson's Ramona, near Piru, Rancho Palomares in Pomona, Rancho San Joaqu&#x00ED;n, near Santa Ana, and the Rancho Diego Sepulveda near Palos Verde; and the California missions in San Diego, San Gabriel, San Juan Capistrano, and San Fernando. There are photos from 1907 taken at the ceremony celebrating the 60th anniversary of Fort Moore, built in 1847 by the Mormon Battalion during the Mexican American War. Overall, the photographs provide a wealth of information on local architecture and home decoration of the period, transportation such as horse carriages and trolley cars, clothing and dress, hairstyles, agriculture, and the indigenous peoples of the area. Local industries and businesses are also represented, including a pickle factory, olive mill, saddleries, smelters, bee-keeping, mining, and fishing out of San Pedro. There are interesting photos of social groups such as the Pioneers, and the Ohio state society, of San Bernardino.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Bell, Horace, 1830-1918 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Burns, Lucretia Burdick, 1829-1920 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Cook, David C. (David Caleb), 1850-1927 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Foster, Stephen Clark, 1820-1898 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Guinn, J. M. (James Miller), 1834-1918 --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Hazard, Henry T., 1844-1921 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Hollenbeck, John Edward, 1829-1885 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Johnston, Hancock M., 1847-1904 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">McDonald, E.N. (Edward Nathaniel), 1832-1899 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Papineau, Ottley, fl. 1846-1910 --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Pico, Andr&#x00E9;s, 1810-1876 --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Quinn, Michael F., 1836-1911 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Roosevelt, Theodore, 1858-1919 --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Schieffelin, Edward, 1847-1897 --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Sherman, Edwin A. (Edwin Allen), 1829-1914 --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Tiffany, George A., fl. 1871-1873 --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Toberman, James R., 1836-1911 --Homes and haunts --Photographs.</persname>
+<persname role="subject" source="lcnaf" encodinganalog="600">Workman, William Henry, 1939-1918 --Photographs.</persname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Los Angeles City Hall (Los Angeles, Calif.) --Photographs.</corpname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Raymond Hotel (Pasadena, Calif.) --Photographs.</corpname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Rubio Hotel (Los Angeles County, Calif.) --Photographs.</corpname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Los Angeles Infirmary (Los Angeles, Calif.) --Photographs.</corpname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Mission San Juan Capistrano --Photographs.</corpname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Mission San Gabriel Arcangel (San Gabriel, Calif.) --Photographs.</corpname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">San Diego Mission --Photographs.</corpname>
+<geogname source="lcnaf" encodinganalog="651">San Fernando, Rey de Espa&#x00F1;a (Mission : San Fernando, Calif.) --Photographs.</geogname>
+<subject source="lcsh" encodinganalog="650">Architecture, Domestic --California --Los Angeles --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Church buildings --California, Southern --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Interior decoration --California, Southern --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Hospitals --California --Los Angeles --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Missions --California --Los Angeles --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Olive oil mills --California --Los Angeles --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Ranches --California --Los Angeles --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Saddlery --California --Los Angeles --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Trolley cars --California --Los Angeles --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Indians of North America --California --Colton --Photographs.</subject>
+<geogname source="lcnaf" encodinganalog="651">Los Angeles (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Los Angeles (Calif.) --Buildings, structures, etc. --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Camulos (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Boyle Heights (Los Angeles, Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Huntington Beach (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">San Pedro (Los Angeles, Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">El Monte (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Riverside (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">San Fernando (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Pasadena (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Arroyo Seco (Los Angeles County, Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Redondo Beach (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Pomona (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Wilmington (Los Angeles, Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Redlands (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">San Bernardino (Calif.) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">San Bernardino County (Calif.) --Photographs.</geogname>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="gmgpc" encodinganalog="655">Photographic prints.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Photograph albums.</genreform>
+<controlaccess>
+<head>Other Index Terms Related to this Collection</head>
+<persname encodinganalog="700">Maude, F. H. (Frederic Hamer), photographer.</persname>
+<persname encodinganalog="700">Dyson, Verne, 1879-</persname>
+<corpname source="lcnaf" encodinganalog="710">Garden City Foto Company.</corpname>
+<corpname source="lcnaf" encodinganalog="710">Baldwin Foto.</corpname>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<relatedmaterial encodinganalog="544">
+<head>Related Material</head>
+<p>Part of the
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt6489s0cc/" actuate="onrequest" show="new">Photograph Album Collection (Collection 94)
+</extref> in UCLA Library Special Collections.</p>
+<p>For background on George Hazard's work, see the prospectus for "History of Los Angeles and vicinity: from the earliest settlement to the present time" (Los Angeles: Hazard Historical Association, 1914), available in UCLA Library Special Collections.</p>
+</relatedmaterial>
+</archdesc>
+</ead>
