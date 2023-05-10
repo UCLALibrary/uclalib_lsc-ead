@@ -1,0 +1,4092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD)
+Version 2002)//EN" "ead.dtd">
+
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier="ARK:/13030/tf3m3nb1x3">PUBLIC "-//University of California, Los
+Angeles::Library Special Collections//TEXT
+(US::CLU-SC::638::Raymond Chandler Papers)//EN" "chand638.xml"
+</eadid><filedesc><titlestmt>
+<titleproper>Finding Aid for the Raymond Chandler Papers, 1930-1959</titleproper>
+<titleproper type="filing">Chandler (Raymond) Papers</titleproper>
+<author>Processed by UCLA Library Special Collections staff; machine-readable finding aid created by Caroline Cub&#x00E9; and edited by Josh Fiala.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+  <addressline>UCLA Library Special Collections staff</addressline>
+  <addressline>Room A1713, Charles E. Young Research Library</addressline>
+  <addressline>Box 951575</addressline>
+  <addressline>Los Angeles, CA 90095-1575</addressline>
+  <addressline>Email: spec-coll@library.ucla.edu</addressline>
+  <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2005</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Text rekeyed by Caroline Cub&#x00E9; from in-house paper finding aid, <date>January 2005</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date>unknown</date>.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Raymond Chandler Papers, </unittitle>
+<unitdate type="inclusive" normal="1930/1959">1930-1959</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">638</unitid>
+<origination label="Creator"><persname role="subject" source="lcnaf">Chandler, Raymond, 1888-1959</persname></origination>
+<physdesc label="Extent"><extent>13 boxes (6.5 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+<abstract label="Abstract">Raymond Thornton Chandler (1888-1959) published his first novel, <title>The Big Sleep</title>, to great success in 1939 and began writing screenplays in 1944. The collection consists of correspondence, books, photographs, speeches, and literary manuscripts by Raymond Chandler.</abstract>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library Special Collections.</corpname>
+<address>
+<addressline>Los Angeles, California 90095-1575</addressline>
+</address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo><head>Provenance/Source of Acquisition</head>
+<p><list type="simple">
+<item>Gift of Raymond Chandler, 1954-1958.</item>
+<item>Gift of James Sandoe, 1961.</item>
+</list></p>
+</acqinfo>
+<prefercite>
+<head>Preferred Citation</head>
+<p>[Identification of item], Raymond Chandler Papers (Collection 638). UCLA Library Special Collections, Charles E. Young Research Library.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=964180">964180</extref></p>
+</odd>
+</descgrp>
+<bioghist>
+<head>Biography</head>
+<p>Born Raymond Thornton Chandler in Chicago on July 23, 1888; studied at Dulwich College, London, and privately in France and Germany; began career as contributor of verse, essays, book reviews and special articles to daily and weekly papers in London, 1909; served with Canadian Expeditionary Force and R.A.F. during World War I; afterwards, returned to U.S. to become an officer in various independent oil corporations; began writing fiction contributions to magazines in 1933; published his first novel, <title>The Big Sleep</title>, to great success in 1939, followed by <title>Farewell, My Lovely</title> (1940), <title>The Long Good-Bye</title> (1954) and others; began writing and mostly co-writing screenplays in 1944; his best known screenplay is <title>Double Indemnity</title>, based on James Cain's novel; died in La Jolla, California, March 26, 1959.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content</head>
+<p>Collection consists of correspondence, books, photographs, speeches, and literary manuscripts by Raymond Chandler. Includes manuscripts for <title>The Little Sister</title>, <title>The Long Good-Bye</title>, <title>Playback and the Poodle Springs Story</title>. Also includes Billy Wilder's copy of the screenplay of <title>Double Indemnity</title> and various writings about and interviews with Chandler.</p>
+</scopecontent>
+<arrangement>
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: <list type="ordered">
+<item>Photographs (Box 1).</item>
+<item>Correspondence (Boxes 1-2).</item>
+<item>Writings by Chandler (Boxes 2-8,12-13).</item>
+<item>Screenplays by Chandler (Boxes 8-9; 13).</item>
+<item>Writings about Chandler (Boxes 9-12).</item>
+<item>Correspondence with James Sandoe (Box 1).</item>
+<item>Books by and about Raymond Chandler, including translations in various languages (Boxes 15-58).</item>
+</list></p>
+</arrangement>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Chandler, Raymond, 1888-1959--Archives.</persname>
+<occupation source="lcsh" encodinganalog="650">Authors, American--20th century--Archival resources.</occupation>
+<occupation source="lcsh" encodinganalog="650">Screenwriters--United States--Archival resources.</occupation>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Manuscripts for publication.</genreform>
+<genreform source="rbgenr" encodinganalog="655">Mystery and detective fiction.</genreform>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 level="series">
+<did>
+<unittitle>Photographs</unittitle>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>Cissy Chandler. Los Angeles.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (6.75 &#x00D7; 8.75&#x0201D;).</physdesc>
+</did>
+<scopecontent>
+<p>Photograph by J.W. Siefert.</p>
+</scopecontent>
+<note><p>Gift of Ed Smith [nephew of Cissy and Raymond Chandler], 1989.</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>Cissy Chandler as a young woman. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (3.875&#x0201D; - Photograph, mounted on board, has been cut into a circle).</physdesc>
+</did>
+<scopecontent>
+<p>Photographer unknown.</p>
+</scopecontent>
+<note><p>Gift of Ed Smith, 1989.</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>Lavinia Smith [sister of Cissy Chandler]. New York.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (2 items: 4.33 &#x00D7; 4.75&#x0201D; and 4 &#x00D7; 5.5&#x0201D;).</physdesc>
+</did>
+<scopecontent>
+<p>Photograph by Davis &#x0026; Sanford.</p>
+<p>With another copy cut into an oval.</p>
+</scopecontent>
+<note><p>Gift of Ed Smith, 1989.</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Lavinia Smith [sister of Cissy Chandler]. New York.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (6 &#x00D7; 7.75&#x0201D;).</physdesc>
+</did>
+<scopecontent>
+<p>&#x0201C;Vinnie at 16&#x0201D; by Davis &#x0026; Sanford.</p>
+</scopecontent>
+<note><p>Gift of Ed Smith, 1989.</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle>Raymond Chandler in a World War I Canadian army uniform. Seaford.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (2 items: 3.875 &#x00D7; 5.75&#x0201D; and 8 &#x00D7; 10&#x0201D; copy - With black and white copy print).</physdesc>
+</did>
+<scopecontent>
+<p>Portrait by Mina Whiting.</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, January 1960.</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle>Raymond Chandler and other writers from <title>Black Mask</title>. [Los Angeles&#x003F;].</unittitle>
+<unitdate>January 11, 1936</unitdate>
+<physdesc> (3 items: 8 &#x00D7; 10&#x0201D;).</physdesc>
+</did>
+<note>
+<p>The original photograph, mounted on a linen tablecloth and signed by the authors present, is in the Joseph Shaw papers (collection 2052), box 6.</p>
+</note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle>Raymond Chandler and Billy Wilder. [Hollywood].</unittitle>
+<unitdate>1944</unitdate>
+<physdesc> (8 &#x00D7; 10&#x0201D;).</physdesc>
+</did>
+<scopecontent>
+<p>Taken on the set of &#x0201C;Double Indemnity.&#x0201D;</p>
+</scopecontent>
+<note>
+<p>11 &#x00D7; 14&#x0201D; print is in oversize box 14, folder 3.</p>
+</note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle>Raymond Chandler and Taki. La Jolla.</unittitle>
+<unitdate>September 4, 1948</unitdate>
+<physdesc> (8 &#x00D7; 10&#x0201D;).</physdesc>
+</did>
+<scopecontent>
+<p>Inscribed to James Sandoe, photograph by John Engstead. &#x0201C;Dear Sandoe: I had to hold Taki's tail to keep it still. Raymond Chandler, La Jolla 9/4/48.&#x0201D;</p>
+</scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">9</container>
+<unittitle>Raymond Chandler. La Jolla.</unittitle>
+<unitdate>February 1958</unitdate>
+<physdesc> (3.25 &#x00D7; 4.25&#x0201D; and 8 &#x00D7; 10&#x0201D; - With 2 [8 &#x00D7; 10&#x0201D;] copy prints).</physdesc>
+</did>
+<scopecontent>
+<p>Chandler holding a glass, photograph by Vincent Fracasse.</p>
+</scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">10</container>
+<unittitle>Raymond Chandler. La Jolla.</unittitle>
+<unitdate>February 1958</unitdate>
+<physdesc> (3 &#x00D7; 5&#x0201D;).</physdesc>
+</did>
+<scopecontent>
+<p>Chandler putting on gloves, photograph by Vincent Fracasse.</p>
+</scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">11</container>
+<unittitle>Raymond Chandler. London.</unittitle>
+<unitdate>1958</unitdate>
+<physdesc> (2 items, 3.5 &#x00D7; 4.5&#x0201D; and 8 &#x00D7; 10&#x0201D; - 8 &#x00D7; 10&#x0201D; is copy print).</physdesc>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>Raymond Chandler and Billy Wilder. [Hollywood].</unittitle>
+<unitdate>1944</unitdate>
+<physdesc> (11 &#x00D7; 14&#x0201D;).</physdesc>
+</did>
+<scopecontent>
+<p>Taken on the set of &#x0201C;Double Indemnity.&#x0201D;</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c02 level="series">
+<did>
+<unittitle>Personal</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">18</container>
+<unittitle>Raymond Chandler - University of California, Los Angeles. La Jolla.</unittitle>
+<unitdate>March 18, 1952</unitdate>
+<physdesc> (1 leaf).</physdesc>
+</did>
+<scopecontent>
+<p>Letter to Lawrence Clark Powell.</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Ralph Lyon, Jr. - Raymond Chandler. Los Angeles.</unittitle>
+<unitdate>March 18, 1955</unitdate>
+<physdesc> (1 leaf).</physdesc>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">11</container>
+<unittitle>Raymond Chandler - Lawrence Clark Powell. La Jolla.</unittitle>
+<unitdate>December 3, 1956</unitdate>
+<physdesc> (1 leaf).</physdesc>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle>Raymond Chandler - Arthur Lovell. La Jolla.</unittitle>
+<unitdate>circa 1950 and 1954</unitdate>
+<physdesc> (8 items).</physdesc>
+</did>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle><unitdate>circa 1954</unitdate>.</unittitle>
+<physdesc> (1 leaf).</physdesc>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle><unitdate>August 26, 1954</unitdate>.</unittitle>
+<physdesc> (1 leaf).</physdesc>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle><unitdate>July 5, 1954</unitdate>.</unittitle>
+<physdesc> (1 postcard).</physdesc>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle><unitdate>May 31, 1954</unitdate>.</unittitle>
+<physdesc> ([2pp.] - postcard).</physdesc>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle><unitdate>February 9, 1954</unitdate>.</unittitle>
+<physdesc> (1 leaf).</physdesc>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle><unitdate>December 19, 1950</unitdate>.</unittitle>
+<physdesc> (1 leaf).</physdesc>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle><unitdate>December 6, 1950</unitdate>.</unittitle>
+<physdesc> (1 leaf).</physdesc>
+</did>
+<scopecontent>
+<p>With Lovell's holograph draft reply on the verso.</p>
+</scopecontent>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle><unitdate>November 29, 1950</unitdate>.</unittitle>
+<physdesc> (1 leaf).</physdesc>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">28</container>
+<unittitle>Raymond Chandler - Philip Durham. La Jolla.</unittitle>
+<unitdate>September 5, 1958</unitdate>
+<physdesc> (1 leaf).</physdesc>
+</did>
+<scopecontent>
+<p><emph render="italic">re</emph> reprinting Chandler's article &#x0201C;The simple art of murder.&#x0201D;</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">29</container>
+<unittitle>Raymond Chandler - Robert Campigny. La Jolla.</unittitle>
+<unitdate>February 7, 1958</unitdate>
+<physdesc> (1 leaf).</physdesc>
+</did>
+<scopecontent>
+<p>The letter is in French. An English translation is with it.</p>
+</scopecontent>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence About Raymond Chandler</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>James Sandoe to Orville Prescott and Robert Van Gelder. [Boulder].</unittitle>
+<unitdate>July 30, 1943</unitdate>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>Orville Prescott to James Sandoe. New York.</unittitle>
+<unitdate>August 3, 1943</unitdate>
+<physdesc> (Typescript signed).</physdesc>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>James Sandoe to Bernard Smith. Boulder.</unittitle>
+<unitdate>December 29, 1943</unitdate>
+<physdesc> (1 leaf, typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>Sydney A. Sanders to James Sandoe. New York.</unittitle>
+<unitdate>April 26, 1945</unitdate>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>James Sandoe to &#x0201C;Sanders.&#x0201D; Boulder.</unittitle>
+<unitdate>April 30, 1945</unitdate>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle> Bernard Smith, Alfred A. Knopf, Incorporated to James Sandoe. New York.</unittitle>
+<unitdate>1943</unitdate>
+</did>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>May 19, 1943</unitdate>.</unittitle>
+<physdesc> (1 leaf, typescript signed on verso).</physdesc>
+</did>
+<scopecontent>
+<p><emph render="italic">re</emph> letters to Van Gelder, Prescott, Cupp and Gannett.</p>
+<p>[Also,] Sandoe's reply, July 29, 1943 (typescript carbon).</p>
+</scopecontent>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>August 2, 1943</unitdate>.</unittitle>
+<physdesc> (Typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>August 10, 1943</unitdate>.</unittitle>
+<physdesc> (Typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>January 3, 1944</unitdate>.</unittitle>
+<physdesc> (Typescript signed).</physdesc>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>James Sandoe to &#x0201C;Miss Dunham.&#x0201D; Boulder.</unittitle>
+<unitdate>August 23, 1947</unitdate>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence Between Raymond Chandler and James Sandoe</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folders ">13, 17</container>
+<unittitle>Raymond Chandler to James Sandoe. v.p.</unittitle>
+<unitdate>1944-1954</unitdate>
+</did>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>n.p.</unittitle>
+<unitdate>November 8, 1946</unitdate>
+<physdesc> (1 leaf [1p.], typescript carbon, signed).</physdesc>
+</did> 
+<scopecontent>
+<p>With typescript note.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle>London.</unittitle>
+<unitdate>October 7, 1952</unitdate>
+<physdesc> (1 leaf [1p.] - Autograph letter signed, postcard).</physdesc>
+</did> 
+<note><p>Postmarked 7 October 1952.</p></note>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folders ">12-13</container>
+<unittitle>Raymond Chandler to James Sandoe. Hollywood.</unittitle>
+<unitdate>1944-1946</unitdate>
+</did>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>January 26, 1944</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+<scopecontent>
+<p>Paramount Pictures Incorporated letterhead.</p>
+<p>Signed &#x0201C;Ray Chandler.&#x0201D; With discussion of comparison with James Cain.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>April 11, 1944</unitdate>.</unittitle>
+<physdesc> (Typescript signed).</physdesc>
+</did>
+<scopecontent>
+<p>Paramount Pictures Incorporated letterhead.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>January 15, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+<scopecontent>
+<p>With pencil notes by James Sandoe[&#x003F;].</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>January 26, 1945</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed, Signed &#x0201C;Ray.&#x0201D;).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>February 10, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>April 4, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>July 3, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folders ">12-13</container>
+<unittitle>Raymond Chandler to James Sandoe. Los Angeles</unittitle>
+<unitdate>1944-1946</unitdate>
+</did>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>Postmark is October 2, 1944</unitdate> (Card is not dated).</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>December 16, 1944</unitdate>.</unittitle>
+<physdesc> (1 leaf, typescript and typescript signature).</physdesc>
+</did> 
+<scopecontent>
+<p>Chandler's address: 6520 Drexel Avenue, Los Angeles 36.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>August 18, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>August 28, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>September 9, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>November 9, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>November 28, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>May 30, 1946</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>June 17, 1946</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript).</physdesc>
+</did> 
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folders ">13-17</container>
+<unittitle>Raymond Chandler to James Sandoe. La Jolla.</unittitle>
+<unitdate>1946-1954</unitdate>
+</did> 
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>October 2, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>October 17, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript with holograph corrections).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>December 6, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>December 12, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>January 21, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>February 7, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>March 8, 1947</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>March 18, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>May 3, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>June 7, 1947</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>June 23, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>July 14, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>July 28, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>August 10, 1947</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>August 21, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript with holograph corrections).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>September 14, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>October 2, 1947</unitdate>.</unittitle>
+<physdesc> (5 leaves [5pp.] - typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>October 13, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>November 7, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>n.p.</unittitle>
+<unitdate>December 21, 1947.</unitdate>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>January 27, 1948</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript).</physdesc>
+</did>
+<scopecontent>
+<p>&#x0201C;Dictated by not signed by Raymond Chandler. mo.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>February 1, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript with holograph note postcard).</physdesc>
+</did>
+<note><p>Postmarked February 1 or 11[&#x003F;]</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>February 7, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], telegram).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>February 26, 1948</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>February 27, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>March 1, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>March 18, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>April 1, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did>
+<scopecontent>
+<p>Chandler has noted All Fools Day.</p>
+</scopecontent>
+<note><p>Postmarked April 2.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>April 5, 1948</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>April 16, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>May 12, 1948</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>August 9, 1948</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>August 30, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>September 23, 1948</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>October 4, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>October 11, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>October 12, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed postcard).</physdesc>
+</did>
+<note><p>Postmarked 13 October 1948.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>October 17, 1948</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>October 24, 1948</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>November 18, 1948</unitdate>.</unittitle>
+<physdesc> (2 leaves [3pp.], typescript with holograph corrrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>December 6, 1948</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>n.d.</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did> 
+<note><p>Postmarked December 8, 1948.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>December 21, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>December 15, 1948</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>December 22, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>December 30, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>January 13, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>January 24, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>January 25, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>February 25, 1949</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>March 4, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>March 26, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript postcard).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>April 10, 1949</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>April 14, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>May 3, 1949</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>May 12, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>May 14, 1949</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>May 20, 1949</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>May 23, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>June 2, 1949</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>June 16, 1949</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>August 10, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed postcard).</physdesc>
+</did>
+<note><p>Postmarked August 11, 1949.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>August 15, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>August 22, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript with holograph corrections postcard).</physdesc>
+</did>
+<note><p>Postmarked 22 August 1949.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>September 14, 1949</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>September 20, 1949</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>October 14, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>November 6, 1949</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>November 19, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>November 21, 1949</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>December 4, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>December 16, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>December 28, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed with holograph corrections).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>January 25, 1950</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>October 9, 1950</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>December 7, 1950</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>January 10, 1951</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>February 20, 1951</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>February 26, 1951</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>March 6, 1951</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>March 31, 1951</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>September 25, 1951</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>October 31, 1951</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>December 27, 1951</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>January 10, 1952</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], Telegram).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>January 10, 1952</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>April 14, 1952</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>July 30, 1952</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>August 11, 1952</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>January 6, 1953</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>February 4, 1953</unitdate>.</unittitle>
+<physdesc> (3 leaves [3pp.], typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>March 16, 1953</unitdate>.</unittitle>
+<physdesc> (4 leaves [4pp.] with 1 envelope - typescript with holograph corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>p.1 is a postcard followed by 3 typescript pages and an envelope addressed in Chandler's.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>March 26, 1954</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript signed postcard).</physdesc>
+</did> 
+<note><p>Postmarked 27 March 1954.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>April 8, 1954</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript with holograph corrections, postcard).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>May 26, 1954</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript signed).</physdesc>
+</did> 
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folders ">12-17</container>
+<unittitle>James Sandoe to Raymond Chandler. Boulder.</unittitle>
+<unitdate>1944-1954</unitdate>
+</did>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>January 8, 1944</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>January 12, 1944</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>January 22, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>January 23, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>April 11, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>August 12, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>August 22, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>August 23, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>August 31, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><unitdate>September 16, 1945</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>January 9, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>February 3, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>May 7, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>June 6, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>July 5, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>September, 25, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>October 14, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>October 19, 1946</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>February 19, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>March 24, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>April 29, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>June 11, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>July 15, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>July 17, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>August 5, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>August 14, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>September 25, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>November 3, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>November 12, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><unitdate>December 16, 1947</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>February 3, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>February 8, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>March 1, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>March 22, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>April 19, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>June 16, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>July 21, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>September 19, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>October 3, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>October 13/14, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>October 30, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>December 1, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>December 10, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><unitdate>December 26, 1948</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>January 5, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>January 10, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>January 16, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>January 19, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>January 31, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>March 20, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>April 30, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>May 6, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>May 17, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon, carbon folded[&#x003F;]).</physdesc>
+</did>
+<scopecontent>
+<p>Lower left corner: Part of the text is missing.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>May 29, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>June 9, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>August 30, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>September 16, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>September 25, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>October 31/November 1, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>November 13, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>December 11, 1949</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><unitdate>[1949 &#x003F;]</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+<scopecontent>
+<p>Lacking first page. &#x0201C;49&#x003F;&#x0201D; is pencilled in the upper right corner in an unidentified hand.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>January 30, 1950</unitdate>.</unittitle>
+<physdesc> (1 leaf [1p.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>November 25, 1950</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>January 1, 1951</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>February 23/24, 1951</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript carbon).</physdesc>
+</did>
+<scopecontent>
+<p>Date has been penciled in on both pages.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>March 14, 1951</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>May 15, 1951</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>October 8, 1951</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><unitdate>December 30/31, 1951</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript carbon).</physdesc>
+</did>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>March 30/31, 1952</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>July 16/17, 1952</unitdate>.</unittitle>
+<physdesc> (1 leaf [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><unitdate>March 18/19, 1954</unitdate>.</unittitle>
+<physdesc> (2 leaves [2pp.], typescript carbon).</physdesc>
+</did> 
+</c04>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence - [Miscellaneous]</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>Raymond Chandler to Hamish Hamilton. La Jolla.</unittitle>
+<unitdate>June 11, 1947</unitdate>
+<physdesc> (2 leaves [2pp.], typescript carbon, signed).</physdesc>
+</did> 
+<scopecontent>
+<p>Chandler has penciled &#x0201C;Sandoe&#x0201D; on this carbon.</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle>Gordon R. Williams, Brentano's, to Raymond Chandler. Los Angeles.</unittitle>
+<unitdate>December 21, 1948</unitdate>
+<physdesc> (1 leaf [1p.], typescript signed).</physdesc>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Personal: Professional Organizations</unittitle>
+</did> 
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">30</container>
+<unittitle>Mystery Writers Association - Manuscript. La Jolla.</unittitle>
+<unitdate>1959</unitdate>
+<physdesc> (3 items: 10pp. - typescript with holograph corrections, newsletter, photocopy).</physdesc>
+</did> 
+<scopecontent>
+<p>Speech for Mystery Writers Association Meeting in New York. RC's speech typed on blue index cards.</p>
+<p>With copy of <title>The Third Degree</title>, Mystery Writers Association newsletter for February 1959, and photocopy of Raymond Chandler's speech.</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, May 1959.</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Writings By Raymond Chandler</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Unpublished</unittitle>
+</did> 
+<c03 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">31</container>
+<unittitle><title>The Trench Raid</title> - Manuscript. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (1 leaf, typescript with holograph corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>Apparently unpublished fragment about World War I.</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, January 1960.</p></note>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Published</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box" label="Boxes ">4-9</container>
+<unittitle>Manuscripts. n.p.</unittitle>
+<unitdate>1911-1959</unitdate>
+</did> 
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">34</container>
+<unittitle><title>The King</title>. n.p.</unittitle>
+<unitdate>circa (1911)</unitdate>
+<physdesc> (1 leaf, typescript).</physdesc>
+</did> 
+<scopecontent>
+<p>With note in red ink, &#x0201C;Published, probably around 1911, in either <title>The Academy</title> (England) or <title>The Westminster Gazette</title>.&#x0201D;</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, January 1960.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle><title>Studies in Extinction</title>. La Jolla.</unittitle>
+<unitdate>circa 1948</unitdate>
+<physdesc> (4 leaves, typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>Review of <title>Murder Plain and Fanciful</title> by James Sandoe. <title>Murder Plain and Fanciful</title> was published by Sheridan House, New York 1948.</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, January 1960.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">11</container>
+<unittitle><title>The Little Sister</title>. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (280 leaves, typescript carbon with holograph corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>Published by Houghton Mifflin, Boston, 1949.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><title>Casual notes on the mystery novel</title>. n.p.</unittitle>
+<unitdate>1949</unitdate>
+<physdesc> (5 leaves, typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>Published in <title>The Writer</title> (vol.76, no.7). Boston, July 1963.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><title>A Couple of Writers</title>. La Jolla.</unittitle>
+<unitdate>January 27, 1950</unitdate>
+<physdesc> (31 leaves, typescript with numerous holograph corrections).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folders ">5-6</container>
+<unittitle><title>The Long Good-Bye</title>. La Jolla.</unittitle>
+<unitdate>1953</unitdate>
+</did> 
+<note><p>First published by Houghton Mifflin, Boston, 1954.</p></note>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle>pp.1-217 of 425.</unittitle>
+<physdesc> (Typescript with corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 1 of 2.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle>pp.218-425 of 425.</unittitle>
+<physdesc> (Typescript with corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 2 of 2.</p>
+</scopecontent>
+</c05>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle><title>Requiem</title>. n.p.</unittitle>
+<unitdate>January 1955</unitdate>
+<physdesc> (1 leaf).</physdesc>
+</did> 
+<scopecontent>
+<p>Author's proof.</p>
+<p>With Raymond Chandler's holograph note: &#x0201C;Perfect as far as I can see (the proof I mean, not the poem). Raymond Chandler.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folders ">9-14</container>
+<unittitle><title>Crosstown With Neil Morgan</title>.</unittitle>
+<unitdate>1956-1957</unitdate>
+</did> 
+<scopecontent>
+<p>&#x0201C;Crosstown&#x0201D; was a featured column in the <title>San Diego Evening Tribune</title>.</p>
+<p>Material in folders 9-14 relate to or are by Raymond Chandler.</p>
+</scopecontent>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">9</container>
+<unittitle>&#x0201C;My San Diego.&#x0201D; San Diego.</unittitle>
+<unitdate>August 28, 1956</unitdate>
+<physdesc> (2 leaves [2pp.], typescript).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">10</container>
+<unittitle>Letter from Raymond Chandler to Neil Morgan expressing appreciation of his &#x0201C;Crosstown&#x0201D; column. La Jolla.</unittitle>
+<unitdate>August 30, 1956</unitdate>
+<physdesc> (3 items: 1 leaf and 2 copies - photostatic copy and 2 carbon copies).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">11</container>
+<unittitle>Guest column by Raymond Chandler. San Diego.</unittitle>
+<unitdate>March 1, 1957</unitdate>
+<physdesc> (3 leaves, typescript).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>&#x0201C;Reader's right&#x0201D; by Raymond Chandler. San Diego.</unittitle>
+<unitdate>June 4, 1957</unitdate>
+<physdesc> (3 leaves, typescript).</physdesc>
+</did> 
+<scopecontent>
+<p>Raymond Chandler's rebuttal to an article by Rene MacColl in the <title>London Daily Express</title>.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>Guest column by Raymond Chandler on love and marriage. San Diego.</unittitle>
+<unitdate>July 12, 1957</unitdate>
+<physdesc> (2 leaves, typescript).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle>&#x0201C;Reader's right&#x0201D; by Raymond Chandler on Carmichael and Grunion. San Diego.</unittitle>
+<unitdate>March 8, 1958</unitdate>
+<physdesc> (2 leaves, typescript).</physdesc>
+</did> 
+</c05>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Boxes ">5-7</container>
+<unittitle><title>Playback</title>.</unittitle>
+<unitdate>1958</unitdate>
+</did> 
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle>Half-sheet original with enclosures. La Jolla.</unittitle>
+<unitdate>January 28, 1958</unitdate>
+<physdesc> (pp.1-92 of 317 leaves - typescript with holograph corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>With 2pp. of points to check.</p>
+<p>Folder 1 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle>Half-sheet original. La Jolla.</unittitle>
+<unitdate>January 28, 1958</unitdate>
+<physdesc> (pp.93-182 of 317 leaves - typescript with holograph corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 2 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">18</container>
+<unittitle>Half-sheet original. La Jolla.</unittitle>
+<unitdate>January 28, 1958</unitdate>
+<physdesc> (pp.183-317 of 317 leaves - typescript with holograph corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 3 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>&#x0201C;Copy 1.&#x0201D; La Jolla.</unittitle>
+<unitdate>1958</unitdate>
+<physdesc> (224 leaves, typescript).</physdesc>
+</did> 
+<note>
+<p>Gift of Mrs. Helga Greene, July 1959.</p>
+</note>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>&#x0201C;First version.&#x0201D; La Jolla.</unittitle>
+<unitdate>1958</unitdate>
+<physdesc> 2 items: 188 leaves, 2 leaves - typescript, typescript signed with holograph notes).</physdesc>
+</did> 
+<scopecontent>
+<p>With letter from Helga Greene <emph render="italic">re</emph> questions on plot and Chandler's answers.</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, July 1959.</p></note>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>&#x0201C;2nd version.&#x0201D; La Jolla.</unittitle>
+<unitdate>1958</unitdate>
+<physdesc> (197 leaves, typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>Another copy marked with &#x0201C;2nd copy&#x0201D; in Chandler's hand.</p>
+</scopecontent>
+<note><p>Gift of Houghton Mifflin at the request of Raymond Chandler, December 1959.</p></note>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>no.3. La Jolla.</unittitle>
+<unitdate>1958</unitdate>
+<physdesc> (2 items, 197 leaves and 5pp. - typescript and typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>With 3pp. of emendations and revisions in Chandler's hand.</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, July 1959.</p></note>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle>Typescript for American edition. La Jolla.</unittitle>
+<unitdate>1958</unitdate>
+<physdesc> 2 items: 197 leaves, 1 leaf - typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>With Raymond Chandler's note on wrapper: &#x0201C;Mr. Harris. Sorry my secretary forgot these. UCLA. Library wants the scripts when you are done with them. Regards. Raymond Chandler.&#x0201D; </p>
+<p>Carbon copy of &#x0201C;no.3&#x0201D; was made by the Helga Greene Literary Agency.</p>
+</scopecontent>
+<note><p>Gift of Houghton Mifflin at the request of Raymond Chandler, December 1959.</p></note>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>H.N. Swanson agency copy. San Diego.</unittitle>
+<unitdate>January 28, 1958</unitdate>
+<physdesc> (pp.1-76 of 188, Ozalid [&#x003F;] photostatic copy).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 1 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>H.N. Swanson agency copy. San Diego.</unittitle>
+<unitdate>January 28, 1958</unitdate>
+<physdesc> (pp.77 -135 of 188, Ozalid [&#x003F;] photostatic copy).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 2 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>H.N. Swanson agency copy. San Diego.</unittitle>
+<unitdate>January 28, 1958</unitdate>
+<physdesc> (pp.136-188 of 188, Ozalid [&#x003F;] photostatic copy).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 3 of 3.</p>
+</scopecontent>
+</c05>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>Book Review. London.</unittitle>
+<unitdate>1958</unitdate>
+<physdesc> (5 leaves, holograph).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Dr. No</title> by Ian Fleming. Published in the <title>London Times</title>.</p>
+<p>With page proofs and a typed transcription of the text.</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, July 1959.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle><title>The Pencil</title>. La Jolla.</unittitle>
+<unitdate>October 25, 1958</unitdate>
+<physdesc> (69 leaves, typescript with holograph corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>Original cataloger's note: &#x0201C;First Marlowe short story for 20 years. As yet [March 1959] unpublished.&#x0201D;</p>
+</scopecontent>
+<note><p>Gift of Raymond Chandler, March 1959.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle><title>Sonnet 13</title>. n.p.</unittitle>
+<unitdate>Spring 1958</unitdate>
+<physdesc> (2 items: 1 leaf [1p.] and 1 copy - typescript with holograph corrections).</physdesc>
+</did> 
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle><title>Bang to Rights</title>. London.</unittitle>
+<unitdate>1958</unitdate>
+<physdesc> (1 leaf, holograph, written in red ink).</physdesc>
+</did> 
+<scopecontent>
+<p>Foreword to the book by Frank Norman. <title>Bang to Rights</title> was published by Secker &#x0026; Warburg, London, 1958.</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, June 1959.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle><title>Poodle Springs Story</title>. La Jolla.</unittitle>
+<unitdate>1959</unitdate>
+<physdesc> (2 items: 23 leaves, 2 leaves - typescript with holograph corrections and 2 leaves, blue paper).</physdesc>
+</did> 
+<scopecontent>
+<p>Chandler's last novel, unfinished at the time of his death in 1959. With detailed description of the house in the novel.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle><title>Farewell, My Lovely</title>. Hollywood.</unittitle>
+<unitdate>June 7, 1944</unitdate>
+<physdesc> (1 leaf, mimeograph).</physdesc>
+</did> 
+<scopecontent>
+<p>Synopsis.</p>
+</scopecontent>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folders ">6-7</container>
+<unittitle><title>Playback</title>.</unittitle>
+<unitdate>1947</unitdate>
+</did> 
+<note><p>Gift of Edgar N. Carter, H.N. Swanson, Incorporated, December 1959.</p></note>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle>&#x0201C;Story idea.&#x0201D; Hollywood.</unittitle>
+<unitdate>circa 1947</unitdate>
+<physdesc> (5 leaves, typescript with holograph corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>With Chandler's note: &#x0201C;Swanie: I think it stinks. Ray.&#x0201D;</p></scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle>Story idea. Hollywood.</unittitle>
+<unitdate>circa 1947</unitdate>
+<physdesc> (9 leaves, typescript carbon).</physdesc>
+</did> 
+</c05>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Boxes ">2-5, 7-8, 12-14</container>
+<unittitle>Publications. v.p.</unittitle>
+<unitdate>1911-1963</unitdate>
+</did> 
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">32</container>
+<unittitle><title>The Clay God</title>. n.p.</unittitle>
+<unitdate>1911[&#x003F;]</unitdate>
+<physdesc> (1p., clipping).</physdesc>
+</did> 
+<scopecontent>
+<p>With penciled note on verso, &#x0201C;either Westiminster Gazette or Academy, c. 1911&#x003F;&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">33</container>
+<unittitle><title>The Fairy King</title>. n.p.</unittitle>
+<unitdate>1911[&#x003F;]</unitdate>
+<physdesc> (1p., clipping).</physdesc>
+</did> 
+<scopecontent>
+<p>With pencilled note on verso, &#x0201C;either <title>Westminster Gazette</title> or <title>Academy</title>, c. 1911.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">35</container>
+<unittitle><title>A Pilgrim in Meditation</title>. n.p.</unittitle>
+<unitdate>1911[&#x003F;]</unitdate>
+<physdesc> (1p., clipping).</physdesc>
+</did> 
+<scopecontent>
+<p>With pencilled note on verso &#x0201C;either <title>Westminster Gazette</title> or <title>Academy</title> c. 1911.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">36</container>
+<unittitle><title>Blackmailer's Don't Shoot</title>.</unittitle>
+<unitdate>December 1933</unitdate>
+<physdesc> (pp.8-35, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.26, no.10).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">37</container>
+<unittitle><title>Smart-Aleck Kill</title>.</unittitle>
+<unitdate>July 1934</unitdate>
+<physdesc> (pp.54-78, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.17, no.8).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">38</container>
+<unittitle><title>Finger Man</title>.</unittitle>
+<unitdate>October 1934</unitdate>
+<physdesc> (pp.8-39, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.17, no.8).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">39</container>
+<unittitle><title>Killer in the Rain</title>.</unittitle>
+<unitdate>January 1935</unitdate>
+<physdesc> (pp.3-23, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.17, no.11).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">40</container>
+<unittitle><title>Nevada Gas</title>.</unittitle>
+<unitdate>June 1935</unitdate>
+<physdesc> (pp.8-35, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.18, no.4).</p>
+<p>Black cover stamped &#x0201C;W.W. Martindale, Third &#x0026; Broadway, Santa Monica, Calif.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">41</container>
+<unittitle><title>Spanish Blood</title>.</unittitle>
+<unitdate>November 1935</unitdate>
+<physdesc> (pp.38-64, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.18, no.9).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">42</container>
+<unittitle><title>Guns at Cyrano's</title>.</unittitle>
+<unitdate>January 1936</unitdate>
+<physdesc> (pp.8-37, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.18, no.11).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle><title>The Man Who Liked Dogs</title>.</unittitle>
+<unitdate>March 1936</unitdate>
+<physdesc> (pp.10-33, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.19, no.1).</p>
+<p>Stamped on back cover &#x0201C;Grand Central Market.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle><title>Noon Street Nemesis</title>.</unittitle>
+<unitdate>May 30, 1936</unitdate>
+<physdesc> (pp.36-62, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Detective Fiction Weekly</title> (vol.52, no.4).</p>
+<p>With Raymond Chandler's corrections in pencil throughout.</p>
+<p>Title has been crossed out and replaced with &#x0201C;Pick-up on Noon Street.&#x0201D; Stamped on back cover, &#x0201C;Grand Central Market.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle><title>Goldfish</title>.</unittitle>
+<unitdate>September 1936</unitdate>
+<physdesc> (pp.10-35, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.19, no.7).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle><title>The Curtain</title>.</unittitle>
+<unitdate>September 1936</unitdate>
+<physdesc> (pp.10-33, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.19, no.7).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle><title>Try the Girl</title>.</unittitle>
+<unitdate>January 1937</unitdate>
+<physdesc> (pp.10-34, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Black Mask</title> (vol.19, no.11).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle><title>Mandarin's Jade</title>.</unittitle>
+<unitdate>November 1937</unitdate>
+<physdesc> (pp.36-67, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Dime Detective</title> (vol.25, no.4).</p>
+<p>Stamped on back cover, &#x0201C;W.W. Martindale, Oct. 13, 1937, Santa Monica, Calif.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle><title>Red Wind</title>.</unittitle>
+<unitdate>January 1938</unitdate>
+<physdesc> (pp.40-70, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Dime Detective</title> (vol.26, no.2).</p>
+<p>Stamped on back cover, &#x0201C;Grand Central Market, 1328 -4th Street, Santa Monica, Calif.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle><title>The King in Yellow</title>.</unittitle>
+<unitdate>March 1938</unitdate>
+<physdesc> (pp.42-74, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Dime Detective</title> (vol.26, no.4).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">9</container>
+<unittitle><title>Bay city blues</title>.</unittitle>
+<unitdate>June 1938</unitdate>
+<physdesc> (pp.6-47, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Dime Detective</title> (vol.27, no.3).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">10</container>
+<unittitle><title>The Big Sleep</title> - Publication announcement.</unittitle>
+<unitdate>December 24, 1938</unitdate>
+<physdesc> (Original issue).</physdesc>
+</did> 
+<scopecontent>
+<p>Cover story in <title>Publisher's Weekly</title> (vol.84, no.26).</p>
+<p><emph render="italic">re</emph> publication of <title>The Big Sleep</title> in February 1939.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">11</container>
+<unittitle><title>The Lady in the Lake</title>.</unittitle>
+<unitdate>January 1939</unitdate>
+<physdesc> (pp.94, 127, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Dime Detective</title> (vol.29, no.2).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle><title>Trouble is My Business</title>.</unittitle>
+<unitdate>August 1939</unitdate>
+<physdesc> (pp.42-76, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Dime Detective</title> (vol.31, no.1).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle><title>No Crime in the Mountains</title>.</unittitle>
+<unitdate>September 1941</unitdate>
+<physdesc> (pp.9-54, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Street &#x0026; Smith's Detective Story Magazine</title> (vol.67, no.5).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle><title>New editions of Chandler novels</title>.</unittitle>
+<unitdate>circa 1945[&#x003F;]</unitdate>
+<physdesc> (Original issue).</physdesc>
+</did> 
+<scopecontent>
+<p>Bulletin in <title>Atlantic Monthly</title> (vol.173, no.1).</p>
+<p>Notice <emph render="italic">re</emph> 25 cent editions of <title>The Big Sleep</title>, <title>Farewell, My Lovely</title>, <title>The Lady in the Lake</title>, and <title>The High Window</title>.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle><title>The Chandler books</title> [by] D.C. Russell.</unittitle>
+<unitdate>March 1945</unitdate>
+<physdesc> (2 items: pp.123, 124 and galleys, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Atlantic Monthly</title> (vol.173, no.3).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle><title>Writers in Hollywood</title>.</unittitle>
+<unitdate>November 1945</unitdate>
+<physdesc> (pp.50-54, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Atlantic Monthly</title> (vol.176, no.5).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle><title>The Hollywood Bowl</title>.</unittitle>
+<unitdate>January 1947</unitdate>
+<physdesc> (pp.108-109, clipping).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Atlantic Monthly</title> (vol.179, no.1).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle><title>Oscar Night in Hollywood</title>.</unittitle>
+<unitdate>March 1948</unitdate>
+<physdesc> (pp.24-27, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Atlantic Monthly</title> (vol.181, no.4).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">9</container>
+<unittitle><title>Studies in Extinction</title>.</unittitle>
+<unitdate>October 1948</unitdate>
+<physdesc> (pp.50-55, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Atlantic Monthly</title> (vol.181, no.4).</p>
+<p>Raymond Candler's file copy.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">10</container>
+<unittitle><title>Ten Greatest Crimes</title>.</unittitle>
+<unitdate>October 1948</unitdate>
+<physdesc> (pp.50-53, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Cosmopolitan</title> (vol.125, no.4).</p>
+<p>Raymond Candler's file copy.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle><title>The Little Sister</title>.</unittitle>
+<unitdate>April 1949</unitdate>
+<physdesc> (pp.173, 196, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Cosmopolitan</title> (vol.26, no.4).</p>
+<p>Raymond Candler's file copy.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><title>The Simple Art of Murder</title>.</unittitle>
+<unitdate>1950 April 15</unitdate>
+<physdesc> (pp.13-14, original issue, marked in red ink).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Saturday Review</title> (vol.33, no.15).</p>
+<p>With Raymond Chandler's addresss label on the cover, &#x0201C;6005 Camino de la Costa, La Jolla, Calif.&#x0201D;</p>
+<p>With a clipping of the same article.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle><title>Oscar Night in Hollywood</title>.</unittitle>
+<unitdate>June 1950</unitdate>
+<physdesc> (pp.157, 161, original issue, marked in red ink).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Sight and Sound</title> (vol.19, no.4).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle><title>The Hollywood Ten</title>.</unittitle>
+<unitdate>Spring 1951</unitdate>
+<physdesc> (pp.93-94, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>The Author</title> (vol.61, no.3).</p>
+<p>With Raymond Chandler's address stamp on the cover.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle><title>Professor Bingo's Snuff</title> (Published). London.</unittitle>
+<unitdate>June / July 1951</unitdate>
+<physdesc> (pp.81-93, clipping).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Go</title>.</p>
+</scopecontent>
+<note><p>Gift of Mrs. Helga Greene, July 1959.</p></note>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle><title>Ten Percent of Your Life</title>.</unittitle>
+<unitdate>February 1953</unitdate>
+<physdesc> (pp.48-51, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Atlantic Monthly</title> (vol.189, no.2).</p>
+<p>Marked in Raymond Chandler's hand, &#x0201C;File copy.&#x0201D; Stamped with Raymond Chandler's La Jolla address.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle><title>Black Mask</title> [by] Frank Boreman.</unittitle>
+<unitdate>February/March 1952</unitdate>
+<physdesc> (pp.63-65, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Go</title>, no.6 (new series).</p>
+<p>With photostatic copy of the article.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle><title>Professor Bingo's Snuff</title>.</unittitle>
+<unitdate>Summer 1952</unitdate>
+<physdesc> (pp.119, 160, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Fantastic</title> (vol.1, no.1).</p>
+<p>Raymond Chandler file copy[&#x003F;].</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle>Requiem - Fair copy. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (2 leaves [2pp.], typescript carbon with holograph note by Dorothy Gardiner).</physdesc>
+</did> 
+<scopecontent>
+<p>Typed note at the top: &#x0201C;Get permission from <title>Atlantic Monthly</title>, 1957.&#x0201D;</p>
+<p>DG's note: &#x0201C;This poem, written in January 1955 was accepted and paid for by the <title>Atlantic Monthly</title>, but never published.</p>
+<p>DG Price &#x0024;35.00.&#x0201D;</p>
+<p>Cataloging note: &#x0201C;from James Sandoe folder.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Folders ">5-6</container>
+<unittitle>&#x0201C;Cops&#x0201D; by Raymond Chandler. In <title>Crosstown With Neil Morgan</title>. San Diego.</unittitle>
+<unitdate>August 25, 1959</unitdate>
+<physdesc> (2 items, 2 leaves, proofs).</physdesc>
+</did> 
+<scopecontent>
+<p>2 parts, published posthumously.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle><title>Bonded Goods</title>. n.p.</unittitle>
+<unitdate>circa 1956</unitdate>
+<physdesc> (2 items: 1 leaf, 1 leaf, clippings).</physdesc>
+</did> 
+<scopecontent>
+<p>Book review. Review of Ian Fleming's <title>Diamonds Are Forever</title>.</p>
+</scopecontent>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folders ">4-6</container>
+<unittitle><title>Playback</title>.</unittitle>
+<unitdate>1958</unitdate>
+</did> 
+<c05 level="item">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Clipping in <title>Bookseller</title> (vol.[ ], no.[ ]).</unittitle>
+<unitdate>March 1958</unitdate>
+<physdesc> (p.1123).</physdesc>
+</did> 
+<scopecontent>
+<p>Hamish Hamilton advertisement <emph render="italic">re</emph> publication of <title>Playback</title> in July 1958.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle>Galleys for the American edition. n.p.</unittitle>
+<unitdate>May 16, 1958</unitdate>
+<physdesc> (79 sheets).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle>Author's proof for the American edition. n.p.</unittitle>
+<unitdate>August 7, 1958</unitdate>
+<physdesc> (71 sheets).</physdesc>
+</did> 
+</c05>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle><title>The Poodle Springs Story</title> - Research material. Cathedral City.</unittitle>
+<unitdate>circa 1958</unitdate>
+<physdesc> (1 leaf [2pp.], publication).</physdesc>
+</did>
+<scopecontent>
+<p>Map showing points of interest around Cathedral City. With note and markings by Raymond Chandler.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle><title>Wrong Pidgeon</title>.</unittitle>
+<unitdate>February 1960</unitdate>
+<physdesc> (pp.1-28, original issue).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Manhunt</title> (vol.8, no.1).</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle><title>I'll Be Waiting</title>.</unittitle>
+<unitdate>October 14, 1939</unitdate>
+<physdesc> (pp.10, 11, 72, 74, 78, clipping).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Saturday Evening Post</title> (vol.[ ], no.[ ]). Illustrated by Hy Rubin.</p>
+</scopecontent>
+</c04>
+<c04 level="item">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle><title>Marlowe Takes on the Syndicate</title>. London.</unittitle>
+<unitdate>April 6-9, 1959</unitdate>
+<physdesc> (4 items: 5 pp., clippings).</physdesc>
+</did> 
+<scopecontent>
+<p><title>Daily Mail</title>. Original title was &#x0201C;The pencil.&#x0201D;</p>
+</scopecontent>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Boxes ">12-13</container>
+<unittitle><title>Killer in the Rain</title> edited by Philip Durham. v.p.</unittitle>
+<unitdate>v.d.</unitdate>
+</did> 
+<c05 level="item">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">27</container>
+<unittitle>Research material. v.p.</unittitle>
+<unitdate>v.d.</unitdate>
+<physdesc> (27 items).</physdesc>
+</did> 
+<scopecontent>
+<p>Various, clippings, notes, maps.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>&#x0201C;Blackmailers Don't Shoot.&#x0201D; n.p.</unittitle>
+<unitdate>October 13, 1960</unitdate>
+<physdesc> (2 items: 79 leaves, 1 leaf - typescript(carbon), holograph).</physdesc>
+</did> 
+<scopecontent>
+<p>Not used in <title>Killer in the Rain</title>.</p>
+<p>With holograph note from Helga Greene. &#x0201C;'Blackmailers don't shoot' not used in this edition.&#x0201D;</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>Corrected page proofs with holograph corrections. London.</unittitle>
+<unitdate>circa 1963</unitdate>
+<physdesc> (332pp.).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>Introduction. Los Angeles.</unittitle>
+<unitdate>circa 1963</unitdate>
+<physdesc> (12 leaves, holograph).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Passed proofs with holograph corrections. London.</unittitle>
+<unitdate>1963 December 14</unitdate>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle>Copies of &#x0201C;The Curtain,&#x0201D; &#x0201C;Killer in the Rain,&#x0201D; &#x0201C;The Man Who Liked Dogs,&#x0201D; &#x0201C;Try the Girl.&#x0201D;. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> 4 items: 49, 55, 48, 52 leaves - typescript carbon).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle>Copies of &#x0201C;Mandarin Jade,&#x0201D; &#x0201C;Bay City Blues,&#x0201D; &#x0201C;Lady in the Lake,&#x0201D; &#x0201C;No Crime in the Mountains.&#x0201D; n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> 4 items: 73, 88, 68 and 81 leaves - typescript carbon).</physdesc>
+</did> 
+</c05>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Screenwriting and Adaptations of Chandler Novels</unittitle>
+</did> 
+<c03 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">9</container>
+<unittitle><title>And Now Tomorrow</title>. By Raymond Chandler and Frank Partos - Screenplay. Hollywood.</unittitle>
+<unitdate>December 3, 1943</unitdate>
+<physdesc> (128 leaves, mimeograph, bound in quarter morocco leather).</physdesc>
+</did> 
+<scopecontent>
+<p>With 10 stills from the Paramount production.</p><p>Gift of Irving Pichel, director of the film, 1960.</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Boxes ">8-9</container>
+<unittitle><title>Double Indemnity</title> By Raymond Chandler and Billy Wilder - Screenplay. Hollywood.</unittitle>
+<unitdate>1943-1944</unitdate>
+</did> 
+<c04 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">10</container>
+<unittitle>Test scene by Raymond Chandler and Billy Wilder.</unittitle>
+<physdesc> (20 leaves).</physdesc>
+</did> 
+<scopecontent>
+<p>Photocopy of material in Box 8, folder 11.</p>
+</scopecontent>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">11</container>
+<unittitle>Test scene by Raymond Chandler and Billy Wilder.</unittitle>
+<physdesc> (20 leaves, holograph with extensive corrections).</physdesc>
+</did> 
+<scopecontent>
+<p>Clipped with this are addresses of Wilder and Joe Sistrom, the producer.</p>
+</scopecontent>
+<note>
+<p>Gift of Paramount Studios, n.d.</p>
+<p>NO PHOTOCOPYING</p>
+</note>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>&#x0201C;Billy Wilder's personal marked copy.&#x0201D; Hollywood.</unittitle>
+<unitdate>September 25, 1943</unitdate>
+<physdesc> (pp.1-52 of 111 [132 leaves] - typescript and mimeograph, Blue wrappers).</physdesc>
+</did> 
+<scopecontent>
+<p>With corrections and notes by Wilder.</p>
+</scopecontent>
+<note>
+<p>Purchase[&#x003F;].</p></note>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>&#x0201C;Billy Wilder's personal marked copy.&#x0201D; Hollywood.</unittitle>
+<unitdate>September 25, 1943</unitdate>
+<physdesc> (pp.53-111 of 111 [132 leaves] - typescript and mimeograph, Blue wrappers).</physdesc>
+</did> 
+<scopecontent>
+<p>With corrections and notes by Wilder.</p>
+</scopecontent>
+<note>
+<p>Purchase[&#x003F;].</p></note>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>Complete script with cast of characters. &#35;2915. Hollywood.</unittitle>
+<unitdate>September 25, 1943</unitdate>
+<physdesc> (117 leaves, mimeograph, Unbound).</physdesc>
+</did> 
+<note>
+<p>Gift of Billy Wilder, 1961.</p></note>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">11</container>
+<unittitle><title>Double Indemnity</title> - Post production material. Hollywood.</unittitle>
+<unitdate>March 15, 1945</unitdate>
+<physdesc> (8pp. program).</physdesc>
+</did> 
+<scopecontent>
+<p>Nomination for Best Written Screenplay [Academy of Motion Picture Arts and Sciences program].</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle><title>Backfire</title> - Story for the screen. Los Angeles.</unittitle>
+<unitdate>1946</unitdate>
+<physdesc> (1 p.l., 8 leaves, mimeograph).</physdesc>
+</did> 
+<scopecontent>
+<p>Manuscript.</p><p>Gift of Edgar N. Carter of, H.N. Swanson, Incorporated, December 1959.</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle><title>The Big Sleep</title> - Production material. Hollywood.</unittitle>
+<unitdate>1946</unitdate>
+<physdesc> (3 items: 1 leaf, 2 leaves, 3 leaves, mimeograph).</physdesc>
+</did> 
+<scopecontent>
+<p>Cast and credits, synopsis, production notes. Cast and credits, August 21, 1946. Synopsis, January 29, 1946. Production notes, February 20, 1946.</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle><title>The Blue Dahlia</title> - Post production material. Hollywood.</unittitle>
+<unitdate>1946</unitdate>
+</did> 
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>List of eligible releases for Academy of Motion Picture Arts and Sciences writing awards. Hollywood.</unittitle>
+<unitdate>1946</unitdate>
+<physdesc> (16pp., brochure).</physdesc>
+</did> 
+<scopecontent>
+<p>Films eligible for Academy of Motion Picture Arts and Sciences writing awards for 1946.</p>
+</scopecontent>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>Program for awards ceremony. Los Angeles.</unittitle>
+<unitdate>March 13, 1947</unitdate>
+<physdesc> (8pp.).</physdesc>
+</did> 
+<scopecontent>
+<p>Nomination for Best Original Screenplay for 1946. Academy of Motion Picture Arts and Sciences awards program.</p>
+</scopecontent>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle><title>The Lady in the Lake</title> - Production material. Culver City.</unittitle>
+<unitdate>1946</unitdate>
+<physdesc> (3 items: 1 leaf, 1 leaf, 1 leaf, mimeograph).</physdesc>
+</did> 
+<scopecontent>
+<p>Press release, press release, cast and crew. Press release, March 28, 1946. Press release May 29, 1946. Cast and crew, November 21, 1946.</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle><title>Playback</title> - Screenplay. Universal City.</unittitle>
+<unitdate>September 30, 1947</unitdate>
+<physdesc> (224pp., typescript and typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>First draft continuity.</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folders ">9-11</container>
+<unittitle><title>Strangers on a Train</title> - Screenplay. n.p.</unittitle>
+<unitdate>1950</unitdate>
+</did> 
+<c04 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">9</container>
+<unittitle>Treatment by Cook Whitfield. n.p.</unittitle>
+<unitdate>June 20, 1950</unitdate>
+<physdesc> (65pp., typescript carbon with pencil notations).</physdesc>
+</did> 
+<note>
+<p>Purchase.</p>
+</note>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">10</container>
+<unittitle>Revised treatment (1st). n.p.</unittitle>
+<unitdate>July 18-19, 1950</unitdate>
+<physdesc> (41pp., typescript).</physdesc>
+</did> 
+<scopecontent>
+<p>&#x0201C;Alfred Hitchcock copy.&#x0201D;</p>
+</scopecontent>
+<note><p>Purchase.</p></note>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">11</container>
+<unittitle>Revised treatment. La Jolla.</unittitle>
+<unitdate>July 28, 1950</unitdate>
+<physdesc> (108pp., typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>With Chandler's address stamped on the last page.</p>
+</scopecontent>
+<note><p>Purchase.</p></note>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Folders ">7-8</container>
+<unittitle><title>Backfire</title> - Story for the screen. Santa Barbara.</unittitle>
+<unitdate>1984</unitdate>
+</did> 
+<c04 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle>Publication. Santa Barbara.</unittitle>
+<unitdate>1984</unitdate>
+<physdesc> (3 items).</physdesc>
+</did> 
+<scopecontent>
+<p>Print samples, hardbound, paperback, and unbound signatures.</p>
+</scopecontent>
+<note><p>Gift of James Pepper, 1984[&#x003F;].</p></note>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle>Publication material. Santa Barbara.</unittitle>
+<unitdate>circa 1984</unitdate>
+<physdesc> (17 items, print and photocopy).</physdesc>
+</did> 
+<scopecontent>
+<p>Cover design samples.</p>
+<p>With notes by James Pepper, publisher.</p>
+</scopecontent>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>BBC Production</unittitle>
+</did> 
+<c03 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle><title>The Long Good-bye; The Critics</title> - Manuscript. London.</unittitle>
+<unitdate>1953[&#x003F;]</unitdate>
+<physdesc> (2 items: 5 leaves, 1 leaf - mimeograph).</physdesc>
+</did> 
+<scopecontent>
+<p>Commentary by Malcolm Muggeridge. With &#x0201C;compliments&#x0201D; card from Helga Greene.</p>
+</scopecontent>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Writings By and About Raymond Chandler</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>Published</unittitle>
+</did> 
+<c03 level="file">
+<did>
+<container type="box" label="Boxes ">9-12</container>
+<unittitle><title>Raymond Chandler speaking</title>. v.p.</unittitle>
+<unitdate>1959</unitdate>
+</did> 
+<c04 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>Correspondence. New York.</unittitle>
+<unitdate>1959</unitdate>
+</did> 
+<c05 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>Letters between Dorothy Gardiner and James Sandoe.</unittitle>
+<physdesc> (3 items: 1 leaf, 2 leaves, 2 leaves - 2 typescripts signed and typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>Letter from Dorothy Gardiner to James Sandoe and Sandoe's undated reply. With 2pp. of a bibliography of Frederick Anderson.</p>
+</scopecontent>
+</c05>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Boxes ">10-12</container>
+<unittitle>Manuscripts. n.p. and New York.</unittitle>
+<unitdate>1960</unitdate>
+</did> 
+<c05 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>Letters from Dorothy Gardiner to Paul Brooks and outlines.</unittitle>
+<unitdate>September 14, 1960</unitdate>
+<physdesc> (2 items: 4 and 36 leaves, typescript).</physdesc>
+</did> 
+<scopecontent>
+<p>Also, 36pp. of text.</p>
+</scopecontent>
+</c05>
+<c05 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>pp.1-224. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (Typescript and typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 1 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>pp.225-399. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (Typescript and typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 2 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>pp.400-543. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (Typescript and typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 3 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle>Copies of Raymond Chandler letters. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (65 items: ca. 80 leaves, typecript and typescript carbon).</physdesc>
+<physdesc> Item count approximate..</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 1 of 8.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle>Copies of Raymond Chandler letters. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (140 items: ca. 170 leaves, typescript and typescript carbon).</physdesc>
+<physdesc> Item count approximate..</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 2 of 8.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle>Copies of Raymond Chandler letters. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (145 items: ca. 180 leaves, typescript and typescript carbon).</physdesc>
+<physdesc> Item count approximate..</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 3 of 8.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>Copies of Raymond Chandler letters. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (140 items: ca. 180 leaves, typescript, typescript carbon and photostatic copies).</physdesc>
+<physdesc> Item count approximate..</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 4 of 8.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>Copies of Raymond Chandler letters. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (60 items: ca. 70 leaves, typescript and typescript carbon).</physdesc>
+<physdesc> Item count approximate..</physdesc>
+</did> 
+<scopecontent>
+<p>Houghton Mifflin correspondence.</p>
+<p>Folder 5 of 8.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>Copies of Raymond Chandler letters. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (45 items: ca. 50 leaves, typescript and typescript carbon).</physdesc>
+<physdesc> Item count approximate..</physdesc>
+</did> 
+<scopecontent>
+<p>Hamish Hamilton correspondence.</p>
+<p>Folder 6 of 8.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Copies of Raymond Chandler letters. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (40 items: ca. 50 leaves, typescript carbon and photostatic copies).</physdesc>
+<physdesc> Item count approximate..</physdesc>
+</did> 
+<scopecontent>
+<p>Chandler / Charles Morton / <title>Atlantic Monthly</title> correspondence.</p>
+<p>Folder 7 of 8.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle>Copies of Raymond Chandler letters. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (100 items: ca. 150 leaves, typescript and typescript carbon).</physdesc>
+<physdesc> Item count approximate..</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 8 of 8.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle>Page proofs and &#x0201C;Chandlerisms.&#x0201D; n.p.</unittitle>
+<unitdate>1962</unitdate>
+<physdesc> (2 items: 264pp. and 1 leaf, typescript).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle>Title page-p.259. n.p.</unittitle>
+<unitdate>1960</unitdate>
+<physdesc> (Typescript).</physdesc>
+</did> 
+<scopecontent>
+<p>With note &#x0201C;Finish script.&#x0201D;</p>
+<p>Folder 1 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle>pp.260-450. n.p.</unittitle>
+<unitdate>1960</unitdate>
+<physdesc> (Typescript).</physdesc>
+</did> 
+<scopecontent>
+<p>Folder 2 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>Appendix. n.p.</unittitle>
+<unitdate>1960</unitdate>
+<physdesc> (5 items: ca. 90 leaves, typescript and typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>With 4 notes from Dorothy Gardiner.</p>
+<p>Folder 3 of 3.</p>
+</scopecontent>
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>Excerpts with subject notes attached. n.p.</unittitle>
+<unitdate>1960</unitdate>
+<physdesc> (26 items: ca. 125 leaves, typescript and typescript carbon).</physdesc>
+</did> 
+</c05>
+<c05 level="item">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>Copies of Raymond Chandler letters. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (2 items: 17 leaves, 1 leaf, typescript and typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>Group of letters borrowed by Philip Durham with letter of transmittal returning them, 1966.</p>
+</scopecontent>
+</c05>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Boxes ">9, 12</container>
+<unittitle>Research material. v.p. and La Jolla.</unittitle>
+<unitdate>March 26, 1957</unitdate>
+</did> 
+<c05 level="item">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>Letters between Raymond Chandler and William Campbell Gault.</unittitle>
+<unitdate>1954 (circa) 1958</unitdate>
+<physdesc> (12 items: 11 letters and 1 original letter - typed transcripts and typescript signed).</physdesc>
+</did> 
+</c05>
+<c05 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle>Letter from Raymond Chandler to Mr. Howard.</unittitle>
+<unitdate>March 26, 1957</unitdate>
+<physdesc> (4 leaves [4pp.], photostatic copy of typescript signed).</physdesc>
+</did> 
+</c05>
+<c05 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle>Letter from Raymond Chandler to Edgar N. Carter, and letter of transmittal from Philip Durham to Edgard N. Carter returning the original letter.</unittitle>
+<unitdate>June 3, 1956</unitdate>
+<physdesc> (4 items: 2 leaves, 2 leaves, 2 leaves, 1 leaf - typescript signed [2 copies] - typescript, typescript carbon, 2 photostatic copies and typed transcript).</physdesc>
+</did> 
+</c05>
+<c05 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle>Raymond Chandler - Robert Campigny Correspondence. London.</unittitle>
+<unitdate>April 19, 1958</unitdate>
+<physdesc> (3 items: each 1 leaf, typescript carbon, typescript and typescript carbon).</physdesc>
+</did> 
+<scopecontent>
+<p>Letter from Raymond Chandler to Robert Campigny. Carbon of Raymond Chandler's reply in French, on the back of Ritz Hotel writing paper.</p>
+<p>With 2 transcripts in English.</p>
+</scopecontent>
+</c05>
+<c05 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Letters to Wilbur Jordan Smith, UCLA. v.p.</unittitle>
+<unitdate>v.d.</unitdate>
+<physdesc> (5 items: 1 leaf, 1 leaf, 2 leaves, 1 leaf, 1 leaf - typescript signed, photstatic copies and duplicate copies of letters).</physdesc>
+</did> 
+<scopecontent>
+<p>Copy of October 16, 1958 letter has notes by Dorothy Gardiner.</p>
+</scopecontent>
+</c05>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folders ">7-9</container>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Reviews, essays, advertisements, etc. <emph render="italic">re</emph> Publication. v.p.</unittitle>
+<unitdate>v.d.</unitdate>
+<physdesc> (Various clippings and photostatic copies).</physdesc>
+</did> 
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle>14 items.</unittitle>
+</did> 
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle>16 items.</unittitle>
+</did> 
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">9</container>
+<unittitle>7 items.</unittitle>
+</did> 
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>5 items.</unittitle>
+</did> 
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">10</container>
+<unittitle>Articles about Raymond Chandler, including obituaries - Biographical. v.p.</unittitle>
+<unitdate>v.d.</unitdate>
+<physdesc> (6 items, Various, clippings).</physdesc>
+</did> 
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle><title>Down These Mean Streets</title> by Philip Durham - Research material. La Plata, Missouri.</unittitle>
+<unitdate>October 27, 1958</unitdate>
+<physdesc> (2 items: each 3 leaves, typescript signed, photostatic copy).</physdesc>
+</did> 
+<scopecontent>
+<p>Letter from Lester Dent to Durham. Letter <emph render="italic">re</emph> Cap Shaw and <title>Black Mask</title>.</p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle><title>Down these mean streets</title> by Philip Durham - Research material. v.p.</unittitle>
+<unitdate>1960</unitdate>
+<physdesc> (4 items, 1 leaf, 1 leaf, 1 leaf, 4 leaves - typescript signed, holograph, typescript).</physdesc>
+</did> 
+<scopecontent>
+<p>Letters and transcripts.</p>
+<p>Includes 3 notes and letters, and transcripts of Chandler letters and article.</p>
+</scopecontent>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Writings About Raymond Chandler</unittitle>
+</did>
+<c02 level="subseries">
+<did>
+<unittitle>BBC Production</unittitle>
+</did> 
+<c03 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folders ">15-25</container>
+<unittitle><title>Raymond Chandler speaking</title> - Production material. London.</unittitle>
+<unitdate>1962</unitdate>
+</did> 
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle>Letters from Helga Greene to Julian Symons. London, (Letters dated April 12 and June 18).</unittitle>
+<physdesc> (2 items: 1 leaf, 1 leaf, typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle>Letter from Hamish Hamilton to Julian Symons. London.</unittitle>
+<unitdate>May 2, 1962</unitdate>
+<physdesc> (Typescript signed).</physdesc>
+</did> 
+<note>
+<p>Ex libris Julian Symons.</p><p>Dealer purchase[&#x003F;].</p>
+</note>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle>Radio broadcast by Julian Symons. London.</unittitle>
+<unitdate>1962</unitdate>
+<physdesc> (13 leaves, mimeograph, typescript with corrections).</physdesc>
+</did> 
+<note>
+<p>Broadcast July 4, 1962</p>
+<p>Ex libris Julian Symons.</p>
+</note>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">18</container>
+<unittitle>Letter from J.B. Priestley to Julian Symons. Starford.</unittitle>
+<unitdate>April 13, 1962</unitdate>
+<physdesc> (Typescript signed).</physdesc>
+</did> 
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">19</container>
+<unittitle>Letter from Robert Popock to Julian Symons. London, <title>June 6, 1962</title>.</unittitle>
+<physdesc> (Typescript signed).</physdesc>
+</did> 
+<scopecontent>
+<p>Letter is signed &#x0201C;Brenda,&#x0201D; secretary to Robert Popock.</p>
+</scopecontent>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">20</container>
+<unittitle><title>Raymond Chandler speaking</title> by Julian Symons. n.p.</unittitle>
+<unitdate>circa 1962</unitdate>
+<physdesc> (5 leaves, holograph).</physdesc>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">21</container>
+<unittitle><title>Raymond Chandler</title> by J.B. Priestley. n.p.</unittitle>
+<unitdate>circa 1962</unitdate>
+<physdesc> (2 leaves, mimeograph).</physdesc>
+</did> 
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">22</container>
+<unittitle><title>Raymond Chandler</title> by F.J. Francis. n.p.</unittitle>
+<unitdate>circa 1962</unitdate>
+<physdesc> (4 leaves, mimeograph).</physdesc>
+</did> 
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">23</container>
+<unittitle>[<title>Raymond Chandler</title>] by Frank Norman. n.p.</unittitle>
+<unitdate>May 31, 1962</unitdate>
+<physdesc> (3 leaves, mimeograph).</physdesc>
+</did> 
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">24</container>
+<unittitle>Extract of interview between Ian Fleming and Raymond Chandler. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc> (1 leaf, mimeograph).</physdesc>
+</did> 
+</c04>
+<c04 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">25</container>
+<unittitle><title>Raymond Chandler</title> by Michael Gilbert. n.p.</unittitle>
+<unitdate>May 16, 1962</unitdate>
+<physdesc> (7 leaves, mimeograph).</physdesc>
+</did> 
+</c04>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Australian Production</unittitle>
+</did> 
+<c03 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Folder ">26</container>
+<unittitle><title>Who is Raymond Chandler</title> - Production material. n.p.</unittitle>
+<unitdate>June 30, 1975</unitdate>
+<physdesc> (12 leaves, mimeograph).</physdesc>
+</did> 
+<scopecontent>
+<p>Australian radio broadcast.</p>
+</scopecontent>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead> 
