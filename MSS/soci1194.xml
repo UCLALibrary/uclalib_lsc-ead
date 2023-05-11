@@ -1,0 +1,2151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/kt2v19p4w2/">soci1194</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Society for Psychophysiological Research records, ca. 1955-1987
+</titleproper>
+<titleproper type="filing">Society for Psychophysiological Research records</titleproper>
+<author>Processed by UCLA Library Special Collections staff; machine-readable finding aid created by Caroline Cubé</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©2002 The Regents of the University of California. All rights reserved.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2014-10-06T10:37-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<langusage>Description is in 
+<language>English.</language></langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Society for Psychophysiological Research records</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1194</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>14.5 linear ft.</extent>
+<extent>(21 boxes and 4 cartons)</extent>
+</physdesc>
+<unitdate>ca. 1955-1987</unitdate>
+<abstract id="ref1" label="Abstract">The Society for Psychophysiological Research was created to foster research related to physiology and psychology. The collection consists of correspondence, minutes, programs, publications, slides, and miscellaneous printed materials related to the Society for Psychophysiological Research.</abstract>
+<physloc id="ref2" label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+<dao ns2:role="http://oac.cdlib.org/arcrole/link/search/" ns2:href="http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz001nf7r5" ns2:title="Online items">
+<daodesc>
+<p>Selected digitized images from this collection.</p>
+</daodesc></dao>
+<origination label="Creator">
+<corpname source="ingest">Society for Psychophysiological Research (U.S.)</corpname>
+</origination>
+</did>
+<scopecontent id="ref14">
+<head>Scope and Content</head>
+<p>Collection consists of correspondence, minutes, programs, publications, slides, and miscellaneous printed materials related to the Society for Psychophysiological Research. Includes copies of the 
+<title>Polygraph Newsletter</title> and the 
+<title>Psychophysiology Newsletter</title>. Also includes oral history interviews (tapes and transcripts) with charter members of the organization.</p>
+</scopecontent>
+<bioghist id="ref12">
+<head>Biography</head>
+<p>The Society for Psychophysiological Research was created to foster research related to physiology and psychology. The organization produces scientific literature and holds annual meetings for presentations and discussion of topics such as instrumentation, methodology, experimental results, and theoretical interpretations.</p>
+</bioghist>
+<prefercite id="ref10">
+<head>Preferred Citation</head>
+<p>[Identification of item], Society for Psychophysiological Research Records (Collection 1194). UCLA Library of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+</prefercite>
+<acqinfo id="ref8">
+<head>Provenance/Source of Acquisition</head>
+<p>
+<list type="simple">
+<item>Gift of Marion A. Wenger, 1977 &amp; 1982. </item>
+<item>Gift of David Shapiro, 1989. </item>
+</list></p>
+</acqinfo>
+<accessrestrict id="ref6">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</p>
+</accessrestrict>
+<userestrict id="ref4">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<odd id="ref280">
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=2976950">2976950</extref></p>
+</odd>
+<controlaccess>
+<corpname source="ingest">Society for Psychophysiological Research (U.S.)--Archives.</corpname>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref15" level="series">
+<did>
+<unittitle>Audio / Visual</unittitle>
+</did>
+<c02 id="ref16" level="file">
+<did>
+<unittitle>Slides. (New York City). (Detroit). (Washington D.C.). (Houston).</unittitle>
+<container id="cid36639" type="Box">3</container>
+<container parent="cid36639" type="Folder">1</container>
+<unitdate>1961-1965</unitdate>
+</did>
+</c02>
+<c02 id="ref17" level="file">
+<did>
+<unittitle>Notes describing contents of cassette tape.</unittitle>
+<container id="cid36638" type="Box">3</container>
+<container parent="cid36638" type="Folder">2</container>
+</did>
+</c02>
+<c02 id="ref18" level="file">
+<did>
+<unittitle>Slides.</unittitle>
+<container id="cid36637" type="Box">14</container>
+<container parent="cid36637" type="Folder">10</container>
+<unitdate>1958-1965.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref19" level="series">
+<did>
+<unittitle>Ax, Albert F.</unittitle>
+</did>
+<c02 id="ref20" level="file">
+<did>
+<unittitle>Letters from Ax--opportunities.</unittitle>
+<container id="cid36636" type="Box">12</container>
+<container parent="cid36636" type="Folder">11</container>
+<unitdate>1961-1962.</unitdate>
+</did>
+</c02>
+<c02 id="ref21" level="file">
+<did>
+<unittitle>Letters from Ax--to applicants.</unittitle>
+<container id="cid36635" type="Box">12</container>
+<container parent="cid36635" type="Folder">12</container>
+<unitdate>1961-1963.</unitdate>
+</did>
+</c02>
+<c02 id="ref22" level="file">
+<did>
+<unittitle>Letters to Ax--offering employment.</unittitle>
+<container id="cid36634" type="Box">12</container>
+<container parent="cid36634" type="Folder">13</container>
+<unitdate>1960-1963.</unitdate>
+</did>
+</c02>
+<c02 id="ref23" level="file">
+<did>
+<unittitle>Letters to Ax--seeking employment.</unittitle>
+<container id="cid36633" type="Box">12</container>
+<container parent="cid36633" type="Folder">14</container>
+<unitdate>1961-1963.</unitdate>
+</did>
+</c02>
+<c02 id="ref24" level="file">
+<did>
+<unittitle>Positions available--as of</unittitle>
+<container id="cid36632" type="Box">12</container>
+<container parent="cid36632" type="Folder">15</container>
+<unitdate>July 12, 1963.</unitdate>
+</did>
+</c02>
+<c02 id="ref25" level="file">
+<did>
+<unittitle>Board minutes and notes.</unittitle>
+<container id="cid36631" type="Box">12</container>
+<container parent="cid36631" type="Folder">16</container>
+<unitdate>1963-1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref26" level="file">
+<did>
+<unittitle>Journal contracts.</unittitle>
+<container id="cid36630" type="Box">12</container>
+<container parent="cid36630" type="Folder">17</container>
+<unitdate>1963-1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref27" level="file">
+<did>
+<unittitle>Ads for the journal 
+<title>Psychophysiology</title>.</unittitle>
+<container id="cid36629" type="Box">12</container>
+<container parent="cid36629" type="Folder">18</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref28" level="series">
+<did>
+<unittitle>Davis, R.C.</unittitle>
+</did>
+<c02 id="ref29" level="file">
+<did>
+<unittitle>Materials from Davis's files, sent by his son Christoper.</unittitle>
+<container id="cid36628" type="Box">3</container>
+<container parent="cid36628" type="Folder">3</container>
+<unitdate>February 7, 1977, 1959.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref30" level="series">
+<did>
+<unittitle>Edelberg, Robert</unittitle>
+</did>
+<c02 id="ref31" level="file">
+<did>
+<unittitle>Letter to David Shapiro explaining the nature of the archive material.</unittitle>
+<container id="cid36627" type="Box">3</container>
+<container parent="cid36627" type="Folder">4</container>
+<unitdate>June 6, 1977.</unitdate>
+</did>
+</c02>
+<c02 id="ref32" level="file">
+<did>
+<unittitle>Miscellaneous papers.</unittitle>
+<container id="cid36626" type="Box">3</container>
+<container parent="cid36626" type="Folder">5</container>
+<unitdate>1965-1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref33" level="file">
+<did>
+<unittitle>Correspondence (file incomplete).</unittitle>
+<container id="cid36625" type="Box">3</container>
+<container parent="cid36625" type="Folder">6</container>
+<unitdate>1965-1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref34" level="file">
+<did>
+<unittitle>Minutes.</unittitle>
+<container id="cid36624" type="Box">3</container>
+<container parent="cid36624" type="Folder">7</container>
+<unitdate>1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref35" level="file">
+<did>
+<unittitle>Miscellaneous papers.</unittitle>
+<container id="cid36623" type="Box">3</container>
+<container parent="cid36623" type="Folder">8</container>
+<unitdate>1967.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref36" level="series">
+<did>
+<unittitle>Employment</unittitle>
+</did>
+<c02 id="ref37" level="file">
+<did>
+<unittitle>Addressograph.</unittitle>
+<container id="cid36622" type="Box">13</container>
+<container parent="cid36622" type="Folder">6</container>
+<unitdate>1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref38" level="file">
+<did>
+<unittitle>Application requests.</unittitle>
+<container id="cid36621" type="Box">13</container>
+<container parent="cid36621" type="Folder">7</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref39" level="file">
+<did>
+<unittitle>APSS membership list and by-laws.</unittitle>
+<container id="cid36620" type="Box">13</container>
+<container parent="cid36620" type="Folder">8</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref40" level="file">
+<did>
+<unittitle>Ax, Albert F.</unittitle>
+<container id="cid36619" type="Box">13</container>
+<container parent="cid36619" type="Folder">9</container>
+<unitdate>1963-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref41" level="file">
+<did>
+<unittitle>Letters in--A.</unittitle>
+<container id="cid36618" type="Box">13</container>
+<container parent="cid36618" type="Folder">10</container>
+<unitdate>1963-1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref42" level="file">
+<did>
+<unittitle>Letters in--B.</unittitle>
+<container id="cid36617" type="Box">13</container>
+<container parent="cid36617" type="Folder">11</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref43" level="file">
+<did>
+<unittitle>Brown, Clinton C., Ph. D.</unittitle>
+<container id="cid36616" type="Box">13</container>
+<container parent="cid36616" type="Folder">12</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref44" level="file">
+<did>
+<unittitle>Letters in--C.</unittitle>
+<container id="cid36615" type="Box">13</container>
+<container parent="cid36615" type="Folder">13</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref45" level="file">
+<did>
+<unittitle>Letters in--D.</unittitle>
+<container id="cid36614" type="Box">13</container>
+<container parent="cid36614" type="Folder">14</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref46" level="file">
+<did>
+<unittitle>Letters in--E.</unittitle>
+<container id="cid36613" type="Box">13</container>
+<container parent="cid36613" type="Folder">15</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref47" level="file">
+<did>
+<unittitle>Edelberg, Robert--correspondence.</unittitle>
+<container id="cid36612" type="Box">13</container>
+<container parent="cid36612" type="Folder">16</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref48" level="file">
+<did>
+<unittitle>Letters out--F.</unittitle>
+<container id="cid36611" type="Box">13</container>
+<container parent="cid36611" type="Folder">17</container>
+<unitdate>1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref49" level="file">
+<did>
+<unittitle>Letters out--G.</unittitle>
+<container id="cid36610" type="Box">13</container>
+<container parent="cid36610" type="Folder">18</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref50" level="series">
+<did>
+<unittitle>Fowles, Donald</unittitle>
+</did>
+<c02 id="ref51" level="file">
+<did>
+<unittitle>Programs for archives.</unittitle>
+<container id="cid36609" type="Box">16</container>
+<container parent="cid36609" type="Folder">2</container>
+<unitdate>1966-1967, 1979-1983.</unitdate>
+</did>
+</c02>
+<c02 id="ref52" level="file">
+<did>
+<unittitle>Minutes.</unittitle>
+<container id="cid36608" type="Box">16</container>
+<container parent="cid36608" type="Folder">3</container>
+<unitdate>1978-1979.</unitdate>
+</did>
+</c02>
+<c02 id="ref53" level="file">
+<did>
+<unittitle>Minutes.</unittitle>
+<container id="cid36607" type="Box">16</container>
+<container parent="cid36607" type="Folder">4</container>
+<unitdate>1979-1980.</unitdate>
+</did>
+</c02>
+<c02 id="ref54" level="file">
+<did>
+<unittitle>Minutes.</unittitle>
+<container id="cid36606" type="Box">16</container>
+<container parent="cid36606" type="Folder">5</container>
+<unitdate>1980-1981.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref55" level="series">
+<did>
+<unittitle>General Items</unittitle>
+</did>
+<c02 id="ref56" level="file">
+<did>
+<unittitle>Membership lists.</unittitle>
+<container id="cid36605" type="Box">13</container>
+<container parent="cid36605" type="Folder">1</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref57" level="file">
+<did>
+<unittitle>Geographical distribution of membership.</unittitle>
+<container id="cid36604" type="Box">13</container>
+<container parent="cid36604" type="Folder">2</container>
+</did>
+</c02>
+<c02 id="ref58" level="file">
+<did>
+<unittitle>Complete membership lists--geographical and alphabetical.</unittitle>
+<container id="cid36603" type="Box">13</container>
+<container parent="cid36603" type="Folder">3</container>
+<unitdate>1963-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref59" level="file">
+<did>
+<unittitle>Society for Psychophysiological Research by-laws.</unittitle>
+<container id="cid36602" type="Box">13</container>
+<container parent="cid36602" type="Folder">4</container>
+<unitdate>1963-1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref60" level="file">
+<did>
+<unittitle>Ballots for Board of Directors.</unittitle>
+<container id="cid36601" type="Box">13</container>
+<container parent="cid36601" type="Folder">5</container>
+<unitdate>1965.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref61" level="series">
+<did>
+<unittitle>Graham, David T.</unittitle>
+</did>
+<c02 id="ref62" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36600" type="Box">21</container>
+<container parent="cid36600" type="Folder">3</container>
+<unitdate>1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref63" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36599" type="Box">21</container>
+<container parent="cid36599" type="Folder">4</container>
+<unitdate>1967-1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref64" level="file">
+<did>
+<unittitle>Nominees.</unittitle>
+<container id="cid36598" type="Box">21</container>
+<container parent="cid36598" type="Folder">5</container>
+<unitdate>1969-1971.</unitdate>
+</did>
+</c02>
+<c02 id="ref65" level="file">
+<did>
+<unittitle>Society for Psychophysiological Research.</unittitle>
+<container id="cid36597" type="Box">21</container>
+<container parent="cid36597" type="Folder">6</container>
+<unitdate>1970.</unitdate>
+</did>
+</c02>
+<c02 id="ref66" level="file">
+<did>
+<unittitle>1971 meeting.</unittitle>
+<container id="cid36596" type="Box">21</container>
+<container parent="cid36596" type="Folder">7</container>
+<unitdate>1970.</unitdate>
+</did>
+</c02>
+<c02 id="ref67" level="file">
+<did>
+<unittitle>1972 meeting.</unittitle>
+<container id="cid36595" type="Box">21</container>
+<container parent="cid36595" type="Folder">8</container>
+<unitdate>1970.</unitdate>
+</did>
+</c02>
+<c02 id="ref68" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36594" type="Box">21</container>
+<container parent="cid36594" type="Folder">9-10</container>
+<unitdate>1969-1970.</unitdate>
+</did>
+</c02>
+<c02 id="ref69" level="file">
+<did>
+<unittitle>1970 meeting.</unittitle>
+<container id="cid36593" type="Box">21</container>
+<container parent="cid36593" type="Folder">11</container>
+<unitdate>1969-1970.</unitdate>
+</did>
+</c02>
+<c02 id="ref70" level="file">
+<did>
+<unittitle>Exhibitors.</unittitle>
+<container id="cid36592" type="Box">21</container>
+<container parent="cid36592" type="Folder">12</container>
+<unitdate>1969-1970.</unitdate>
+</did>
+</c02>
+<c02 id="ref71" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36591" type="Box">21</container>
+<container parent="cid36591" type="Folder">13</container>
+<unitdate>1969.</unitdate>
+</did>
+</c02>
+<c02 id="ref72" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36590" type="Box">21</container>
+<container parent="cid36590" type="Folder">14</container>
+<unitdate>1971.</unitdate>
+</did>
+</c02>
+<c02 id="ref73" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36589" type="Box">21</container>
+<container parent="cid36589" type="Folder">15</container>
+<unitdate>1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref74" level="file">
+<did>
+<unittitle>Board meeting.</unittitle>
+<container id="cid36588" type="Box">21</container>
+<container parent="cid36588" type="Folder">16</container>
+<unitdate>1970.</unitdate>
+</did>
+</c02>
+<c02 id="ref75" level="file">
+<did>
+<unittitle>
+<title>Psychophysiology</title> (journal).</unittitle>
+<container id="cid36587" type="Box">21</container>
+<container parent="cid36587" type="Folder">17</container>
+<unitdate>1970-1971.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref76" level="series">
+<did>
+<unittitle>Graham, Frances K.</unittitle>
+</did>
+<c02 id="ref77" level="file">
+<did>
+<unittitle>Letter 
+<emph render="italic">re</emph> Frances and David Graham files.</unittitle>
+<container id="cid36586" type="Box">20</container>
+<container parent="cid36586" type="Folder">1</container>
+<unitdate>1986.</unitdate>
+</did>
+</c02>
+<c02 id="ref78" level="file">
+<did>
+<unittitle>Commission (past presidents).</unittitle>
+<container id="cid36585" type="Box">20</container>
+<container parent="cid36585" type="Folder">2</container>
+<unitdate>1976-1977.</unitdate>
+</did>
+</c02>
+<c02 id="ref79" level="file">
+<did>
+<unittitle>Nominating committee chairman.</unittitle>
+<container id="cid36584" type="Box">20</container>
+<container parent="cid36584" type="Folder">3</container>
+<unitdate>1976-1977.</unitdate>
+</did>
+</c02>
+<c02 id="ref80" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36583" type="Box">20</container>
+<container parent="cid36583" type="Folder">4</container>
+<unitdate>1976-1977.</unitdate>
+</did>
+</c02>
+<c02 id="ref81" level="file">
+<did>
+<unittitle>Budget / financial.</unittitle>
+<container id="cid36582" type="Box">20</container>
+<container parent="cid36582" type="Folder">5</container>
+<unitdate>1973-1976, 1980.</unitdate>
+</did>
+</c02>
+<c02 id="ref82" level="file">
+<did>
+<unittitle>Award committee.</unittitle>
+<container id="cid36581" type="Box">20</container>
+<container parent="cid36581" type="Folder">6</container>
+<unitdate>1973-1975.</unitdate>
+</did>
+</c02>
+<c02 id="ref83" level="file">
+<did>
+<unittitle>Deception committee.</unittitle>
+<container id="cid36580" type="Box">20</container>
+<container parent="cid36580" type="Folder">7</container>
+<unitdate>1973-1976.</unitdate>
+</did>
+</c02>
+<c02 id="ref84" level="file">
+<did>
+<unittitle>Emeritus status.</unittitle>
+<container id="cid36579" type="Box">20</container>
+<container parent="cid36579" type="Folder">8</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref85" level="file">
+<did>
+<unittitle>Ethics committee.</unittitle>
+<container id="cid36578" type="Box">20</container>
+<container parent="cid36578" type="Folder">9</container>
+<unitdate>1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref86" level="file">
+<did>
+<unittitle>Information retrieval committee.</unittitle>
+<container id="cid36577" type="Box">20</container>
+<container parent="cid36577" type="Folder">10</container>
+<unitdate>1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref87" level="file">
+<did>
+<unittitle>Letters, miscellaneous.</unittitle>
+<container id="cid36576" type="Box">20</container>
+<container parent="cid36576" type="Folder">11</container>
+<unitdate>1973-1975.</unitdate>
+</did>
+</c02>
+<c02 id="ref88" level="file">
+<did>
+<unittitle>Local arrangements.</unittitle>
+<container id="cid36575" type="Box">20</container>
+<container parent="cid36575" type="Folder">12</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref89" level="file">
+<did>
+<unittitle>Membership committee.</unittitle>
+<container id="cid36574" type="Box">20</container>
+<container parent="cid36574" type="Folder">13</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref90" level="file">
+<did>
+<unittitle>Michigan corporation report.</unittitle>
+<container id="cid36573" type="Box">20</container>
+<container parent="cid36573" type="Folder">14</container>
+<unitdate>1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref91" level="file">
+<did>
+<unittitle>Nominations committee.</unittitle>
+<container id="cid36572" type="Box">20</container>
+<container parent="cid36572" type="Folder">15</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref92" level="file">
+<did>
+<unittitle>Obrist, Dr. Paul (president-elect).</unittitle>
+<container id="cid36571" type="Box">20</container>
+<container parent="cid36571" type="Folder">16</container>
+<unitdate>1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref93" level="file">
+<did>
+<unittitle>Program for 1974 Annual Meeting.</unittitle>
+<container id="cid36570" type="Box">20</container>
+<container parent="cid36570" type="Folder">17</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref94" level="file">
+<did>
+<unittitle>1974 Publications Board.</unittitle>
+<container id="cid36569" type="Box">20</container>
+<container parent="cid36569" type="Folder">18</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref95" level="file">
+<did>
+<unittitle>Safety committee.</unittitle>
+<container id="cid36568" type="Box">20</container>
+<container parent="cid36568" type="Folder">19</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref96" level="file">
+<did>
+<unittitle>Incoming board.</unittitle>
+<container id="cid36567" type="Box">20</container>
+<container parent="cid36567" type="Folder">20</container>
+<unitdate>1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref97" level="file">
+<did>
+<unittitle>Board meeting (outgoing).</unittitle>
+<container id="cid36566" type="Box">20</container>
+<container parent="cid36566" type="Folder">21</container>
+<unitdate>1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref98" level="file">
+<did>
+<unittitle>Board memos.</unittitle>
+<container id="cid36565" type="Box">20</container>
+<container parent="cid36565" type="Folder">22</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref99" level="file">
+<did>
+<unittitle>Committees.</unittitle>
+<container id="cid36564" type="Box">20</container>
+<container parent="cid36564" type="Folder">23</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref100" level="file">
+<did>
+<unittitle>Incoming board.</unittitle>
+<container id="cid36563" type="Box">20</container>
+<container parent="cid36563" type="Folder">24</container>
+<unitdate>1973.</unitdate>
+</did>
+</c02>
+<c02 id="ref101" level="file">
+<did>
+<unittitle>Outgoing board</unittitle>
+<container id="cid36562" type="Box">20</container>
+<container parent="cid36562" type="Folder">25</container>
+<unitdate>1973,1972-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref102" level="file">
+<did>
+<unittitle>By-laws.</unittitle>
+<container id="cid36561" type="Box">20</container>
+<container parent="cid36561" type="Folder">26</container>
+<unitdate>1972-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref103" level="file">
+<did>
+<unittitle>By-laws committee.</unittitle>
+<container id="cid36560" type="Box">20</container>
+<container parent="cid36560" type="Folder">27</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref104" level="file">
+<did>
+<unittitle>Old ballots.</unittitle>
+<container id="cid36559" type="Box">20</container>
+<container parent="cid36559" type="Folder">28</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref105" level="file">
+<did>
+<unittitle>Publications board.</unittitle>
+<container id="cid36558" type="Box">20</container>
+<container parent="cid36558" type="Folder">29</container>
+<unitdate>1973.</unitdate>
+</did>
+</c02>
+<c02 id="ref106" level="file">
+<did>
+<unittitle>President--to dues.</unittitle>
+<container id="cid36557" type="Box">20</container>
+<container parent="cid36557" type="Folder">30</container>
+<unitdate>1973-1974.</unitdate>
+</did>
+</c02>
+<c02 id="ref107" level="file">
+<did>
+<unittitle>Post Society for Psychophysiological Research meeting.</unittitle>
+<container id="cid36556" type="Box">20</container>
+<container parent="cid36556" type="Folder">31</container>
+<unitdate>1972-1973.</unitdate>
+</did>
+</c02>
+<c02 id="ref108" level="file">
+<did>
+<unittitle>President-elect--
+<emph render="italic">re</emph> appointments.</unittitle>
+<container id="cid36555" type="Box">21</container>
+<container parent="cid36555" type="Folder">1</container>
+<unitdate>1972-1973.</unitdate>
+</did>
+</c02>
+<c02 id="ref109" level="file">
+<did>
+<unittitle>Board.</unittitle>
+<container id="cid36554" type="Box">21</container>
+<container parent="cid36554" type="Folder">2</container>
+<unitdate>1963-1972.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref110" level="series">
+<did>
+<unittitle>Grings, William W.</unittitle>
+</did>
+<c02 id="ref111" level="file">
+<did>
+<unittitle>Lacroix, Michael--correspondence.</unittitle>
+<container id="cid36553" type="Box">15</container>
+<container parent="cid36553" type="Folder">5</container>
+<unitdate>1987.</unitdate>
+</did>
+</c02>
+<c02 id="ref112" level="file">
+<did>
+<unittitle>Administration.</unittitle>
+<container id="cid36552" type="Box">15</container>
+<container parent="cid36552" type="Folder">6</container>
+<unitdate>November 1966-October 1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref113" level="file">
+<did>
+<unittitle>Administration.</unittitle>
+<container id="cid36551" type="Box">15</container>
+<container parent="cid36551" type="Folder">7</container>
+<unitdate>October 1967-December 31, 1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref114" level="file">
+<did>
+<unittitle>Administration.</unittitle>
+<container id="cid36550" type="Box">15</container>
+<container parent="cid36550" type="Folder">8</container>
+<unitdate>January 1968-March 1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref115" level="file">
+<did>
+<unittitle>Administration.</unittitle>
+<container id="cid36549" type="Box">16</container>
+<container parent="cid36549" type="Folder">1</container>
+<unitdate>April 1968-November 1968.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref116" level="series">
+<did>
+<unittitle>Gustafson, Lawrence A.</unittitle>
+</did>
+<c02 id="ref117" level="file">
+<did>
+<unittitle>Active job applicants.</unittitle>
+<container id="cid36548" type="Box">12</container>
+<container parent="cid36548" type="Folder">6</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref118" level="file">
+<did>
+<unittitle>Correspondence to--
+<emph render="italic">re</emph> positions.</unittitle>
+<container id="cid36547" type="Box">12</container>
+<container parent="cid36547" type="Folder">7</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref119" level="file">
+<did>
+<unittitle>Correspondence from--
+<emph render="italic">re</emph> positions.</unittitle>
+<container id="cid36546" type="Box">12</container>
+<container parent="cid36546" type="Folder">8</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref120" level="file">
+<did>
+<unittitle>Positions filled.</unittitle>
+<container id="cid36545" type="Box">12</container>
+<container parent="cid36545" type="Folder">9</container>
+<unitdate>1963-1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref121" level="file">
+<did>
+<unittitle>Change of address.</unittitle>
+<container id="cid36544" type="Box">12</container>
+<container parent="cid36544" type="Folder">10</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref122" level="series">
+<did>
+<unittitle>Johnson, Laverne C.</unittitle>
+</did>
+<c02 id="ref123" level="file">
+<did>
+<unittitle>New members list and financial statements.</unittitle>
+<container id="cid36543" type="Box">1</container>
+<container parent="cid36543" type="Folder">2</container>
+<unitdate>1968-1969.</unitdate>
+</did>
+</c02>
+<c02 id="ref124" level="file">
+<did>
+<unittitle>Official Society for Psychophysiological Research minutes.</unittitle>
+<container id="cid36542" type="Box">1</container>
+<container parent="cid36542" type="Folder">3</container>
+<unitdate>1968-1969.</unitdate>
+</did>
+</c02>
+<c02 id="ref125" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid36541" type="Box">1</container>
+<container parent="cid36541" type="Folder">4</container>
+<unitdate>1968-1969.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref126" level="series">
+<did>
+<unittitle>Lykken, David T.</unittitle>
+</did>
+<c02 id="ref127" level="file">
+<did>
+<unittitle>Note to Don Fowles.</unittitle>
+<container id="cid36540" type="Box">16</container>
+<container parent="cid36540" type="Folder">6</container>
+<unitdate>1981.</unitdate>
+</did>
+</c02>
+<c02 id="ref128" level="file">
+<did>
+<unittitle>Letters from Lykken.</unittitle>
+<container id="cid36539" type="Box">16</container>
+<container parent="cid36539" type="Folder">7</container>
+<unitdate>1980-1981.</unitdate>
+</did>
+</c02>
+<c02 id="ref129" level="file">
+<did>
+<unittitle>Society for Psychophysiological Research committees.</unittitle>
+<container id="cid36538" type="Box">16</container>
+<container parent="cid36538" type="Folder">8</container>
+<unitdate>1980.</unitdate>
+</did>
+</c02>
+<c02 id="ref130" level="file">
+<did>
+<unittitle>1981 meeting plans.</unittitle>
+<container id="cid36537" type="Box">16</container>
+<container parent="cid36537" type="Folder">9</container>
+<unitdate>1980-1981.</unitdate>
+</did>
+</c02>
+<c02 id="ref131" level="file">
+<did>
+<unittitle>AAAS materials.</unittitle>
+<container id="cid36536" type="Box">16</container>
+<container parent="cid36536" type="Folder">10</container>
+<unitdate>1979-1981.</unitdate>
+</did>
+</c02>
+<c02 id="ref132" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36535" type="Box">16</container>
+<container parent="cid36535" type="Folder">11</container>
+<unitdate>1979-1981,1987.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref133" level="series">
+<did>
+<unittitle>Orne, Martin T.--Correspondence up to</unittitle>
+<unitdate>December 10, 1963</unitdate>
+</did>
+<c02 id="ref134" level="file">
+<did>
+<unittitle>Old Orne--Ax correspondence.</unittitle>
+<container id="cid36534" type="Box">13</container>
+<container parent="cid36534" type="Folder">19</container>
+<unitdate>1959-1963.</unitdate>
+</did>
+</c02>
+<c02 id="ref135" level="file">
+<did>
+<unittitle>Orne correspondence.</unittitle>
+<container id="cid36533" type="Box">13</container>
+<container parent="cid36533" type="Folder">20</container>
+<unitdate>1962-1963.</unitdate>
+</did>
+</c02>
+<c02 id="ref136" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid36532" type="Box">13</container>
+<container parent="cid36532" type="Folder">21</container>
+<unitdate>1962-1963.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref137" level="series">
+<did>
+<unittitle>
+<title>Polygraph Newsletter</title></unittitle>
+</did>
+<c02 id="ref138" level="file">
+<did>
+<unittitle>vol.1 no.1-2.</unittitle>
+<container id="cid36531" type="Box">14</container>
+<container parent="cid36531" type="Folder">1</container>
+<unitdate>1955</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref139" level="series">
+<did>
+<unittitle>Prokasy, William F.</unittitle>
+</did>
+<c02 id="ref140" level="file">
+<did>
+<unittitle>General--editorial board.</unittitle>
+<container id="cid36530" type="Box">15</container>
+<container parent="cid36530" type="Folder">1</container>
+<unitdate>1980-1983.</unitdate>
+</did>
+</c02>
+<c02 id="ref141" level="file">
+<did>
+<unittitle>1982 Annual Meeting.</unittitle>
+<container id="cid36529" type="Box">15</container>
+<container parent="cid36529" type="Folder">2</container>
+<unitdate>1981-1982.</unitdate>
+</did>
+</c02>
+<c02 id="ref142" level="file">
+<did>
+<unittitle>1983 Annual Meeting.</unittitle>
+<container id="cid36528" type="Box">15</container>
+<container parent="cid36528" type="Folder">3</container>
+<unitdate>1982-1983.</unitdate>
+</did>
+</c02>
+<c02 id="ref143" level="file">
+<did>
+<unittitle>Society for Psychophysiology Presidency.</unittitle>
+<container id="cid36527" type="Box">15</container>
+<container parent="cid36527" type="Folder">4</container>
+<unitdate>1981-1984.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref144" level="series">
+<did>
+<unittitle>
+<title>Psychophysiological Measurements Newsletter</title></unittitle>
+</did>
+<c02 id="ref145" level="file">
+<did>
+<unittitle>vol.2 no.1-3.</unittitle>
+<container id="cid36526" type="Box">14</container>
+<container parent="cid36526" type="Folder">2</container>
+<unitdate>1956</unitdate>
+</did>
+</c02>
+<c02 id="ref146" level="file">
+<did>
+<unittitle>vol.3 no.1.</unittitle>
+<container id="cid36525" type="Box">14</container>
+<container parent="cid36525" type="Folder">3</container>
+<unitdate>1957</unitdate>
+</did>
+</c02>
+<c02 id="ref147" level="file">
+<did>
+<unittitle>vol.4 no.1-3.</unittitle>
+<container id="cid36524" type="Box">14</container>
+<container parent="cid36524" type="Folder">4</container>
+<unitdate>1958</unitdate>
+</did>
+</c02>
+<c02 id="ref148" level="file">
+<did>
+<unittitle>vol.5 no.1-3.</unittitle>
+<container id="cid36523" type="Box">14</container>
+<container parent="cid36523" type="Folder">5</container>
+<unitdate>1959</unitdate>
+</did>
+</c02>
+<c02 id="ref149" level="file">
+<did>
+<unittitle>vol.6 no.1-2.</unittitle>
+<container id="cid36522" type="Box">14</container>
+<container parent="cid36522" type="Folder">6</container>
+<unitdate>1960</unitdate>
+</did>
+</c02>
+<c02 id="ref150" level="file">
+<did>
+<unittitle>vol.7 no.1-2.</unittitle>
+<container id="cid36521" type="Box">14</container>
+<container parent="cid36521" type="Folder">7</container>
+<unitdate>1961</unitdate>
+</did>
+</c02>
+<c02 id="ref151" level="file">
+<did>
+<unittitle>vol.8 no.1-2.</unittitle>
+<container id="cid36520" type="Box">14</container>
+<container parent="cid36520" type="Folder">8</container>
+<unitdate>1962</unitdate>
+</did>
+</c02>
+<c02 id="ref152" level="file">
+<did>
+<unittitle>vol. 9.</unittitle>
+<container id="cid36519" type="Box">14</container>
+<container parent="cid36519" type="Folder">9</container>
+<unitdate>1963</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref153" level="series">
+<did>
+<unittitle>
+<title>Psychophysiology</title> (journal)</unittitle>
+</did>
+<c02 id="ref154" level="file">
+<did>
+<unittitle>vol.1 no.1-2.</unittitle>
+<container id="cid36518" type="Box">3</container>
+<container parent="cid36518" type="Folder">13</container>
+<unitdate>1964</unitdate>
+</did>
+</c02>
+<c02 id="ref155" level="file">
+<did>
+<unittitle>vol.1 no.3-4; vol.2 no.1-2).</unittitle>
+<container id="cid36517" type="Box">4</container>
+<container parent="cid36517" type="Folder">1</container>
+<unitdate>1965</unitdate>
+</did>
+</c02>
+<c02 id="ref156" level="file">
+<did>
+<unittitle>vol.2 no.3-4; vol.3 no.1-2).</unittitle>
+<container id="cid36516" type="Box">4</container>
+<container parent="cid36516" type="Folder">2</container>
+<unitdate>1966</unitdate>
+</did>
+</c02>
+<c02 id="ref157" level="file">
+<did>
+<unittitle>vol.3 no.3-4; vol.4 no.1-2.</unittitle>
+<container id="cid36515" type="Box">4</container>
+<container parent="cid36515" type="Folder">3</container>
+<unitdate>1967</unitdate>
+</did>
+</c02>
+<c02 id="ref158" level="file">
+<did>
+<unittitle>vol.4 no.3-4; vol.5 no.1-3.</unittitle>
+<container id="cid36514" type="Box">4</container>
+<container parent="cid36514" type="Folder">4</container>
+<unitdate>1968</unitdate>
+</did>
+</c02>
+<c02 id="ref159" level="file">
+<did>
+<unittitle>vol.5 no.4-6; vol.6 no.1-3.</unittitle>
+<container id="cid36513" type="Box">5</container>
+<container parent="cid36513" type="Folder">1</container>
+<unitdate>1969</unitdate>
+</did>
+</c02>
+<c02 id="ref160" level="file">
+<did>
+<unittitle>vol.6 no.4-6; vol.7 no.1-3.</unittitle>
+<container id="cid36512" type="Box">5</container>
+<container parent="cid36512" type="Folder">2</container>
+<unitdate>1970</unitdate>
+</did>
+</c02>
+<c02 id="ref161" level="file">
+<did>
+<unittitle>vol.8 no.1.</unittitle>
+<container id="cid36511" type="Box">5</container>
+<container parent="cid36511" type="Folder">3</container>
+<unitdate>1971</unitdate>
+</did>
+</c02>
+<c02 id="ref162" level="file">
+<did>
+<unittitle>vol.8 no.2-6.</unittitle>
+<container id="cid36510" type="Box">6</container>
+<container parent="cid36510" type="Folder">1</container>
+<unitdate>1971</unitdate>
+</did>
+</c02>
+<c02 id="ref163" level="file">
+<did>
+<unittitle>vol.8 no.1-6.</unittitle>
+<container id="cid36509" type="Box">6</container>
+<container parent="cid36509" type="Folder">2</container>
+<unitdate>1972</unitdate>
+</did>
+</c02>
+<c02 id="ref164" level="file">
+<did>
+<unittitle>vol.10 no.1-4.</unittitle>
+<container id="cid36508" type="Box">6</container>
+<container parent="cid36508" type="Folder">3</container>
+<unitdate>1973</unitdate>
+</did>
+</c02>
+<c02 id="ref165" level="file">
+<did>
+<unittitle>vol.10 no.5-6.</unittitle>
+<container id="cid36507" type="Box">7</container>
+<container parent="cid36507" type="Folder">1</container>
+<unitdate>1973</unitdate>
+</did>
+</c02>
+<c02 id="ref166" level="file">
+<did>
+<unittitle>vol.11 no.1-6.</unittitle>
+<container id="cid36506" type="Box">7</container>
+<container parent="cid36506" type="Folder">2</container>
+<unitdate>1974</unitdate>
+</did>
+</c02>
+<c02 id="ref167" level="file">
+<did>
+<unittitle>vol.12 no.1-6.</unittitle>
+<container id="cid36505" type="Box">7</container>
+<container parent="cid36505" type="Folder">3</container>
+<unitdate>1975</unitdate>
+</did>
+</c02>
+<c02 id="ref168" level="file">
+<did>
+<unittitle>vol.13 no.1-3.</unittitle>
+<container id="cid36504" type="Box">7</container>
+<container parent="cid36504" type="Folder">4</container>
+<unitdate>1976</unitdate>
+</did>
+</c02>
+<c02 id="ref169" level="file">
+<did>
+<unittitle>vol.13 no.4-6.</unittitle>
+<container id="cid36503" type="Box">8</container>
+<container parent="cid36503" type="Folder">1</container>
+<unitdate>1976</unitdate>
+</did>
+</c02>
+<c02 id="ref170" level="file">
+<did>
+<unittitle>vol.14 no.1-6.</unittitle>
+<container id="cid36502" type="Box">8</container>
+<container parent="cid36502" type="Folder">2</container>
+<unitdate>1977</unitdate>
+</did>
+</c02>
+<c02 id="ref171" level="file">
+<did>
+<unittitle>vol.15 no.1-4, 6.</unittitle>
+<container id="cid36501" type="Box">8</container>
+<container parent="cid36501" type="Folder">3</container>
+<unitdate>1978</unitdate>
+</did>
+</c02>
+<c02 id="ref172" level="file">
+<did>
+<unittitle>vol.16 no.1-2, 4.</unittitle>
+<container id="cid36500" type="Box">8</container>
+<container parent="cid36500" type="Folder">4</container>
+<unitdate>1979</unitdate>
+</did>
+</c02>
+<c02 id="ref173" level="file">
+<did>
+<unittitle>vol.17 no.1-6.</unittitle>
+<container id="cid36499" type="Box">9</container>
+<container parent="cid36499" type="Folder">1</container>
+<unitdate>1980</unitdate>
+</did>
+</c02>
+<c02 id="ref174" level="file">
+<did>
+<unittitle>vol.18 no.1-3.</unittitle>
+<container id="cid36498" type="Box">9</container>
+<container parent="cid36498" type="Folder">2</container>
+<unitdate>1981</unitdate>
+</did>
+</c02>
+<c02 id="ref175" level="file">
+<did>
+<unittitle>vol.19 no.2-6.</unittitle>
+<container id="cid36497" type="Box">9</container>
+<container parent="cid36497" type="Folder">3</container>
+<unitdate>1982</unitdate>
+</did>
+</c02>
+<c02 id="ref176" level="file">
+<did>
+<unittitle>vol.20 no.1-6.</unittitle>
+<container id="cid36496" type="Box">10</container>
+<container parent="cid36496" type="Folder">1</container>
+<unitdate>1983</unitdate>
+</did>
+</c02>
+<c02 id="ref177" level="file">
+<did>
+<unittitle>vol.21 no.1-5</unittitle>
+<container id="cid36495" type="Box">10</container>
+<container parent="cid36495" type="Folder">2</container>
+<unitdate>1984</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref178" level="series">
+<did>
+<unittitle>
+<title>Psychophysiology Newsletter</title></unittitle>
+</did>
+<c02 id="ref179" level="file">
+<did>
+<unittitle>vol.1; vol.9.</unittitle>
+<container id="cid36494" type="Box">1</container>
+<container parent="cid36494" type="Folder">1</container>
+<unitdate>1955 1963</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref180" level="series">
+<did>
+<unittitle>Roessler, Robert</unittitle>
+</did>
+<c02 id="ref181" level="file">
+<did>
+<unittitle>Miscellaneous papers.</unittitle>
+<container id="cid36493" type="Box">3</container>
+<container parent="cid36493" type="Folder">9</container>
+<unitdate>1971-1972.</unitdate>
+</did>
+</c02>
+<c02 id="ref182" level="file">
+<did>
+<unittitle>Minutes.</unittitle>
+<container id="cid36492" type="Box">3</container>
+<container parent="cid36492" type="Folder">10</container>
+<unitdate>1971-1972.</unitdate>
+</did>
+</c02>
+<c02 id="ref183" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid36491" type="Box">3</container>
+<container parent="cid36491" type="Folder">11</container>
+<unitdate>1971.</unitdate>
+</did>
+</c02>
+<c02 id="ref184" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid36490" type="Box">3</container>
+<container parent="cid36490" type="Folder">12</container>
+<unitdate>1972.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref185" level="series">
+<did>
+<unittitle>Stern, John A</unittitle>
+</did>
+<c02 id="ref186" level="file">
+<did>
+<unittitle>Programs.</unittitle>
+<container id="cid36489" type="Box">2</container>
+<container parent="cid36489" type="Folder">1</container>
+<unitdate>1969-1972, 1974, 1976.</unitdate>
+</did>
+</c02>
+<c02 id="ref187" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid36488" type="Box">2</container>
+<container parent="cid36488" type="Folder">2</container>
+<unitdate>May 7, 1970-December 5, 1973.</unitdate>
+</did>
+</c02>
+<c02 id="ref188" level="file">
+<did>
+<unittitle>1971 meeting at St. Louis.</unittitle>
+<container id="cid36487" type="Box">2</container>
+<container parent="cid36487" type="Folder">3</container>
+<unitdate>November 1969-December 1971.</unitdate>
+</did>
+</c02>
+<c02 id="ref189" level="file">
+<did>
+<unittitle>Membership rosters.</unittitle>
+<container id="cid36486" type="Box">2</container>
+<container parent="cid36486" type="Folder">4</container>
+<unitdate>1970, 1971, 1973.</unitdate>
+</did>
+</c02>
+<c02 id="ref190" level="file">
+<did>
+<unittitle>Miscellaneous papers.</unittitle>
+<container id="cid36485" type="Box">2</container>
+<container parent="cid36485" type="Folder">5</container>
+<unitdate>January 1970-July 1975.</unitdate>
+</did>
+</c02>
+<c02 id="ref191" level="file">
+<did>
+<unittitle>Board meeting minutes and agenda.</unittitle>
+<container id="cid36484" type="Box">2</container>
+<container parent="cid36484" type="Folder">6</container>
+<unitdate>January 1971-October 1971.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref192" level="series">
+<did>
+<unittitle>Wenger, Marion A.</unittitle>
+</did>
+<c02 id="ref193" level="file">
+<did>
+<unittitle>Letter from Robert Edelberg.</unittitle>
+<container id="cid36483" type="Box">16</container>
+<container parent="cid36483" type="Folder">12</container>
+<unitdate>1978.</unitdate>
+</did>
+</c02>
+<c02 id="ref194" level="file">
+<did>
+<unittitle>Letter from Albert Ax and copies of relevant Newsletters.</unittitle>
+<container id="cid36482" type="Box">16</container>
+<container parent="cid36482" type="Folder">13</container>
+<unitdate>1959, 1961, 1971.</unitdate>
+</did>
+</c02>
+<c02 id="ref195" level="file">
+<did>
+<unittitle>Personal history related to Society for Psychophysiological Research and APA.</unittitle>
+<container id="cid36481" type="Box">16</container>
+<container parent="cid36481" type="Folder">14</container>
+<unitdate>1961-1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref196" level="file">
+<did>
+<unittitle>Archives of Society for Psychophysiological Research president.</unittitle>
+<container id="cid36480" type="Box">16</container>
+<container parent="cid36480" type="Folder">15</container>
+<unitdate>1962.</unitdate>
+</did>
+</c02>
+<c02 id="ref197" level="file">
+<did>
+<unittitle>Early Society for Psychophysiological Research, 
+<emph render="italic">re</emph> Journal.</unittitle>
+<container id="cid36479" type="Box">16</container>
+<container parent="cid36479" type="Folder">16</container>
+<unitdate>1962-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref198" level="file">
+<did>
+<unittitle>Acceptance of the Society's archives to UCLA.</unittitle>
+<container id="cid36478" type="Box">16</container>
+<container parent="cid36478" type="Folder">17</container>
+<unitdate>1977.</unitdate>
+</did>
+</c02>
+<c02 id="ref199" level="file">
+<did>
+<unittitle>Papers for the journal.</unittitle>
+<container id="cid36477" type="Box">16</container>
+<container parent="cid36477" type="Folder">18</container>
+<unitdate>1962.</unitdate>
+</did>
+</c02>
+<c02 id="ref200" level="file">
+<did>
+<unittitle>Organizational meeting.</unittitle>
+<container id="cid36476" type="Box">16</container>
+<container parent="cid36476" type="Folder">19</container>
+<unitdate>September 1959.</unitdate>
+</did>
+</c02>
+<c02 id="ref201" level="file">
+<did>
+<unittitle>Meeting.</unittitle>
+<container id="cid36475" type="Box">16</container>
+<container parent="cid36475" type="Folder">20</container>
+<unitdate>September 1960.</unitdate>
+</did>
+</c02>
+<c02 id="ref202" level="file">
+<did>
+<unittitle>Matters for board discussion.</unittitle>
+<container id="cid36474" type="Box">16</container>
+<container parent="cid36474" type="Folder">21</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref203" level="file">
+<did>
+<unittitle>By laws.</unittitle>
+<container id="cid36473" type="Box">16</container>
+<container parent="cid36473" type="Folder">22</container>
+<unitdate>1961-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref204" level="file">
+<did>
+<unittitle>
+<emph render="italic">re</emph> journal.</unittitle>
+<container id="cid36472" type="Box">16</container>
+<container parent="cid36472" type="Folder">23</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref205" level="file">
+<did>
+<unittitle>Correspondence with Secretary-Treasurer.</unittitle>
+<container id="cid36471" type="Box">17</container>
+<container parent="cid36471" type="Folder">1</container>
+<unitdate>1963-1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref206" level="file">
+<did>
+<unittitle>Society for Psychophysiological Research archives.</unittitle>
+<container id="cid36470" type="Box">17</container>
+<container parent="cid36470" type="Folder">2</container>
+<unitdate>1971.</unitdate>
+</did>
+</c02>
+<c02 id="ref207" level="file">
+<did>
+<unittitle>Communications to membership.</unittitle>
+<container id="cid36469" type="Box">17</container>
+<container parent="cid36469" type="Folder">3</container>
+<unitdate>1963-1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref208" level="file">
+<did>
+<unittitle>Correspondence with board.</unittitle>
+<container id="cid36468" type="Box">17</container>
+<container parent="cid36468" type="Folder">4</container>
+<unitdate>1963-1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref209" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36467" type="Box">17</container>
+<container parent="cid36467" type="Folder">5</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref210" level="file">
+<did>
+<unittitle>Correspondence with Albert Ax.</unittitle>
+<container id="cid36466" type="Box">17</container>
+<container parent="cid36466" type="Folder">6</container>
+<unitdate>1963-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref211" level="file">
+<did>
+<unittitle>Miscellaneous.</unittitle>
+<container id="cid36465" type="Box">17</container>
+<container parent="cid36465" type="Folder">7</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref212" level="file">
+<did>
+<unittitle>Symposium and other correspondence.</unittitle>
+<container id="cid36464" type="Box">17</container>
+<container parent="cid36464" type="Folder">8</container>
+<unitdate>1962.</unitdate>
+</did>
+</c02>
+<c02 id="ref213" level="file">
+<did>
+<unittitle>General correspondence.</unittitle>
+<container id="cid36463" type="Box">17</container>
+<container parent="cid36463" type="Folder">9</container>
+<unitdate>November 1964-1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref214" level="file">
+<did>
+<unittitle>Membership roster.</unittitle>
+<container id="cid36462" type="Box">17</container>
+<container parent="cid36462" type="Folder">10</container>
+<unitdate>1962.</unitdate>
+</did>
+</c02>
+<c02 id="ref215" level="file">
+<did>
+<unittitle>Actions of Board of Directors.</unittitle>
+<container id="cid36461" type="Box">17</container>
+<container parent="cid36461" type="Folder">11</container>
+<unitdate>1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref216" level="file">
+<did>
+<unittitle>Board of Directors meeting.</unittitle>
+<container id="cid36460" type="Box">17</container>
+<container parent="cid36460" type="Folder">12</container>
+<unitdate>1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref217" level="file">
+<did>
+<unittitle>Correspondence with Betty Wieland.</unittitle>
+<container id="cid36459" type="Box">17</container>
+<container parent="cid36459" type="Folder">13</container>
+<unitdate>1966.</unitdate>
+</did>
+<odd id="ref219">
+<head>General note</head>
+<p>(See also Wieland, Betty, Ph.D)</p>
+</odd>
+</c02>
+<c02 id="ref220" level="file">
+<did>
+<unittitle>Membership list.</unittitle>
+<container id="cid36458" type="Box">17</container>
+<container parent="cid36458" type="Folder">14</container>
+<unitdate>October 1976.</unitdate>
+</did>
+</c02>
+<c02 id="ref221" level="file">
+<did>
+<unittitle>Society for Psychophysiological Research meeting program booklet.</unittitle>
+<container id="cid36457" type="Box">17</container>
+<container parent="cid36457" type="Folder">15</container>
+<unitdate>1969.</unitdate>
+</did>
+</c02>
+<c02 id="ref222" level="file">
+<did>
+<unittitle>Article by Sherwin J. Klein.</unittitle>
+<container id="cid36456" type="Box">17</container>
+<container parent="cid36456" type="Folder">16</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref223" level="file">
+<did>
+<unittitle>
+<emph render="italic">re</emph> archives of Society for Psychophysiological Research.</unittitle>
+<container id="cid36455" type="Box">17</container>
+<container parent="cid36455" type="Folder">17</container>
+<unitdate>1976-1977.</unitdate>
+</did>
+</c02>
+<c02 id="ref224" level="file">
+<did>
+<unittitle>Correspondence, 
+<emph render="italic">re</emph> Society for Psychophysiological Research archives.</unittitle>
+<container id="cid36454" type="Box">17</container>
+<container parent="cid36454" type="Folder">18</container>
+<unitdate>1976-1977.</unitdate>
+</did>
+</c02>
+<c02 id="ref225" level="file">
+<did>
+<unittitle>Journal--manuscripts reviewed.</unittitle>
+<container id="cid36453" type="Box">17</container>
+<container parent="cid36453" type="Folder">19</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref226" level="file">
+<did>
+<unittitle>Journal--manuscripts reviewed.</unittitle>
+<container id="cid36452" type="Box">17</container>
+<container parent="cid36452" type="Folder">20</container>
+<unitdate>1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref227" level="file">
+<did>
+<unittitle>Abstracts--correspondence.</unittitle>
+<container id="cid36451" type="Box">17</container>
+<container parent="cid36451" type="Folder">21</container>
+<unitdate>1964-1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref228" level="file">
+<did>
+<unittitle>Abstracts--submitted.</unittitle>
+<container id="cid36450" type="Box">17</container>
+<container parent="cid36450" type="Folder">22</container>
+<unitdate>1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref229" level="file">
+<did>
+<unittitle>General correspondence.</unittitle>
+<container id="cid36449" type="Box">17</container>
+<container parent="cid36449" type="Folder">23</container>
+<unitdate>1966, 1970.</unitdate>
+</did>
+</c02>
+<c02 id="ref230" level="file">
+<did>
+<unittitle>Papers submitted for program at 2nd Annual Meeting.</unittitle>
+<container id="cid36448" type="Box">17</container>
+<container parent="cid36448" type="Folder">24</container>
+<unitdate>1962.</unitdate>
+</did>
+</c02>
+<c02 id="ref231" level="file">
+<did>
+<unittitle>Program for Society for Psychophysiological Research.</unittitle>
+<container id="cid36447" type="Box">17</container>
+<container parent="cid36447" type="Folder">25</container>
+<unitdate>1962.</unitdate>
+</did>
+</c02>
+<c02 id="ref232" level="file">
+<did>
+<unittitle>Membership.</unittitle>
+<container id="cid36446" type="Box">17</container>
+<container parent="cid36446" type="Folder">26</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref233" level="file">
+<did>
+<unittitle>Journal--manuscripts submitted.</unittitle>
+<container id="cid36445" type="Box">17</container>
+<container parent="cid36445" type="Folder">27</container>
+<unitdate>1964-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref234" level="file">
+<did>
+<unittitle>General.</unittitle>
+<container id="cid36444" type="Box">18</container>
+<container parent="cid36444" type="Folder">1</container>
+<unitdate>1964-1981.</unitdate>
+</did>
+</c02>
+<c02 id="ref235" level="file">
+<did>
+<unittitle>Notes and letters on the purpose and aims of the Society for Psychophysiological Research.</unittitle>
+<container id="cid36443" type="Box">18</container>
+<container parent="cid36443" type="Folder">2</container>
+<unitdate>1959.</unitdate>
+</did>
+</c02>
+<c02 id="ref236" level="file">
+<did>
+<unittitle>Letter and copy of Presidential Address from David T. Graham.</unittitle>
+<container id="cid36442" type="Box">18</container>
+<container parent="cid36442" type="Folder">3</container>
+<unitdate>1971.</unitdate>
+</did>
+</c02>
+<c02 id="ref237" level="file">
+<did>
+<unittitle>Membership lists.</unittitle>
+<container id="cid36441" type="Box">18</container>
+<container parent="cid36441" type="Folder">4</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref238" level="file">
+<did>
+<unittitle>
+<title>Psychophysiological newsletter</title>. , vol.2 no.1-2; vol.3 no.1-2; vol.4 no.1-3.</unittitle>
+<container id="cid36440" type="Box">18</container>
+<container parent="cid36440" type="Folder">5</container>
+<unitdate>1956-1958</unitdate>
+</did>
+</c02>
+<c02 id="ref239" level="file">
+<did>
+<unittitle>
+<title>Psychophysiology newsletter</title>, 1959-1963, vol.5 no.1-3; vol.6 no.1; vol.7 no.4; vol.8 no.3-4; vol.9.</unittitle>
+<container id="cid36439" type="Box">18</container>
+<container parent="cid36439" type="Folder">6</container>
+</did>
+</c02>
+<c02 id="ref240" level="file">
+<did>
+<unittitle>Venables, Peter H.--presidential correspondence.</unittitle>
+<container id="cid36438" type="Box">18</container>
+<container parent="cid36438" type="Folder">7</container>
+<unitdate>1974-1975, 1977.</unitdate>
+</did>
+</c02>
+<c02 id="ref241" level="file">
+<did>
+<unittitle>Donchin, Emanuel--presidential correspondence.</unittitle>
+<container id="cid36437" type="Box">18</container>
+<container parent="cid36437" type="Folder">8</container>
+<unitdate>1979-1980.</unitdate>
+</did>
+</c02>
+<c02 id="ref242" level="file">
+<did>
+<unittitle>History of Society for Psychophysiological Research (notes, letters, journals, etc.).</unittitle>
+<container id="cid36436" type="Box">19</container>
+<container parent="cid36436" type="Folder">1</container>
+<unitdate>1959-1971.</unitdate>
+</did>
+</c02>
+<c02 id="ref243" level="file">
+<did>
+<unittitle>Bibliography of psychophysiology, psychosomatic medicine, and related concepts.</unittitle>
+<container id="cid36435" type="Box">19</container>
+<container parent="cid36435" type="Folder">2</container>
+<unitdate>1963.</unitdate>
+</did>
+</c02>
+<c02 id="ref244" level="file">
+<did>
+<unittitle>A selected bibliography for psychophysiology.</unittitle>
+<container id="cid36434" type="Box">19</container>
+<container parent="cid36434" type="Folder">3</container>
+<unitdate>November 1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref245" level="file">
+<did>
+<unittitle>Society for Psychophysiological Research Annual Meeting programs.</unittitle>
+<container id="cid36433" type="Box">19</container>
+<container parent="cid36433" type="Folder">4</container>
+<unitdate>1965, 1970, 1975-1977, 1982.</unitdate>
+</did>
+</c02>
+<c02 id="ref246" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid36432" type="Box">19</container>
+<container parent="cid36432" type="Folder">5</container>
+<unitdate>September 1977.</unitdate>
+</did>
+</c02>
+<c02 id="ref247" level="file">
+<did>
+<unittitle>Letters concerning presidential correspondence for archival purposes.</unittitle>
+<container id="cid36431" type="Box">19</container>
+<container parent="cid36431" type="Folder">6</container>
+<unitdate>1977-1979.</unitdate>
+</did>
+</c02>
+<c02 id="ref248" level="file">
+<did>
+<unittitle>Mimeograph letters to Society for Psychophysiological Research membership.</unittitle>
+<container id="cid36430" type="Box">19</container>
+<container parent="cid36430" type="Folder">7</container>
+<unitdate>1968-1969.</unitdate>
+</did>
+</c02>
+<c02 id="ref249" level="file">
+<did>
+<unittitle>Memos from Dr. Bernard Engel.</unittitle>
+<container id="cid36429" type="Box">19</container>
+<container parent="cid36429" type="Folder">8</container>
+<unitdate>1970.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref250" level="series">
+<did>
+<unittitle>Wieland, Betty</unittitle>
+</did>
+<c02 id="ref251" level="file">
+<did>
+<unittitle>Address changes.</unittitle>
+<container id="cid36428" type="Box">10</container>
+<container parent="cid36428" type="Folder">3</container>
+<unitdate>1966-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref252" level="file">
+<did>
+<unittitle>Board of Directors.</unittitle>
+<container id="cid36427" type="Box">10</container>
+<container parent="cid36427" type="Folder">4</container>
+<unitdate>1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref253" level="file">
+<did>
+<unittitle>Board of Directors--correspondence.</unittitle>
+<container id="cid36426" type="Box">10</container>
+<container parent="cid36426" type="Folder">5</container>
+<unitdate>1967-1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref254" level="file">
+<did>
+<unittitle>Clinton C. Brown.</unittitle>
+<container id="cid36425" type="Box">10</container>
+<container parent="cid36425" type="Folder">6</container>
+<unitdate>1965-1966, 1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref255" level="file">
+<did>
+<unittitle>Grings, William W.--correspondence.</unittitle>
+<container id="cid36424" type="Box">11</container>
+<container parent="cid36424" type="Folder">1</container>
+<unitdate>1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref256" level="file">
+<did>
+<unittitle>Bryan, Mary Jo.</unittitle>
+<container id="cid36423" type="Box">11</container>
+<container parent="cid36423" type="Folder">2</container>
+<unitdate>1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref257" level="file">
+<did>
+<unittitle>Committee reports.</unittitle>
+<container id="cid36422" type="Box">11</container>
+<container parent="cid36422" type="Folder">3</container>
+</did>
+</c02>
+<c02 id="ref258" level="file">
+<did>
+<unittitle>Convention invitations.</unittitle>
+<container id="cid36421" type="Box">11</container>
+<container parent="cid36421" type="Folder">4</container>
+<unitdate>1965-1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref259" level="file">
+<did>
+<unittitle>Dykman, Roscoe A.</unittitle>
+<container id="cid36420" type="Box">11</container>
+<container parent="cid36420" type="Folder">5</container>
+<unitdate>1965-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref260" level="file">
+<did>
+<unittitle>Edelberg, Robert.</unittitle>
+<container id="cid36419" type="Box">11</container>
+<container parent="cid36419" type="Folder">6</container>
+<unitdate>1965-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref261" level="file">
+<did>
+<unittitle>Exhibitor's fees.</unittitle>
+<container id="cid36418" type="Box">11</container>
+<container parent="cid36418" type="Folder">7</container>
+<unitdate>1965-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref262" level="file">
+<did>
+<unittitle>Financial (Gustafson).</unittitle>
+<container id="cid36417" type="Box">11</container>
+<container parent="cid36417" type="Folder">8</container>
+<unitdate>1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref263" level="file">
+<did>
+<unittitle>Journal subscriptions.</unittitle>
+<container id="cid36416" type="Box">11</container>
+<container parent="cid36416" type="Folder">9</container>
+<unitdate>1965-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref264" level="file">
+<did>
+<unittitle>MacGregor Park National Bank.</unittitle>
+<container id="cid36415" type="Box">11</container>
+<container parent="cid36415" type="Folder">10</container>
+<unitdate>1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref265" level="file">
+<did>
+<unittitle>Margolin, Sydney G.</unittitle>
+<container id="cid36414" type="Box">11</container>
+<container parent="cid36414" type="Folder">11</container>
+<unitdate>1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref266" level="file">
+<did>
+<unittitle>1965 Annual Meeting.</unittitle>
+<container id="cid36413" type="Box">11</container>
+<container parent="cid36413" type="Folder">12</container>
+<unitdate>November 1965.</unitdate>
+</did>
+</c02>
+<c02 id="ref267" level="file">
+<did>
+<unittitle>1966 Annual Meeting.</unittitle>
+<container id="cid36412" type="Box">11</container>
+<container parent="cid36412" type="Folder">13</container>
+<unitdate>1965-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref268" level="file">
+<did>
+<unittitle>Resignations.</unittitle>
+<container id="cid36411" type="Box">11</container>
+<container parent="cid36411" type="Folder">14</container>
+<unitdate>1965-1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref269" level="file">
+<did>
+<unittitle>SDC proposal 438.</unittitle>
+<container id="cid36410" type="Box">11</container>
+<container parent="cid36410" type="Folder">15</container>
+<unitdate>1963.</unitdate>
+</did>
+</c02>
+<c02 id="ref270" level="file">
+<did>
+<unittitle>Special committees.</unittitle>
+<container id="cid36409" type="Box">11</container>
+<container parent="cid36409" type="Folder">16</container>
+<unitdate>1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref271" level="file">
+<did>
+<unittitle>Stern, John.</unittitle>
+<container id="cid36408" type="Box">11</container>
+<container parent="cid36408" type="Folder">17</container>
+<unitdate>1965-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref272" level="file">
+<did>
+<unittitle>Sternbach, Richard.</unittitle>
+<container id="cid36407" type="Box">11</container>
+<container parent="cid36407" type="Folder">18</container>
+<unitdate>1966-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref273" level="file">
+<did>
+<unittitle>Subscription lists.</unittitle>
+<container id="cid36406" type="Box">11</container>
+<container parent="cid36406" type="Folder">19</container>
+<unitdate>1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref274" level="file">
+<did>
+<unittitle>Wenger, M.A.</unittitle>
+<container id="cid36405" type="Box">11</container>
+<container parent="cid36405" type="Folder">20</container>
+<unitdate>1963-1964, 1966-1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref275" level="file">
+<did>
+<unittitle>Williams and Wilkins.</unittitle>
+<container id="cid36404" type="Box">12</container>
+<container parent="cid36404" type="Folder">1</container>
+<unitdate>1965-1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref276" level="file">
+<did>
+<unittitle>Application forms.</unittitle>
+<container id="cid36403" type="Box">12</container>
+<container parent="cid36403" type="Folder">2</container>
+</did>
+</c02>
+<c02 id="ref277" level="file">
+<did>
+<unittitle>Vitae.</unittitle>
+<container id="cid36402" type="Box">12</container>
+<container parent="cid36402" type="Folder">3</container>
+<unitdate>1966-1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref278" level="file">
+<did>
+<unittitle>Rosters.</unittitle>
+<container id="cid36401" type="Box">12</container>
+<container parent="cid36401" type="Folder">4</container>
+<unitdate>1967.</unitdate>
+</did>
+</c02>
+<c02 id="ref279" level="file">
+<did>
+<unittitle>Employment.</unittitle>
+<container id="cid36400" type="Box">12</container>
+<container parent="cid36400" type="Folder">5</container>
+<unitdate>1966-1967.</unitdate>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
