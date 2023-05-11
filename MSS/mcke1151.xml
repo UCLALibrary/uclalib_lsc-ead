@@ -1,0 +1,1425 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+ 
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid countrycode="us" identifier="ark:/13030/tf767nb4n1" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU::1151::Ruth Eleanor McKee Papers)//EN&quot; &quot;mcke1151.sgm&quot;">mcke1151.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Ruth Eleanor McKee Papers, 1905-1972</titleproper><titleproper type="filing">McKee (Ruth E.) Papers</titleproper>
+ <author>Processed by Dan Luckenbill; machine-readable finding aid created by Genie Guerard</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">&#xA9; 2001</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ <notestmt>
+ <note>
+ <p>
+ <subject source="cdl">Area, Interdisciplinary, and Ethnic Studies--Asian American Studies</subject>
+ <subject source="cdl">History--United States and North American History</subject>
+ <subject source="cdl">Geographical (by Place)--United States</subject>
+ <subject source="cdl">Arts and Humanities--Literature</subject>
+ </p>
+ </note>
+ </notestmt>
+ </filedesc><profiledesc>
+ <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">October 2000</date>. Supplementary encoding added via MS Access or other database program. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Genie Guerard.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU::1151::Ruth Eleanor McKee Papers)//EN" "mcke1151.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Ruth Eleanor McKee Papers, 1905-1972</titleproper>
+ <num>Collection number: 1151</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Dan Luckenbill, May 1975</item>
+ </defitem>
+ <defitem>
+ <label>Additions by:</label>
+ <item>Manuscripts Division staff, 1985</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Genie Guerard</item>
+ </defitem>
+ <defitem>
+ <label>Text converted and initial container list EAD tagging by:</label>
+ <item>Apex Data Services</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Amy Shung-Gee Wong, November 2000 &#x0026; May 2002</item>
+ </defitem>
+ <defitem>
+ <label>Funding:</label>
+ <item>This online finding aid has been funded in part by a grant from the Library Services and Technology Act (LSTA).</item>
+ </defitem>
+ </list>
+ <p>&#xA9; 2001 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection">
+ <did id="did-1.9.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Ruth Eleanor McKee Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1905-1972</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUS">1151</unitid>
+ <origination label="Creator">
+ <persname source="lcnaf">McKee, Ruth Eleanor, 1903-</persname>
+ </origination>
+ <physdesc label="Extent"><extent>11 boxes (5.5 linear ft.)</extent>
+<extent>1 oversize box</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Ruth Eleanor McKee (1903- ) spent ten years at the Library of Hawaii publishing poetry in small magazines and published her first novel on the history of Hawaii in 1934. While working as a historian for the War Relocation Authority (WRA) she wrote 3 monographs. In 1951 she began working for the United States Department of State and was appointed United States Consul at Tokyo in 1958. The collection consists of manuscripts, correspondence, and research materials related to Ruth E. McKee's work as a novelist, poet, United States Foreign Service officer, and writer for the War Relocation Authority (WRA). McKee's research for the WRA focused on Japanese American evacuation and internment during World War II.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.9.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of Margaret Ringnalda, 1975 and 1984.</p>
+ </acqinfo>
+ <odd type="admininfo">
+ <head>Funding</head>
+ <p>This online finding aid has been funded in part by a grant from the Library Services and Technology Act (LSTA).</p>
+ </odd>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Ruth Eleanor McKee Papers (Collection 1151). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=2221408">2221408</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.9.3">
+ <head>Biography</head>
+ <p>McKee was born in 1903 and grew up in Ventura County, California; BA, University of California, Southern Branch (later University of California, Los Angeles), 1926; spent ten years at the Library of Hawaii, publishing poetry in small magazines; published first novel on the history of Hawaii, 1934; wrote 5 subsequent novels; moved to Sonoma County, California, 1936; wrote 3 monographs while working as a historian for the War Relocation Authority (WRA); began working for the United States Department of State, 1951; appointed United States Consul at Tokyo, 1958; retired to Cape Cod, 1963.</p>
+ <bioghist>
+ <head>Additional Biographical Narrative</head>
+ <p>Ruth Eleanor McKee (1903-) was a poet and novelist, a historian for the War Relocation Authority (WRA) and an officer in the U.S. Foreign Service. Her childhood was spent in Ventura County, California. She later wrote that it was this environment of isolation which caused her to begin reading and writing at an early age. Her first writings were journals and poems. At the age of 14 she took her father's car and a revolver and ran away to Los Angeles, seeking local color for a novel. She was found three days later, employed as a cook.</p>
+ <p>She received a Bachelor of Arts from the Southern Branch of the University of California in 1926. That same year she had enough money for a one-way ticket to Honolulu, and with Kathryn MacFarlane, also a writer, she began a new life in Hawaii.</p>
+ <p>She remained there for ten years, working at the Library of Hawaii. During this time she published poems in the small magazines of the day, such as <title linktype="simple">Voices</title> and <title linktype="simple">Lyric West</title>. Typescripts of her poems are here in the papers, as well as copies of some of the publications. She contributed dozens of book reviews to the <title linktype="simple">Honolulu Star-Bulletin</title>, signing herself R.E.M. In 1934 Doubleday in New York and John Lane in London published her first novel, <title linktype="simple">The Lord's Anointed</title>. Still considered one of the best fictions to treat the history of Hawaii, it received good reviews and sold well. She published five more novels.</p>
+ <p>In 1927 she had married a lieutenant in the Army Air Corps, Darr Alkire. She was divorced the following year and assumed custody of her son Michael. They left Hawaii for California in early 1936 to live in the Redwoods in Sonoma County. There she wrote her last published novels, all of them successful critically and financially. The most successful was <title linktype="simple">Christopher Strange</title>, a novel of California from Gold Rush days through the turn of the century, including the development of Palm Springs.</p>
+ <p>She wrote three significant monographs while working as historian for the WRA. These monographs were summaries and analyses after the fact. Research materials for this writing are in part here in the papers. She also began novels about Japanese Americans, but these were not published. They exist here in manuscript, and are perhaps of some value in recreating the lives of those people whom she observed and with whom she had great empathy.</p>
+ <p>Michael was killed in a plane crash in 1950. In 1951 she began working for the Department of State, ghostwriting articles, primarily about Germany. In 1958 she was appointed United States Consul at Tokyo, for Tokyo, by President Eisenhower. She hoped to use this experience to further her knowledge about Japan and Japanese Americans. She retired from the Foreign Service in 1963 and moved to a house she had built in West Chatham, Massachussetts, on Cape Cod, where she lived until her death.</p>
+ <p>The papers are the gift of her literary executrix, Mrs. Margaret Ringnalda.</p>
+ <p>
+ <emph render="italic">by Dan Luckenbill, May 1975</emph>
+ </p>
+ </bioghist>
+ </bioghist>
+ <scopecontent id="scopecontent-1.9.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of manuscripts, correspondence, and research materials related to Ruth E. McKee's work as a novelist, poet, United States Foreign Service officer, and writer for the War Relocation Authority (WRA). McKee's research for the WRA focused on Japanese American evacuation and internment during World War II.</p>
+ </scopecontent>
+ <arrangement id="arrangement-1.9.5">
+ <head>Organization and Arrangement</head>
+ <p>Arranged in the following series: <list type="ordered"><item>Biographical and correspondence (Boxes 1-4).</item><item>Journals and diary (Boxes 5-6).</item><item>Poetry, prose fiction, non-fiction prose (Box 7).</item><item>Published novels (Box 8).</item><item>Unpublished novels (Box 9).</item><item>Writings for War Relocation Authority (Box 10).</item><item>Writings for U.S. Signal Corps, U.S. Dept. of State, and manuscripts by other writers (Box 11).</item><item>Certificates and book review clippings (Oversize Box 12).</item></list></p>
+ </arrangement>
+ <controlaccess id="controlaccess-1.9.6">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname source="lcnaf" encodinganalog="600" role="subject">McKee, Ruth Eleanor, 1903- .</persname>
+ <corpname source="lcnaf" encodinganalog="610">United States. War Relocation Authority.</corpname>
+ <corpname source="lcnaf" encodinganalog="610">United States. Army. Signal Corps.</corpname>
+ <subject source="lcsh" encodinganalog="650">Authors, American--20th century--Archival resources.</subject>
+ <subject source="lcsh" encodinganalog="650">Japanese Americans--Evacuation and relocation, 1942-1945--Research.</subject>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.9.7">
+ <head>Container List</head>
+ <c01 level="series" id="c01-1.9.7.2">
+ <did>
+ <unittitle>Biographical</unittitle>
+ <container type="Box">
+ <emph render="bold">[1]</emph>
+ </container>
+ </did>
+ <c02 level="file" id="c02-1.9.7.2.2">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Autobiography. <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+  <physdesc> 6 leaves. Typescript, with holograph notes.</physdesc>
+ </did>
+<note>
+ <p>Written in the fall of 1946 for some application for a writing fellowship.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Photos of Ruth Eleanor McKee. <unitdate calendar="gregorian" era="ce">1905, 1907, 1918, 1930, 1952, 1963 and n.d.</unitdate></unittitle>
+ <physdesc> 9 items.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Clippings, giving general information about Ruth Eleanor McKee. <unitdate calendar="gregorian" era="ce">1936, 1938 and n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Diplomas, etc.</unittitle>
+ <note>
+ <p>
+ <emph render="italic">See also: Oversize Box 12.</emph>
+ </p>
+ </note>
+ </did>
+ <c03 level="item" id="c03-1.9.7.2.5.2">
+ <did>
+ <unittitle>8th grade. <unitdate calendar="gregorian" era="ce">1916.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.5.3">
+ <did>
+ <unittitle>Manual Arts High School. <unitdate calendar="gregorian" era="ce">1920.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.5.4">
+ <did>
+ <unittitle>Teacher's credential, Southern Branch of the University of California. <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.5.5">
+ <did>
+ <unittitle>Credential, State Board of Education. <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.5.6">
+ <did>
+ <unittitle>Master of Arts, University of Hawaii. <unitdate calendar="gregorian" era="ce">1930.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.5.7">
+ <did>
+ <unittitle>Certificate from School of Librarianship, University of California at Berkeley. <unitdate calendar="gregorian" era="ce">1939.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Marriage and divorce. Marriage certificate, Honolulu. <unitdate calendar="gregorian" era="ce">1927.</unitdate> Decree of divorce, Territory of Hawaii. <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.7">
+ <did>
+ <unittitle>Michael Alkire.</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.9.7.2.7.2">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Letters to Michael Alkire. <unitdate calendar="gregorian" era="ce">1944.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.7.3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Letters from Michael Alkire to Ruth Eleanor McKee. <unitdate calendar="gregorian" era="ce">1945-46 and 1950.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.7.4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Photos. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <physdesc> 6 items.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.7.5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Armed services records. <unitdate calendar="gregorian" era="ce">1945-48, 1950 and n.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.7.6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Written numerology. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.7.7">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Clippings. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1950.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.7.8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Legal items after his death. <unitdate calendar="gregorian" era="ce">1950.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.7.9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Letters, expressing sympathy to Ruth E. McKee. <unitdate calendar="gregorian" era="ce">September-October 1950 and n.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Diplomatic passport. <unitdate calendar="gregorian" era="ce">1958.</unitdate> Travel documents. <unitdate calendar="gregorian" era="ce">1960 and 1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Travel vouchers. <unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.10">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Retirement from foreign service. Certificate and letter. <unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.11">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Consular service, Japan. Ephemera, etc. collected <unitdate calendar="gregorian" era="ce">1958-63.</unitdate></unittitle>
+ <note>
+ <p>
+ <emph render="italic">See also: Oversize Box 12.</emph>
+ </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.12">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>House at Harding Shores, West Chatham, Massachusetts. Correspondence, legal items, specifications and drawings. <unitdate calendar="gregorian" era="ce">September 1957-October 1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.2.13">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Clippings concerning friends of Ruth Eleanor McKee:</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.9.7.2.13.2">
+ <did>
+ <unittitle>Kathryn MacFarlane Thompson. <unitdate calendar="gregorian" era="ce">1936-38, 1946 and n.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.13.3">
+ <did>
+ <unittitle>Elmire Goldthwaite. <unitdate calendar="gregorian" era="ce">1941.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.2.13.4">
+ <did>
+ <unittitle>Julia Montgomery. <unitdate calendar="gregorian" era="ce">1957.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.9.7.3">
+ <did>
+ <unittitle>Correspondence</unittitle>
+ <container type="Box">
+ <emph render="bold">[1-4]</emph>
+ </container>
+ </did>
+ <c02 level="subseries" id="c02-1.9.7.3.2">
+ <did>
+ <unittitle>Miscellaneous Correspondence</unittitle>
+ <container type="Box">
+ <emph render="bold">[1]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.3.2.2">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Miscellaneous correspondence. <unitdate calendar="gregorian" era="ce">1920, 1931, 1935, 1943, 1950-51, 1957 and 1965.</unitdate></unittitle>
+ <note>
+ <p>Includes letter from Lily Bess Campbell.</p>
+ </note>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.2.3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>With agents, editors and publishers. <unitdate calendar="gregorian" era="ce">1928-1973.</unitdate></unittitle>
+ <physdesc> 21 items.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.2.4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Letters from Kathryn MacFarlane Thompson. <unitdate calendar="gregorian" era="ce">1947 and 1958.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.2.5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">22</container>
+ <unittitle>Letters to Margaret Ringnalda from Kathryn MacFarlane Thompson. <unitdate calendar="gregorian" era="ce">1934-35 and 1940.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.2.6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">23</container>
+ <unittitle>Enclosures to the Ringnalda correspondence. <unitdate calendar="gregorian" era="ce">1942-43 and 1953.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.3.3">
+ <did>
+ <unittitle>Letters from Ruth Eleanor McKee to Margaret Ringnalda</unittitle>
+ <container type="Box">
+ <emph render="bold">[2-4]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.3.3.2">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1934 and 1937-41.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.3">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1942-44.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.4">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1945.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.5">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.6">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.7">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.8">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.9">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1950.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.10">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1951.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.11">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1952.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.12">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1953.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.13">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1954.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.14">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1955.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.15">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1956.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.16">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1957</unitdate> (1 item) and <unitdate calendar="gregorian" era="ce">1958.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.17">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1959.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.18">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1960-61.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.19">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1962.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.3.20">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.3.4">
+ <did>
+ <unittitle>Letters from Ruth Eleanor McKee to Eleanor Grahl</unittitle>
+ <container type="Box">
+ <emph render="bold">[4]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.3.4.2">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1966-68.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.3.4.3">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1969-72.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.3.5">
+ <did>
+ <unittitle>Letters from Margaret Ringnalda to Ruth Eleanor McKee</unittitle>
+ <note>
+ <p>[Addition, 1985]</p>
+ </note>
+ <container type="Box">
+ <emph render="bold">[4]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.3.5.2">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1931-32, 1940, 1943-45, 1947 and 1949.</unitdate></unittitle>
+ <note>
+ <p>Most have news about C.F. McIntyre.</p>
+ </note>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.9.7.4">
+ <did>
+ <unittitle>Journals</unittitle>
+ <container type="Box">
+ <emph render="bold">[5-6]</emph>
+ </container>
+ </did>
+ <note>
+ <p>
+ <emph render="italic">Of a diary nature, although many contain drafts of poems. All are in composition books of varying sizes.</emph>
+ </p>
+ </note>
+ <c02 level="file" id="c02-1.9.7.4.3">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1913-1951</unitdate> (inclusive dates).</unittitle>
+ <note>
+ <p>
+ <emph render="italic">The following headings were given by the literary executrix:</emph>
+ </p>
+ </note>
+ </did>
+ <c03 level="item" id="c03-1.9.7.4.3.2">
+ <did>
+ <unittitle>Tulare, Los Angeles, Ventura. <unitdate calendar="gregorian" era="ce">1913-17.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.4.3.3">
+ <did>
+ <unittitle>UCLA-Hawaii. <unitdate calendar="gregorian" era="ce">1924-31.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.4.3.4">
+ <did>
+ <unittitle>Berkeley, Los Angeles. <unitdate calendar="gregorian" era="ce">1938-39.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.4.3.5">
+ <did>
+ <unittitle>Healdsburg, Washington, D.C. <unitdate calendar="gregorian" era="ce">1940-48.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.4.3.6">
+ <did>
+ <unittitle>Washington, D.C. <unitdate calendar="gregorian" era="ce">1948-51.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.4.4">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1951-1971</unitdate> (inclusive dates).</unittitle>
+ <physdesc> 12 items of a diary nature.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.4.5">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1930-1935</unitdate> (inclusive dates).</unittitle>
+ <physdesc> 4 items with general notes on readings, etc.</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.9.7.5">
+ <did>
+ <unittitle>Manuscripts and Publications Materials</unittitle>
+ <container type="Box">
+ <emph render="bold">[7-11]</emph>
+ </container>
+ </did>
+ <c02 level="subseries" id="c02-1.9.7.5.2">
+ <did>
+ <unittitle>Poetry</unittitle>
+ <container type="Box">
+ <emph render="bold">[7]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.5.2.2">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Typescripts of poems. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1919-50.</unitdate></unittitle>
+  <physdesc> 48 titles. 67 leaves.</physdesc>
+ </did>
+<note>
+ <p>All of these appear to be copies, with very little correction of text. Many have holograph notes giving place of publication or circumstances of their composition.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.2.3">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Publications with poems by Ruth Eleanor McKee. <unitdate calendar="gregorian" era="ce">1928[?] and 1931-33.</unitdate></unittitle>
+  <physdesc> 9 items.</physdesc>
+ </did>
+<note>
+ <p>Note: copies of <title linktype="simple">Lyric West</title> have been removed and added to the Department's holdings.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.2.4">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Poems: Ruth Eleanor McKee, n.p. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+  <physdesc> [19]pp.</physdesc>
+ </did>
+<note>
+ <p>Keepsake printed by Margaret Ringnalda for the friends of Ruth Eleanor McKee.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.2.5">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>[Hawthorne: a study of the modifications which took place in his attitude toward sin]. No author given. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+  <physdesc> <emph render="italic">ca</emph>. 50 leaves. Typescript.</physdesc>
+ </did>
+<note>
+ <p>Has note by Ruth Eleanor McKee: Research Nathaniel Hawthorne.</p>
+ </note>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.5.3">
+ <did>
+ <unittitle>Prose Fiction - [Unpublished (?)]</unittitle>
+ <container type="Box">
+ <emph render="bold">[7]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.5.3.2">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Juvenilia.</unittitle>
+ <note>
+ <p>One story, with note by Ruth Eleanor McKee: As far as I can recall I wrote this at about 18, maybe 19. I submitted it to The Smart Set!</p>
+ </note>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.3.3">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Stories, Ruth Eleanor McKee, The Library of Hawaii, Honolulu, T.H.</unittitle>
+ <physdesc> 5 items.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.3.4">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Stories, Healdsburg.</unittitle>
+ <physdesc> 4 items.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.3.5">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Stories written under pseudonyms.</unittitle>
+ <physdesc> 6 items.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.3.6">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Unfinished manuscripts.</unittitle>
+ <physdesc> 6 items.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.3.7">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Unfinished manuscripts. <unitdate calendar="gregorian" era="ce">1965-67.</unitdate></unittitle>
+ <physdesc> 1 item (2 copies).</physdesc>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.5.4">
+ <did>
+ <unittitle>Non-Fiction Prose</unittitle>
+ <container type="Box">
+ <emph render="bold">[7]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.5.4.2">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Publication about Library of Hawaii. <title linktype="simple">Library Journal</title>. <unitdate calendar="gregorian" era="ce">1932.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.4.3">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Publication about Library of Hawaii. <title linktype="simple">Honolulu Star-Bulletin</title>. <unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.4.4">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>A word about American poetry. In <title linktype="simple">The New Americans</title>. <unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.4.5">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Notes for lecture [?]. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <physdesc> 9 leaves. Typescript.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.4.6">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>[Review of novel by Rose Macaulay]. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <physdesc> 1p. Typescript.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.4.7">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Clippings of book reviews from <title linktype="simple">Honolulu Star-Bulletin</title> written by Ruth Eleanor McKee when working at the Library of Hawaii. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1930-33.</unitdate></unittitle>
+ <note>
+ <p>
+ <emph render="italic">See also: Oversize Box 12.</emph>
+ </p>
+ </note>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.5.5">
+ <did>
+ <unittitle>Published Novels</unittitle>
+ <container type="Box">
+ <emph render="bold">[8]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.5.5.2">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Research notes about Hawaii. Possibly for <title linktype="simple">The Lord's Anointed</title> or <title linktype="simple">After a Hundred Years</title>.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.9.7.5.5.3">
+ <did>
+ <unittitle><title linktype="simple">The Lord's Anointed</title>.</unittitle>
+ </did>
+ <c04 level="item" id="c04-1.9.7.5.5.3.2">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Correspondence. <unitdate calendar="gregorian" era="ce">1934 and n.d.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.3.3">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Dust jackets from various printings.</unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.3.4">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Clippings of reviews. <unitdate calendar="gregorian" era="ce">1934-35 and n.d.</unitdate></unittitle>
+ </did>
+ </c04>
+ </c03>
+ <c03 level="file" id="c03-1.9.7.5.5.4">
+ <did>
+ <unittitle><title linktype="simple">After a Hundred Years</title>.</unittitle>
+ </did>
+ <c04 level="item" id="c04-1.9.7.5.5.4.2">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Correspondence, publishing agreement. <unitdate calendar="gregorian" era="ce">1935.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.4.3">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Clippings of reviews. <unitdate calendar="gregorian" era="ce">1935.</unitdate></unittitle>
+ </did>
+ </c04>
+ </c03>
+ <c03 level="file" id="c03-1.9.7.5.5.5">
+ <did>
+ <unittitle><title linktype="simple">Under One Roof</title>.</unittitle>
+ </did>
+ <c04 level="item" id="c04-1.9.7.5.5.5.2">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Carbon typescript. <unitdate calendar="gregorian" era="ce">1936 [?].</unitdate></unittitle>
+ <physdesc> 208 leaves.</physdesc>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.5.3">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Publishing agreement. <unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.5.4">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Dust jacket.</unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.5.5">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Clippings of reviews. <unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+ </did>
+ </c04>
+ </c03>
+ <c03 level="file" id="c03-1.9.7.5.5.6">
+ <did>
+ <unittitle><title linktype="simple">Three Daughters</title>.</unittitle>
+ </did>
+ <c04 level="item" id="c04-1.9.7.5.5.6.2">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Notes, in composition book. Healdsburg. <unitdate calendar="gregorian" era="ce">1938 [?].</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.6.3">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Correspondence. <unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.6.4">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Clippings of reviews. <unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+ </did>
+ </c04>
+ </c03>
+ <c03 level="file" id="c03-1.9.7.5.5.7">
+ <did>
+ <unittitle><title linktype="simple">Christopher Strange</title>.</unittitle>
+ </did>
+ <c04 level="item" id="c04-1.9.7.5.5.7.2">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Holograph notes in composition book. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1941.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.7.3">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Correspondence. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1941.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.7.4">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Publication announcement. <unitdate calendar="gregorian" era="ce">1941.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.7.5">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Dust jacket and photograph of dust jacket painting.</unittitle>
+ </did>
+ </c04>
+ <c04 level="item" id="c04-1.9.7.5.5.7.6">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Clippings of reviews. <unitdate calendar="gregorian" era="ce">1941.</unitdate></unittitle>
+ </did>
+ </c04>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.5.8">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle><title linktype="simple">Storm Point</title>. Dust jacket.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.5.6">
+ <did>
+ <unittitle>Unpublished Novels</unittitle>
+ <container type="Box">
+ <emph render="bold">[9]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.5.6.2">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Follow the birds: a story of the hop harvest. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <physdesc> 128 leaves. Carbon typescript.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.6.3">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Scattered notes for Japanese-American novel. In composition book. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1957.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.6.4">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>The refuge. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+  <physdesc> 386 leaves. Typescript with some holograph corrections.</physdesc>
+ <physdesc> f.1 of 2: leaves 1-167.</physdesc>
+ </did>
+<note>
+ <p>First book of projected Japanese American novel for which Ruth E. McKee kept the WRA materials and asked for Embassy duty in Japan.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.6.5">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>The refuge. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <physdesc> f.2 of 2: leaves 168-386.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.6.6">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>In the beginning. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+  <physdesc> 3 leaves. Typescript with some holograph corrections.</physdesc>
+ </did>
+<note>
+ <p>Possible prologue to The refuge [?]</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.6.7">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Portrait of an American. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+  <physdesc> 154 leaves. Typescript with some holograph corrections.</physdesc>
+ </did>
+<note>
+ <p>Beginning of second book in Japanese American saga.</p>
+ </note>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.5.7">
+ <did>
+ <unittitle>Writings for the War Relocation Authority (WRA)</unittitle>
+ <container type="Box">
+ <emph render="bold">[10]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.5.7.2">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Holograph notes concerning relocation centers, etc. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1942-46.</unitdate></unittitle>
+ <physdesc> In 2 composition books.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.3">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Letters from Grace Nichols Pearson. <unitdate calendar="gregorian" era="ce">March 1943-July 1946 and n.d.</unitdate></unittitle>
+ <note>
+ <p>Note by Ruth Eleanor McKee: Special WRA references in letters.</p>
+ </note>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.4">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Miscellaneous correspondence having to do with WRA, Japanese-Americans, etc. <unitdate calendar="gregorian" era="ce">1945 and n.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.5">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Press releases, etc. from Tule Lake Segregation Center. Primarily concerning removal of internees because of violence in the center. <unitdate calendar="gregorian" era="ce">June-July and December 1944 and n.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.6">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Department of the Interior. <unitdate calendar="gregorian" era="ce">1945.</unitdate></unittitle>
+ <physdesc> Mimeographed items.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.7">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>[<title linktype="simple">History of Evacuation and WRA Program</title>] by Ruth E. McKee. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+  <physdesc> 246 leaves. Carbon typescript with some holograph corrections.</physdesc>
+ </did>
+<note>
+ <p>With note by Ruth Eleanor McKee: Carbon of edited version was submitted to Interior - to Miss Sylvia Altman. This was not censored.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.8">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle><title linktype="simple">California and Her Less Favored Minorities: a Study of the Evacuation of Persons of Japanese Ancestry from the Pacific Coast</title>, War Relocation Authority. <unitdate calendar="gregorian" era="ce">April 1944.</unitdate></unittitle>
+  <physdesc> 27, iv [4] leaves. Mimeograph.</physdesc>
+ </did>
+<note>
+ <p>Prepared by Ruth E. McKee, WRA historian.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.9">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle><title linktype="simple">The Wartime Handling of Evacuee Property</title>. United States Department of the Interior, War Relocation Authority. Washington, D.C., U.S. Government Printing Office. <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+  <physdesc> 113pp. Mimeograph.</physdesc>
+ </did>
+<note>
+ <p>Note on cover by Ruth Eleanor McKee: This is just tossed in gratis, the most exacting and tedious of my writing assignments for WRA - I have a more entertaining one but have only one copy.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.10">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><title linktype="simple">Wartime Exile: the Exclusion of the Japanese Americans from the West Coast</title>. Washington, D.C., U.S. Government Printing Office for United States Department of the Interior, War Relocation Authority. <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+  <physdesc> 167pp.</physdesc>
+ </did>
+<note>
+ <p>This report prepared by Ruth E. McKee.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.11">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle><title linktype="simple">The Latest Word: WRA Reports Alumni Association. News Bulletin</title>.</unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>no.1 <unitdate calendar="gregorian" era="ce">(November 1945)</unitdate></item>
+<item>no.2 <unitdate calendar="gregorian" era="ce">(January 1946)</unitdate></item>
+<item>no.3 <unitdate calendar="gregorian" era="ce">(April 1946)</unitdate></item>
+<item>no.4 <unitdate calendar="gregorian" era="ce">(June 1946)</unitdate></item>
+<item>no.5 <unitdate calendar="gregorian" era="ce">(August 1946)</unitdate></item>
+<item>no.9 <unitdate calendar="gregorian" era="ce">(July 12, 1949)</unitdate></item>
+<item>Also, final issue Ave Atque Vale <unitdate calendar="gregorian" era="ce">(n.d.).</unitdate></item>
+ </list>
+ </p>
+ </scopecontent>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.12">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Correspondence of Earl M. Finch with Frank Cross, WRA, concerning Japanese American servicemen. <unitdate calendar="gregorian" era="ce">June 1944.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.13">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Clippings concerning Japanese Americans. <unitdate calendar="gregorian" era="ce">1941-42, 1945-46, 1948, 1950 and n.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.7.14">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>WRA. Miscellaneous printed materials. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1942-45.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.5.8">
+ <did>
+ <unittitle>Writings for the United States Signal Corps</unittitle>
+ <container type="Box">
+ <emph render="bold">[11]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.5.8.2">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><title linktype="simple">The Signal Corps' Bird of War</title>. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <physdesc> 48 leaves. Typescript with some holograph corrections. Another copy. Carbon typescript.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.8.3">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Signal Corps technical information letter. <unitdate calendar="gregorian" era="ce">August 1945.</unitdate></unittitle>
+ <physdesc> 40pp.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.8.4">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Terrett, Dulany. [Signal Corps report]. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1949.</unitdate></unittitle>
+  <physdesc> 11 leaves. Mimeograph.</physdesc>
+ </did>
+<note>
+ <p>Note by Ruth Eleanor McKee: Re-hash of Ruth McKee's material by her superior Terrett in Pentagon - great conflict and indignation on her part.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.8.5">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Research material [?] Correspondence, memoranda, etc. concerning Roberts death ray. <unitdate calendar="gregorian" era="ce">1939-43.</unitdate></unittitle>
+ <note>
+ <p>Some items bear the note: copy for Miss McKee.</p>
+ </note>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.8.6">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Research material [?] Outlines of Signal Corps topics. <unitdate calendar="gregorian" era="ce">1945.</unitdate></unittitle>
+ <physdesc> <emph render="italic">ca</emph>. 60 leaves. Carbon typescripts.</physdesc>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.5.9">
+ <did>
+ <unittitle>Writings for the Department of State</unittitle>
+ <container type="Box">
+ <emph render="bold">[11]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.5.9.2">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Publications containing articles ghostwritten by Ruth Eleanor McKee. <unitdate calendar="gregorian" era="ce">1951-53.</unitdate></unittitle>
+  <physdesc> 7 items.</physdesc>
+ </did>
+<note>
+ <p>Includes one publication with authorship not annotated by Ruth Eleanor McKee.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.9.3">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Department of State publications about Japan and Germany. <unitdate calendar="gregorian" era="ce">1955 and 1957.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.9.4">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Clipping about writing of State Department pamphlets. <unitdate calendar="gregorian" era="ce">1957.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.9.5">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Miscellaneous printed and mimeographed items collected by Ruth Eleanor McKee during her period of writing for the Signal Corps and State Department. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1943-57.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.9.7.5.10">
+ <did>
+ <unittitle>Manuscripts by Other Writers</unittitle>
+ <container type="Box">
+ <emph render="bold">[11]</emph>
+ </container>
+ </did>
+ <c03 level="item" id="c03-1.9.7.5.10.2">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Thompson, Kathryn MacFarlane. Poems &#x0026; fiction. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1929-47.</unitdate></unittitle>
+  <physdesc> <emph render="italic">ca</emph>. 60 leaves.</physdesc>
+ </did>
+<note>
+ <p>Some were written to Ruth Eleanor McKee and are annotated by her.</p>
+ </note>
+ </c03>
+ <c03 level="item" id="c03-1.9.7.5.10.3">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Rogers, Gene. <title linktype="simple">My Friend Anna</title>. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <physdesc> 11 leaves. Typescript.</physdesc>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.9.7.6">
+ <did>
+ <unittitle>Certificates and Book Review Clippings</unittitle>
+ <container type="Box">
+ <emph render="bold">[Oversize Box 12]</emph>
+ </container>
+ </did>
+ <c02 level="file" id="c02-1.9.7.6.2">
+ <did>
+ <container label="Oversize Box" type="Box">12</container>
+ <unittitle>Bachelor of Arts Degree, Southern Branch of the University of California. <unitdate calendar="gregorian" era="ce">1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.6.3">
+ <did>
+ <container label="Oversize Box" type="Box">12</container>
+ <unittitle>Certificates from the Department of State, with appointment as Foreign Service Officer, class four; secretary in the diplomatic service; and Consul of the United States. <unitdate calendar="gregorian" era="ce">20 July 1955.</unitdate></unittitle>
+ <physdesc> 4 items.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.6.4">
+ <did>
+ <container label="Oversize Box" type="Box">12</container>
+ <unittitle>Certificate from the Department of State, appointment as Consul of the United States of America at Tokyo, Japan, for Tokyo. <unitdate calendar="gregorian" era="ce">28 July 1958.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.6.5">
+ <did>
+ <container label="Oversize Box" type="Box">12</container>
+ <unittitle>Certificates in Japanese with seal of the Embassy of the United States of America, Tokyo. Also translation of October 1 document. <unitdate calendar="gregorian" era="ce">8 July and 1 October 1958.</unitdate></unittitle>
+ <physdesc> 2 items.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.9.7.6.6">
+ <did>
+ <container label="Oversize Box" type="Box">12</container>
+ <unittitle>Clippings of book reviews by Ruth Eleanor McKee from <title linktype="simple">Honolulu Star-Bulletin</title>. <unitdate calendar="gregorian" era="ce"><emph render="italic">ca</emph>. 1930-1933.</unitdate></unittitle>
+  <physdesc> Pasted on oversize scrapbook pages.</physdesc>
+ </did>
+<note>
+ <p>No dates on items.</p>
+ </note>
+ </c02>
+ </c01>
+ </dsc>
+ <separatedmaterial id="separatedmaterial-1.9.8">
+ <head>Items Removed from Collection</head>
+ <p>
+ <list type="marked">
+ <item>Copy of <title linktype="simple">Healdsburg Enterprise</title>,<unitdate calendar="gregorian" era="ce">Wednesday, November 28, 1888.</unitdate> Miscellaneous American Newspapers (Collection 1661). Box 7.</item>
+ <item>Galley proofs of Christopher Morley's <title linktype="simple">Mandarin in Manhattan.</title> Miscellaneous Manuscripts Collection (Collection 100). Box 136.</item>
+ <item>Copies of <title linktype="simple">Lyric West</title>. <unitdate calendar="gregorian" era="ce">1928[?] and 1931-33</unitdate> have been removed and added to the Department's holdings.</item>
+ </list>
+ </p>
+ </separatedmaterial>
+ </archdesc>
+</ead>
