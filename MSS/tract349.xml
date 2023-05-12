@@ -1,0 +1,4158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/tf9g5009fm">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::349::Collection of Tract Maps and Cadastral Maps of Southern California)//EN" "tract349.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Collection of Tract Maps and Cadastral Maps of Southern California, 1868-1937</titleproper>
+<titleproper type="filing">Tract Maps and Cadastral Maps of Southern California Collection</titleproper>
+<author>Processed by UCLA Library Special Collections staff; machine-readable finding aid created by Caroline Cub&#x00E9;.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 1998</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">August 1996</date>. Supplementary encoding added via MS Access or other database program. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.</creation>
+<langusage>Description is in <language langcode="eng" 
+scriptcode="Latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Collection of Tract Maps and Cadastral Maps of Southern California</unittitle>
+<unitdate type="inclusive" normal="1868/1937">1868-1937</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">349</unitid>
+<physdesc label="Extent">
+<extent>3 oversize boxes </extent>
+<extent>5 oversize folders</extent>
+</physdesc>
+<abstract label="Abstract">The tract and cadastral maps in this collection are of real estate developments located in Los Angeles, Orange, Riverside and Ventura counties. The maps are listed by location using the <title linktype="simple">Thomas Brothers Maps' Los Angeles County Popular Street Atlas, 1931</title> and <title linktype="simple">Orange County, 1981</title>. A few maps fall outside of this territory, and for these, relevant leaves of the <title linktype="simple">Thomas ... Riverside County, 1978</title>, and<title linktype="simple"> Ventura County, 1979</title>, have been included.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+<dao role="http://oac.cdlib.org/arcrole/link/search/" href="http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz001d0fsv" title="Online items">
+<daodesc>
+<p>Selected digitized images from this collection.</p>
+</daodesc> 
+</dao>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Collection of Tract Maps and Cadastral Maps of Southern California (Collection 349). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232887">4232887</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>History</head>
+<p>Tract maps present certain problems in indexing or cataloging since they do not all have a common element such as a name or a cartographer. The approach, therefore, that seems most logical is to list the maps by location. The locator used by the Cadastral Map Collection is the <title linktype="simple">Thomas Brothers Maps' Los Angeles County Popular Street Atlas, 1931</title> and <title linktype="simple">Orange County, 1981</title>. A few maps fall outside of this territory, and for these, eleven leaves of the <title linktype="simple">Thomas ... Riverside County, 1978</title>, and <title linktype="simple">Ventura County, 1979</title>, have been included. The location is designated by atlas page number and grid coordinates (the area where the letters printed across the top of the page intersect the numbers printed down the side). This location designation has been used as the call number of individual maps.</p>
+ <p>There are various ways of approaching this collection. If the name of a tract is known, it is listed alphabetically in the finding aid. In addition, there are chronological and location (call) number lists. Few maps have all of these elements. If the location of the tract map is all that is known, the <title linktype="simple">Thomas Atlas</title> must be checked to find a location designation. The finding aid must then be consulted to see if a map exists for that location.</p>
+ <p>When more than one tract appears on a map, each tract has been given its own location designation. The first such location designation has been used for the call number and all other tracts have bee cited with a see reference to that number.</p>
+ <p>Where information about the owner or realtor is available, it has been included in the finding aid.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>Collection consists of tract and cadastral maps of real estate developments, some projected but never realized, located in Los Angeles and vicinity. Most tracts are located in Los Angeles and Orange counties, but some are in Riverside and Ventura counties. Tracts are listed alphabetically, chronologically, and by location (call) number in the finding aid.</p>
+</scopecontent>
+<arrangement>
+<head>Organization and Arrangement</head>
+<p>Collection is arranged alphabetically by name of tract.
+</p>
+</arrangement>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<subject source="lcsh" encodinganalog="650">Land subdivision--California, Southern.</subject>
+ <subject source="lcsh" encodinganalog="650">Real property--Maps.</subject>
+ <geogname source="lcnaf" encodinganalog="651">California, Southern--Maps.</geogname>
+</controlaccess>
+</controlaccess>
+<relatedmaterial encodinganalog="544">
+<head>Related Material</head>
+<p>
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/tf2m3nb0x9/" actuate="onrequest" show="new">A Collection of Tract Maps From a Real Estate Business Scrapbook, Los Angeles
+(Collection 295)
+</extref>. Available at the UCLA Library Special Collections.</p>
+</relatedmaterial>
+<index id="index-1.8.8">
+ <head>Index of Tractmaps with Dates</head>
+ <indexentry>
+ <name>Mott Tract</name>
+ <ref linktype="simple">1868-69</ref>
+ </indexentry>
+ <indexentry>
+ <name>San Fernando, Town of</name>
+ <ref linktype="simple">1874(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>San Fernando, Town of</name>
+ <ref linktype="simple">1874(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>San Juan By-The-Sea</name>
+ <ref linktype="simple">1878</ref>
+ </indexentry>
+ <indexentry>
+ <name>Sausal Redondo Rancho, Map of the Southern Part of</name>
+ <ref linktype="simple">1884</ref>
+ </indexentry>
+ <indexentry>
+ <name>Alcantara Grove Tract</name>
+ <ref linktype="simple">1886</ref>
+ </indexentry>
+ <indexentry>
+ <name>Wiliamson Tract</name>
+ <ref linktype="simple">1886</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rancho Potrero De Felipe Lugo</name>
+ <ref linktype="simple">1886</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rancho Potrero De Felipe Lugo</name>
+ <ref linktype="simple">1886</ref>
+ </indexentry>
+ <indexentry>
+ <name>Diamond Street Tract</name>
+ <ref linktype="simple">1887</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lakeside Tract</name>
+ <ref linktype="simple">1887</ref>
+ </indexentry>
+ <indexentry>
+ <name>University Tract (University of Southern California), The</name>
+ <ref linktype="simple">1887</ref>
+ </indexentry>
+ <indexentry>
+ <name>University Tract (University of Southern California), The</name>
+ <ref linktype="simple">1887</ref>
+ </indexentry>
+ <indexentry>
+ <name>Port Ballona</name>
+ <ref linktype="simple">1887</ref>
+ </indexentry>
+ <indexentry>
+ <name>Claremont</name>
+ <ref linktype="simple">1887</ref>
+ </indexentry>
+ <indexentry>
+ <name>Bardsdale Tract, R.G. Surdam's Plot of the</name>
+ <ref linktype="simple">1887</ref>
+ </indexentry>
+ <indexentry>
+ <name>Forster's Addition to San Juan Capistrano</name>
+ <ref linktype="simple">1888</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lankershim Ranch</name>
+ <ref linktype="simple">1888</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lankershim Ranch</name>
+ <ref linktype="simple">1888</ref>
+ </indexentry>
+ <indexentry>
+ <name>Redondo Beach</name>
+ <ref linktype="simple">1888</ref>
+ </indexentry>
+ <indexentry>
+ <name>Redondo Beach</name>
+ <ref linktype="simple">1888</ref>
+ </indexentry>
+ <indexentry>
+ <name>Willmore, Official Plat of the Town of</name>
+ <ref linktype="simple">1880s</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rancho La Ballona</name>
+ <ref linktype="simple">1880s</ref>
+ </indexentry>
+ <indexentry>
+ <name>Playa Del Rey</name>
+ <ref linktype="simple">1880s(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Centinella Rancho</name>
+ <ref linktype="simple">1880s(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Inglewood</name>
+ <ref linktype="simple">1880s(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Sausal Redondo Rancho</name>
+ <ref linktype="simple">1880s(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Los Angeles Trust Company</name>
+ <ref linktype="simple">1880s(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Walnut and Bean Land Company</name>
+ <ref linktype="simple">1880s(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Golden Gate Tract</name>
+ <ref linktype="simple">1891</ref>
+ </indexentry>
+ <indexentry>
+ <name>Child's Heights</name>
+ <ref linktype="simple">1891(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Wolfskill Tract</name>
+ <ref linktype="simple">1893</ref>
+ </indexentry>
+ <indexentry>
+ <name>Adams Street Tract</name>
+ <ref linktype="simple">1894</ref>
+ </indexentry>
+ <indexentry>
+ <name>Westmoreland Place and Tract</name>
+ <ref linktype="simple">1902</ref>
+ </indexentry>
+ <indexentry>
+ <name>Westmoreland Place and Tract</name>
+ <ref linktype="simple">1902</ref>
+ </indexentry>
+ <indexentry>
+ <name>Garfield Heights</name>
+ <ref linktype="simple">1904(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Beverly Hills, Portion of</name>
+ <ref linktype="simple">1906</ref>
+ </indexentry>
+ <indexentry>
+ <name>Commonwealth Terrace</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Commonwealth Terrace</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Van Nuys--Lankershim Lands</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Van Nuys--Lankershim Lands</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Van Nuys--Lankershim Lands</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Van Nuys--Lankershim Lands</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Van Nuys--Lankershim Lands</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Van Nuys--Lankershim Lands</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Van Nuys--Lankershim Lands</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Van Nuys</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Marian, Town of</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Owensmouth, Town of</name>
+ <ref linktype="simple">1910</ref>
+ </indexentry>
+ <indexentry>
+ <name>Granada Place</name>
+ <ref linktype="simple">1911</ref>
+ </indexentry>
+ <indexentry>
+ <name>South Porter Tracts</name>
+ <ref linktype="simple">1911</ref>
+ </indexentry>
+ <indexentry>
+ <name>Keifer Tract</name>
+ <ref linktype="simple">1911</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hiscock and Smith's First Addition</name>
+ <ref linktype="simple">1911</ref>
+ </indexentry>
+ <indexentry>
+ <name>M.L. Wicks Subdivision of Carbolino Cooper</name>
+ <ref linktype="simple">1911</ref>
+ </indexentry>
+ <indexentry>
+ <name>Exposition Park Square, Mitchel's</name>
+ <ref linktype="simple">1911-12</ref>
+ </indexentry>
+ <indexentry>
+ <name>Exposition Park Square, Mitchel's</name>
+ <ref linktype="simple">1911-12</ref>
+ </indexentry>
+ <indexentry>
+ <name>Palisades, The</name>
+ <ref linktype="simple">1912</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hollenbeck Heights Tract</name>
+ <ref linktype="simple">1912</ref>
+ </indexentry>
+ <indexentry>
+ <name>Seaside Terrace</name>
+ <ref linktype="simple">1912</ref>
+ </indexentry>
+ <indexentry>
+ <name>El Segundo, Official Map of</name>
+ <ref linktype="simple">1912</ref>
+ </indexentry>
+ <indexentry>
+ <name>Inglewood Acres</name>
+ <ref linktype="simple">1912</ref>
+ </indexentry>
+ <indexentry>
+ <name>West Adams and Washington Boulevard Tract</name>
+ <ref linktype="simple">1912</ref>
+ </indexentry>
+ <indexentry>
+ <name>El Segundo, Official Map of</name>
+ <ref linktype="simple">1912-13</ref>
+ </indexentry>
+ <indexentry>
+ <name>El Segundo, Official Map of</name>
+ <ref linktype="simple">1912-13</ref>
+ </indexentry>
+ <indexentry>
+ <name>Washington Park</name>
+ <ref linktype="simple">1912(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Los Angeles, Business Property Map of</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Los Angeles, Business Property Map of</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Inglewood</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hill Acreage</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Inglewood Acreage</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hyde Park Acreage</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hill Acreage</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Tract no. 215</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Baldwin Acreage</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Baldwin 500 Acres</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>College Site Acreage</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Keating Acreage</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>New College Tract</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Tract 1700</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>St. Vincent College Tract</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Western Avenue Square</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Kendall's Berry Tract</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Derby Park Tract</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Los Angeles Investment Cos House Factory and Yards</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Bagley Tract</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hollywood</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hollywood</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Colegrove</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Ivanhoe</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Elysian Park</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hill Street Lot</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Olive Street Lot</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Broadway Lot</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Deeble Tract</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Elder Place no. 1</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Butler and Elder Tract</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Elder Place no. 2</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rancho Sausal Redondo</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rodgers Park Tract--no. 1356</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rodgers Park Tract--no. 715</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Loretta Park Tract</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Figueroa Park Square Tract</name>
+ <ref linktype="simple">1913</ref>
+ </indexentry>
+ <indexentry>
+ <name>Ivywild</name>
+ <ref linktype="simple">1913(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Harbor City</name>
+ <ref linktype="simple">1914</ref>
+ </indexentry>
+ <indexentry>
+ <name>Untitled.</name>
+ <ref linktype="simple">1914(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Normal Place</name>
+ <ref linktype="simple">1915</ref>
+ </indexentry>
+ <indexentry>
+ <name>Huos Tract (no. 6256)</name>
+ <ref linktype="simple">1923</ref>
+ </indexentry>
+ <indexentry>
+ <name>Seventh council District, New</name>
+ <ref linktype="simple">1929</ref>
+ </indexentry>
+ <indexentry>
+ <name>Seventh council District, New</name>
+ <ref linktype="simple">1929</ref>
+ </indexentry>
+ <indexentry>
+ <name>Seventh council District, New</name>
+ <ref linktype="simple">1929</ref>
+ </indexentry>
+ <indexentry>
+ <name>Seventh council District, New</name>
+ <ref linktype="simple">1929</ref>
+ </indexentry>
+ <indexentry>
+ <name>Seventh council District, New</name>
+ <ref linktype="simple">1929</ref>
+ </indexentry>
+ <indexentry>
+ <name>Overhill Unit</name>
+ <ref linktype="simple">1929</ref>
+ </indexentry>
+ <indexentry>
+ <name>Malis Tract 37 Oil Syndicate</name>
+ <ref linktype="simple">1920s(?)</ref>
+ </indexentry>
+ <indexentry>
+ <name>Burbank-Western Portion</name>
+ <ref linktype="simple">1933</ref>
+ </indexentry>
+ <indexentry>
+ <name>Burbank-Western Portion</name>
+ <ref linktype="simple">1933</ref>
+ </indexentry>
+ <indexentry>
+ <name>Alhambra, City of</name>
+ <ref linktype="simple">1937</ref>
+ </indexentry>
+ <indexentry>
+ <name>Alhambra, City of</name>
+ <ref linktype="simple">1937</ref>
+ </indexentry>
+ <indexentry>
+ <name>Alhambra, City of</name>
+ <ref linktype="simple">1937</ref>
+ </indexentry>
+ <indexentry>
+ <name>Alhambra, City of</name>
+ <ref linktype="simple">1937</ref>
+ </indexentry>
+ <indexentry>
+ <name>Alhambra, City of</name>
+ <ref linktype="simple">1937</ref>
+ </indexentry>
+ <indexentry>
+ <name>Avalon, city of--Blocks 1-24 (Santa Catalina Isl)</name>
+ <ref linktype="simple">1937</ref>
+ </indexentry>
+ </index>
+<dsc type="in-depth">
+<head>Container List</head>
+<note>
+ <p>The <title linktype="simple">Thomas Brothers Map of Los Angeles County, 1981</title> is to be used in conjunction with this finding aid.</p>
+ </note>
+ <c01 level="file" id="c01-1.8.7.3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>A.H. Busch Tract.</unittitle>
+ <origination>Realtors: L.A. Dalton with Frank H. Ayers.</origination>
+ <origination>Realtors: Hal Hail.</origination>
+ <unitid label="Reference Nos.">LA 43 F, 2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.4">
+ <did>
+ <unittitle>Abbot and Margaret Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6. </p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.5">
+ <did>
+ <unittitle>Abbot Kinney Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Acacia Tract (no. 1045).</unittitle>
+ <unitid label="Reference Nos.">LA 43 E, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.7">
+ <did>
+ <unittitle>Acantara Grove Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.8">
+ <did>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>Adams Street Tract, <unitdate calendar="gregorian" era="ce">1894.</unitdate></unittitle>
+ <origination>Owners: Grider and Dow.</origination>
+ <origination>Realtors: Grider and Dow.</origination>
+ <unitid label="Reference Nos.">LA 52 C, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Alcantara Grove Tract, <unitdate calendar="gregorian" era="ce">1886.</unitdate></unittitle>
+ <origination>Owners: F.H. Barclay.</origination>
+ <origination>Realtors: H.H. Matlock (auctioneer).</origination>
+ <unitid label="Reference Nos.">LA 44 B, 6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.10">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Alhambra Acres.</unittitle>
+ <origination>Realtors: Northrup and Peck, Alhambra.</origination>
+ <origination>Realtors: H.W. Stanton, Los Angeles.</origination>
+ <origination>Realtors: Citizens Realty Company, Pasadena.</origination>
+ <unitid label="Reference Nos.">LA 37 C, 4-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.11">
+ <did>
+ <unittitle>Alhambra, City of, <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 36 F, 3-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.12">
+ <did>
+ <unittitle>Alhambra, City of, <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 46 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 36 F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.13">
+ <did>
+ <unittitle>Alhambra, City of, <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 45 E-F, 1-2.</unitid>
+ <note>
+ <p>See: LA 36 F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.14">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Alhambra, City of, <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 37 A-D, 3-6.</unitid>
+ <note>
+ <p>See: LA 36 F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.15">
+ <did>
+ <unittitle>Alvarado Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.16">
+ <did>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>Angeles Mesa.</unittitle>
+ <origination>Owners: Angeles Mesa Land Company.</origination>
+ <unitid label="Reference Nos.">LA 51 B-C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.17">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Angeles Mesa, Map of.</unittitle>
+ <origination>Owners: Angeles Mesa Land Company.</origination>
+ <unitid label="Reference Nos.">LA 51 B-D, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.18">
+ <did>
+ <unittitle>Arcadia Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.19">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Arlington Heights Extension.</unittitle>
+ <origination>Realtors: Crenshaw Realty Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 43 C, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.20">
+ <did>
+ <unittitle>Artesia Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-D, 3-4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.21">
+ <did>
+ <unittitle>Austin Heights.</unittitle>
+ <unitid label="Reference Nos.">LA 41 B-C, 6.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.22">
+ <did>
+ <unittitle>Austin Heights.</unittitle>
+ <unitid label="Reference Nos.">LA 49 B, 1.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.23">
+ <did>
+ <container label="Folder" type="Folder">4 </container>
+ <unittitle>Avalon, City of--Blocks 1-24 (Santa Catalina Island), <unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 77 B, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.24">
+ <did>
+ <unittitle>Bagley Tract, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 D-E, 2-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.25">
+ <did>
+ <unittitle>Baldwin 500 Acres, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 A-C, 1-3.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.26">
+ <did>
+ <unittitle>Baldwin Acreage, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 A-C, 1-3.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.27">
+ <did>
+ <unittitle>Baldwin's Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.28">
+ <did>
+ <unittitle>Bandini Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.29">
+ <did>
+ <unittitle>Banfit Villa.</unittitle>
+ <unitid label="Reference Nos.">LA C-E, 4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.30">
+ <did>
+ <unittitle>Bardsdale Tract, R.G. Surdam's Plot of the.</unittitle>
+ <origination>Owners: R.G. Surdam.</origination>
+ <origination>Realtors: Burch and Boal.</origination>
+ <origination>Realtors: R.C. Carlton.</origination>
+ <unitid label="Reference Nos.">VE 42 A-E, 1-2.</unitid>
+ <note>
+ <p>See: VE 31 B-E, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.31">
+ <did>
+ <container label="Folder" type="Folder">6 </container>
+ <unittitle>Bardsdale Tract, R.G. Surdam's Plot of the, <unitdate calendar="gregorian" era="ce">1887.</unitdate></unittitle>
+ <origination>Owners: R.G. Surdam.</origination>
+ <origination>Realtors: Burch and Boal.</origination>
+ <origination>Realtors: R.C. Carlton.</origination>
+ <unitid label="Reference Nos.">VE 31 B-E, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.32">
+ <did>
+ <unittitle>Beck Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.33">
+ <did>
+ <unittitle>Bellevue Terrace Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.34">
+ <did>
+ <unittitle>Bell's Addition Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.35">
+ <did>
+ <unittitle>Bentley and Cuppeno Fourth Street Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.36">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Beverly Hills, Portion of, <unitdate calendar="gregorian" era="ce">1906.</unitdate></unittitle>
+ <origination>Realtors: Percy H. Clark Company.</origination>
+ <unitid label="Reference Nos.">LA 33 B, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.37">
+ <did>
+ <unittitle>Boehm Addition.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.38">
+ <did>
+ <unittitle>Bonito Tract, The.</unittitle>
+ <unitid label="Reference Nos.">LA 43 E, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.39">
+ <did>
+ <unittitle>Bonnie Brae Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 B, 2.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.40">
+ <did>
+ <unittitle>Boutons Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.41">
+ <did>
+ <unittitle>Bravender Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 34 C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.42">
+ <did>
+ <unittitle>Brentwood Park.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-B, 1-3.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.43">
+ <did>
+ <unittitle>Brentwood Terrace.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-B, 1-3.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.44">
+ <did>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>Briswalter Tract.</unittitle>
+ <origination>Owners: Grider and Dow.</origination>
+ <origination>Realtors: Grider and Dow.</origination>
+ <unitid label="Reference Nos.">LA 52 C-D, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.45">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Broadway Lot [Olive/Hill/Broadway], <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 C, 3-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.46">
+ <did>
+ <unittitle>Brodericks Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.47">
+ <did>
+ <container label="Folder" type="Folder">4 </container>
+ <unittitle>Brooklyn Heights.</unittitle>
+ <unitid label="Reference Nos.">LA 45 C-D, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.48">
+ <did>
+ <unittitle>Brown and Adams Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.49">
+ <did>
+ <unittitle>Bruning Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.50">
+ <did>
+ <unittitle>Bunker Hill Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.51">
+ <did>
+ <unittitle>Burbank-Western Portion, <unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 24 A-D, 1-3.</unitid>
+ <note>
+ <p>See: LA 17 A-D, 4-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.52">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Burbank-Western Portion, <unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 17 A-D, 4-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.53">
+ <did>
+ <unittitle>Burton Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.54">
+ <did>
+ <unittitle>Bush Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.55">
+ <did>
+ <unittitle>Butler and Elder Tract, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 52 D-F, 1-2.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.56">
+ <did>
+ <unittitle>Cambridge Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-D, 3-4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.57">
+ <did>
+ <unittitle>Cameron Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.58">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Canyon Castle Park.</unittitle>
+ <origination>Realtors: Chas. S. Mann.</origination>
+ <unitid label="Reference Nos.">LA 33 E, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.59">
+ <did>
+ <unittitle>Carlos Heights.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-B, 1-3.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.60">
+ <did>
+ <unittitle>Carr Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.61">
+ <did>
+ <unittitle>Castle Garden.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-D, 3-4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.62">
+ <did>
+ <unittitle>Centinella Rancho, <unitdate calendar="gregorian" era="ce">1880s</unitdate>(?).</unittitle>
+ <unitid label="Reference Nos.">LA 56 A-F, 1-5.</unitid>
+ <note>
+ <p>See: LA 55A D-F, 1-5.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.63">
+ <did>
+ <unittitle>Central Addition.</unittitle>
+ <unitid label="Reference Nos.">LA 49 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.64">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Child's Heights, <unitdate calendar="gregorian" era="ce">1891</unitdate>(?).</unittitle>
+ <origination>Owners: Maltmann and Ivers.</origination>
+ <unitid label="Reference Nos.">LA 35 A, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.65">
+ <did>
+ <unittitle>Ciningham Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.66">
+ <did>
+ <unittitle>City Centre Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.67">
+ <did>
+ <unittitle>City Park and Lake Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.68">
+ <did>
+ <container label="Folder" type="Folder">4 </container>
+ <unittitle>Claremont, <unitdate calendar="gregorian" era="ce">1887.</unitdate></unittitle>
+ <origination>Owners: Pacific Land Improvement Company.</origination>
+ <origination>Realtors: W.H. Holabird.</origination>
+ <unitid label="Reference Nos.">LA 91 B-C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.69">
+ <did>
+ <unittitle>Clarence Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-E, 4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.70">
+ <did>
+ <unittitle>Clen-nar Heights.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.71">
+ <did>
+ <unittitle>Cliffton Acres.</unittitle>
+ <origination>Realtors: Campbell and Bentley Company.</origination>
+ <unitid label="Reference Nos.">LA 67 D-E, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.72">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Cliffton By the Sea.</unittitle>
+ <origination>Realtors: Campbell-Bentley Company.</origination>
+ <unitid label="Reference Nos.">LA 67 D-E, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.73">
+ <did>
+ <unittitle>Cliffton Heights.</unittitle>
+ <origination>Realtors: Campbell and Bentley Company.</origination>
+ <unitid label="Reference Nos.">LA 67 D-E, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.74">
+ <did>
+ <unittitle>Cohn Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.75">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Colegrove.</unittitle>
+ <unitid label="Reference Nos.">LA 34 C, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.76">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Colegrove.</unittitle>
+ <unitid label="Reference Nos.">LA 34 C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.77">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Colegrove, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 34 A-C, 4-6.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.78">
+ <did>
+ <unittitle>Colina Park.</unittitle>
+ <unitid label="Reference Nos.">LA 44 B, 2.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.79">
+ <did>
+ <unittitle>College Site Acreage, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 A-C, 1-3.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.80">
+ <did>
+ <unittitle>Commonwealth Terrace, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: J. Brent Harding Company (Lewis and Peirce with).</origination>
+ <unitid label="Reference Nos.">LA 44 A, 1-2.</unitid>
+ <note>
+ <p>See: LA 43 F, 1-2.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.81">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Commonwealth Terrace, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: J. Brent Harding Company (Lewis and Peirce with).</origination>
+ <unitid label="Reference Nos.">LA 43 F, 1-2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.82">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Country Club Park.</unittitle>
+ <unitid label="Reference Nos.">LA 43 D, 2-3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.83">
+ <did>
+ <unittitle>Cox Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.84">
+ <did>
+ <unittitle>Cranis Replat.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-D, 3-4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.85">
+ <did>
+ <unittitle>Crawford Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.86">
+ <did>
+ <unittitle>Crosier Addition.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.87">
+ <did>
+ <unittitle>Davis Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.88">
+ <did>
+ <unittitle>Davis Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.89">
+ <did>
+ <unittitle>DeCelis Vineyard Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.90">
+ <did>
+ <unittitle>Deeble Tract, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 52 C-F, 1-2.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.91">
+ <did>
+ <unittitle>Dennis and Stewart Addition.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.92">
+ <did>
+ <unittitle>Derby Park Tract, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 D-E, 2-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.93">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Diamond Street Tract, <unitdate calendar="gregorian" era="ce">1887.</unitdate></unittitle>
+ <origination>Realtors: Morford and Son.</origination>
+ <unitid label="Reference Nos.">LA 35 A, 6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.94">
+ <did>
+ <unittitle>Downey Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.95">
+ <did>
+ <unittitle>Dunigan Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.96">
+ <did>
+ <unittitle>Dunkelberger Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.97">
+ <did>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>Durley Park Tract.</unittitle>
+ <origination>Realtors: Greater Los Angeles Realty Company.</origination>
+ <unitid label="Reference Nos.">LA 49 D, 2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.98">
+ <did>
+ <unittitle>E.H. Workman Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.99">
+ <did>
+ <unittitle>East Ocean Park Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 F, 1.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.100">
+ <did>
+ <unittitle>East Ocean Park Villa Tract, Map of.</unittitle>
+ <unitid label="Reference Nos.">LA 49 F, 1.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.101">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>El Segundo, Official Map of, <unitdate calendar="gregorian" era="ce">1912-13.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 56 A-C, 5-6.</unitid>
+ <note>
+ <p>See: LA 55A F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.102">
+ <did>
+ <container label="Folder" type="Folder">7 </container>
+ <unittitle>El Segundo, Official Map of, <unitdate calendar="gregorian" era="ce">1912-13.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 55A F, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.103">
+ <did>
+ <unittitle>El Segundo, Official Map of, <unitdate calendar="gregorian" era="ce">1912.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 56 A-C, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.104">
+ <did>
+ <unittitle>Elder Place no. 1, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 52 D-F, 1-2.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.105">
+ <did>
+ <unittitle>Elder Place no. 2, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 52 D-F, 1-2.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.106">
+ <did>
+ <unittitle>Eleventh Street Block.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.107">
+ <did>
+ <unittitle>Ellis Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.108">
+ <did>
+ <unittitle>Elysian Park, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 35 D-E, 4-5.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.109">
+ <did>
+ <unittitle>Erkenbrecher Syldiczie Santa Monica Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 B-C, 6.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.110">
+ <did>
+ <unittitle>Exposition Park Square, Mitchel's, <unitdate calendar="gregorian" era="ce">1911-12.</unitdate></unittitle>
+ <origination>Owners: L.H. Mitchel and Son.</origination>
+ <origination>Realtors: L.H. Mitchel and Son.</origination>
+ <unitid label="Reference Nos.">LA 52 A, 2.</unitid>
+ <note>
+ <p>See: LA 51 F, 2.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.111">
+ <did>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>Exposition Park Square, Mitchel's, <unitdate calendar="gregorian" era="ce">1911-12.</unitdate></unittitle>
+ <origination>Owners: L.H. Mitchel and Son.</origination>
+ <origination>Realtors: L.H. Mitchel and Son.</origination>
+ <unitid label="Reference Nos.">LA 51 F, 2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.112">
+ <did>
+ <unittitle>F.P. Howard Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 49 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.113">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Fairfax Park Tract.</unittitle>
+ <origination>Owners: H.R. Gowan.</origination>
+ <origination>Realtors: R.A. Scott.</origination>
+ <unitid label="Reference Nos.">LA 42 E-F, 2-3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.114">
+ <did>
+ <unittitle>Fairfax View Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 B, 2.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.115">
+ <did>
+ <unittitle>Figueroa Park Square Tract, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 58 A, 1.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.116">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Figueroa Street Square.</unittitle>
+ <origination>Realtors: O.A. Vickrey and Company.</origination>
+ <unitid label="Reference Nos.">LA 58 A, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.117">
+ <did>
+ <unittitle>Forman Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-B, 3-4.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.118">
+ <did>
+ <container label="Folder" type="Folder">6 </container>
+ <unittitle>Forster's Addition to San Juan Capistrano, <unitdate calendar="gregorian" era="ce">1888.</unitdate></unittitle>
+ <unitid label="Reference Nos.">OR 36 B-C, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.119">
+ <did>
+ <unittitle>Fort Hill Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.120">
+ <did>
+ <unittitle>Francisco Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.121">
+ <did>
+ <unittitle>Fraser and Jones' Strand Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 B-C, 4-5.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.122">
+ <did>
+ <unittitle>Freemont Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 34 C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.123">
+ <did>
+ <unittitle>Friends Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.124">
+ <did>
+ <unittitle>Galpin Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.125">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Gano's Subdivision, Avalon--Santa Catalina Island.</unittitle>
+ <unitid label="Reference Nos.">LA 77 B, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.126">
+ <did>
+ <unittitle>Garey Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.127">
+ <did>
+ <unittitle>Garey Tract Addition.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.128">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Garfield Heights, <unitdate calendar="gregorian" era="ce">1904</unitdate>(?).</unittitle>
+ <origination>Owners: Cribb and Sinclair.</origination>
+ <origination>Realtors: Cribb and Sinclair.</origination>
+ <unitid label="Reference Nos.">LA 43 D, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.129">
+ <did>
+ <unittitle>Gate Acres.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-B, 1-3.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.130">
+ <did>
+ <unittitle>Gillis Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-E, 4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.131">
+ <did>
+ <unittitle>Golden Bay Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 B, 3-4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.132">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Golden Gate Tract, <unitdate calendar="gregorian" era="ce">1891.</unitdate></unittitle>
+ <origination>Owners: Maltmann and Ivers.</origination>
+ <unitid label="Reference Nos.">LA 35 B, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.133">
+ <did>
+ <unittitle>Goldworthy Eighth Street Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.134">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Gotham Park.</unittitle>
+ <origination>Owners: Commonwealth Home Builders.</origination>
+ <unitid label="Reference Nos.">LA 58 B, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.135">
+ <did>
+ <unittitle>Gracewood Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 34 C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.136">
+ <did>
+ <container label="Folder" type="Folder">4 </container>
+ <unittitle>Granada Place, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ <origination>Owners: Granada Realty Company.</origination>
+ <origination>Owners: Glenn C. Seelye.</origination>
+ <unitid label="Reference Nos.">LA 45 F, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.137">
+ <did>
+ <unittitle>Green Acres.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.138">
+ <did>
+ <unittitle>Greenwell Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.139">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle>Grove Orchard Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.140">
+ <did>
+ <unittitle>Harbor City, <unitdate calendar="gregorian" era="ce">1914.</unitdate></unittitle>
+ <origination>Owners: W.I. Hollingsworth and Company.</origination>
+ <origination>Realtors: Brown and Meier.</origination>
+ <unitid label="Reference Nos.">LA 73 E-F, 2-3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.141">
+ <did>
+ <unittitle>Harvey Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.142">
+ <did>
+ <unittitle>Heffner and Irvine Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.143">
+ <did>
+ <unittitle>Hege Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.144">
+ <did>
+ <unittitle>Hemet.</unittitle>
+ <origination>Owners: Hemet Land Company.</origination>
+ <unitid label="Reference Nos.">RI 88 C-F, 1-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.145">
+ <did>
+ <unittitle>Hemet.</unittitle>
+ <origination>Owners: Hemet Land Company.</origination>
+ <unitid label="Reference Nos.">RI 89 A-B, 1-6.</unitid>
+ <note>
+ <p>See: RI 88 C-F, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.146">
+ <did>
+ <unittitle>Hermosa Beach.</unittitle>
+ <unitid label="Reference Nos.">LA 67 B-C, 1-2.</unitid>
+ <note>
+ <p>See: LA 62 B-C, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.147">
+ <did>
+ <container label="Folder" type="Folder">4 </container>
+ <unittitle>Hermosa Beach.</unittitle>
+ <unitid label="Reference Nos.">LA 62 B-C, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.148">
+ <did>
+ <unittitle>Highland Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.149">
+ <did>
+ <unittitle>Hill Acreage, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 A, 4-5.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.150">
+ <did>
+ <unittitle>Hill Acreage, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 B, 5.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.151">
+ <did>
+ <unittitle>Hill Street Lot, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 C, 3-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.152">
+ <did>
+ <unittitle>Hillcrest Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.153">
+ <did>
+ <unittitle>Hiscock and Smith's First Addition, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 E, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.154">
+ <did>
+ <unittitle>Hodge Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.155">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Hollenbeck Heights Tract, <unitdate calendar="gregorian" era="ce">1912.</unitdate></unittitle>
+ <origination>Realtors: Lawrence B. Burck Company.</origination>
+ <origination>Realtors: H.G. Cotton and Company.</origination>
+ <unitid label="Reference Nos.">LA 45 C, 6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.156">
+ <did>
+ <unittitle>Hollywood, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 33 E-F, 4-6.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.157">
+ <did>
+ <unittitle>Hollywood, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 34 A-C, 4-6.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.158">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Hollywood New Addition, Morgan's.</unittitle>
+ <origination>Owners: J.J. Morgan.</origination>
+ <unitid label="Reference Nos.">LA 34 D, 3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.159">
+ <did>
+ <unittitle>Hoover Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.160">
+ <did>
+ <unittitle>Howard Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.161">
+ <did>
+ <unittitle>Huba Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.162">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Huos Tract (no. 6256), <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 42 E, 4-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.163">
+ <did>
+ <unittitle>Hyde Park Acreage, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 B, 5.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.164">
+ <did>
+ <unittitle>Inglewood, <unitdate calendar="gregorian" era="ce">1880s</unitdate>(?).</unittitle>
+ <unitid label="Reference Nos.">LA 56 A-F, 1-5.</unitid>
+ <note>
+ <p>See: LA 55A D-F, 1-5.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.165">
+ <did>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>Inglewood, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 A, 6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.166">
+ <did>
+ <unittitle>Inglewood Acreage, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 B, 5.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.167">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Inglewood Acres, <unitdate calendar="gregorian" era="ce">1912.</unitdate></unittitle>
+ <origination>Realtors: James R.H. Wagner Company.</origination>
+ <unitid label="Reference Nos.">LA 57 B-C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.168">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Inglewood, Town of.</unittitle>
+ <unitid label="Reference Nos.">LA 51 A-B, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.169">
+ <did>
+ <unittitle>Ivanhoe, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 35 B, 2-3.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.170">
+ <did>
+ <container label="Folder" type="Folder">6 </container>
+ <unittitle>Ivywild, <unitdate calendar="gregorian" era="ce">1913</unitdate>(?).</unittitle>
+ <origination>Realtors: Edward D. Reed Realty Company.</origination>
+ <unitid label="Reference Nos.">LA 42 C, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.171">
+ <did>
+ <unittitle>James Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.172">
+ <did>
+ <unittitle>Jefferson Street Park Tract.</unittitle>
+ <origination>Realtors: Arthur W. Kinney Company.</origination>
+ <unitid label="Reference Nos.">LA 43 D, 6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.173">
+ <did>
+ <unittitle>John C. Downey.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.174">
+ <did>
+ <unittitle>Josefa Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.175">
+ <did>
+ <unittitle>Judson Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.176">
+ <did>
+ <unittitle>Jurupa Rancho.</unittitle>
+ <origination>Owners: Rogers Development Company.</origination>
+ <origination>Realtors: Charles O. Middleton.</origination>
+ <origination>Realtors: John A. Vaughan.</origination>
+ <unitid label="Reference Nos.">RI 11 A-F, 1-2.</unitid>
+ <note>
+ <p>See: RI 5 A-F, 2-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.177">
+ <did>
+ <unittitle>Jurupa Rancho.</unittitle>
+ <origination>Owners: Rogers Development Company.</origination>
+ <origination>Realtors: Charles O. Middleton.</origination>
+ <origination>Realtors: John A. Vaughan.</origination>
+ <unitid label="Reference Nos.">RI 5 A-F, 2-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.178">
+ <did>
+ <unittitle>Jurupa Rancho.</unittitle>
+ <origination>Owners: Rogers Development Company.</origination>
+ <origination>Realtors: Charles O. Middleton.</origination>
+ <origination>Realtors: John A. Vaughan.</origination>
+ <unitid label="Reference Nos.">RI 12 A-B, 1-2.</unitid>
+ <note>
+ <p>See: RI 5 A-F, 2-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.179">
+ <did>
+ <unittitle>Jurupa Rancho.</unittitle>
+ <origination>Owners: Rogers Development Company.</origination>
+ <origination>Realtors: Charles O. Middleton.</origination>
+ <origination>Realtors: John A. Vaughan.</origination>
+ <unitid label="Reference Nos.">RI 6 A-B, 2-6.</unitid>
+ <note>
+ <p>See: RI 5 A-F, 2-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.180">
+ <did>
+ <unittitle>Keating Acreage, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 A-C, 1-3.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.181">
+ <did>
+ <unittitle>Keifer Tract, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 E, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.182">
+ <did>
+ <unittitle>Kendall's Berry Tract, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 D-E, 2-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.183">
+ <did>
+ <unittitle>Kennedy Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.184">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Kenwood.</unittitle>
+ <origination>Realtors: Lewis and Flaegel.</origination>
+ <unitid label="Reference Nos.">LA 58 A, 2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.185">
+ <did>
+ <unittitle>Kerckhoff Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.186">
+ <did>
+ <unittitle>Kincaid Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.187">
+ <did>
+ <unittitle>Kinney Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.188">
+ <did>
+ <unittitle>Los Angeles Trust Company, <unitdate calendar="gregorian" era="ce">1880s</unitdate>(?).</unittitle>
+ <unitid label="Reference Nos.">LA 56 A-F, 1-5.</unitid>
+ <note>
+ <p>See: LA 55A D-F, 1-5.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.189">
+ <did>
+ <unittitle>Lake Shore Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 B, 2.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.190">
+ <did>
+ <container label="Folder" type="Folder">7 </container>
+ <unittitle>Lakeside Tract, <unitdate calendar="gregorian" era="ce">1887.</unitdate></unittitle>
+ <origination>Realtors: McPollum and Bixby.</origination>
+ <unitid label="Reference Nos.">LA 35 C, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.191">
+ <did>
+ <unittitle>Lanahl and Spitly Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.192">
+ <did>
+ <unittitle>Lander Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 34 C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.193">
+ <did>
+ <unittitle>Lankershim Ranch, <unitdate calendar="gregorian" era="ce">1888.</unitdate></unittitle>
+ <origination>Owners: Lankershim Land and Water Company.</origination>
+ <unitid label="Reference Nos.">LA 16 B-F, 1-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.194">
+ <did>
+ <container label="Folder" type="Folder">7 </container>
+ <unittitle>Lankershim Ranch, <unitdate calendar="gregorian" era="ce">1888.</unitdate></unittitle>
+ <origination>Owners: Lankershim Land and Water Company.</origination>
+ <unitid label="Reference Nos.">LA 9 B-F, 1-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.195">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Long Beach, City of.</unittitle>
+ <origination>Owners: Long Beach Development Company.</origination>
+ <unitid label="Reference Nos.">LA 75 B-D, 4-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.196">
+ <did>
+ <unittitle>Longstreet Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.197">
+ <did>
+ <unittitle>Loomis and Cole Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-D, 3-4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.198">
+ <did>
+ <unittitle>Loop and Meserve Tract.</unittitle>
+ <origination>Owners: Pomona Land and Water Company.</origination>
+ <origination>Realtors: Los Angeles Land Bureau.</origination>
+ <unitid label="Reference Nos.">LA 90 E-F, 4.</unitid>
+ <note>
+ <p>See: LA 94 E-F, 2-3.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.199">
+ <did>
+ <unittitle>Loretta Park Tract, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 E-F, 5-6.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.200">
+ <did>
+ <unittitle>Los Angeles--Holdings Map.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.201">
+ <did>
+ <unittitle>Los Angeles Homestead Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.202">
+ <did>
+ <unittitle>Los Angeles Investment Cos House Factory and Yards, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 D-E, 2-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.203">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Los Angeles, Business Property Map of, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 B, 4-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.204">
+ <did>
+ <unittitle>Los Angeles, Business Property Map of, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-4.</unitid>
+ <note>
+ <p>See: LA 44 B, 4-5.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.205">
+ <did>
+ <unittitle>Los Angeles, Downtown.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.206">
+ <did>
+ <unittitle>Los Angeles, Downtown.</unittitle>
+ <unitid label="Reference Nos.">LA 44 D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 C, 3-4.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.207">
+ <did>
+ <unittitle>Lucas Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.208">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>M.L. Wicks Subdivision of Carbolino Cooper, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 E, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.209">
+ <did>
+ <unittitle>Magdalena Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.210">
+ <did>
+ <container label="Folder" type="Folder">6 </container>
+ <unittitle>Malis Tract 37 Oil Syndicate, <unitdate calendar="gregorian" era="ce">1920s</unitdate>(?).</unittitle>
+ <origination>Owners: Title Insurance &#x0026; Trust Company, trustee.</origination>
+ <unitid label="Reference Nos.">OR 26 A-F, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.211">
+ <did>
+ <unittitle>Manasquan Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 34 C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.212">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Marengo Tract.</unittitle>
+ <origination>Owners: H.D. Bacon.</origination>
+ <origination>Realtors: W.H. Hughes.</origination>
+ <unitid label="Reference Nos.">LA 37 A-B, 1-3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.213">
+ <did>
+ <unittitle>Marian, Town of, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 14 A-F, 3-6.</unitid>
+ <note>
+ <p>See: LA 12 A-F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.214">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Mariposa Tract.</unittitle>
+ <origination>Owners: P.J. Hummel and Company.</origination>
+ <origination>Realtors: P.J. Hummel and Company.</origination>
+ <unitid label="Reference Nos.">LA 36 D, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.215">
+ <did>
+ <unittitle>Martin Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.216">
+ <did>
+ <unittitle>Marvin Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.217">
+ <did>
+ <container label="Folder" type="Folder">4 </container>
+ <unittitle>McDonald Tract, Map of the (Rancho San Pedro).</unittitle>
+ <origination>Owners: H.H. Boyce.</origination>
+ <origination>Owners: C.J. Richards.</origination>
+ <origination>Realtors: Frank McCoye.</origination>
+ <unitid label="Reference Nos.">LA 63 A-D, 4-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.218">
+ <did>
+ <unittitle>McLaughlin Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.219">
+ <did>
+ <unittitle>Merriam, March and Gardner Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.220">
+ <did>
+ <unittitle>Mese La Ballano.</unittitle>
+ <unitid label="Reference Nos.">LA 49 E, 1-2.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.221">
+ <did>
+ <unittitle>Meyer Block.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.222">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Michillinda.</unittitle>
+ <origination>Owners: California-Michigan Land and Water Company.</origination>
+ <origination>Realtors: James B. Forbes Company.</origination>
+ <unitid label="Reference Nos.">LA 28 B, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.223">
+ <did>
+ <unittitle>Millars Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.224">
+ <did>
+ <unittitle>Mills Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.225">
+ <did>
+ <unittitle>Mills Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.226">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Mission Courts.</unittitle>
+ <origination>Owners: Emil Firth.</origination>
+ <unitid label="Reference Nos.">LA 37 E, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.227">
+ <did>
+ <unittitle>Morris Vineyard Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.228">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Mott Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.229">
+ <did>
+ <unittitle>Mott Tract, <unitdate calendar="gregorian" era="ce">1868-69.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.230">
+ <did>
+ <unittitle>Mueller Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.231">
+ <did>
+ <unittitle>Murat Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.232">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>National Boulevard Heights.</unittitle>
+ <origination>Realtors: Robert Marsh and Company.</origination>
+ <unitid label="Reference Nos.">LA 41 E-F, 6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.233">
+ <did>
+ <unittitle>Nettelson's Subdivision of Ellis Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.234">
+ <did>
+ <unittitle>New College Tract, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 D-E, 2-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.235">
+ <did>
+ <unittitle>Newell and Rider Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.236">
+ <did>
+ <unittitle>Nichols Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.237">
+ <did>
+ <unittitle>Niles Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.238">
+ <did>
+ <unittitle>Nordholt Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.239">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Normal Place, <unitdate calendar="gregorian" era="ce">1915.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Trust and Savings Bank.</origination>
+ <origination>Realtors: C.H. Elmendorf.</origination>
+ <unitid label="Reference Nos.">LA 34 F, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.240">
+ <did>
+ <unittitle>North Pomona Tract.</unittitle>
+ <origination>Owners: Pomona Land and Water Company.</origination>
+ <origination>Realtors: Los Angeles Land Bureau.</origination>
+ <unitid label="Reference Nos.">LA 91 B-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 94 E-F, 2-3.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.241">
+ <did>
+ <unittitle>O.W. Child's Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.242">
+ <did>
+ <unittitle>Ocean Park Heights.</unittitle>
+ <origination>Realtors: Whitcomb Gibson Company.</origination>
+ <origination>Realtors: A.W. Davis.</origination>
+ <unitid label="Reference Nos.">LA 49 E-F, 1-2.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.243">
+ <did>
+ <unittitle>Ocean Park Heights.</unittitle>
+ <origination>Realtors: Whitcomb Gibson Company.</origination>
+ <origination>Realtors: A.W. Davis.</origination>
+ <unitid label="Reference Nos.">LA 41 E, 6.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.244">
+ <did>
+ <unittitle>Ocean Park Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 F, 1-2.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.245">
+ <did>
+ <unittitle>Ocean Park Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 50 A, 3.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.246">
+ <did>
+ <unittitle>Ocean Park Villa Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C, 3.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.247">
+ <did>
+ <container label="Folder" type="Folder">4 </container>
+ <unittitle>Oceanside Villa Tract.</unittitle>
+ <origination>Realtors: Rice and Hiss.</origination>
+ <unitid label="Reference Nos.">LA 62 C, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.248">
+ <did>
+ <unittitle>Olive Street Lot, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 C, 3-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.249">
+ <did>
+ <unittitle>O'Neil Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.250">
+ <did>
+ <unittitle>Orchard Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.251">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Overhill Unit, <unitdate calendar="gregorian" era="ce">1929.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Investment Company.</origination>
+ <origination>Realtors: F.H. Humphrey.</origination>
+ <unitid label="Reference Nos.">LA 50 F, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.252">
+ <did>
+ <unittitle>Owens and Scott Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.253">
+ <did>
+ <unittitle>Owensmouth, Town of, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 12 A-F, 3-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.254">
+ <did>
+ <unittitle>Pacific Farms.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-E, 4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.255">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Pallisades.</unittitle>
+ <unitid label="Reference Nos.">LA 40 E-F, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.256">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Pallisades, The, <unitdate calendar="gregorian" era="ce">1912.</unitdate></unittitle>
+ <origination>Owners: Santa Monica Land and Water Company.</origination>
+ <unitid label="Reference Nos.">LA 40 E-F, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.257">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Palm Place.</unittitle>
+ <origination>Owners: Cote and Company.</origination>
+ <unitid label="Reference Nos.">LA 42 B-C, 1-2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.258">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Paloma Terrace.</unittitle>
+ <origination>Owners: Palomar Land Company.</origination>
+ <origination>Realtors: C.W. Hicks, W.J. Gunn.</origination>
+ <unitid label="Reference Nos.">LA 58 F, 4-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.259">
+ <did>
+ <unittitle>Palomares Tract.</unittitle>
+ <origination>Owners: Pomona Land and Water Company.</origination>
+ <origination>Realtors: Los Angeles Land Bureau.</origination>
+ <unitid label="Reference Nos.">LA 90 E-F, 3.</unitid>
+ <note>
+ <p>See: LA 94 E-F, 2-3.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.260">
+ <did>
+ <unittitle>Pama Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.261">
+ <did>
+ <unittitle>Paradise Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.262">
+ <did>
+ <unittitle>Park Villa Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.263">
+ <did>
+ <unittitle>Pedley.</unittitle>
+ <origination>Owners: Rogers Development Company.</origination>
+ <origination>Realtors: Charles O. Middleton.</origination>
+ <origination>Realtors: John A. Vaughan.</origination>
+ <unitid label="Reference Nos.">RI 5 E-F, 5-6.</unitid>
+ <note>
+ <p>See: RI 5 A-F, 2-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.264">
+ <did>
+ <unittitle>Pierce Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.265">
+ <did>
+ <unittitle>Platers Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.266">
+ <did>
+ <unittitle>Playa Del Rey, <unitdate calendar="gregorian" era="ce">1880s</unitdate>(?).</unittitle>
+ <unitid label="Reference Nos.">LA 55A D-F, 1-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.267">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Pomona and Vicinity, Map of.</unittitle>
+ <origination>Owners: Pomona Land and Water Company.</origination>
+ <origination>Realtors: Los Angeles Land Bureau.</origination>
+ <unitid label="Reference Nos.">LA 94 E-F, 2-3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.268">
+ <did>
+ <container label="Folder" type="Folder">6 </container>
+ <unittitle>Port Ballona, <unitdate calendar="gregorian" era="ce">1887.</unitdate></unittitle>
+ <origination>Owners: Ballona Harbor and Improvement Company.</origination>
+ <unitid label="Reference Nos.">LA 49 C-E, 4-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.269">
+ <did>
+ <unittitle>Prager Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.270">
+ <did>
+ <unittitle>Prospect Hill Addition.</unittitle>
+ <unitid label="Reference Nos.">LA 49 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.271">
+ <did>
+ <unittitle>Pryor Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.272">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Rafferty Pendleton Sub..</unittitle>
+ <origination>Owners: Willamette S.M.L. Company.</origination>
+ <unitid label="Reference Nos.">LA 27 D-E, 4-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.273">
+ <did>
+ <container label="Box" type="Box">1,3</container>
+ <unittitle>Rampart Heights.</unittitle>
+ <origination>Realtors: Strong and Dickinson.</origination>
+ <unitid label="Reference Nos.">LA 44 A, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.274">
+ <did>
+ <unittitle>Rancho Del Mar.</unittitle>
+ <unitid label="Reference Nos.">LA 49 E, 3.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.275">
+ <did>
+ <unittitle>Rancho La Ballona, <unitdate calendar="gregorian" era="ce">1880s</unitdate>(?).</unittitle>
+ <unitid label="Reference Nos.">LA 55A D-F, 1-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.276">
+ <did>
+ <unittitle>Rancho Potrero De Felipe Lugo, <unitdate calendar="gregorian" era="ce">1886.</unitdate></unittitle>
+ <origination>Owners: E.J. Baldwin.</origination>
+ <origination>Owners: Richard Garvey.</origination>
+ <origination>Realtors: Lester F. Scott.</origination>
+ <unitid label="Reference Nos.">LA 47 E-F, 2-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.277">
+ <did>
+ <unittitle>Rancho Potrero De Felipe Lugo, <unitdate calendar="gregorian" era="ce">1886.</unitdate></unittitle>
+ <origination>Owners: E.J. Baldwin.</origination>
+ <origination>Owners: Richard Garvey.</origination>
+ <origination>Realtors: Lester F. Scott.</origination>
+ <unitid label="Reference Nos.">LA 48 A, 2-3.</unitid>
+ <note>
+ <p>See: LA 47 E-F, 2-4.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.278">
+ <did>
+ <unittitle>Rancho San Vicente, Portion of.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A, 3-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.279">
+ <did>
+ <unittitle>Rancho Sausal Redondo, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 56 F, 2-3.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.280">
+ <did>
+ <unittitle>Redondo Beach, <unitdate calendar="gregorian" era="ce">1888.</unitdate></unittitle>
+ <origination>Owners: Redondo Beach Company.</origination>
+ <unitid label="Reference Nos.">LA 67 D-E, 4.</unitid>
+ <note>
+ <p>See: LA 67 C-D, 2-3.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.281">
+ <did>
+ <unittitle>Redondo Beach, <unitdate calendar="gregorian" era="ce">1888.</unitdate></unittitle>
+ <origination>Owners: Redondo Beach Company.</origination>
+ <unitid label="Reference Nos.">LA 67 C-D, 2-3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.282">
+ <did>
+ <unittitle>Regina Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.283">
+ <did>
+ <unittitle>Requena Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.284">
+ <did>
+ <unittitle>Reyes Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.285">
+ <did>
+ <unittitle>Rodgers Park Tract--no. 1356, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 E-F, 5-6.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.286">
+ <did>
+ <unittitle>Rodgers Park Tract--no. 715, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 E-F, 5-6.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.287">
+ <did>
+ <unittitle>Roseboro Villa Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 F, 2-3.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.288">
+ <did>
+ <unittitle>Roseborough Heights.</unittitle>
+ <unitid label="Reference Nos.">LA 49 E, 2.</unitid>
+ <note>
+ <p>See: ***G1528 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.289">
+ <did>
+ <unittitle>Rowen Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.290">
+ <did>
+ <unittitle>Ruby Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-E, 4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.291">
+ <did>
+ <unittitle>San Antonio Tract.</unittitle>
+ <origination>Owners: Pomona Land and Water Company.</origination>
+ <origination>Realtors: Los Angeles Land Bureau.</origination>
+ <unitid label="Reference Nos.">LA 95 C-D, 1-2.</unitid>
+ <note>
+ <p>See: LA 94 E-F, 2-3.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.292">
+ <did>
+ <unittitle>San Antonio Tract.</unittitle>
+ <origination>Owners: Pomona Land and Water Company.</origination>
+ <origination>Realtors: Los Angeles Land Bureau.</origination>
+ <unitid label="Reference Nos.">LA 91 C-D, 6.</unitid>
+ <note>
+ <p>See: LA 94 E-F, 2-3.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.293">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>San Fernando, Town of, <unitdate calendar="gregorian" era="ce">1874</unitdate>(?).</unittitle>
+ <origination>Owners: Charles Maclay.</origination>
+ <origination>Realtors: California Immigrant Union.</origination>
+ <unitid label="Reference Nos.">LA 2 D-E, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.294">
+ <did>
+ <unittitle>San Fernando, Town of, <unitdate calendar="gregorian" era="ce">1874</unitdate>(?).</unittitle>
+ <origination>Owners: Charles Maclay.</origination>
+ <origination>Realtors: California Immigrant Union.</origination>
+ <unitid label="Reference Nos.">LA 8 D-E, 1-2.</unitid>
+ <note>
+ <p>See: LA 2 D-E, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.295">
+ <did>
+ <container label="Folder" type="Folder">6 </container>
+ <unittitle>San Juan By-The-Sea, <unitdate calendar="gregorian" era="ce">1878.</unitdate></unittitle>
+ <origination>Owners: Pacific Land and Improvement Company.</origination>
+ <origination>Realtors: William H. Holabird.</origination>
+ <unitid label="Reference Nos.">OR 38 A-B, 4-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.296">
+ <did>
+ <unittitle>San Pedro.</unittitle>
+ <unitid label="Reference Nos.">LA 78 F, 2-6.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.297">
+ <did>
+ <unittitle>San Pedro.</unittitle>
+ <unitid label="Reference Nos.">LA 79 A, 2-6.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.298">
+ <did>
+ <unittitle>Sanborn Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.299">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Santa Anita Oaks.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.300">
+ <did>
+ <unittitle>Sausal Redondo Rancho, <unitdate calendar="gregorian" era="ce">1880s</unitdate>(?).</unittitle>
+ <unitid label="Reference Nos.">LA 56 A-F, 1-5.</unitid>
+ <note>
+ <p>See: LA 55A D-F, 1-5.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.301">
+ <did>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>Sausal Redondo Rancho, Map of the Southern Part of, <unitdate calendar="gregorian" era="ce">1884.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 55A E-F, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.302">
+ <did>
+ <unittitle>Sawtelle.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-E, 4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.303">
+ <did>
+ <unittitle>Schader Addition.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.304">
+ <did>
+ <unittitle>Schiller Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.305">
+ <did>
+ <unittitle>Seagirt.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C, 3.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.306">
+ <did>
+ <unittitle>Seagirt Tract, Map of.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C, 3.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.307">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Seaside Terrace, <unitdate calendar="gregorian" era="ce">1912.</unitdate></unittitle>
+ <origination>Realtors: Schaders Realty Brokers.</origination>
+ <unitid label="Reference Nos.">LA 49 A, 2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.308">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Seaside Terrace (Vicente Terrace Tract on back).</unittitle>
+ <origination>Realtors: Schaders Realty Brokers.</origination>
+ <unitid label="Reference Nos.">LA 49 A, 2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.309">
+ <did>
+ <unittitle>Seventh Council District, New, <unitdate calendar="gregorian" era="ce">1929.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 52 A-E, 1-3.</unitid>
+ <note>
+ <p>See: LA 43 D-F, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.310">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Seventh Council District, New, <unitdate calendar="gregorian" era="ce">1929.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 A-E, 6.</unitid>
+ <note>
+ <p>See: LA 43 D-F, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.311">
+ <did>
+ <unittitle>Seventh Council District, New, <unitdate calendar="gregorian" era="ce">1929.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 43 D-F, 6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.312">
+ <did>
+ <unittitle>Seventh Council District, New, <unitdate calendar="gregorian" era="ce">1929.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 D-F, 1-3.</unitid>
+ <note>
+ <p>See: LA 43 D-F, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.313">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Seventh Street Addition Tract.</unittitle>
+ <origination>Realtors: Bradshaw Brothers.</origination>
+ <unitid label="Reference Nos.">LA 43 F, 2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.314">
+ <did>
+ <unittitle>Severance Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.315">
+ <did>
+ <unittitle>Shaw Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.316">
+ <did>
+ <unittitle>Sierra Vista Heights.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.317">
+ <did>
+ <unittitle>Sierra Vista Townsite.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.318">
+ <did>
+ <unittitle>Silver Strand.</unittitle>
+ <unitid label="Reference Nos.">LA 49 B-C, 4-5.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.319">
+ <did>
+ <unittitle>Sisters of Charity Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.320">
+ <did>
+ <unittitle>South Porter Tracts, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 44 E, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.321">
+ <did>
+ <unittitle>Spencer's Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.322">
+ <did>
+ <unittitle>St. Vincent College Tract, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 D-E, 2-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.323">
+ <did>
+ <unittitle>Star Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.324">
+ <did>
+ <unittitle>Stephenson's Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.325">
+ <did>
+ <unittitle>Stil (?) Subdivision.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.326">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Sunnymead Orchard Tract.</unittitle>
+ <origination>Realtors: Robert Marsh and Company.</origination>
+ <unitid label="Reference Nos.">RI 15 B-E, 4-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.327">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Sunset, DeLongre, Fountain Cahuanga area, <unitdate calendar="gregorian" era="ce">ca. 1914.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 34 C, 3-4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.328">
+ <did>
+ <unittitle>Tilden Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-C, 4-5.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.329">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Towner Terrace.</unittitle>
+ <unitid label="Reference Nos.">LA 41 B-C, 6.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.330">
+ <did>
+ <unittitle>Towner Terrace.</unittitle>
+ <origination>Owners: W.J. Gunn.</origination>
+ <unitid label="Reference Nos.">LA 49 A-B, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.331">
+ <did>
+ <unittitle>Tract 1700, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 D-E, 2-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.332">
+ <did>
+ <unittitle>Tract no. 215, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 43 A-B, 1.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.333">
+ <did>
+ <unittitle>Treat Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.334">
+ <did>
+ <unittitle>Truman Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.335">
+ <did>
+ <unittitle>Tucker Langdon Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-E, 4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.336">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>University Tract (University of Southern California), The, <unitdate calendar="gregorian" era="ce">1887.</unitdate></unittitle>
+ <origination>Realtors: H.H. Wilcox and Company.</origination>
+ <unitid label="Reference Nos.">LA 44 A, 6.</unitid>
+ <note>
+ <p>See: LA 43 F, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.337">
+ <did>
+ <unittitle>University Tract (University of Southern California), The, <unitdate calendar="gregorian" era="ce">1887.</unitdate></unittitle>
+ <origination>Realtors: H.H. Wilcox and Company.</origination>
+ <unitid label="Reference Nos.">LA 43 F, 6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.338">
+ <did>
+ <container label="Folder" type="Folder">6 </container>
+ <unittitle>Unnamed.</unittitle>
+ <unitid label="Reference Nos.">LA 42 F, 5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.339">
+ <did>
+ <unittitle>Unnamed.</unittitle>
+ <unitid label="Reference Nos.">LA 43 A, 5.</unitid>
+ <note>
+ <p>See: LA 42 F, 5.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.340">
+ <did>
+ <unittitle>Urquidez Garden Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.341">
+ <did>
+ <unittitle>Van Nuys, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 15 B-F, 3-6.</unitid>
+ <note>
+ <p>See: LA 12 A-F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.342">
+ <did>
+ <unittitle>Van Nuys--Lankershim Lands, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 15 A-F, 3-6.</unitid>
+ <note>
+ <p>See: LA 12 A-F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.343">
+ <did>
+ <container label="Folder" type="Folder">7 </container>
+ <unittitle>Van Nuys--Lankershim Lands, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 12 A-F, 3-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.344">
+ <did>
+ <unittitle>Van Nuys--Lankershim Lands, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 23 A-F, 1-2.</unitid>
+ <note>
+ <p>See: LA 12 A-F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.345">
+ <did>
+ <unittitle>Van Nuys--Lankershim Lands, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 16 A-F, 3-6.</unitid>
+ <note>
+ <p>See: LA 12 A-F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.346">
+ <did>
+ <unittitle>Van Nuys--Lankershim Lands, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 14 A-F, 3-6.</unitid>
+ <note>
+ <p>See: LA 12 A-F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.347">
+ <did>
+ <unittitle>Van Nuys--Lankershim Lands, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 21 A-F, 1-2.</unitid>
+ <note>
+ <p>See: LA 12 A-F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.348">
+ <did>
+ <unittitle>Van Nuys--Lankershim Lands, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 13 A-F, 1-2.</unitid>
+ <note>
+ <p>See: LA 12 A-F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.349">
+ <did>
+ <unittitle>Van Nuys--Lankershim Lands, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Suburban Homes Company.</origination>
+ <origination>Realtors: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 22 A-F, 1-2.</unitid>
+ <note>
+ <p>See: LA 12 A-F, 3-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.350">
+ <did>
+ <unittitle>Venice.</unittitle>
+ <unitid label="Reference Nos.">LA 49 B-C, 4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.351">
+ <did>
+ <unittitle>Venice--Canals.</unittitle>
+ <unitid label="Reference Nos.">LA 49 B-C, 4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.352">
+ <did>
+ <unittitle>Venice Annex.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C-D, 3-4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.353">
+ <did>
+ <unittitle>Venice Annex no. 1 and no. 2.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C, 4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.354">
+ <did>
+ <unittitle>Venice of America.</unittitle>
+ <unitid label="Reference Nos.">LA 49 B-C, 4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.355">
+ <did>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>Venice of America (shows canals).</unittitle>
+ <origination>Realtors: Abbot Kinney Company.</origination>
+ <unitid label="Reference Nos.">LA 49 C, 4-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.356">
+ <did>
+ <unittitle>Venice of America Replat no. 3.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C, 3-4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.357">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Venice of America-Ocean Park Villa Tract no. 2.</unittitle>
+ <origination>Realtors: Abbot Kinney Company, Land Department.</origination>
+ <unitid label="Reference Nos.">LA 49 B, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.358">
+ <did>
+ <unittitle>Venice Park Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C, 4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.359">
+ <did>
+ <unittitle>Venice Park Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C, 3.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.360">
+ <did>
+ <unittitle>Venice Vista Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C, 4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.361">
+ <did>
+ <unittitle>Venice, Canals.</unittitle>
+ <unitid label="Reference Nos.">LA 49 C, 4-5.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.362">
+ <did>
+ <unittitle>Venus Canal and Part of Club House Place.</unittitle>
+ <unitid label="Reference Nos.">LA 49 B-C, 4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.363">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Vermont Avenue Villa Tract.</unittitle>
+ <origination>Realtors: Strong and Dickinson.</origination>
+ <origination>Realtors: Mines and Farish.</origination>
+ <unitid label="Reference Nos.">LA 51 E-F, 3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.364">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Vermont Avenue Villa Tract.</unittitle>
+ <origination>Realtors: Strong and Dickinson.</origination>
+ <unitid label="Reference Nos.">LA 51 F, 3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.365">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Vicente Terrace Tract (Seaside Terrace on back).</unittitle>
+ <origination>Realtors: Schaders Realty Brokers.</origination>
+ <unitid label="Reference Nos.">LA 49 A, 2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.366">
+ <did>
+ <unittitle>Walgrove.</unittitle>
+ <origination>Realtors: Guaranty Realty Company.</origination>
+ <unitid label="Reference Nos.">LA 49 D-E, 3.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.367">
+ <did>
+ <unittitle>Walgrove.</unittitle>
+ <unitid label="Reference Nos.">LA 49 D-E, 3.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.368">
+ <did>
+ <unittitle>Walker Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.369">
+ <did>
+ <unittitle>Walnut and Bean Land Company, <unitdate calendar="gregorian" era="ce">1880s</unitdate>(?).</unittitle>
+ <unitid label="Reference Nos.">LA 56 A-F, 1-5.</unitid>
+ <note>
+ <p>See: LA 55A D-F, 1-5.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.370">
+ <did>
+ <unittitle>Ward Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.371">
+ <did>
+ <unittitle>Washington Gardner Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.372">
+ <did>
+ <container label="Folder" type="Folder">5 </container>
+ <unittitle>Washington Park, <unitdate calendar="gregorian" era="ce">1912</unitdate>(?).</unittitle>
+ <origination>Owners: Southern California Home Builders.</origination>
+ <unitid label="Reference Nos.">LA 50 C, 1.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.373">
+ <did>
+ <unittitle>Washington Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.374">
+ <did>
+ <unittitle>Wave Crest Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 49 A-B, 1-2.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.375">
+ <did>
+ <unittitle>Wellsley Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C-D, 3-4.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.376">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>West Adams and Washington Boulevard Tract, <unitdate calendar="gregorian" era="ce">1912.</unitdate></unittitle>
+ <origination>Realtors: Victor G. Kleinberger Company.</origination>
+ <unitid label="Reference Nos.">LA 43 A, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.377">
+ <did>
+ <unittitle>West Lake Park Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 B, 2.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.378">
+ <did>
+ <unittitle>Western Avenue Square, <unitdate calendar="gregorian" era="ce">1913.</unitdate></unittitle>
+ <unitid label="Reference Nos.">LA 51 D-E, 2-4.</unitid>
+ <note>
+ <p>See: LA 51 A, 6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.379">
+ <did>
+ <unittitle>Western Heights.</unittitle>
+ <unitid label="Reference Nos.">LA 43 D, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.380">
+ <did>
+ <unittitle>Westgate.</unittitle>
+ <unitid label="Reference Nos.">LA 41 C, 3.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.381">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Westgate Heights.</unittitle>
+ <unitid label="Reference Nos.">LA 41 A-B, 1-3.</unitid>
+ <note>
+ <p>See: LA 40 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.382">
+ <did>
+ <unittitle>Westmoreland Place and Tract, <unitdate calendar="gregorian" era="ce">1902.</unitdate></unittitle>
+ <origination>Owners: Wesley Clark.</origination>
+ <origination>Owners: E.P. Bryan.</origination>
+ <unitid label="Reference Nos.">LA 44 A, 2-3.</unitid>
+ <note>
+ <p>See: LA 43 F, 2-3.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.383">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Westmoreland Place and Tract, <unitdate calendar="gregorian" era="ce">1902.</unitdate></unittitle>
+ <origination>Owners: Wesley Clark.</origination>
+ <origination>Owners: E.P. Bryan.</origination>
+ <unitid label="Reference Nos.">LA 43 F, 2-3.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.384">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Westwood Hills.</unittitle>
+ <origination>Owners: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 41 E-F, 1.</unitid>
+ <note>
+ <p>See: LA 32 E-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.385">
+ <did>
+ <unittitle>Westwood Hills.</unittitle>
+ <origination>Owners: Janss Investment Company.</origination>
+ <unitid label="Reference Nos.">LA 32 E-F, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.386">
+ <did>
+ <unittitle>Wheeler Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.387">
+ <did>
+ <unittitle>Widow Botiller Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 4-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.388">
+ <did>
+ <container label="Folder" type="Folder">7 </container>
+ <unittitle>Wiliamson Tract, <unitdate calendar="gregorian" era="ce">1886.</unitdate></unittitle>
+ <origination>Owners: Southern California Land Company (Homestead Laws-1862).</origination>
+ <unitid label="Reference Nos.">LA 44 C, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.389">
+ <did>
+ <unittitle>Williamson Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 3-4.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.390">
+ <did>
+ <container label="Folder" type="Folder">4 </container>
+ <unittitle>Willmore, Official Plat of the Town of, <unitdate calendar="gregorian" era="ce">1880s</unitdate>(?).</unittitle>
+ <unitid label="Reference Nos.">LA 75 C-D, 4-5.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.391">
+ <did>
+ <unittitle>Wilmington.</unittitle>
+ <unitid label="Reference Nos.">LA 74 A-E, 2-5.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.392">
+ <did>
+ <unittitle>Wilmington Harbor Park Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 74 B-C, 5.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.393">
+ <did>
+ <unittitle>Wilshire Assessment District, Proposed.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-D, 1-3.</unitid>
+ <note>
+ <p>See: LA 33 D-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.394">
+ <did>
+ <unittitle>Wilshire Assessment District, Proposed.</unittitle>
+ <unitid label="Reference Nos.">LA 43 A-F, 1-3.</unitid>
+ <note>
+ <p>See: LA 33 D-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.395">
+ <did>
+ <unittitle>Wilshire Assessment District, Proposed.</unittitle>
+ <unitid label="Reference Nos.">LA 42 D-F, 1-3.</unitid>
+ <note>
+ <p>See: LA 33 D-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.396">
+ <did>
+ <unittitle>Wilshire Assessment District, Proposed.</unittitle>
+ <unitid label="Reference Nos.">LA 35 D-F, 5-6.</unitid>
+ <note>
+ <p>See: LA 33 D-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.397">
+ <did>
+ <unittitle>Wilshire Assessment District, Proposed.</unittitle>
+ <unitid label="Reference Nos.">LA 34 A-F, 5-6.</unitid>
+ <note>
+ <p>See: LA 33 D-F, 5-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.398">
+ <did>
+ <container label="Folder" type="Folder">2 </container>
+ <unittitle>Wilshire Assessment District, Proposed.</unittitle>
+ <unitid label="Reference Nos.">LA 33 D-F, 5-6.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.399">
+ <did>
+ <container label="Box" type="Box">1, 3</container>
+ <unittitle>Wilshire Boulevard Heights.</unittitle>
+ <origination>Realtors: Bradshaw Brothers.</origination>
+ <unitid label="Reference Nos.">LA 43 F, 2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.400">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Wilshire Heights.</unittitle>
+ <origination>Realtors: Jas.V. Baldwin.</origination>
+ <unitid label="Reference Nos.">LA 43 C, 1-2.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.401">
+ <did>
+ <unittitle>Wodlen Mill Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.402">
+ <did>
+ <container label="Folder" type="Folder">7 </container>
+ <unittitle>Wolfskill Tract, <unitdate calendar="gregorian" era="ce">1893.</unitdate></unittitle>
+ <origination>Owners: Los Angeles Land Bureau.</origination>
+ <origination>Realtors: Easton, Eldridge and Company (auctioneers).</origination>
+ <unitid label="Reference Nos.">LA 44 D, 4.</unitid>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.403">
+ <did>
+ <unittitle>Wood North Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 C-D, 2-3.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.404">
+ <did>
+ <unittitle>Wright Tract.</unittitle>
+ <unitid label="Reference Nos.">LA 44 A-B, 5-6.</unitid>
+ <note>
+ <p>See: LA 44 A-D, 1-6.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.405">
+ <did>
+ <unittitle>Wright's Addition.</unittitle>
+ <unitid label="Reference Nos.">LA 49 E, 4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.7.406">
+ <did>
+ <unittitle>Wright's Addition to Ocean Park.</unittitle>
+ <origination>Realtors: C.L. Bundy.</origination>
+ <unitid label="Reference Nos.">LA 49 E, 4.</unitid>
+ <note>
+ <p>See: ***G1529 L8R83a 1902.</p>
+ </note>
+ </did>
+ </c01>
+</dsc>
+</archdesc>
+</ead>
