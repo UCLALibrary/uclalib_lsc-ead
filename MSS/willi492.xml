@@ -1,579 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed"
-    langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-CLU-SC"
-      url="http://www.oac.cdlib.org/findaid/ark:/13030/kt8n39p1p2/">willi492.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Williams (Tennessee) papers</titleproper>
-        <titleproper>Finding Aid for the Tennessee Williams papers <num>LSC.0492</num></titleproper>
-        <author>Finding aid prepared by Tine Brouwer; updated by Kuhelika Ghosh, 2019</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>UCLA Library Special Collections</publisher>
-        <p><date>Online finding aid last updated 2019 April 09.</date></p>
-        <address>
-          <addressline>Room A1713, Charles E. Young Research Library</addressline>
-          <addressline>Box 951575</addressline>
-          <addressline>Los Angeles, CA 90095-1575</addressline>
-          <addressline>spec-coll@library.ucla.edu</addressline>
-          <addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/special-collections"
-              xlink:show="new" xlink:title="https://www.library.ucla.edu/special-collections"
-              xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-04-09 14:24:39
-          -0700</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>UCLA Library Special Collections</corpname>
-      </repository>
-      <unittitle>Tennessee Williams papers</unittitle>
-      <origination label="Creator">
-        <persname source="ingest">Williams, Tennessee, 1911-1983</persname>
-      </origination>
-      <unitid>LSC.0492</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.8 Linear Feet</extent>
-        <extent altrender="carrier">(2 boxes)</extent>
-      </physdesc>
-      <unitdate normal="1930/1970" type="inclusive">1930-1970</unitdate>
-      <abstract id="aspace_272780ec803409394974e6afb8b375c3">Thomas Lanier Williams (1911-1983) was
-        born in Columbus, Missouri. He won a Pulitzer Prize in 1948 for <title>A Streetcar Named
-          Desire</title>, and another in 1955 for <title>Cat on a Hot Tin Roof</title>. Many of his
-        plays were adapted for the screen. His works include 24 major plays, 2 novels, several
-        screenplays, and a volume of memoirs. The collection contains manuscripts of several of
-        Williams' published and unpublished plays, play fragments, short stories, screen scenarios,
-        and poems.</abstract>
-      <physloc id="aspace_bf07da01f1e9b4743ce677c1b4950f60">Stored off-site. All requests to access
-        special collections material must be made in advance using the request button located on
-        this page.</physloc>
-    </did>
-    <accessrestrict id="aspace_5510e052511686141eaba8f5b053c4b2">
-      <head>Conditions Governing Access</head>
-      <p>COLLECTION STORED OFF-SITE: Open for research. All requests to access special collections
-        materials must be made in advance through our electronic paging system using the request
-        button located on this page.</p>
-    </accessrestrict>
-    <userestrict id="aspace_51b3d3484b4ee299dc443faf8430e8c2">
-      <head>Conditions Governing Reproduction and Use</head>
-      <p>Property rights to the physical objects belong to UCLA Library Special Collections. All
-        other rights, including copyright, are retained by the creators and their heirs. It is the
-        responsibility of the researcher to determine who holds the copyright and pursue the
-        copyright owner or his or her heir for permission to publish where The UC Regents do not
-        hold the copyright.</p>
-    </userestrict>
-    <prefercite id="aspace_ac3097cc439075d0dc45f5e9adbc5096">
-      <head>Preferred Citation</head>
-      <p>[Identification of item], Tennessee Williams papers (Collection 492). UCLA Library Special
-        Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
-    </prefercite>
-    <acqinfo id="aspace_c82df13b056a67b1e9945c31669569e5">
-      <head>Provenance/Source of Acquisition</head>
-      <p>Tennessee Williams, purchase, 1970.</p>
-    </acqinfo>
-    <odd id="aspace_04bf6998f45373c91c3b51f2fa33bbf8">
-      <head>UCLA Catalog Record ID</head>
-      <p>UCLA Catalog Record ID:<extref xlink:actuate="onRequest" xlink:show="new"
-          xlink:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=3649243"
-          >3649243</extref></p>
-    </odd>
-    <bioghist id="aspace_204c5fda360b80230c8390ceb5574f02">
-      <head>Biography</head>
-      <p>Thomas Lanier Williams was born on March 26, 1911 in Columbus, Mississippi. His first major
-        success came with the 1945 Broadway premiere of <title>The Glass Menagerie</title>. He won a
-        Pulitzer Prize in 1948 for <title>A Streetcar Named Desire</title> and another in 1955 for
-          <title>Cat on a Hot Tin Roof</title>. Williams adapted a number of his plays for the
-        screen, and his works include 24 major plays, 2 novels, several screenplays, and a volume of
-        memoirs. Williams died on February 25, 1983 in New York City.</p>
-    </bioghist>
-    <scopecontent id="aspace_8023d8554b34736f769de9476b34255d">
-      <head>Scope and Content</head>
-      <p>Collection contains manuscripts of several of Williams' published and unpublished plays,
-        play fragments, short stories, screen scenarios, and poems. Includes transcripts of early
-        versions of <title type="simple">Sweet Bird of Youth</title> and <title type="simple">The
-          Night of the Iguana.</title> Also includes uncorrected proofs and galleys of Gilbert
-        Maxwell's book, <title type="simple">Tennessee Williams and Friends</title> (1965).</p>
-    </scopecontent>
-    <controlaccess>
-      <occupation source="lcsh">Dramatists, American -- 20th century -- Archives.</occupation>
-      <occupation source="lcsh">Authors, American -- 20th century -- Archives.</occupation>
-      <persname rules="rda" source="naf">Maxwell, Gilbert -- Tennessee Williams and
-        Friends.</persname>
-      <persname source="ingest">Williams, Tennessee, 1911-1983--Archives.</persname>
-    </controlaccess>
-    <dsc>
-      <c01 id="aspace_ref11_y35" level="file">
-        <did>
-          <unittitle><title>The Day on Which a Man Dies</title> (an occidental Noh Play).
-            Miami</unittitle>
-          <unitdate>1960</unitdate>
-          <physdesc id="aspace_5132bd73ed7be2e8aada9c95b79c60af">40 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_c472a60c870614c6267de051c4318f02" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_bd24b234a19886c0caa5dce9b2455aaa"
-            parent="aspace_c472a60c870614c6267de051c4318f02" type="folder">1</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref13_z8n" level="file">
-        <did>
-          <unittitle><title>And Tell Sad Stories of the Deaths of Queens...</title> Havana,
-            Cuba</unittitle>
-          <unitdate>circa 1958</unitdate>
-          <physdesc id="aspace_2b100f484d9004b3ccc78058cceb7195">33 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_7bc667c9e6403b12e8d94b82c85f5be3" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_334887078f036644458643f65e4497c2"
-            parent="aspace_7bc667c9e6403b12e8d94b82c85f5be3" type="folder">2</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref15_7oc" level="file">
-        <did>
-          <unittitle><title>Now and at the Hour of Our Death</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_b8b2ad244485a61cc7370eedfcfa2cb7">39 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_08297eeed267143a8df9a76c1635916b" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_6ad0999732d2754277188eb768486fa4"
-            parent="aspace_08297eeed267143a8df9a76c1635916b" type="folder">3</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref17_qe3" level="file">
-        <did>
-          <unittitle><title>The Demolition Downtown</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_6217b97e2675132d9afe0b3efa8f387a">31 leaves. Mimeograph and a few
-            hand-typed pages with holograph corrections.</physdesc>
-          <container id="aspace_bf05ebed8abef6818602b243fd1e71f5" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_18bff8f16d113f77d284082ecf311078"
-            parent="aspace_bf05ebed8abef6818602b243fd1e71f5" type="folder">4</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref19_li1" level="file">
-        <did>
-          <unittitle><title>No Sight Would Be Worth Seeing</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_8745d46c38ee333182972c409860a3ad">20 leaves. Mimeograph and a few
-            hand-typed pages with holograph corrections.</physdesc>
-          <container id="aspace_b6170b800e239d97de541a48bc5e50e3" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_8bf75747909d0161f637f3229ce70d80"
-            parent="aspace_b6170b800e239d97de541a48bc5e50e3" type="folder">5</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref21_npm" level="file">
-        <did>
-          <unittitle><title>The Drunken Fiddler</title>. v.p.</unittitle>
-          <unitdate normal="1930/1940" type="inclusive">circa 1930-1940</unitdate>
-          <physdesc id="aspace_c0117a0721e8e3af62bcf4073653ee4f">72 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_d449bcbf495dc7498e99bf6f857acb86" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_63f47838ebd1a63414edb6b99fc512c5"
-            parent="aspace_d449bcbf495dc7498e99bf6f857acb86" type="folder">6</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref23_xpc" level="file">
-        <did>
-          <unittitle><title>Happy August the Tenth</title>. n.p., unpublished short
-            story</unittitle>
-          <unitdate>1957</unitdate>
-          <physdesc id="aspace_cea002fbedfe3a98a58f74da10cccfeb">21 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_9226430f2a5d1ec75ce61add758eedbc" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_da9c506e60ed6be2aeb00a8abddd2d66"
-            parent="aspace_9226430f2a5d1ec75ce61add758eedbc" type="folder">7</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref25_vto" level="file">
-        <did>
-          <unittitle><title>Stairs to the Roof</title>. New Orleans, unpublished play</unittitle>
-          <unitdate>1941</unitdate>
-          <physdesc id="aspace_1905ba07d35ffbfdc2d1d9fb3ecaec4e">105 leaves. Professionally
-            typed.</physdesc>
-          <container id="aspace_e5873688a1b30a5a9fd572b9ff20f38d" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_85b1baebbad3c712a141e92ab803faa7"
-            parent="aspace_e5873688a1b30a5a9fd572b9ff20f38d" type="folder">8</container>
-        </did>
-        <scopecontent id="aspace_ebb35c535ab389b4393aeca74a67e65a">
-          <head>Scope and Contents note</head>
-          <p>Produced at the Pasadena Playhouse, circa <unitdate era="ce" calendar="gregorian"
-              >1943.</unitdate></p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref28_l3w" level="file">
-        <did>
-          <unittitle><title>Sweet Bird of Youth</title>. n.p.</unittitle>
-          <unitdate>circa 1955</unitdate>
-          <physdesc id="aspace_0f0c86ae96e8351206a1809b9b54af1e">80 leaves. Mimeograph and a few
-            hand-typed pages, with holograph corrections.</physdesc>
-          <container id="aspace_7f60beac0635c375907e05ea86ea98a4" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_4325821bcc15d261a3d02c50157246bf"
-            parent="aspace_7f60beac0635c375907e05ea86ea98a4" type="folder">9</container>
-        </did>
-        <scopecontent id="aspace_1916e0007e897424794343bd339b5824">
-          <head>Scope and Contents note</head>
-          <p>Original version, produced at Studio M in Coral Gables, Florida, circa <unitdate
-              era="ce" calendar="gregorian">1956.</unitdate></p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref34_rkm" level="file">
-        <did>
-          <unittitle><title>The Milk Train Doesn't Stop Here Anymore</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_64325c67756a51abb5bd1223f35a1a06">65 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_b08877cd22082d95edb60b9ea977cf93" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_3d6e373e9461c1b908a2b82b12d8edf4"
-            parent="aspace_b08877cd22082d95edb60b9ea977cf93" type="folder">11</container>
-        </did>
-        <scopecontent id="aspace_08c396b1e824bb8a3bf3297f8a18e73f">
-          <head>Scope and Contents note</head>
-          <p>Fragments.</p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref37_8sx" level="file">
-        <did>
-          <unittitle><title>Do it Yourself Interview</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_06c60c6273affd305cbbc2efa9174aea">15 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_bbe7222fc0fbfba223ad4881aaf2b7cc" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_b1d3ef25d259c11b6dd6e39a8da1dc9a"
-            parent="aspace_bbe7222fc0fbfba223ad4881aaf2b7cc" type="folder">12</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref39_sjd" level="file">
-        <did>
-          <unittitle><title>Candles to the Sun</title>. n.p., unpublished play</unittitle>
-          <unitdate>1936</unitdate>
-          <physdesc id="aspace_09b46a03c6419ed4204369ebef9e1e4e">53 leaves. Typescript.</physdesc>
-          <container id="aspace_15cefc79d6038e10e9bdac5f8232ab57" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_a7b5eb922732d167f12cdbba4e45031d"
-            parent="aspace_15cefc79d6038e10e9bdac5f8232ab57" type="folder">13</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref41_8rm" level="file">
-        <did>
-          <unittitle><title>The Night of the Iguana</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_7cd93bd04290f30facf40be64c0162b3">50 leaves. Typescript.</physdesc>
-          <container id="aspace_740df54766153948a119af944a0918e8" label="Mixed Materials" type="box"
-            >1</container>
-          <container id="aspace_ed262849d06472106ba286dad55eeb84"
-            parent="aspace_740df54766153948a119af944a0918e8" type="folder">14</container>
-        </did>
-        <scopecontent id="aspace_2f91a4475f72cf5d64d73ffad3652b16">
-          <head>Scope and Contents note</head>
-          <p>Early version, produced <unitdate era="ce" calendar="gregorian">1960.</unitdate></p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref44_qzh" level="file">
-        <did>
-          <unittitle><title>The Twister</title>. n.p., unpublished and unproduced</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_e3611de4ba6fd66cced4cd8ec3754d8e">12 leaves. Typescript, carbon
-            copy.</physdesc>
-          <container id="aspace_695abd85051b73f3f2767ce74aa4c54f" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_544c5a432de32de6fadf0211a23506b7"
-            parent="aspace_695abd85051b73f3f2767ce74aa4c54f" type="folder">1</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref46_wx2" level="file">
-        <did>
-          <unittitle><title>Hide and Seek or Whipmaster</title>. n.p.</unittitle>
-          <unitdate>1954</unitdate>
-          <physdesc id="aspace_7974c08bb1174ac528bf4efaa5c53ffd">100 leaves. Typescript, carbon
-            copy.</physdesc>
-          <container id="aspace_abdd0fb8631e19ef154716ac8110f35f" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_0c15adf6c46eaa15b8d49f703050b1e0"
-            parent="aspace_abdd0fb8631e19ef154716ac8110f35f" type="folder">2</container>
-        </did>
-        <scopecontent id="aspace_47f9e625ede72c1d756f65910b88b347">
-          <head>Scope and Contents note</head>
-          <p>Unpublished early version of <title>Baby Doll</title>.</p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref49_jwh" level="file">
-        <did>
-          <unittitle><title>Golden Rules for Playwrights</title>. Acapulco, Mexico,
-            unpublished</unittitle>
-          <unitdate>1959</unitdate>
-          <physdesc id="aspace_41341582dba17207f8454132db6fd477">3 leaves. Typescript with holograph
-            corrections.</physdesc>
-          <container id="aspace_1d260a87b096bbfeb188ed7be842c4ad" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_eabdcbab9ead09d24b7006abebe8ed2f"
-            parent="aspace_1d260a87b096bbfeb188ed7be842c4ad" type="folder">3</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref51_lkq" level="file">
-        <did>
-          <unittitle><title>Night of the Iguana</title>. n.p., play</unittitle>
-          <unitdate>1960</unitdate>
-          <physdesc id="aspace_901989b683280777feaebed517c49e43">100 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_5c94eed38a307f7c9673b0a1a3a1c214" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_195961d748a888c3e313a5a9f80bb73b"
-            parent="aspace_5c94eed38a307f7c9673b0a1a3a1c214" type="folder">4</container>
-        </did>
-        <scopecontent id="aspace_5a86c806c7118448af11a89776e1f499">
-          <head>Scope and Contents note</head>
-          <p>Author's work-script.</p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref54_rzh" level="file">
-        <did>
-          <unittitle><title>Baby Doll</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_bb1f3be52fb7fc094d980ea1ed4d896b">65 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_4995396434c8a6e2c70217fee8f651a1" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_61ae75b4617a19ee5db241c67c6284a5"
-            parent="aspace_4995396434c8a6e2c70217fee8f651a1" type="folder">5</container>
-        </did>
-        <scopecontent id="aspace_e106b1cbb1f2d1c1ea1e62d2344fc131">
-          <head>Scope and Contents note</head>
-          <p>Screen scenario.</p>
-          <p>Fragment, not included in film.</p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref87_hvx" level="file">
-        <did>
-          <unittitle>Poems, n.p.</unittitle>
-          <unitdate normal="1952-03/1952-03">1952 March</unitdate>
-          <physdesc id="aspace_632c0df6e58930ac952c74a6eea032db">7 leaves</physdesc>
-          <container id="aspace_03a5d996ea18552a407c36e7527c4d0f" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_73925cf147ea51acdbe7ddbe3200efe7"
-            parent="aspace_03a5d996ea18552a407c36e7527c4d0f" type="folder">6</container>
-        </did>
-        <scopecontent id="aspace_6e8876b1792f87aaaa2d816d4814bcc6">
-          <head>Scope and Contents note</head>
-          <p>This file contains typescripts and holographs of five poems: "We Are Coming Home to
-            Die," "Ain't it a Pity," "She that Comes Late to the Dance," "A Witch and her Daughter,"
-            and "A Moment in a Room."</p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref57_m19" level="file">
-        <did>
-          <unittitle><title>A Man Grows Long...</title> n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_3198243848c686747ec5d5198c4c994c">5 leaves. Typescript with holograph
-            corrections.</physdesc>
-          <container id="aspace_cc5a78886c23f9f7da4b19119e67cdbf" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_ad4f5e8c8b8c0ef59d638ba13497edb9"
-            parent="aspace_cc5a78886c23f9f7da4b19119e67cdbf" type="folder">7</container>
-        </did>
-        <scopecontent id="aspace_ce4cafed9d46e9e6e201f3be5694940c">
-          <head>Scope and Contents note</head>
-          <p>Incomplete poem.</p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref60_z8w" level="file">
-        <did>
-          <unittitle>Letter to the drama editor of the <title>New York Times</title>. New
-            York</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_6dd3876f4d328767726900e1fd347720">2 leaves. Typescript with holograph
-            corrections.</physdesc>
-          <container id="aspace_90c4c23c1b258edc500e3cb009f5b8f3" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_935287b55dfb407baf00b4fb1c7ba01e"
-            parent="aspace_90c4c23c1b258edc500e3cb009f5b8f3" type="folder">8</container>
-        </did>
-        <scopecontent id="aspace_33e6cc3881b13cbfa29b2b58a4a8da75">
-          <head>Scope and Contents note</head>
-          <p>Published in a different form in the drama pages of the <title type="simple">New York
-              Times.</title></p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref63_j98" level="file">
-        <did>
-          <unittitle>A reply to the Point of View (POV) of critic Marya Mannes. New York</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_682a4580fea9f945b4e9eb65874f4e7e">6 leaves. Typescript with holograph
-            corrections.</physdesc>
-          <container id="aspace_dc33e8c404d514065171eb5fe8c3d3cc" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_c4064a21472a15f7be0bd67912d2ab8a"
-            parent="aspace_dc33e8c404d514065171eb5fe8c3d3cc" type="folder">9</container>
-        </did>
-        <scopecontent id="aspace_aa622adedd5901e2297d990d6097c88c">
-          <head>Scope and Contents note</head>
-          <p>Published in the drama section of the <title type="simple">New York Times</title> in a
-            slightly different form.</p>
-          <p>First draft.</p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref66_484" level="file">
-        <did>
-          <unittitle><title>Mama's Old Stucco House</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_3b92b60e2ee2bcbfaeba30ae3197d611">1 leaf. Holograph.</physdesc>
-          <container id="aspace_c2f7dc4c9d63a63c9f17531f98081729" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_07e3b3837191a13f2f5ba038b6164323"
-            parent="aspace_c2f7dc4c9d63a63c9f17531f98081729" type="folder">10</container>
-        </did>
-        <scopecontent id="aspace_5d73e2a6d2e64976cca0dfd694ca225f">
-          <head>Scope and Contents note</head>
-          <p>Story published in final form in <title type="simple">The Knightly Quest.</title> New
-            York: New Directions, <unitdate era="ce" calendar="gregorian">1966.</unitdate></p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref69_sjl" level="file">
-        <did>
-          <unittitle><title>The Mutilated</title>, and <title>The Gnadiges Fraulein</title>.
-            n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_9221cee5650f35cc381c9f4a9fa1bb28">43 leaves. Typescript and
-            holograph.</physdesc>
-          <container id="aspace_f19668c9cbc31f06cf85bc1642f43464" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_9aafe515f41c2d2c6bed4587f51c3a08"
-            parent="aspace_f19668c9cbc31f06cf85bc1642f43464" type="folder">11</container>
-        </did>
-        <scopecontent id="aspace_0e6df8f4b8a3989af9574c730560f16f">
-          <head>Scope and Contents note</head>
-          <p>Two short plays, final versions produced in the <unitdate era="ce" calendar="gregorian"
-              >1960s.</unitdate></p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref72_al4" level="file">
-        <did>
-          <unittitle><title>What's Next on the Agenda, Mr. Williams?</title> n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_ff2f6687114e67aee73efc96bea3ba3f">13 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_49c2aaf98759baf786bc80e7a54a6644" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_3e8c5d3d028b5b8bda4db33bfc415c5c"
-            parent="aspace_49c2aaf98759baf786bc80e7a54a6644" type="folder">12</container>
-        </did>
-        <scopecontent id="aspace_e51469e11d829b971421673a85d8f4ff">
-          <head>Scope and Contents note</head>
-          <p>Prose poem describing the author's experiences in the violent ward of a psychiatric
-            hospital.</p>
-          <p>Read at London Poetry Festival, <unitdate era="ce" calendar="gregorian"
-              >1970.</unitdate></p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref75_7dr" level="file">
-        <did>
-          <unittitle><title>A Recluse and His Guest</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_3875a2a2a5c4666f206ee5671cbe7332">13 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_419920050dac157f7e72b964b8ab369d" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_f5b55549861cab2faeed0517d9805eeb"
-            parent="aspace_419920050dac157f7e72b964b8ab369d" type="folder">13</container>
-        </did>
-        <scopecontent id="aspace_308d0c289ce6ed57e8eb1cdbd2b8063a">
-          <head>Scope and Contents note</head>
-          <p>Short story published in <title type="simple">Playboy</title>, <unitdate era="ce"
-              calendar="gregorian">December 1969.</unitdate></p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref78_kep" level="file">
-        <did>
-          <unittitle><title>The Tread-Mill</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_ff104870a4a74c242d38bc5e62431931">3 leaves. Typescript.</physdesc>
-          <container id="aspace_33137c23cf0d28f5ae8c8cda2d19f149" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_7fb3ee02804abe2de273094e00b3682d"
-            parent="aspace_33137c23cf0d28f5ae8c8cda2d19f149" type="folder">14</container>
-        </did>
-        <scopecontent id="aspace_6d1e024b4da94b42bb2ee01271335162">
-          <head>Scope and Contents note</head>
-          <p>Fragment of an early short story.</p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref81_ueh" level="file">
-        <did>
-          <unittitle><title>One Arm</title>. n.p. Screenplay of the short story,
-            unproduced</unittitle>
-          <unitdate>circa 1968</unitdate>
-          <physdesc id="aspace_7cc3474a48267578e16783cb189f7891">100 leaves. Typescript.</physdesc>
-          <container id="aspace_76b7be91822c6a2b5876e0b5e07120d0" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_09610bc5364554eb74ab5e9ca701cbd0"
-            parent="aspace_76b7be91822c6a2b5876e0b5e07120d0" type="folder">15</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref83_x2v" level="file">
-        <did>
-          <unittitle>Letter to Virginia Carr. Key West, Florida</unittitle>
-          <unitdate normal="1970-08-18/1970-08-19" type="inclusive">1970 August 18-19</unitdate>
-          <physdesc id="aspace_b9d490981e3083815f64851c500b1a74">2 leaves. Typescript.</physdesc>
-          <container id="aspace_0099fa80d0871c7942803e209e837ae2" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_851876d3927d6206317026918c7cfc92"
-            parent="aspace_0099fa80d0871c7942803e209e837ae2" type="folder">16</container>
-        </did>
-      </c01>
-      <c01 id="aspace_ref85_3o1" level="file">
-        <did>
-          <unittitle>Maxwell, Gilbert. <title>Tennessee Williams and Friends</title>. New York:
-            World Publishing Company</unittitle>
-          <unitdate>1965</unitdate>
-          <container id="aspace_576262da1b83ad083a0eb59cf8f051e7" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_d07b156da9e09635d6c9ff9755978d2e"
-            parent="aspace_576262da1b83ad083a0eb59cf8f051e7" type="folder">17</container>
-        </did>
-        <scopecontent id="aspace_4ce206ea8f0746a3fca1b9d35faf145a">
-          <head>Scope and Contents note</head>
-          <p>Uncorrected proofs, galleys.</p>
-        </scopecontent>
-      </c01>
-      <c01 id="aspace_ref31_c7i" level="file">
-        <did>
-          <unittitle><title>Man Bring This Up Road</title>. n.p.</unittitle>
-          <unitdate>undated</unitdate>
-          <physdesc id="aspace_f70c4b38775907ee97b9008ceed7fd03">55 leaves. Typescript with
-            holograph corrections.</physdesc>
-          <container id="aspace_5678a1e29f76549d677e8c15743faa91" label="Mixed Materials" type="box"
-            >2</container>
-          <container id="aspace_e4148393f32d8b473cb01880f488f9b0"
-            parent="aspace_5678a1e29f76549d677e8c15743faa91" type="folder">18</container>
-        </did>
-        <scopecontent id="aspace_77a7649ca06c3ba6fb38c9a111816a78">
-          <head>Scope and Contents note</head>
-          <p>Short story published in <title>The Knightly Quest.</title> New York, New Directions,
-              <unitdate era="ce" calendar="gregorian">1966.</unitdate></p>
-        </scopecontent>
-      </c01>
-    </dsc>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/kt8n39p1p2/">willi492.xml</eadid><filedesc><titlestmt><titleproper type="filing">Williams (Tennessee) papers</titleproper><titleproper>Finding Aid for the Tennessee Williams Papers <num>LSC.0492</num></titleproper><author>Finding aid prepared by Tine Brouwer; updated by Kuhelika Ghosh, 2019.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2019 April 09.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-12 10:57:31 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Tennessee Williams papers</unittitle>
+    <origination label="Creator">
+      <persname source="ingest">Williams, Tennessee, 1911-1983</persname>
+    </origination>
+    <unitid>LSC.0492</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.8 linear feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1930/1970" type="inclusive">1930-1970</unitdate>
+    <abstract id="aspace_272780ec803409394974e6afb8b375c3" label="Abstract">Thomas Lanier Williams (1911-1983) was born in Columbus, Missouri. He won a Pulitzer Prize in 1948 for <title>A Streetcar Named Desire</title>, and another in 1955 for <title>Cat on a Hot Tin Roof</title>. Many of his plays were adapted for the screen. His works include 24 major plays, 2 novels, several screenplays, and a volume of memoirs. The collection contains manuscripts of several of Williams' published and unpublished plays, play fragments, short stories, screen scenarios, and poems.</abstract>
+    <physloc id="aspace_bf07da01f1e9b4743ce677c1b4950f60">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_a0852a2b42a5417f080a9e3bb65d05bc">Materials are in English.</langmaterial>
+  </did>
+  <dao xlink:actuate="onRequest" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz000924wb" xlink:show="new" xlink:title="Tennessee Williams Papers (1 item)" xlink:type="simple">
+    <daodesc><p>Tennessee Williams Papers (1 item)</p></daodesc>
+  </dao>
+  <accessrestrict id="aspace_5510e052511686141eaba8f5b053c4b2">
+    <head>Conditions Governing Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_51b3d3484b4ee299dc443faf8430e8c2">
+    <head>Conditions Governing Reproduction and Use</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <phystech id="aspace_20ad8873198ff6955491a88652ac432a">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>PORTIONS OF THIS COLLECTION HAVE BEEN DIGITIZED. See the Online Items Available note for the link to the digitized materials.</p>  </phystech>
+  <acqinfo id="aspace_c82df13b056a67b1e9945c31669569e5">
+    <head>Provenance/Source of Acquisition</head>
+<p>Purchased from Tennessee Williams, 1970.</p>  </acqinfo>
+  <odd id="aspace_04bf6998f45373c91c3b51f2fa33bbf8">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9936492433606533">9936492433606533</extref></p>  </odd>
+  <prefercite id="aspace_ac3097cc439075d0dc45f5e9adbc5096">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Tennessee Williams papers (Collection 492). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_dc7758eeb7e3978977703e55c1f173b5">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>Processed by Tine Brouwer, updated by Kuhelika Ghosh, 2019.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language
+that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form
+located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special Collections.</extref></p>  </processinfo>
+  <bioghist id="aspace_204c5fda360b80230c8390ceb5574f02">
+    <head>Biography</head>
+<p>Thomas Lanier Williams was born on March 26, 1911 in Columbus, Mississippi. His first major success came with the 1945 Broadway premiere of <title>The Glass Menagerie</title>. He won a Pulitzer Prize in 1948 for <title>A Streetcar Named Desire</title> and another in 1955 for <title>Cat on a Hot Tin Roof</title>. Williams adapted a number of his plays for the screen, and his works include 24 major plays, 2 novels, several screenplays, and a volume of memoirs. Williams died on February 25, 1983 in New York City.</p>  </bioghist>
+  <scopecontent id="aspace_8023d8554b34736f769de9476b34255d">
+    <head>Scope and Content</head>
+<p>Collection contains manuscripts of several of Williams' published and unpublished plays, play fragments, short stories, screen scenarios, and poems. Includes transcripts of early versions of <title type="simple">Sweet Bird of Youth</title> and <title type="simple">The Night of the Iguana.</title> Also includes uncorrected proofs and galleys of Gilbert Maxwell's book, <title type="simple">Tennessee Williams and Friends</title> (1965).</p>  </scopecontent>
+  <altformavail id="aspace_e09ed7c09324de2ae752d04a153ccd71">
+    <head>Online Items Available</head>
+<p>Portions of this collection have been digitized and are available online:
+<extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/zz000924wb">Tennessee Williams Papers (1 item)</extref>.</p>  </altformavail>
+  <controlaccess>
+    <occupation source="lcsh">Dramatists, American -- 20th century -- Archives.</occupation>
+    <occupation source="lcsh">Authors, American -- 20th century -- Archives.</occupation>
+    <persname rules="rda" source="naf">Maxwell, Gilbert -- Tennessee Williams and Friends.</persname>
+    <persname source="ingest">Williams, Tennessee, 1911-1983--Archives.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_y35" level="file"><did><unittitle><title>The Day on Which a Man Dies</title> (an occidental Noh Play). Miami</unittitle><unitdate datechar="creation">1960</unitdate><physdesc id="aspace_5132bd73ed7be2e8aada9c95b79c60af" label="General Physical Description note">40 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_b7b95990651c9fb90215d2bc96a6b327" label="Mixed Materials" type="box">1</container><container id="aspace_3a05f79109915b4f284b395a822db75c" parent="aspace_b7b95990651c9fb90215d2bc96a6b327" type="folder">1</container></did></c01><c01 id="aspace_ref13_z8n" level="file"><did><unittitle><title>And Tell Sad Stories of the Deaths of Queens...</title> Havana, Cuba</unittitle><unitdate datechar="creation">circa 1958</unitdate><physdesc id="aspace_2b100f484d9004b3ccc78058cceb7195" label="General Physical Description note">33 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_7b623eb825f6b6d296d4be38248268bc" label="Mixed Materials" type="box">1</container><container id="aspace_2cca1f6555afa7399870b0a94fd0f98b" parent="aspace_7b623eb825f6b6d296d4be38248268bc" type="folder">2</container></did></c01><c01 id="aspace_ref15_7oc" level="file"><did><unittitle><title>Now and at the Hour of Our Death</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_b8b2ad244485a61cc7370eedfcfa2cb7" label="General Physical Description note">39 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_492012d6bd9f120acb6401865eed4500" label="Mixed Materials" type="box">1</container><container id="aspace_bf2aafd76ef9313bfa633a86e1a7acc8" parent="aspace_492012d6bd9f120acb6401865eed4500" type="folder">3</container></did></c01><c01 id="aspace_ref17_qe3" level="file"><did><unittitle><title>The Demolition Downtown</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_6217b97e2675132d9afe0b3efa8f387a" label="General Physical Description note">31 leaves. Mimeograph and a few hand-typed pages with holograph corrections.</physdesc><container id="aspace_0a7de1c997b3561ca69a0315a5a64694" label="Mixed Materials" type="box">1</container><container id="aspace_439e13830d445886fafbdc0d78c6cd1d" parent="aspace_0a7de1c997b3561ca69a0315a5a64694" type="folder">4</container></did></c01><c01 id="aspace_ref19_li1" level="file"><did><unittitle><title>No Sight Would Be Worth Seeing</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_8745d46c38ee333182972c409860a3ad" label="General Physical Description note">20 leaves. Mimeograph and a few hand-typed pages with holograph corrections.</physdesc><container id="aspace_993fcef9d7aa5a23c7417f26b9e9ffe6" label="Mixed Materials" type="box">1</container><container id="aspace_a436fac40e6b0d6af9b0daa2c483b20b" parent="aspace_993fcef9d7aa5a23c7417f26b9e9ffe6" type="folder">5</container></did></c01><c01 id="aspace_ref21_npm" level="file"><did><unittitle><title>The Drunken Fiddler</title>. v.p.</unittitle><unitdate datechar="creation" normal="1930/1940" type="inclusive">circa 1930-1940</unitdate><physdesc id="aspace_c0117a0721e8e3af62bcf4073653ee4f" label="General Physical Description note">72 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_0fd3eae24cc469c6433ab54e3e6d6a23" label="Mixed Materials" type="box">1</container><container id="aspace_37c4cac3f97af9c985885b0f5422806d" parent="aspace_0fd3eae24cc469c6433ab54e3e6d6a23" type="folder">6</container></did></c01><c01 id="aspace_ref23_xpc" level="file"><did><unittitle><title>Happy August the Tenth</title>. n.p., unpublished short story</unittitle><unitdate datechar="creation">1957</unitdate><physdesc id="aspace_cea002fbedfe3a98a58f74da10cccfeb" label="General Physical Description note">21 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_43c9c556c27329829dcbc12a7f1ed0de" label="Mixed Materials" type="box">1</container><container id="aspace_6b8a3747a07981db4a18672035564ea3" parent="aspace_43c9c556c27329829dcbc12a7f1ed0de" type="folder">7</container></did></c01><c01 id="aspace_ref25_vto" level="file"><did><unittitle><title>Stairs to the Roof</title>. New Orleans, unpublished play</unittitle><unitdate datechar="creation">1941</unitdate><physdesc id="aspace_1905ba07d35ffbfdc2d1d9fb3ecaec4e" label="General Physical Description note">105 leaves. Professionally typed.</physdesc><container id="aspace_561606888357caee205bc2e32f89f2d5" label="Mixed Materials" type="box">1</container><container id="aspace_1c20b464fc80cc4671a767f3d8ccbe6a" parent="aspace_561606888357caee205bc2e32f89f2d5" type="folder">8</container></did><scopecontent id="aspace_ebb35c535ab389b4393aeca74a67e65a"><head>Scope and Contents note</head><p>Produced at the Pasadena Playhouse, circa <unitdate era="ce" calendar="gregorian">1943.</unitdate></p></scopecontent></c01><c01 id="aspace_ref28_l3w" level="file"><did><unittitle><title>Sweet Bird of Youth</title>. n.p.</unittitle><unitdate datechar="creation">circa 1955</unitdate><physdesc id="aspace_0f0c86ae96e8351206a1809b9b54af1e" label="General Physical Description note">80 leaves. Mimeograph and a few hand-typed pages, with holograph corrections.</physdesc><container id="aspace_15bf5cc7c005ce1c111fea5424435851" label="Mixed Materials" type="box">1</container><container id="aspace_401e6ca59fcbad3f25038fc38897c7a6" parent="aspace_15bf5cc7c005ce1c111fea5424435851" type="folder">9</container></did><scopecontent id="aspace_1916e0007e897424794343bd339b5824"><head>Scope and Contents note</head><p>Original version, produced at Studio M in Coral Gables, Florida, circa <unitdate era="ce" calendar="gregorian">1956.</unitdate></p></scopecontent></c01><c01 id="aspace_ref34_rkm" level="file"><did><unittitle><title>The Milk Train Doesn't Stop Here Anymore</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_64325c67756a51abb5bd1223f35a1a06" label="General Physical Description note">65 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_b79cb8f07a431b8956f2ddd8a54c63f2" label="Mixed Materials" type="box">1</container><container id="aspace_5bb93be8f380585c103f2a0d460d08d4" parent="aspace_b79cb8f07a431b8956f2ddd8a54c63f2" type="folder">11</container></did><scopecontent id="aspace_08c396b1e824bb8a3bf3297f8a18e73f"><head>Scope and Contents note</head><p>Fragments.</p></scopecontent></c01><c01 id="aspace_ref37_8sx" level="file"><did><unittitle><title>Do it Yourself Interview</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_06c60c6273affd305cbbc2efa9174aea" label="General Physical Description note">15 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_52a281832d9a338037001a917bd67f50" label="Mixed Materials" type="box">1</container><container id="aspace_0948cef5096affcf43e5b25f09cf9e84" parent="aspace_52a281832d9a338037001a917bd67f50" type="folder">12</container></did></c01><c01 id="aspace_ref39_sjd" level="file"><did><unittitle><title>Candles to the Sun</title>. n.p., unpublished play</unittitle><unitdate datechar="creation">1936</unitdate><physdesc id="aspace_09b46a03c6419ed4204369ebef9e1e4e" label="General Physical Description note">53 leaves. Typescript.</physdesc><container id="aspace_d84f92afcd2edeeca9cca6857d11e315" label="Mixed Materials" type="box">1</container><container id="aspace_6ababae3d6e53f19189df37e593da1b5" parent="aspace_d84f92afcd2edeeca9cca6857d11e315" type="folder">13</container></did></c01><c01 id="aspace_ref41_8rm" level="file"><did><unittitle><title>The Night of the Iguana</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_7cd93bd04290f30facf40be64c0162b3" label="General Physical Description note">50 leaves. Typescript.</physdesc><container id="aspace_20ff568905eef48dc70ee418b7dc15e0" label="Mixed Materials" type="box">1</container><container id="aspace_37bb7b964edbfb3d0b8b36322202f2be" parent="aspace_20ff568905eef48dc70ee418b7dc15e0" type="folder">14</container></did><scopecontent id="aspace_2f91a4475f72cf5d64d73ffad3652b16"><head>Scope and Contents note</head><p>Early version, produced <unitdate era="ce" calendar="gregorian">1960.</unitdate></p></scopecontent></c01><c01 id="aspace_ref44_qzh" level="file"><did><unittitle><title>The Twister</title>. n.p., unpublished and unproduced</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_e3611de4ba6fd66cced4cd8ec3754d8e" label="General Physical Description note">12 leaves. Typescript, carbon copy.</physdesc><container id="aspace_f8535be495c0e544ffd8e5746aefca1e" label="Mixed Materials" type="box">2</container><container id="aspace_f87035cddaa37e5f518a460694040087" parent="aspace_f8535be495c0e544ffd8e5746aefca1e" type="folder">1</container></did></c01><c01 id="aspace_ref46_wx2" level="file"><did><unittitle><title>Hide and Seek or Whipmaster</title>. n.p.</unittitle><unitdate datechar="creation">1954</unitdate><physdesc id="aspace_7974c08bb1174ac528bf4efaa5c53ffd" label="General Physical Description note">100 leaves. Typescript, carbon copy.</physdesc><container id="aspace_a3f58765c7fa7276a0dacb50ca0d1761" label="Mixed Materials" type="box">2</container><container id="aspace_ff48cb6c57687a1f2c2c8a0509e3ad8e" parent="aspace_a3f58765c7fa7276a0dacb50ca0d1761" type="folder">2</container></did><scopecontent id="aspace_47f9e625ede72c1d756f65910b88b347"><head>Scope and Contents note</head><p>Unpublished early version of <title>Baby Doll</title>.</p></scopecontent></c01><c01 id="aspace_ref49_jwh" level="file"><did><unittitle><title>Golden Rules for Playwrights</title>. Acapulco, Mexico, unpublished</unittitle><unitdate datechar="creation">1959</unitdate><physdesc id="aspace_41341582dba17207f8454132db6fd477" label="General Physical Description note">3 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_d442286c8f5202c8330c667e175f0f33" label="Mixed Materials" type="box">2</container><container id="aspace_b4219bb082c65929a9be9102c266474c" parent="aspace_d442286c8f5202c8330c667e175f0f33" type="folder">3</container></did></c01><c01 id="aspace_ref51_lkq" level="file"><did><unittitle><title>Night of the Iguana</title>. n.p., play</unittitle><unitdate datechar="creation">1960</unitdate><physdesc id="aspace_901989b683280777feaebed517c49e43" label="General Physical Description note">100 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_31597a731432c183bb39f43bb7a90c00" label="Mixed Materials" type="box">2</container><container id="aspace_3a2724c6f0828aeb3683f0e53a4f15d2" parent="aspace_31597a731432c183bb39f43bb7a90c00" type="folder">4</container></did><scopecontent id="aspace_5a86c806c7118448af11a89776e1f499"><head>Scope and Contents note</head><p>Author's work-script.</p></scopecontent></c01><c01 id="aspace_ref54_rzh" level="file"><did><unittitle><title>Baby Doll</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_bb1f3be52fb7fc094d980ea1ed4d896b" label="General Physical Description note">65 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_ed702f4d278bb6059add89d5641a1b00" label="Mixed Materials" type="box">2</container><container id="aspace_df8c48310a17ecded2913ff49e1103cd" parent="aspace_ed702f4d278bb6059add89d5641a1b00" type="folder">5</container></did><scopecontent id="aspace_e106b1cbb1f2d1c1ea1e62d2344fc131"><head>Scope and Contents note</head><p>Screen scenario.</p><p>Fragment, not included in film.</p></scopecontent></c01><c01 id="aspace_ref87_hvx" level="file"><did><unittitle>Poems, n.p.</unittitle><unitdate datechar="creation" normal="1952-03/1952-03">1952 March</unitdate><physdesc id="aspace_632c0df6e58930ac952c74a6eea032db" label="General Physical Description note">7 leaves</physdesc><container id="aspace_c5f330ad45c6768a1e1587d87aa071d8" label="Mixed Materials" type="box">2</container><container id="aspace_2651e006858804e5975f38555c3ec4e0" parent="aspace_c5f330ad45c6768a1e1587d87aa071d8" type="folder">6</container></did><scopecontent id="aspace_6e8876b1792f87aaaa2d816d4814bcc6"><head>Scope and Contents note</head><p>This file contains typescripts and holographs of five poems: "We Are Coming Home to Die," "Ain't it a Pity," "She that Comes Late to the Dance," "A Witch and her Daughter," and "A Moment in a Room."</p></scopecontent></c01><c01 id="aspace_ref57_m19" level="file"><did><unittitle><title>A Man Grows Long...</title> n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_3198243848c686747ec5d5198c4c994c" label="General Physical Description note">5 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_def4a39897558231033e2bc2a2bf8d6e" label="Mixed Materials" type="box">2</container><container id="aspace_b4be77dcc0275160c2a75ba54e73c751" parent="aspace_def4a39897558231033e2bc2a2bf8d6e" type="folder">7</container></did><scopecontent id="aspace_ce4cafed9d46e9e6e201f3be5694940c"><head>Scope and Contents note</head><p>Incomplete poem.</p></scopecontent></c01><c01 id="aspace_ref60_z8w" level="file"><did><unittitle>Letter to the drama editor of the <title>New York Times</title>. New York</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_6dd3876f4d328767726900e1fd347720" label="General Physical Description note">2 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_71432fd582135fcf898028d2db9475b9" label="Mixed Materials" type="box">2</container><container id="aspace_34d8e97a2a9581ff22a592ca1155bbb0" parent="aspace_71432fd582135fcf898028d2db9475b9" type="folder">8</container></did><scopecontent id="aspace_33e6cc3881b13cbfa29b2b58a4a8da75"><head>Scope and Contents note</head><p>Published in a different form in the drama pages of the <title type="simple">New York Times.</title></p></scopecontent></c01><c01 id="aspace_ref63_j98" level="file"><did><unittitle>A reply to the Point of View (POV) of critic Marya Mannes. New York</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_682a4580fea9f945b4e9eb65874f4e7e" label="General Physical Description note">6 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_ccedae8794694d66769dd800a5b1de40" label="Mixed Materials" type="box">2</container><container id="aspace_27cc019b428763a35de473edc79a4f9d" parent="aspace_ccedae8794694d66769dd800a5b1de40" type="folder">9</container></did><scopecontent id="aspace_aa622adedd5901e2297d990d6097c88c"><head>Scope and Contents note</head><p>Published in the drama section of the <title type="simple">New York Times</title> in a slightly different form.</p><p>First draft.</p></scopecontent></c01><c01 id="aspace_ref66_484" level="file"><did><unittitle><title>Mama's Old Stucco House</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_3b92b60e2ee2bcbfaeba30ae3197d611" label="General Physical Description note">1 leaf. Holograph.</physdesc><container id="aspace_196e63073b3e516849ac8ce7c8d7d583" label="Mixed Materials" type="box">2</container><container id="aspace_f16b14784962435056fa73e9d6eabb2d" parent="aspace_196e63073b3e516849ac8ce7c8d7d583" type="folder">10</container></did><scopecontent id="aspace_5d73e2a6d2e64976cca0dfd694ca225f"><head>Scope and Contents note</head><p>Story published in final form in <title type="simple">The Knightly Quest.</title> New York: New Directions, <unitdate era="ce" calendar="gregorian">1966.</unitdate></p></scopecontent></c01><c01 id="aspace_ref69_sjl" level="file"><did><unittitle><title>The Mutilated</title>, and <title>The Gnadiges Fraulein</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_9221cee5650f35cc381c9f4a9fa1bb28" label="General Physical Description note">43 leaves. Typescript and holograph.</physdesc><container id="aspace_8db5483e472d958613af79b18685ea90" label="Mixed Materials" type="box">2</container><container id="aspace_b43470fd4431faca4c4e0d7a97b02e4e" parent="aspace_8db5483e472d958613af79b18685ea90" type="folder">11</container></did><scopecontent id="aspace_0e6df8f4b8a3989af9574c730560f16f"><head>Scope and Contents note</head><p>Two short plays, final versions produced in the <unitdate era="ce" calendar="gregorian">1960s.</unitdate></p></scopecontent></c01><c01 id="aspace_ref72_al4" level="file"><did><unittitle><title>What's Next on the Agenda, Mr. Williams?</title> n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_ff2f6687114e67aee73efc96bea3ba3f" label="General Physical Description note">13 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_52fd05fd276d0422f2ac5344a137050f" label="Mixed Materials" type="box">2</container><container id="aspace_bae2671470a4fdf13260ea764d577d46" parent="aspace_52fd05fd276d0422f2ac5344a137050f" type="folder">12</container></did><scopecontent id="aspace_e51469e11d829b971421673a85d8f4ff"><head>Scope and Contents note</head><p>Prose poem describing the author's experiences in the violent ward of a psychiatric hospital.</p><p>Read at London Poetry Festival, <unitdate era="ce" calendar="gregorian">1970.</unitdate></p></scopecontent></c01><c01 id="aspace_ref75_7dr" level="file"><did><unittitle><title>A Recluse and His Guest</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_3875a2a2a5c4666f206ee5671cbe7332" label="General Physical Description note">13 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_19d026111cae3de459354d81b373151b" label="Mixed Materials" type="box">2</container><container id="aspace_0db663d26f5cd339835305f9fdbd8b7d" parent="aspace_19d026111cae3de459354d81b373151b" type="folder">13</container></did><scopecontent id="aspace_308d0c289ce6ed57e8eb1cdbd2b8063a"><head>Scope and Contents note</head><p>Short story published in <title type="simple">Playboy</title>, <unitdate era="ce" calendar="gregorian">December 1969.</unitdate></p></scopecontent></c01><c01 id="aspace_ref78_kep" level="file"><did><unittitle><title>The Tread-Mill</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_ff104870a4a74c242d38bc5e62431931" label="General Physical Description note">3 leaves. Typescript.</physdesc><container id="aspace_fa74020b514c4f99c886caf19106ad10" label="Mixed Materials" type="box">2</container><container id="aspace_aa7195bfc3a86791128d88e86565b121" parent="aspace_fa74020b514c4f99c886caf19106ad10" type="folder">14</container></did><scopecontent id="aspace_6d1e024b4da94b42bb2ee01271335162"><head>Scope and Contents note</head><p>Fragment of an early short story.</p></scopecontent></c01><c01 id="aspace_ref81_ueh" level="file"><did><unittitle><title>One Arm</title>. n.p. Screenplay of the short story, unproduced</unittitle><unitdate datechar="creation">circa 1968</unitdate><physdesc id="aspace_7cc3474a48267578e16783cb189f7891" label="General Physical Description note">100 leaves. Typescript.</physdesc><container id="aspace_81677d7b7ef3baef9632af8309a451a2" label="Mixed Materials" type="box">2</container><container id="aspace_5b181cafeb4d3900c54912c93467c5c4" parent="aspace_81677d7b7ef3baef9632af8309a451a2" type="folder">15</container></did></c01><c01 id="aspace_ref83_x2v" level="file"><did><unittitle>Letter to Virginia Carr. Key West, Florida</unittitle><unitdate datechar="creation" normal="1970-08-18/1970-08-19" type="inclusive">1970 August 18-19</unitdate><physdesc id="aspace_b9d490981e3083815f64851c500b1a74" label="General Physical Description note">2 leaves. Typescript.</physdesc><container id="aspace_8f26db07230123f015da8186c2c72532" label="Mixed Materials" type="box">2</container><container id="aspace_5c3f0a50e39cf34179d72cd971a464da" parent="aspace_8f26db07230123f015da8186c2c72532" type="folder">16</container></did></c01><c01 id="aspace_ref85_3o1" level="file"><did><unittitle>Maxwell, Gilbert. <title>Tennessee Williams and Friends</title>. New York: World Publishing Company</unittitle><unitdate datechar="creation">1965</unitdate><container id="aspace_922a157a1be8877f154c41feb1112306" label="Mixed Materials" type="box">2</container><container id="aspace_4d58a36f3d39db2e29ff44edf31431b0" parent="aspace_922a157a1be8877f154c41feb1112306" type="folder">17</container></did><scopecontent id="aspace_4ce206ea8f0746a3fca1b9d35faf145a"><head>Scope and Contents note</head><p>Uncorrected proofs, galleys.</p></scopecontent></c01><c01 id="aspace_ref31_c7i" level="file"><did><unittitle><title>Man Bring This Up Road</title>. n.p.</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_f70c4b38775907ee97b9008ceed7fd03" label="General Physical Description note">55 leaves. Typescript with holograph corrections.</physdesc><container id="aspace_0d5b1ff41203b9efdba0ce1e32ff8344" label="Mixed Materials" type="box">2</container><container id="aspace_e2fe0d13a947045d8a11227cf28b0a7b" parent="aspace_0d5b1ff41203b9efdba0ce1e32ff8344" type="folder">18</container></did><scopecontent id="aspace_77a7649ca06c3ba6fb38c9a111816a78"><head>Scope and Contents note</head><p>Short story published in <title>The Knightly Quest.</title> New York, New Directions, <unitdate era="ce" calendar="gregorian">1966.</unitdate></p></scopecontent></c01></dsc>
+</archdesc>
 </ead>
