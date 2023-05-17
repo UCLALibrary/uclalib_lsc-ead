@@ -61,7 +61,7 @@ Date of source: <date calendar="gregorian" era="ce">1961</date></creation>
  </repository>
  <abstract label="abstract">William Starke Rosecrans (1819-1898) commanded the Army of the Cumberland during the Tullahoma campaign and at the battles of Stone's river and Chickamauga during the U.S. Civil War. After the war, he moved to Los Angeles, California and became an advocate for railroad building and Mexican trade in the West before being appointed as the U.S. Minister to Mexico (1868). He later served in the U.S. Congress (1881-85), and as the Register of the U.S. Treasury (1885-93). The collection consists of correspondence, papers, diaries, accounts, photographs, maps, realia, and related printed material of Major General William S. Rosecrans and his family. The papers cover nearly a century of American history and are comprised of materials from three generations of the Rosecrans family.</abstract>
  <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-<dao role="http://oac.cdlib.org/arcrole/link/search/" href="http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz002h7cvp" title="Online items">
+  <dao role="http://oac.cdlib.org/arcrole/link/search/" href="https://digital.library.ucla.edu/catalog/ark:/21198/zz002h7cvp" title="Online items">
 <daodesc>
 <p>Selected digitized images from this collection.</p>
 </daodesc></dao>
@@ -73,7 +73,7 @@ Date of source: <date calendar="gregorian" era="ce">1961</date></creation>
  <head>Administrative Information</head>
  <accessrestrict encodinganalog="506">
  <head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+  <p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page. </p>
  </accessrestrict>
  <userestrict encodinganalog="540">
  <head>Restrictions on Use and Reproduction</head>
@@ -85,7 +85,7 @@ Date of source: <date calendar="gregorian" era="ce">1961</date></creation>
  </prefercite>
 <odd>
 <head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=2976678">2976678</extref></p>
+ <p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="https://search.library.ucla.edu/permalink/01UCS_LAL/trta7g/alma9929766783606533">9929766783606533</extref></p>
 </odd>
  <acqinfo encodinganalog="541">
  <head>Provenance/Source of Acquisition</head>
@@ -93,6 +93,12 @@ Date of source: <date calendar="gregorian" era="ce">1961</date></creation>
  <p>Carmelita Rosecrans Ewing, bequest, 1969.</p>
  </acqinfo>
  </descgrp>
+  <processinfo><head>Processing Information</head>
+   <p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p>
+   <p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: 
+    <extref href="https://n2t.net/ark:/21198/r2zs2tnj" actuate="onrequest" show="new">
+     Report Potentially Offensive Description in Library Special Collections.</extref></p>
+  </processinfo>
  <bioghist id="bioghist-1.8.3">
  <head>Foreward</head>
  <p>It is a privilege to respond to the invitation of the University Librarian, Lawrence Clark Powell, to write a brief foreword for the Guide to the Papers of General William Starke Rosecrans.</p>
@@ -155,6 +161,8 @@ Date of source: <date calendar="gregorian" era="ce">1961</date></creation>
  <famname source="lcsh" encodinganalog="700">Rosecrans family.</famname>
  </controlaccess>
  </controlaccess>
+  <odd><head>Online Items Available</head>
+   <p>Portions of this collection have been digitized and are available online: <extref href="https://digital.library.ucla.edu/catalog/ark:/21198/zz002h7cvp" actuate="onrequest" show="new">William S. Rosecrans Papers (43 items).</extref></p></odd>
  <dsc type="in-depth" id="dsc-1.8.8">
  <head>Container List</head>
  <c01 level="series" id="c01-1.3.8.2">
