@@ -1,412 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
-
-<ead>
-<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
-<eadid countrycode="US" mainagencycode="CLU-SC" identifier=" http://www.oac.cdlib.org/findaid/ark:/13030/kt438nf4h2 ">PUBLIC "-//University of California, Los Angeles::Library Special Collections//TEXT(US::CLU-SC::1826::Cumberland Clark Cuneiform Tablet collection)//EN" "clar1826.xml"</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Finding Aid for the Cumberland Clark Cuneiform Tablet collection, Old Babylonian Period (ca. 2000-1600 BCE)</titleproper>
-<titleproper type="filing">Clark (Cumberland) Cuneiform Tablet collection</titleproper>
-<author>Processed by Sara Brumfield in the Center for Primary Research and Training (CFPRT), with assistance from Kelley Wolfe Bachli, 2008; machine-readable finding aid created by Caroline Cub&#x00E9;.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>UCLA Library Special Collections staff</addressline>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA 90095-1575</addressline>
-<addressline>Email: spec-coll@library.ucla.edu</addressline>
-<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
-</address>
-<date calendar="gregorian" era="ce">&#x00A9; 2011</date>
-<p>The Regents of the University of California. All rights reserved.</p>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce"> 2011;</date> frontmatter gathered MS Word document. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.</creation>
-<langusage>Description is in <language langcode="eng" 
-scriptcode="Latn" >English.</language></langusage>
-<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<head>Descriptive Summary</head>
-<unittitle label="Title">Cumberland Clark Cuneiform Tablet collection</unittitle>
-<unitdate type="inclusive" normal="2000/1600">Old Babylonian Period (ca. 2000-1600 BCE)</unitdate>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1826</unitid>
-<origination label="Creator">
-<persname rules="aacr2">Anonymous.</persname></origination>
-<physdesc label="Extent">
-<extent>4 oversize boxes.</extent>
-</physdesc>
-<abstract label="Abstract">Twenty-five cuneiform tablets from the ancient Mesopotamian school environment called eduba (literally, "house of tablets") and includes examples ranging from simple sign exercises to advanced Sumerian literary exercises.  The majority of the texts come from the Old Babylonian period, which began after the fall of the Third Dynasty of Ur (ca. 2000 BCE) and continued until the Hittites conquered Babylon in 1595 BCE.</abstract>
-<langmaterial label="Language">Finding aid is written in 
-<language langcode="eng">English.</language>
-</langmaterial>
-<repository label="Repository">
-<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
-<address><addressline>Los Angeles, California 90095-1575</addressline></address>
-</repository>
-<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-</did>
-<descgrp type="admininfo">
-<head>Administrative Information</head>
-<accessrestrict encodinganalog="506">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict encodinganalog="540">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<acqinfo encodinganalog="541">
-<head>Provenance/Source of Acquisition</head>
-<p>Anonymous gift, 2007.</p>
-</acqinfo>
-<processinfo>
-<head>Processing Note</head>
-<p>Processed by Sara Brumfield in the Center for Primary Research and Training (CFPRT), with assistance from Kelley Wolfe Bachli, 2008.</p>
-</processinfo>
-<prefercite encodinganalog="524">
-<head>Preferred Citation</head>
-<p>[Identification of item], Cumberland Clark Cuneiform Tablet collection (Collection 1826). UCLA Library Special Collections, Charles E. Young Research Library.</p>
-</prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=6684137">6684137</extref></p>
-</odd>
-</descgrp>
-<bioghist encodinganalog="545">
-<head>Biography</head>
-<p>The collection of 25 cuneiform tablets were donated in 2007 by an anonymous donor who wished to name the collection after Cumberland Clark.</p> 
-<p>While the exact provenience of this collection is unknown, it has been established that the corpus of texts came from an ancient Mesopotamian school environment called an <emph render="italic">eduba</emph> (literally, "house of tablets"). It was at the <emph render="italic">eduba</emph> that scribes received their training in the scribal arts. A student would train from early childhood to adulthood to become a <emph render="italic">dubsar</emph> (literally, "tablet writer"). Their curriculum, as represented in this collection, was comprised of learning sign formations, copying lexical lists, learning mathematics, and popular epics of the Mesopotamian culture.</p>
-<p>The majority of the texts come from the Old Babylonian period, which began after the fall of the Third Dynasty of Ur (c. 2000 BCE) and continued until the Hittites conquered Babylon in 1595 BCE. Most of the Old Babylonian period was spent in political fragmentation, which created smaller independent scribal traditions at different cities. Only under the reign of King Hammurabi (c. 1795-1750 BCE) was there a degree of centralization. This political environment had a direct impact on the scribal curriculum as a uniform course of instruction would indicate a state-run school, whereas a variegated curriculum would seem to refer to privately run schools.</p>
-<p>It is within this context that the Cumberland Clark Cuneiform Tablet Collection exists. The content of the texts suggests significant editing of previously standardized lexical lists and literary passages. However, the general pattern and progression of instruction remain constant as the collection exhibits examples from the simplest sign exercises to advanced Sumerian literary exercises.</p>
-</bioghist>
-<scopecontent encodinganalog="520">
-<head>Scope and Content</head>
-<p>Twenty-five cuneiform tablets from the ancient Mesopotamian school environment called <emph render="italic">eduba</emph> (literally, "house of tablets") and includes examples ranging from simple sign exercises to advanced Sumerian literary exercises.  The majority of the texts come from the Old Babylonian period, which began after the fall of the Third Dynasty of Ur (ca. 2000 BCE) and continued until the Hittites conquered Babylon in 1595 BCE.</p>
-</scopecontent>
-<arrangement>
-<head>Organization and Arrangement</head>
-<p>Tablets are described at the item level.</p>
-</arrangement>
-<controlaccess>
-<head>Indexing Terms</head>
-<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
-<controlaccess>
-<head>Genres and Forms of Material</head>
-<genreform source="aat" encodinganalog="655">Cuneiform tablets.</genreform>
-</controlaccess>
-</controlaccess>
-<relatedmaterial encodinganalog="544">
-<head>Related Material</head>
-<p>
-<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt9m3nf3ng/" actuate="onrequest" show="new">Edward A. Dickson Cuneiform Tablet collection (Collection 1813)</extref>. UCLA Library Special Collections, Charles E. Young Research Library.</p>
-</relatedmaterial>
-<dsc type="in-depth">
-<head>Container List</head>
-<c01 level="item"><did>
-<container type="box" label="Box">1</container>
-<unitid>Item no. 1 </unitid>
-<unittitle>School text, unknown content</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 6.3x6.4x2.2cm, square tablet with rounded edges, complete</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387594" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>Obverse only inscribed. The preserved portions of the text mention silver. The last line of the obverse also speaks of a
-man named Lu-tar raising his hand in violence. Without the left portion of the tablet preserved a better understanding and translation is not
-possible.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">1</container>
-<unitid>Item no. 2 </unitid>
-<unittitle>School text, lexical exercise of personal names</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 6.5x7.2x2.8cm, square tablet, fragment</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387596" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>A small fragment of a larger lexical exercise of listing personal names inscribed on obverse.  Three of the four identified
- names from this tablet correspond to UMBS (Univ. of Penn. The Museum. Publications of the Babylonian Section), Vol. XI, Nos. 702, 704,
- 776.</p>
-<p>This tablet plays on the multiple meanings of one cuneiform sing. The first three names use the same sign "pu2" but draw on a variety of
-its meanings: orchard, well, pit. This is a common practice in school texts because it teaches students the different ways to use each sign
- in context.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">1</container>
-<unitid>Item no. 3 </unitid>
-<unittitle>School text, sign exercise</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 14.8x11.8x3.9cm, large rectangular tablet, complete w/ two holes on the reverse</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387606" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>A two-column exercise where the teacher has written a simple sign on the left-hand side and the student practices
-replicating the sign on the right side of the tablet. The signs are large and crude, typical of a young scribe just beginning
-instruction.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">1</container>
-<unitid>Item no. 4 </unitid>
-<unittitle>School text, literary exercise of "Inanna and Mt. Ebih"</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 11.6x13.2x2.8cm, square tablet, complete w/ damage to the right edge</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387610" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>On this  tablet are lines 55-73 of the Sumerian epic "Inanna and Mt. Ebih".</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">2</container>
-<unitid>Item no. 1 </unitid>
-<unittitle>School text, lexical exercise of deity names</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 11.5x6.1x3.5cm, rectangular tablet, complete, obverse has heavy surface damage, reverse is effaced</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387601" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>Obverse only inscribed. This text is a list of deity names, a common lexical exercise in Old Babylonian school
-curricula. The severe surface damage makes translation impossible.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">2</container>
-<unitid>Item no. 2 </unitid>
-<unittitle>School text, lexical exercise of  nouns and gold jewelry</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 8.0x8.3x2.8cm, lentil, complete w/ fracture lines</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387609" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>The obverse is five line list of Sumerian nouns. The reverse is a three line excerpt naming various items of gold jewelry.
- This text follows the Old Babylonian Nippur lexical list: Ura 2 (lines 599, 633) and Ura 3.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">2</container>
-<unitid>Item no. 3 </unitid>
-<unittitle>School text, unknown content</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 9.5x10.1x2.8cm, lentil, complete w/ lower edge broken off</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387616" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>This practice lentil is a three-line teacher-student copying exercise with significant damage. The full content of the text
-is not recoverable due to the breaks in the tablet.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">2</container>
-<unitid>Item no. 4 </unitid>
-<unittitle>Administrative text, contract with witnesses</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 11.0x6.3x2.6cm, rectangular tablet, complete w/ bottom edge broken, obverse has heavy surface damage</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387613" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>A significant portion of this tablet is effaced. Only fragments of information are recoverable. The last line of this text
-gives the year name as "the year after Elam was destroyed", which is known to be the 30th year of Hammurabi's reign in Babylon. This
-dates to approximately 1762 BCE. The list of witnesses at the end of the tablet indicate that this was a contract, however the exact terms
-and involved parties of this contract remain unknown.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">2</container>
-<unitid>Item no. 5 </unitid>
-<unittitle>School text, sign and lexical exercises</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 7.7x7.9x2.5cm, lentil, complete w/ slight damage to the edges</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387599" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>The reverse contains rudimentary sign exercise done by a young student just beginning instruction. The sign list
-involves economic-oriented terms, such as basic commodities a professional scribe would be expected to keep track of in business
-accounts and write receipts for. The obverse contains a lexical list, which was probably not done by the same student given the increased
-difficulty of the text on the reverse. However, it still appears to be centered on economic goods. Most likely this exercise was for practicing
-administrative vocabulary.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">2</container>
-<unitid>Item no. 6 </unitid>
-<unittitle>School text, grammatical exercise</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 8.1x7.7x2.8cm, lentil, fragment w/ right edge broken off</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387597" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>A three-line school exercise written on a lentil-shaped tablet.  The obverse is the teacher's example of three simple
-sentences.  The reverse contains the students copy of the teacher's exercise. The only preserved information is the direct object of the
-sentence. The verbs are unknown. The direct object could be three different words, and the right reading could only be determined by the
-verb. Therefore, the exact translation is unknown.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">2</container>
-<unitid>Item no. 7 </unitid>
-<unittitle>School text, lexical exercise of abstract nouns</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 8.0x8.1x2.4cm, lentil, complete w/ lower left edge broken</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387598" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>A teacher-student three-line copy exercise listing abstract nouns written by the teacher on the obverse which were
-then copied by the student on the reverse of the tablet plus a short colophon. Based on OB Izi, II, 234, 240. The author of this school
-exercise is identified as "Awilutum".</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">2</container>
-<unitid>Item no. 8 </unitid>
-<unittitle>School text, lexical exercise of the deity Nanna</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 6.6x4.2x2.1cm, small oval tablet, fragment</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387603" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>The tablet is a list of deity names. Only the first one or two signs are identifiable making a translation
-impossible.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">2</container>
-<unitid>Item no. 9 </unitid>
-<unittitle>School text, mathematical exercise</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 7.5x7.3x2.2cm, lentil, complete w/ heavy surface damage</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387600" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>This lentil is a mathematical exercise written by a student. Due to the heavy damage the exact nature of the math
-problem is unknown. The text appears to be an exercise in adding amounts of grain. This task was a common scribal assignment since
-scribes knew mathematics as well as writing.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">3</container>
-<unitid>Item no. 1 </unitid>
-<unittitle>School text, lexical exercise of boat vocabulary</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 5.4x4.2x1.8cm, rectangular tablet, fragment</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387617" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>A five-line  list of types of ships and ship related vocabulary modeled after OB Nippur Ura 1, 278-288. The reverse is
-effaced where only the determinative for wood or wooden objects is detectable.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">3</container>
-<unitid>Item no. 2 </unitid>
-<unittitle>School text, lexical exercise of wooden objects</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 4.5x5.0x2.2cm, square, fragment, heavily effaced</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387618" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>This small tablet contains only four readable signs and appears to be a lexical list of wood or wooden objects as
-denoted by its initial determinative. The entire reverse and most of the obverse are damaged.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">3</container>
-<unitid>Item no. 3 </unitid>
-<unittitle>Administrative text, unknown content</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 9.0x5.3x3.3cm, rectangular tablet, complete w/ indentations on the right edge</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387614" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>The damage to the surface of this text leaves only small fragments of readable text. The content of this tablet is
-administrative in nature but the only understandable commodity is silver. Information regarding the involved parties and goods exchanged is
- lost.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">3</container>
-<unitid>Item no. 4 </unitid>
-<unittitle>Cuneiform tablet, effaced</unittitle>
-<unitdate> -  Old Babylonian?</unitdate>
-<physdesc> 7.7x5.2x2.8cm rectangular tablet, complete, obverse complete effaced, reverse surface worn</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387602" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>This tablet is completed effaced on the obverse and mostly effaced on the reverse.  Only a few non-sequitor signs are
-discernible on the reverse.  There is no recoverable information from this tablet.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">3</container>
-<unitid>Item no. 5 </unitid>
-<unittitle>Administrative text, farm contract in Akkadian</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 8.1x4.6x2.7cm, rectangular tablet, complete w/ broken edges on upper-left and lower-right edges</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387612" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>Most of this text is damaged leaving only the reverse moderately intact. This tablet is written in Akkadian and appears
-to be an administrative contract recording the exchange of farm items.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">3</container>
-<unitid>Item no. 6 </unitid>
-<unittitle>Unknown</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 10.0x6.3x2.7cm, rectangular table, complete w/ damage to left edge</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387611" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>Only the reverse is inscribed, the obverse is effaced. The damage to the reverse is significant preventing a complete
-transliteration or translation. The last six lines appear to be a list of types of trees. The purpose of this text is not
-understood.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">3</container>
-<unitid>Item no. 7 </unitid>
-<unittitle>Administrative text, grain contract</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 8.9x4.8x2.7cm, rectangular tablet, complete w/ lower section of obverse effaced</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387615" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>This tablet is an administrative text most likely from Nippur. The month name given on the tenth line of the obverse is
-only attested in Nippur. The content of the text discusses the payment and receipt of grain with a list of three witness at the end of the
-text. The bottom of the reverse is damaged so no year name is given.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">3</container>
-<unitid>Item no. 8 </unitid>
-<unittitle>School text, drawing of a bovine</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 7.6x8.4x2.9cm, lentil, fragment in 2 pieces</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387604" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>Obverse only inscribed. Shows a hand drawing of a zebu (with a hump on the back) cattle most likely a domesticated
-animal. These bovine figures were seen as symbols of controlled strength in contrast to wild cattle, which were perceived as reckless.
-Drawings in general are a rare find in cuneiform texts, but they were essential to training the steady and refined hand of a professional
-scribe.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">3</container>
-<unitid>Item no. 9 </unitid>
-<unittitle>Unknown [illegible]</unittitle>
-<unitdate> -  Early Old Babylonian</unitdate>
-<physdesc> 10.5x6.9x2.9cm, rectangular tablet, join of 2 fragments</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387595" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>This four column text is too fragmentary to recreate a translation. This tablet is a join from the upper and lower half of
-the tablet. This leaves a small gap in the middle of the text.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">4</container>
-<unitid>Item no. 1 </unitid>
-<unittitle>School text, lexical exercise of personal names on a prism</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 10.2x7.9x4.6cm, prism, fragment</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387608" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>This 4-column prism is a student copy of an elementary lexical exercise in writing personal names. The entire exercise
- is organized thematically where each name begins with the same sign and names of similar meaning or using the same sign are grouped
-together. The prism is heavily damaged and intact personal names are only recoverable from the second and third
-columns.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">4</container>
-<unitid>Item no. 2 </unitid>
-<unittitle>School text, lexical exercise of personal names on a prism</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 11.0x6.9x7.5cm, prism, fragment</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387605" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>This 6-column prism is a student copy of an elementary lexical exercise in writing personal names. The entire exercise
- is organized thematically where each name begins with the same sign and names of similar meaning or using the same sign are grouped
-together.</p></scopecontent>
-</c01>
-<c01 level="item"><did>
-<container type="box" label="Box">4</container>
-<unitid>Item no. 3 </unitid>
-<unittitle>School text, lexical exercise of personal names on a prism</unittitle>
-<unitdate> -  Old Babylonian</unitdate>
-<physdesc> 11.7x8.2x7.0cm, prism, fragment</physdesc>
-<dao linktype="simple" href="http://www.cdli.ucla.edu/search/archival_view.php?ObjectID=P387607" actuate="onrequest" show="new"/>
-</did>
-<scopecontent><p>This 5-column prism is a student copy of an elementary lexical exercise in writing personal names. The entire exercise
- is organized thematically where each name begins with the same sign and names of similar meaning or using the same sign are grouped
-together. The prism is heavily damaged so only a few names are recoverable from the text.</p></scopecontent>
-</c01>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/kt438nf4h2/">clar1826.xml</eadid><filedesc><titlestmt><titleproper type="filing">Clark (Cumberland) Cuneiform Tablet collection</titleproper><titleproper>Finding Aid for the Cumberland Clark Cuneiform Tablet collection, Old Babylonian Period (ca. 2000-1600 BCE) <num>LSC.1826</num></titleproper><author>Finding aid prepared by Sara Brumfield in the Center for Primary Research and Training (CFPRT), with assistance from Kelley Wolfe Bachli, 2008; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>© 2011</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-18 16:54:53 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Cumberland Clark Cuneiform Tablet collection</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Anonymous</persname>
+    </origination>
+    <unitid>LSC.1826</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4 oversize boxes</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="-2000/-1600" type="inclusive">circa 2000-1600 BCE</unitdate>
+    <abstract id="aspace_6c3acb3adaaa3184866f65fbc68a7eb8" label="Abstract">Twenty-five cuneiform tablets from the ancient Mesopotamian school environment called eduba (literally, "house of tablets") and includes examples ranging from simple sign exercises to advanced Sumerian literary exercises. The majority of the texts come from the Old Babylonian period, which began after the fall of the Third Dynasty of Ur (ca. 2000 BCE) and continued until the Hittites conquered Babylon in 1595 BCE.</abstract>
+    <physloc id="aspace_ce892b2741abd3703f1cd8411bf9133b">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial>
+      <language langcode="sux" scriptcode="Xsux">Sumerian</language>
+.    </langmaterial>
+  </did>
+  <dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/collections/360" xlink:show="new" xlink:title="Cuneiform Digital Library Initiative (CDLI) - Clark, Cumberland (Probably Dispersed) - Collections" xlink:type="simple">
+    <daodesc><p>Cuneiform Digital Library Initiative (CDLI) - Clark, Cumberland (Probably Dispersed) - Collections</p></daodesc>
+  </dao>
+  <accessrestrict id="aspace_34f87b8833c7ed6945859aecca45ed08">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_d1be4969026b1d21602f3e75df93dfb7">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_b4ac17a0e6a3f366f11e59b0f0818897">
+    <head>Provenance/Source of Acquisition</head>
+<p>Anonymous gift, 2007.</p>  </acqinfo>
+  <odd id="aspace_fc3470a184cd3694920c7bc26ea63299">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/trta7g/alma9966841373606533">9966841373606533</extref></p>  </odd>
+  <prefercite id="aspace_fd6593b0cb03f6fad64b59852aa093b2">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Cumberland Clark Cuneiform Tablet collection (Collection 1826). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_44095489e26c8e5484a99457df570951">
+    <head>Processing Information</head>
+<p>Processed by Sara Brumfield in the Center for Primary Research and Training (CFPRT), with assistance from Kelley Wolfe Bachli, 2008.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special Collections.</extref></p>  </processinfo>
+  <bioghist id="aspace_cc6bc0b99ac64d7ebcbc1828c7befa60">
+    <head>Biography</head>
+<p>The collection of 25 cuneiform tablets were donated in 2007 by an anonymous donor who wished to name the collection after Cumberland Clark.</p><p>While the exact provenience of this collection is unknown, it has been established that the corpus of texts came from an ancient Mesopotamian school environment called an <emph render="italic">eduba</emph> (literally, "house of tablets"). It was at the <emph render="italic">eduba</emph> that scribes received their training in the scribal arts. A student would train from early childhood to adulthood to become a <emph render="italic">dubsar</emph> (literally, "tablet writer"). Their curriculum, as represented in this collection, was comprised of learning sign formations, copying lexical lists, learning mathematics, and popular epics of the Mesopotamian culture.</p><p>The majority of the texts come from the Old Babylonian period, which began after the fall of the Third Dynasty of Ur (c. 2000 BCE) and continued until the Hittites conquered Babylon in 1595 BCE. Most of the Old Babylonian period was spent in political fragmentation, which created smaller independent scribal traditions at different cities. Only under the reign of King Hammurabi (c. 1795-1750 BCE) was there a degree of centralization. This political environment had a direct impact on the scribal curriculum as a uniform course of instruction would indicate a state-run school, whereas a variegated curriculum would seem to refer to privately run schools.</p><p>It is within this context that the Cumberland Clark Cuneiform Tablet Collection exists. The content of the texts suggests significant editing of previously standardized lexical lists and literary passages. However, the general pattern and progression of instruction remain constant as the collection exhibits examples from the simplest sign exercises to advanced Sumerian literary exercises.</p>  </bioghist>
+  <scopecontent id="aspace_7810354d4eff1550fb91a7aa47af2582">
+    <head>Scope and Content</head>
+<p>Twenty-five cuneiform tablets from the ancient Mesopotamian school environment called <emph render="italic">eduba</emph> (literally, "house of tablets") and includes examples ranging from simple sign exercises to advanced Sumerian literary exercises. The majority of the texts come from the Old Babylonian period, which began after the fall of the Third Dynasty of Ur (ca. 2000 BCE) and continued until the Hittites conquered Babylon in 1595 BCE.</p>  </scopecontent>
+  <arrangement id="aspace_3b805464ddd5222561f2a74152db4f99">
+    <head>Organization and Arrangement</head>
+<p>Tablets are described at the item level.</p>  </arrangement>
+  <relatedmaterial id="aspace_f33ab6798061abf7dd6f57714f6688ff">
+    <head>Related Material</head>
+<p><extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.oac.cdlib.org/findaid/ark:/13030/kt9m3nf3ng/">Edward A. Dickson Cuneiform Tablet collection (Collection 1813)</extref>. Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </relatedmaterial>
+  <altformavail id="aspace_a884351c98d9c5de5451992bc9ae7052">
+    <head>Online Items Available</head>
+<p>Portions of this collection have been digitized and are available online:
+<extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://cdli.mpiwg-berlin.mpg.de/collections/360">Cuneiform Digital Library Initiative (CDLI) - Clark, Cumberland (Probably Dispersed) - Collections.</extref></p>  </altformavail>
+  <controlaccess>
+    <genreform source="aat">Cuneiform tablets.</genreform>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref13_4r0" level="item"><did><unittitle>School text, unknown content</unittitle><unitid>Item no. 1</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_a2b0dc43b1c07d6eca933c3c0c81c28d" label="General Physical Description note">6.3x6.4x2.2cm, square tablet with rounded edges, complete</physdesc><container id="aspace_2190c9117e955308d500b6f2efc38b60" label="Mixed Materials" type="box">1</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387594" xlink:show="new" xlink:title="School text, unknown content - Old Babylonian" xlink:type="simple"><daodesc><p>School text, unknown content - Old Babylonian</p></daodesc></dao></did><scopecontent id="aspace_b9fab94e6964aee8f9ad419caa2e2276"><head>Scope and Contents note</head><p>Obverse only inscribed. The preserved portions of the text mention silver. The last line of the obverse also speaks of a man named Lu-tar raising his hand in violence. Without the left portion of the tablet preserved a better understanding and translation is not possible.</p></scopecontent></c01><c01 id="aspace_ref16_3ku" level="item"><did><unittitle>School text, lexical exercise of personal names</unittitle><unitid>Item no. 2</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_56a901b80fbf3d49457f50715bed83e4" label="General Physical Description note">6.5x7.2x2.8cm, square tablet, fragment</physdesc><container id="aspace_c177ca05951776ac4f1e3b63acaa2db3" label="Mixed Materials" type="box">1</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387596" xlink:show="new" xlink:title="School text, lexical exercise of personal names " xlink:type="simple"><daodesc><p>School text, lexical exercise of personal names</p></daodesc></dao></did><scopecontent id="aspace_9b65592cfb196866d82f9a8f11cf54db"><head>Scope and Contents note</head><p>A small fragment of a larger lexical exercise of listing personal names inscribed on obverse. Three of the four identified names from this tablet correspond to UMBS (Univ. of Penn. The Museum. Publications of the Babylonian Section), Vol. XI, Nos. 702, 704, 776.</p><p>This tablet plays on the multiple meanings of one cuneiform sing. The first three names use the same sign "pu2" but draw on a variety of its meanings: orchard, well, pit. This is a common practice in school texts because it teaches students the different ways to use each sign in context.</p></scopecontent></c01><c01 id="aspace_ref19_7ez" level="item"><did><unittitle>School text, sign exercise</unittitle><unitid>Item no. 3</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_4d7bc9f614d4680967fd5449d819a4c1" label="General Physical Description note">14.8x11.8x3.9cm, large rectangular tablet, complete w/ two holes on the reverse</physdesc><container id="aspace_689b9f0fefe8cd240d568e322afa67d6" label="Mixed Materials" type="box">1</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387606" xlink:show="new" xlink:title=" School text, sign exercise" xlink:type="simple"><daodesc><p>School text, sign exercise</p></daodesc></dao></did><scopecontent id="aspace_60e2c8a13c2b2a98340c89d7020fad13"><head>Scope and Contents note</head><p>A two-column exercise where the teacher has written a simple sign on the left-hand side and the student practices replicating the sign on the right side of the tablet. The signs are large and crude, typical of a young scribe just beginning instruction.</p></scopecontent></c01><c01 id="aspace_ref22_03j" level="item"><did><unittitle>School text, literary exercise of "Inanna and Mt. Ebih"</unittitle><unitid>Item no. 4</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_80ec8afa47c4f6fd668f3604d4d340df" label="General Physical Description note">11.6x13.2x2.8cm, square tablet, complete w/ damage to the right edge</physdesc><container id="aspace_7bab4291b350ddf384c3847ed2795196" label="Mixed Materials" type="box">1</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387610" xlink:show="new" xlink:title=" School text, literary exercise of &quot;Inanna and Mt. Ebih&quot; " xlink:type="simple"><daodesc><p>School text, literary exercise of "Inanna and Mt. Ebih"</p></daodesc></dao></did><scopecontent id="aspace_8002d0b03a71d15314bf8ec39b2f92db"><head>Scope and Contents note</head><p>On this tablet are lines 55-73 of the Sumerian epic "Inanna and Mt. Ebih".</p></scopecontent></c01><c01 id="aspace_ref25_jzx" level="item"><did><unittitle>School text, lexical exercise of deity names</unittitle><unitid>Item no. 1</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_8b0cc5c031a8809795b5a0bc0d3367bf" label="General Physical Description note">11.5x6.1x3.5cm, rectangular tablet, complete, obverse has heavy surface damage, reverse is effaced</physdesc><container id="aspace_84df17c0a5240ed4a7863bd59af375fc" label="Mixed Materials" type="box">2</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387601" xlink:show="new" xlink:title="School text, lexical exercise of deity names" xlink:type="simple"><daodesc><p>School text, lexical exercise of deity names</p></daodesc></dao></did><scopecontent id="aspace_2b63c5258fded9a69b91185e83f1fa31"><head>Scope and Contents note</head><p>Obverse only inscribed. This text is a list of deity names, a common lexical exercise in Old Babylonian school curricula. The severe surface damage makes translation impossible.</p></scopecontent></c01><c01 id="aspace_ref28_sk9" level="item"><did><unittitle>School text, lexical exercise of nouns and gold jewelry</unittitle><unitid>Item no. 2</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_ba0cb944e9a0a11bd91dcbd78c1fec74" label="General Physical Description note">8.0x8.3x2.8cm, lentil, complete w/ fracture lines</physdesc><container id="aspace_f1dea9b283ba3dd064cf8f3c99f00b19" label="Mixed Materials" type="box">2</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387596" xlink:show="new" xlink:title="School text, lexical exercise of personal names " xlink:type="simple"><daodesc><p>School text, lexical exercise of personal names</p></daodesc></dao></did><scopecontent id="aspace_0b6dc90ea68d2dfc548901108f32a7c4"><head>Scope and Contents note</head><p>The obverse is five line list of Sumerian nouns. The reverse is a three line excerpt naming various items of gold jewelry. This text follows the Old Babylonian Nippur lexical list: Ura 2 (lines 599, 633) and Ura 3.</p></scopecontent></c01><c01 id="aspace_ref31_g9v" level="item"><did><unittitle>School text, unknown content</unittitle><unitid>Item no. 3</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_a43a3de62257361f130405a6b6d5051b" label="General Physical Description note">9.5x10.1x2.8cm, lentil, complete w/ lower edge broken off</physdesc><container id="aspace_008fc882f4918c9c2ae5a6f19b10748a" label="Mixed Materials" type="box">2</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387595" xlink:role="image-master-edited" xlink:show="new" xlink:title="Unknown [illegible] - Early Old Babylonian" xlink:type="simple"><daodesc><p>Unknown [illegible] - Early Old Babylonian: - Old Babylonian</p></daodesc></dao></did><scopecontent id="aspace_d9fec744e603f2c2394b048ea862532c"><head>Scope and Contents note</head><p>This practice lentil is a three-line teacher-student copying exercise with significant damage. The full content of the text is not recoverable due to the breaks in the tablet.</p></scopecontent></c01><c01 id="aspace_ref34_av3" level="item"><did><unittitle>Administrative text, contract with witnesses</unittitle><unitid>Item no. 4</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_ebb5340b42a3d1c108a3828e2f6bbbce" label="General Physical Description note">11.0x6.3x2.6cm, rectangular tablet, complete w/ bottom edge broken, obverse has heavy surface damage</physdesc><container id="aspace_da18c674f18b9542f18ec40644a8d9d7" label="Mixed Materials" type="box">2</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387613" xlink:show="new" xlink:title="Administrative text, contract with witnesses " xlink:type="simple"><daodesc><p>Administrative text, contract with witnesses</p></daodesc></dao></did><scopecontent id="aspace_521319f01c153888d9127e5d7de73241"><head>Scope and Contents note</head><p>A significant portion of this tablet is effaced. Only fragments of information are recoverable. The last line of this text gives the year name as "the year after Elam was destroyed", which is known to be the 30th year of Hammurabi's reign in Babylon. This dates to approximately 1762 BCE. The list of witnesses at the end of the tablet indicate that this was a contract, however the exact terms and involved parties of this contract remain unknown.</p></scopecontent></c01><c01 id="aspace_ref37_mjh" level="item"><did><unittitle>School text, sign and lexical exercises</unittitle><unitid>Item no. 5</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_336c2f1c815a772253fb851e535e99cb" label="General Physical Description note">7.7x7.9x2.5cm, lentil, complete w/ slight damage to the edges</physdesc><container id="aspace_6849061c8f18595198a7ff12b53b47d9" label="Mixed Materials" type="box">2</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387599" xlink:show="new" xlink:title="School text, sign and lexical exercises" xlink:type="simple"><daodesc><p>School text, sign and lexical exercises</p></daodesc></dao></did><scopecontent id="aspace_a013e3ce3bc6110ca277452dc3dcdb8c"><head>Scope and Contents note</head><p>The reverse contains rudimentary sign exercise done by a young student just beginning instruction. The sign list involves economic-oriented terms, such as basic commodities a professional scribe would be expected to keep track of in business accounts and write receipts for. The obverse contains a lexical list, which was probably not done by the same student given the increased difficulty of the text on the reverse. However, it still appears to be centered on economic goods. Most likely this exercise was for practicing administrative vocabulary.</p></scopecontent></c01><c01 id="aspace_ref40_29r" level="item"><did><unittitle>School text, grammatical exercise</unittitle><unitid>Item no. 6</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_7fe3dcdacb5f1bfbfd104e39c0814db1" label="General Physical Description note">8.1x7.7x2.8cm, lentil, fragment w/ right edge broken off</physdesc><container id="aspace_6950a68705ce7da674402401c4e79fdf" label="Mixed Materials" type="box">2</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387597" xlink:show="new" xlink:title="School text, grammatical exercise" xlink:type="simple"><daodesc><p>School text, grammatical exercise</p></daodesc></dao></did><scopecontent id="aspace_899f80bec35e917558f86b5fe9546bb6"><head>Scope and Contents note</head><p>A three-line school exercise written on a lentil-shaped tablet. The obverse is the teacher's example of three simple sentences. The reverse contains the students copy of the teacher's exercise. The only preserved information is the direct object of the sentence. The verbs are unknown. The direct object could be three different words, and the right reading could only be determined by the verb. Therefore, the exact translation is unknown.</p></scopecontent></c01><c01 id="aspace_ref43_opc" level="item"><did><unittitle>School text, lexical exercise of abstract nouns</unittitle><unitid>Item no. 7</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_a276f237893feb8050bc1aa843c6698b" label="General Physical Description note">8.0x8.1x2.4cm, lentil, complete w/ lower left edge broken</physdesc><container id="aspace_68a9d68091cea2dd3793e7b2cdf46d60" label="Mixed Materials" type="box">2</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387598" xlink:show="new" xlink:title="School text, lexical exercise of abstract nouns" xlink:type="simple"><daodesc><p>School text, lexical exercise of abstract nouns</p></daodesc></dao></did><scopecontent id="aspace_1dae40f75ea889f199c68bea6f17c7dd"><head>Scope and Contents note</head><p>A teacher-student three-line copy exercise listing abstract nouns written by the teacher on the obverse which were then copied by the student on the reverse of the tablet plus a short colophon. Based on OB Izi, II, 234, 240. The author of this school exercise is identified as "Awilutum".</p></scopecontent></c01><c01 id="aspace_ref46_ohf" level="item"><did><unittitle>School text, lexical exercise of the deity Nanna</unittitle><unitid>Item no. 8</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_2b251e74b63b575b4155188dbe8bc3f5" label="General Physical Description note">6.6x4.2x2.1cm, small oval tablet, fragment</physdesc><container id="aspace_397df492b7767b1f2ece4ca54e17f2f9" label="Mixed Materials" type="box">2</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387603" xlink:show="new" xlink:title=" School text, lexical exercise of the deity Nanna" xlink:type="simple"><daodesc><p>School text, lexical exercise of the deity Nanna</p></daodesc></dao></did><scopecontent id="aspace_d08f609ec9caa1898e824f10fe6dc914"><head>Scope and Contents note</head><p>The tablet is a list of deity names. Only the first one or two signs are identifiable making a translation impossible.</p></scopecontent></c01><c01 id="aspace_ref49_xep" level="item"><did><unittitle>School text, mathematical exercise</unittitle><unitid>Item no. 9</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_7909ebdb357f9e8af52dfc5e66452921" label="General Physical Description note">7.5x7.3x2.2cm, lentil, complete w/ heavy surface damage</physdesc><container id="aspace_4c19e08508fa8d61d07f95f32db3fee6" label="Mixed Materials" type="box">2</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387600" xlink:show="new" xlink:title="School text, mathematical exercise" xlink:type="simple"><daodesc><p>School text, mathematical exercise</p></daodesc></dao></did><scopecontent id="aspace_2bdbbdb1e5a5fc1099269daf220f6d45"><head>Scope and Contents note</head><p>This lentil is a mathematical exercise written by a student. Due to the heavy damage the exact nature of the math problem is unknown. The text appears to be an exercise in adding amounts of grain. This task was a common scribal assignment since scribes knew mathematics as well as writing.</p></scopecontent></c01><c01 id="aspace_ref52_cpd" level="item"><did><unittitle>School text, lexical exercise of boat vocabulary</unittitle><unitid>Item no. 1</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_739278f68a9223710f5a33055e990029" label="General Physical Description note">5.4x4.2x1.8cm, rectangular tablet, fragment</physdesc><container id="aspace_33af768c47cc2e74437b9e2090a2520b" label="Mixed Materials" type="box">3</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387617" xlink:show="new" xlink:title="School text, lexical exercise of boat vocabulary " xlink:type="simple"><daodesc><p>School text, lexical exercise of boat vocabulary</p></daodesc></dao></did><scopecontent id="aspace_591b3e20ca8f001cf4635c3256f78f65"><head>Scope and Contents note</head><p>A five-line list of types of ships and ship related vocabulary modeled after OB Nippur Ura 1, 278-288. The reverse is effaced where only the determinative for wood or wooden objects is detectable.</p></scopecontent></c01><c01 id="aspace_ref55_avq" level="item"><did><unittitle>School text, lexical exercise of wooden objects</unittitle><unitid>Item no. 2</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_e8f191e11e932bde94c3c2b5a8d754ce" label="General Physical Description note">4.5x5.0x2.2cm, square, fragment, heavily effaced</physdesc><container id="aspace_5b2adb366811050533dbf276b7d5dc22" label="Mixed Materials" type="box">3</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387618" xlink:show="new" xlink:title="School text, lexical exercise of wooden objects" xlink:type="simple"><daodesc><p>School text, lexical exercise of wooden objects</p></daodesc></dao></did><scopecontent id="aspace_214acc3cf1cdbc5b0b1ce3e882202a62"><head>Scope and Contents note</head><p>This small tablet contains only four readable signs and appears to be a lexical list of wood or wooden objects as denoted by its initial determinative. The entire reverse and most of the obverse are damaged.</p></scopecontent></c01><c01 id="aspace_ref58_8m5" level="item"><did><unittitle>Administrative text, unknown content</unittitle><unitid>Item no. 3</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_ad3bd3ca1a2167d04718938d39d0f41b" label="General Physical Description note">9.0x5.3x3.3cm, rectangular tablet, complete w/ indentations on the right edge</physdesc><container id="aspace_2c03e53782a2e54a5dc6cc497c8634d2" label="Mixed Materials" type="box">3</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387614" xlink:show="new" xlink:title="Administrative text, unknown content" xlink:type="simple"><daodesc><p>Administrative text, unknown content</p></daodesc></dao></did><scopecontent id="aspace_dae0968f33d84418a4ee89b028b6bd66"><head>Scope and Contents note</head><p>The damage to the surface of this text leaves only small fragments of readable text. The content of this tablet is administrative in nature but the only understandable commodity is silver. Information regarding the involved parties and goods exchanged is lost.</p></scopecontent></c01><c01 id="aspace_ref61_rju" level="item"><did><unittitle>Cuneiform tablet, effaced</unittitle><unitid>Item no. 4</unitid><unitdate datechar="creation">- Old Babylonian?</unitdate><physdesc id="aspace_ac4c14fb455ddf32d93b7ef7adea9c91" label="General Physical Description note">7.7x5.2x2.8cm rectangular tablet, complete, obverse complete effaced, reverse surface worn</physdesc><container id="aspace_4faf9e415021498624d5fa44dd70ddde" label="Mixed Materials" type="box">3</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387602" xlink:show="new" xlink:title="Cuneiform tablet, effaced " xlink:type="simple"><daodesc><p>Cuneiform tablet, effaced</p></daodesc></dao></did><scopecontent id="aspace_bb9c40fa72bf931820f0fff89ac87f75"><head>Scope and Contents note</head><p>This tablet is completed effaced on the obverse and mostly effaced on the reverse. Only a few non-sequitor signs are discernible on the reverse. There is no recoverable information from this tablet.</p></scopecontent></c01><c01 id="aspace_ref64_03p" level="item"><did><unittitle>Administrative text, farm contract in Akkadian</unittitle><unitid>Item no. 5</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_3eb61c91631b7548fd60e6dffb9b3230" label="General Physical Description note">8.1x4.6x2.7cm, rectangular tablet, complete w/ broken edges on upper-left and lower-right edges</physdesc><container id="aspace_f1242233abc6381adf868eb4e01db14e" label="Mixed Materials" type="box">3</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387612" xlink:show="new" xlink:title="Administrative text, farm contract in Akkadian" xlink:type="simple"><daodesc><p>Administrative text, farm contract in Akkadian</p></daodesc></dao></did><scopecontent id="aspace_81fed11b3e1694804ca1211cdeef0cc5"><head>Scope and Contents note</head><p>Most of this text is damaged leaving only the reverse moderately intact. This tablet is written in Akkadian and appears to be an administrative contract recording the exchange of farm items.</p></scopecontent></c01><c01 id="aspace_ref67_vh8" level="item"><did><unittitle>Unknown</unittitle><unitid>Item no. 6</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_8f1dc7c946a5684abace408b8abdb7ac" label="General Physical Description note">10.0x6.3x2.7cm, rectangular table, complete w/ damage to left edge</physdesc><container id="aspace_88724738830deaf9cae07ae3427323fa" label="Mixed Materials" type="box">3</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387611" xlink:show="new" xlink:title="Unknown" xlink:type="simple"><daodesc><p>Unknown</p></daodesc></dao></did><scopecontent id="aspace_1be9330edc04bf3fb6d07cc803aca556"><head>Scope and Contents note</head><p>Only the reverse is inscribed, the obverse is effaced. The damage to the reverse is significant preventing a complete transliteration or translation. The last six lines appear to be a list of types of trees. The purpose of this text is not understood.</p></scopecontent></c01><c01 id="aspace_ref70_zpm" level="item"><did><unittitle>Administrative text, grain contract</unittitle><unitid>Item no. 7</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_bf043738dae46742c64300cf3b57973e" label="General Physical Description note">8.9x4.8x2.7cm, rectangular tablet, complete w/ lower section of obverse effaced</physdesc><container id="aspace_97fb68e00db884c738a2de77e456ba50" label="Mixed Materials" type="box">3</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387615" xlink:show="new" xlink:title="Administrative text, grain contract " xlink:type="simple"><daodesc><p>Administrative text, grain contract</p></daodesc></dao></did><scopecontent id="aspace_b2e64caa44ec15d37ba0898b5057363e"><head>Scope and Contents note</head><p>This tablet is an administrative text most likely from Nippur. The month name given on the tenth line of the obverse is only attested in Nippur. The content of the text discusses the payment and receipt of grain with a list of three witness at the end of the text. The bottom of the reverse is damaged so no year name is given.</p></scopecontent></c01><c01 id="aspace_ref73_0uw" level="item"><did><unittitle>School text, drawing of a bovine</unittitle><unitid>Item no. 8</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_0251cbce145aff10e5d97f193acc8b07" label="General Physical Description note">7.6x8.4x2.9cm, lentil, fragment in 2 pieces</physdesc><container id="aspace_58c226f1f6ef559be14b833394aee09c" label="Mixed Materials" type="box">3</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387604" xlink:show="new" xlink:title="School text, drawing of a bovine" xlink:type="simple"><daodesc><p>School text, drawing of a bovine</p></daodesc></dao></did><scopecontent id="aspace_d894460dbc5f8da64cc208c39c9f5888"><head>Scope and Contents note</head><p>Obverse only inscribed. Shows a hand drawing of a zebu (with a hump on the back) cattle most likely a domesticated animal. These bovine figures were seen as symbols of controlled strength in contrast to wild cattle, which were perceived as reckless. Drawings in general are a rare find in cuneiform texts, but they were essential to training the steady and refined hand of a professional scribe.</p></scopecontent></c01><c01 id="aspace_ref76_jck" level="item"><did><unittitle>Unknown [illegible]</unittitle><unitid>Item no. 9</unitid><unitdate datechar="creation">- Early Old Babylonian</unitdate><physdesc id="aspace_e7d8aaeec1e571c5848923da1d0ab6aa" label="General Physical Description note">10.5x6.9x2.9cm, rectangular tablet, join of 2 fragments</physdesc><container id="aspace_c0c6041144677e7349cb05a3bc0fa8c7" label="Mixed Materials" type="box">3</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387595" xlink:role="image-master-edited" xlink:show="new" xlink:title="Unknown [illegible] - Early Old Babylonian" xlink:type="simple"><daodesc><p>Unknown [illegible] - Early Old Babylonian: - Old Babylonian</p></daodesc></dao></did><scopecontent id="aspace_00107080d54b19e45091b1c51aa5758b"><head>Scope and Contents note</head><p>This four column text is too fragmentary to recreate a translation. This tablet is a join from the upper and lower half of the tablet. This leaves a small gap in the middle of the text.</p></scopecontent></c01><c01 id="aspace_ref79_jhx" level="item"><did><unittitle>School text, lexical exercise of personal names on a prism</unittitle><unitid>Item no. 1</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_d2dd4ead1536e8dd6822347e9f98d551" label="General Physical Description note">10.2x7.9x4.6cm, prism, fragment</physdesc><container id="aspace_5a388f79002c49c35f21f1f4e74d5b4c" label="Mixed Materials" type="box">4</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387608" xlink:show="new" xlink:title="School text, lexical exercise of personal names on a prism - Old Babylonian" xlink:type="simple"><daodesc><p>School text, lexical exercise of personal names on a prism - Old Babylonian</p></daodesc></dao></did><scopecontent id="aspace_cb651c4523bb1f2fc8f43d2804c233d1"><head>Scope and Contents note</head><p>This 4-column prism is a student copy of an elementary lexical exercise in writing personal names. The entire exercise is organized thematically where each name begins with the same sign and names of similar meaning or using the same sign are grouped together. The prism is heavily damaged and intact personal names are only recoverable from the second and third columns.</p></scopecontent></c01><c01 id="aspace_ref82_e6a" level="item"><did><unittitle>School text, lexical exercise of personal names on a prism</unittitle><unitid>Item no. 2</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_7fd6267f39999456b56f1acaca42f60f" label="General Physical Description note">11.0x6.9x7.5cm, prism, fragment</physdesc><container id="aspace_8330fc4c0407c48ddc4750193ac75a6c" label="Mixed Materials" type="box">4</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387605" xlink:show="new" xlink:title="School text, lexical exercise of personal names on a prism - Old Babylonian" xlink:type="simple"><daodesc><p>School text, lexical exercise of personal names on a prism - Old Babylonian</p></daodesc></dao></did><scopecontent id="aspace_1335efcf16b9dbe73cb0264d15e39d0b"><head>Scope and Contents note</head><p>This 6-column prism is a student copy of an elementary lexical exercise in writing personal names. The entire exercise is organized thematically where each name begins with the same sign and names of similar meaning or using the same sign are grouped together.</p></scopecontent></c01><c01 id="aspace_ref85_0d8" level="item"><did><unittitle>School text, lexical exercise of personal names on a prism</unittitle><unitid>Item no. 3</unitid><unitdate datechar="creation">- Old Babylonian</unitdate><physdesc id="aspace_3b150c304a09562eb083ef5dfa9ebe58" label="General Physical Description note">11.7x8.2x7.0cm, prism, fragment</physdesc><container id="aspace_95799fe10ee83361653d48d6c0ff341f" label="Mixed Materials" type="box">4</container><dao xlink:actuate="onRequest" xlink:href="https://cdli.mpiwg-berlin.mpg.de/artifacts/387607" xlink:show="new" xlink:title="School text, lexical exercise of personal names on a prism - Old Babylonian" xlink:type="simple"><daodesc><p>School text, lexical exercise of personal names on a prism - Old Babylonian</p></daodesc></dao></did><scopecontent id="aspace_1af4510a1e876101c5acc221708e5e64"><head>Scope and Contents note</head><p>This 5-column prism is a student copy of an elementary lexical exercise in writing personal names. The entire exercise is organized thematically where each name begins with the same sign and names of similar meaning or using the same sign are grouped together. The prism is heavily damaged so only a few names are recoverable from the text.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
