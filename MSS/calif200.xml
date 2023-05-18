@@ -70,21 +70,21 @@ Angeles::Library Special Collections//TEXT
  </did>
  <descgrp type="admininfo" id="descgrp-1.8.2">
  <head>Administrative Information</head>
- <userestrict>
+  <accessrestrict>
+   <head>Restrictions on Access</head>
+   <p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>
+  </accessrestrict>
+  <userestrict>
  <head>Restrictions on Use and Reproduction</head>
  <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
  </userestrict>
- <accessrestrict>
- <head>Restrictions on Access</head>
-<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
- </accessrestrict>
  <prefercite>
  <head>Preferred Citation</head>
  <p>[Identification of item], California ephemera collection (Collection 200). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
  </prefercite>
 <odd>
 <head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4230439">4230439</extref></p>
+ <p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9942304393606533">9942304393606533</extref></p>
 </odd>
  </descgrp>
  <otherfindaid id="otherfindaid-1.8.3">
@@ -92,6 +92,11 @@ Angeles::Library Special Collections//TEXT
  <p>In-house card catalog is available at UCLA Library Special Collections for consultation. 
 </p>
  </otherfindaid>
+  <processinfo><head>Processing Information</head>
+   <p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p>
+<p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: 
+    <extref href="https://n2t.net/ark:/21198/r2zs2tnj" actuate="onrequest" show="new">
+     Report Potentially Offensive Description in Library Special Collections.</extref></p></processinfo>
  <scopecontent id="scopecontent-1.8.4">
  <head>Scope and Content</head>
  <p>Collection consists of broadsides, clippings, brochures, and other ephemeral materials relating to California. Subjects include: abortion, Alcatraz Island, building and loan associations, California politics and government, Covina, drugs, Fort Ross, Greek-Americans, International Gay and Lesbian Archives, Japanese American National Museum, Hiram Johnson, William Kerckhoff, Los Angeles riots, motion picture theaters, Olympic Games, Rancho Santa Anita, Simon Wiesenthal Center, and others.</p>
@@ -100,6 +105,10 @@ Angeles::Library Special Collections//TEXT
  <head>Organization and Arrangement</head>
  <p>Collection is arranged alphabetically by subject.</p>
  </arrangement>
+  <altformavail><head>Online Items Available</head>
+   <p>Portions of this collection have been digitized and are available online: 
+    <extref href="https://calisphere.org/collections/3450/" actuate="onrequest" show="new">
+     California ephemera collection  (133 items).</extref></p></altformavail>
  <controlaccess id="controlaccess-1.8.6">
  <head>Indexing Terms</head>
  <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
