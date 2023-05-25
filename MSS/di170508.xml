@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier=" http://www.oac.cdlib.org/findaid/ark:/13030/kt6f59s2pz">PUBLIC "-//University of California, Los Angeles::Library Special Collections//TEXT(US::CLU-SC::170/508::Dise&#x00F1;os : maps and plans of ranchos of Southern California, mostly within Los Angeles and Orange counties)//EN" "di170508.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Dise&#x00F1;os : maps and plans of ranchos of Southern California, mostly within Los Angeles and Orange counties, [between 1841 and 1891]</titleproper>
+<titleproper type="filing">Dise&#x00F1;os : maps and plans of ranchos of Southern California, mostly within Los Angeles and Orange counties</titleproper>
+<author>Cataloged by Citlali Sosa-Riddell, with assistance from Laurel McPhee, in the Center For Primary Research and Training (CFPRT); machine-readable finding aid created by Caroline Cub&#x00E9;.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>UCLA Library Special Collections staff</addressline>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2011</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce"> 2004-2007;</date> frontmatter gathered MARC Record. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.</creation>
+<langusage>Description is in <language langcode="eng" 
+scriptcode="Latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Dise&#x00F1;os : maps and plans of ranchos of Southern California, mostly within Los Angeles and Orange counties</unittitle>
+<unitdate type="inclusive" normal="1841/1891">[between 1841 and 1891] </unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">170/508</unitid>
+<physdesc label="Extent">
+<extent>86 leaves : paper ;  38 &#x00D7; 56 cm.</extent>
+</physdesc>
+<abstract label="Abstract">Oversize folio of approximately 150 hand-drawn maps of Mexican land claims in California.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of W.W. Robinson.</p>
+</acqinfo>
+<processinfo>
+<head>Processing Note</head>
+<p>Cataloged by Citlali Sosa-Riddell, with assistance from Laurel McPhee, in the Center For Primary Research and Training (CFPRT).</p>
+</processinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Dise&#x00F1;os : maps and plans of ranchos of Southern California, mostly within Los Angeles and Orange counties (Collection 170/508). UCLA Library Special Collections, Charles E. Young Research Library.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4230403">4230403</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography</head>
+<p>When the United States took possession of California and other Mexican lands in 1848, it was bound by the Treaty of Guadalupe Hidalgo to honor the legitimate land claims of Mexican citizens residing in those captured territories. In order to investigate and confirm titles in California, American officials acquired the provincial records of the Spanish and Mexican governments in Monterey. Those records, most of which were transferred to the U. S. Surveyor General's Office in San Francisco, included land deeds, sketch-maps (dise&#x00F1;os), and various other documents. The Land Act of 1851 established a Board of Land Commissioners to review these records and adjudicate claims, and charged the Surveyor General with surveying confirmed land grants.</p>
+<p>Additionally, to determine the validity of Spanish and Mexican land grants in California, Congress set up a Board of Land Commissioners. Unless grantees presented in two years evidence supporting their title, the property would automatically pass into the public domain. Although the Land Commission eventually confirmed 604 of 813 claims, the cost of litigation forced most Californios to lose their lands. Government attorneys appealed 417 claims, out of a total of  813. Some cases were appealed several times; appeals prolonged each litigation process for an average of seventeen years. Questions of title were settled by the Federal courts, and authority to segregate claims judicially confirmed was vested in the proper executive officers of the United States. </p>
+<p>The remainder of privately owned Mexican territory annexed to the United States was settled under the the eighth section of the act of July 22, 1854, which made it the duty of the surveyor-general to ascertain the origin, nature, character, and extent of all claims to lands under the laws, usages, and customs of Spain and Mexico and to report the conclusions to Congress. The law did not impose a limitation of time in the presentation of claims or a penalty for failure to present. In the next thirty years, more than one thousand claims had been filed with the surveyor-general, of which less than one hundred and fifty had been reported to Congress, and of that number, Congress acted upon seventy-one. Under the law, only copies of the original title papers were submitted to Congress. Of the 813 grants ultimately claimed, the land commission approved only 553.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>Oversize folio of approximately 150 hand-drawn maps of Mexican land claims in California; each map depicts a tract of private land, or ranch, with the major boundaries of the claim written in Spanish. Most maps are dated between 1841 and 1883, though it is unclear if these dates represent the time of the maps' creation, or if they are merely transcriptions of dates from an original, older source. Most of the maps are stamped with the seal of the Pacific Coast Abstract Bureau, dated 1891, which suggests that they were used for some official or governmental use. Maps are in black ink, on heavy cream paper, with occasional pencil notations or watercolor details. The drawings are not credited to individual copiers, surveyors, or artists, though the English language notations were probably made by land claim officials. Includes an index listing the names of the properties and corresponding page numbers.</p>
+<p>Layout: One map on each recto.</p>
+<p>Script: Cursive, in fine black ink.</p>
+<p>Binding: Half leather binding, with red spine and tips. Cover title stamped in gilt.</p>
+<p>Additional forms: Available as transparencies.</p>
+<p>Text in English and Spanish.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
+</controlaccess>
+</controlaccess>
+<relatedmaterial encodinganalog="544">
+<head>Related Material</head>
+<p>
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt538nb916" actuate="onrequest" show="new">Bound Manuscripts Collection (Collection 170)
+</extref>. Available at UCLA Library Special Collections, Charles E. Young Research Library.</p>
+</relatedmaterial>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 level="collection">
+<did>
+<dao linktype="simple" role="http://oac.cdlib.org/arcrole/link/" href="http://ark.cdlib.org/ark:/13030/hb2h4nb1ph" title="View image"></dao>
+<unittitle>Dise&#x00F1;os : maps and plans of ranchos of Southern California, mostly within Los Angeles and Orange counties</unittitle>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>
