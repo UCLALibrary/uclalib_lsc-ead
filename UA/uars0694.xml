@@ -1,265 +1,39 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-<eadid countrycode="US" mainagencycode="US-CLU-SC">uars0694.xml</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Faculty Women's Club. Constitutions, by-laws, and amendments. 
-<date calendar="gregorian" era="ce">1932-2000.</date>
-</titleproper>
-<titleproper type="filing">Faculty Women's Club. Constitutions, by-laws, and amendments.</titleproper>
-<author>Finding aid prepared by University Archives staff, 2001 February; finding aid revised by Katharine A. Lawrie, 2013 March; machine-readable finding aid created by Katharine A. Lawrie, 2013 June.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA, 90095-1575</addressline>
-<addressline>(310) 825-4988</addressline>
-<addressline>spec-coll@library.ucla.edu</addressline>
-</address>
-<date>©2001 February</date>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>This finding aid was produced using the Archivists' Toolkit
-<date>2014-12-04T12:19-0800</date>
-</creation>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<unittitle>Faculty Women's Club. Constitutions, by-laws, and amendments.</unittitle>
-<unitid>University Archives Record Series 694</unitid>
-<repository>
-<corpname>UCLA Library Special Collections</corpname>
-</repository>
-<langmaterial>
-<language langcode="eng"/>
-</langmaterial>
-<physdesc>
-<extent>0.4 linear ft.</extent>
-<extent>(1 box)</extent>
-</physdesc>
-<unitdate>1932-1998</unitdate>
-<abstract id="ref1" label="Abstract">Record Series 694 contains the constitutions, by-laws, and amendments of UCLA's Faculty Women's Club.</abstract>
-<origination label="Creator">
-<corpname rules="aacr" source="naf">University of California, Los Angeles. Faculty Women's Club.</corpname>
-</origination>
-</did>
-<accessrestrict id="ref2">
-<head>Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict id="ref3">
-<head>Publication Rights</head>
-<p>Copyright has not been assigned to the UCLA University Archives. All requests for permission to publish or quote from the records must be submitted in writing to the University Archivist. Permission for publication is given on behalf of the UCLA University Archives as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
-</userestrict>
-<prefercite id="ref4">
-<head>Preferred Citation</head>
-<p>[Identification of item], Faculty Women's Club. Constitutions, by-laws, and amendments (University Archives Record Series 694). UCLA Library Special Collections, University Archives.</p>
-</prefercite>
-<bioghist id="ref5">
-<head>Historical note</head>
-<p>The Faculty Women's Club (FWC) originated as a political action group. In 1918 there were moves afoot to create a four-year college in Southern California. Women of the faculty of the Los Angeles Normal School came together and formed a Faculty Women's Club in order to help gather support for the proposed four year college particularly among women's groups in the State. In 1919 the Normal School became the Southern Branch of the University of California. Once the political objective was achieved the FWC met to consider the club's future. The club determined to continue and by the spring of 1920 the first constitution and purpose of the FWC of the Southern Branch of the University of California had been drafted. The first purpose did not include specific mention of scholarships and yet the treasurer's report for 1920-1921 includes the entry: $30.00 for Student Loan Fund. This fund, the first such fund at UCLA, was the modest beginning for the club's present scholarship program. The club has continued, without interruption, and tried to fulfill the founders' hope that it would "create a broader view and deeper interest in the civic, political and social life in our community."</p>
-<p><emph render="italic">UCLA Faculty Women's Club.</emph> 1999. Online. University of
-California, Los Angeles. Internet. 7 December 1999. http://www.alumni.ucla.edu/ASG/Support/fwcinfo.html.</p>
-</bioghist>
-<scopecontent id="ref6">
-<head>Scope and Content</head>
-<p>Record Series 694 contains the constitutions, by-laws, and amendments of UCLA's Faculty Women's Club.</p>
-<p>This is an active record series; additional University records are expected to be added.</p>
-</scopecontent>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p>UCLA Catalog Record ID: <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4475134">4475134</extref></p>
-</odd>
-<dsc>
-<c id="ref7" level="file">
-<did>
-<unittitle>Elizabeth Klingberg.</unittitle>
-<container id="cid8904001" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904001" type="Folder">1</container>
-<unitdate>1932-1933.</unitdate>
-</did>
-</c>
-<c id="ref8" level="file">
-<did>
-<unittitle>Bertha Haines.</unittitle>
-<container id="cid8904002" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904002" type="Folder">2</container>
-<unitdate>1934-1935.</unitdate>
-</did>
-</c>
-<c id="ref9" level="file">
-<did>
-<unittitle>Eleanor H. Johnson.</unittitle>
-<container id="cid8904003" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904003" type="Folder">3</container>
-<unitdate>1938-1939.</unitdate>
-</did>
-</c>
-<c id="ref10" level="file">
-<did>
-<unittitle>Maude R. Murdoch.</unittitle>
-<container id="cid8904004" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904004" type="Folder">4</container>
-<unitdate>1940-1941.</unitdate>
-</did>
-</c>
-<c id="ref11" level="file">
-<did>
-<unittitle>Clara Humphreys.</unittitle>
-<container id="cid8904005" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904005" type="Folder">5</container>
-<unitdate>1941-1942.</unitdate>
-</did>
-</c>
-<c id="ref12" level="file">
-<did>
-<unittitle>Hazel Hoel.</unittitle>
-<container id="cid8904006" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904006" type="Folder">6</container>
-<unitdate>1952-1953.</unitdate>
-</did>
-</c>
-<c id="ref13" level="file">
-<did>
-<unittitle>Evelyn Hodgson.</unittitle>
-<container id="cid8904007" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904007" type="Folder">7</container>
-<unitdate>1955-1956.</unitdate>
-</did>
-</c>
-<c id="ref14" level="file">
-<did>
-<unittitle>Joyce S. Nelson.</unittitle>
-<container id="cid8904008" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904008" type="Folder">8</container>
-<unitdate>1956-1957.</unitdate>
-</did>
-</c>
-<c id="ref15" level="file">
-<did>
-<unittitle>Lillian Asimow.</unittitle>
-<container id="cid8904009" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904009" type="Folder">9</container>
-<unitdate>1959-1960.</unitdate>
-</did>
-</c>
-<c id="ref16" level="file">
-<did>
-<unittitle>Louise York.</unittitle>
-<container id="cid8904010" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904010" type="Folder">10</container>
-<unitdate>1964-1965.</unitdate>
-</did>
-</c>
-<c id="ref17" level="file">
-<did>
-<unittitle>Nancy Leondes.</unittitle>
-<container id="cid8904011" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904011" type="Folder">11</container>
-<unitdate>1966-1967.</unitdate>
-</did>
-</c>
-<c id="ref18" level="file">
-<did>
-<unittitle>Mary Erickson.</unittitle>
-<container id="cid8904012" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904012" type="Folder">12</container>
-<unitdate>1967-1968.</unitdate>
-</did>
-</c>
-<c id="ref19" level="file">
-<did>
-<unittitle>Penny Hutchinson.</unittitle>
-<container id="cid8904013" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904013" type="Folder">13</container>
-<unitdate>1972-1973.</unitdate>
-</did>
-</c>
-<c id="ref20" level="file">
-<did>
-<unittitle>Pat Nagy.</unittitle>
-<container id="cid8904014" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904014" type="Folder">14</container>
-<unitdate>1978-1979.</unitdate>
-</did>
-</c>
-<c id="ref21" level="file">
-<did>
-<unittitle>Helen Nefkens.</unittitle>
-<container id="cid8904015" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904015" type="Folder">15</container>
-<unitdate>1984-1985.</unitdate>
-</did>
-</c>
-<c id="ref22" level="file">
-<did>
-<unittitle>Jane Cram.</unittitle>
-<container id="cid8904016" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904016" type="Folder">16</container>
-<unitdate>1989-1990.</unitdate>
-</did>
-</c>
-<c id="ref23" level="file">
-<did>
-<unittitle>Elaine Wise.</unittitle>
-<container id="cid8904017" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904017" type="Folder">17</container>
-<unitdate>1990-1991.</unitdate>
-</did>
-</c>
-<c id="ref24" level="file">
-<did>
-<unittitle>Elizabeth Cecchetti.</unittitle>
-<container id="cid8904018" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904018" type="Folder">18</container>
-<unitdate>1991-1992.</unitdate>
-</did>
-</c>
-<c id="ref25" level="file">
-<did>
-<unittitle>Mildred Massey.</unittitle>
-<container id="cid8904019" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904019" type="Folder">19</container>
-<unitdate>1992-1993.</unitdate>
-</did>
-</c>
-<c id="ref26" level="file">
-<did>
-<unittitle>Marinette Kubeck.</unittitle>
-<container id="cid8904020" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904020" type="Folder">20</container>
-<unitdate>1995-1996.</unitdate>
-</did>
-</c>
-<c id="ref27" level="file">
-<did>
-<unittitle>Felicite Halma.</unittitle>
-<container id="cid8904021" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904021" type="Folder">21</container>
-<unitdate>1997-1998.</unitdate>
-</did>
-</c>
-<c id="ref28" level="file">
-<did>
-<unittitle>Proposed ballot.</unittitle>
-<container id="cid8904022" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904022" type="Folder">22</container>
-<unitdate>Undated.</unitdate>
-</did>
-</c>
-<c id="ref29" level="file">
-<did>
-<unittitle>University of California at Berkeley Women's Faculty.</unittitle>
-<container id="cid8904023" type="Box" label="Mixed materials">1</container>
-<container parent="cid8904023" type="Folder">23</container>
-<unitdate>Undated.</unitdate>
-</did>
-</c>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC">uars0694.xml</eadid><filedesc><titlestmt><titleproper type="filing">Faculty Women's Club. Constitutions, by-laws, and amendments.</titleproper><titleproper>Faculty Women's Club. Constitutions, by-laws, and amendments. <date calendar="gregorian" era="ce">1932-2000.</date> <num>UARC.0694</num></titleproper><author>Finding aid prepared by University Archives staff, 2001 February; finding aid revised by Katharine A. Lawrie, 2013 March; machine-readable finding aid created by Katharine A. Lawrie, 2013 June.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>©2001 February</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-11-03 15:28:33 -0700</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Faculty Women's Club. Constitutions, by-laws, and amendments.</unittitle>
+    <unitid>UARC.0694</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.4 linear ft.</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation">1932-1998</unitdate>
+    <abstract id="aspace_ref1">Record Series 694 contains the constitutions, by-laws, and amendments of UCLA's Faculty Women's Club.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_ref2">
+    <head>Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>  </accessrestrict>
+  <userestrict id="aspace_ref3">
+    <head>Publication Rights</head>
+<p>Copyright has not been assigned to the UCLA University Archives. All requests for permission to publish or quote from the records must be submitted in writing to the University Archivist. Permission for publication is given on behalf of the UCLA University Archives as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>  </userestrict>
+  <prefercite id="aspace_ref4">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Faculty Women's Club. Constitutions, by-laws, and amendments (University Archives Record Series 694). UCLA Library Special Collections, University Archives.</p>  </prefercite>
+  <processinfo id="aspace_b1b8582bfe1ae4f503578d52b7172844">
+    <head>Processing Information</head>
+<p>This is an active record series; additional University records are expected to be added.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's Library Collections and Archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_ref5">
+    <head>Historical note</head>
+<p>The Faculty Women's Club (FWC) originated as a political action group. In 1918 there were moves afoot to create a four-year college in Southern California. Women of the faculty of the Los Angeles Normal School came together and formed a Faculty Women's Club in order to help gather support for the proposed four year college particularly among women's groups in the State. In 1919 the Normal School became the Southern Branch of the University of California. Once the political objective was achieved the FWC met to consider the club's future. The club determined to continue and by the spring of 1920 the first constitution and purpose of the FWC of the Southern Branch of the University of California had been drafted. The first purpose did not include specific mention of scholarships and yet the treasurer's report for 1920-1921 includes the entry: $30.00 for Student Loan Fund. This fund, the first such fund at UCLA, was the modest beginning for the club's present scholarship program. The club has continued, without interruption, and tried to fulfill the founders' hope that it would "create a broader view and deeper interest in the civic, political and social life in our community."</p><p> <emph render="italic">UCLA Faculty Women's Club.</emph> 1999. Online. University of California, Los Angeles. Internet. 7 December 1999. http://www.alumni.ucla.edu/ASG/Support/fwcinfo.html.</p>  </bioghist>
+  <scopecontent id="aspace_ref6">
+    <head>Scope and Content</head>
+<p>Record Series 694 contains the constitutions, by-laws, and amendments of UCLA's Faculty Women's Club.</p>  </scopecontent>
+  <dsc><c01 id="aspace_ref7" level="file"><did><unittitle>Elizabeth Klingberg.</unittitle><unitdate datechar="creation">1932-1933.</unitdate><container id="aspace_520eee625a0bef378ee39b4d3ff56730" label="mixed materials" type="Box">1</container><container id="aspace_47793094518654b816345c8b3c1c904a" parent="aspace_520eee625a0bef378ee39b4d3ff56730" type="Folder">1</container></did></c01><c01 id="aspace_ref8" level="file"><did><unittitle>Bertha Haines.</unittitle><unitdate datechar="creation">1934-1935.</unitdate><container id="aspace_9d3f34c216ffe3f1ab8302e9eb198bfa" label="mixed materials" type="Box">1</container><container id="aspace_fd50b43f32b0f4c715e4b1a278f591d9" parent="aspace_9d3f34c216ffe3f1ab8302e9eb198bfa" type="Folder">2</container></did></c01><c01 id="aspace_ref9" level="file"><did><unittitle>Eleanor H. Johnson.</unittitle><unitdate datechar="creation">1938-1939.</unitdate><container id="aspace_ecbd0f4e8822d131c9e44d68773c7e0b" label="mixed materials" type="Box">1</container><container id="aspace_84d97fe8ebdb5b381c06312b2a529de1" parent="aspace_ecbd0f4e8822d131c9e44d68773c7e0b" type="Folder">3</container></did></c01><c01 id="aspace_ref10" level="file"><did><unittitle>Maude R. Murdoch.</unittitle><unitdate datechar="creation">1940-1941.</unitdate><container id="aspace_139595b4945c323c2a03f62e9fd47ab4" label="mixed materials" type="Box">1</container><container id="aspace_b5bd76959f1f26dbcad26cfdb7d9f77e" parent="aspace_139595b4945c323c2a03f62e9fd47ab4" type="Folder">4</container></did></c01><c01 id="aspace_ref11" level="file"><did><unittitle>Clara Humphreys.</unittitle><unitdate datechar="creation">1941-1942.</unitdate><container id="aspace_30dbeb2db06f32b56dbe168faf6abab1" label="mixed materials" type="Box">1</container><container id="aspace_7fee742f144f3664cc527b4eb79ad194" parent="aspace_30dbeb2db06f32b56dbe168faf6abab1" type="Folder">5</container></did></c01><c01 id="aspace_ref12" level="file"><did><unittitle>Hazel Hoel.</unittitle><unitdate datechar="creation">1952-1953.</unitdate><container id="aspace_c98ff0d2779d971701e56636f08de412" label="mixed materials" type="Box">1</container><container id="aspace_dc51c2dc1e34442a99a8178338a6776d" parent="aspace_c98ff0d2779d971701e56636f08de412" type="Folder">6</container></did></c01><c01 id="aspace_ref13" level="file"><did><unittitle>Evelyn Hodgson.</unittitle><unitdate datechar="creation">1955-1956.</unitdate><container id="aspace_eb628b68af4e45e4ed93b071b8a3cd9e" label="mixed materials" type="Box">1</container><container id="aspace_bc496026cb44d208bdb1925641065ddc" parent="aspace_eb628b68af4e45e4ed93b071b8a3cd9e" type="Folder">7</container></did></c01><c01 id="aspace_ref14" level="file"><did><unittitle>Joyce S. Nelson.</unittitle><unitdate datechar="creation">1956-1957.</unitdate><container id="aspace_7a907812bd1f1682d428309c7e14ff47" label="mixed materials" type="Box">1</container><container id="aspace_d09d0b361fed4c72c59f80ac8985745c" parent="aspace_7a907812bd1f1682d428309c7e14ff47" type="Folder">8</container></did></c01><c01 id="aspace_ref15" level="file"><did><unittitle>Lillian Asimow.</unittitle><unitdate datechar="creation">1959-1960.</unitdate><container id="aspace_851d295ff94a798b0270432b6812e49f" label="mixed materials" type="Box">1</container><container id="aspace_dbc1ec4fd1f8589fafd1b714cb5a1a4d" parent="aspace_851d295ff94a798b0270432b6812e49f" type="Folder">9</container></did></c01><c01 id="aspace_ref16" level="file"><did><unittitle>Louise York.</unittitle><unitdate datechar="creation">1964-1965.</unitdate><container id="aspace_3af4f707dc01402a43409c92790bfbbd" label="mixed materials" type="Box">1</container><container id="aspace_4fc68a2f9830b37d84f44480b0455656" parent="aspace_3af4f707dc01402a43409c92790bfbbd" type="Folder">10</container></did></c01><c01 id="aspace_ref17" level="file"><did><unittitle>Nancy Leondes.</unittitle><unitdate datechar="creation">1966-1967.</unitdate><container id="aspace_9eb3ee49ee67a0c1c34aa7cde31277a5" label="mixed materials" type="Box">1</container><container id="aspace_ebdc247a303686011956b5e297000780" parent="aspace_9eb3ee49ee67a0c1c34aa7cde31277a5" type="Folder">11</container></did></c01><c01 id="aspace_ref18" level="file"><did><unittitle>Mary Erickson.</unittitle><unitdate datechar="creation">1967-1968.</unitdate><container id="aspace_c3107d09cdc3832f76b12ed4b48d8dbb" label="mixed materials" type="Box">1</container><container id="aspace_b5df87857570adb1b0cd9be79678c016" parent="aspace_c3107d09cdc3832f76b12ed4b48d8dbb" type="Folder">12</container></did></c01><c01 id="aspace_ref19" level="file"><did><unittitle>Penny Hutchinson.</unittitle><unitdate datechar="creation">1972-1973.</unitdate><container id="aspace_0dadedad6d8a818ef1dc6f51b73cc0b5" label="mixed materials" type="Box">1</container><container id="aspace_8f211fa237afead5bd5f9bb4d69fe103" parent="aspace_0dadedad6d8a818ef1dc6f51b73cc0b5" type="Folder">13</container></did></c01><c01 id="aspace_ref20" level="file"><did><unittitle>Pat Nagy.</unittitle><unitdate datechar="creation">1978-1979.</unitdate><container id="aspace_b60179c28851ad77783dff505c3dce3c" label="mixed materials" type="Box">1</container><container id="aspace_b1f0292b98b51da72c8e6cd065bc0413" parent="aspace_b60179c28851ad77783dff505c3dce3c" type="Folder">14</container></did></c01><c01 id="aspace_ref21" level="file"><did><unittitle>Helen Nefkens.</unittitle><unitdate datechar="creation">1984-1985.</unitdate><container id="aspace_18ed629f71e74238074235307206a723" label="mixed materials" type="Box">1</container><container id="aspace_540cedf2c9c2c24b359a4201ef8c2134" parent="aspace_18ed629f71e74238074235307206a723" type="Folder">15</container></did></c01><c01 id="aspace_ref22" level="file"><did><unittitle>Jane Cram.</unittitle><unitdate datechar="creation">1989-1990.</unitdate><container id="aspace_4be0c9d355eaf5b4f296aa79367ec31e" label="mixed materials" type="Box">1</container><container id="aspace_99fbf1884d69b23a1a1aaf2207abc77b" parent="aspace_4be0c9d355eaf5b4f296aa79367ec31e" type="Folder">16</container></did></c01><c01 id="aspace_ref23" level="file"><did><unittitle>Elaine Wise.</unittitle><unitdate datechar="creation">1990-1991.</unitdate><container id="aspace_62af3bf61f71d7a40c77a8152bd64b2d" label="mixed materials" type="Box">1</container><container id="aspace_9c0b26ec99d3838216b74f997fe7acc3" parent="aspace_62af3bf61f71d7a40c77a8152bd64b2d" type="Folder">17</container></did></c01><c01 id="aspace_ref24" level="file"><did><unittitle>Elizabeth Cecchetti.</unittitle><unitdate datechar="creation">1991-1992.</unitdate><container id="aspace_e9b3a9cb926cd1240bc2753cb0ce5153" label="mixed materials" type="Box">1</container><container id="aspace_1a7d756338b64b07bc22dfe87c8de595" parent="aspace_e9b3a9cb926cd1240bc2753cb0ce5153" type="Folder">18</container></did></c01><c01 id="aspace_ref25" level="file"><did><unittitle>Mildred Massey.</unittitle><unitdate datechar="creation">1992-1993.</unitdate><container id="aspace_a3b0491e23d352bcb73362974df958e2" label="mixed materials" type="Box">1</container><container id="aspace_55a90bcbabae12e6f7aa565a2d3244a4" parent="aspace_a3b0491e23d352bcb73362974df958e2" type="Folder">19</container></did></c01><c01 id="aspace_ref26" level="file"><did><unittitle>Marinette Kubeck.</unittitle><unitdate datechar="creation">1995-1996.</unitdate><container id="aspace_8bf49cb275035ba5ad2488fe950d0281" label="mixed materials" type="Box">1</container><container id="aspace_7ecd491629a8432b21f8ec40c845929c" parent="aspace_8bf49cb275035ba5ad2488fe950d0281" type="Folder">20</container></did></c01><c01 id="aspace_ref27" level="file"><did><unittitle>Felicite Halma.</unittitle><unitdate datechar="creation">1997-1998.</unitdate><container id="aspace_d2d45bb692a7ddadf0825c9f2dff03a0" label="mixed materials" type="Box">1</container><container id="aspace_276b51c38d1fba0bc5256f03c5a1a878" parent="aspace_d2d45bb692a7ddadf0825c9f2dff03a0" type="Folder">21</container></did></c01><c01 id="aspace_ref28" level="file"><did><unittitle>Proposed ballot.</unittitle><unitdate datechar="creation">Undated.</unitdate><container id="aspace_7683cdb89fd1b9d4dc4d1e334983ceae" label="mixed materials" type="Box">1</container><container id="aspace_721d106162b53f09e017bf25a83cda8c" parent="aspace_7683cdb89fd1b9d4dc4d1e334983ceae" type="Folder">22</container></did></c01><c01 id="aspace_ref29" level="file"><did><unittitle>University of California at Berkeley Women's Faculty.</unittitle><unitdate datechar="creation">Undated.</unitdate><container id="aspace_e7b07062e0dbb30f69212a50b25b0302" label="mixed materials" type="Box">1</container><container id="aspace_f129cb93c84660f8fd9cd1e34300a57a" parent="aspace_e7b07062e0dbb30f69212a50b25b0302" type="Folder">23</container></did></c01></dsc>
 </archdesc>
 </ead>
