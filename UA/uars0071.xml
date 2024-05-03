@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC">uars0071.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Association of Academic Women. Constitution and Revisions. 
+<date calendar="gregorian" era="ce">1945-1980.</date>
+</titleproper>
+<titleproper type="filing">Academic Women (Association of). Constitution and Revisions.</titleproper>
+<author>Finding aid prepared by University Archives staff, 1987 August; finding aid revised by Katharine A. Lawrie, 2013 January; machine-readable finding aid created by Katharine A. Lawrie, 2014 April.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©1987 Aug 11</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2014-04-10T14:44-0700</date>
+</creation>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Association of Academic Women. Constitution and Revisions.</unittitle>
+<unitid>University Archives Record Series 71</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>0.4 linear ft.</extent>
+<extent>(1 box)</extent>
+</physdesc>
+<unitdate>1945-1980</unitdate>
+<abstract id="ref23" label="Abstract">Record Series 71 contains the original constitution of the Association of Academic Women and its revisions.</abstract>
+<origination label="Creator">
+<persname source="ingest">Association of Academic Women.</persname>
+</origination>
+</did>
+<accessrestrict id="ref3">
+<head>Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict id="ref4">
+<head>Publication Rights</head>
+<p>Copyright of portions of this collection has been assigned to The Regents of the University of California. The UCLA University Archives can grant permission to publish for materials to which it holds the copyright. All requests for permission to publish or quote must be submitted in writing to the UCLA University Archivist.</p>
+</userestrict>
+<prefercite id="ref5">
+<head>Preferred Citation</head>
+<p>[Identification of item], Association of Academic Women. Constitution and Revisions (University Archives Record Series 71). UCLA Library Special Collections, University Archives.</p>
+</prefercite>
+<bioghist id="ref7">
+<head>Historical Note</head>
+<p>The Association of Academic Women (AAW) was founded by a group of women faculty at UCLA. The purpose of the AAW was to advance the professional interest of its members, represent women faculty to the University, and provide an opportunity for its members to meet and exchange ideas with each other. While the association</p>
+</bioghist>
+<scopecontent id="ref22">
+<head>Scope and Content</head>
+<p>Record Series 71 contains the original constitution of the Association of Academic Women and its revisions.</p>
+<p>This is an active record series; additional University records are expected to be added.</p>
+</scopecontent>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=">BibID</extref></p>
+</odd>
+<dsc>
+<c id="ref8" level="file">
+<did>
+<unittitle>Original constitution (1945) and first revisions.</unittitle>
+<container id="cid6775742" type="Box" label="Box ">1</container>
+<container parent="cid6775742" type="Folder">1</container>
+<unitdate>1945-1949.</unitdate>
+</did>
+</c>
+<c id="ref20" level="file">
+<did>
+<unittitle>Revised constitution.</unittitle>
+<container id="cid6775736" type="Box" label="Box ">1</container>
+<container parent="cid6775736" type="Folder">2</container>
+<unitdate>1963.</unitdate>
+</did>
+</c>
+<c id="ref10" level="file">
+<did>
+<unittitle>Revised constitution.</unittitle>
+<container id="cid6775741" type="Box" label="Box ">1</container>
+<container parent="cid6775741" type="Folder">3</container>
+<unitdate>1964.</unitdate>
+</did>
+</c>
+<c id="ref12" level="file">
+<did>
+<unittitle>Revised constitution.</unittitle>
+<container id="cid6775740" type="Box" label="Box ">1</container>
+<container parent="cid6775740" type="Folder">4</container>
+<unitdate>1967.</unitdate>
+</did>
+</c>
+<c id="ref14" level="file">
+<did>
+<unittitle>Revised constitution.</unittitle>
+<container id="cid6775739" type="Box" label="Box ">1</container>
+<container parent="cid6775739" type="Folder">5</container>
+<unitdate>1972.</unitdate>
+</did>
+</c>
+<c id="ref18" level="file">
+<did>
+<unittitle>Revised constitution.</unittitle>
+<container id="cid6775737" type="Box" label="Box ">1</container>
+<container parent="cid6775737" type="Folder">6</container>
+<unitdate>1976.</unitdate>
+</did>
+</c>
+<c id="ref16" level="file">
+<did>
+<unittitle>Revised constitution.</unittitle>
+<container id="cid6775738" type="Box" label="Box ">1</container>
+<container parent="cid6775738" type="Folder">7</container>
+<unitdate>1980.</unitdate>
+</did>
+</c>
+</dsc>
+</archdesc>
+</ead>
