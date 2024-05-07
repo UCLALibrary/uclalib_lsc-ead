@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC">uars0084.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Faculty Women's Club. Historian notebooks. 
+<date calendar="gregorian" era="ce">1918-2000.</date>
+</titleproper>
+<titleproper type="filing">Faculty Women's Club. Historian notebooks.</titleproper>
+<author>Finding aid prepared by University Archives staff, 1987 November; finding aid revised by Katharine A. Lawrie, 2013 May; machine-readable finding aid created by Katharine A. Lawrie, 2013 June.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©1987 November</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2013-06-06T10:25-0700</date>
+</creation>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Faculty Women's Club. Historian notebooks.</unittitle>
+<unitid>University Archives Record Series 84</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>0.4 linear ft.</extent>
+<extent>(1 box)</extent>
+</physdesc>
+<unitdate>1918-2000</unitdate>
+<abstract id="ref13" label="Abstract">Record Series 84 contains the historian notebooks of UCLA's Faculty Women's Club. Notebooks include history, lists of officers and presidents, and reports.</abstract>
+<origination label="Creator">
+<corpname source="ingest">Faculty Women's Club.</corpname>
+</origination>
+</did>
+<accessrestrict id="ref1">
+<head>Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict id="ref2">
+<head>Publication Rights</head>
+<p>Copyright has not been assigned to the UCLA University Archives. All requests for permission to publish or quote from the records must be submitted in writing to the University Archivist. Permission for publication is given on behalf of the UCLA University Archives as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+</userestrict>
+<prefercite id="ref3">
+<head>Preferred Citation</head>
+<p>[Identification of item], Faculty Women's Club. Historian notebooks (University Archives Record Series 84). UCLA Library Special Collections, University Archives.</p>
+</prefercite>
+<scopecontent id="ref4">
+<head>Scope and Content</head>
+<p>Record Series 84 contains the historian notebooks of UCLA's Faculty Women's Club. Notebooks include history, lists of officers and presidents, and reports.</p>
+<p>This is an active record series; additional University records are expected to be added.</p>
+</scopecontent>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=3521008">3521008</extref></p>
+</odd>
+<dsc>
+<c id="ref5" level="file">
+<did>
+<unittitle>History of the Faculty Women's Club.</unittitle>
+<container id="cid7368053" type="Box" label="Mixed materials">1</container>
+<container parent="cid7368053" type="Folders">1-2</container>
+<unitdate>1918-1971.</unitdate>
+</did>
+</c>
+<c id="ref7" level="file">
+<did>
+<unittitle>75 year celebration.</unittitle>
+<container id="cid7368055" type="Box" label="Mixed materials">1</container>
+<container parent="cid7368055" type="Folder">3</container>
+<unitdate>1992-1993.</unitdate>
+</did>
+</c>
+<c id="ref8" level="file">
+<did>
+<unittitle>In Memoriam.</unittitle>
+<container id="cid7368056" type="Box" label="Mixed materials">1</container>
+<container parent="cid7368056" type="Folder">4</container>
+<unitdate>1936-1997.</unitdate>
+</did>
+</c>
+<c id="ref9" level="file">
+<did>
+<unittitle>List of officers.</unittitle>
+<container id="cid7368057" type="Box" label="Mixed materials">1</container>
+<container parent="cid7368057" type="Folder">5</container>
+<unitdate>1945-1951.</unitdate>
+</did>
+</c>
+<c id="ref10" level="file">
+<did>
+<unittitle>List of presidents.</unittitle>
+<container id="cid7368058" type="Box" label="Mixed materials">1</container>
+<container parent="cid7368058" type="Folder">6</container>
+<unitdate>1918-1998.</unitdate>
+</did>
+</c>
+<c id="ref11" level="file">
+<did>
+<unittitle>Historians' reports.</unittitle>
+<container id="cid7368059" type="Box" label="Mixed materials">1</container>
+<container parent="cid7368059" type="Folder">7</container>
+<unitdate>1968-1994.</unitdate>
+</did>
+</c>
+<c id="ref12" level="file">
+<did>
+<unittitle>Faculty Women's Club Archive.</unittitle>
+<container id="cid7368060" type="Box" label="Mixed materials">1</container>
+<container parent="cid7368060" type="Folder">8</container>
+<unitdate>1986-2000.</unitdate>
+</did>
+</c>
+</dsc>
+</archdesc>
+</ead>
