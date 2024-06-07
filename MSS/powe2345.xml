@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c81n86bc/">powe2345.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Max Ward Collection of Powerviolence Material, 1990s-early 2000s
+                    <num>LSC.2345</num>
+                </titleproper>
+                <titleproper type="filing">Ward (Max) Collection of Powerviolence Material</titleproper>
+                <author>Finding aid prepared by Kuhelika Ghosh, 2017</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 16 January 2018.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-01-16T13:55-0800</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>DACS</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Max Ward Collection of Powerviolence material</unittitle>
+            <unitid>LSC.2345</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.6 linear feet</extent>
+                <extent>(10 boxes, 2 flat oversize boxes)</extent>
+            </physdesc>
+            <unitdate normal="1990/2005" type="inclusive">1990s-early 2000s</unitdate>
+            <abstract id="ref3" label="Abstract">The collection documents the emergence of the Powerviolence music scene, a little known subgenre of hardcore punk, which was primarily active in the 1990s through the early 2000s. Materials consists of original fliers, posters, handbills, correspondence, photographs, stickers, zines, and patches collected by San Francisco Bay Area drummer, Max Ward.</abstract>
+            <langmaterial id="ref5" label="Language of Materials">Materials are primarily in English with a small amount in Japanese.</langmaterial>
+            <physloc id="ref6" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="dacs" source="local">Ward, Max</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref7">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref8">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref9">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Max Ward Collection of Powerviolence Material (Collection 2345). UCLA Library Special Collections, Charles E. Young Research Library.</p>
+        </prefercite>
+        <acqinfo id="ref10">
+            <head>Provenance/Source of Acquisition</head>
+            <p>Purchase, Johnson Rare Books &amp; Archives, 2017.</p>
+        </acqinfo>
+        <processinfo id="ref11">
+            <head>Processing Information</head>
+            <p>Processed by Kuhelika Ghosh in 2017 under the supervision of Courtney Dean in the Center for Primary Research and Training (CFPRT).</p>
+            <p></p>
+        </processinfo>
+        <odd id="ref19">
+            <head>General note</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=8229204">8229204</extref></p>
+        </odd>
+        <bioghist id="ref12">
+            <head>Biography/History</head>
+            <p>Powerviolence is a subgenre of hardcore punk known for dissonant, fast, and short songs with constant tempo changes. It emerged in the early 1990s, primarily on the West Coast of the United States, with bands like Man is the Bastard, Spazz, and Capitalist Casualties. Some trace the origins of powerviolence back to late 1980s hardcore bands such as Siege and SSD. Many of the leading powerviolence bands had dissolved by the early 2000s but some some continue to tour.</p>
+            <p>Max Ward, sometimes known as Hirax Max, was a San Francisco Bay Area drummer who played in the bands Spazz, Plutocracy, Capitalist Casualties, What Happens Next?, Bombs of Death, and Scholastic Deth[sic]. He was a major influence in the powerviolence scene. Ward was also the founder of 625 Thrashcore Records, which booked tours and released records for local, national, and international powerviolence bands. He produced the zine 
+                <title render="italic">Mosh of Ass </title>and contributed to the zine 
+                <title render="italic">Maximumrocknroll</title>. As of 2017, Ward is a professor of History at Middlebury College in Vermont.</p>
+        </bioghist>
+        <scopecontent id="ref13">
+            <head>Scope and Content</head>
+            <p>The collection consists of materials collected by drummer Max Ward related to the powerviolence scene from the 1990s to early 2000s. Includes original fliers, posters, handbills, correspondence, photographs, stickers, zines and patches, documenting the emergence of the scene in the San Francisco Bay Area through to when Ward moved to Japan in the early 2000s.</p>
+        </scopecontent>
+        <arrangement id="ref14">
+            <head>Organization and Arrangement</head>
+            <p>Arranged in the following series:</p>
+            <p>
+                <list type="simple">
+                    <item>Series 1: Correspondence, photographs, and zines, 1990s-early 2000s</item>
+                    <item>Series 2: Fliers and stickers, 1990s-early 2000s</item>
+                </list></p>
+            <p>Original order of materials was maintained.</p>
+        </arrangement>
+        <relatedmaterial id="ref16">
+            <head>Related Material</head>
+            <p>
+                <list type="simple">
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c8542t4x/">Punk zines and ephemera collection (Collection 2276)</extref>Available at Library Special Collections, Charles E. Young Research Library, UCLA.</item>
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c87m0dnc/">The American Hotel and Al's Bar Project records (Collection 2305)</extref>Available at Library Special Collections, Charles E. Young Research Library, UCLA.</item>
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c8v98dmf/">S.A. Griffin collection of underground poetry, Scott Wannberg, and The Carma Bums (Collection 2248)</extref>Available at Library Special Collections, Charles E. Young Research Library, UCLA.</item>
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c81c22zr/">Craig Michael Lee papers (Collection 2016-013)</extref>Available at ONE National Gay and Lesbian Archives, USC Libraries, University of Southern California.</item>
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c81g0rz9/">San Francisco Bay Area punk rock fliers and posters collected by Marshall Weber. (Collection BANC PIC 2009.057)</extref>Available at The Bancroft Library, University of California, Berkeley.</item>
+                </list></p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="dacs" source="local">Ward, Max -- Archives.</persname>
+            <subject source="lcsh">Hardcore (Music)</subject>
+            <subject source="lcsh">Punk culture--California--20th century</subject>
+            <genreform source="lcsh">Zines</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>Series 1: Correspondence, photographs and zines</unittitle>
+                    <container id="cid11360001" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="1990/2005" type="inclusive">1990s-early 2000s</unitdate>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Content</head>
+                    <p>Contains over 400 pieces of correspondence to Max Ward, much of which is written on the back of fliers, including notes from Tony Foresta of the band Municipal Waste and Michael Thorn of Inept; band photographs, including Capitalist Casualties live in Japan; and approximately 20 zines including 
+                        <title render="italic">Inhuman Conditions, Scream, Fear No Love,</title> and 
+                        <title render="italic">The Crass Menagerie</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Series 2: Fliers and stickers</unittitle>
+                    <container id="cid11360002" type="Boxes" label="Mixed materials">2-12</container>
+                    <unitdate normal="1990/2005" type="inclusive">1990s-early 2000s</unitdate>
+                </did>
+                <scopecontent id="ref18">
+                    <head>Scope and Content</head>
+                    <p>Contains original fliers, posters, handbills, stickers, and patches from powerviolence bands in the 1990s. Some of the bands represented include Crossed Out, Capitalist Casualties, Plutocracy, Dystopia, Spazz, and others booked by Ward or his record label 625 Thrashcore. The majority of fliers are from California but the collection also includes fliers from Japan in both English and Japanese.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
