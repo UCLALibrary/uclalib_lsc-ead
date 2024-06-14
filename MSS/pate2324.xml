@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c8kd247g/">pate2324.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Carole Pateman Papers, 1959-2009
+                    <num>LSC.2324</num>
+                </titleproper>
+                <titleproper type="filing">Pateman (Carole) Papers</titleproper>
+                <author>Finding aid prepared by Julie Botnick, under the supervision of Angel Diaz, 2018.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 08 May 2018.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-05-08T09:05-0700</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>DACS</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Carole Pateman papers</unittitle>
+            <unitid>LSC.2324</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.0 linear feet</extent>
+                <extent>(9 boxes and 2 half boxes)</extent>
+            </physdesc>
+            <unitdate normal="1960/1980" type="bulk">Bulk, 1960-1980</unitdate>
+            <unitdate normal="1959/2009" type="inclusive">1959-2009</unitdate>
+            <abstract id="ref2" label="Abstract">Carole Pateman (1940- ) is a Distinguished Professor Emeritus in the UCLA Department of Political Science. She was the first woman President of the International Political Science Association (1991-1994) and was President of the American Political Science Association (2009-2011). Her books include 
+                <emph render="italic">Participation and Democratic Theory</emph> (1970), 
+                <emph render="italic">The Problem of Political Obligation</emph> (1985), 
+                <emph render="italic">The Sexual Contract</emph> (1988), and 
+                <emph render="italic">The Disorder of Women: Democracy, Feminism and Political Theory</emph> (1989). The collection consists of materials related to Pateman's career as a scholar and professor, her published works, as well as her collection of publications, clippings, and ephemera from the 1960s and 1970s related to anarchism, socialism, labor organizing, war resistance, and civil disobedience.</abstract>
+            <langmaterial id="ref72" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref3" label="Physical Location">Stored off-site at SRLF. All request to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname source="ingest">Pateman, Carole</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref4">
+            <head>Conditions on Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Conditions on Use and Reproduction</head>
+            <p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>[Identification of item], Carole Pateman papers (Collection 2324). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Provenance/Source of Acquisition</head>
+            <p>Carole Pateman; Gift; 2016.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Processed by Julie Botnick in 2018 under the supervision of M. Angel Diaz in UCLA Library Special Collections.</p>
+        </processinfo>
+        <odd id="ref9">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=8108418">8108418</extref></p>
+        </odd>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Carole Pateman was born in Sussex, England on December 11, 1940. From a working-class family, Pateman benefited from British social reforms of the 1940s which allowed her to attend Oxford University through merit-based examinations, where she earned her BA, MA, and PhD. Pateman was appointed to the Department of Political Science at UCLA in 1990 and taught there until becoming a professor emeritus. Pateman was the first woman President of the International Political Science Association (1991-1994) and President of American Political Science Association (2009-2011). She was awarded honorary doctorates from the Australian National University, the National University of Ireland, and Helsinki University. Her accomplishments include: Fellow of the Australian Academy of Social Sciences (1980), the American Academy for Arts and Sciences (1996), and the British Academy (2007). Pateman is known for her books 
+                <emph render="italic">Participation and Democratic Theory</emph> (1970), 
+                <emph render="italic">The Problem of Political Obligation</emph> (1985), 
+                <emph render="italic">The Sexual Contract</emph> (1988), and 
+                <emph render="italic">The Disorder of Women: Democracy, Feminism and Political Theory</emph> (1989).</p>
+        </bioghist>
+        <scopecontent id="ref11">
+            <head>Scope and Contents note</head>
+            <p>The collection consists of materials related to UCLA political science faculty Carole Pateman, including materials related to her work as a professor and scholar. A highlight is her collection of publications, clippings, and ephemera from the late 1950s through the 1970s related to anarchism, socialism, labor organizing, war resistance, and civil disobedience. The collection also includes materials from courses taught, lectures, published works, and correspondence.</p>
+            <p></p>
+        </scopecontent>
+        <arrangement id="ref12">
+            <head>Organization and Arrangement</head>
+            <p>Arranged in the following series: 
+                <list type="simple">
+                    <item>Series 1: Anarchy publications, 1960-2001</item>
+                    <item>Series 2: Academic work, 1985-2009</item>
+                </list></p>
+        </arrangement>
+        <relatedmaterial id="ref73">
+            <head>Related Material</head>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.riamco.org/render.php?eadid=US-RPB-ms2016.016&amp;view=title">The Carole Pateman papers, MS.2016.016.</extref> Available at Feminist Theory Archive, Brown University Library.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Pateman, Carole--Archives.</persname>
+            <corpname rules="rda" source="naf">University of California, Los Angeles. Department of Political Science--Faculty--Archives.</corpname>
+            <subject source="lcsh">Anarchism</subject>
+            <subject source="lcsh">Communism</subject>
+            <subject source="lcsh">Labor</subject>
+            <occupation source="lcsh">Political scientists--California--Los Angeles--Archives.</occupation>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Series 1: Anarchy publications</unittitle>
+                    <unitdate normal="1960/1975" type="bulk">Bulk, 1960-1975</unitdate>
+                    <unitdate normal="1959/2001" type="inclusive">1959-2001</unitdate>
+                </did>
+                <scopecontent id="ref49">
+                    <head>Scope and Contents note</head>
+                    <p>Series includes fliers, pamphlets, and other ephemera primarily from the late 1950s through the 1970s related to anarchism, socialism, labor organizing, war resistance, and civil disobedience. The materials are mainly from the United Kingdom and United States. Also includes newspaper clippings about these topics, some are attributed to Pateman, some are attributed to other authors, and some are unattributed.</p>
+                </scopecontent>
+                <arrangement id="ref50">
+                    <head>Organization and Arrangement</head>
+                    <p>Items are organized by publication title and by subject.</p>
+                </arrangement>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 1-8</unittitle>
+                        <container id="cid11671059" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11671059" type="Folder">1</container>
+                        <unitdate>1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 9, 11, 15-20</unittitle>
+                        <container id="cid11671058" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11671058" type="Folder">2</container>
+                        <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 21-28</unittitle>
+                        <container id="cid11671057" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11671057" type="Folder">3</container>
+                        <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 29-36</unittitle>
+                        <container id="cid11671056" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11671056" type="Folder">4</container>
+                        <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 37-44</unittitle>
+                        <container id="cid11671055" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11671055" type="Folder">5</container>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 45-47, 51-53, 55</unittitle>
+                        <container id="cid11671054" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11671054" type="Folder">6</container>
+                        <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 56-63</unittitle>
+                        <container id="cid11671053" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11671053" type="Folder">7</container>
+                        <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 64-71</unittitle>
+                        <container id="cid11671052" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11671052" type="Folder">8</container>
+                        <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 72-79</unittitle>
+                        <container id="cid11671051" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11671051" type="Folder">9</container>
+                        <unitdate>1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 80-87</unittitle>
+                        <container id="cid11671050" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11671050" type="Folder">1</container>
+                        <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 88-95</unittitle>
+                        <container id="cid11671049" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11671049" type="Folder">2</container>
+                        <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 96-101, 103-104</unittitle>
+                        <container id="cid11671048" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11671048" type="Folder">3</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 105-112</unittitle>
+                        <container id="cid11671047" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11671047" type="Folder">4</container>
+                        <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy</emph> 113-118</unittitle>
+                        <container id="cid11671046" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11671046" type="Folder">5</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy Second Series</emph> 1-7</unittitle>
+                        <container id="cid11671045" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11671045" type="Folder">6</container>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Anarchy Second Series</emph> 8-15</unittitle>
+                        <container id="cid11671044" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11671044" type="Folder">7</container>
+                        <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Peace News</emph> and 
+                            <emph render="italic">Radical Education Project</emph></unittitle>
+                        <container id="cid11671043" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11671043" type="Folder">8</container>
+                        <unitdate>circa 1960-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">CIRA</emph> 20-22</unittitle>
+                        <container id="cid11671042" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11671042" type="Folder">9</container>
+                        <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">CIRA</emph> 23-25</unittitle>
+                        <container id="cid11671041" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11671041" type="Folder">1</container>
+                        <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Civil disobedience pamphlets</unittitle>
+                        <container id="cid11671040" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11671040" type="Folder">2-3</container>
+                        <unitdate normal="1960/2001" type="inclusive">1960-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Labor pamphlets</unittitle>
+                        <container id="cid11671038" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid11671038" type="Folder">2</container>
+                        <container id="cid11671039" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11671039" type="Folder">4-5</container>
+                        <unitdate normal="1960/2001" type="inclusive">1960-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Socialism pamphlets</unittitle>
+                        <container id="cid11671037" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11671037" type="Folder">6-7</container>
+                        <unitdate normal="1960/2001" type="inclusive">1960-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>War resistance pamphlets</unittitle>
+                        <container id="cid11671035" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11671035" type="Folder">8</container>
+                        <container id="cid11671036" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid11671036" type="Folder">1-2</container>
+                        <unitdate normal="1960/2001" type="inclusive">1960-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Anarchism pamphlets</unittitle>
+                        <container id="cid11671034" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid11671034" type="Folder">3</container>
+                        <container id="cid11671033" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid11671033" type="Folder">3-7</container>
+                        <unitdate normal="1960/2001" type="inclusive">1960-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Inside Story</emph></unittitle>
+                        <container id="cid11671032" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid11671032" type="Folder">8</container>
+                        <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Bulletin of Anarchist Research</emph></unittitle>
+                        <container id="cid11671030" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid11671030" type="Folder">9</container>
+                        <container id="cid11671031" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11671031" type="Folder">1</container>
+                        <unitdate normal="1986/1988" type="inclusive">1986-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Solidarity</emph></unittitle>
+                        <container id="cid11671029" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11671029" type="Folder">2-3</container>
+                        <unitdate>circa 1966-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Half a Century of Revolutionary Struggle</emph></unittitle>
+                        <container id="cid11671028" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11671028" type="Folder">4</container>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>War resistance fliers</unittitle>
+                        <container id="cid11671027" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11671027" type="Folder">5</container>
+                        <unitdate>circa 1959-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Politics and organizing clippings</unittitle>
+                        <container id="cid11671026" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11671026" type="Folder">6</container>
+                        <unitdate normal="1973/1994" type="inclusive">1973-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>War resistance clippings</unittitle>
+                        <container id="cid11671025" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid11671025" type="Folder">1</container>
+                        <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Wildcat</emph> 1, 2, 4-10</unittitle>
+                        <container id="cid11671024" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid11671024" type="Folder">4</container>
+                        <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Libertarian Teacher</emph></unittitle>
+                        <container id="cid11671023" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid11671023" type="Folder">5</container>
+                        <unitdate normal="1967/1971" type="inclusive">1967-1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Daily Chronicle</emph> clippings</unittitle>
+                        <container id="cid11671022" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11671022" type="Folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Newspaper articles</unittitle>
+                        <container id="cid11671021" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11671021" type="Folder">2</container>
+                        <unitdate>circa 1960-1964</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref51" level="series">
+                <did>
+                    <unittitle>Series 2: Academic work</unittitle>
+                    <unitdate normal="1985/2009" type="inclusive">1985-2009</unitdate>
+                </did>
+                <scopecontent id="ref71">
+                    <head>Scope and Contents note</head>
+                    <p>Series includes Pateman's lecture drafts, transcripts, correspondence, materials for courses taught at UCLA, manuscripts, reviews, and discussions of Pateman's books and articles. Series also includes materials relating to Pateman's involvement in the American Academy of Arts &amp; Sciences (AAAS), the American Political Science Association (APSA), the International Political Science Association (IPSA), and photographs of Pateman's international travels.</p>
+                </scopecontent>
+                <arrangement id="ref70">
+                    <head>Arrangement note</head>
+                    <p>Items are organized by event and by publication.</p>
+                </arrangement>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Oxford essays and early lectures</unittitle>
+                        <container id="cid11671020" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11671020" type="Folder">3-4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Course syllabi</unittitle>
+                        <container id="cid11671019" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11671019" type="Folder">5</container>
+                        <unitdate normal="1988/2009" type="inclusive">1988-2009</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Strange Anarchy</emph> by Graham James Baugh</unittitle>
+                        <container id="cid11671018" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11671018" type="Folder">6</container>
+                        <unitdate>1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Lecture drafts and transcripts</unittitle>
+                        <container id="cid11671017" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11671017" type="Folder">7</container>
+                        <container id="cid11671016" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid11671016" type="Folder">1-5</container>
+                        <unitdate>circa 1990-2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Lecture correspondence and publicity</unittitle>
+                        <container id="cid11671015" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid11671015" type="Folder">1-2</container>
+                        <unitdate normal="1982/1995" type="inclusive">1982-1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>The Jefferson Memorial Lectures</unittitle>
+                        <container id="cid11671014" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid11671014" type="Folder">3</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>The Second York Lecture in Political Science</unittitle>
+                        <container id="cid11671013" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid11671013" type="Folder">4</container>
+                        <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>The Wesson Lectures in Problems of Democracy</unittitle>
+                        <container id="cid11671012" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid11671012" type="Folder">5-7</container>
+                        <unitdate normal="1992/2000" type="inclusive">1992-2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>McDonald Constitutional Lecture</unittitle>
+                        <container id="cid11671011" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671011" type="Folder">1</container>
+                        <unitdate>1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Vilhelm Aubert Memorial Lecture</unittitle>
+                        <container id="cid11671010" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671010" type="Folder">2</container>
+                        <unitdate>1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Sir Douglas Robb Lecture</unittitle>
+                        <container id="cid11671009" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671009" type="Folder">3</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid11671008" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671008" type="Folder">4-5</container>
+                        <unitdate>circa 1990-2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">The Sexual Contract</emph>: correspondence and reviews</unittitle>
+                        <container id="cid11671007" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671007" type="Folder">6</container>
+                        <unitdate normal="1989/2002" type="inclusive">1989-2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">The Problem of Political Obligation</emph>: correspondence and reviews</unittitle>
+                        <container id="cid11671006" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671006" type="Folder">7</container>
+                        <unitdate normal="1980/1999" type="inclusive">1980-1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Reviews and discussions of Pateman's work</unittitle>
+                        <container id="cid11671005" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671005" type="Folder">8</container>
+                        <unitdate normal="1989/1992" type="inclusive">1989-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>AAAS and APSA election correspondence</unittitle>
+                        <container id="cid11671004" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671004" type="Folder">9</container>
+                        <unitdate normal="1996/1998" type="inclusive">1996-1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Genesis, Fathers and Wives</unittitle>
+                        <container id="cid11671003" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671003" type="Folder">10</container>
+                        <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>IPSA meeting trips photo album</unittitle>
+                        <container id="cid11671001" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11671001" type="Folder">11-12</container>
+                        <container id="cid11671002" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid11671002" type="Folder">1-3</container>
+                        <unitdate normal="1987/1994" type="inclusive">1987-1994</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
