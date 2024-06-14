@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Under_revision" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC">wing2327.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Michael Allen Wingfield papers, 1969-1982
+                    <num>LSC.2327</num>
+                </titleproper>
+                <titleproper type="filing">Wingfield (Michael Allen) papers</titleproper>
+                <author>Finding aid prepared by Sonia Collazo and Jason Hong, 2013; Processed by Cecilia Tsai with supervision from Kelly Besser, 2017.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 2018 May 15</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-05-16T11:38-0700</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Michael Allen Wingfield papers</unittitle>
+            <unitid>LSC.2327</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.8 linear feet</extent>
+                <extent>(2 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1969/1982" type="inclusive">1969-1982</unitdate>
+            <abstract id="ref2" label="Abstract">Michael Allen Wingfield, former UCLA engineering graduate student, was part of a team responsible for installing the Interface Message Processor (IMP) and creating the first Advanced Research Projects Agency Network (ARPANET) node at the University of California, Los Angeles. He designed the hardware interface linking the Scientific Data Systems (SDS) Sigma 7 computer at UCLA with an IMP to connect to the ARPANET in 1969, making UCLA the first site to receive an IMP. He also implemented Transmission Control Protocol/Internet Protocol (TCP/IP) for Unix, a family of multiuser computer operating systems, in 1979. His papers detail the design specifications of the IMP for ARPANET and the TCP/IP source code for UNIX, and include: handwritten notes, manuals, specifications, computer printouts, and photographs.</abstract>
+            <langmaterial id="ref71" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref70" label="Physical Location">Stored off-site at SRLF. All requests to access special collections materials must be made in advance through our electronic paging system using the "Request items" button.</physloc>
+            <origination label="Creator">
+                <persname source="ingest" role="Programmer (prd)">Wingfield, Michael Allen</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref74">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref79">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Copyright to portions of this collection has been assigned to the UCLA Library Special Collections. The library can grant permission to publish for materials to which it holds the copyright. Commercial use may require additional rights that must be determined and obtained by the researcher. All requests for copyright permission to publish must be submitted in writing to Library Special Collections. Credit shall be given as follows: The Regents of the University of California on behalf of the UCLA Library Special Collections.</p>
+        </userestrict>
+        <prefercite id="ref67">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Michael Allen Wingfield papers (Collection 2327). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref8">
+            <head>Provenance/Source of Acquisition</head>
+            <p>Donated by Michael Allen Wingfield, 2011.</p>
+        </acqinfo>
+        <custodhist id="ref78">
+            <head>Custodial History</head>
+            <p>This collection was acquired by University Archivist Charlotte Brown for a proposed Kleinrock Center for Internet Studies (KCIS) at UCLA in 2011. The former collection number was KCIS003.</p>
+        </custodhist>
+        <processinfo id="ref9">
+            <head>Processing Information</head>
+            <p>Processed by Sonia Collazo and Jason Hong in 2013 with support from UCLA University Archivist Charlotte Brown and Kleinrock Internet History Center. Processed by Cecilia Tsai with supervision from Kelly Besser, 2017.</p>
+        </processinfo>
+        <odd id="ref72">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=8133227">8133227</extref></p>
+        </odd>
+        <bioghist id="ref10">
+            <head>Biography/History</head>
+            <p>In June of 1969, Michael Allen Wingfield, an engineering graduate student, was asked by Steve Crocker at UCLA to design the hardware interface between the Scientific Data Systems (SDS) Sigma 7 computer and an Interface Message Processor (IMP) from Bolt, Beranek and Newman (BBN) to connect the UCLA system as the first node on the Advanced Research Projects Agency Network (ARPANET), the precursor to the internet. After reviewing the BBN 1822 IMP interface specification, Wingfield drew up flow charts, logic diagrams, and a test program for the IMP when it was received from BBN in September 1969.</p>
+            <p>The ARPANET, now the internet, was born on August 30, 1969 when BBN delivered the first IMP to Professor Leonard Kleinrock's Network Measurements Center, a role to which UCLA was assigned as one of the first four sites of the ARPANET to provide either network support services or unique resources. Kleinrock and his students, including Crocker, were deeply involved in the development of techniques to monitor the ARPANET's early performance. Their presence made it natural that UCLA obtained the first node on the ARPANET.</p>
+            <p>In 1976, Wingfield was hired by BBN, and in 1979, he went on to become a project manager with the National Bureau of Standards to provide a three-node network and the latest protocols. During this time, Vint Cerf, Jon Postel, and others were developing the Transmission Control Protocol/Internet Protocol (TCP/IP) to replace the Network Control Protocol (NCP) in order to better span interconnected networks. When the TCP4 protocol was specified, Wingfield implemented TCP/IP on a UNIX computer using the C programming language.</p>
+        </bioghist>
+        <scopecontent id="ref11">
+            <head>Scope and Content</head>
+            <p>The Michael Allen Wingfield papers include handwritten notes, manuals, guides, booklets, photographs which detail the design of the Interface Message Processor (IMP), and computer printouts which include the source code for Transmission Control Protocol/Internet Protocol (TCP/IP) that Wingfield wrote for UNIX.</p>
+        </scopecontent>
+        <arrangement id="ref12">
+            <head>Organization and Arrangement</head>
+            <p>The collection is arranged into the following series: 
+                <list type="simple">
+                    <item>Series 1: Interface Message Processor (IMP)-Host Interface Specifications</item>
+                    <item>Series 2: ARPANET Manuals and Workbooks</item>
+                    <item>Series 3: Source Code for TCP/IP for UNIX</item>
+                </list></p>
+            <p>Within Series 2, manuals and documents are arranged chronologically. Within Series 3, the computer code was kept in its existing order to reflect the program design.</p>
+        </arrangement>
+        <relatedmaterial id="ref76">
+            <head>Related Material</head>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c8kd240b/">Leonard Kleinrock papers</extref>. Available at UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c8qf8v4p/">Computer Science Department. Student papers, abstracts, and reports. 1965-1977.</extref>. Available at Library Special Collections, University Archives, UCLA.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">United States. Advanced Research Projects Agency.</corpname>
+            <persname source="ingest">Wingfield, Michael Allen -- Archives</persname>
+            <subject source="lcsh">ARPANET (Computer network).</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref14" level="series">
+                <did>
+                    <unittitle>Interface Message Processor (IMP)-Host Interface Specifications</unittitle>
+                    <unitdate normal="1969/1978" type="inclusive">1969-1978</unitdate>
+                </did>
+                <scopecontent id="ref31">
+                    <head>Scope and Contents note</head>
+                    <p>Series 1 contains the specifications for the IMP-Host Interface linking the SDS Sigma 7 computer at UCLA with the BBN Interface Message Processor (IMP) to connect to the ARPANET and includes handwritten notes, manuals, photos, and computer printouts, including a printout of the first test program for the IMP-Host Interface.</p>
+                </scopecontent>
+                <c id="ref16" level="file">
+                    <did>
+                        <unittitle>First program for Testing the IMP-Host Interface</unittitle>
+                        <container id="cid7220043" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220043" type="Folder">1</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle>Photographs of the IMP and IMP-Host Interface</unittitle>
+                        <container id="cid7220042" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220042" type="Folder">2</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c>
+                <c id="ref18" level="file">
+                    <did>
+                        <unittitle>IMP-Host Interface 1 Interface Specification</unittitle>
+                        <container id="cid7220041" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220041" type="Folder">3</container>
+                        <unitdate>1969 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle>IMP-Host Interface 2 Logic Diagrams</unittitle>
+                        <container id="cid7220040" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220040" type="Folder">4</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle>IMP-Host Interface 3 PIN Name</unittitle>
+                        <container id="cid7220039" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220039" type="Folder">5</container>
+                        <unitdate>1969 October 6</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>IMP-Host Interface 4 PIN Number</unittitle>
+                        <container id="cid7220038" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220038" type="Folder">6</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>IMP-Host Interface 5 PIN Name by Board</unittitle>
+                        <container id="cid7220037" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220037" type="Folder">7</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>IMP-Host Interface 6 Timing and Flow Charts</unittitle>
+                        <container id="cid7220036" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220036" type="Folder">8</container>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>Report No. 1822 IMP 1 Specifications</unittitle>
+                        <container id="cid7220035" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220035" type="Folder">9</container>
+                        <unitdate>1978 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Report No. 1822 IMP 2 Appendices</unittitle>
+                        <container id="cid7220034" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220034" type="Folder">10</container>
+                        <unitdate normal="1978/1978">1978 May</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref32" level="series">
+                <did>
+                    <unittitle>ARPANET Manuals and Workbooks</unittitle>
+                    <unitdate normal="1972/1982" type="inclusive">1972-1982</unitdate>
+                </did>
+                <scopecontent id="ref44">
+                    <head>Scope and Contents note</head>
+                    <p>Series 2 contains manuals detailing scenarios for using the ARPANET at the International Conference on Computer Communication (ICCC), as well as ARPANET and Internet network protocols.</p>
+                </scopecontent>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Scenarios Booklet for ICCC</unittitle>
+                        <container id="cid7220033" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220033" type="Folder">11</container>
+                        <unitdate>1972 October 24-26</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>ARPA Network Current Network Protocols</unittitle>
+                        <container id="cid7220032" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid7220032" type="Folder">12</container>
+                        <unitdate>1974 December</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle>IP Transition Workbook 1 Introduction</unittitle>
+                        <container id="cid7220031" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220031" type="Folder">1</container>
+                        <unitdate>1982 March</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>IP Transition Workbook 2 Network Level</unittitle>
+                        <container id="cid7220030" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220030" type="Folder">2</container>
+                        <unitdate>1982 March</unitdate>
+                    </did>
+                </c>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle>IP Transition Workbook 3 Host Level</unittitle>
+                        <container id="cid7220029" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220029" type="Folder">3</container>
+                        <unitdate>1982 March</unitdate>
+                    </did>
+                </c>
+                <c id="ref39" level="file">
+                    <did>
+                        <unittitle>IP Transition Workbook 4 Application Level</unittitle>
+                        <container id="cid7220028" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220028" type="Folder">4</container>
+                        <unitdate>1982 March</unitdate>
+                    </did>
+                </c>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle>IP Transition Workbook 5 Appendices</unittitle>
+                        <container id="cid7220027" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220027" type="Folder">5</container>
+                        <unitdate>1982 March</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle>IP Implementation Guide</unittitle>
+                        <container id="cid7220026" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220026" type="Folder">6</container>
+                        <unitdate>1982 August</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref46" level="series">
+                <did>
+                    <unittitle>TCP/IP Source Code for UNIX</unittitle>
+                    <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+                </did>
+                <scopecontent id="ref62">
+                    <head>Scope and Contents note</head>
+                    <p>Series 3 contains the C programming language source code implementing TCP/IP on a UNIX computer and includes computer printouts of header and C program files and a report on TCP Implementation Status.</p>
+                </scopecontent>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle>1 tcpstru.h</unittitle>
+                        <container id="cid7220025" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220025" type="Folder">7</container>
+                        <unitdate>1979 July 30</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>2 tcp.h</unittitle>
+                        <container id="cid7220024" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220024" type="Folder">8</container>
+                        <unitdate>1979 February 7</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>3 hdrmasks.h</unittitle>
+                        <container id="cid7220023" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220023" type="Folder">9</container>
+                        <unitdate>1979 June 5</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle>4 cmdmsg.h</unittitle>
+                        <container id="cid7220022" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220022" type="Folder">10</container>
+                        <unitdate>1979 July 2</unitdate>
+                    </did>
+                </c>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle>5 tcp.c</unittitle>
+                        <container id="cid7220021" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220021" type="Folder">11</container>
+                        <unitdate>1980 June 11</unitdate>
+                    </did>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle>6 psipin.c</unittitle>
+                        <container id="cid7220020" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220020" type="Folder">12</container>
+                        <unitdate>1980 June 11</unitdate>
+                    </did>
+                </c>
+                <c id="ref53" level="file">
+                    <did>
+                        <unittitle>7 psipout.c</unittitle>
+                        <container id="cid7220019" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220019" type="Folder">13</container>
+                        <unitdate>1980 June 11</unitdate>
+                    </did>
+                </c>
+                <c id="ref54" level="file">
+                    <did>
+                        <unittitle>8 auth.c</unittitle>
+                        <container id="cid7220018" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220018" type="Folder">14</container>
+                        <unitdate>1979 February 14</unitdate>
+                    </did>
+                </c>
+                <c id="ref55" level="file">
+                    <did>
+                        <unittitle>9 cmdin.c</unittitle>
+                        <container id="cid7220017" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220017" type="Folder">15</container>
+                        <unitdate>1979 July 2</unitdate>
+                    </did>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle>10 tcplib.c</unittitle>
+                        <container id="cid7220016" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220016" type="Folder">16</container>
+                        <unitdate>1979 February 26</unitdate>
+                    </did>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle>11 tcpuser.c</unittitle>
+                        <container id="cid7220015" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220015" type="Folder">17</container>
+                        <unitdate>1979 January 8</unitdate>
+                    </did>
+                </c>
+                <c id="ref58" level="file">
+                    <did>
+                        <unittitle>12 ftpserv.c</unittitle>
+                        <container id="cid7220014" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220014" type="Folder">18</container>
+                        <unitdate>1979 April 27</unitdate>
+                    </did>
+                </c>
+                <c id="ref59" level="file">
+                    <did>
+                        <unittitle>13 send.c</unittitle>
+                        <container id="cid7220013" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220013" type="Folder">19</container>
+                        <unitdate>1979 April 27</unitdate>
+                    </did>
+                </c>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle>14 File: Pipe Output</unittitle>
+                        <container id="cid7220012" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220012" type="Folder">20</container>
+                        <unitdate normal="1978/1979" type="inclusive">1978 October 29 - 1979 February 15</unitdate>
+                    </did>
+                </c>
+                <c id="ref61" level="file">
+                    <did>
+                        <unittitle>TCP Implementation Status</unittitle>
+                        <container id="cid7220011" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid7220011" type="Folder">21</container>
+                        <unitdate>1979 May 3</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
