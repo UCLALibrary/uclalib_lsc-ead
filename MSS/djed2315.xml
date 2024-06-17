@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c86d5zs9/">djed2315.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Jacqueline C. DjeDje papers, 1939-2004
+                    <num>LSC.2315</num>
+                </titleproper>
+                <titleproper type="filing">DjeDJe (Jacqueline C.) papers</titleproper>
+                <author>Finding aid prepared by Angel Diaz, 2017; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 9 August 2017.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-08-14T10:12-0700</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Jacqueline C. DjeDje papers, 1939-2004</unittitle>
+            <unitid>LSC.2315</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.2 linear feet</extent>
+                <extent>(4 document boxes, 1 half box, and 1 flat box)</extent>
+            </physdesc>
+            <unitdate normal="1980/2004" type="bulk">Bulk, 1980-2004</unitdate>
+            <unitdate normal="1939/2004" type="inclusive">1939-2004</unitdate>
+            <abstract id="ref10" label="Abstract">Jacqueline C. DjeDje joined the UCLA faculty in 1979. She was Chair of the UCLA Department of Ethnomusicology and Director of the UCLA Ethnomusicology Archive. DjeDje specialized in African and African American music, West African fiddle music, gospel music, and music historiography. The collection consists of professional and teaching materials, musical event materials, and sheet music.</abstract>
+            <langmaterial id="ref11" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref12" label="Physical Location">Stored off-site at SRLF. Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="aacr" source="naf">DjeDje, Jacqueline Cogdell</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref13">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref14">
+            <head>Conditions Governing Use and Reproduction</head>
+            <p>Copyright to portions of this collection has been assigned to the UCLA Library Special Collections. The library can grant permission to publish for materials to which it holds the copyright. All requests for permission to publish or quote must be submitted in writing to the UCLA Library Special Collections Librarian Special Collections. Credit shall be given as follows: ©The Regents of the University of California on behalf of the UCLA Library Special Collections.</p>
+        </userestrict>
+        <phystech id="ref21">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+            <p>COLLECTION CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </phystech>
+        <odd id="ref23">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=8168356">8168356</extref></p>
+        </odd>
+        <prefercite id="ref15">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Jacqueline C. DjeDje Papers (Collection 2315). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref16">
+            <head>Provenance/Source of Acquisition</head>
+            <p>Gift of Jacqueline C. DjeDje, 2014.</p>
+        </acqinfo>
+        <processinfo id="ref17">
+            <head>Processing Information</head>
+            <p>Processed by Angel Diaz, 2017.</p>
+        </processinfo>
+        <bioghist id="ref18">
+            <head>Biography/History</head>
+            <p>Jacqueline Cogdell DjeDje is Emeritus Professor and former Chair of the UCLA Department of Ethnomusicology (2005-2010) as well as former Director of the UCLA Ethnomusicology Archive (2000-2007). She was born in Jesup, Georgia on November 4, 1948. She received her BA in music from Fisk University in 1970, her MA in ethnomusicology from UCLA in 1972, and PhD in ethnomusicology from UCLA in 1978. Her graduate work focused on African and African-American music. Before joining UCLA’s faculty in 1979, she taught at Tuskegee University from 1975-79.</p>
+            <p>DjeDje taught theoretical area courses in African and African-American music and was director of an African-American vocal ensemble. Much of DjeDje's research focused on performance practices as they relate to the one-string fiddle tradition in West Africa. She is author and editor of several books: 
+                <emph render="italic">Black Music Research Journal</emph> special issue, “Music of Black Los Angeles” (Spring 2011); 
+                <emph render="italic">Fiddling in West Africa: Touching the Spirit in Fulbe, Hausa, and Dagbamba Cultures</emph> (2008); 
+                <emph render="italic">Turn Up the Volume! A Celebration of African Music</emph> (1999); 
+                <emph render="italic">California Soul: Music of African Americans in the West</emph> (co-edited with Eddie S. Meadows, 1998); 
+                <emph render="italic">African Musicology: Current Trends, Vol. 1</emph> (co-edited with William Carter, 1989); 
+                <emph render="italic">African Musicology: Current Trends, Vol. 2</emph> (1992); 
+                <emph render="italic">Distribution of the One String Fiddle in West Africa</emph> (1980); 
+                <emph render="italic">Black Religious Music from Southeast Georgia</emph> (1979); and 
+                <emph render="italic">American Black Spiritual and Gospel Songs from Southeast Georgia: A Comparative Study</emph> (1978).</p>
+        </bioghist>
+        <scopecontent id="ref19">
+            <head>Scope and Content</head>
+            <p>The Jacqueling C. DjeDje papers span from 1939 to 2004 with the bulk of the materials from 1979 to 2004. The collection consists of UCLA Department of Music faculty meeting minutes and correspondence; Ethnomusicology Archive correspondence, meeting agendas, events, and other materials; UCLA events featuring Dje Dje flyers and programs; UCLA Gospel Choir correspondence, programs, flyers, and photographs; Los Angeles and international music event flyers and programs; DjeDje's course syllabi and student work; and sheet music.</p>
+        </scopecontent>
+        <arrangement id="ref20">
+            <head>Organization and Arrangement</head>
+            <p>This collection has been arranged in the following series: 
+                <list type="simple">
+                    <item>Series 1: UCLA files, 1978-2004</item>
+                    <item>Series 2: Teaching materials, circa 1980-2003</item>
+                    <item>Series 3: Sheet music, 1939-1999</item>
+                </list></p>
+            <p>Materials are arranged alphabetically.</p>
+        </arrangement>
+        <relatedmaterial id="ref22">
+            <head>Related Material</head>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c81n8029 ">Jacqueline Cogdell DjeDje Collection</extref></p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="aacr" source="naf">DjeDje, Jacqueline Cogdell -- Archives</persname>
+            <corpname source="naf">University of California, Los Angeles. Department of Ethnomusicology--Faculty. -- Archives</corpname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref3" level="series">
+                <did>
+                    <unittitle>Series 1: UCLA files.</unittitle>
+                    <container id="cid11040002" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11040002" type="Folders">1-8</container>
+                    <container id="cid11040001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11040001" type="Folders">1-14</container>
+                    <unitdate normal="1978/2004" type="inclusive">1978-2004</unitdate>
+                </did>
+                <scopecontent id="ref6">
+                    <head>Scope and Content</head>
+                    <p>Box 1-2: UCLA files are organized alphabetically by name, project, publication, event or subject. Materials include correspondence; conference agendas and notes; UCLA Department of Music faculty meeting minutes; Ethnomusicology Archive correspondence, meeting agendas, events, and other materials; UCLA events featuring Dje Dje flyers and programs; UCLA Gospel Choir correspondence, programs, flyers, and photographs; Los Angeles music event flyers and programs; international music event flyers and programs; music catalogs; and world music band, Nipa's album on compacts discs and Professor Ian Hall's musical direction on audio cassettes.</p>
+                </scopecontent>
+                <phystech id="ref7">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>SERIES CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                    <p>SERIES CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                </phystech>
+            </c01>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Series 2: Teaching materials.</unittitle>
+                    <container id="cid11044001" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11044001" type="Folders">9-19</container>
+                    <container id="cid11044002" type="Box" label="Mixed materials">4</container>
+                    <container parent="cid11044002" type="Folder">1</container>
+                    <container id="cid11044003" type="Box" label="Mixed materials">3</container>
+                    <container parent="cid11044003" type="Folders">1-9</container>
+                    <unitdate>circa 1980-2003</unitdate>
+                </did>
+                <scopecontent id="ref8">
+                    <head>Scope and Content</head>
+                    <p>Box 2-4: Teaching materials are organized by course number, starting with materials from Department of Music and followed by Department of Ethnomusicology. Materials include DjeDje's course syllabi, assignment descriptions, course readers, lecture notes, and student work.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Series 3: Sheet music.</unittitle>
+                    <container id="cid11044004" type="Box" label="Mixed materials">6</container>
+                    <container parent="cid11044004" type="Folders">1-4</container>
+                    <container id="cid11044005" type="Box" label="Mixed materials">5</container>
+                    <container parent="cid11044005" type="Folders">1-4</container>
+                    <container id="cid11044006" type="Box" label="Mixed materials">4</container>
+                    <container parent="cid11044006" type="Folders">2-10</container>
+                    <unitdate normal="1939/1999" type="inclusive">1939-1999</unitdate>
+                </did>
+                <scopecontent id="ref9">
+                    <head>Scope and Content</head>
+                    <p>Box 4-6: Sheet music organized in alphabetical order, by composer's last name or genre. Materials include published or photocopied sheet music for gospel songs, Broadway musicals, popular music, African music, and spirituals.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
