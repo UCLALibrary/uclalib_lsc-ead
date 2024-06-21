@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC">whip2306.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Derek Whipple Collection of Zines, 1990-2003
+                    <num>2306</num>
+                </titleproper>
+                <titleproper type="filing">Whipple (Derek) Collection of Zines</titleproper>
+                <author>Finding aid prepared by Sharif Dumani</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>June 2017</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-06-16T11:59-0700</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Derek Whipple collection of zines</unittitle>
+            <unitid>2306</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 linear feet</extent>
+                <extent>(13 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1990/2003" type="inclusive">1990-2003</unitdate>
+            <abstract id="ref2" label="Abstract">
+                <emph render="italic">Maximumrocknroll</emph> is a San Francisco based punk rock fanzine established in 1982. The collection includes a nearly complete chronology of issues from 1991-2003, along with a small assortment of punk rock zines from 1992-2003 including 
+                <emph render="italic">Book Your Own Fucking Life</emph>, 
+                <emph render="italic">Razorcake</emph>, 
+                <emph render="italic">Suburban Voice</emph>, 
+                <emph render="italic">Heartattack</emph>, and 
+                <emph render="italic">Linfit</emph>.</abstract>
+            <langmaterial id="ref81" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref3" label="Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+        </did>
+        <accessrestrict id="ref4">
+            <head>Restrictions on Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Restrictions on Use and Reproduction</head>
+            <p>Property rights to the physical object belong to UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where UCLA Library Special Collections does not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Derek Whipple Collection of Zines (Collection 2306). UCLA Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Provenance/Source of Acquisition</head>
+            <p>Derek Whipple; gift; 2016.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Information</head>
+            <p>Processed by Sharif Dumani in 2017 under the supervision of Kelly Kress.</p>
+        </processinfo>
+        <bioghist id="ref9">
+            <head>Biography/History</head>
+            <p>A collection of punk zines, largely of 
+                <emph render="italic">Maximumrocknroll</emph>, and assorted issues of 
+                <emph render="italic">Book Your Own Fucking Life</emph>, 
+                <emph render="italic">Razorcake</emph>, 
+                <emph render="italic">Heartattack</emph>, 
+                <emph render="italic">Linfit</emph>, and 
+                <emph render="italic">Suburban Voice</emph>, donated by Derek Whipple. Derek Whipple is a frequent contributor to 
+                <emph render="italic">Razorcake</emph> zine. Whipple also works as a camera operator in the television and film industry.</p>
+            <p>San Francisco’s 
+                <emph render="italic">Maximumrocknroll</emph> is one of the world’s longest running punk zines. Beginning in 1977 as a radio show on KPFA in Berkley, the program eventually moved to print form and officially became a fanzine in 1982. Since then, 
+                <emph render="italic">Maximumrocknroll</emph> has become not only a highly regarded punk zine, but also a record label, radio podcast, and news source for a global punk rock community.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content</head>
+            <p>This collection of zines covers a period from 1990 to 2003, mostly containing issues of 
+                <emph render="italic">Maximumrocknroll</emph> in chronological order from the years 1990-2003, but contains other zines including 
+                <emph render="italic">Book Your Own Fucking Life</emph>, 
+                <emph render="italic">Razorcake</emph>, 
+                <emph render="italic">Heartattack</emph>, 
+                <emph render="italic">Suburban Voice</emph>, and 
+                <emph render="italic">Linfit</emph>. The assortment of zines vary from glossy front covers to photocopied paper. All zines are from California except for 
+                <emph render="italic">Suburban Voice</emph>, from Massachusetts.</p>
+        </scopecontent>
+        <arrangement id="ref11">
+            <head>Arrangement</head>
+            <p>This collection has been arranged in the following series: Series 1: 
+                <emph render="italic">Maximumrocknroll</emph>, 1990-2003 Series 2: 
+                <emph render="italic">Book Your Own Fucking Life</emph>, 1992-2001 Series 3. Other zines, 2003</p>
+        </arrangement>
+        <odd id="ref82">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=8025510">8025510</extref></p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Punk culture--California--20th century</subject>
+            <genreform source="lcsh">Zines</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Series 1: 
+                        <emph render="italic">Maximumrocknroll</emph></unittitle>
+                    <unitdate normal="1990/2003" type="inclusive">1990-2003</unitdate>
+                </did>
+                <scopecontent id="ref67">
+                    <head>Scope and Content</head>
+                    <p>Collection includes a near-complete chronological run of 
+                        <emph render="italic">Maximumrocknroll</emph> from 1990-2003 that belonged to Derek Whipple. Content of zines include interviews, music reviews, scene reports, photos, and artwork with punk bands and artists.</p>
+                </scopecontent>
+                <arrangement id="ref68">
+                    <head>Arrangement</head>
+                    <p>
+                        <emph render="italic">Maximumrocknroll</emph> zines arranged chronologically by year and issue series number, from 1990-2003.</p>
+                </arrangement>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Nos. 91-93</unittitle>
+                        <container id="cid11155060" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11155060" type="Folder">1</container>
+                        <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Nos. 94-96</unittitle>
+                        <container id="cid11155059" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11155059" type="Folder">2</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Nos. 97-99</unittitle>
+                        <container id="cid11155058" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11155058" type="Folder">3</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Nos. 100 (pts. 1+2), 101</unittitle>
+                        <container id="cid11155057" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11155057" type="Folder">4</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Nos. 102-104</unittitle>
+                        <container id="cid11155056" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11155056" type="Folder">5</container>
+                        <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Nos. 107-109</unittitle>
+                        <container id="cid11155055" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid11155055" type="Folder">6</container>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Nos. 110 (pts. 1+2), 111</unittitle>
+                        <container id="cid11155054" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11155054" type="Folder">1</container>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Nos. 112-114</unittitle>
+                        <container id="cid11155053" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11155053" type="Folder">2</container>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Nos. 115-117</unittitle>
+                        <container id="cid11155052" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11155052" type="Folder">3</container>
+                        <unitdate>1992-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Nos. 118-120</unittitle>
+                        <container id="cid11155051" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11155051" type="Folder">4</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Nos. 121-123</unittitle>
+                        <container id="cid11155050" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid11155050" type="Folder">5</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Nos. 124-126</unittitle>
+                        <container id="cid11155049" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11155049" type="Folder">1</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Nos. 127-128</unittitle>
+                        <container id="cid11155048" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11155048" type="Folder">2</container>
+                        <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Nos. 129-130</unittitle>
+                        <container id="cid11155047" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11155047" type="Folder">3</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Nos.131-132</unittitle>
+                        <container id="cid11155046" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11155046" type="Folder">4</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Nos. 133-135</unittitle>
+                        <container id="cid11155045" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11155045" type="Folder">5</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Nos. 136-138</unittitle>
+                        <container id="cid11155044" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid11155044" type="Folder">6</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Nos. 139-141</unittitle>
+                        <container id="cid11155043" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid11155043" type="Folder">1</container>
+                        <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Nos. 142-144</unittitle>
+                        <container id="cid11155042" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid11155042" type="Folder">2</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Nos. 145-147</unittitle>
+                        <container id="cid11155041" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid11155041" type="Folder">3</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Nos. 148-150</unittitle>
+                        <container id="cid11155040" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid11155040" type="Folder">4</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Nos. 151 (pts. 1+2), 152</unittitle>
+                        <container id="cid11155039" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid11155039" type="Folder">5</container>
+                        <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Nos. 153-154</unittitle>
+                        <container id="cid11155038" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11155038" type="Folder">1</container>
+                        <unitdate normal="1996/1996">1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Nos. 155-156 (pts 1+2)</unittitle>
+                        <container id="cid11155037" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11155037" type="Folder">2</container>
+                        <unitdate normal="1996/1996">1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Nos. 157-159</unittitle>
+                        <container id="cid11155036" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11155036" type="Folder">3</container>
+                        <unitdate normal="1996/1996">1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Nos. 160-162</unittitle>
+                        <container id="cid11155035" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11155035" type="Folder">4</container>
+                        <unitdate normal="1996/1996">1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Nos. 163-165</unittitle>
+                        <container id="cid11155034" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid11155034" type="Folder">5</container>
+                        <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Nos. 166-168</unittitle>
+                        <container id="cid11155033" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid11155033" type="Folder">1</container>
+                        <unitdate normal="1997/1997">1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Nos. 169-171</unittitle>
+                        <container id="cid11155032" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid11155032" type="Folder">2</container>
+                        <unitdate normal="1997/1997">1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Nos. 172 (2 copies), 173</unittitle>
+                        <container id="cid11155031" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid11155031" type="Folder">3</container>
+                        <unitdate normal="1997/1997">1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Nos. 174-176</unittitle>
+                        <container id="cid11155030" type="Box" label="Mixed materials">6</container>
+                        <container parent="cid11155030" type="Folder">4</container>
+                        <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Nos. 177-179</unittitle>
+                        <container id="cid11155029" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11155029" type="Folder">1</container>
+                        <unitdate normal="1998/1998">1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Nos. 180-182</unittitle>
+                        <container id="cid11155028" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11155028" type="Folder">2</container>
+                        <unitdate normal="1998/1998">1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Nos. 183-185</unittitle>
+                        <container id="cid11155027" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11155027" type="Folder">3</container>
+                        <unitdate normal="1998/1998">1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Nos. 186-189</unittitle>
+                        <container id="cid11155026" type="Box" label="Mixed materials">7</container>
+                        <container parent="cid11155026" type="Folder">4</container>
+                        <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Nos. 190-192</unittitle>
+                        <container id="cid11155025" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid11155025" type="Folder">1</container>
+                        <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Nos. 193-194</unittitle>
+                        <container id="cid11155024" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid11155024" type="Folder">2</container>
+                        <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Nos. 195-197 (2 copies)</unittitle>
+                        <container id="cid11155023" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid11155023" type="Folder">3</container>
+                        <unitdate normal="1999/1999">1999</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Nos. 198-200</unittitle>
+                        <container id="cid11155022" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid11155022" type="Folder">4</container>
+                        <unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Nos. 201-203</unittitle>
+                        <container id="cid11155021" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid11155021" type="Folder">1</container>
+                        <unitdate normal="2000/2000">2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Nos. 204-206</unittitle>
+                        <container id="cid11155020" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid11155020" type="Folder">2</container>
+                        <unitdate normal="2000/2000">2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Nos. 207-210</unittitle>
+                        <container id="cid11155019" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid11155019" type="Folder">3</container>
+                        <unitdate normal="2000/2000">2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Nos. 211-213</unittitle>
+                        <container id="cid11155018" type="Box" label="Mixed materials">9</container>
+                        <container parent="cid11155018" type="Folder">4</container>
+                        <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Nos. 213-214 (2 copies)</unittitle>
+                        <container id="cid11155017" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11155017" type="Folder">1</container>
+                        <unitdate normal="2001/2001">2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Nos. 215-217</unittitle>
+                        <container id="cid11155016" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11155016" type="Folder">2</container>
+                        <unitdate normal="2001/2001">2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Nos. 218,220-221</unittitle>
+                        <container id="cid11155015" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11155015" type="Folder">3</container>
+                        <unitdate normal="2001/2001">2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Nos. 222-225</unittitle>
+                        <container id="cid11155014" type="Box" label="Mixed materials">10</container>
+                        <container parent="cid11155014" type="Folder">4</container>
+                        <unitdate normal="2001/2002" type="inclusive">2001-2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Nos. 226-229</unittitle>
+                        <container id="cid11155013" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid11155013" type="Folder">1</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Nos. 229-231</unittitle>
+                        <container id="cid11155012" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid11155012" type="Folder">2</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Nos. 232-234</unittitle>
+                        <container id="cid11155011" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid11155011" type="Folder">3</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Nos. 235-237</unittitle>
+                        <container id="cid11155010" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid11155010" type="Folder">4</container>
+                        <unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Nos. 238-240</unittitle>
+                        <container id="cid11155009" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid11155009" type="Folder">1</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Nos. 241-243</unittitle>
+                        <container id="cid11155008" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid11155008" type="Folder">2</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Nos. 244-245</unittitle>
+                        <container id="cid11155007" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid11155007" type="Folder">3</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref69" level="series">
+                <did>
+                    <unittitle>Series 2: 
+                        <emph render="italic">Book Your Own Fucking Life</emph></unittitle>
+                    <unitdate normal="1992/2001" type="inclusive">1992-2001</unitdate>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Scope and Content</head>
+                    <p>Seven issues of 
+                        <emph render="italic">Book Your Own Fucking Life</emph> from 1992-2001, that belonged to Derek Whipple. Content of zines include interviews, music reviews, scene reports, photos, and artwork with punk bands and artists.</p>
+                </scopecontent>
+                <arrangement id="ref73">
+                    <head>Arrangement</head>
+                    <p>
+                        <emph render="italic">Book Your Own Fucking Life</emph> zines arranged by year and issue series number.</p>
+                </arrangement>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Nos. 1-2, 4-5</unittitle>
+                        <container id="cid11155006" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid11155006" type="Folder">4</container>
+                        <unitdate normal="1992/1996" type="inclusive">1992-1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Nos. 6, 8-9</unittitle>
+                        <container id="cid11155005" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid11155005" type="Folder">5</container>
+                        <unitdate normal="1997/2001" type="inclusive">1997-2001</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref74" level="series">
+                <did>
+                    <unittitle>Series 3: Other zines</unittitle>
+                    <unitdate normal="2003/2003">2003</unitdate>
+                </did>
+                <scopecontent id="ref79">
+                    <head>Scope and Content</head>
+                    <p>Four punk zines from 2003. All zines from California except for 
+                        <emph render="italic">Suburban Voice</emph>, from Massachusetts. Owned by Derek Whipple. Content of zines include interviews, music reviews, scene reports, photos, and artwork with punk bands and artists.</p>
+                </scopecontent>
+                <arrangement id="ref80">
+                    <head>Arrangement</head>
+                    <p>Arranged alphabetically</p>
+                </arrangement>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Heartattack</emph> No. 38</unittitle>
+                        <container id="cid11155004" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid11155004" type="Folder">1</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Lintfit</emph> No. 1</unittitle>
+                        <container id="cid11155003" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid11155003" type="Folder">2</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Razorcake</emph> No. 15</unittitle>
+                        <container id="cid11155002" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid11155002" type="Folder">3</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Suburban Voice</emph> No. 46</unittitle>
+                        <container id="cid11155001" type="Box" label="Mixed materials">13</container>
+                        <container parent="cid11155001" type="Folder">4</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
