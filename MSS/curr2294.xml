@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC">curr2294.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Dan Curry papers, 1967-2008
+                    <num>LSC.2294</num>
+                </titleproper>
+                <titleproper type="filing">Curry (Dan) papers</titleproper>
+                <author>Finding aid prepared by Sabrina Ponce, 2016; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 28 August 2017.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-08-28T10:10-0700</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard (DACS)</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Dan Curry papers</unittitle>
+            <unitid>LSC.2294</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>7.6 linear feet</extent>
+                <extent>(12 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1987/1991" type="bulk">Bulk, 1987-1991</unitdate>
+            <unitdate normal="1967/2008" type="inclusive">1967-2008</unitdate>
+            <abstract id="ref108" label="Abstract">Dan Curry, born Daniel F. Curry, is an Emmy Award-winning fine artist and filmmaker. He is best known --- and has won seven Emmy awards for --- his work as Visual Effects Producer of 
+                <title render="italic">Star Trek: The Next Generation</title>,
+                <title render="italic"> Star Trek: Deep Space Nine</title>, 
+                <title render="italic">Star Trek: Voyager</title>, and 
+                <title render="italic">Star Trek: Enterprise</title>. This collection documents Curry’s work as visual effects producer of these series, as well as his work on other motion picture and television projects. The bulk of the collection dates from 1987 to 1992, and includes collected screenplays, montage storyboards, memos, recorded material, and Curry’s personal notes and hand-drawn illustrations.</abstract>
+            <langmaterial id="ref110" label="Language of Materials">Materials entirely in English.</langmaterial>
+            <physloc id="ref111" label="Physical Location">Stored off-site at SRLF. All requests to access special collections materials must be made in advance through our electronic paging system, using the "Request items" button.</physloc>
+            <origination label="Creator">
+                <persname rules="rda" source="local">Curry, Dan</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref112">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections materials must be made in advance through our electronic paging system using the "Request items" button.</p>
+        </accessrestrict>
+        <userestrict id="ref113">
+            <head>Conditions Governing Use and Reproduction</head>
+            <p>Property rights to the physical object belong to UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <phystech id="ref120">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
+        </phystech>
+        <prefercite id="ref114">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Dan Curry papers (Collection 2294). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <odd id="ref144">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=8057851">8057851</extref></p>
+        </odd>
+        <acqinfo id="ref115">
+            <head>Provenance/Source of Acquisition</head>
+            <p>This collection was donated by Daniel F. Curry and Ubolvan C. Curry in November 2015.</p>
+        </acqinfo>
+        <processinfo id="ref123">
+            <head>Processing Information</head>
+            <p>Processed by Sabrina Ponce in the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/special-collections/at-this-location/center-primary-research-training-cfprt">Center for Primary Research and Training (CFPRT)</extref> under the supervision of Courtney Dean, 2016.</p>
+        </processinfo>
+        <bioghist id="ref117">
+            <head>Biography/History</head>
+            <p>Dan Curry, born Daniel F. Curry, is an Emmy Award-winning fine artist and filmmaker. Born in New York City in 1946, he graduated from Middlebury College in Vermont with a major in Fine Arts and a minor in Theater. Upon completion of his degree, he joined the Peace Corps and served in Northeast Thailand building small damns and bridges. After his service, he stayed in Asia as a freelance artist where he accepted numerous film, production design, and architectural commissions, a highlight being a commission from the King of Thailand to be a production designer for the Royal Ball.</p>
+            <p>Upon his return to the United States, Curry worked for a time as a biomedical illustrator and a teacher of fine arts at a small college in New York before attending graduate school at Humboldt State University for a Master’s degree in Fine Arts. Upon completion of this degree in the late 1970s, Curry began work in the entertainment industry directing and supervising visual effects, title design, matte painting, and martial arts and weapons design among other elements of the filmmaking process. He is best known – and has won seven Emmy awards for – his work as Visual Effects Producer of
+                <title render="italic"> Star Trek: The Next Generation</title>,
+                <title render="italic"> Star Trek: Deep Space Nine</title>, 
+                <title render="italic">Star Trek: Voyager</title>, and 
+                <title render="italic">Star Trek: Enterprise</title>. Additionally, he directed an episode of 
+                <title render="italic">Star Trek: The Next Generation </title>(1993), and occasionally acted in short films and an episode of 
+                <title render="italic">Star Trek: Deep Space Nine</title> (1993). He continues to work on visual effects for various motion picture and television projects while maintaining an online gallery of his artwork.</p>
+        </bioghist>
+        <scopecontent id="ref118">
+            <head>Scope and Content</head>
+            <p>With material dating between 1967 and 2008, this collection documents Dan Curry’s work as visual effects producer of several 
+                <title render="italic">Star Trek </title>series, as well as his work on other motion picture and television projects. The bulk of the collection dates from 1987 to 1992, during which time Curry was first visual effects supervisor, then visual effects producer of 
+                <title render="italic">Star Trek: The Next Generation</title>. As a result, this collection’s strength lies in the screenplays, montage storyboards, and memos collected by Curry as well as his personal notes and hand-drawn illustrations pertaining to this series. The collection also contains similar, although a lesser amount of, material for
+                <title render="italic"> Star Trek: Deep Space Nine</title>,
+                <title render="italic"> Star Trek: Voyager</title>, and 
+                <title render="italic">Star Trek: Enterprise</title>. Most of the recorded material in the collection includes element reels, comp reels, and episode cuts of 
+                <title render="italic">The Next Generation</title>, but 
+                <title render="italic">Voyager</title> and 
+                <title render="italic">Enterprise</title> are also represented. Finally, the collection also consists of scripts, screenplays, and other records documenting Curry’s work on various film and television projects.</p>
+        </scopecontent>
+        <arrangement id="ref119">
+            <head>Organization and Arrangement</head>
+            <p>This collection is arranged in four series primarily by project type, and therein chronologically. Files were given the title of the specific 
+                <title render="italic">Star Trek </title>episode, motion picture, or television project to which their contents relate. The general arrangement reflects Dan Curry’s original order where present. The series and subseries of this collection are organized as follows: 
+                <list type="simple">
+                    <item>Series 1: 
+                        <title render="italic">Star Trek</title>, circa 1987-2002 
+                        <list type="simple">
+                            <item>Subseries 1.1: 
+                                <title render="italic">Star Trek: The Next Generation</title>, circa 1987-1994</item>
+                            <item>Subseries 1.2: 
+                                <title render="italic">Star Trek: Deep Space Nine</title>, circa 1993-1997</item>
+                            <item>Subseries 1.3: 
+                                <title render="italic">Star Trek: Voyager</title>, circa 1994-2000</item>
+                            <item>Subseries 1.4: 
+                                <title render="italic">Star Trek: Enterprise</title>, circa 2001-2004</item>
+                        </list> </item>
+                    <item>Series 2: 
+                        <title render="italic">Star Trek</title> VHS Tapes, circa 1967-2005</item>
+                    <item>Series 3: Motion Picture Projects, circa 1988-1992</item>
+                    <item>Series 4: Television Projects, 1990-2008</item>
+                </list></p>
+        </arrangement>
+        <relatedmaterial id="ref122">
+            <head>Related Material</head>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c8794958/">Joe Menosky papers, 1983-2005, (bulk 1995-2001). Collection Number: 2250.</extref></p>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/tf5z09n9vr/">Gene Roddenberry Star Trek television series collection, 1966-1969. Collection Number: PASC 62.</extref></p>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/tf038n99s7/">Robert H. Justman Collection of Star Trek Television Series Scripts, 1966-1968. Collection Number: 89. </extref></p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="rda" source="local">Curry, Dan -- Archives</persname>
+            <occupation source="lcsh">Motion picture producers and directors--United States--Archives.</occupation>
+            <occupation source="lcsh">Television producers and directors--United States--Archives.</occupation>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Series 1: 
+                        <title render="italic">Star Trek</title></unittitle>
+                    <unitdate normal="1987/2002" type="inclusive">1987-2002</unitdate>
+                </did>
+                <scopecontent id="ref124">
+                    <head>Scope and Content</head>
+                    <p>This series mostly contains scripts annotated by Curry and montage storyboards for several series of 
+                        <title render="italic">Star Trek</title>. Curry also compiled copies of scripts, memos, hand-drawn screenplays, illustrations, and other personal notes on selected episodes into folders he labeled with these episodes’ titles. These folders are the highlight of the collection, as they document Curry’s creative thought process and the amount of work he put into producing the visual effects for these episodes. Where applicable, multiple folders were created for one file to preserve this arrangement.</p>
+                </scopecontent>
+                <arrangement id="ref125">
+                    <head>Organization and Arrangement</head>
+                    <p>This series is arranged in four subseries organized chronologically by 
+                        <title render="italic">Star Trek </title>series and record creation date. Folder titles utilize episode titles and the following popular acronyms for the series: “TNG” for 
+                        <title render="italic">Star Trek: The Next Generation</title>, “DS9” for 
+                        <title render="italic">Star Trek: Deep Space Nine</title>, “VOY” for 
+                        <title render="italic">Star Trek: Voyager</title>, and “ENT” for 
+                        <title render="italic">Star Trek: Enterprise</title>.</p>
+                </arrangement>
+                <c02 id="ref3" level="subseries">
+                    <did>
+                        <unittitle>Subseries 1.1: 
+                            <title render="italic">Star Trek: The Next Generation </title></unittitle>
+                        <unitdate normal="1987/1994" type="inclusive">1987-1994</unitdate>
+                    </did>
+                    <c03 id="ref4" level="file">
+                        <did>
+                            <unittitle>TNG: "Haven"</unittitle>
+                            <container id="cid10689001" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid10689001" type="Folder">1</container>
+                            <unitdate normal="1987/1987">1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref5" level="file">
+                        <did>
+                            <unittitle>TNG: "Datalore"</unittitle>
+                            <container id="cid10689002" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid10689002" type="Folders">2-3</container>
+                            <unitdate normal="1986/1988" type="inclusive">circa 1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref6" level="file">
+                        <did>
+                            <unittitle>TNG: "Too Short a Season"</unittitle>
+                            <container id="cid10689003" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid10689003" type="Folder">4</container>
+                            <unitdate normal="1986/1988" type="inclusive">circa 1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref7" level="file">
+                        <did>
+                            <unittitle>TNG: "When the Bough Breaks"</unittitle>
+                            <container id="cid10689004" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid10689004" type="Folder">5</container>
+                            <unitdate normal="1987/1987">1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref10" level="file">
+                        <did>
+                            <unittitle>TNG: "Home Soil"</unittitle>
+                            <container id="cid10689005" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid10689005" type="Folder">6</container>
+                            <unitdate normal="1986/1989" type="inclusive">circa 1987-1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref11" level="file">
+                        <did>
+                            <unittitle>TNG: "Coming of Age"</unittitle>
+                            <container id="cid10689006" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid10689006" type="Folders">7-8</container>
+                            <unitdate normal="1986/1989" type="inclusive">circa 1987-1988</unitdate>
+                        </did>
+                        <scopecontent id="ref136">
+                            <head>Scope and Content</head>
+                            <p>Includes one diffusion transfer (Polaroid) print of the matte painting of the "Relva 7." Also contains material on "Home Soil," as included by Dan Curry.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref12" level="file">
+                        <did>
+                            <unittitle>TNG: Stock Element Lists</unittitle>
+                            <container id="cid10689007" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid10689007" type="Folder">1</container>
+                            <unitdate normal="1986/1989" type="inclusive">circa 1987-1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref13" level="file">
+                        <did>
+                            <unittitle>TNG: "The Arsenal of Freedom"</unittitle>
+                            <container id="cid10689008" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid10689008" type="Folders">2-3</container>
+                            <unitdate normal="1987/1989" type="inclusive">circa 1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref14" level="file">
+                        <did>
+                            <unittitle>TNG: "We'll Always Have Paris"</unittitle>
+                            <container id="cid10689009" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid10689009" type="Folder">4</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref15" level="file">
+                        <did>
+                            <unittitle>TNG: "Symbiosis"</unittitle>
+                            <container id="cid10689010" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid10689010" type="Folder">5</container>
+                            <unitdate normal="1986/1989" type="inclusive">circa 1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="file">
+                        <did>
+                            <unittitle>TNG: "Conspiracy"</unittitle>
+                            <container id="cid10689011" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid10689011" type="Folder">6</container>
+                            <container id="cid10689013" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid10689013" type="Folders">1-2</container>
+                            <unitdate normal="1987/1989" type="inclusive">circa 1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>TNG: "The Child"</unittitle>
+                            <container id="cid10689012" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid10689012" type="Folder">3</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>TNG: "Elementary, Dear Data"</unittitle>
+                            <container id="cid10689014" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid10689014" type="Folder">4</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>TNG: "Loud as a Whisper"</unittitle>
+                            <container id="cid10689015" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid10689015" type="Folder">5</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>TNG: "Unnatural Selection"</unittitle>
+                            <container id="cid10689016" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid10689016" type="Folder">6</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>TNG: "The Measure of a Man"</unittitle>
+                            <container id="cid10689017" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid10689017" type="Folder">7</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>TNG: "Where Silence Has Lease"</unittitle>
+                            <container id="cid10689018" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid10689018" type="Folder">8</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                        <scopecontent id="ref138">
+                            <head>Scope and Content</head>
+                            <p>Includes printed posts on a "Sci-Fi Fantasy Forum" discussing the episode. Praises of the visual and special effects were highlighted before receipt of the collection.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>TNG: "The Dauphin"</unittitle>
+                            <container id="cid10689019" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid10689019" type="Folder">1</container>
+                            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>TNG: "A Matter of Honor"</unittitle>
+                            <container id="cid10689020" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid10689020" type="Folder">2</container>
+                            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>TNG: "Contagion"</unittitle>
+                            <container id="cid10689021" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid10689021" type="Folder">3</container>
+                            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>TNG: "High Regard"</unittitle>
+                            <container id="cid10689022" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid10689022" type="Folder">4</container>
+                            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>TNG: "Time to the Second"</unittitle>
+                            <container id="cid10689023" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid10689023" type="Folder">5</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>TNG: "Pen Pals"</unittitle>
+                            <container id="cid10689024" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid10689024" type="Folder">6</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>TNG: "Q Who?"</unittitle>
+                            <container id="cid10689025" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid10689025" type="Folder">7</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>TNG: "The Royale"</unittitle>
+                            <container id="cid10689026" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid10689026" type="Folder">8</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                        <scopecontent id="ref140">
+                            <head>Scope and Content</head>
+                            <p>Contains memos and one montage storyboard (Act 4 missing).</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>TNG: "Samaritan Snare"</unittitle>
+                            <container id="cid10689027" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid10689027" type="Folder">1</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>TNG: "Send in the Clones"</unittitle>
+                            <container id="cid10689028" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid10689028" type="Folder">2</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>TNG: "Manhunt"</unittitle>
+                            <container id="cid10689029" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid10689029" type="Folder">3</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>TNG: "The Emissary"</unittitle>
+                            <container id="cid10689030" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid10689030" type="Folder">4</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>TNG: "Peak Performance"</unittitle>
+                            <container id="cid10689031" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid10689031" type="Folder">5</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>TNG: "Shades of Gray"</unittitle>
+                            <container id="cid10689032" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid10689032" type="Folder">6</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>TNG: Second Season Book O' Shows</unittitle>
+                            <container id="cid10689033" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid10689033" type="Folder">7</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>TNG: "The Bonding"</unittitle>
+                            <container id="cid10689034" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid10689034" type="Folder">1</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>TNG: "The Survivors"</unittitle>
+                            <container id="cid10689035" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid10689035" type="Folders">2-3</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>TNG: "The Hunted"</unittitle>
+                            <container id="cid10689036" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid10689036" type="Folder">4</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>TNG: "Captain's Holiday"</unittitle>
+                            <container id="cid10689037" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid10689037" type="Folder">5</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>TNG: "Hollow Pursuits"</unittitle>
+                            <container id="cid10689038" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid10689038" type="Folder">6</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>TNG: "Transfigurations"</unittitle>
+                            <container id="cid10689039" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid10689039" type="Folder">1</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="file">
+                        <did>
+                            <unittitle>TNG: "Family"</unittitle>
+                            <container id="cid10689040" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid10689040" type="Folders">2-3</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>TNG: "Suddenly Human"</unittitle>
+                            <container id="cid10689041" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid10689041" type="Folder">4</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="file">
+                        <did>
+                            <unittitle>TNG: "Future Imperfect"</unittitle>
+                            <container id="cid10689042" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid10689042" type="Folder">5</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>TNG: "Legacy"</unittitle>
+                            <container id="cid10689043" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid10689043" type="Folder">6</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>TNG: "Devil's Due"</unittitle>
+                            <container id="cid10689044" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid10689044" type="Folder">7</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>TNG: "The Wounded"</unittitle>
+                            <container id="cid10689045" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid10689045" type="Folder">1</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>TNG: "The Loss"</unittitle>
+                            <container id="cid10689046" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid10689046" type="Folder">2</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>TNG: "Galaxy's Child"</unittitle>
+                            <container id="cid10689047" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid10689047" type="Folder">3</container>
+                            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>TNG: "Identity Crisis"</unittitle>
+                            <container id="cid10689048" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid10689048" type="Folder">4</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>TNG: "Clues"</unittitle>
+                            <container id="cid10689049" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid10689049" type="Folder">5</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>TNG: "Q Love"</unittitle>
+                            <container id="cid10689050" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid10689050" type="Folder">6</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>TNG: "In Theory"</unittitle>
+                            <container id="cid10689051" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid10689051" type="Folder">7</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>TNG: "Half a Life"</unittitle>
+                            <container id="cid10689052" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid10689052" type="Folder">1</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>TNG: "The Mind's Eye"</unittitle>
+                            <container id="cid10689053" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid10689053" type="Folder">2</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>TNG: "Redemption"</unittitle>
+                            <container id="cid10689054" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid10689054" type="Folder">3</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>TNG: "Darmok"</unittitle>
+                            <container id="cid10689055" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid10689055" type="Folder">4</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>TNG: "Ensign Ro"</unittitle>
+                            <container id="cid10689056" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid10689056" type="Folder">5</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>TNG: "Unification Part II"</unittitle>
+                            <container id="cid10689057" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid10689057" type="Folder">6</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>TNG: "Disaster"</unittitle>
+                            <container id="cid10689058" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid10689058" type="Folder">7</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>TNG: "The Masterpiece Society"</unittitle>
+                            <container id="cid10689060" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid10689060" type="Folder">8</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>TNG: "Power Play"</unittitle>
+                            <container id="cid10689061" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689061" type="Folder">1</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>TNG: "The First Duty"</unittitle>
+                            <container id="cid10689062" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689062" type="Folder">2</container>
+                            <unitdate normal="1992/1992">1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>TNG: "The Perfect Mate"</unittitle>
+                            <container id="cid10689063" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689063" type="Folder">3</container>
+                            <unitdate normal="1992/1992">1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>TNG: "All Good Things"</unittitle>
+                            <container id="cid10689064" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689064" type="Folder">4</container>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref69" level="subseries">
+                    <did>
+                        <unittitle>Subseries 1.2:
+                            <title render="italic"> Star Trek: Deep Space Nine</title></unittitle>
+                        <unitdate normal="1997/1997" type="bulk">Bulk, 1997</unitdate>
+                        <unitdate normal="1993/1998" type="inclusive">circa 1993-1997</unitdate>
+                    </did>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>DS9: "The Siege"</unittitle>
+                            <container id="cid10689065" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689065" type="Folder">5</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>DS9: "Call to Arms"</unittitle>
+                            <container id="cid10689066" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689066" type="Folder">6</container>
+                            <unitdate normal="1996/1998" type="inclusive">circa 1997</unitdate>
+                        </did>
+                        <scopecontent id="ref139">
+                            <head>Scope and Content</head>
+                            <p>Also contains contemporaneous material on 
+                                <title render="italic">Star Trek: Voyager</title> as grouped together by Dan Curry.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>DS9: "Sacrifice of Angels"</unittitle>
+                            <container id="cid10689067" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689067" type="Folder">7</container>
+                            <unitdate normal="1996/1998" type="inclusive">circa 1997</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref73" level="subseries">
+                    <did>
+                        <unittitle>Subseries 1.3: 
+                            <title render="italic">Star Trek: Voyager</title></unittitle>
+                        <unitdate normal="1993/2000" type="inclusive">circa 1994 - 2000</unitdate>
+                    </did>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>VOY: "Caretaker"</unittitle>
+                            <container id="cid10689068" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689068" type="Folder">8</container>
+                            <unitdate normal="1993/1995" type="inclusive">circa 1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>VOY: "Innocence"</unittitle>
+                            <container id="cid10689069" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689069" type="Folder">9</container>
+                            <unitdate normal="1995/1995">1995</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>VOY: "Workforce"</unittitle>
+                            <container id="cid10689071" type="Box" label="Mixed materials">10</container>
+                            <container parent="cid10689071" type="Folder">10</container>
+                            <unitdate normal="2000/2000">2000</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>VOY: Images of Voyager and Defiant (photocopies)</unittitle>
+                            <container id="cid10689070" type="Box" label="Mixed materials">11</container>
+                            <container parent="cid10689070" type="Folder">1</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref78" level="subseries">
+                    <did>
+                        <unittitle>Subseries 1.4: 
+                            <title render="italic">Star Trek: Enterprise</title></unittitle>
+                        <unitdate normal="2001/2005" type="inclusive">circa 2001-2004</unitdate>
+                    </did>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>ENT: "Broken Bow"</unittitle>
+                            <container id="cid10689072" type="Box" label="Mixed materials">11</container>
+                            <container parent="cid10689072" type="Folder">2</container>
+                            <unitdate normal="2001/2001">2001</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>ENT: "Impulse"</unittitle>
+                            <container id="cid10689073" type="Box" label="Mixed materials">11</container>
+                            <container parent="cid10689073" type="Folder">3</container>
+                            <unitdate normal="2003/2005" type="inclusive">circa 2004</unitdate>
+                        </did>
+                        <scopecontent id="ref134">
+                            <head>Scope and Content</head>
+                            <p>Consists of an application for an unspecified award for "Impulse" in the category of "Outstanding Visual Effects in a Television Series."</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref95" level="series">
+                <did>
+                    <unittitle>Series 2: 
+                        <title render="italic">Star Trek</title> VHS Tapes</unittitle>
+                    <unitdate normal="1987/1992" type="bulk">Bulk, 1987-1992</unitdate>
+                    <unitdate normal="1966/2006" type="inclusive">circa 1967-2005</unitdate>
+                </did>
+                <scopecontent id="ref127">
+                    <head>Scope and Content</head>
+                    <p>Contains 90 VHS tapes of various 
+                        <title render="italic">Star Trek </title>episodes as broadcast, office copies, element reels, comp reels, work prints, and other recorded material pertaining to the making and visual effects of 
+                        <title render="italic">Star Trek</title>. Also includes a small amount of accompanying notes.</p>
+                </scopecontent>
+                <phystech id="ref129">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
+                </phystech>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Star Trek: The Original Series</title></unittitle>
+                        <container id="cid10689085" type="Box" label="Mixed materials">13</container>
+                        <unitdate normal="1967/1967">1967</unitdate>
+                    </did>
+                    <scopecontent id="ref105">
+                        <head>Scope and Content</head>
+                        <p>Contains one tape of an episode titled "The Trouble with Tribbles."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Star Trek: The Next Generation</title></unittitle>
+                        <container id="cid10689086" type="Boxes" label="Mixed materials">13-15</container>
+                        <unitdate normal="1986/1994" type="inclusive">circa 1987-1993</unitdate>
+                    </did>
+                    <scopecontent id="ref104">
+                        <head>Scope and Content</head>
+                        <p>Contains sixty-four tapes. Includes a copy of the episode of TNG that Dan Curry directed, "Birthright, pt. 2," as broadcast in March 1993.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Star Trek: Voyager</title></unittitle>
+                        <container id="cid10689087" type="Box" label="Mixed materials">15</container>
+                        <unitdate normal="1994/2000" type="inclusive">1994-1999</unitdate>
+                    </did>
+                    <scopecontent id="ref99">
+                        <head>Scope and Content</head>
+                        <p>Contains six tapes. One tape titled "Director's Raw Material For Reel" contains clips from Star Trek TNG, DS9, and Voyager.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Star Trek: Enterprise </title></unittitle>
+                        <container id="cid10689088" type="Box" label="Mixed materials">15</container>
+                        <unitdate normal="2002/2005" type="inclusive">2002-2005</unitdate>
+                    </did>
+                    <scopecontent id="ref101">
+                        <head>Scope and Content</head>
+                        <p>Contains sixteen tapes.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Assorted Recordings</unittitle>
+                        <container id="cid10689089" type="Box" label="Mixed materials">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Content</head>
+                        <p>Contains two tapes containing Main Title Design Emmy submissions, and one tape titled "Creature Comforts."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>VHS Tape Notes</unittitle>
+                        <container id="cid10703001" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid10703001" type="Folder">5</container>
+                        <unitdate normal="1990/1993" type="inclusive">circa 1991, 1993</unitdate>
+                    </did>
+                    <scopecontent id="ref107">
+                        <head>Scope and Content</head>
+                        <p>Contains copies of notes found with two VHS tapes: "DRE #9 Cloud Tank" ("Dan &amp; Ron Element Reel," 1993) and "
+                            <title render="italic">Star Trek TNG</title> #205 Smoke (Dry Ice) DRE-007 W/Window" (1991).</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref81" level="series">
+                <did>
+                    <unittitle>Series 3: Motion Picture Projects</unittitle>
+                    <unitdate normal="1987/1993" type="inclusive">circa 1988-1992</unitdate>
+                </did>
+                <scopecontent id="ref130">
+                    <head>Scope and Content</head>
+                    <p>Contains Curry’s work on title and logo design, collected scripts and screenplays (some annotated and hand-drawn by Curry), correspondence, and personal notes pertaining to assorted motion picture and television projects. Materials for
+                        <title render="italic"> Thunder Strike</title> and 
+                        <title render="italic">Stroke of Midnite </title>(both unproduced), 
+                        <title render="italic">Moe’s World</title>, and 
+                        <title render="italic">The Truman Show</title> were collected by Curry, but do not evidence any participation in the production of these projects.</p>
+                </scopecontent>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Hot to Trot </title></unittitle>
+                        <container id="cid10689075" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid10689075" type="Folder">4</container>
+                        <unitdate normal="1987/1989" type="inclusive">circa 1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Blob</title></unittitle>
+                        <container id="cid10689074" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid10689074" type="Folders">5-6</container>
+                        <unitdate normal="1987/1989" type="inclusive">circa 1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Hometown Films Logo</unittitle>
+                        <container id="cid10689076" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid10689076" type="Folder">7</container>
+                        <unitdate normal="1987/1989" type="inclusive">circa 1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Thunder Strike</title></unittitle>
+                        <container id="cid10689077" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid10689077" type="Folder">8-9</container>
+                        <unitdate normal="1989/1991" type="inclusive">circa 1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="class">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Moe's World</title></unittitle>
+                        <container id="cid10689078" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid10689078" type="Folder">10</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Scope and Content</head>
+                        <p/>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Stroke of Midnite</title></unittitle>
+                        <container id="cid10689080" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid10689080" type="Folder">12</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Truman Show</title></unittitle>
+                        <container id="cid10689081" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid10689081" type="Folder">1</container>
+                        <unitdate normal="1990/1992" type="inclusive">circa 1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Cool World</title></unittitle>
+                        <container id="cid10689082" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid10689082" type="Folder">2</container>
+                        <unitdate normal="1991/1993" type="inclusive">circa 1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Correspondence: The American Film Institute</unittitle>
+                        <container id="cid10689079" type="Box" label="Mixed materials">11</container>
+                        <container parent="cid10689079" type="Folder">11</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref92" level="series">
+                <did>
+                    <unittitle>Series 4: Television Projects</unittitle>
+                    <unitdate normal="1990/2008" type="inclusive">1990-2008</unitdate>
+                </did>
+                <scopecontent id="ref131">
+                    <head>Scope and Content</head>
+                    <p>Contains one script and screenplays for 
+                        <title render="italic">The Flash</title>, collected by – though not explicitly linked to – Dan Curry. Also contains hand-drawn screenplays for 
+                        <title render="italic">Chuck</title>, for which Curry was visual effects supervisor.</p>
+                </scopecontent>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Flash</title></unittitle>
+                        <container id="cid10689083" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid10689083" type="Folder">3</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Chuck</title></unittitle>
+                        <container id="cid10689084" type="Box" label="Mixed materials">12</container>
+                        <container parent="cid10689084" type="Folder">4</container>
+                        <unitdate normal="2008/2008">2008</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
