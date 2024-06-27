@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8g44vwr/">razo2284.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Razorcake/Gorsky Press, Inc. Records
+                    <num>LSC.2284</num>
+                </titleproper>
+                <titleproper type="filing">Razorcake/Gorsky Press, Inc. records</titleproper>
+                <author>Finding aid prepared by Courtney Dean, April 2016; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Finding aid last updated 16 January 2018.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-01-16T10:27-0800</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Razorcake/Gorsky Press, Inc. records</unittitle>
+            <unitid>LSC.2284</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>9.6 linear feet</extent>
+                <extent>(5 boxes, 3 shoeboxes, 3 record cartons, 1 oversize flat box, 1 map folder)</extent>
+            </physdesc>
+            <unitdate normal="2001/2016" type="bulk">Bulk, 2001-2016</unitdate>
+            <unitdate normal="1989/2016" type="inclusive">1989-2016</unitdate>
+            <abstract id="ref232" label="Abstract">
+                <title render="italic">Razorcake</title> is a Los Angeles-based punk rock fanzine established in 2001 and published by Sean Carswell and Todd Taylor. The collection includes zine issues, microcassettes of interviews, and punk memorabilia and ephemera.</abstract>
+            <langmaterial id="ref221" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref222" label="Physical Location">Portions of the collection stored off-site at SRLF. Advance notice is required for access to the collection. All requests to access special collections materials must be made in advance using the request button located on this page. Oversize material (Box 13) held on-site.</physloc>
+            <origination label="Creator">
+                <persname rules="dacs">Taylor, Todd, 1972-</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref267">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref268">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical objects belong to the UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref225">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Razorcake/Gorsky Press, Inc. Records (Collection 2284). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref226">
+            <head>Provenance/Source of Acquisition</head>
+            <p>Gift of Todd Taylor, 2015, 2016.</p>
+        </acqinfo>
+        <odd id="ref265">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7815820">7815820</extref></p>
+        </odd>
+        <bioghist id="ref229">
+            <head>Biography/History</head>
+            <p>Gorsky Press is an independent book publisher based out of Los Angeles, California, founded in 1999. 
+                <title render="italic">Razorcake</title> is the magazine arm of Razorcake/Gorsky Press, Inc., launched in 2001 by former staff and writers for the defunct zine 
+                <title render="italic">Flipside</title>. It features interviews, columns, and reviews, mainly focused on DIY (do-it-yourself) punk rock music. 
+                <title render="italic">Razorcake </title> is the first and only official non-profit punk rock fanzine in America. It is published by Sean Carswell and Todd Taylor.</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Content</head>
+            <p>Collection includes a near-complete run of 
+                <title render="italic">Razorcake</title> fanzine along with microcassettes containing interviews conducted with punk bands and artists. Also includes a small amount of punk memorabilia and ephemera which belonged to Todd Taylor.</p>
+        </scopecontent>
+        <arrangement id="ref230">
+            <head>Organization and Arrangement</head>
+            <p>This collection has been arranged in the following series: 
+                <list type="simple">
+                    <item>Series 1: Audio Interviews, 2000-2010</item>
+                    <item>Series 2: Razorcake Fanzine Issues, 2001-2016</item>
+                    <item>Series 3: Memorabilia and Ephemera, 1989-2015</item>
+                </list></p>
+        </arrangement>
+        <phystech id="ref231">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials you must notify the reference desk in advance of your visit.</p>
+        </phystech>
+        <controlaccess>
+            <corpname rules="dacs">Razorcake/Gorsky Press, Inc.-- Archives.</corpname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref233" level="series">
+                <did>
+                    <unittitle>Audio Interviews</unittitle>
+                    <unitdate normal="2000/2010" type="inclusive">2000-2010</unitdate>
+                </did>
+                <scopecontent id="ref241">
+                    <head>Scope and Content</head>
+                    <p>140 microcassettes containing interviews conducted with punk bands and artists for 
+                        <title render="italic">Razorcake</title>. Also includes several interviews conducted by Todd Taylor for 
+                        <title render="italic">Thrasher Magazine</title>.</p>
+                </scopecontent>
+                <arrangement id="ref242">
+                    <head>Organization and Arrangement</head>
+                    <p>Tapes are arranged alphabetically.</p>
+                </arrangement>
+                <phystech id="ref243">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>SERIES CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials you must notify the reference desk in advance of your visit.</p>
+                </phystech>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>ADZ</unittitle>
+                        <container id="cid9886004" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref2" level="file">
+                    <did>
+                        <unittitle>Against Me!</unittitle>
+                        <container id="cid9886001" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2003/2003">2003 November 11</unitdate>
+                    </did>
+                    <scopecontent id="ref3">
+                        <head>Scope and Content</head>
+                        <p>Henry Fonda Theater, Los Angeles, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Against Me!: Tom Gabel (Laura Jane Grace)</unittitle>
+                        <container id="cid9886002" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2004/2004">2004 October 8</unitdate>
+                    </did>
+                    <scopecontent id="ref5">
+                        <head>Scope and Contents note</head>
+                        <p>DVD interview.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Against Me!</unittitle>
+                        <container id="cid9886003" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>Against Me!</unittitle>
+                        <container id="cid9893039" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Alkaline Trio</unittitle>
+                        <container id="cid9886014" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2001/2001">2001 April 2</unitdate>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Content</head>
+                        <p>Phone interview. Date on insert reads 5/02/01.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Almighty Do Me a Favor (ADMAF)</unittitle>
+                        <container id="cid9886006" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2004/2004">2004 November 11</unitdate>
+                    </did>
+                    <scopecontent id="ref10">
+                        <head>Scope and Contents note</head>
+                        <p>Razorcake HQ</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Apocalypse Hoboken</unittitle>
+                        <container id="cid9886007" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Arfons, Art</unittitle>
+                        <container id="cid9886009" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Arrivals</unittitle>
+                        <container id="cid9886008" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2002/2002">2002 July</unitdate>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>924 Gilman Street, Berkeley, CA. Interview by Megan Pants and Todd Taylor.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>At the Drive-In (ATDI)</unittitle>
+                        <container id="cid9886010" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Atom and His Package</unittitle>
+                        <container id="cid9886023" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2001/2001">2001 June 14</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Atom and His Package</unittitle>
+                        <container id="cid9886011" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Avail: Tim Barry</unittitle>
+                        <container id="cid9886013" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2000">2000 September</unitdate>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Phone interview for 
+                            <title render="italic">Aquarian </title></p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Avail</unittitle>
+                        <container id="cid9886012" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Bad Religion</unittitle>
+                        <container id="cid9886015" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Insert label reads: Bad Religion 1. No second tape present in collection.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Bag, Alice</unittitle>
+                        <container id="cid9886005" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2004/2004">2004 September 18</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Baseball Furies</unittitle>
+                        <container id="cid9886016" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>The BellRays</unittitle>
+                        <container id="cid9893040" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Bent Out of Shape</unittitle>
+                        <container id="cid9886018" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2005/2005">2005 August 10</unitdate>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Taco Beach, Long Beach, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Billy Reese Peters: Aaron Lay</unittitle>
+                        <container id="cid9886086" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2004/2004">2004 March 29</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Billy Reese Peters</unittitle>
+                        <container id="cid9886081" type="Box" label="Mixed materials">1</container>
+                        <unitdate>2004 December 7</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Bingenheimer, Rodney</unittitle>
+                        <container id="cid9886030" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2001/2001">2001 September 25</unitdate>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>Club Tempest, Los Angeles, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Blazing Haley</unittitle>
+                        <container id="cid9886017" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Bloodhag</unittitle>
+                        <container id="cid9886024" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2001/2001">2001 March</unitdate>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>Al's Bar, Los Angeles, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Bloodhag</unittitle>
+                        <container id="cid9886019" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2006/2006">2006 May</unitdate>
+                    </did>
+                    <phystech id="ref115">
+                        <head>Physical Characteristics and Technical Requirements</head>
+                        <p>2 microcassettes.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Bloodhag</unittitle>
+                        <container id="cid9886021" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Boris</unittitle>
+                        <container id="cid9893041" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                    <scopecontent id="ref206">
+                        <head>Scope and Contents note</head>
+                        <p>Handwritten on opposite side of tape: Rev. Nørb</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Broken Bottles</unittitle>
+                        <container id="cid9886022" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2003/2003">2003 February</unitdate>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>BB's house, San Juan Capistrano, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Causey Way</unittitle>
+                        <container id="cid9886027" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2001/2001">2001 January 18</unitdate>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Spaceland, Los Angeles, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Colver, Ed</unittitle>
+                        <container id="cid9886025" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                    <phystech id="ref116">
+                        <head>Physical Characteristics and Technical Requirements</head>
+                        <p>2 microcassettes.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>The Crowd</unittitle>
+                        <container id="cid9886028" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>D.O.A.</unittitle>
+                        <container id="cid9886031" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Dead to Me</unittitle>
+                        <container id="cid9886032" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2008/2008">2008 May 20</unitdate>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents note</head>
+                        <p>Chain Reaction, Anaheim, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Diana, Mike</unittitle>
+                        <container id="cid9886033" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Dillinger Four (D4): 2002 Tour</unittitle>
+                        <container id="cid9886034" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                    <phystech id="ref117">
+                        <head>Physical Characteristics and Technical Requirements</head>
+                        <p>2 microcassettes.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Dillinger Four (D4): Paddy</unittitle>
+                        <container id="cid9886036" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2002/2002">2002 May 14</unitdate>
+                    </did>
+                    <scopecontent id="ref56">
+                        <head>Scope and Contents note</head>
+                        <p>Phone interview.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Dillinger Four (D4)</unittitle>
+                        <container id="cid9886037" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Dirtnap, Ken</unittitle>
+                        <container id="cid9886038" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2004/2004">2004 July 19</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Divsion of Laura Lee</unittitle>
+                        <container id="cid9886039" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2002/2002">2002 April 12</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Down by Law</unittitle>
+                        <container id="cid9886040" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Dragge, Fletcher (Pennywise)</unittitle>
+                        <container id="cid9886048" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Eddie Current Suppression Ring (ECSR): Mikey Young</unittitle>
+                        <container id="cid9886041" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2010/2010">2010 January 26</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>The Ends</unittitle>
+                        <container id="cid9886042" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2004/2004">2004 March 18</unitdate>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>South by Southwest (SXSW), Austin, TX</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Epoxies</unittitle>
+                        <container id="cid9886043" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2002/2002">2002 September 12</unitdate>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>The Garage, Los Angeles, CA. Interview by Todd Taylor for Thrasher Magazine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Epoxies</unittitle>
+                        <container id="cid9886044" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>The Garage, Los Angeles, CA. Interview by Megan Pants.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>F-Minus: Brad Logan</unittitle>
+                        <container id="cid9886045" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2003/2003">2003</unitdate>
+                    </did>
+                    <scopecontent id="ref71">
+                        <head>Scope and Contents note</head>
+                        <p>Phone interview.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Fat Wreck Chords: Fat Mike and Erin Burkett</unittitle>
+                        <container id="cid9886075" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Feederz</unittitle>
+                        <container id="cid9886049" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Fixtures</unittitle>
+                        <container id="cid9886046" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Fucked Up</unittitle>
+                        <container id="cid9886047" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Gain</unittitle>
+                        <container id="cid9886051" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Gaza Strippers</unittitle>
+                        <container id="cid9886052" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents note</head>
+                        <p>Handwritten on side B of cassette: Me First</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Giant Haystacks</unittitle>
+                        <container id="cid9886053" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Good Riddance</unittitle>
+                        <container id="cid9886054" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="2001/2001">2001 Novemeber 18</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Grabass Charlestons</unittitle>
+                        <container id="cid9886055" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2003/2003">2003 July</unitdate>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>Highland Park, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Grand Theft Audio (GTA)</unittitle>
+                        <container id="cid9886050" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                        <p>Refers to Grand Theft Audio record label in Glendale, CA.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Haints</unittitle>
+                        <container id="cid9886056" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Headline Records: Jean Luc Gaudry</unittitle>
+                        <container id="cid9886057" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2002/2002">2002 November 18</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Headline Records: Jean Luc Gaudry</unittitle>
+                        <container id="cid9886058" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Hopeless Records: Louis Posen</unittitle>
+                        <container id="cid9886065" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                    <scopecontent id="ref97">
+                        <head>Scope and Contents note</head>
+                        <p>Side B labeled record reviews.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Hot Snakes</unittitle>
+                        <container id="cid9886059" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 October 2</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Hot Water Music</unittitle>
+                        <container id="cid9886060" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Human Alert</unittitle>
+                        <container id="cid9886061" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Kerr, Tim</unittitle>
+                        <container id="cid9886062" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 May 21</unitdate>
+                    </did>
+                    <scopecontent id="ref93">
+                        <head>Scope and Contents note</head>
+                        <p>Phone interview.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Kerr, Tim</unittitle>
+                        <container id="cid9886063" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 October</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Killer Dreamer</unittitle>
+                        <container id="cid9886064" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2008/2008">2008 May 5</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Knockout Pills</unittitle>
+                        <container id="cid9886073" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2003/2003">2003 March 9</unitdate>
+                    </did>
+                    <scopecontent id="ref111">
+                        <head>Scope and Contents note</head>
+                        <p>Razorcake HQ. Interview for Thrasher Magazine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Leatherface: Frankie Stubbs</unittitle>
+                        <container id="cid9886066" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2008/2008">2008 May 20</unitdate>
+                    </did>
+                    <scopecontent id="ref99">
+                        <head>Scope and Contents note</head>
+                        <p>The Sunset Bar alley, Anaheim, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>The Locust</unittitle>
+                        <container id="cid9886067" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2001/2001">2001 January 3</unitdate>
+                    </did>
+                    <scopecontent id="ref101">
+                        <head>Scope and Contents note</head>
+                        <p>The Smell, Los Angeles, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>Man or Astro-man? (MOAM?)</unittitle>
+                        <container id="cid9896002" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Marked Men</unittitle>
+                        <container id="cid9886068" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 March 21</unitdate>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Contents note</head>
+                        <p>Beerland alley, Austin, TX</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>Maximum rocknroll (MRR)</unittitle>
+                        <container id="cid9896003" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Me First and the Gimme Gimmes</unittitle>
+                        <container id="cid9886069" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                    <scopecontent id="ref105">
+                        <head>Scope and Contents note</head>
+                        <p>Handwritten on tape label: Dooger. Refers to filmmaker Doug Cawker.</p>
+                        <p>Possible that recording contains interviews with both, or case may be mislabeled.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Me First and the Gimme Gimmes</unittitle>
+                        <container id="cid9886070" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Mea Culpa</unittitle>
+                        <container id="cid9886071" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 April 11</unitdate>
+                    </did>
+                    <scopecontent id="ref108">
+                        <head>Scope and Contents note</head>
+                        <p>Razorcake HQ</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Measure</unittitle>
+                        <container id="cid9886072" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2009/2009">2009 January 9</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>NOFX: Fat Mike</unittitle>
+                        <container id="cid9886074" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2006/2006">2006 July 11</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Observers</unittitle>
+                        <container id="cid9886076" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Ohanesian, Liz</unittitle>
+                        <container id="cid9896001" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Only Crime</unittitle>
+                        <container id="cid9886077" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 August 11</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>The Orphans</unittitle>
+                        <container id="cid9886078" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2003/2003">2003 July 23</unitdate>
+                    </did>
+                    <scopecontent id="ref121">
+                        <head>Scope and Contents note</head>
+                        <p>Wade's house, Long Beach, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Out Cold</unittitle>
+                        <container id="cid9886079" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2002/2002">2002 April 24</unitdate>
+                    </did>
+                    <scopecontent id="ref123">
+                        <head>Scope and Contents note</head>
+                        <p>Falafel Palace, Boston, MA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Padilla, Dan</unittitle>
+                        <container id="cid9886080" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2007/2007">2007 July 27</unitdate>
+                    </did>
+                    <phystech id="ref125">
+                        <head>Physical Characteristics and Technical Requirements</head>
+                        <p>2 microcassettes.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Peters, Duane</unittitle>
+                        <container id="cid9886082" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2001/2001">2001 May 4</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Potential Johns</unittitle>
+                        <container id="cid9886083" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2008/2008">2008 March 18</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Propagandhi: Chris Hannah</unittitle>
+                        <container id="cid9886084" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2000">2000 November 8</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Quint, Al</unittitle>
+                        <container id="cid9886085" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2001/2001">2001 October 20</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Randy</unittitle>
+                        <container id="cid9886087" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 February 13</unitdate>
+                    </did>
+                    <scopecontent id="ref133">
+                        <head>Scope and Contents note</head>
+                        <p>Troubadour, West Hollywood, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Reagan SS</unittitle>
+                        <container id="cid9886088" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2003" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Riverboat Gamblers</unittitle>
+                        <container id="cid9886089" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Riverboat Gamblers: Mike Wiebe</unittitle>
+                        <container id="cid9886090" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 May 7</unitdate>
+                    </did>
+                    <scopecontent id="ref137">
+                        <head>Scope and Contents note</head>
+                        <p>Phone interview for Thrasher Magazine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>Rivethead</unittitle>
+                        <container id="cid9886091" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2003/2003">2003 June 14</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Selby Tigers</unittitle>
+                        <container id="cid9893002" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2000">2000 December 5</unitdate>
+                    </did>
+                    <scopecontent id="ref141">
+                        <head>Scope and Contents note</head>
+                        <p>Kin Tiki bar, played at Skrappy's, Tuscon, AZ.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Shark Pants</unittitle>
+                        <container id="cid9893004" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2009/2009">2009 February 7</unitdate>
+                    </did>
+                    <scopecontent id="ref145">
+                        <head>Scope and Contents note</head>
+                        <p>San Pedro, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>The Shemps</unittitle>
+                        <container id="cid9893003" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 January 16</unitdate>
+                    </did>
+                    <scopecontent id="ref143">
+                        <head>Scope and Contents note</head>
+                        <p>The Smell, Los Angeles, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Skulls</unittitle>
+                        <container id="cid9893005" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2003/2003">2003 February</unitdate>
+                    </did>
+                    <scopecontent id="ref147">
+                        <head>Scope and Contents note</head>
+                        <p>Linda's Doll Hut, Anaheim, CA. Interview for Thrasher Magazine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Skulls: additional info</unittitle>
+                        <container id="cid9893006" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2003/2004" type="inclusive">circa 2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Smalltown</unittitle>
+                        <container id="cid9893007" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 September 7</unitdate>
+                    </did>
+                    <scopecontent id="ref150">
+                        <head>Scope and Contents note</head>
+                        <p>Oskarshamn, Sweden</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Smith, Winston</unittitle>
+                        <container id="cid9893001" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Smogtown</unittitle>
+                        <container id="cid9893008" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2001/2001">2001 September 29</unitdate>
+                    </did>
+                    <scopecontent id="ref152">
+                        <head>Scope and Contents note</head>
+                        <p>Skate park</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Smogtown</unittitle>
+                        <container id="cid9893009" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Smoke on Fire</unittitle>
+                        <container id="cid9893010" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2005/2005">2005 April 25</unitdate>
+                    </did>
+                    <scopecontent id="ref155">
+                        <head>Scope and Contents note</head>
+                        <p>Date handwritten on insert is 9/30/04.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Snakepit, Ben</unittitle>
+                        <container id="cid9893011" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2004/2004">2004 March 21</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Snuff</unittitle>
+                        <container id="cid9893012" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>The Soviettes</unittitle>
+                        <container id="cid9893013" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2003/2003">2003 June 12</unitdate>
+                    </did>
+                    <scopecontent id="ref159">
+                        <head>Scope and Contents note</head>
+                        <p>Minneapolis, MN</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>Stanton, Scott</unittitle>
+                        <container id="cid9896004" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2005/2005">2005 August 8</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>The Starvations</unittitle>
+                        <container id="cid9893014" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2002/2002">2002 March 16</unitdate>
+                    </did>
+                    <scopecontent id="ref161">
+                        <head>Scope and Contents note</head>
+                        <p>Outside of The Garage, Los Angeles, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>The Starvations</unittitle>
+                        <container id="cid9896005" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>The Sitches</unittitle>
+                        <container id="cid9893015" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2003/2003">2003 March 28</unitdate>
+                    </did>
+                    <scopecontent id="ref163">
+                        <head>Scope and Contents note</head>
+                        <p>The Gypsy Lounge, Lake Forest, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Strike Anywhere</unittitle>
+                        <container id="cid9893016" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2002/2002">2002 June 8</unitdate>
+                    </did>
+                    <scopecontent id="ref165">
+                        <head>Scope and Contents note</head>
+                        <p>The Palace, Hollywood, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>Super Chinchilla Rescue MIssion</unittitle>
+                        <container id="cid9893017" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2001/2001">2001 July 28</unitdate>
+                    </did>
+                    <scopecontent id="ref167">
+                        <head>Scope and Contents note</head>
+                        <p>En route to the Recreation Station, NJ</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>Superchunk</unittitle>
+                        <container id="cid9893018" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>Sweet J.A.P.</unittitle>
+                        <container id="cid9893019" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="2003/2003">2003 August 12</unitdate>
+                    </did>
+                    <scopecontent id="ref170">
+                        <head>Scope and Contents note</head>
+                        <p>Minneapolis, MN</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Swingin' Utters</unittitle>
+                        <container id="cid9893020" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>This Is My First</unittitle>
+                        <container id="cid9893021" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2004/2004">2004 November 21</unitdate>
+                    </did>
+                    <scopecontent id="ref173">
+                        <head>Scope and Contents note</head>
+                        <p>Anaheim, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>Throw Rag</unittitle>
+                        <container id="cid9893022" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2001/2001">2001 July 19</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>The Thumbs</unittitle>
+                        <container id="cid9893023" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Tiltwheel: Davey Quinn (Davey Tiltwheel)</unittitle>
+                        <container id="cid9893024" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2001/2001">2001 August 1</unitdate>
+                    </did>
+                    <scopecontent id="ref177">
+                        <head>Scope and Contents note</head>
+                        <p>Dubuque, IA, tour</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Tiltwheel: Davey Quinn (Davey Tiltwheel)</unittitle>
+                        <container id="cid9886029" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2009/2009">2009 February 26</unitdate>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>Insert is labeled 1 of 2 but second tape not present in collection.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Tiltwheel</unittitle>
+                        <container id="cid9893025" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2009/2009">2009 February 28</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>Tiltwheel: Paul Trash and J Wang</unittitle>
+                        <container id="cid9893026" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2009/2009">2009</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Tiltwheel</unittitle>
+                        <container id="cid9893027" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                    <scopecontent id="ref181">
+                        <head>Scope and Contents note</head>
+                        <p>Handwritten on B side of tape: D4- just a minute</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>The Tim Version</unittitle>
+                        <container id="cid9893028" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2005/2005">2005 January 25</unitdate>
+                    </did>
+                    <scopecontent id="ref183">
+                        <head>Scope and Contents note</head>
+                        <p>Phone interview.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle>Toys That Kill</unittitle>
+                        <container id="cid9893029" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2002/2002">2002 January 12</unitdate>
+                    </did>
+                    <scopecontent id="ref185">
+                        <head>Scope and Contents note</head>
+                        <p>Newland Apartment</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>Turbonegro</unittitle>
+                        <container id="cid9893030" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2003/2003">2003 March 3</unitdate>
+                    </did>
+                    <scopecontent id="ref187">
+                        <head>Scope and Contents note</head>
+                        <p>Troubadour, West Hollywood, CA</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>The Tyrades</unittitle>
+                        <container id="cid9893031" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2004/2004">2004 June 30</unitdate>
+                    </did>
+                    <scopecontent id="ref189">
+                        <head>Scope and Contents note</head>
+                        <p>Phone interview.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>The Underground Railroad to Candyland (URTC)</unittitle>
+                        <container id="cid9893032" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2009/2009">2009 May 14</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Vachss, Andrew</unittitle>
+                        <container id="cid9893033" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>Vallejo, Mike</unittitle>
+                        <container id="cid9893034" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                    <phystech id="ref193">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>3 microcassettes.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>Weeks, Grier (PROTECT)</unittitle>
+                        <container id="cid9893035" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2004/2004">2004 February 26</unitdate>
+                    </did>
+                    <scopecontent id="ref195">
+                        <head>Scope and Contents note</head>
+                        <p>Phone interview.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Western Addiction</unittitle>
+                        <container id="cid9893036" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2001/2001">2001 November 3</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="file">
+                    <did>
+                        <unittitle>Yemin, Dan</unittitle>
+                        <container id="cid9893037" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2000/2009" type="inclusive">2000s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>Young Offenders</unittitle>
+                        <container id="cid9893038" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="2009/2009">2009 December 5</unitdate>
+                    </did>
+                    <scopecontent id="ref200">
+                        <head>Scope and Contents note</head>
+                        <p>San Francisco, CA</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref234" level="series">
+                <did>
+                    <unittitle>Razorcake Fanzine Issues</unittitle>
+                    <unitdate normal="2001/2016" type="inclusive">2001-2016</unitdate>
+                </did>
+                <scopecontent id="ref244">
+                    <head>Scope and Content</head>
+                    <p>Published issues of 
+                        <title render="italic">Razorcake</title> fanzine from its inception up until March 2016 issue. Collection is missing no. 47.</p>
+                </scopecontent>
+                <c02 id="ref235" level="file">
+                    <did>
+                        <unittitle>Razorcake: No. 1-19</unittitle>
+                        <container id="cid9962001" type="Box" label="Mixed materials">4</container>
+                        <unitdate normal="2001/2004" type="inclusive">2001-2004</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Razorcake: No. 20-36</unittitle>
+                        <container id="cid9964001" type="Box" label="Mixed materials">5</container>
+                        <unitdate normal="2004/2007" type="inclusive">2004-2007</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="file">
+                    <did>
+                        <unittitle>Razorcake: No. 37-55</unittitle>
+                        <container id="cid9964002" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="2007/2010" type="inclusive">2007-2010</unitdate>
+                    </did>
+                    <scopecontent id="ref238">
+                        <head>Scope and Content</head>
+                        <p>Missing issue number 47, December 2008/January 2009</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref239" level="file">
+                    <did>
+                        <unittitle>Razorcake: No. 56-73</unittitle>
+                        <container id="cid9964003" type="Box" label="Mixed materials">7</container>
+                        <unitdate normal="2010/2013" type="inclusive">2010-2013</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="file">
+                    <did>
+                        <unittitle>Razorcake: No. 74-90</unittitle>
+                        <container id="cid9964004" type="Box" label="Mixed materials">8</container>
+                        <unitdate normal="2013/2016" type="inclusive">2013-2016</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref246" level="series">
+                <did>
+                    <unittitle>Memorabilia and Ephemera</unittitle>
+                    <unitdate normal="1989/2015" type="inclusive">1989-2015</unitdate>
+                </did>
+                <c02 id="ref257" level="file">
+                    <did>
+                        <unittitle>Punk t-shirts</unittitle>
+                        <container id="cid9986002" type="Box" label="Mixed materials">9-11</container>
+                        <unitdate normal="1989/2015" type="inclusive">1989-2015</unitdate>
+                    </did>
+                    <scopecontent id="ref263">
+                        <head>Scope and Content</head>
+                        <p>59 t-shirts with silk-screened logos of bands, record labels, record stores, and festivals, including Corrosion of Conformity, Thrasher, AwesomeFest, and Jay Reatard's early project, The Reatards. Also included are several 
+                            <title render="italic">Razorcake</title> shirts, notably the shirt worn by Todd Taylor on the cover of his book 
+                            <title render="italic">Born to Rock</title>.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref247" level="file">
+                    <did>
+                        <unittitle>Flight jacket</unittitle>
+                        <container id="cid9984002" type="Box" label="Mixed materials">12</container>
+                        <unitdate normal="1990/1999" type="inclusive">circa 1990s</unitdate>
+                    </did>
+                    <scopecontent id="ref248">
+                        <head>Scope and Content</head>
+                        <p>Black flight jacket with patches sewn on.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref264" level="file">
+                    <did>
+                        <unittitle>Book Your Own Fucking Life: No. 7, 10</unittitle>
+                        <container id="cid10289001" type="Box" label="Mixed materials">8</container>
+                        <container parent="cid10289001" type="Folder">1</container>
+                        <unitdate normal="1999/2002" type="inclusive">1999-2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref266" level="file">
+                    <did>
+                        <unittitle>Razorcake poster</unittitle>
+                        <container id="cid11575001" type="Box" label="Mixed materials">13</container>
+                        <unitdate normal="2009/2009">2009</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
