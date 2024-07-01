@@ -1,125 +1,53 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-<eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8ks6x3h/">mcka2279.xml</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Todd McKay musical compositions and papers, 
-<date calendar="gregorian" era="ce">1937-1991</date>
-</titleproper>
-<titleproper type="filing">McKay (Todd) musical compositions and papers</titleproper>
-<author>Finding aid prepared by Doug Johnson, 2015; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA, 90095-1575</addressline>
-<addressline>(310) 825-4988</addressline>
-<addressline>spec-coll@library.ucla.edu</addressline>
-</address>
-<date>Finding aid last modified on 12 May 2016.</date>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>This finding aid was produced using the Archivists' Toolkit
-<date>2016-05-12T10:54-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
-</creation>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<unittitle>Todd McKay musical compositions and papers</unittitle>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2279</unitid>
-<repository>
-<corpname>UCLA Library Special Collections</corpname>
-</repository>
-<langmaterial>
-<language langcode="eng"/>
-</langmaterial>
-<physdesc>
-<extent>3.0 linear ft.</extent>
-<extent>(5 document boxes and 1 oversize box)</extent>
-</physdesc>
-<unitdate normal="1937/1991" type="inclusive">1937-1991</unitdate>
-<abstract id="ref7" label="Abstract">Todd McKay was a resident of southern California who composed music. The collection consists mostly of his compositions but also includes a number of photographic negatives and a small amount of personal papers.</abstract>
-<physloc id="ref8" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-</did>
-<accessrestrict id="ref9">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict id="ref10">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<prefercite id="ref11">
-<head>Preferred Citation</head>
-<p>[Identification of item],Todd McKay Musical Compositions and Papers (Collection 2279). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
-</prefercite>
-<odd id="ref18">
-<head>UCLA Catalog Record ID</head>
-<p>UCLA Catalog Record ID: 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7727897">7727897</extref></p>
-</odd>
-<acqinfo id="ref12">
-<head>Provenance/Source of Acquisition</head>
-<p>Acquired from the University of California, Santa Barbara, 1993.</p>
-</acqinfo>
-<bioghist id="ref13">
-<head>Biography/History</head>
-<p>Todd McKay may have been born Mansell McKalip. Around 1937, he appears to have moved from Tarentum, PA, near Pittsburgh, to Los Angeles. He composed music, though there is no evidence that any of it was recorded or published. He may have worked for Paramount Pictures for a time. He retired in the Santa Barbara area.</p>
-</bioghist>
-<scopecontent id="ref14">
-<head>Scope and Content</head>
-<p>The collection consists of manuscripts of musical compositions by Todd McKay. There are also some photographs, mostly negatives, and a small amount of personal material, including correspondence.</p>
-</scopecontent>
-<arrangement id="ref15">
-<head>Organization and Arrangement</head>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c8ks6x3h/">mcka2279.xml</eadid><filedesc><titlestmt><titleproper type="filing">McKay (Todd) musical compositions and papers </titleproper><titleproper>Finding aid for the Todd McKay musical compositions and papers <num>LSC.2279</num></titleproper><author>Finding aid prepared by Doug Johnson, 2015; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Finding aid last modified on 12 May 2016.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-07-01 15:41:21 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Todd McKay musical compositions and papers</unittitle>
+    <unitid>LSC.2279</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 linear feet</extent>
+      <extent altrender="carrier">(5 document boxes and 1 oversize box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937/1991" type="inclusive">1937-1991</unitdate>
+    <abstract id="aspace_e09e4c0d68d24b7c07e8c37a66884407" label="Abstract">Todd McKay was a resident of southern California who composed music. The collection consists mostly of his compositions but also includes a number of photographic negatives and a small amount of personal papers.</abstract>
+    <physloc id="aspace_1c9f22ebb1483da6f7af2ee92c13e83e" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_68f31471a947c9fcdb8a4686372e058f">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_f87d88b289c1cb13b10482e44028b1ae">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_f55ac0491081f201673117509d9b3318">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_8af95111e480c2e259c43e5388895bbe">
+    <head>Provenance/Source of Acquisition</head>
+<p>Acquired from the University of California, Santa Barbara, 1993.</p>  </acqinfo>
+  <odd id="aspace_daac35efd3057ed11903a4016d29cdf2">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9977278973606533">9977278973606533</extref></p>  </odd>
+  <prefercite id="aspace_c248774eca96b14fd6dbd8096d742a69">
+    <head>Preferred Citation</head>
+<p>[Identification of item],Todd McKay Musical Compositions and Papers (Collection 2279). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_dfd3b0ba2eb74be8dde62dbc934c11d3">
+    <head>Processing Information</head>
+<p>In a typewritten inventory from 1994, several audio records are listed. When we retrieved this collection from storage on September 10, 2015, those records were not present. dj, 9/16/15.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's Library Collections and Archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_551aa85bf25d19b57cf906ae179a1ccf">
+    <head>Biography/History</head>
+<p>Todd McKay may have been born Mansell McKalip. Around 1937, he appears to have moved from Tarentum, PA, near Pittsburgh, to Los Angeles. He composed music, though there is no evidence that any of it was recorded or published. He may have worked for Paramount Pictures for a time. He retired in the Santa Barbara area.</p>  </bioghist>
+  <scopecontent id="aspace_d9414dc3aa97a494a6c4fbc58864ec78">
+    <head>Scope and Content</head>
+<p>The collection consists of manuscripts of musical compositions by Todd McKay. There are also some photographs, mostly negatives, and a small amount of personal material, including correspondence.</p>  </scopecontent>
+  <arrangement id="aspace_e5d0e4d1d8437c1b498c35cb1325444a">
+    <head>Organization and Arrangement</head>
 <p>This collection is arranged into the following series:
-<list type="simple">
-<item>Series 1. Musical compositions by Todd McKay</item>
+<list type="simple"><item>Series 1. Musical compositions by Todd McKay</item>
 <item>Series 2. Photographs</item>
-<item>Series 3. Personal papers</item>
-</list></p>
-</arrangement>
-<dsc type="in-depth">
-<head>Container List</head>
-<c01 id="ref1" level="series">
-<did>
-<unittitle>Series 1. Musical compositions by Todd McKay.</unittitle>
-<container id="cid9516065" type="Boxes">1-4, 6</container>
-<unitdate>1946-1983.</unitdate>
-</did>
-<scopecontent id="ref6">
-<head>Scope and Content</head>
-<p>Includes manuscripts and reproductions of songs and orchestral works.</p>
-</scopecontent>
-</c01>
-<c01 id="ref2" level="series">
-<did>
-<unittitle>Series 2. Photographs.</unittitle>
-<container id="cid9516066" type="Boxes">4-5</container>
-<unitdate>1938-1989.</unitdate>
-</did>
-<scopecontent id="ref5">
-<head>Scope and Content</head>
-<p>Includes negatives of vacation snapshots, small prints, one roll of Super 8 motion picture film.</p>
-</scopecontent>
-</c01>
-<c01 id="ref3" level="series">
-<did>
-<unittitle>Series 3. Personal papers.</unittitle>
-<container id="cid9516067" type="Boxes">5-6</container>
-<unitdate>1937-1991.</unitdate>
-</did>
-<scopecontent id="ref4">
-<head>Scope and Content</head>
-<p>Includes autograph book, correspondence with family members, map of RKO studio, periodicals, materials regarding copyright [Box 5]; promotional oversize booklet "Fairs" [Box 6].</p>
-</scopecontent>
-</c01>
-</dsc>
+<item>Series 3. Personal papers</item></list></p>  </arrangement>
+  <separatedmaterial id="aspace_b9b3e9a8132c6670c687711d1487f2ac">
+    <head>Separated Material</head>
+<p>A small amount of nitrate film was transferred to the UCLA Film and Television Archive, 11/5/2015.</p>  </separatedmaterial>
+  <dsc><c01 id="aspace_ref1_ch1" level="series"><did><unittitle>Series 1. Musical compositions by Todd McKay</unittitle><unitdate datechar="creation">1946-1983</unitdate><container id="aspace_352ab24a76a644fbd60162d4fa41c4fb" label="Mixed Materials" type="box">1</container><container id="aspace_114468eadf7baec8bd7a3fd5e2fb81a7" label="Mixed Materials" type="box">2</container><container id="aspace_e7854b8bfe434dbc2272e2ef96012514" label="Mixed Materials" type="box">3</container><container id="aspace_2b5fa63d49f734fc9b1a7b4f7bd6ce4c" label="Mixed Materials" type="box">4</container><container id="aspace_5f70c386b0985908902c48bef616dabe" label="Mixed Materials" type="box">6</container></did><scopecontent id="aspace_9b7a4dc732e8947fd6fa8b3e1aabc832"><head>Scope and Content</head><p>Includes manuscripts and reproductions of songs and orchestral works.</p></scopecontent></c01><c01 id="aspace_ref2_97k" level="series"><did><unittitle>Series 2. Photographs</unittitle><unitdate datechar="creation">1938-1989</unitdate><container id="aspace_b4d2e81dc05985bc887b8d5fb8924d32" label="Mixed Materials" type="box">4</container><container id="aspace_5ef2768b7d97e8d26e71544cdca58d44" label="Mixed Materials" type="box">5</container></did><scopecontent id="aspace_817eebdb39541397144c4391b6d4a6fd"><head>Scope and Content</head><p>Includes negatives of vacation snapshots, small prints, one roll of Super 8 motion picture film.</p></scopecontent></c01><c01 id="aspace_ref3_x0k" level="series"><did><unittitle>Series 3. Personal papers</unittitle><unitdate datechar="creation">1937-1991</unitdate><container id="aspace_9e92e7a3ef87000cd25cfebd9e05f648" label="Mixed Materials" type="box">5</container><container id="aspace_74d3f61bdeb4a8cb25f6802b5267fdfc" label="Mixed Materials" type="box">6</container></did><scopecontent id="aspace_58ecca67d7a6b7581dd8e381ecf1ac13"><head>Scope and Content</head><p>Includes autograph book, correspondence with family members, map of RKO studio, periodicals, materials regarding copyright [Box 5]; promotional oversize booklet "Fairs" [Box 6].</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
