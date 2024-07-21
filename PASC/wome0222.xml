@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC">wome0222.xml</eadid><filedesc><titlestmt><titleproper type="filing">Women in Animation oral history transcripts</titleproper><titleproper>Finding Aid for the Women in Animation Oral History Transcripts <num>PASC.0222</num></titleproper><author>Finding aid prepared by Jasmine Larkin, 2020.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2020 December 10.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>spec-coll@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/special-collections" xlink:show="new" xlink:title="https://www.library.ucla.edu/special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-12-10 19:20:01 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Women in Animation oral history transcripts</unittitle>
+    <origination label="Creator">
+      <corpname rules="rda" source="local">Women in Animation</corpname>
+    </origination>
+    <unitid>PASC.0222</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.0 Linear Feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1994/1997" type="inclusive">1994-1997</unitdate>
+    <physloc id="aspace_6bd60e1b180ae7df51810232009719db">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_8123ded3886e3147c789ac820ff56d2e">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_604b34635f753fd8329bfb33ec2d7d9c">
+    <head>Conditions Governing Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <acqinfo id="aspace_361b9ffce3c58d3bce97b33a3ee324d9">
+    <head>Immediate Source of Acquisition</head>
+<p>Source and date of receipt unknown.</p>  </acqinfo>
+  <odd id="aspace_85b3cd1c17455f51b70b20c371826a5b">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4436179">4436179</extref></p>  </odd>
+  <prefercite id="aspace_883ca8c0a0b81739d65721eedcf9b298">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Women in Animation oral history transcripts (Collection 222). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <scopecontent id="aspace_85b7616d79d68ed1d360fa3693b256c0">
+    <head>Scope and Contents</head>
+<p>Collection consists of oral history transcripts from interviews conducted by the organization, Women in Animation. Contains interviews with women pioneers from the animation industry, including Frances Arriola, Susan Ashley, Barbara Baldwin, Betty Brooks, Martha Buckley, Xenia De Mattia, Becky Fallberg, Mary Jane Frost, Grace Godino, Wilma Guenot, Julie Harvey, Anneline Liu, Joan Orbison, Sylvia Roemer, Martha Sigall, Gini Swift and Auril Thompson. The interviews are varied in terms of positions held and talents expressed while in the animation industry.</p>  </scopecontent>
+  <userestrict id="aspace_8fdcb08dd56434788e7f2e697c9bfbfb">
+    <head>Conditions Governing Reproduction and Use</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <dsc/>
+</archdesc>
+</ead>
