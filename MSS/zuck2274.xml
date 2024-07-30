@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c822306n/">zuck2274.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Bessie Zuckerman papers
+</titleproper>
+<titleproper type="filing">Zuckerman (Bessie) papers</titleproper>
+<author>Finding aid prepared by Rachel Ferensowicz; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©2015 The Regents of the University of California. All rights reserved.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2015-09-11T10:21-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Bessie Zuckerman papers</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2274</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>3.8 linear ft.</extent>
+<extent>(2 document boxes, 5 flat boxes, and 1 oversize flat box)</extent>
+</physdesc>
+<unitdate normal="1917/1934" type="bulk">Bulk, 1917-1934</unitdate>
+<unitdate normal="1870/1964" type="inclusive">1870-1964</unitdate>
+<physloc id="ref58" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+<origination label="Creator">
+<persname source="local">Zuckerman, Bessie </persname>
+</origination>
+</did>
+<accessrestrict id="ref55">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict id="ref56">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite id="ref57">
+<head>Preferred Citation</head>
+<p>[Identification of item], Bessie Zuckerman Papers (Collection 2274). Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd id="ref63">
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7670710">7670710</extref></p>
+</odd>
+<bioghist id="ref53">
+<head>Biography/History</head>
+<p>Bessie (Besse) Zuckerman (circa 1886-1968) was a prominent member of the community of music associations in Los Angeles between 1920 and 1940. She founded the Santa Monica Bay Music Association and served as its president. She also served as president of the Bay Cities Music Association, where among other accomplishments she worked to make concerts accessible to school children. In addition, Zuckerman was chairman of the Venice Community Sing and of the Local Convention Board for the California Federation of Music Clubs. In 1926, she accepted an invitation to serve on the Hollywood Bowl Association’s Music Committee, and in 1927 the Hollywood Bowl Audition Board extended an invitation to her. Zuckerman was also a member of the Opera Reading Club of Hollywood and the Santa Monica Bay Woman’s Club, and she organized musical events for the Union League Club of Los Angeles.</p>
+</bioghist>
+<scopecontent id="ref2">
+<head>Scope and Content</head>
+<p>This collection consists of material relating to Bessie Zuckerman, a prominent member of the community of music associations in Los Angeles between 1920 and 1940. Items include music scores, sheet music, performance programs, correspondence, photographs, ephemera, and publications. The collection also contains a small amount of material concerning the composer and performer Mana-Zucca, and California music and entertainment figure L. E. Behymer.</p>
+</scopecontent>
+<arrangement id="ref3">
+<head>Organization and Arrangement</head>
+<p>This collection is organized into the following series: 
+<list type="simple">
+<item>Series 1. Subject files</item>
+<item>Series 2. Correspondence</item>
+<item>Series 3. Photographs</item>
+<item>Series 4. Music</item>
+<item>Series 5. Ephemera</item>
+<item>Series 6. Publications. </item>
+</list></p>
+</arrangement>
+<controlaccess>
+<persname source="naf">Behymer, Lynden Ellsworth</persname>
+<corpname source="ingest">Hollywood Bowl (Los Angeles, Calif.).</corpname>
+<persname source="local">Mana-Zucca</persname>
+<persname rules="local" source="local">Zuckerman, Bessie--Archives </persname>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref5" level="series">
+<did>
+<unittitle>Series 1. Subject files.</unittitle>
+<unitdate>1920-1958.</unitdate>
+</did>
+<c02 id="ref7" level="file">
+<did>
+<unittitle>Mana-Zucca.</unittitle>
+<container id="cid9322018" type="Box">1</container>
+<container parent="cid9322018" type="Folder">1</container>
+<unitdate normal="1920/1940" type="inclusive">1920-1940.</unitdate>
+</did>
+<scopecontent id="ref8">
+<p>Contains photographs, inscribed scores, correspondence, and newspaper clippings from and concerning the composer and performer Mana-Zucca (Augusta Zuckerman Cassel, 1885-1981).</p>
+</scopecontent>
+</c02>
+<c02 id="ref9" level="file">
+<did>
+<unittitle>Hollywood Bowl.</unittitle>
+<container id="cid9322017" type="Box">1</container>
+<container parent="cid9322017" type="Folder">2</container>
+<unitdate>1926-1958.</unitdate>
+</did>
+<scopecontent id="ref10">
+<p>Contains programs, publications, clippings, and correspondence relating to Bessie Zuckerman’s involvement with the foundation of the Hollywood Bowl.</p>
+</scopecontent>
+</c02>
+<c02 id="ref11" level="file">
+<did>
+<unittitle>L. E. Behymer.</unittitle>
+<container id="cid9322016" type="Box">1</container>
+<container parent="cid9322016" type="Folder">3</container>
+<unitdate normal="1928/1947" type="inclusive">1928-1947.</unitdate>
+</did>
+<scopecontent id="ref13">
+<p>Photos, correspondence, inscribed scores, newspaper clippings and publications concerning L. E. Behymer (Lynden Ellison Behymer, 1862-1947)’s role as a music and entertainment figure in California.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref14" level="series">
+<did>
+<unittitle>Series 2. Correspondence.</unittitle>
+<container id="cid9322015" type="Box">1</container>
+<container parent="cid9322015" type="Folder">4</container>
+<unitdate normal="1922/1930" type="inclusive">1922-1930.</unitdate>
+</did>
+<scopecontent id="ref59">
+<head>Scope and Content</head>
+<p>Primarily personal correspondence; also includes blank stationary for various music associations.</p>
+</scopecontent>
+</c01>
+<c01 id="ref17" level="series">
+<did>
+<unittitle>Series 3. Photographs.</unittitle>
+<container id="cid9322014" type="Box">1</container>
+<container parent="cid9322014" type="Folder">5</container>
+<unitdate normal="1920/1930" type="inclusive">circa 1920-1930.</unitdate>
+</did>
+<scopecontent id="ref19">
+<p>Photographs include inscribed portraits, stills from performances, and images of galas and events in Los Angeles.</p>
+</scopecontent>
+</c01>
+<c01 id="ref20" level="series">
+<did>
+<unittitle>Series 4. Music.</unittitle>
+<unitdate normal="1870/1964" type="inclusive">1870-1964.</unitdate>
+</did>
+<c02 id="ref22" level="file">
+<did>
+<unittitle>Piano and instrumental ensemble scores.</unittitle>
+<container id="cid9409017" type="Box">3</container>
+<container parent="cid9409017" type="Folders">1-4</container>
+<container id="cid9322013" type="Box">4</container>
+<container parent="cid9322013" type="Folders">1-5</container>
+<container id="cid9409018" type="Box">5</container>
+<container parent="cid9409018" type="Folders">1-5</container>
+<unitdate normal="1870/1930" type="inclusive">1870-1930.</unitdate>
+</did>
+</c02>
+<c02 id="ref26" level="file">
+<did>
+<unittitle>Vocal Scores in English.</unittitle>
+<container id="cid9330001" type="Box">2</container>
+<container parent="cid9330001" type="Folders">5-7</container>
+<container id="cid9322011" type="Box">6</container>
+<container parent="cid9322011" type="Folders">1-3</container>
+<unitdate normal="1900/1964" type="inclusive">1900-1964.</unitdate>
+</did>
+</c02>
+<c02 id="ref28" level="file">
+<did>
+<unittitle>Vocal Scores in German, French, Italian, and Russian.</unittitle>
+<container id="cid9409016" type="Box">6</container>
+<container parent="cid9409016" type="Folder">4</container>
+<container id="cid9322010" type="Box">7</container>
+<container parent="cid9322010" type="Folders">1-5</container>
+<unitdate>1892-1952 .</unitdate>
+</did>
+</c02>
+<c02 id="ref30" level="file">
+<did>
+<unittitle>Inscribed music.</unittitle>
+<container id="cid9322009" type="Box">3</container>
+<container parent="cid9322009" type="Folder">5</container>
+<container id="cid9322008" type="Box">8</container>
+<container parent="cid9322008" type="Folder">2</container>
+<unitdate normal="1915/1928" type="inclusive">1915-1928.</unitdate>
+</did>
+<scopecontent id="ref32">
+<p>Inscriptions are on sheet music and scores from Nino Marcelli (1928), Francesco Ferullo (1928), Mrs. Thomas Allen Woodruff, Florence Howard (1917), Ward Stevens (1920) Edward Lebegott (1915), and Percy Grainger.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref36" level="series">
+<did>
+<unittitle>Series 5. Ephemera.</unittitle>
+<unitdate normal="1925/1940" type="inclusive">1925-1940.</unitdate>
+</did>
+<scopecontent id="ref49">
+<p>Includes Zuckerman’s personal scrapbook, fliers, pamphlets, promotional material, menus, press releases, and newspaper clippings, primarily concerning music associations and events in the Los Angeles area.</p>
+<p>Also includes programs from theatre, music, dance, musical, and opera performances in the Los Angeles area, France, and Germany.</p>
+<p></p>
+</scopecontent>
+<c02 id="ref38" level="file">
+<did>
+<unittitle>Ephemera.</unittitle>
+<container id="cid9322006" type="Box">1</container>
+<container parent="cid9322006" type="Folder">6</container>
+<container id="cid9409015" type="Box">8</container>
+<container parent="cid9409015" type="Folder">1</container>
+<unitdate normal="1920/1940" type="inclusive">1920-1940.</unitdate>
+</did>
+</c02>
+<c02 id="ref61" level="file">
+<did>
+<unittitle>Performance programs.</unittitle>
+<container id="cid9409013" type="Box">1</container>
+<container parent="cid9409013" type="Folder">7</container>
+<unitdate>1915-1940.</unitdate>
+</did>
+</c02>
+<c02 id="ref41" level="file">
+<did>
+<unittitle>Press Releases.</unittitle>
+<container id="cid9322004" type="Box">1</container>
+<container parent="cid9322004" type="Folder">8</container>
+<unitdate>1934.</unitdate>
+</did>
+<scopecontent id="ref43">
+<p>Pre-publication drafts of the "Eventful Days of Westways," January 25 through July 1, 1934.</p>
+</scopecontent>
+</c02>
+<c02 id="ref44" level="file">
+<did>
+<unittitle>Newspaper Clippings.</unittitle>
+<container id="cid9322003" type="Box">1</container>
+<container parent="cid9322003" type="Folder">9</container>
+<unitdate normal="1927/1935" type="inclusive">1927-1935.</unitdate>
+</did>
+</c02>
+<c02 id="ref46" level="file">
+<did>
+<unittitle>Santa Monica Bay Music Association.</unittitle>
+<container id="cid9322002" type="Box">1</container>
+<container parent="cid9322002" type="Folder">10</container>
+<unitdate normal="1925/1927" type="inclusive">1925-1927.</unitdate>
+</did>
+</c02>
+<c02 id="ref62" level="file">
+<did>
+<unittitle>Scrapbook.</unittitle>
+<container id="cid9409014" type="Box">8</container>
+<container parent="cid9409014" type="Folder">1</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref50" level="series">
+<did>
+<unittitle>Series 6. Publications.</unittitle>
+<container id="cid9322001" type="Box">2</container>
+<container parent="cid9322001" type="Folders">1-4</container>
+<unitdate normal="1930/1958" type="inclusive">1930-1958.</unitdate>
+</did>
+<scopecontent id="ref52">
+<p>Includes a book, record reviews, catalogs, magazines, and publications of the Bach Society and Beethoven Sonata Society.</p>
+</scopecontent>
+</c01>
+</dsc>
+</archdesc>
+</ead>
