@@ -1,0 +1,3215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC">mann2259.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Sam Manners papers, 1966-1988
+</titleproper>
+<titleproper type="filing">Manners (Sam) papers</titleproper>
+<author>Finding aid prepared by Elsie Doolan with supervision from Julie Graham, May 2015; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>Online finding aid last uploaded 22 November 2016.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2016-11-22T14:09-0800</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Sam Manners papers</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2259</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>10.8 linear ft.</extent>
+<extent>(2 boxes and 10 cartons)</extent>
+</physdesc>
+<unitdate>1966-1988</unitdate>
+<abstract id="ref578" label="Abstract">Sam Manners was a television and motion picture producer with credits such as 
+<title>Dummy, Guyana Tragedy: The Story of Jim Jones</title>, 
+<title>The Naked City</title>, and 
+<title>Route 66</title>. The bulk of the collection consists of bound scripts from Manners’ television and motion picture projects. Also included are a small amount of photographs and biographical materials.</abstract>
+<langmaterial id="ref587" label="Language of Materials">English.</langmaterial>
+<physloc id="ref588" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+</did>
+<accessrestrict id="ref589">
+<head>Conditions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+<p>Portion of boxes 7 and 12 are restricted from access and requires advanced notice for use.</p>
+</accessrestrict>
+<userestrict id="ref595">
+<head>Conditions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite id="ref577">
+<head>Preferred Citation</head>
+<p>[Identification of item], Sam Manners Papers (Collection 2259). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+</prefercite>
+<odd id="ref644">
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7685782">7685782</extref></p>
+</odd>
+<acqinfo id="ref590">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Kelly Manners; 2014.</p>
+</acqinfo>
+<processinfo id="ref591">
+<head>Processing Information</head>
+<p>Processed by Elsie Doolan with assistance from Julie Graham; May 2015.</p>
+</processinfo>
+<bioghist id="ref592">
+<head>Biography/History</head>
+<p>Savino Maneri, later changed to Sam Manners, was born March 29, 1921 in Cleveland, Ohio. Manners began his career as a production supervisor on the television series, 
+<title>The Adventures of Rin-Tin-Tin</title>. He went on to become an associate producer, a production executive and second unit director on the series 
+<title>Naked City</title>, and associate producer, executive in charge of production and second unit director on the series 
+<title>Route 66</title>. Among his other television credits are the series 
+<title>Dundee and Cullhane</title>, 
+<title>Petrocelli</title>, and 
+<title>The Wild Wild West</title>, and the television movies 
+<title>Dummy</title> and 
+<title>Guyana Tragedy: The Story of Jim Jones</title>, which were both Emmy nominated for outstanding special. Manners’ motion picture credits include 
+<title>Cleopatra Jones</title>, 
+<title>The Deadly Trackers</title>, and 
+<title>Valdez is Coming</title>, among others. Sam Manners died June 1, 2012.</p>
+</bioghist>
+<arrangement id="ref594">
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: 
+<list type="simple">
+<item>1. Biographical Information</item>
+<item>2. Television Projects</item>
+<item>3. Motion Picture Projects</item>
+<item>4. Photographs. </item>
+</list></p>
+</arrangement>
+<controlaccess>
+<persname source="ingest">Manners, Sam--Archives.</persname>
+<occupation source="lcsh">Motion picture producers and directors--United States--Archives.</occupation>
+<occupation source="lcsh">Television producers and directors--United States--Archives.</occupation>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref3" level="series">
+<did>
+<unittitle>Biographical Information.</unittitle>
+<physdesc>
+<extent>(Box 11)</extent>
+</physdesc>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref580">
+<head>Scope and Content</head>
+<p>This series consists of a scrapbook titled, Savino Maneri: This is Your Life? By Sam Manners.</p>
+</scopecontent>
+<c02 id="ref562" level="file">
+<did>
+<unittitle>Savino Maneri: This is Your Life? by Sam Manners - scrapbook.</unittitle>
+<container id="cid9298001" type="Box">11</container>
+<unitdate>ca. 1940s-1962.</unitdate>
+</did>
+<scopecontent id="ref596">
+<head>Scope and Content</head>
+<p>Mostly clippings from magazines and newspapers and a small number of programs and photographs documenting Manners' career.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref1" level="series">
+<did>
+<unittitle>Television Projects.</unittitle>
+<physdesc>
+<extent>(Boxes 1-10)</extent>
+</physdesc>
+<unitdate>1956-1981.</unitdate>
+</did>
+<scopecontent id="ref581">
+<head>Scope and Content</head>
+<p>This series consists of bound scripts documenting a variety of television series and TV movies in which Manners was involved. Additionally there are a small number of photographs. The television series scripts represent programs such as 
+<title>Dundee and Cullhane</title>, 
+<title>The Naked City</title>, 
+<title>Rin-Tin-Tin </title>, 
+<title>Route 66 </title>, and 
+<title>The Wild Wild West</title>, among others. Television movie scripts include 
+<title>Dummy</title>, 
+<title>Hot Rod</title>, and 
+<title>Pearl</title>, among others. A small number of scripts were authored by Manners. The photographs are related to productions of 
+<title>Dummy</title>, 
+<title>Pearl</title>, and 
+<title>Route 66</title>, among others. Notably absent are materials pertaining to Manner’s Emmy nominated television movie 
+<title>Guyana Tragedy: The Story of Jim Jones</title>. The series is arranged alphabetically by project title.</p>
+<p>Boxes 7 and 12 are restricted from access and requires advanced notice for use.</p>
+</scopecontent>
+<c02 id="ref556" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin photograph of James Brown as Rip Masters.</unittitle>
+<container id="cid9254002" type="Box">11</container>
+<unitdate>ca. 1958.</unitdate>
+</did>
+<scopecontent id="ref570">
+<head>Scope and Content</head>
+<p>James Brown.</p>
+</scopecontent>
+</c02>
+<c02 id="ref37" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: The Accusation - final draft script.</unittitle>
+<container id="cid9223016" type="Box">1</container>
+<unitdate>1958 Apr 23.</unitdate>
+</did>
+<scopecontent id="ref36">
+<p>In bound volume labeled Rin-Tin-Tin Series V, Volume XIII, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref517" level="file">
+<did>
+<unittitle>Angel Loves Nobody - script written by Sam Manners.</unittitle>
+<container id="cid9235112" type="Box">9</container>
+<unitdate>1973 Nov 1.</unitdate>
+</did>
+</c02>
+<c02 id="ref518" level="file">
+<did>
+<unittitle>Archer: The Underground Man - final revised draft script.</unittitle>
+<container id="cid9235113" type="Box">7</container>
+<unitdate>1974 Feb 8.</unitdate>
+</did>
+<accessrestrict id="ref647">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref519" level="file">
+<did>
+<unittitle>Barbary Coast - script.</unittitle>
+<container id="cid9235114" type="Box">9</container>
+<unitdate>1975 Feb 28.</unitdate>
+</did>
+</c02>
+<c02 id="ref512" level="file">
+<did>
+<unittitle>Bearcats!: Dos Gringos - final draft script.</unittitle>
+<container id="cid9235108" type="Box">7</container>
+<unitdate>1971 Jun 28.</unitdate>
+</did>
+<scopecontent id="ref511">
+<p>In bound volume labeled Bearcats Series I, Volume I, 1971-1972.</p>
+</scopecontent>
+<accessrestrict id="ref648">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref514" level="file">
+<did>
+<unittitle>Bearcats!: The Feathered Serpent - final draft script.</unittitle>
+<container id="cid9235109" type="Box">7</container>
+<unitdate>1971 Jul 12.</unitdate>
+</did>
+<scopecontent id="ref513">
+<p>In bound volume labeled Bearcats Series I, Volume I, 1971-1972.</p>
+</scopecontent>
+<odd id="ref639">
+<p>Item is restricted and requires advance notice for use.</p>
+</odd>
+</c02>
+<c02 id="ref530" level="file">
+<did>
+<unittitle>Before and After - script.</unittitle>
+<container id="cid9235121" type="Box">9</container>
+<unitdate>1979 Jun 18.</unitdate>
+</did>
+</c02>
+<c02 id="ref501" level="file">
+<did>
+<unittitle>Blondie: Sayonara, Dagwood - script.</unittitle>
+<container id="cid9235101" type="Box">8</container>
+<unitdate>1967 Nov 13.</unitdate>
+</did>
+</c02>
+<c02 id="ref539" level="file">
+<did>
+<unittitle>Breaking Away: The American Dream - final script.</unittitle>
+<container id="cid9245003" type="Box">10</container>
+<unitdate>1980 Oct 14.</unitdate>
+</did>
+<scopecontent id="ref538">
+<p>In bound volume labeled Breaking Away Series I, Volume I, 1980-1981.</p>
+</scopecontent>
+</c02>
+<c02 id="ref536" level="file">
+<did>
+<unittitle>Breaking Away: King of the Quarry.</unittitle>
+<container id="cid9245002" type="Box">10</container>
+<unitdate>1980 Oct 8.</unitdate>
+</did>
+<scopecontent id="ref537">
+<head>Scope and Content</head>
+<p>In bound volume labeled Breaking Away Series I, Volume I, 1980-1981.</p>
+</scopecontent>
+</c02>
+<c02 id="ref541" level="file">
+<did>
+<unittitle>Breaking Away: Knowing Her... - revised final draft script.</unittitle>
+<container id="cid9245004" type="Box">10</container>
+<unitdate>1980 Oct 29.</unitdate>
+</did>
+<scopecontent id="ref540">
+<p>In bound volume labeled Breaking Away Series I, Volume I, 1980-1981.</p>
+</scopecontent>
+</c02>
+<c02 id="ref610" level="file">
+<did>
+<unittitle>[Deadly Trackers] photographs 3 items.</unittitle>
+<container id="cid10764001" type="Box">11</container>
+</did>
+<scopecontent id="ref611">
+<head>Scope and Content</head>
+<p>Manners, Richard Harris, and other unidentified individuals.</p>
+</scopecontent>
+</c02>
+<c02 id="ref542" level="file">
+<did>
+<unittitle>Divorce Wars - final draft script.</unittitle>
+<container id="cid9245005" type="Box">12</container>
+<unitdate>1981 July 28.</unitdate>
+</did>
+<accessrestrict id="ref645">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref521" level="file">
+<did>
+<unittitle>Dummy - final shooting script.</unittitle>
+<container id="cid9235116" type="Box">9</container>
+<unitdate>1978 Oct 19.</unitdate>
+</did>
+</c02>
+<c02 id="ref558" level="file">
+<did>
+<unittitle>Dummy photographs (4 items).</unittitle>
+<container id="cid9254005" type="Box">11</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref572">
+<head>Scope and Content</head>
+<p>With Manners, Paul Servino, and other unidentified individuals.</p>
+</scopecontent>
+</c02>
+<c02 id="ref414" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The 1000 Feet Deep: Brief - script.</unittitle>
+<container id="cid9235055" type="Box">6</container>
+<unitdate>1967 Aug 30.</unitdate>
+</did>
+<scopecontent id="ref413">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume III, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref408" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The 3:10 To A Lynching: Brief - revised final draft script.</unittitle>
+<container id="cid9235052" type="Box">6</container>
+<unitdate>1967 Jul 25.</unitdate>
+</did>
+<scopecontent id="ref407">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume II, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref392" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Cat in the Bag Brief - script.</unittitle>
+<container id="cid9309001" type="Box">6</container>
+<unitdate>1966 Nov 28.</unitdate>
+</did>
+<scopecontent id="ref394">
+<head>Scope and Content</head>
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume I, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref402" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Catch-A-Thief: Brief - final draft script.</unittitle>
+<container id="cid9235049" type="Box">6</container>
+<unitdate>1967 Jun 16.</unitdate>
+</did>
+<scopecontent id="ref401">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume I, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref396" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Dead Man's Brief - revised script.</unittitle>
+<container id="cid9235046" type="Box">6</container>
+<unitdate>1967 May 31.</unitdate>
+</did>
+<scopecontent id="ref395">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume I, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref412" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Duelist: Brief - final draft script.</unittitle>
+<container id="cid9235054" type="Box">6</container>
+<unitdate>1967 Aug 8.</unitdate>
+</did>
+<scopecontent id="ref411">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume III, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref406" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Jubilee Raid: Brief - 2nd revised final script.</unittitle>
+<container id="cid9235051" type="Box">6</container>
+<unitdate>1967 Jul 14.</unitdate>
+</did>
+<scopecontent id="ref405">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume II, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref398" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Las of the Buffalo Brief - revised script.</unittitle>
+<container id="cid9235047" type="Box">6</container>
+<unitdate>1967 May 12.</unitdate>
+</did>
+<scopecontent id="ref397">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume I, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref410" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Murderer Stallion: Brief - script.</unittitle>
+<container id="cid9235053" type="Box">6</container>
+<unitdate>1967 Aug 2.</unitdate>
+</did>
+<scopecontent id="ref409">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume II, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref418" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: Thy Brother's Keeper: Brief - script.</unittitle>
+<container id="cid9235057" type="Box">6</container>
+<unitdate>1967 Sep 18.</unitdate>
+</did>
+<scopecontent id="ref417">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume III, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref400" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Turn the Other Cheek Brief - final draft script.</unittitle>
+<container id="cid9235048" type="Box">6</container>
+<unitdate>1967 Jun 13.</unitdate>
+</did>
+<scopecontent id="ref399">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume I, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref404" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Vasquez Brief - script.</unittitle>
+<container id="cid9235050" type="Box">6</container>
+<unitdate>1967 Jun 26.</unitdate>
+</did>
+<scopecontent id="ref403">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume II, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref416" level="file">
+<did>
+<unittitle>Dundee and the Cullhane: The Widow's Weeds: Brief - revised script.</unittitle>
+<container id="cid9235056" type="Box">6</container>
+<unitdate>1967 Sep 8.</unitdate>
+</did>
+<scopecontent id="ref415">
+<p>In bound volume labeled Dundee and the Cullhane Series I, Volume III, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref544" level="file">
+<did>
+<unittitle>From Russia with Sex - script.</unittitle>
+<container id="cid9245007" type="Box">10</container>
+<unitdate>undated.</unitdate>
+</did>
+</c02>
+<c02 id="ref520" level="file">
+<did>
+<unittitle>Grumman, Missing Persons - script written by Sam Manners and John Montgomery.</unittitle>
+<container id="cid9235115" type="Box">9</container>
+<unitdate>1977 Mar 31.</unitdate>
+</did>
+</c02>
+<c02 id="ref500" level="file">
+<did>
+<unittitle>Hawaii Five-O: Once Upon a Time - first draft script.</unittitle>
+<container id="cid9235100" type="Box">8</container>
+<unitdate>1968 Aug 27.</unitdate>
+</did>
+</c02>
+<c02 id="ref529" level="file">
+<did>
+<unittitle>Hot Rod - final draft script.</unittitle>
+<container id="cid9235120" type="Box">9</container>
+<unitdate>1979 Mar 2.</unitdate>
+</did>
+</c02>
+<c02 id="ref561" level="file">
+<did>
+<unittitle>[Hot Rod] photographs of Manners (2 items).</unittitle>
+<container id="cid9277001" type="Box">11</container>
+<unitdate>undated.</unitdate>
+</did>
+</c02>
+<c02 id="ref498" level="file">
+<did>
+<unittitle>Lassiter: Tonight We Make Them Cry - final script.</unittitle>
+<container id="cid9235099" type="Box">8</container>
+<unitdate>1966 Nov 1.</unitdate>
+</did>
+</c02>
+<c02 id="ref531" level="file">
+<did>
+<unittitle>The Mad Messiah: Part I - script.</unittitle>
+<container id="cid9235122" type="Box">12</container>
+<unitdate>1979 Oct 31.</unitdate>
+</did>
+<scopecontent id="ref532">
+<head>Scope and Content</head>
+<p>In binding labeled The Mad Messiah, 1979.</p>
+</scopecontent>
+<accessrestrict id="ref650">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref533" level="file">
+<did>
+<unittitle>The Mad Messiah: Part II - script.</unittitle>
+<container id="cid9235123" type="Box">12</container>
+<unitdate>1979 Oct 31.</unitdate>
+</did>
+<scopecontent id="ref534">
+<head>Scope and Content</head>
+<p>In binding labeled The Mad Messiah, 1979.</p>
+</scopecontent>
+<accessrestrict id="ref651">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref505" level="file">
+<did>
+<unittitle>Mongo's Back in Town - script.</unittitle>
+<container id="cid9235105" type="Box">7</container>
+<unitdate>ca. 1971 Sep.</unitdate>
+</did>
+<accessrestrict id="ref652">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref583" level="file">
+<did>
+<unittitle>The Naked City photographs.</unittitle>
+<container id="cid9309002" type="Box">11</container>
+</did>
+<scopecontent id="ref584">
+<head>Scope and Content</head>
+<p>Sam Manners, Horace McMahon, and unidentified crew.</p>
+</scopecontent>
+</c02>
+<c02 id="ref69" level="file">
+<did>
+<unittitle>The Naked City: And A Merry Christmas to the Force on Patrol - final draft teleplay.</unittitle>
+<container id="cid9223031" type="Box">1</container>
+<unitdate>1958 Oct 15 .</unitdate>
+</did>
+<scopecontent id="ref68">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref246" level="file">
+<did>
+<unittitle>The Naked City: Alive and Still a Second Lieutenant - script.</unittitle>
+<container id="cid9232020" type="Box">4</container>
+<unitdate>1963 Feb 21.</unitdate>
+</did>
+<scopecontent id="ref245">
+<p>In bound volume labeled Naked City Series IV, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref238" level="file">
+<did>
+<unittitle>The Naked City: The Apple Falls Not Far From the Tree - script.</unittitle>
+<container id="cid9232016" type="Box">4</container>
+<unitdate>1963 Jan 7.</unitdate>
+</did>
+<scopecontent id="ref237">
+<p>In bound volume labeled Naked City Series IV, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref99" level="file">
+<did>
+<unittitle>The Naked City: Baker's Dozen - first draft teleplay.</unittitle>
+<container id="cid9223046" type="Box">2</container>
+<unitdate>1959 Feb 18.</unitdate>
+</did>
+<scopecontent id="ref98">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref236" level="file">
+<did>
+<unittitle>The Naked City: Barefoot on a Bed of Coals - final draft screenplay.</unittitle>
+<container id="cid9232015" type="Box">3</container>
+<unitdate>1963 May 3.</unitdate>
+</did>
+<scopecontent id="ref235">
+<p>In bound volume labeled Naked City Series IV, Volume XIV, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref61" level="file">
+<did>
+<unittitle>The Naked City: Belvedere Tower - revised final draft script.</unittitle>
+<container id="cid9223027" type="Box">1</container>
+<unitdate>1958 Sep 8 .</unitdate>
+</did>
+<scopecontent id="ref60">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref240" level="file">
+<did>
+<unittitle>The Naked City: Beyond This Place There Be Dragons - script.</unittitle>
+<container id="cid9232017" type="Box">4</container>
+<unitdate>1963 Jan 15.</unitdate>
+</did>
+<scopecontent id="ref239">
+<p>In bound volume labeled Naked City Series IV, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref57" level="file">
+<did>
+<unittitle>The Naked City: The Bird Guard - final draft teleplay.</unittitle>
+<container id="cid9223025" type="Box">1</container>
+<unitdate>1958 Jul 21.</unitdate>
+</did>
+<scopecontent id="ref56">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref111" level="file">
+<did>
+<unittitle>The Naked City: The Bloodhounds - first draft teleplay.</unittitle>
+<container id="cid9223052" type="Box">2</container>
+<unitdate>1959 Apr 10.</unitdate>
+</did>
+<scopecontent id="ref110">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref143" level="file">
+<did>
+<unittitle>The Naked City: Bridge Party - script.</unittitle>
+<container id="cid9223068" type="Box">2</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref142">
+<p>In bound volume labeled Naked City Series III, Volume VI, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref244" level="file">
+<did>
+<unittitle>The Naked City: Bringing Far Places Together - script.</unittitle>
+<container id="cid9232019" type="Box">4</container>
+<unitdate>1962 Jan 31.</unitdate>
+</did>
+<scopecontent id="ref243">
+<p>In bound volume labeled Naked City Series IV, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref91" level="file">
+<did>
+<unittitle>The Naked City: The Bumper - final draft teleplay.</unittitle>
+<container id="cid9223042" type="Box">1</container>
+<unitdate>1959 Jan 17.</unitdate>
+</did>
+<scopecontent id="ref90">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref75" level="file">
+<did>
+<unittitle>The Naked City: Burst of Passion- first draft teleplay.</unittitle>
+<container id="cid9223034" type="Box">1</container>
+<unitdate>1958 Nov 12.</unitdate>
+</did>
+<scopecontent id="ref74">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref127" level="file">
+<did>
+<unittitle>The Naked City: Button in a Haystack - script.</unittitle>
+<container id="cid9223060" type="Box">2</container>
+<unitdate>1960 Aug 1.</unitdate>
+</did>
+<scopecontent id="ref126">
+<p>In bound volume labeled Naked City Series II, Volume I, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref198" level="file">
+<did>
+<unittitle>The Naked City: And By the Sweat of Thy Brow - script.</unittitle>
+<container id="cid9223095" type="Box">3</container>
+<unitdate>ca. 1962 Aug 12.</unitdate>
+</did>
+<scopecontent id="ref197">
+<p>In bound volume labeled Naked City Series IV, Volume X1, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref117" level="file">
+<did>
+<unittitle>The Naked City: The Canvas Bullet - first draft teleplay.</unittitle>
+<container id="cid9223055" type="Box">2</container>
+<unitdate>1959 May 4.</unitdate>
+</did>
+<scopecontent id="ref116">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref226" level="file">
+<did>
+<unittitle>The Naked City: Carrier - final draft screenplay.</unittitle>
+<container id="cid9232010" type="Box">3</container>
+<unitdate>1963 Mar 22.</unitdate>
+</did>
+<scopecontent id="ref225">
+<p>In bound volume labeled Naked City Series IV, Volume XIV, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref173" level="file">
+<did>
+<unittitle>The Naked City: A Case Study of Two Savages - script.</unittitle>
+<container id="cid9223083" type="Box">3</container>
+<unitdate>ca. 1962 Jan 16.</unitdate>
+</did>
+<scopecontent id="ref172">
+<p>In bound volume labeled Naked City Series III, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref228" level="file">
+<did>
+<unittitle>The Naked City: Color Schemes Like Never Before - final draft screenplay.</unittitle>
+<container id="cid9232011" type="Box">3</container>
+<unitdate>1963 Apr 4.</unitdate>
+</did>
+<scopecontent id="ref227">
+<p>In bound volume labeled Naked City Series IV, Volume XIV, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref169" level="file">
+<did>
+<unittitle>The Naked City: The Contract - script.</unittitle>
+<container id="cid9223081" type="Box">3</container>
+<unitdate>ca. 1961 Dec 27.</unitdate>
+</did>
+<scopecontent id="ref168">
+<p>In bound volume labeled Naked City Series III, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref147" level="file">
+<did>
+<unittitle>The Naked City: A Corpse Ran Down Mulberry Street" - script.</unittitle>
+<container id="cid9223070" type="Box">2</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref146">
+<p>In bound volume labeled Naked City Series III, Volume VI, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref192" level="file">
+<did>
+<unittitle>The Naked City: Daughter, Am I In My Father's House? - script.</unittitle>
+<container id="cid9223092" type="Box">3</container>
+<unitdate>ca. 1962 Jun 6.</unitdate>
+</did>
+<scopecontent id="ref191">
+<p>In bound volume labeled Naked City Series IV, Volume X1, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref135" level="file">
+<did>
+<unittitle>The Naked City: The Day the Island Almost Sank - final draft screenplay.</unittitle>
+<container id="cid9223064" type="Box">2</container>
+<unitdate>1961 May 18.</unitdate>
+</did>
+<scopecontent id="ref134">
+<p>In bound volume labeled Naked City Series II, Volume V, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref145" level="file">
+<did>
+<unittitle>The Naked City: Dead on the Field of Honor! - script.</unittitle>
+<container id="cid9223069" type="Box">2</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref144">
+<p>In bound volume labeled Naked City Series III, Volume VI, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref121" level="file">
+<did>
+<unittitle>The Naked City: A Death of Princess - script.</unittitle>
+<container id="cid9223057" type="Box">2</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref120">
+<p>In bound volume labeled Naked City Series II, Volume I, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref125" level="file">
+<did>
+<unittitle>The Naked City: Debt of Honor - second draft script.</unittitle>
+<container id="cid9223059" type="Box">2</container>
+<unitdate>1960 Jul 26.</unitdate>
+</did>
+<scopecontent id="ref124">
+<p>In bound volume labeled Naked City Series II, Volume I, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref210" level="file">
+<did>
+<unittitle>The Naked City: Dust Devil on a Quiet Street - script.</unittitle>
+<container id="cid9232003" type="Box">3</container>
+<unitdate>1962 Nov 9.</unitdate>
+</did>
+<scopecontent id="ref209">
+<p>In bound volume labeled Naked City Series IV, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref77" level="file">
+<did>
+<unittitle>The Naked City: Even Crows Sing Good - final draft teleplay.</unittitle>
+<container id="cid9223035" type="Box">1</container>
+<unitdate>1958 Nov 6.</unitdate>
+</did>
+<scopecontent id="ref76">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref71" level="file">
+<did>
+<unittitle>The Naked City: The Explosive Heart - revised final draft teleplay.</unittitle>
+<container id="cid9223032" type="Box">1</container>
+<unitdate>1958 Oct 21.</unitdate>
+</did>
+<scopecontent id="ref70">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref163" level="file">
+<did>
+<unittitle>The Naked City: The Face of the Enemy - script.</unittitle>
+<container id="cid9223078" type="Box">2</container>
+<unitdate>ca. 1961.</unitdate>
+</did>
+<scopecontent id="ref162">
+<p>In bound volume labeled Naked City Series III, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref97" level="file">
+<did>
+<unittitle>The Naked City: Fallen Star - final draft script.</unittitle>
+<container id="cid9223045" type="Box">2</container>
+<unitdate>1959 Feb 12.</unitdate>
+</did>
+<scopecontent id="ref96">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref151" level="file">
+<did>
+<unittitle>The Naked City: The Fingers of Henri Tourelle - script.</unittitle>
+<container id="cid9223072" type="Box">2</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref150">
+<p>In bound volume labeled Naked City Series III, Volume VI, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref87" level="file">
+<did>
+<unittitle>The Naked City: Fire Island - first draft teleplay.</unittitle>
+<container id="cid9223040" type="Box">1</container>
+<unitdate>1959 Jan 7.</unitdate>
+</did>
+<scopecontent id="ref86">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref103" level="file">
+<did>
+<unittitle>The Naked City: Four Sweet Corners - first draft teleplay.</unittitle>
+<container id="cid9223048" type="Box">2</container>
+<unitdate>1959 Mar 11.</unitdate>
+</did>
+<scopecontent id="ref102">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref234" level="file">
+<did>
+<unittitle>The Naked City: Golden Lads and Girls - final draft screenplay.</unittitle>
+<container id="cid9232014" type="Box">3</container>
+<unitdate>1963 Apr 24.</unitdate>
+</did>
+<scopecontent id="ref233">
+<p>In bound volume labeled Naked City Series IV, Volume XIV, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref190" level="file">
+<did>
+<unittitle>The Naked City: Goodbye Mama, Hello Auntie Maud - script.</unittitle>
+<container id="cid9223091" type="Box">3</container>
+<unitdate>ca. 1962 May 31.</unitdate>
+</did>
+<scopecontent id="ref189">
+<p>In bound volume labeled Naked City Series III, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref83" level="file">
+<did>
+<unittitle>The Naked City: Goodbye My Lady Love - final draft teleplay.</unittitle>
+<container id="cid9223038" type="Box">1</container>
+<unitdate>1958 Dec 15.</unitdate>
+</did>
+<scopecontent id="ref82">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref218" level="file">
+<did>
+<unittitle>The Naked City: Her Life in Moving Pictures - script.</unittitle>
+<container id="cid9232007" type="Box">3</container>
+<unitdate>1962 Dec 18.</unitdate>
+</did>
+<scopecontent id="ref217">
+<p>In bound volume labeled Naked City Series IV, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref85" level="file">
+<did>
+<unittitle>The Naked City: Hey, Teach..! - first draft teleplay.</unittitle>
+<container id="cid9223039" type="Box">1</container>
+<unitdate>1958 Dec 15.</unitdate>
+</did>
+<scopecontent id="ref84">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref251" level="file">
+<did>
+<unittitle>The Naked City: The Highest of Prizes - script.</unittitle>
+<container id="cid9232023" type="Box">4</container>
+<unitdate>1963.</unitdate>
+</did>
+<scopecontent id="ref613">
+<head>Scope and Content</head>
+<p>With some pages titled Vengeance is Mine, Saith the Lord.</p>
+</scopecontent>
+</c02>
+<c02 id="ref194" level="file">
+<did>
+<unittitle>The Naked City: Hold For Gloria Christmas - script.</unittitle>
+<container id="cid9223093" type="Box">3</container>
+<unitdate>ca. 1962 Jul 18.</unitdate>
+</did>
+<scopecontent id="ref193">
+<p>In bound volume labeled Naked City Series IV, Volume X1, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref206" level="file">
+<did>
+<unittitle>The Naked City: A Horse Has a Big Head -- Let Him Worry - script.</unittitle>
+<container id="cid9232001" type="Box">3</container>
+<unitdate>1962 Oct 15.</unitdate>
+</did>
+<scopecontent id="ref205">
+<p>In bound volume labeled Naked City Series IV, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref139" level="file">
+<did>
+<unittitle>The Naked City: The Hot Minerva - revised script.</unittitle>
+<container id="cid9223066" type="Box">2</container>
+<unitdate>1961 Jun 1.</unitdate>
+</did>
+<scopecontent id="ref138">
+<p>In bound volume labeled Naked City Series II, Volume V, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref222" level="file">
+<did>
+<unittitle>The Naked City: Howard Running Bear is a Turtle - revised final draft script.</unittitle>
+<container id="cid9232008" type="Box">3</container>
+<unitdate>1963 Mar 6.</unitdate>
+</did>
+<scopecontent id="ref221">
+<p>In bound volume labeled Naked City Series IV, Volume XIV, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref200" level="file">
+<did>
+<unittitle>The Naked City: Idylls of a Running Back - script.</unittitle>
+<container id="cid9223096" type="Box">3</container>
+<unitdate>ca. 1962 Sep 7.</unitdate>
+</did>
+<scopecontent id="ref199">
+<p>In bound volume labeled Naked City Series IV, Volume X1, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref178" level="file">
+<did>
+<unittitle>The Naked City: And If Any Are Frozen Warm Them - script.</unittitle>
+<container id="cid9223085" type="Box">3</container>
+<unitdate>ca. 1962 Apr 17.</unitdate>
+</did>
+<scopecontent id="ref177">
+<p>In bound volume labeled Naked City Series III, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref204" level="file">
+<did>
+<unittitle>The Naked City: Kill Me While I'm Young So I Can Die Happy! - script.</unittitle>
+<container id="cid9223098" type="Box">3</container>
+<unitdate>ca. 1962 Sep 26.</unitdate>
+</did>
+<scopecontent id="ref203">
+<p>In bound volume labeled Naked City Series IV, Volume X1, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref214" level="file">
+<did>
+<unittitle>The Naked City: King Stanislaus and the Knights of the Round Stable - script.</unittitle>
+<container id="cid9232005" type="Box">3</container>
+<unitdate>1962 Nov 20.</unitdate>
+</did>
+<scopecontent id="ref213">
+<p>In bound volume labeled Naked City Series IV, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref131" level="file">
+<did>
+<unittitle>The Naked City: A Kettle of Precious Fish - first draft screenplay.</unittitle>
+<container id="cid9223062" type="Box">2</container>
+<unitdate>1961 May 3.</unitdate>
+</did>
+<scopecontent id="ref130">
+<p>In bound volume labeled Naked City Series II, Volume V, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref184" level="file">
+<did>
+<unittitle>The Naked City: The King of Venus Will Take Care of You - script.</unittitle>
+<container id="cid9223088" type="Box">3</container>
+<unitdate>ca. 1962 May 9.</unitdate>
+</did>
+<scopecontent id="ref183">
+<p>In bound volume labeled Naked City Series III, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref67" level="file">
+<did>
+<unittitle>The Naked City: Lady Bug, Lady Bug... - second revised final draft script.</unittitle>
+<container id="cid9223030" type="Box">1</container>
+<unitdate>1958 Oct 13.</unitdate>
+</did>
+<scopecontent id="ref66">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref175" level="file">
+<did>
+<unittitle>The Naked City: Let Me Die Before I Wake - script.</unittitle>
+<container id="cid9223084" type="Box">3</container>
+<unitdate>ca. 1962 Jan 29.</unitdate>
+</did>
+<scopecontent id="ref174">
+<p>In bound volume labeled Naked City Series III, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref53" level="file">
+<did>
+<unittitle>The Naked City: Line of Duty - final draft script.</unittitle>
+<container id="cid9223023" type="Box">1</container>
+<unitdate>1958 Jul 31.</unitdate>
+</did>
+<scopecontent id="ref52">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref208" level="file">
+<did>
+<unittitle>The Naked City: Make It Fifty Dollars and Add Love to Nona - script.</unittitle>
+<container id="cid9232002" type="Box">3</container>
+<unitdate>1962 Oct 26.</unitdate>
+</did>
+<scopecontent id="ref207">
+<p>In bound volume labeled Naked City Series IV, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref242" level="file">
+<did>
+<unittitle>The Naked City: Man Without a Skin - script.</unittitle>
+<container id="cid9232018" type="Box">4</container>
+<unitdate>1963 Jan 18.</unitdate>
+</did>
+<scopecontent id="ref241">
+<p>In bound volume labeled Naked City Series IV, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref73" level="file">
+<did>
+<unittitle>The Naked City: The Manhole - revised final draft teleplay.</unittitle>
+<container id="cid9223033" type="Box">1</container>
+<unitdate>1958 Nov 8.</unitdate>
+</did>
+<scopecontent id="ref72">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref188" level="file">
+<did>
+<unittitle>The Naked City: Memory of a Red Trolley Car - script.</unittitle>
+<container id="cid9223090" type="Box">3</container>
+<unitdate>ca. 1962 May 24.</unitdate>
+</did>
+<scopecontent id="ref187">
+<p>In bound volume labeled Naked City Series III, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref182" level="file">
+<did>
+<unittitle>The Naked City: The Multiplicity of Herbert Konish - script.</unittitle>
+<container id="cid9223087" type="Box">3</container>
+<unitdate>ca. 1962 May 3.</unitdate>
+</did>
+<scopecontent id="ref181">
+<p>In bound volume labeled Naked City Series III, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref129" level="file">
+<did>
+<unittitle>The Naked City: New York to L.A. - script.</unittitle>
+<container id="cid9223061" type="Box">2</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref128">
+<p>In bound volume labeled Naked City Series II, Volume V, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref45" level="file">
+<did>
+<unittitle>The Naked City: Nickel Ride - final draft script.</unittitle>
+<container id="cid9223019" type="Box">1</container>
+<unitdate>1958 Jun 16.</unitdate>
+</did>
+<scopecontent id="ref44">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref167" level="file">
+<did>
+<unittitle>The Naked City: The Night the Saints Lost Their Halos - script.</unittitle>
+<container id="cid9223080" type="Box">3</container>
+<unitdate>ca.1961 December 15.</unitdate>
+</did>
+<scopecontent id="ref166">
+<p>In bound volume labeled Naked City Series III, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref55" level="file">
+<did>
+<unittitle>The Naked City: No More Rumbles - revised final draft script.</unittitle>
+<container id="cid9223024" type="Box">1</container>
+<unitdate>1958 Aug 13.</unitdate>
+</did>
+<scopecontent id="ref54">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref224" level="file">
+<did>
+<unittitle>The Naked City: No Naked Ladies in Front of Giovanni's House! - final draft screenplay.</unittitle>
+<container id="cid9232009" type="Box">3</container>
+<unitdate>1963 Mar 15.</unitdate>
+</did>
+<scopecontent id="ref223">
+<p>In bound volume labeled Naked City Series IV, Volume XIV, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref95" level="file">
+<did>
+<unittitle>The Naked City: Nothing But the Truth - first draft teleplay.</unittitle>
+<container id="cid9223044" type="Box">2</container>
+<unitdate>1959 Feb 9.</unitdate>
+</did>
+<scopecontent id="ref94">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref250" level="file">
+<did>
+<unittitle>The Naked City: On the Battlefront: Every Minute is Important - script.</unittitle>
+<container id="cid9232022" type="Box">4</container>
+<unitdate>1963 Mar 12.</unitdate>
+</did>
+<scopecontent id="ref249">
+<p>In bound volume labeled Naked City Series IV, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref171" level="file">
+<did>
+<unittitle>The Naked City: One of the Most Important Men in the Whole World - script.</unittitle>
+<container id="cid9223082" type="Box">3</container>
+<unitdate>ca. 1962 Jan 8.</unitdate>
+</did>
+<scopecontent id="ref170">
+<p>In bound volume labeled Naked City Series III, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref232" level="file">
+<did>
+<unittitle>The Naked City: One, Two, Three, Rita Rakahowski - final draft screenplay.</unittitle>
+<container id="cid9232013" type="Box">3</container>
+<unitdate>1963 Apr 17.</unitdate>
+</did>
+<scopecontent id="ref231">
+<p>In bound volume labeled Naked City Series IV, Volume XIV, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref79" level="file">
+<did>
+<unittitle>The Naked City: One to Get Lost - second revised final draft script.</unittitle>
+<container id="cid9223036" type="Box">1</container>
+<unitdate>1958 Dec 1.</unitdate>
+</did>
+<scopecontent id="ref78">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref159" level="file">
+<did>
+<unittitle>The Naked City: Ooftus Goofus - script.</unittitle>
+<container id="cid9223076" type="Box">2</container>
+<unitdate>ca. 1961.</unitdate>
+</did>
+<scopecontent id="ref158">
+<p>In bound volume labeled Naked City Series III, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref51" level="file">
+<did>
+<unittitle>The Naked City: The Other Face of Goodness - revised final draft script.</unittitle>
+<container id="cid9223022" type="Box">1</container>
+<unitdate>1958 Jul 12.</unitdate>
+</did>
+<scopecontent id="ref50">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref123" level="file">
+<did>
+<unittitle>The Naked City: The Pedigree Sheet - first draft screenplay.</unittitle>
+<container id="cid9223058" type="Box">2</container>
+<unitdate>1960 Jun 21.</unitdate>
+</did>
+<scopecontent id="ref122">
+<p>In bound volume labeled Naked City Series II, Volume I, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref109" level="file">
+<did>
+<unittitle>The Naked City: A Piece of the Action - first draft script.</unittitle>
+<container id="cid9223051" type="Box">2</container>
+<unitdate>1959 Apr 2.</unitdate>
+</did>
+<scopecontent id="ref108">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref165" level="file">
+<did>
+<unittitle>The Naked City: Portrait of a Painter - script.</unittitle>
+<container id="cid9223079" type="Box">3</container>
+<unitdate>ca. 1961 Nov 29.</unitdate>
+</did>
+<scopecontent id="ref164">
+<p>In bound volume labeled Naked City Series III, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref212" level="file">
+<did>
+<unittitle>The Naked City: Prime of Life - script.</unittitle>
+<container id="cid9232004" type="Box">3</container>
+<unitdate>1962 Nov 16.</unitdate>
+</did>
+<scopecontent id="ref211">
+<p>In bound volume labeled Naked City Series IV, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref101" level="file">
+<did>
+<unittitle>The Naked City: Rebirth - script.</unittitle>
+<container id="cid9223047" type="Box">2</container>
+<unitdate>1959 Mar 6.</unitdate>
+</did>
+<scopecontent id="ref100">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref161" level="file">
+<did>
+<unittitle>The Naked City: Requiem for a Sunday Afternoon - script.</unittitle>
+<container id="cid9223077" type="Box">2</container>
+<unitdate>ca. 1961.</unitdate>
+</did>
+<scopecontent id="ref160">
+<p>In bound volume labeled Naked City Series III, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref219" level="file">
+<did>
+<unittitle>The Naked City: Robin Hood and Clarence Darrow, They Went Out With the Bow and Arrow - script.</unittitle>
+<container id="cid9232024" type="Box">3</container>
+<unitdate>1932 Dec 20.</unitdate>
+</did>
+<scopecontent id="ref220">
+<head>Scope and Content</head>
+<p>In bound volume labeled Naked City Series IV, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref93" level="file">
+<did>
+<unittitle>The Naked City: A Running of Bulls - first draft script.</unittitle>
+<container id="cid9223043" type="Box">1</container>
+<unitdate>1959 Jan 27.</unitdate>
+</did>
+<scopecontent id="ref92">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref186" level="file">
+<did>
+<unittitle>The Naked City: The Rydecker Case - script.</unittitle>
+<container id="cid9223089" type="Box">3</container>
+<unitdate>ca. 1962 May 18.</unitdate>
+</did>
+<scopecontent id="ref185">
+<p>In bound volume labeled Naked City Series III, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref230" level="file">
+<did>
+<unittitle>The Naked City: The S.S. American Dream - final draft screenplay.</unittitle>
+<container id="cid9232012" type="Box">3</container>
+<unitdate>1963 Apr 15.</unitdate>
+</did>
+<scopecontent id="ref229">
+<p>In bound volume labeled Naked City Series IV, Volume XIV, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref105" level="file">
+<did>
+<unittitle>The Naked City: The Sandman - first draft script.</unittitle>
+<container id="cid9223049" type="Box">2</container>
+<unitdate>1959 Mar 16.</unitdate>
+</did>
+<scopecontent id="ref104">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref115" level="file">
+<did>
+<unittitle>The Naked City: Saw My Baby There - final draft teleplay.</unittitle>
+<container id="cid9223054" type="Box">2</container>
+<unitdate>1959 Apr 24.</unitdate>
+</did>
+<scopecontent id="ref114">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref113" level="file">
+<did>
+<unittitle>The Naked City: The Scorpion Sting - first draft teleplay.</unittitle>
+<container id="cid9223053" type="Box">2</container>
+<unitdate>1959 Apr 16.</unitdate>
+</did>
+<scopecontent id="ref112">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref81" level="file">
+<did>
+<unittitle>The Naked City: The Shield - first draft teleplay.</unittitle>
+<container id="cid9223037" type="Box">1</container>
+<unitdate>1958 Dec 3.</unitdate>
+</did>
+<scopecontent id="ref80">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref153" level="file">
+<did>
+<unittitle>The Naked City: Show Me the Way to Go Home - script.</unittitle>
+<container id="cid9223073" type="Box">2</container>
+<unitdate>ca. 1961.</unitdate>
+</did>
+<scopecontent id="ref152">
+<p>In bound volume labeled Naked City Series III, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref49" level="file">
+<did>
+<unittitle>The Naked City: Sidewalk Fisherman - final draft script.</unittitle>
+<container id="cid9223021" type="Box">1</container>
+<unitdate>1958 Jul 3.</unitdate>
+</did>
+<scopecontent id="ref48">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref216" level="file">
+<did>
+<unittitle>The Naked City: Spectre of the Rose Street Gang - script.</unittitle>
+<container id="cid9232006" type="Box">3</container>
+<unitdate>1962 Nov 30.</unitdate>
+</did>
+<scopecontent id="ref215">
+<p>In bound volume labeled Naked City Series IV, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref59" level="file">
+<did>
+<unittitle>The Naked City: Stakeout - final draft script.</unittitle>
+<container id="cid9223026" type="Box">1</container>
+<unitdate>1958 Aug 28.</unitdate>
+</did>
+<scopecontent id="ref58">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref248" level="file">
+<did>
+<unittitle>The Naked City: Stop the Parade! A Baby is Crying! - script.</unittitle>
+<container id="cid9232021" type="Box">4</container>
+<unitdate>1963 Mar 1.</unitdate>
+</did>
+<scopecontent id="ref247">
+<p>In bound volume labeled Naked City Series IV, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref180" level="file">
+<did>
+<unittitle>The Naked City: Strike a Statue - script.</unittitle>
+<container id="cid9223086" type="Box">3</container>
+<unitdate>ca. 1962 Apr 24.</unitdate>
+</did>
+<scopecontent id="ref179">
+<p>In bound volume labeled Naked City Series III, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref65" level="file">
+<did>
+<unittitle>The Naked City: Susquehanna 7-8367 - revised final draft script.</unittitle>
+<container id="cid9223029" type="Box">1</container>
+<unitdate>1958 Sep 20.</unitdate>
+</did>
+<scopecontent id="ref64">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref149" level="file">
+<did>
+<unittitle>The Naked City: A Swedish Jewel - script.</unittitle>
+<container id="cid9223071" type="Box">2</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref148">
+<p>In bound volume labeled Naked City Series III, Volume VI, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref133" level="file">
+<did>
+<unittitle>The Naked City: Sweet Prince of Delancey Street - first draft screenplay.</unittitle>
+<container id="cid9223063" type="Box">2</container>
+<unitdate>1961 May 13.</unitdate>
+</did>
+<scopecontent id="ref132">
+<p>In bound volume labeled Naked City Series II, Volume V, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref137" level="file">
+<did>
+<unittitle>The Naked City: Take and Put - first draft screenplay.</unittitle>
+<container id="cid9223065" type="Box">2</container>
+<unitdate>1961 May 24.</unitdate>
+</did>
+<scopecontent id="ref136">
+<p>In bound volume labeled Naked City Series II, Volume V, 1960-1961.</p>
+</scopecontent>
+</c02>
+<c02 id="ref141" level="file">
+<did>
+<unittitle>The Naked City: Take Off Your Hat When a Funeral Passes - script.</unittitle>
+<container id="cid9223067" type="Box">2</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref140">
+<p>In bound volume labeled Naked City Series III, Volume VI, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref89" level="file">
+<did>
+<unittitle>The Naked City: Ten Cent Dreams first draft teleplay.</unittitle>
+<container id="cid9223041" type="Box">1</container>
+<unitdate>1959 Jan 12.</unitdate>
+</did>
+<scopecontent id="ref88">
+<p>In bound volume labeled Naked City Series I, Volume II, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref63" level="file">
+<did>
+<unittitle>The Naked City: Ticker Tape - final draft script.</unittitle>
+<container id="cid9223028" type="Box">1</container>
+<unitdate>1958 Sep 15.</unitdate>
+</did>
+<scopecontent id="ref62">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref202" level="file">
+<did>
+<unittitle>The Naked City: Torment Him Much and Hold Him Long - script.</unittitle>
+<container id="cid9223097" type="Box">3</container>
+<unitdate>ca. 1962 Sep 12.</unitdate>
+</did>
+<scopecontent id="ref201">
+<p>In bound volume labeled Naked City Series IV, Volume X1, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref155" level="file">
+<did>
+<unittitle>The Naked City: The Tragic Success of Alfred Tiloff - script.</unittitle>
+<container id="cid9223074" type="Box">2</container>
+<unitdate>ca. 1961.</unitdate>
+</did>
+<scopecontent id="ref154">
+<p>In bound volume labeled Naked City Series III, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref107" level="file">
+<did>
+<unittitle>The Naked City: Turn of Events - revised final draft script.</unittitle>
+<container id="cid9223050" type="Box">2</container>
+<unitdate>1959 Mar 24.</unitdate>
+</did>
+<scopecontent id="ref106">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref47" level="file">
+<did>
+<unittitle>The Naked City: The Violent Circle - final draft script.</unittitle>
+<container id="cid9223020" type="Box">1</container>
+<unitdate>1958 Jun 23.</unitdate>
+</did>
+<scopecontent id="ref46">
+<p>In bound volume labeled Naked City Series I, Volume I, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref196" level="file">
+<did>
+<unittitle>The Naked City: The Virtues of Madame Douvay - script.</unittitle>
+<container id="cid9223094" type="Box">3</container>
+<unitdate>ca. 1962 Aug 17.</unitdate>
+</did>
+<scopecontent id="ref195">
+<p>In bound volume labeled Naked City Series IV, Volume X1, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref157" level="file">
+<did>
+<unittitle>The Naked City: Which is Joseph Creeley? - script.</unittitle>
+<container id="cid9223075" type="Box">2</container>
+<unitdate>ca. 1961.</unitdate>
+</did>
+<scopecontent id="ref156">
+<p>In bound volume labeled Naked City Series III, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref119" level="file">
+<did>
+<unittitle>The Naked City: A Wood of Thorns - first draft teleplay.</unittitle>
+<container id="cid9223056" type="Box">2</container>
+<unitdate>1959 May 10.</unitdate>
+</did>
+<scopecontent id="ref118">
+<p>In bound volume labeled Naked City Series I, Volume III, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref522" level="file">
+<did>
+<unittitle>Pearl: Episode I - script.</unittitle>
+<container id="cid9235117" type="Box">9</container>
+<unitdate>1978 Apr.</unitdate>
+</did>
+<scopecontent id="ref523">
+<head>Scope and Content</head>
+<p>In binding labeled Pearl, 1978.</p>
+</scopecontent>
+</c02>
+<c02 id="ref525" level="file">
+<did>
+<unittitle>Pearl: Episode II - script.</unittitle>
+<container id="cid9235118" type="Box">9</container>
+<unitdate>1978 Apr.</unitdate>
+</did>
+<scopecontent id="ref524">
+<p>In binding labeled Pearl, 1978.</p>
+</scopecontent>
+</c02>
+<c02 id="ref528" level="file">
+<did>
+<unittitle>Pearl: Episode III - script.</unittitle>
+<container id="cid9235119" type="Box">9</container>
+<unitdate>1978 Apr.</unitdate>
+</did>
+<scopecontent id="ref527">
+<p>In binding labeled Pearl, 1978.</p>
+</scopecontent>
+</c02>
+<c02 id="ref563" level="file">
+<did>
+<unittitle>[Pearl] photographs (9 items).</unittitle>
+<container id="cid9298002" type="Box">11</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref565">
+<head>Scope and Content</head>
+<p>Sam Manners, Adam Arkin, Robert Wagner, Dennis Weaver, Natalie Wood, and other unidentified individuals.</p>
+</scopecontent>
+</c02>
+<c02 id="ref497" level="file">
+<did>
+<unittitle>The Perils of Pauline: Oh the Tragedy of it All - final draft teleplay.</unittitle>
+<container id="cid9235098" type="Box">8</container>
+<unitdate>1965 Nov 8.</unitdate>
+</did>
+</c02>
+<c02 id="ref614" level="file">
+<did>
+<unittitle>[Petrocelli?] photographs.</unittitle>
+<container id="cid9486001" type="Box">11</container>
+</did>
+<scopecontent id="ref615">
+<head>Scope and Content</head>
+<p>With Manners, Barry Newman, Albert Salmi and other unidentified individuals at an event.</p>
+</scopecontent>
+</c02>
+<c02 id="ref445" level="file">
+<did>
+<unittitle>Petrocelli - revised shooting script for Movie of the Week.</unittitle>
+<container id="cid9235071" type="Box">7</container>
+<unitdate>1973 Dec 31.</unitdate>
+</did>
+<accessrestrict id="ref653">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref464" level="file">
+<did>
+<unittitle>Petrocelli: An Act of Love - first draft script.</unittitle>
+<container id="cid9235080" type="Box">7</container>
+<unitdate>1974 Sep 17.</unitdate>
+</did>
+<scopecontent id="ref463">
+<p>In bound volume labeled Petrocelli Series I, Volume II, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref654">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref456" level="file">
+<did>
+<unittitle>Petrocelli: Concerto in Death Major - second draft script.</unittitle>
+<container id="cid9235076" type="Box">7</container>
+<unitdate>1974 Aug 15.</unitdate>
+</did>
+<scopecontent id="ref455">
+<p>In bound volume labeled Petrocelli Series I, Volume I, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref655">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref470" level="file">
+<did>
+<unittitle>Petrocelli: Counterploy - final draft script.</unittitle>
+<container id="cid9235083" type="Box">7</container>
+<unitdate>1974 Oct 14.</unitdate>
+</did>
+<scopecontent id="ref469">
+<p>In bound volume labeled Petrocelli Series I, Volume III, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref656">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref474" level="file">
+<did>
+<unittitle>Petrocelli: A Covenant With Evil - final draft script.</unittitle>
+<container id="cid9235085" type="Box">7</container>
+<unitdate>1974 Oct 28.</unitdate>
+</did>
+<scopecontent id="ref473">
+<p>In bound volume labeled Petrocelli Series I, Volume III, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref657">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref460" level="file">
+<did>
+<unittitle>Petrocelli: Death in High Places - second draft script.</unittitle>
+<container id="cid9235078" type="Box">7</container>
+<unitdate>1974 Aug 28.</unitdate>
+</did>
+<scopecontent id="ref459">
+<p>In bound volume labeled Petrocelli Series I, Volume II, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref658">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref448" level="file">
+<did>
+<unittitle>Petrocelli: Death in Small Doses - revised script.</unittitle>
+<container id="cid9235072" type="Box">7</container>
+<unitdate>1974 Jul 10.</unitdate>
+</did>
+<scopecontent id="ref447">
+<p>In bound volume labeled Petrocelli Series I, Volume 1, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref659">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref462" level="file">
+<did>
+<unittitle>Petrocelli: The Double Negative - fourth draft script.</unittitle>
+<container id="cid9235079" type="Box">7</container>
+<unitdate>1974 Sep 10.</unitdate>
+</did>
+<scopecontent id="ref461">
+<p>In bound volume labeled Petrocelli Series I, Volume II, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref660">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref458" level="file">
+<did>
+<unittitle>Petrocelli: Edge of Evil - final draft script.</unittitle>
+<container id="cid9235077" type="Box">7</container>
+<unitdate>1974 Aug 26.</unitdate>
+</did>
+<scopecontent id="ref457">
+<p>In bound volume labeled Petrocelli Series I, Volume II, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref661">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref479" level="file">
+<did>
+<unittitle>Petrocelli: For the Love of Pete - script written by Sam Manners.</unittitle>
+<container id="cid9235088" type="Box">8</container>
+<unitdate>1975 Aug 5.</unitdate>
+</did>
+</c02>
+<c02 id="ref468" level="file">
+<did>
+<unittitle>Petrocelli: Four the Hard Way - final draft script.</unittitle>
+<container id="cid9235082" type="Box">7</container>
+<unitdate>1974 Oct 1.</unitdate>
+</did>
+<scopecontent id="ref467">
+<p>In bound volume labeled Petrocelli Series I, Volume III, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref662">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref454" level="file">
+<did>
+<unittitle>Petrocelli: The Golden Cage - final draft script.</unittitle>
+<container id="cid9235075" type="Box">7</container>
+<unitdate>1974 Aug 5.</unitdate>
+</did>
+<scopecontent id="ref453">
+<p>In bound volume labeled Petrocelli Series I, Volume 1, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref663">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref478" level="file">
+<did>
+<unittitle>Petrocelli: The Kidnapping - second draft script.</unittitle>
+<container id="cid9235087" type="Box">7</container>
+<unitdate>1974 Nov 13.</unitdate>
+</did>
+<scopecontent id="ref477">
+<p>In bound volume labeled Petrocelli Series I, Volume III, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref664">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref452" level="file">
+<did>
+<unittitle>Petrocelli: A Life for a Life - second revised final script.</unittitle>
+<container id="cid9235074" type="Box">7</container>
+<unitdate>1974 Jul 26.</unitdate>
+</did>
+<scopecontent id="ref451">
+<p>In bound volume labeled Petrocelli Series I, Volume 1, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref620">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref466" level="file">
+<did>
+<unittitle>Petrocelli: Mirror, Mirror on the Wall - first draft script.</unittitle>
+<container id="cid9235081" type="Box">7</container>
+<unitdate>1974 Sep 25.</unitdate>
+</did>
+<scopecontent id="ref465">
+<p>In bound volume labeled Petrocelli Series I, Volume II, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref627">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref450" level="file">
+<did>
+<unittitle>Petrocelli: Music to Die By - script.</unittitle>
+<container id="cid9235073" type="Box">7</container>
+<unitdate>1974 Jul 15.</unitdate>
+</did>
+<scopecontent id="ref449">
+<p>In bound volume labeled Petrocelli Series I, Volume 1, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref619">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref476" level="file">
+<did>
+<unittitle>Petrocelli: Once Upon a Victim - final draft script.</unittitle>
+<container id="cid9235086" type="Box">7</container>
+<unitdate>1974 Nov 5.</unitdate>
+</did>
+<scopecontent id="ref475">
+<p>In bound volume labeled Petrocelli Series I, Volume III, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref632">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref472" level="file">
+<did>
+<unittitle>Petrocelli: A Very Lonely Lady - final draft script.</unittitle>
+<container id="cid9235084" type="Box">7</container>
+<unitdate>1974 Oct 22.</unitdate>
+</did>
+<scopecontent id="ref471">
+<p>In bound volume labeled Petrocelli Series I, Volume III, 1974-1975.</p>
+</scopecontent>
+<accessrestrict id="ref630">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref503" level="file">
+<did>
+<unittitle>Powderkeg - script.</unittitle>
+<container id="cid9235103" type="Box">8</container>
+<unitdate>1971 Jan 7.</unitdate>
+</did>
+</c02>
+<c02 id="ref508" level="file">
+<did>
+<unittitle>Powderkeg: The Devil Wears Armor - final draft script.</unittitle>
+<container id="cid9235106" type="Box">7</container>
+<unitdate>1971 June 3.</unitdate>
+</did>
+<accessrestrict id="ref636">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+<scopecontent id="ref507">
+<p>In binding labeled Bearcats Series I, Volume I, 1971-1972.</p>
+</scopecontent>
+</c02>
+<c02 id="ref510" level="file">
+<did>
+<unittitle>Powderkeg: Ground Loop at Spanish Wells - final draft script.</unittitle>
+<container id="cid9235107" type="Box">7</container>
+<unitdate>1971 June 10.</unitdate>
+</did>
+<scopecontent id="ref509">
+<p>In binding labeled Bearcats Series I, Volume I, 1971-1972.</p>
+</scopecontent>
+<accessrestrict id="ref637">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref535" level="file">
+<did>
+<unittitle>The Pride of Jesse Hallam - final shooting script.</unittitle>
+<container id="cid9245001" type="Box">9</container>
+<unitdate>1980 Sep 22.</unitdate>
+</did>
+</c02>
+<c02 id="ref516" level="file">
+<did>
+<unittitle>The Red Pony - final shooting script.</unittitle>
+<container id="cid9235111" type="Box">8</container>
+<unitdate>1972 Aug 7.</unitdate>
+</did>
+</c02>
+<c02 id="ref585" level="file">
+<did>
+<unittitle>The Red Pony photographs (2 items on paper print outs).</unittitle>
+<container id="cid9309003" type="Box">11</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref586">
+<head>Scope and Content</head>
+<p>Sam Manners, Henry Fonda, and Maureen O'Hara.</p>
+</scopecontent>
+</c02>
+<c02 id="ref493" level="file">
+<did>
+<unittitle>Rescue 8: 3 Mile Bomb - final draft script.</unittitle>
+<container id="cid9235095" type="Box">8</container>
+<unitdate>1959 Jul 2.</unitdate>
+</did>
+<scopecontent id="ref492">
+<p>In bound volume labeled Rescue 8 Series II, Volume IV, 1959-1960.</p>
+</scopecontent>
+</c02>
+<c02 id="ref489" level="file">
+<did>
+<unittitle>Rescue 8: Dangerous Salvage - final draft script.</unittitle>
+<container id="cid9235093" type="Box">8</container>
+<unitdate>1959 Jul 15.</unitdate>
+</did>
+<scopecontent id="ref488">
+<p>In bound volume labeled Rescue 8 Series II, Volume IV, 1959-1960.</p>
+</scopecontent>
+</c02>
+<c02 id="ref487" level="file">
+<did>
+<unittitle>Rescue 8: Fools Gold - final draft script.</unittitle>
+<container id="cid9235092" type="Box">8</container>
+<unitdate>1959 May 25.</unitdate>
+</did>
+<scopecontent id="ref486">
+<p>In bound volume labeled Rescue 8 Series II, Volume IV, 1959-1960.</p>
+</scopecontent>
+</c02>
+<c02 id="ref480" level="file">
+<did>
+<unittitle>Rescue 8: Forced Landing.</unittitle>
+<container id="cid9235089" type="Box">8</container>
+<unitdate>1959 May 20.</unitdate>
+</did>
+<scopecontent id="ref481">
+<head>Scope and Content</head>
+<p>In bound volume labeled Rescue 8 Series II, Volume IV, 1959-1960.</p>
+</scopecontent>
+</c02>
+<c02 id="ref495" level="file">
+<did>
+<unittitle>Rescue 8: Not for Glory - final draft script.</unittitle>
+<container id="cid9235096" type="Box">8</container>
+<unitdate>1959 Jul 20.</unitdate>
+</did>
+<scopecontent id="ref494">
+<p>In bound volume labeled Rescue 8 Series II, Volume IV, 1959-1960.</p>
+</scopecontent>
+</c02>
+<c02 id="ref485" level="file">
+<did>
+<unittitle>Rescue 8: Paid in Full - final draft script.</unittitle>
+<container id="cid9235091" type="Box">8</container>
+<unitdate>1959 Jun 3.</unitdate>
+</did>
+<scopecontent id="ref484">
+<p>In bound volume labeled Rescue 8 Series II, Volume IV, 1959-1960.</p>
+</scopecontent>
+</c02>
+<c02 id="ref483" level="file">
+<did>
+<unittitle>Rescue 8: Rock Prison - final draft script.</unittitle>
+<container id="cid9235090" type="Box">8</container>
+<unitdate>1959 Jun 15.</unitdate>
+</did>
+<scopecontent id="ref482">
+<p>In bound volume labeled Rescue 8 Series II, Volume IV, 1959-1960.</p>
+</scopecontent>
+</c02>
+<c02 id="ref491" level="file">
+<did>
+<unittitle>Rescue 8: Suitcase Fireman - final draft script.</unittitle>
+<container id="cid9235094" type="Box">8</container>
+<unitdate>1959 Jun 16.</unitdate>
+</did>
+<scopecontent id="ref490">
+<p>In bound volume labeled Rescue 8 Series II, Volume IV, 1959-1960.</p>
+</scopecontent>
+</c02>
+<c02 id="ref42" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: The Failure - final draft script.</unittitle>
+<container id="cid9232025" type="Box">1</container>
+<unitdate>1958 Apr 22.</unitdate>
+</did>
+<scopecontent id="ref43">
+<head>Scope and Content</head>
+<p>In bound volume labeled Rin-Tin-Tin Series V, Volume XIII, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref4" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: The Foot Soldier - final draft script.</unittitle>
+<container id="cid9223002" type="Box">1</container>
+<unitdate>1957 Aug 21.</unitdate>
+</did>
+<scopecontent id="ref6">
+<head>Scope and Content</head>
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref30" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: The General's Daughter - final draft script.</unittitle>
+<container id="cid9223013" type="Box">1</container>
+<unitdate>1957 Nov 26.</unitdate>
+</did>
+<scopecontent id="ref29">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref26" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: Gold Fever - final draft script.</unittitle>
+<container id="cid9223011" type="Box">1</container>
+<unitdate>1957 Nov 6.</unitdate>
+</did>
+<scopecontent id="ref25">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref8" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: The Hunted - final draft script.</unittitle>
+<container id="cid9223001" type="Box">1</container>
+<unitdate>1957 Aug 30.</unitdate>
+</did>
+<scopecontent id="ref7">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref39" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: Major Mockingbird - final draft script.</unittitle>
+<container id="cid9223017" type="Box">1</container>
+<unitdate>1958 Apr 24.</unitdate>
+</did>
+<scopecontent id="ref38">
+<p>In bound volume labeled Rin-Tin-Tin Series V, Volume XIII, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref33" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: The Misfit Marshall - final draft script.</unittitle>
+<container id="cid9223014" type="Box">1</container>
+<unitdate>1958 Mar 31.</unitdate>
+</did>
+<scopecontent id="ref32">
+<p>In bound volume labeled Rin-Tin-Tin Series V, Volume XIII, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref18" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: The New C.O. - final draft script.</unittitle>
+<container id="cid9223007" type="Box">1</container>
+<unitdate>1957 Oct 18.</unitdate>
+</did>
+<scopecontent id="ref17">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref41" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: Pillajohn's Progress - final draft script.</unittitle>
+<container id="cid9223018" type="Box">1</container>
+<unitdate>1958 Apr 18.</unitdate>
+</did>
+<scopecontent id="ref40">
+<p>In bound volume labeled Rin-Tin-Tin Series V, Volume XIII, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref20" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: Pritikin's Predicament - final draft script.</unittitle>
+<container id="cid9223008" type="Box">1</container>
+<unitdate>1957 Oct 16.</unitdate>
+</did>
+<scopecontent id="ref19">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref12" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: River Chase - final draft script.</unittitle>
+<container id="cid9223004" type="Box">1</container>
+<unitdate>1956 Apr 30.</unitdate>
+</did>
+<scopecontent id="ref11">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref35" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: The Royal Recruit - final draft script.</unittitle>
+<container id="cid9223015" type="Box">1</container>
+<unitdate>1958 Apr 1.</unitdate>
+</did>
+<scopecontent id="ref34">
+<p>In bound volume labeled Rin-Tin-Tin Series V, Volume XIII, 1958-1959.</p>
+</scopecontent>
+</c02>
+<c02 id="ref24" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: Running Horse - final draft script.</unittitle>
+<container id="cid9223010" type="Box">1</container>
+<unitdate>1957 Nov 7.</unitdate>
+</did>
+<scopecontent id="ref23">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref28" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: Rusty's Opportunity - final draft script.</unittitle>
+<container id="cid9223012" type="Box">1</container>
+<unitdate>1957 Nov 22.</unitdate>
+</did>
+<scopecontent id="ref27">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref16" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: Rusty's Remedy - final draft script.</unittitle>
+<container id="cid9223006" type="Box">1</container>
+<unitdate>1957 Oct 8.</unitdate>
+</did>
+<scopecontent id="ref15">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref22" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: Sorrowful Joe's Policy - final draft script.</unittitle>
+<container id="cid9223009" type="Box">1</container>
+<unitdate>1957 Nov 4.</unitdate>
+</did>
+<scopecontent id="ref21">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref14" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: Tomahawk Tubbs - final draft script.</unittitle>
+<container id="cid9223005" type="Box">1</container>
+<unitdate>1957 Oct 1.</unitdate>
+</did>
+<scopecontent id="ref13">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref10" level="file">
+<did>
+<unittitle>Adventures of Rin-Tin-Tin: White Chief - final draft script.</unittitle>
+<container id="cid9223003" type="Box">1</container>
+<unitdate>1957 Sep 6.</unitdate>
+</did>
+<scopecontent id="ref9">
+<p>In bound volume labeled Rin-Tin-Tin Series IV, Volume XI, 1957-1958.</p>
+</scopecontent>
+</c02>
+<c02 id="ref557" level="file">
+<did>
+<unittitle>Route 66 photographs (2 items).</unittitle>
+<container id="cid9254004" type="Box">11</container>
+</did>
+<scopecontent id="ref571">
+<head>Scope and Content</head>
+<p>Sam Manners, Martin Milner, George Maharis and other unidentified individuals.</p>
+</scopecontent>
+</c02>
+<c02 id="ref265" level="file">
+<did>
+<unittitle>Route 66: ...And the Cat Jumped Over the Moon - script.</unittitle>
+<container id="cid9232032" type="Box">4</container>
+<unitdate>1961 Nov 27.</unitdate>
+</did>
+<scopecontent id="ref264">
+<p>In bound volume labeled Route 66 Series II, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref337" level="file">
+<did>
+<unittitle>Route 66: ...Shall Forfeit his Dog and Ten Shillings to the King - script.</unittitle>
+<container id="cid9235019" type="Box">5</container>
+<unitdate>1963 Jan 3.</unitdate>
+</did>
+<scopecontent id="ref336">
+<p>In bound volume labeled Route 66 Series III, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref370" level="file">
+<did>
+<unittitle>Route 66: 93 Per Cent in Smiling.</unittitle>
+<container id="cid9235035" type="Box">5</container>
+<unitdate>1963 Nov 29.</unitdate>
+</did>
+<scopecontent id="ref369">
+<p>In bound volume labeled Route 66 Series VI, Volume XVI, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref269" level="file">
+<did>
+<unittitle>Route 66: 1800 Days to Justice - script.</unittitle>
+<container id="cid9232034" type="Box">4</container>
+<unitdate>1961 Dec 28.</unitdate>
+</did>
+<scopecontent id="ref268">
+<p>In bound volume labeled Route 66 Series II, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref311" level="file">
+<did>
+<unittitle>Route 66: Across Walnuts and Wine - final draft screenplay.</unittitle>
+<container id="cid9235006" type="Box">5</container>
+<unitdate>1962 Jul 12.</unitdate>
+</did>
+<scopecontent id="ref310">
+<p>In bound volume labeled Route 66 Series III, Volume XI, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref271" level="file">
+<did>
+<unittitle>Route 66: Aren't You Surprised to See Me? - script.</unittitle>
+<container id="cid9232035" type="Box">4</container>
+<unitdate>1962 Jan 29.</unitdate>
+</did>
+<scopecontent id="ref270">
+<p>In bound volume labeled Route 66 Series II, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref293" level="file">
+<did>
+<unittitle>Route 66: Between Hello and Goodbye - script.</unittitle>
+<container id="cid9232046" type="Box">4</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref292">
+<p>In bound volume labeled Route 66 Series II, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref281" level="file">
+<did>
+<unittitle>Route 66: Blues for the Left Foot - script.</unittitle>
+<container id="cid9232040" type="Box">4</container>
+<unitdate>1962 Feb 19.</unitdate>
+</did>
+<scopecontent id="ref280">
+<p>In bound volume labeled Route 66 Series II, Volume IX, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref257" level="file">
+<did>
+<unittitle>Route 66: A Bridge Across Five Days - script.</unittitle>
+<container id="cid9232028" type="Box">4</container>
+<unitdate>1961 Oct 25.</unitdate>
+</did>
+<scopecontent id="ref256">
+<p>In bound volume labeled Route 66 Series II, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref335" level="file">
+<did>
+<unittitle>Route 66: A Bunch of Lonely Pagliaccis - script.</unittitle>
+<container id="cid9235018" type="Box">5</container>
+<unitdate>1962 Dec 13.</unitdate>
+</did>
+<scopecontent id="ref334">
+<p>In bound volume labeled Route 66 Series III, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref360" level="file">
+<did>
+<unittitle>Route 66: Build Your Houses With Their Backs to the Sea - final draft screenplay.</unittitle>
+<container id="cid9235030" type="Box">5</container>
+<unitdate>1963 Aug 7.</unitdate>
+</did>
+<scopecontent id="ref359">
+<p>In bound volume labeled Route 66 Series VI, Volume XV, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref259" level="file">
+<did>
+<unittitle>Route 66: Burning for Burning - script.</unittitle>
+<container id="cid9232029" type="Box">4</container>
+<unitdate>1961 Oct 30.</unitdate>
+</did>
+<scopecontent id="ref258">
+<p>In bound volume labeled Route 66 Series II, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref345" level="file">
+<did>
+<unittitle>Route 66: The Cage Around Maria - script.</unittitle>
+<container id="cid9235023" type="Box">5</container>
+<unitdate>1963 Feb 18.</unitdate>
+</did>
+<scopecontent id="ref344">
+<p>In bound volume labeled Route 66 Series III, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref349" level="file">
+<did>
+<unittitle>Route 66: A Cage in Search of a Bird - final draft screenplay.</unittitle>
+<container id="cid9235025" type="Box">5</container>
+<unitdate>1963 Jun 3.</unitdate>
+</did>
+<scopecontent id="ref348">
+<p>In bound volume labeled Route 66 Series VI, Volume XV, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref374" level="file">
+<did>
+<unittitle>Route 66: Child of a Night - script.</unittitle>
+<container id="cid9235037" type="Box">5</container>
+<unitdate>1963 Dec 5.</unitdate>
+</did>
+<scopecontent id="ref373">
+<p>In bound volume labeled Route 66 Series VI, Volume XVI, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref273" level="file">
+<did>
+<unittitle>Route 66: City of Wheels - script.</unittitle>
+<container id="cid9232036" type="Box">4</container>
+<unitdate>1962 Jan 12.</unitdate>
+</did>
+<scopecontent id="ref272">
+<p>In bound volume labeled Route 66 Series II, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref362" level="file">
+<did>
+<unittitle>Route 66: Come Out, Come Out Wherever You Are! - revised final draft screenplay.</unittitle>
+<container id="cid9235031" type="Box">5</container>
+<unitdate>1963 Aug 23.</unitdate>
+</did>
+<scopecontent id="ref361">
+<p>In bound volume labeled Route 66 Series VI, Volume XV, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref380" level="file">
+<did>
+<unittitle>Route 66: Cries of Persons Close to One - script.</unittitle>
+<container id="cid9235040" type="Box">6</container>
+<unitdate>1963 Dec 27.</unitdate>
+</did>
+<scopecontent id="ref379">
+<p>In bound volume labeled Route 66 Series VI, Volume XVII, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref319" level="file">
+<did>
+<unittitle>Route 66: Every Father's Daughter - script.</unittitle>
+<container id="cid9235010" type="Box">5</container>
+<unitdate>1962 Oct 4.</unitdate>
+</did>
+<scopecontent id="ref318">
+<p>In bound volume labeled Route 66 Series III, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref307" level="file">
+<did>
+<unittitle>Route 66: Ever Ride the Waves in Oklahoma? - first draft screenplay.</unittitle>
+<container id="cid9235004" type="Box">5</container>
+<unitdate>1962 Jun 8.</unitdate>
+</did>
+<scopecontent id="ref306">
+<p>In bound volume labeled Route 66 Series III, Volume XI, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref295" level="file">
+<did>
+<unittitle>Route 66: A Feat of Strength - script.</unittitle>
+<container id="cid9232047" type="Box">4</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref294">
+<p>In bound volume labeled Route 66 Series II, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref347" level="file">
+<did>
+<unittitle>Route 66: Fifty Miles From Home - script.</unittitle>
+<container id="cid9235024" type="Box">5</container>
+<unitdate>1963 Feb 28.</unitdate>
+</did>
+<scopecontent id="ref346">
+<p>In bound volume labeled Route 66 Series III, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref386" level="file">
+<did>
+<unittitle>Route 66: Follow the White Dove with the Broken Wing - script.</unittitle>
+<container id="cid9235043" type="Box">6</container>
+<unitdate>1964 Jan 30.</unitdate>
+</did>
+<scopecontent id="ref385">
+<p>In bound volume labeled Route 66 Series VI, Volume XVII, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref299" level="file">
+<did>
+<unittitle>Route 66: From an Enchantress Fleeing - script.</unittitle>
+<container id="cid9232049" type="Box">4</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref298">
+<p>In bound volume labeled Route 66 Series II, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref301" level="file">
+<did>
+<unittitle>Route 66: A Gift for a Warrior - revised first draft screenplay.</unittitle>
+<container id="cid9235001" type="Box">5</container>
+<unitdate>1962 May 21.</unitdate>
+</did>
+<scopecontent id="ref300">
+<p>In bound volume labeled Route 66 Series III, Volume XI, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref331" level="file">
+<did>
+<unittitle>Route 66: Give the Old Cat a Tender Mouse - script.</unittitle>
+<container id="cid9235016" type="Box">5</container>
+<unitdate>1962 Nov 27.</unitdate>
+</did>
+<scopecontent id="ref330">
+<p>In bound volume labeled Route 66 Series III, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref283" level="file">
+<did>
+<unittitle>Route 66: Go Read the River - script.</unittitle>
+<container id="cid9232041" type="Box">4</container>
+<unitdate>1962 Feb 22.</unitdate>
+</did>
+<scopecontent id="ref282">
+<p>In bound volume labeled Route 66 Series II, Volume IX, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref325" level="file">
+<did>
+<unittitle>Route 66: Hey, Moth, Come Eat the Flame - script.</unittitle>
+<container id="cid9235013" type="Box">5</container>
+<unitdate>1962 Oct 30.</unitdate>
+</did>
+<scopecontent id="ref324">
+<p>In bound volume labeled Route 66 Series III, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref275" level="file">
+<did>
+<unittitle>Route 66: How Much a Pound is Albatross? - script.</unittitle>
+<container id="cid9232037" type="Box">4</container>
+<unitdate>1962 Jan 19.</unitdate>
+</did>
+<scopecontent id="ref274">
+<p>In bound volume labeled Route 66 Series II, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref366" level="file">
+<did>
+<unittitle>Route 66: I Wouldn't Start From Here - script.</unittitle>
+<container id="cid9235033" type="Box">5</container>
+<unitdate>1963 Oct 1.</unitdate>
+</did>
+<scopecontent id="ref365">
+<p>In bound volume labeled Route 66 Series VI, Volume XVI, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref368" level="file">
+<did>
+<unittitle>Route 66: I'm Here to Kill a King - script.</unittitle>
+<container id="cid9235034" type="Box">5</container>
+<unitdate>1963 Oct 21.</unitdate>
+</did>
+<scopecontent id="ref367">
+<p>In bound volume labeled Route 66 Series VI, Volume XVI, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref343" level="file">
+<did>
+<unittitle>Route 66: In the Closing of a Trunk - script.</unittitle>
+<container id="cid9235022" type="Box">5</container>
+<unitdate>1963 Feb 4.</unitdate>
+</did>
+<scopecontent id="ref342">
+<p>In bound volume labeled Route 66 Series III, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref376" level="file">
+<did>
+<unittitle>Route 66: Is It True There are Poxies at the Bottom of Landfair Lake? - script.</unittitle>
+<container id="cid9235038" type="Box">5</container>
+<unitdate>1963 Dec 9.</unitdate>
+</did>
+<scopecontent id="ref375">
+<p>In bound volume labeled Route 66 Series VI, Volume XVI, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref303" level="file">
+<did>
+<unittitle>Route 66: Journey to Nineveh - polished final draft screenplay.</unittitle>
+<container id="cid9235002" type="Box">5</container>
+<unitdate>1962 Jun 12.</unitdate>
+</did>
+<scopecontent id="ref302">
+<p>In bound volume labeled Route 66 Series III, Volume XI, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref289" level="file">
+<did>
+<unittitle>Route 66: Kiss the Maiden All Forlorn - revised script.</unittitle>
+<container id="cid9232044" type="Box">4</container>
+<unitdate>1962 Mar 12.</unitdate>
+</did>
+<scopecontent id="ref288">
+<p>In bound volume labeled Route 66 Series II, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref358" level="file">
+<did>
+<unittitle>Route 66: Kiss the Monster -- Make Him Sleep - final draft screenplay.</unittitle>
+<container id="cid9235029" type="Box">5</container>
+<unitdate>1963 Jul 25.</unitdate>
+</did>
+<scopecontent id="ref357">
+<p>In bound volume labeled Route 66 Series VI, Volume XV, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref378" level="file">
+<did>
+<unittitle>Route 66: Like This It Means Father.. Like This -- Bitter... Like This -- Tiger... - final draft screenplay.</unittitle>
+<container id="cid9235039" type="Box">6</container>
+<unitdate>1963 Nov 25.</unitdate>
+</did>
+<scopecontent id="ref377">
+<p>In bound volume labeled Route 66 Series VI, Volume XVII, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref317" level="file">
+<did>
+<unittitle>Route 66: Lizard's Leg and Owlet's Wing - script.</unittitle>
+<container id="cid9235009" type="Box">5</container>
+<unitdate>1962 Sep 17.</unitdate>
+</did>
+<scopecontent id="ref316">
+<p>In bound volume labeled Route 66 Series III, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref267" level="file">
+<did>
+<unittitle>Route 66: A Long Piece of Mischief - script.</unittitle>
+<container id="cid9232033" type="Box">4</container>
+<unitdate>1961 Dec 20.</unitdate>
+</did>
+<scopecontent id="ref266">
+<p>In bound volume labeled Route 66 Series II, Volume VIII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref372" level="file">
+<did>
+<unittitle>Route 66: A Long Way Home From St. Louie - script.</unittitle>
+<container id="cid9235036" type="Box">5</container>
+<unitdate>1963 Nov 13.</unitdate>
+</did>
+<scopecontent id="ref371">
+<p>In bound volume labeled Route 66 Series VI, Volume XVI, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref287" level="file">
+<did>
+<unittitle>Route 66: Love is a Skinny Kid - script.</unittitle>
+<container id="cid9232043" type="Box">4</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref286">
+<p>In bound volume labeled Route 66 Series II, Volume IX, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref356" level="file">
+<did>
+<unittitle>Route 66: And Make Thunder His Tribute - final draft screenplay.</unittitle>
+<container id="cid9235028" type="Box">5</container>
+<unitdate>1963 Jul 17.</unitdate>
+</did>
+<scopecontent id="ref355">
+<p>In bound volume labeled Route 66 Series VI, Volume XV, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref315" level="file">
+<did>
+<unittitle>Route 66: Man Out of Time - final draft screenplay.</unittitle>
+<container id="cid9235008" type="Box">5</container>
+<unitdate>1962 Aug 1.</unitdate>
+</did>
+<scopecontent id="ref314">
+<p>In bound volume labeled Route 66 Series III, Volume XI, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref285" level="file">
+<did>
+<unittitle>Route 66: The Most Beautiful Garbage Can in the World - script.</unittitle>
+<container id="cid9232042" type="Box">4</container>
+<unitdate>1962 Mar 7.</unitdate>
+</did>
+<scopecontent id="ref284">
+<p>In bound volume labeled Route 66 Series II, Volume IX, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref255" level="file">
+<did>
+<unittitle>Route 66: The Mud Nest - script.</unittitle>
+<container id="cid9232027" type="Box">4</container>
+<unitdate>1961 Oct 17.</unitdate>
+</did>
+<scopecontent id="ref254">
+<p>In bound volume labeled Route 66 Series II, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref253" level="file">
+<did>
+<unittitle>Route 66: Once to Every Man - revised screenplay.</unittitle>
+<container id="cid9232026" type="Box">4</container>
+<unitdate>1961 Sep 11.</unitdate>
+</did>
+<scopecontent id="ref252">
+<p>In bound volume labeled Route 66 Series II, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref309" level="file">
+<did>
+<unittitle>Route 66: One Tiger to a Hill - final draft screenplay.</unittitle>
+<container id="cid9235005" type="Box">5</container>
+<unitdate>1962 Jul 16.</unitdate>
+</did>
+<scopecontent id="ref308">
+<p>In bound volume labeled Route 66 Series III, Volume XI, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref323" level="file">
+<did>
+<unittitle>Route 66: Only By Cunning Glimpses - script.</unittitle>
+<container id="cid9235012" type="Box">5</container>
+<unitdate>1962 Oct 18.</unitdate>
+</did>
+<scopecontent id="ref322">
+<p>In bound volume labeled Route 66 Series III, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref305" level="file">
+<did>
+<unittitle>Route 66: Poor Little Kangaroo Rat.</unittitle>
+<container id="cid9235003" type="Box">5</container>
+<unitdate>1962 Jun 19.</unitdate>
+</did>
+<scopecontent id="ref304">
+<p>In bound volume labeled Route 66 Series III, Volume XI, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref364" level="file">
+<did>
+<unittitle>Route 66: Same Picture, Different Frame - final draft screenplay.</unittitle>
+<container id="cid9235032" type="Box">5</container>
+<unitdate>1963 Jul 29.</unitdate>
+</did>
+<scopecontent id="ref363">
+<p>In bound volume labeled Route 66 Series VI, Volume XV, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref279" level="file">
+<did>
+<unittitle>Route 66: Shoulder the Sky, My Lad - script.</unittitle>
+<container id="cid9232039" type="Box">4</container>
+<unitdate>1962 Feb 14.</unitdate>
+</did>
+<scopecontent id="ref278">
+<p>In bound volume labeled Route 66 Series II, Volume IX, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref327" level="file">
+<did>
+<unittitle>Route 66: Soda Pop and Paper Flags - script.</unittitle>
+<container id="cid9235014" type="Box">5</container>
+<unitdate>1963 Apr 12.</unitdate>
+</did>
+<scopecontent id="ref326">
+<p>In bound volume labeled Route 66 Series III, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref261" level="file">
+<did>
+<unittitle>Route 66: Some of the People, Some of the Time - 1961 Nov 7.</unittitle>
+<container id="cid9232030" type="Box">4</container>
+</did>
+<scopecontent id="ref260">
+<p>In bound volume labeled Route 66 Series II, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref341" level="file">
+<did>
+<unittitle>Route 66: Somehow It Gets to Be Tomorrow - script.</unittitle>
+<container id="cid9235021" type="Box">5</container>
+<unitdate>1963 Jan 29.</unitdate>
+</did>
+<scopecontent id="ref340">
+<p>In bound volume labeled Route 66 Series III, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref351" level="file">
+<did>
+<unittitle>Route 66: The Stone Guest - final draft screenplay.</unittitle>
+<container id="cid9235026" type="Box">5</container>
+<unitdate>1963 Jun 15.</unitdate>
+</did>
+<scopecontent id="ref350">
+<p>In bound volume labeled Route 66 Series VI, Volume XV, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref339" level="file">
+<did>
+<unittitle>Route 66: Suppose I Said I Was the Queen of Spain - script.</unittitle>
+<container id="cid9235020" type="Box">5</container>
+<unitdate>1963 Jan 16.</unitdate>
+</did>
+<scopecontent id="ref338">
+<p>In bound volume labeled Route 66 Series III, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref551" level="file">
+<did>
+<unittitle>"Route 66" The Television Series 1960-1964 - book by James Rosin.</unittitle>
+<container id="cid9245014" type="Box">11</container>
+<unitdate>ca. 2007.</unitdate>
+</did>
+</c02>
+<c02 id="ref291" level="file">
+<did>
+<unittitle>Route 66: There I Am - There I Always Am - script.</unittitle>
+<container id="cid9232045" type="Box">4</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref290">
+<p>In bound volume labeled Route 66 Series II, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref263" level="file">
+<did>
+<unittitle>Route 66: The Thin White Line - script.</unittitle>
+<container id="cid9232031" type="Box">4</container>
+<unitdate>1961 Nov 20.</unitdate>
+</did>
+<scopecontent id="ref262">
+<p>In bound volume labeled Route 66 Series II, Volume VII, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref384" level="file">
+<did>
+<unittitle>Route 66: This is Going to Hurt Me More Than it Hurts You - script.</unittitle>
+<container id="cid9235042" type="Box">6</container>
+<unitdate>1964 Jan 22.</unitdate>
+</did>
+<scopecontent id="ref383">
+<p>In bound volume labeled Route 66 Series VI, Volume XVII, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref297" level="file">
+<did>
+<unittitle>Route 66: To Bury Strangers In - script.</unittitle>
+<container id="cid9232048" type="Box">4</container>
+<unitdate>no date.</unitdate>
+</did>
+<scopecontent id="ref296">
+<p>In bound volume labeled Route 66 Series II, Volume X, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref277" level="file">
+<did>
+<unittitle>Route 66: You Never Had It So Good - script.</unittitle>
+<container id="cid9232038" type="Box">4</container>
+<unitdate>1962 Jan 30.</unitdate>
+</did>
+<scopecontent id="ref276">
+<p>In bound volume labeled Route 66 Series II, Volume IX, 1961-1962.</p>
+</scopecontent>
+</c02>
+<c02 id="ref313" level="file">
+<did>
+<unittitle>Route 66: Voice at the End of the Line - final draft screenplay.</unittitle>
+<container id="cid9235007" type="Box">5</container>
+<unitdate>1962 Jul 20.</unitdate>
+</did>
+<scopecontent id="ref312">
+<p>In bound volume labeled Route 66 Series III, Volume XI, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref321" level="file">
+<did>
+<unittitle>Route 66: Welcome to the Wedding - script.</unittitle>
+<container id="cid9235011" type="Box">5</container>
+<unitdate>1962 Oct 11.</unitdate>
+</did>
+<scopecontent id="ref320">
+<p>In bound volume labeled Route 66 Series III, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref354" level="file">
+<did>
+<unittitle>Route 66: Where are the Sounds of Celli Brahms? - final draft screenplay.</unittitle>
+<container id="cid9235027" type="Box">5</container>
+<unitdate>1963 Jul 1.</unitdate>
+</did>
+<scopecontent id="ref353">
+<p>In bound volume labeled Route 66 Series VI, Volume XV, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref329" level="file">
+<did>
+<unittitle>Route 66: Where is Chick Lorimer, Where Has She Gone? - script.</unittitle>
+<container id="cid9235015" type="Box">5</container>
+<unitdate>1962 Nov 12.</unitdate>
+</did>
+<scopecontent id="ref328">
+<p>In bound volume labeled Route 66 Series III, Volume XII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref389" level="file">
+<did>
+<unittitle>Route 66: Where There's a Will, There's a Way - script.</unittitle>
+<container id="cid9235044" type="Box">6</container>
+<unitdate>1964 Feb 14.</unitdate>
+</did>
+<scopecontent id="ref388">
+<p>In bound volume labeled Route 66 Series VI, Volume XVII, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref391" level="file">
+<did>
+<unittitle>Route 66: Where There's a Will, There's a Way Part Two - script.</unittitle>
+<container id="cid9235045" type="Box">6</container>
+<unitdate>1964 Feb 18.</unitdate>
+</did>
+<scopecontent id="ref390">
+<p>In bound volume labeled Route 66 Series VI, Volume XVII, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref382" level="file">
+<did>
+<unittitle>Route 66: Who In His Right Mind Needs a Nice Girl - script.</unittitle>
+<container id="cid9235041" type="Box">6</container>
+<unitdate>1964 Jan 6.</unitdate>
+</did>
+<scopecontent id="ref381">
+<p>In bound volume labeled Route 66 Series VI, Volume XVII, 1963-1964.</p>
+</scopecontent>
+</c02>
+<c02 id="ref333" level="file">
+<did>
+<unittitle>Route 66: You Can't Pick Cotton in Tahiti - script.</unittitle>
+<container id="cid9235017" type="Box">5</container>
+<unitdate>1962 Dec 10.</unitdate>
+</did>
+<scopecontent id="ref332">
+<p>In bound volume labeled Route 66 Series III, Volume XIII, 1962-1963.</p>
+</scopecontent>
+</c02>
+<c02 id="ref502" level="file">
+<did>
+<unittitle>The Second Marion Turner the Third is a Four Flusher - script written by Sam Manners.</unittitle>
+<container id="cid9235102" type="Box">8</container>
+<unitdate>1970 Jul 4.</unitdate>
+</did>
+</c02>
+<c02 id="ref504" level="file">
+<did>
+<unittitle>Something Evil - second draft script.</unittitle>
+<container id="cid9235104" type="Box">7</container>
+<unitdate>1971 Sep 28.</unitdate>
+</did>
+<accessrestrict id="ref634">
+<head>Conditions on Access</head>
+<p>Item is restricted and requires advance notice for use.</p>
+</accessrestrict>
+</c02>
+<c02 id="ref543" level="file">
+<did>
+<unittitle>Tarzan and the Treasure of Tucumai.</unittitle>
+<container id="cid9245006" type="Box">10</container>
+<unitdate>undated.</unitdate>
+</did>
+</c02>
+<c02 id="ref496" level="file">
+<did>
+<unittitle>The Venturers: ... And Two If By Sea - final draft script.</unittitle>
+<container id="cid9235097" type="Box">8</container>
+<unitdate>1959 Dec 18.</unitdate>
+</did>
+</c02>
+<c02 id="ref438" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Bleak Island - final draft script.</unittitle>
+<container id="cid9235067" type="Box">6</container>
+<unitdate>1968 Dec 3.</unitdate>
+</did>
+<scopecontent id="ref437">
+<p>In bound volume labeled Wild Wild West Series IV, Volume V, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref444" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Cossacks - final draft script.</unittitle>
+<container id="cid9235070" type="Box">6</container>
+<unitdate>1969 Jan 13.</unitdate>
+</did>
+<scopecontent id="ref443">
+<p>In bound volume labeled Wild Wild West Series IV, Volume V, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref420" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Death Masks - first draft script.</unittitle>
+<container id="cid9235058" type="Box">6</container>
+<unitdate>1967 Nov 17.</unitdate>
+</did>
+<scopecontent id="ref419">
+<p>In bound volume labeled Wild Wild West Series IV, Volume III, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref440" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Diva - final draft script.</unittitle>
+<container id="cid9235068" type="Box">6</container>
+<unitdate>1968 Dec 10.</unitdate>
+</did>
+<scopecontent id="ref439">
+<p>In bound volume labeled Wild Wild West Series IV, Volume V, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref424" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of Fire and Brimstone - second draft script.</unittitle>
+<container id="cid9235060" type="Box">6</container>
+<unitdate>1968 Aug 1.</unitdate>
+</did>
+<scopecontent id="ref423">
+<p>In bound volume labeled Wild Wild West Series IV, Volume III, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref436" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Janus - final draft script.</unittitle>
+<container id="cid9235066" type="Box">6</container>
+<unitdate>1968 Oct 15.</unitdate>
+</did>
+<scopecontent id="ref435">
+<p>In bound volume labeled Wild Wild West Series IV, Volume V, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref426" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of Miguelito's Revenge - final draft script.</unittitle>
+<container id="cid9235061" type="Box">6</container>
+<unitdate>1968 Sep 6.</unitdate>
+</did>
+<scopecontent id="ref425">
+<p>In bound volume labeled Wild Wild West Series IV, Volume III, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref422" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Pelican - second draft script.</unittitle>
+<container id="cid9235059" type="Box">6</container>
+<unitdate>1968 Sep 16.</unitdate>
+</did>
+<scopecontent id="ref421">
+<p>In bound volume labeled Wild Wild West Series IV, Volume III, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref442" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Plague - final draft script.</unittitle>
+<container id="cid9235069" type="Box">6</container>
+<unitdate>1968 Dec 30.</unitdate>
+</did>
+<scopecontent id="ref441">
+<p>In bound volume labeled Wild Wild West Series IV, Volume V, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref430" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Sabatini Death - revised final draft script.</unittitle>
+<container id="cid9235063" type="Box">6</container>
+<unitdate>1968 Oct 23.</unitdate>
+</did>
+<scopecontent id="ref429">
+<p>In bound volume labeled Wild Wild West Series IV, Volume IV, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref428" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Tycoons - final draft script.</unittitle>
+<container id="cid9235062" type="Box">6</container>
+<unitdate>1968 Nov 21.</unitdate>
+</did>
+<scopecontent id="ref427">
+<p>In bound volume labeled Wild Wild West Series IV, Volume IV, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref432" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Winged Terror - final draft script.</unittitle>
+<container id="cid9235064" type="Box">6</container>
+<unitdate>1968 Nov 1.</unitdate>
+</did>
+<scopecontent id="ref431">
+<p>In bound volume labeled Wild Wild West Series IV, Volume IV, 1967-1968.</p>
+</scopecontent>
+</c02>
+<c02 id="ref434" level="file">
+<did>
+<unittitle>The Wild Wild West: The Night of the Winged Terror Part II - final draft script.</unittitle>
+<container id="cid9235065" type="Box">6</container>
+<unitdate>1968 Nov 1 .</unitdate>
+</did>
+<scopecontent id="ref433">
+<p>In bound volume labeled Wild Wild West Series IV, Volume IV, 1967-1968.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref2" level="series">
+<did>
+<unittitle>Motion Picture Projects.</unittitle>
+<physdesc>
+<extent>(Boxes 10 - 11)</extent>
+</physdesc>
+<unitdate>1966-1975.</unitdate>
+</did>
+<scopecontent id="ref582">
+<head>Scope and Content</head>
+<p>This series consists of bound scripts from a variety of motion picture projects in which Manners was involved. Included are scripts documenting 
+<title>Cleopatra Jones</title>, 
+<title>The Deadly Trackers</title>, and 
+<title>Valdez is Coming</title>, among others. Additionally, there is a small number of photographs from the film 
+<title>The Deadly Trackers</title>. The series is arranged alphabetically by project title.</p>
+</scopecontent>
+<c02 id="ref552" level="file">
+<did>
+<unittitle>Billy the Kid Versus Dracula! - script.</unittitle>
+<container id="cid9245015" type="Box">11</container>
+<unitdate>ca. 1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref548" level="file">
+<did>
+<unittitle>Black Gunn - script.</unittitle>
+<container id="cid9245011" type="Box">10</container>
+<unitdate>ca. 1972.</unitdate>
+</did>
+</c02>
+<c02 id="ref549" level="file">
+<did>
+<unittitle>Cleopatra Jones - revised draft script.</unittitle>
+<container id="cid9245012" type="Box">10</container>
+<unitdate>1972 Dec 8.</unitdate>
+</did>
+</c02>
+<c02 id="ref550" level="file">
+<did>
+<unittitle>The Deadly Trackers- final draft script.</unittitle>
+<container id="cid9245013" type="Box">10</container>
+<unitdate>1973 April 30.</unitdate>
+</did>
+</c02>
+<c02 id="ref566" level="file">
+<did>
+<unittitle>[The Deadly Trackers] photographs.</unittitle>
+<container id="cid9298003" type="Box">11</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref567">
+<head>Scope and Content</head>
+<p>Sam Manners, Richard Harris, and other unidentified persons.</p>
+</scopecontent>
+</c02>
+<c02 id="ref546" level="file">
+<did>
+<unittitle>Heaven with a Gun - script.</unittitle>
+<container id="cid9245009" type="Box">10</container>
+<unitdate>1968 Apr 3.</unitdate>
+</did>
+</c02>
+<c02 id="ref545" level="file">
+<did>
+<unittitle>Jesse James Meets Frankenstein's Daughter - script.</unittitle>
+<container id="cid9245008" type="Box">10</container>
+<unitdate>ca. 1966.</unitdate>
+</did>
+</c02>
+<c02 id="ref553" level="file">
+<did>
+<unittitle>The Last Hard Man - final script.</unittitle>
+<container id="cid9245016" type="Box">11</container>
+<unitdate>1975 Sep 26.</unitdate>
+</did>
+</c02>
+<c02 id="ref547" level="file">
+<did>
+<unittitle>Valdez is Coming - revised final script.</unittitle>
+<container id="cid9245010" type="Box">10</container>
+<unitdate>1969 Sep 1.</unitdate>
+</did>
+</c02>
+<c02 id="ref515" level="file">
+<did>
+<unittitle>Will Grow the Seeds by - script written by Sam Manners.</unittitle>
+<container id="cid9235110" type="Box">8</container>
+<unitdate>1972 Jan 13.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref575" level="series">
+<did>
+<unittitle>Photographs.</unittitle>
+<physdesc>
+<extent>(Box 11)</extent>
+</physdesc>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref576">
+<head>Scope and Content</head>
+<p>The series consists of personal photographs and photographs not identified with known television or film projects. Includes images of Joan Crawford, James Earl Jones, Rod Taylor, Sam Manners and other unidentified individuals. Additionally included are autographed photographs of Bernie Casey, Dean Martin, Joe Namath, and Paul Richards. There is no specific arrangement to the series. Additional photographs may be found in the Television Projects series and the Motion Picture Projects series.</p>
+</scopecontent>
+<c02 id="ref554" level="file">
+<did>
+<unittitle>Personal photographs (5 items).</unittitle>
+<container id="cid9254001" type="Box">11</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref574">
+<head>Scope and Content</head>
+<p>Mostly young Sam Manners.</p>
+</scopecontent>
+</c02>
+<c02 id="ref559" level="file">
+<did>
+<unittitle>Manners and others (mostly unidentified) (20 items).</unittitle>
+<container id="cid9254006" type="Box">11</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref560">
+<head>Scope and Content</head>
+<p>With Sam Manners, Joan Crawford, James Earl Jones, Rod Taylor, and other unidentified persons.</p>
+</scopecontent>
+</c02>
+<c02 id="ref555" level="file">
+<did>
+<unittitle>Signed photographs (5 items).</unittitle>
+<container id="cid9254003" type="Box">11</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref573">
+<head>Scope and Content</head>
+<p>Photographs signed to either Joyce or Sam [Manners]. Head shots of Bernie Casey, Dean Martin, Joe Namath, and Paul Richards. One photograph with a signature that is undecipherable.</p>
+</scopecontent>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
