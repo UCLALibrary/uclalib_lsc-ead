@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/[ark]">far2347.xml</eadid><filedesc><titlestmt><titleproper type="filing">Farr (Lee) papers</titleproper><titleproper>Finding Aid for the Lee Farr papers <num>LSC.2347</num></titleproper><author>Finding aid prepared by Kelly Besser, 2021.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2021 January 11.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>spec-coll@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/special-collections" xlink:show="new" xlink:title="https://www.library.ucla.edu/special-collections" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-01-11 15:53:15 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Lee Farr papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Farr, Lee</persname>
+    </origination>
+    <unitid>LSC.2347</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      <extent altrender="carrier">(1 carton)</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" datechar="creation" normal="1950/1970" type="inclusive">1950-1970</unitdate>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <userestrict id="aspace_1404e8b5f9c941b72aa2fcb0ebde10e1">
+    <head>Conditions Governing Use</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </userestrict>
+  <odd id="aspace_5794b8c11428a8a321214b17e8ec1c06">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=8294392">8294392</extref></p>  </odd>
+  <scopecontent id="aspace_884dded99af25a1cb9a43feb1b58c1a1">
+    <head>Scope and Contents</head>
+<p>Collection consists of material related to the career of actor Lee Farr. Included are clippings, photographs and negatives, interview transcript, TV stills, scrapbook, and memorabilia.</p>  </scopecontent>
+  <dsc/>
+</archdesc>
+</ead>
