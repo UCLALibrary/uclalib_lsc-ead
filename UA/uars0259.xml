@@ -1,742 +1,82 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-<eadid countrycode="US" mainagencycode="US-CLU-SC">uars0259.xml</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>UCLA Students. Student Activism materials. 
-<date calendar="gregorian" era="ce">1927-2014.</date>
-</titleproper>
-<titleproper type="filing">UCLA Students. Student Activism materials.</titleproper>
-<author>Finding aid prepared by University Archives staff, 1987 Jan 05; finding aid revised by Katharine Lawrie, 2016 April; machine-readable finding aid created by Katharine Lawrie, 2016 April.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA, 90095-1575</addressline>
-<addressline>(310) 825-4988</addressline>
-<addressline>spec-coll@library.ucla.edu</addressline>
-</address>
-<date>©2016</date>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>This finding aid was produced using the Archivists' Toolkit
-<date>2016-04-26T13:15-0700</date>
-</creation>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<unittitle>UCLA Students. Student Activism materials.</unittitle>
-<unitid>University Archives Record Series 259</unitid>
-<repository>
-<corpname>UCLA Library Special Collections</corpname>
-</repository>
-<langmaterial>
-<language langcode="eng"/>
-</langmaterial>
-<physdesc>
-<extent>2.8 linear ft.</extent>
-<extent>(7 boxes)</extent>
-</physdesc>
-<unitdate>1927-1986</unitdate>
-<abstract id="ref1" label="Abstract">Record Series 259 contains materials related to student activism at UCLA throughout the 20th and early 21st centuries. Themes include communism, pacifism, World War II, the Vietnam War, civil rights, and freedom of expression.</abstract>
-<physloc id="ref2" label="Physical Location">Record Series 259 is located in Library Special Collections Technical Services Annex, A1713 Charles E. Young Research Library.</physloc>
-<origination label="Creator">
-<corpname source="local">UCLA University Archives.</corpname>
-</origination>
-</did>
-<accessrestrict id="ref3">
-<head>Access</head>
-<p>COLLECTION STORED OFF-SITE: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict id="ref4">
-<head>Publication Rights</head>
-<p>Copyright of this collection has been assigned to The Regents of the University of California. The UCLA University Archives can grant permission to publish for materials to which it holds the copyright. All requests for permission to publish or quote must be submitted in writing to UCLA Library Special Collections Public Services.</p>
-</userestrict>
-<prefercite id="ref5">
-<head>Preferred Citation</head>
-<p>[Identification of item], UCLA Students. Student Activism materials (University Archives Record Series 259). UCLA Library Special Collections, University Archives.</p>
-</prefercite>
-<bioghist id="ref6">
-<head>Historical note</head>
-<p>Since the university's early years, students at UCLA have been moved by situations at home and abroad to raise their voices in protest.</p>
-<p>In the late 1920s and 1939s, student activism was fueled by the social and economic conditions of the Depression era, reaction to the rise of fascism in Europe, threat of war, and political repression at home, particularly against Leftist groups. Students held a strike for peace, and demanded the freedom to express their beliefs without enduring academic repercussion.</p>
-<p>Academic freedom remained a much-discussed issue in the 1940s, as students reacted to World War II and its aftermath. Issues such as discrimination and labor rights took greater prominence as veterans returned to campus in the late 1940s.</p>
-<p>Controversy over the Loyalty Oath at the University of California, brought on by national anti-communism sentiments, ushered in the 1950s. Discrimination, labor rights, and freedom of expression remained active topics.</p>
-<p>The early 1960s saw students engaged in the Civil Rights Movement, protesting against segregation and for racial equality. Student activism during this period also critiqued the university system and the nature of modern American higher education, as evidenced in the Free Speech Movement which made its appearance at UCLA in December 1964.</p>
-<p>Peace and antiwar movements, especially concerning American involvement in Vietnam, intensified during the late 1960s and early 1970s, resulting in a strike of students, faculty, and staff. Students were roused to action in support of Black and minority rights, with outrage and vehement protests by the UCLA campus community following the Angela Davis controversy. The assassination of Martin Luther King Jr., the women’s liberation movement, and police violence on college and university campuses inspired student action.</p>
-<p>Student activism in the mid and late 1970s critiqued the University of California’s association with international programs as students turned their attention to events in South East Asia and South America. At home, the labor rights of farmworkers, funding for higher education, and environmentalism took focus.</p>
-<p>During the 1980s students protested in opposition to apartheid in South Africa, and the University of California’s financial ties to supporters of apartheid. Protests were held in support of political movements in Central and South America. Concerns over nuclear war and nuclear energy also engaged students.</p>
-<p>The cessation of affirmative action at UCLA prompted student activism in the 1990s, as did educational budget cuts enacted by the University of California Regents, and experimentation on animals. The 1990s also saw the establishment of a Chicana/o Studies Department at UCLA.</p>
-<p>A resurgence of anti-war movements began in the 2000s, while concerns over the cost of higher education remained an issue.</p>
-<p>Students at UCLA continue to engage in activism over local, national, and international concerns as they arise.</p>
-</bioghist>
-<scopecontent id="ref7">
-<head>Scope and Content</head>
-<p>Record Series 259 contains materials related to student activism at UCLA from 1927-2014. Files contain materials generated by, or intended for, UCLA students.</p>
-<p>Subjects include but are not limited to free speech, communism, pacifism, socialism, freedom of the press, resale of books/student book store, parking on campus, WWII, racial discrimination, Jim Crow, affordable housing, job security, the Loyalty Oath controversy, the Korean War, McCarthyism, the Rosenberg trial, the visit of the Shah of Iran to UCLA, the Civil Rights Movement, desegregation, Selma, the Vietnam War, draft resistance, labor rights, farm worker rights, women's liberation, abortion, Chicano/a rights, Martin Luther King Jr., the Black Panther Party, elections, and religion.</p>
-<p>Materials include circulars, leaflets, fliers, pamphlets, newsletters, campaign materials, protest literature, clippings, publications, bulletins, letters, press releases, ephemera, correspondence; and meeting, demonstration, conference, and event documentation.</p>
-<p>This is an active record series; additional University records are expected to be added.</p>
-</scopecontent>
-<arrangement id="ref23">
-<head>Organization and Arrangement</head>
-<p>This collection is arranged chronologically. Folder titles refer to dominant themes of materials within a given period of time, but are not comprehensive lists of all subjects mentioned.</p>
-</arrangement>
-<relatedmaterial id="ref9">
-<head>Related Material</head>
-<p>For more on student activism, see also: Public Information Office. Administrative Files of Chandler Harris (University Archives Record Series 543). For images of students engaging in activism, see: UCLA University Archives. Photographs (Reference Collection) (University Archives Record Series 100).</p>
-</relatedmaterial>
-<odd id="ref8">
-<head>UCLA Catalog Record ID</head>
-<p>UCLA Catalog Record ID: 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=3520345">3520345</extref></p>
-</odd>
-<dsc>
-<c id="ref10" level="file">
-<did>
-<unittitle>World peace.</unittitle>
-<container id="cid10062001" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062001" type="Folder">1</container>
-<unitdate>1927-1928.</unitdate>
-</did>
-</c>
-<c id="ref11" level="file">
-<did>
-<unittitle>Campus issues (parking, discipline, credits); international youth; freedom of expression/pacifism; social progress.</unittitle>
-<container id="cid10062002" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062002" type="Folder">2</container>
-<unitdate>1931-1933.</unitdate>
-</did>
-</c>
-<c id="ref12" level="file">
-<did>
-<unittitle>Student expulsion/freedom of expression; communism; labor rights; war/military presence on campus; student expenses; anti-fascism; KKK.</unittitle>
-<container id="cid10062003" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062003" type="Folder">3</container>
-<unitdate>1934.</unitdate>
-</did>
-</c>
-<c id="ref13" level="file">
-<did>
-<unittitle>Clippings (communism, pacifism).</unittitle>
-<container id="cid10062004" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062004" type="Folder">4</container>
-<unitdate>1934.</unitdate>
-</did>
-</c>
-<c id="ref14" level="file">
-<did>
-<unittitle>Anti-war; communism; freedom of expression; academic freedom; higher education funding; ROTC; student bookstore.</unittitle>
-<container id="cid10062005" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062005" type="Folder">5</container>
-<unitdate>1935.</unitdate>
-</did>
-</c>
-<c id="ref18" level="file">
-<did>
-<unittitle>Clippings (communism, pacifism, strike, hazing).</unittitle>
-<container id="cid10062009" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062009" type="Folder">6</container>
-<unitdate>1935.</unitdate>
-</did>
-</c>
-<c id="ref19" level="file">
-<did>
-<unittitle>Student strike for peace; academic freedom; communism; labor rights; KKK.</unittitle>
-<container id="cid10062010" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062010" type="Folder">7</container>
-<unitdate>1936.</unitdate>
-</did>
-</c>
-<c id="ref20" level="file">
-<did>
-<unittitle>Student strike for peace; socialism; anti-fascism.</unittitle>
-<container id="cid10062011" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062011" type="Folder">8</container>
-<unitdate>1937.</unitdate>
-</did>
-</c>
-<c id="ref21" level="file">
-<did>
-<unittitle>Student strike for peace; campus issues; "Ham and Eggs" movement. Includes songbook.</unittitle>
-<container id="cid10062012" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062012" type="Folder">9</container>
-<unitdate>1938.</unitdate>
-</did>
-</c>
-<c id="ref22" level="file">
-<did>
-<unittitle>Anti-war; socialism; communism; Ludlow Amendment; co-op bookstore.</unittitle>
-<container id="cid10062013" type="Box" label="Mixed materials">1</container>
-<container parent="cid10062013" type="Folder">10</container>
-<unitdate>1939.</unitdate>
-</did>
-</c>
-<c id="ref24" level="file">
-<did>
-<unittitle>Communism; socialism; WWII; pacifism; Jim Crow.</unittitle>
-<container id="cid10071001" type="Box" label="Mixed materials">2</container>
-<container parent="cid10071001" type="Folder">1</container>
-<unitdate>1940.</unitdate>
-</did>
-</c>
-<c id="ref25" level="file">
-<did>
-<unittitle>WWII; anti-war; conscription/draft; ROTC; censorship; Jim Crow; co-op bookstore.</unittitle>
-<container id="cid10071002" type="Box" label="Mixed materials">2</container>
-<container parent="cid10071002" type="Folders">2-3</container>
-<unitdate>1941.</unitdate>
-</did>
-</c>
-<c id="ref26" level="file">
-<did>
-<unittitle>War effort; draft; elections; unions; communism.</unittitle>
-<container id="cid10071003" type="Box" label="Mixed materials">2</container>
-<container parent="cid10071003" type="Folder">4</container>
-<unitdate>1942.</unitdate>
-</did>
-</c>
-<c id="ref27" level="file">
-<did>
-<unittitle>WWII, international youth.</unittitle>
-<container id="cid10071004" type="Box" label="Mixed materials">2</container>
-<container parent="cid10071004" type="Folder">5</container>
-<unitdate>1943.</unitdate>
-</did>
-</c>
-<c id="ref28" level="file">
-<did>
-<unittitle>WWII reactions; elections.</unittitle>
-<container id="cid10071005" type="Box" label="Mixed materials">2</container>
-<container parent="cid10071005" type="Folder">6</container>
-<unitdate>1944.</unitdate>
-</did>
-</c>
-<c id="ref29" level="file">
-<did>
-<unittitle>Student life; radicalism.</unittitle>
-<container id="cid10071006" type="Box" label="Mixed materials">2</container>
-<container parent="cid10071006" type="Folder">7</container>
-<unitdate>1945.</unitdate>
-</did>
-</c>
-<c id="ref30" level="file">
-<did>
-<unittitle>Communism; employment; labor rights; Jim Crow; campus housing.</unittitle>
-<container id="cid10071007" type="Box" label="Mixed materials">2</container>
-<container parent="cid10071007" type="Folder">8</container>
-<unitdate>1946.</unitdate>
-</did>
-</c>
-<c id="ref31" level="file">
-<did>
-<unittitle>Communism; labor rights; campus housing/discrimination; Jim Crow.</unittitle>
-<container id="cid10071008" type="Box" label="Mixed materials">2</container>
-<container parent="cid10071008" type="Folder">9</container>
-<unitdate>1947.</unitdate>
-</did>
-</c>
-<c id="ref32" level="file">
-<did>
-<unittitle>Labor rights; anti-fascism; communism; peace/draft; discrimination/Jim Crow (barbers in Westwood); elections; free press.</unittitle>
-<container id="cid10071009" type="Box" label="Mixed materials">2</container>
-<container parent="cid10071009" type="Folder">10</container>
-<unitdate>1948.</unitdate>
-</did>
-</c>
-<c id="ref33" level="file">
-<did>
-<unittitle>Communism; socialism; anti-fascism; veterans; police violence; elections.</unittitle>
-<container id="cid10071010" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071010" type="Folder">1</container>
-<unitdate>1948.</unitdate>
-</did>
-</c>
-<c id="ref34" level="file">
-<did>
-<unittitle>Socialism; communism; loyalty oath/academic freedom; Jim Crow; ROTC; co-op bookstore.</unittitle>
-<container id="cid10071011" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071011" type="Folder">2</container>
-<unitdate>1949.</unitdate>
-</did>
-</c>
-<c id="ref35" level="file">
-<did>
-<unittitle>WWII; military training at UCLA; student strike for peace; youth roles.</unittitle>
-<container id="cid10071012" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071012" type="Folder">3</container>
-<unitdate>1940's.</unitdate>
-</did>
-</c>
-<c id="ref36" level="file">
-<did>
-<unittitle>Socialism; communism; labor party; loyalty oath; housing discrimination; Jim Crow; peace; ROTC.</unittitle>
-<container id="cid10071013" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071013" type="Folder">4</container>
-<unitdate>1950.</unitdate>
-</did>
-</c>
-<c id="ref37" level="file">
-<did>
-<unittitle>Loyalty oath; Korean War; communism; socialism.</unittitle>
-<container id="cid10071014" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071014" type="Folder">5</container>
-<unitdate>1951.</unitdate>
-</did>
-</c>
-<c id="ref38" level="file">
-<did>
-<unittitle>Rosenbergs; communism; socialism.</unittitle>
-<container id="cid10071015" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071015" type="Folder">6</container>
-<unitdate>1952.</unitdate>
-</did>
-</c>
-<c id="ref39" level="file">
-<did>
-<unittitle>Rosenbergs; housing.</unittitle>
-<container id="cid10071016" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071016" type="Folder">7</container>
-<unitdate>1953.</unitdate>
-</did>
-</c>
-<c id="ref40" level="file">
-<did>
-<unittitle>ROTC; Mexican-American education; socialism.</unittitle>
-<container id="cid10071017" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071017" type="Folder">8</container>
-<unitdate>1954.</unitdate>
-</did>
-</c>
-<c id="ref41" level="file">
-<did>
-<unittitle>Free press/independent student newspaper; NAACP.</unittitle>
-<container id="cid10071018" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071018" type="Folder">9</container>
-<unitdate>1955.</unitdate>
-</did>
-</c>
-<c id="ref42" level="file">
-<did>
-<unittitle>NAACP; labor rights/strikes; academic freedom.</unittitle>
-<container id="cid10071019" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071019" type="Folder">10</container>
-<unitdate>1956.</unitdate>
-</did>
-</c>
-<c id="ref43" level="file">
-<did>
-<unittitle>Free press; socialism.</unittitle>
-<container id="cid10071020" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071020" type="Folder">11</container>
-<unitdate>1957.</unitdate>
-</did>
-</c>
-<c id="ref44" level="file">
-<did>
-<unittitle>Discrimination/civil rights; communism; socialism; academic freedom/loyalty oath.</unittitle>
-<container id="cid10071021" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071021" type="Folder">12</container>
-<unitdate>1950's.</unitdate>
-</did>
-</c>
-<c id="ref45" level="file">
-<did>
-<unittitle>Segregation; religion; ROTC.</unittitle>
-<container id="cid10071022" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071022" type="Folder">13</container>
-<unitdate>1960-1961.</unitdate>
-</did>
-</c>
-<c id="ref46" level="file">
-<did>
-<unittitle>Communism; socialism; segregation/discrimination; labor rights; academic freedom; House Un-American Activities Committee.</unittitle>
-<container id="cid10071023" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071023" type="Folder">14</container>
-<unitdate>1962.</unitdate>
-</did>
-</c>
-<c id="ref47" level="file">
-<did>
-<unittitle>Socialism; communism; civil rights; labor rights; John F. Kennedy assassination; abortion; Iran; campus issues.</unittitle>
-<container id="cid10071024" type="Box" label="Mixed materials">3</container>
-<container parent="cid10071024" type="Folder">15</container>
-<unitdate>1963.</unitdate>
-</did>
-</c>
-<c id="ref48" level="file">
-<did>
-<unittitle>Free speech; fair housing; discrimination; segregation; elections; Iran/Shah's visit to UCLA.</unittitle>
-<container id="cid10103001" type="Box" label="Mixed materials">4</container>
-<container parent="cid10103001" type="Folder">1</container>
-<unitdate>1964.</unitdate>
-</did>
-</c>
-<c id="ref49" level="file">
-<did>
-<unittitle>Iran; Vietnam; abortion; labor rights; free speech; sexuality; Selma/desegregation; parking.</unittitle>
-<container id="cid10103002" type="Box" label="Mixed materials">4</container>
-<container parent="cid10103002" type="Folder">2</container>
-<unitdate>1965.</unitdate>
-</did>
-</c>
-<c id="ref50" level="file">
-<did>
-<unittitle>Vietnam; sexuality; labor rights.</unittitle>
-<container id="cid10103003" type="Box" label="Mixed materials">4</container>
-<container parent="cid10103003" type="Folder">3</container>
-<unitdate>1966.</unitdate>
-</did>
-</c>
-<c id="ref51" level="file">
-<did>
-<unittitle>Vietnam; labor rights; tuition; abortion; racism.</unittitle>
-<container id="cid10103004" type="Box" label="Mixed materials">4</container>
-<container parent="cid10103004" type="Folder">4</container>
-<unitdate>1967.</unitdate>
-</did>
-</c>
-<c id="ref52" level="file">
-<did>
-<unittitle>Martin Luther King Jr. assassination; women's liberation; free speech; religion; elections; racism; Vietnam/draft resistance.</unittitle>
-<container id="cid10103005" type="Box" label="Mixed materials">4</container>
-<container parent="cid10103005" type="Folder">5</container>
-<unitdate>1968.</unitdate>
-</did>
-</c>
-<c id="ref53" level="file">
-<did>
-<unittitle>Racism; Angela Davis; environmentalism; academic freedom; Chicano Studies; ROTC; Vietnam; UC (University of California) strike.</unittitle>
-<container id="cid10103006" type="Box" label="Mixed materials">4</container>
-<container parent="cid10103006" type="Folder">6</container>
-<unitdate>1969.</unitdate>
-</did>
-</c>
-<c id="ref54" level="file">
-<did>
-<unittitle>Vietnam; police oppression/ROTC; police occupation at UC Berkeley; labor rights; minority rights; Angela Davis; Eldridge Cleaver; women's liberation; environmentalism; UC Regents/campus issues.</unittitle>
-<container id="cid10103007" type="Box" label="Mixed materials">5</container>
-<container parent="cid10103007" type="Folder">1</container>
-<unitdate>1969.</unitdate>
-</did>
-</c>
-<c id="ref55" level="file">
-<did>
-<unittitle>Religions; American Nazi Party; racism; academic freedom; student strike; Vietnam/draft; women's liberation.</unittitle>
-<container id="cid10103008" type="Box" label="Mixed materials">5</container>
-<container parent="cid10103008" type="Folder">2</container>
-<unitdate>1960's.</unitdate>
-</did>
-</c>
-<c id="ref56" level="file">
-<did>
-<unittitle>Political campaigns; women's liberation; abortion; childcare; labor rights; minority rights; racism.</unittitle>
-<container id="cid10103009" type="Box" label="Mixed materials">5</container>
-<container parent="cid10103009" type="Folder">3</container>
-<unitdate>1970.</unitdate>
-</did>
-</c>
-<c id="ref57" level="file">
-<did>
-<unittitle>Newspapers.</unittitle>
-<container id="cid10103010" type="Box" label="Mixed materials">5</container>
-<container parent="cid10103010" type="Folder">4</container>
-<unitdate>1970.</unitdate>
-</did>
-</c>
-<c id="ref58" level="file">
-<did>
-<unittitle>Student and faculty strike; crisis curriculum; tuition; police presence on campus.</unittitle>
-<container id="cid10103011" type="Box" label="Mixed materials">5</container>
-<container parent="cid10103011" type="Folder">5</container>
-<unitdate>1970.</unitdate>
-</did>
-</c>
-<c id="ref59" level="file">
-<did>
-<unittitle>Vietnam.</unittitle>
-<container id="cid10108001" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108001" type="Folder">1</container>
-<unitdate>1970.</unitdate>
-</did>
-</c>
-<c id="ref60" level="file">
-<did>
-<unittitle>Vietnam; elections; labor rights; social revolution; religion; women's liberation; Iran; environmentalism; co-ops; campus issues; parking.</unittitle>
-<container id="cid10108002" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108002" type="Folder">2</container>
-<unitdate>1971.</unitdate>
-</did>
-</c>
-<c id="ref61" level="file">
-<did>
-<unittitle>Vietnam; campus issues; labor rights; elections; religion; Iran.</unittitle>
-<container id="cid10108003" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108003" type="Folder">3</container>
-<unitdate>1972.</unitdate>
-</did>
-</c>
-<c id="ref62" level="file">
-<did>
-<unittitle>Convenio/University of Chile program; racism; elections; socialism; psychosurgery/Center for the Study and Reduction of Violence; religion; Iran, Native American rights.</unittitle>
-<container id="cid10108004" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108004" type="Folder">4</container>
-<unitdate>1973.</unitdate>
-</did>
-</c>
-<c id="ref63" level="file">
-<did>
-<unittitle>Psychosurgery/Center for the Study and Reduction of Violence; racism; elections; Iran; Chile, religion.</unittitle>
-<container id="cid10108005" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108005" type="Folder">5</container>
-<unitdate>1974-1975.</unitdate>
-</did>
-</c>
-<c id="ref64" level="file">
-<did>
-<unittitle>Socialism; labor rights; racism; Vietnam.</unittitle>
-<container id="cid10108006" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108006" type="Folder">6</container>
-<unitdate>1976.</unitdate>
-</did>
-</c>
-<c id="ref65" level="file">
-<did>
-<unittitle>Labor rights/farmworkers; higher education funding; Iran; Palestine; Vietnam; racism.</unittitle>
-<container id="cid10108007" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108007" type="Folder">7</container>
-<unitdate>1977.</unitdate>
-</did>
-</c>
-<c id="ref66" level="file">
-<did>
-<unittitle>Elections; environmentalism; nuclear power; religion; communism; Iran; Chile; South Africa/Apartheid.</unittitle>
-<container id="cid10108008" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108008" type="Folder">8</container>
-<unitdate>1978.</unitdate>
-</did>
-</c>
-<c id="ref67" level="file">
-<did>
-<unittitle>Nuclear power; labor rights/lettuce strike; religion; ROTC; communism; police corruption; KKK; Iran; Puerto Rican independence.</unittitle>
-<container id="cid10108009" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108009" type="Folder">9</container>
-<unitdate>1979.</unitdate>
-</did>
-</c>
-<c id="ref68" level="file">
-<did>
-<unittitle>Vietnam/draft; elections.</unittitle>
-<container id="cid10108010" type="Box" label="Mixed materials">6</container>
-<container parent="cid10108010" type="Folder">10</container>
-<unitdate>1970's.</unitdate>
-</did>
-</c>
-<c id="ref69" level="file">
-<did>
-<unittitle>Draft; ROTC; anti-war; political campaigns; nuclear power; racism; communism; Iran's Shah.</unittitle>
-<container id="cid10108011" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108011" type="Folder">1</container>
-<unitdate>1980.</unitdate>
-</did>
-</c>
-<c id="ref70" level="file">
-<did>
-<unittitle>UCLA's nuclear reactor; draft/anti-war; international issues; women's rights; religion; unemployment/student expenses; affirmative action.</unittitle>
-<container id="cid10108012" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108012" type="Folder">2</container>
-<unitdate>1981.</unitdate>
-</did>
-</c>
-<c id="ref71" level="file">
-<did>
-<unittitle>International issues (El Salvador, Iran, Poland, Israel, Central America); disarmament; Reaganomics; communism.</unittitle>
-<container id="cid10108013" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108013" type="Folder">3</container>
-<unitdate>1982.</unitdate>
-</did>
-</c>
-<c id="ref72" level="file">
-<did>
-<unittitle>Racism; higher education funding; El Salvador/Central America; religion; women's rights; disarmament.</unittitle>
-<container id="cid10108014" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108014" type="Folder">4</container>
-<unitdate>1983.</unitdate>
-</did>
-</c>
-<c id="ref73" level="file">
-<did>
-<unittitle>International issues (El Salvador, Central America, Russia, Middle East, South Africa).</unittitle>
-<container id="cid10108015" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108015" type="Folder">5</container>
-<unitdate>1984.</unitdate>
-</did>
-</c>
-<c id="ref74" level="file">
-<did>
-<unittitle>Divestment; anti-apartheid; Central America; Pakistan.</unittitle>
-<container id="cid10108016" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108016" type="Folder">6</container>
-<unitdate>1985.</unitdate>
-</did>
-</c>
-<c id="ref75" level="file">
-<did>
-<unittitle>South Africa; Central America/CIA; police state.</unittitle>
-<container id="cid10108017" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108017" type="Folder">7</container>
-<unitdate>1986.</unitdate>
-</did>
-</c>
-<c id="ref76" level="file">
-<did>
-<unittitle>Animal rights; political campaigns; campus issues.</unittitle>
-<container id="cid10108018" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108018" type="Folder">8</container>
-<unitdate>1988.</unitdate>
-</did>
-</c>
-<c id="ref77" level="file">
-<did>
-<unittitle>Animal rights/experimentation; campus issues; women's rights; labor rights.</unittitle>
-<container id="cid10108019" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108019" type="Folder">9</container>
-<unitdate>1989.</unitdate>
-</did>
-</c>
-<c id="ref78" level="file">
-<did>
-<unittitle>UC student fee rates; El Salvador.</unittitle>
-<container id="cid10108020" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108020" type="Folder">10</container>
-<unitdate>1992.</unitdate>
-</did>
-</c>
-<c id="ref79" level="file">
-<did>
-<unittitle>Establishment of Chicano/a Studies Center; dissolution/restructuring of departments; Justice for Janitors; student elections.</unittitle>
-<container id="cid10108021" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108021" type="Folder">11</container>
-<unitdate>1993.</unitdate>
-</did>
-</c>
-<c id="ref80" level="file">
-<did>
-<unittitle>Immigration/Proposition 187; student fees/higher education funding; Americorp; ROTC/LGBT rights; elections.</unittitle>
-<container id="cid10108022" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108022" type="Folder">12</container>
-<unitdate>1994.</unitdate>
-</did>
-</c>
-<c id="ref81" level="file">
-<did>
-<unittitle>Affirmative action.</unittitle>
-<container id="cid10108023" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108023" type="Folder">13</container>
-<unitdate>1995.</unitdate>
-</did>
-</c>
-<c id="ref82" level="file">
-<did>
-<unittitle>Affirmative action/Proposition 209; student fees; elections; gender issues; police brutality.</unittitle>
-<container id="cid10108024" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108024" type="Folder">14</container>
-<unitdate>1996.</unitdate>
-</did>
-</c>
-<c id="ref83" level="file">
-<did>
-<unittitle>Graduate student strike/labor rights; Propositions 226/227; animal research.</unittitle>
-<container id="cid10108025" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108025" type="Folder">15</container>
-<unitdate>1998.</unitdate>
-</did>
-</c>
-<c id="ref84" level="file">
-<did>
-<unittitle>Anti-impeachment; animal liberation.</unittitle>
-<container id="cid10108026" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108026" type="Folder">16</container>
-<unitdate>1999.</unitdate>
-</did>
-</c>
-<c id="ref85" level="file">
-<did>
-<unittitle>Affirmative action; dissolution/restructuring of departments.</unittitle>
-<container id="cid10108027" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108027" type="Folder">17</container>
-<unitdate>1990's.</unitdate>
-</did>
-</c>
-<c id="ref86" level="file">
-<did>
-<unittitle>Elections.</unittitle>
-<container id="cid10108028" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108028" type="Folder">18</container>
-<unitdate>2000.</unitdate>
-</did>
-</c>
-<c id="ref87" level="file">
-<did>
-<unittitle>Elections; anti-war.</unittitle>
-<container id="cid10108029" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108029" type="Folder">19</container>
-<unitdate>2001.</unitdate>
-</did>
-</c>
-<c id="ref88" level="file">
-<did>
-<unittitle>Anti-war.</unittitle>
-<container id="cid10108030" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108030" type="Folder">20</container>
-<unitdate>2003.</unitdate>
-</did>
-</c>
-<c id="ref89" level="file">
-<did>
-<unittitle>Elections.</unittitle>
-<container id="cid10108031" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108031" type="Folder">21</container>
-<unitdate>2004.</unitdate>
-</did>
-</c>
-<c id="ref90" level="file">
-<did>
-<unittitle>Student fees; labor rights; Minutemen.</unittitle>
-<container id="cid10108032" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108032" type="Folder">22</container>
-<unitdate>2007-2009.</unitdate>
-</did>
-</c>
-<c id="ref91" level="file">
-<did>
-<unittitle>Student fees; use of police force.</unittitle>
-<container id="cid10108033" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108033" type="Folder">23</container>
-<unitdate>2010.</unitdate>
-</did>
-</c>
-<c id="ref92" level="file">
-<did>
-<unittitle>Graduate student labor.</unittitle>
-<container id="cid10108034" type="Box" label="Mixed materials">7</container>
-<container parent="cid10108034" type="Folder">24</container>
-<unitdate>2014.</unitdate>
-</did>
-</c>
-<c id="ref93" level="file">
-<did>
-<unittitle>Socialism; Vietnam/draft; student strikes; academic freedom; freedom of speech; police use of force; ROTC; Jim Crow/segregation; labor rights; religion; elections; LGBT rights; tuition.</unittitle>
-<container id="cid10115001" type="Box" label="Mixed materials">7</container>
-<container parent="cid10115001" type="Folder">25</container>
-<unitdate>Undated.</unitdate>
-</did>
-</c>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/kt3t1nc5mg/">uars0259.xml</eadid><filedesc><titlestmt><titleproper type="filing">UCLA Students. Student Activism materials.</titleproper><titleproper>UCLA Students. Student Activism materials. <date calendar="gregorian" era="ce">1927-2014.</date> <num>UARC.0259</num></titleproper><author>University Archives staff, 1987 Jan 05; finding aid revised by Katharine Lawrie, 2016 April; machine-readable finding aid created by Katharine Lawrie, 2016 April.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>©2016</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information. </p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-10-24 16:29:34 -0700</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>UCLA Students. Student Activism materials.</unittitle>
+    <origination label="Creator">
+      <corpname source="local">UCLA University Archives</corpname>
+    </origination>
+    <unitid>UARC.0259</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.8 linear feet</extent>
+      <extent altrender="carrier">(7 boxes)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">0.8 linear feet</extent>
+      <extent altrender="carrier">(2 unprocessed document boxes)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 born-digital carriers</extent>
+      <extent altrender="carrier">(1 hard drive)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">4.55 Gigabytes</extent>
+      <extent altrender="carrier">(2 files, 0 folders)</extent>
+      <physfacet>Transferred from 1 hard drive.</physfacet>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">0.4 linear feet</extent>
+      <extent altrender="carrier">(1 unprocessed document box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1927/1986" type="inclusive">1927-1986</unitdate>
+    <abstract id="aspace_5937899e2e7836352dcb0b3f2bc7a2d8" label="Abstract">Record Series 259 contains materials related to student activism at UCLA throughout the 20th and early 21st centuries. Themes include communism, pacifism, World War II, the Vietnam War, civil rights, and freedom of expression.</abstract>
+    <physloc id="aspace_1ee10d5e9a38b79fe2e6767d01ab476c" label="Physical Location">Record Series 259 is located in Library Special Collections Technical Services Annex, A1713 Charles E. Young Research Library.</physloc>
+    <langmaterial id="aspace_cc8b8e1f9640ab397e3181bc2e0a9455">Materials are in English.</langmaterial>
+  </did>
+  <dao xlink:actuate="onRequest" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/z1674cm9" xlink:role="" xlink:show="new" xlink:title="Student Activism Collection (35 items)" xlink:type="simple">
+    <daodesc><p>Student Activism Collection (35 items)</p></daodesc>
+  </dao>
+  <accessrestrict id="aspace_f12a2104da808381edd533dab6c40018">
+    <head>Access</head>
+<p>COLLECTION STORED OFF-SITE: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>  </accessrestrict>
+  <userestrict id="aspace_af57f832d3806260867dd946bdbc2280">
+    <head>Publication Rights</head>
+<p>Copyright of this collection has been assigned to The Regents of the University of California. The UCLA University Archives can grant permission to publish for materials to which it holds the copyright. All requests for permission to publish or quote must be submitted in writing to UCLA Library Special Collections Public Services.</p>  </userestrict>
+  <odd id="aspace_4485479887037185225b3e35a93451f7">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9935203453606533">9935203453606533</extref></p>  </odd>
+  <prefercite id="aspace_164eb0d8bb4f2f3e5646c272474eb58c">
+    <head>Preferred Citation</head>
+<p>[Identification of item], UCLA Students. Student Activism materials (University Archives Record Series 259). UCLA Library Special Collections, University Archives.</p>  </prefercite>
+  <processinfo id="aspace_8673ddd56f5f47ace4dffd7545306ff6">
+    <head>Processing Information</head>
+<p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language
+that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form
+located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special
+Collections.</extref></p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p>  </processinfo>
+  <bioghist id="aspace_da8efa99b3d2f72d3e5abec4bb1bfbc1">
+    <head>Historical note</head>
+<p>Since the university's early years, students at UCLA have been moved by situations at home and abroad to raise their voices in protest.</p><p>In the late 1920s and 1939s, student activism was fueled by the social and economic conditions of the Depression era, reaction to the rise of fascism in Europe, threat of war, and political repression at home, particularly against Leftist groups. Students held a strike for peace, and demanded the freedom to express their beliefs without enduring academic repercussion.</p><p>Academic freedom remained a much-discussed issue in the 1940s, as students reacted to World War II and its aftermath. Issues such as discrimination and labor rights took greater prominence as veterans returned to campus in the late 1940s.</p><p>Controversy over the Loyalty Oath at the University of California, brought on by national anti-communism sentiments, ushered in the 1950s. Discrimination, labor rights, and freedom of expression remained active topics.</p><p>The early 1960s saw students engaged in the Civil Rights Movement, protesting against segregation and for racial equality. Student activism during this period also critiqued the university system and the nature of modern American higher education, as evidenced in the Free Speech Movement which made its appearance at UCLA in December 1964.</p><p>Peace and antiwar movements, especially concerning American involvement in Vietnam, intensified during the late 1960s and early 1970s, resulting in a strike of students, faculty, and staff. Students were roused to action in support of Black and minority rights, with outrage and vehement protests by the UCLA campus community following the Angela Davis controversy. The assassination of Martin Luther King Jr., the women's liberation movement, and police violence on college and university campuses inspired student action.</p><p>Student activism in the mid and late 1970s critiqued the University of California's association with international programs as students turned their attention to events in South East Asia and South America. At home, the labor rights of farmworkers, funding for higher education, and environmentalism took focus.</p><p>During the 1980s students protested in opposition to apartheid in South Africa, and the University of California's financial ties to supporters of apartheid. Protests were held in support of political movements in Central and South America. Concerns over nuclear war and nuclear energy also engaged students.</p><p>The cessation of affirmative action at UCLA prompted student activism in the 1990s, as did educational budget cuts enacted by the University of California Regents, and experimentation on animals. The 1990s also saw the establishment of a Chicana/o Studies Department at UCLA.</p><p>A resurgence of anti-war movements began in the 2000s, while concerns over the cost of higher education remained an issue.</p><p>Students at UCLA continue to engage in activism over local, national, and international concerns as they arise.</p>  </bioghist>
+  <scopecontent id="aspace_2452de3b3a1decb579ffd240e94fb2f2">
+    <head>Scope and Content</head>
+<p>Record Series 259 contains materials related to student activism at UCLA from 1927-2014. Files contain materials generated by, or intended for, UCLA students.</p><p>Subjects include but are not limited to free speech, communism, pacifism, socialism, freedom of the press, resale of books/student book store, parking on campus, WWII, racial discrimination, Jim Crow, affordable housing, job security, the Loyalty Oath controversy, the Korean War, McCarthyism, the Rosenberg trial, the visit of the Shah of Iran to UCLA, the Civil Rights Movement, desegregation, Selma, the Vietnam War, draft resistance, labor rights, farm worker rights, women's liberation, abortion, Chicano/a rights, Martin Luther King Jr., the Black Panther Party, elections, and religion.</p><p>Materials include circulars, leaflets, fliers, pamphlets, newsletters, campaign materials, protest literature, clippings, publications, bulletins, letters, press releases, ephemera, correspondence; and meeting, demonstration, conference, and event documentation.</p><p>This is an active record series; additional University records are expected to be added.</p>  </scopecontent>
+  <arrangement id="aspace_51ab66a0031d358b81b295c8324882a3">
+    <head>Organization and Arrangement</head>
+<p>This collection is arranged chronologically. Folder titles refer to dominant themes of materials within a given period of time, but are not comprehensive lists of all subjects mentioned.</p>  </arrangement>
+  <altformavail id="aspace_eb4f8336f8f78100fadfa1be9b04fbcf">
+    <head>Online Items Available</head>
+<p>Portions of this collection have been digitaized and are available online:  <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://digital.library.ucla.edu/catalog/ark:/21198/z1674cm9">Student Activism Collection (35 items)</extref></p>  </altformavail>
+  <relatedmaterial id="aspace_d8dd126d429f9865f833f9e1ebb6c6f4">
+    <head>Related Material</head>
+<p>For more on student activism, see also: 
+<extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://oac.cdlib.org/findaid/ark:/13030/c8vx0hxw/">Public Information Office. Administrative Files of Chandler Harris (University Archives Record Series 543). </extref></p><p>For images of students engaging in activism, see: 
+<extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://oac.cdlib.org/findaid/ark:/13030/c8vt1sxj/">UCLA University Archives. Photographs (Reference Collection) (University Archives Record Series 100).</extref></p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Ephemera.</genreform>
+    <subject source="lcsh">Student newspapers and periodicals </subject>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref10_4dm" level="file"><did><unittitle>World peace.</unittitle><unitdate datechar="creation">1927-1928.</unitdate><container id="aspace_c5eff9f5e7fcd0931790404bbc7a47b3" label="Mixed Materials" type="box">1</container><container id="aspace_4784f552e1f0940b8a75802848cd4cc5" parent="aspace_c5eff9f5e7fcd0931790404bbc7a47b3" type="folder">1</container></did></c01><c01 id="aspace_ref11_ddu" level="file"><did><unittitle>Campus issues (parking, discipline, credits); international youth; freedom of expression/pacifism; social progress.</unittitle><unitdate datechar="creation">1931-1933.</unitdate><container id="aspace_75c8e962fc64142ecb6c3511dbbdba05" label="Mixed Materials" type="box">1</container><container id="aspace_0f4b48027f47be93ea70943b52485e39" parent="aspace_75c8e962fc64142ecb6c3511dbbdba05" type="folder">2</container></did></c01><c01 id="aspace_ref12_ih8" level="file"><did><unittitle>Student expulsion/freedom of expression; communism; labor rights; war/military presence on campus; student expenses; anti-fascism; KKK.</unittitle><unitdate datechar="creation">1934.</unitdate><container id="aspace_ef90584284eca6455a9511e473d2d904" label="Mixed Materials" type="box">1</container><container id="aspace_55e95d44d5d2997dbae100362fb1bc64" parent="aspace_ef90584284eca6455a9511e473d2d904" type="folder">3</container></did></c01><c01 id="aspace_ref13_ahk" level="file"><did><unittitle>Clippings (communism, pacifism).</unittitle><unitdate datechar="creation">1934.</unitdate><container id="aspace_0377751f100bc0a061a4c0294cf06a4c" label="Mixed Materials" type="box">1</container><container id="aspace_3aa96537cddca83b607fcb0e62da2d23" parent="aspace_0377751f100bc0a061a4c0294cf06a4c" type="folder">4</container></did></c01><c01 id="aspace_ref14_m9j" level="file"><did><unittitle>Anti-war; communism; freedom of expression; academic freedom; higher education funding; ROTC; student bookstore.</unittitle><unitdate datechar="creation">1935.</unitdate><container id="aspace_14503653d8913cabe1dff712e60a195a" label="Mixed Materials" type="box">1</container><container id="aspace_2133f8f02f1f2c656fe9bd280c4383ea" parent="aspace_14503653d8913cabe1dff712e60a195a" type="folder">5</container></did></c01><c01 id="aspace_ref18_pl1" level="file"><did><unittitle>Clippings (communism, pacifism, strike, hazing).</unittitle><unitdate datechar="creation">1935.</unitdate><container id="aspace_a48d9a30d4cc574139c3392c489005eb" label="Mixed Materials" type="box">1</container><container id="aspace_8a8a86bf07353937c159f1b692afbda2" parent="aspace_a48d9a30d4cc574139c3392c489005eb" type="folder">6</container></did></c01><c01 id="aspace_ref19_0dh" level="file"><did><unittitle>Student strike for peace; academic freedom; communism; labor rights; KKK.</unittitle><unitdate datechar="creation">1936.</unitdate><container id="aspace_5b0568f56cf4860d422ea78e041dc143" label="Mixed Materials" type="box">1</container><container id="aspace_acb1dd49c1c7a784908c0c257404c352" parent="aspace_5b0568f56cf4860d422ea78e041dc143" type="folder">7</container></did></c01><c01 id="aspace_ref20_cuz" level="file"><did><unittitle>Student strike for peace; socialism; anti-fascism.</unittitle><unitdate datechar="creation">1937.</unitdate><container id="aspace_af75d48ff4de6e4f88ea51f5b5ff88c7" label="Mixed Materials" type="box">1</container><container id="aspace_1709fd9126c6516c4223c9aeb6e14809" parent="aspace_af75d48ff4de6e4f88ea51f5b5ff88c7" type="folder">8</container></did></c01><c01 id="aspace_ref21_1qs" level="file"><did><unittitle>Student strike for peace; campus issues; "Ham and Eggs" movement. Includes songbook.</unittitle><unitdate datechar="creation">1938.</unitdate><container id="aspace_89016f4b132c11ae9b0fe46ddfc8f4ae" label="Mixed Materials" type="box">1</container><container id="aspace_0fc84544dc1990fd4356b7d23c3f9f4d" parent="aspace_89016f4b132c11ae9b0fe46ddfc8f4ae" type="folder">9</container></did></c01><c01 id="aspace_ref22_quz" level="file"><did><unittitle>Anti-war; socialism; communism; Ludlow Amendment; co-op bookstore.</unittitle><unitdate datechar="creation">1939.</unitdate><container id="aspace_5fe2ccbbb9eca1b29f1b1a2964bcf03b" label="Mixed Materials" type="box">1</container><container id="aspace_485f12949e32a3b52621ce4f300a3994" parent="aspace_5fe2ccbbb9eca1b29f1b1a2964bcf03b" type="folder">10</container></did></c01><c01 id="aspace_ref24_xrv" level="file"><did><unittitle>Communism; socialism; WWII; pacifism; Jim Crow.</unittitle><unitdate datechar="creation">1940.</unitdate><container id="aspace_a0794a23cbdac105d6fd8743f124ba69" label="Mixed Materials" type="box">2</container><container id="aspace_491f77ac5a7751c1ce07f69063138d2d" parent="aspace_a0794a23cbdac105d6fd8743f124ba69" type="folder">1</container></did></c01><c01 id="aspace_ref25_9or" level="file"><did><unittitle>WWII; anti-war; conscription/draft; ROTC; censorship; Jim Crow; co-op bookstore.</unittitle><unitdate datechar="creation">1941.</unitdate><container id="aspace_e4be4709f1c5b39c901ced23360851c4" label="Mixed Materials" type="box">2</container><container id="aspace_35ccd11dcb429a02878dc5559d9e6ddb" parent="aspace_e4be4709f1c5b39c901ced23360851c4" type="Folders">2-3</container></did></c01><c01 id="aspace_ref26_j5y" level="file"><did><unittitle>War effort; draft; elections; unions; communism.</unittitle><unitdate datechar="creation">1942.</unitdate><container id="aspace_f443af9d8d512cf91c1adf7b88730fb3" label="Mixed Materials" type="box">2</container><container id="aspace_38f5948c9c94ae8daf137eccc6f7e4c5" parent="aspace_f443af9d8d512cf91c1adf7b88730fb3" type="folder">4</container></did></c01><c01 id="aspace_ref27_w09" level="file"><did><unittitle>WWII, international youth.</unittitle><unitdate datechar="creation">1943.</unitdate><container id="aspace_bf3cf8c1ea75e38866ac9cac7f5f3ef4" label="Mixed Materials" type="box">2</container><container id="aspace_2d5e43ad9d362d65f71db88b2a1445ab" parent="aspace_bf3cf8c1ea75e38866ac9cac7f5f3ef4" type="folder">5</container></did></c01><c01 id="aspace_ref28_yoh" level="file"><did><unittitle>WWII reactions; elections.</unittitle><unitdate datechar="creation">1944.</unitdate><container id="aspace_305cd416467c8027664b20460265323c" label="Mixed Materials" type="box">2</container><container id="aspace_da96d51e3905ad5aef34d44d2d755f6a" parent="aspace_305cd416467c8027664b20460265323c" type="folder">6</container></did></c01><c01 id="aspace_ref29_fyw" level="file"><did><unittitle>Student life; radicalism.</unittitle><unitdate datechar="creation">1945.</unitdate><container id="aspace_f5d6da26fc64615e2da5672d21483f68" label="Mixed Materials" type="box">2</container><container id="aspace_7d94b126b721b5a4bd071420efad8e72" parent="aspace_f5d6da26fc64615e2da5672d21483f68" type="folder">7</container></did></c01><c01 id="aspace_ref30_vha" level="file"><did><unittitle>Communism; employment; labor rights; Jim Crow; campus housing.</unittitle><unitdate datechar="creation">1946.</unitdate><container id="aspace_bf03acc474b0d59127313ff2a041fd79" label="Mixed Materials" type="box">2</container><container id="aspace_20e730ac9d5157028850623f90389986" parent="aspace_bf03acc474b0d59127313ff2a041fd79" type="folder">8</container></did></c01><c01 id="aspace_ref31_r1p" level="file"><did><unittitle>Communism; labor rights; campus housing/discrimination; Jim Crow.</unittitle><unitdate datechar="creation">1947.</unitdate><container id="aspace_f2c78a6ccd5ea4d869d3037fc5f2f2ef" label="Mixed Materials" type="box">2</container><container id="aspace_d45eb0491fb557a00f932cbf3d0c5b5a" parent="aspace_f2c78a6ccd5ea4d869d3037fc5f2f2ef" type="folder">9</container></did></c01><c01 id="aspace_ref32_yqx" level="file"><did><unittitle>Labor rights; anti-fascism; communism; peace/draft; discrimination/Jim Crow (barbers in Westwood); elections; free press.</unittitle><unitdate datechar="creation">1948.</unitdate><container id="aspace_d76d1f6efb178c3637376f38357467fb" label="Mixed Materials" type="box">2</container><container id="aspace_434fe31d413e6e19f3b9abc428b0e6a6" parent="aspace_d76d1f6efb178c3637376f38357467fb" type="folder">10</container></did></c01><c01 id="aspace_ref33_zil" level="file"><did><unittitle>Communism; socialism; anti-fascism; veterans; police violence; elections.</unittitle><unitdate datechar="creation">1948.</unitdate><container id="aspace_b4b058d7e4a51223c7573b5aa27e3a45" label="Mixed Materials" type="box">3</container><container id="aspace_2a9a5845bd3b934068c887c746a3ab55" parent="aspace_b4b058d7e4a51223c7573b5aa27e3a45" type="folder">1</container></did></c01><c01 id="aspace_ref34_0ti" level="file"><did><unittitle>Socialism; communism; loyalty oath/academic freedom; Jim Crow; ROTC; co-op bookstore.</unittitle><unitdate datechar="creation">1949.</unitdate><container id="aspace_ef6c5e81f343f3839d6c25f883e012b8" label="Mixed Materials" type="box">3</container><container id="aspace_42578ecd7024d567db8092e785f574fd" parent="aspace_ef6c5e81f343f3839d6c25f883e012b8" type="folder">2</container></did></c01><c01 id="aspace_ref35_f53" level="file"><did><unittitle>WWII; military training at UCLA; student strike for peace; youth roles.</unittitle><unitdate datechar="creation">1940's.</unitdate><container id="aspace_cc586122793a93726f5eb051a180fc8d" label="Mixed Materials" type="box">3</container><container id="aspace_3861e0450478d71038e1e3a286a5b52b" parent="aspace_cc586122793a93726f5eb051a180fc8d" type="folder">3</container></did></c01><c01 id="aspace_ref36_4b3" level="file"><did><unittitle>Socialism; communism; labor party; loyalty oath; housing discrimination; Jim Crow; peace; ROTC.</unittitle><unitdate datechar="creation">1950.</unitdate><container id="aspace_e1652c6379948c987f25c51e2ce67f09" label="Mixed Materials" type="box">3</container><container id="aspace_a85707c348b5ad03389eb2e46b0dd661" parent="aspace_e1652c6379948c987f25c51e2ce67f09" type="folder">4</container></did></c01><c01 id="aspace_ref37_d47" level="file"><did><unittitle>Loyalty oath; Korean War; communism; socialism.</unittitle><unitdate datechar="creation">1951.</unitdate><container id="aspace_6a34ea5099deb027195ca31c630b3d6e" label="Mixed Materials" type="box">3</container><container id="aspace_9a1f13ffa10df1ae22471b950268299b" parent="aspace_6a34ea5099deb027195ca31c630b3d6e" type="folder">5</container></did></c01><c01 id="aspace_ref38_yiz" level="file"><did><unittitle>Rosenbergs; communism; socialism.</unittitle><unitdate datechar="creation">1952.</unitdate><container id="aspace_01e1c1c5ca0981852066c78160e906b5" label="Mixed Materials" type="box">3</container><container id="aspace_30c79249f855c7fa0ddb1adb08ece8af" parent="aspace_01e1c1c5ca0981852066c78160e906b5" type="folder">6</container></did></c01><c01 id="aspace_ref39_6v6" level="file"><did><unittitle>Rosenbergs; housing.</unittitle><unitdate datechar="creation">1953.</unitdate><container id="aspace_74b4139ed2941145b83f61291ae27497" label="Mixed Materials" type="box">3</container><container id="aspace_d780b8db9a92f46cb8c63c5dd459cf88" parent="aspace_74b4139ed2941145b83f61291ae27497" type="folder">7</container></did></c01><c01 id="aspace_ref40_hz3" level="file"><did><unittitle>ROTC; Mexican-American education; socialism.</unittitle><unitdate datechar="creation">1954.</unitdate><container id="aspace_59f64bf2b7a4735c543d33aa344a19d4" label="Mixed Materials" type="box">3</container><container id="aspace_f2e484dc3775b7c794d0c749a97c7dfc" parent="aspace_59f64bf2b7a4735c543d33aa344a19d4" type="folder">8</container></did></c01><c01 id="aspace_ref41_gt6" level="file"><did><unittitle>Free press/independent student newspaper; NAACP.</unittitle><unitdate datechar="creation">1955.</unitdate><container id="aspace_599788c1b762c7fae734ce0e3d488f18" label="Mixed Materials" type="box">3</container><container id="aspace_c8cede8f9e48a5b83810a6f16b03a03c" parent="aspace_599788c1b762c7fae734ce0e3d488f18" type="folder">9</container></did></c01><c01 id="aspace_ref42_tzn" level="file"><did><unittitle>NAACP; labor rights/strikes; academic freedom.</unittitle><unitdate datechar="creation">1956.</unitdate><container id="aspace_e4115c7b73dafdcc829d79cd217af7b1" label="Mixed Materials" type="box">3</container><container id="aspace_2207391e632a79a63371f146dcc5f109" parent="aspace_e4115c7b73dafdcc829d79cd217af7b1" type="folder">10</container></did></c01><c01 id="aspace_ref43_quc" level="file"><did><unittitle>Free press; socialism.</unittitle><unitdate datechar="creation">1957.</unitdate><container id="aspace_4d135397e4b2dae7df8fad9eaa001ec5" label="Mixed Materials" type="box">3</container><container id="aspace_5e00efe1c56dac4a08636ec622f27256" parent="aspace_4d135397e4b2dae7df8fad9eaa001ec5" type="folder">11</container></did></c01><c01 id="aspace_ref44_t4e" level="file"><did><unittitle>Discrimination/civil rights; communism; socialism; academic freedom/loyalty oath.</unittitle><unitdate datechar="creation">1950's.</unitdate><container id="aspace_1ac5ef4ff4cb53b61fb493063786ea1e" label="Mixed Materials" type="box">3</container><container id="aspace_5d3812551caa3dd2ea7e5f402901f223" parent="aspace_1ac5ef4ff4cb53b61fb493063786ea1e" type="folder">12</container></did></c01><c01 id="aspace_ref45_azm" level="file"><did><unittitle>Segregation; religion; ROTC.</unittitle><unitdate datechar="creation">1960-1961.</unitdate><container id="aspace_00bf522e0e6fc6ec45622d56ed41adef" label="Mixed Materials" type="box">3</container><container id="aspace_d5c9ac51785ed7ed291bb5a660340816" parent="aspace_00bf522e0e6fc6ec45622d56ed41adef" type="folder">13</container></did></c01><c01 id="aspace_ref46_dly" level="file"><did><unittitle>Communism; socialism; segregation/discrimination; labor rights; academic freedom; House Un-American Activities Committee.</unittitle><unitdate datechar="creation">1962.</unitdate><container id="aspace_b7c09d4ba7686ce1232264fe1ebbe2c6" label="Mixed Materials" type="box">3</container><container id="aspace_c398b14f3077499fdf56c18eef30d493" parent="aspace_b7c09d4ba7686ce1232264fe1ebbe2c6" type="folder">14</container></did></c01><c01 id="aspace_ref47_xsb" level="file"><did><unittitle>Socialism; communism; civil rights; labor rights; John F. Kennedy assassination; abortion; Iran; campus issues.</unittitle><unitdate datechar="creation">1963.</unitdate><container id="aspace_d1f8cdb31400ed2f2422c08cfec09ff5" label="Mixed Materials" type="box">3</container><container id="aspace_ab1eca8f2a7979c1824709f8c165f305" parent="aspace_d1f8cdb31400ed2f2422c08cfec09ff5" type="folder">15</container></did></c01><c01 id="aspace_ref48_pyl" level="file"><did><unittitle>Free speech; fair housing; discrimination; segregation; elections; Iran/Shah's visit to UCLA.</unittitle><unitdate datechar="creation">1964.</unitdate><container id="aspace_2d60a96f9a49ab935702353fc55ee61e" label="Mixed Materials" type="box">4</container><container id="aspace_87519aaf13a9111bbe47d826bf120de8" parent="aspace_2d60a96f9a49ab935702353fc55ee61e" type="folder">1</container></did></c01><c01 id="aspace_ref49_x63" level="file"><did><unittitle>Iran; Vietnam; abortion; labor rights; free speech; sexuality; Selma/desegregation; parking.</unittitle><unitdate datechar="creation">1965.</unitdate><container id="aspace_cd24bdebcf18c0119eb8aba186b6e6a2" label="Mixed Materials" type="box">4</container><container id="aspace_f0329a388549b8e5f8ba8c57a6623e27" parent="aspace_cd24bdebcf18c0119eb8aba186b6e6a2" type="folder">2</container></did></c01><c01 id="aspace_ref50_3ar" level="file"><did><unittitle>Vietnam; sexuality; labor rights.</unittitle><unitdate datechar="creation">1966.</unitdate><container id="aspace_65e486318577854a4448b6851b1c53ff" label="Mixed Materials" type="box">4</container><container id="aspace_dec6374b3f6cc6b5483b19bfdd28002b" parent="aspace_65e486318577854a4448b6851b1c53ff" type="folder">3</container></did></c01><c01 id="aspace_ref51_zr3" level="file"><did><unittitle>Vietnam; labor rights; tuition; abortion; racism.</unittitle><unitdate datechar="creation">1967.</unitdate><container id="aspace_5888d83335628d94389d3f66fa545d65" label="Mixed Materials" type="box">4</container><container id="aspace_21c37d59af17a92bf20db42d0140e8db" parent="aspace_5888d83335628d94389d3f66fa545d65" type="folder">4</container></did></c01><c01 id="aspace_ref52_sjc" level="file"><did><unittitle>Martin Luther King Jr. assassination; women's liberation; free speech; religion; elections; racism; Vietnam/draft resistance.</unittitle><unitdate datechar="creation">1968.</unitdate><container id="aspace_945151f8ce33e50c4104695fb8bf5db5" label="Mixed Materials" type="box">4</container><container id="aspace_fe7d4e3258f804815877c0b468ad6f68" parent="aspace_945151f8ce33e50c4104695fb8bf5db5" type="folder">5</container></did></c01><c01 id="aspace_ref53_7lx" level="file"><did><unittitle>Racism; Angela Davis; environmentalism; academic freedom; Chicano Studies; ROTC; Vietnam; UC (University of California) strike.</unittitle><unitdate datechar="creation">1969.</unitdate><container id="aspace_f5c8ddaeaeb0893e99d8b23f90a5e614" label="Mixed Materials" type="box">4</container><container id="aspace_0f074d63471124dc4c8d6603b9983424" parent="aspace_f5c8ddaeaeb0893e99d8b23f90a5e614" type="folder">6</container></did></c01><c01 id="aspace_ref54_xqd" level="file"><did><unittitle>Vietnam; police oppression/ROTC; police occupation at UC Berkeley; labor rights; minority rights; Angela Davis; Eldridge Cleaver; women's liberation; environmentalism; UC Regents/campus issues.</unittitle><unitdate datechar="creation">1969.</unitdate><container id="aspace_64e0ad722e27ce92ee5d26d30fd2e9a2" label="Mixed Materials" type="box">5</container><container id="aspace_7aefa7b5eb0ba031eb979bb5cf4dd299" parent="aspace_64e0ad722e27ce92ee5d26d30fd2e9a2" type="folder">1</container></did></c01><c01 id="aspace_ref55_vty" level="file"><did><unittitle>Religions; American Nazi Party; racism; academic freedom; student strike; Vietnam/draft; women's liberation.</unittitle><unitdate datechar="creation">1960's.</unitdate><container id="aspace_52817067ebf853e4cdccae703678675f" label="Mixed Materials" type="box">5</container><container id="aspace_443c5fcbbb9da57fc2ef867fabc521c9" parent="aspace_52817067ebf853e4cdccae703678675f" type="folder">2</container></did></c01><c01 id="aspace_ref56_nwe" level="file"><did><unittitle>Political campaigns; women's liberation; abortion; childcare; labor rights; minority rights; racism.</unittitle><unitdate datechar="creation">1970.</unitdate><container id="aspace_7f42be6ee193797329a0ab8cc2d9c035" label="Mixed Materials" type="box">5</container><container id="aspace_2378fb2c979809f590728c494354e3d4" parent="aspace_7f42be6ee193797329a0ab8cc2d9c035" type="folder">3</container></did></c01><c01 id="aspace_ref57_5m8" level="file"><did><unittitle>Newspapers.</unittitle><unitdate datechar="creation">1970.</unitdate><container id="aspace_eba11dcd8741010e8365f95cbd4d021e" label="Mixed Materials" type="box">5</container><container id="aspace_8f2689f0344a0a804944b71879f77b30" parent="aspace_eba11dcd8741010e8365f95cbd4d021e" type="folder">4</container></did></c01><c01 id="aspace_ref58_2yg" level="file"><did><unittitle>Student and faculty strike; crisis curriculum; tuition; police presence on campus.</unittitle><unitdate datechar="creation">1970.</unitdate><container id="aspace_df219dc10b1fc893b01032c8d4654082" label="Mixed Materials" type="box">5</container><container id="aspace_8e91e58ff33fb2356899a0f728c058fa" parent="aspace_df219dc10b1fc893b01032c8d4654082" type="folder">5</container></did></c01><c01 id="aspace_ref59_x6e" level="file"><did><unittitle>Vietnam.</unittitle><unitdate datechar="creation">1970.</unitdate><container id="aspace_4be30760f0d2fec62cfd3b7130e903e3" label="Mixed Materials" type="box">6</container><container id="aspace_641ac65f5ebc2ab2a3199f16eea2c09b" parent="aspace_4be30760f0d2fec62cfd3b7130e903e3" type="folder">1</container></did></c01><c01 id="aspace_ref60_8ex" level="file"><did><unittitle>Vietnam; elections; labor rights; social revolution; religion; women's liberation; Iran; environmentalism; co-ops; campus issues; parking.</unittitle><unitdate datechar="creation">1971.</unitdate><container id="aspace_a5de40b972920e51213dc574edd5dd53" label="Mixed Materials" type="box">6</container><container id="aspace_98ebfc1946a43a832a758432c9892683" parent="aspace_a5de40b972920e51213dc574edd5dd53" type="folder">2</container></did></c01><c01 id="aspace_ref61_3cc" level="file"><did><unittitle>Vietnam; campus issues; labor rights; elections; religion; Iran.</unittitle><unitdate datechar="creation">1972.</unitdate><container id="aspace_ac3cc52eb4b83e5308f68eeebf473f18" label="Mixed Materials" type="box">6</container><container id="aspace_772530de6e251b6b113a9a650fb08736" parent="aspace_ac3cc52eb4b83e5308f68eeebf473f18" type="folder">3</container></did></c01><c01 id="aspace_ref62_xlm" level="file"><did><unittitle>Convenio/University of Chile program; racism; elections; socialism; psychosurgery/Center for the Study and Reduction of Violence; religion; Iran, Native American rights.</unittitle><unitdate datechar="creation">1973.</unitdate><container id="aspace_b6a9105213454f4a4988bcd2edbc8af9" label="Mixed Materials" type="box">6</container><container id="aspace_e17cd7cb255344f3d5834b70c1f70fb9" parent="aspace_b6a9105213454f4a4988bcd2edbc8af9" type="folder">4</container></did></c01><c01 id="aspace_ref63_4vt" level="file"><did><unittitle>Psychosurgery/Center for the Study and Reduction of Violence; racism; elections; Iran; Chile, religion.</unittitle><unitdate datechar="creation">1974-1975.</unitdate><container id="aspace_6d9523803eb19550b42ddb193f16a69b" label="Mixed Materials" type="box">6</container><container id="aspace_2a673b0aeab35652ff44549958219173" parent="aspace_6d9523803eb19550b42ddb193f16a69b" type="folder">5</container></did></c01><c01 id="aspace_ref64_zlh" level="file"><did><unittitle>Socialism; labor rights; racism; Vietnam.</unittitle><unitdate datechar="creation">1976.</unitdate><container id="aspace_a5f6252f3b138f2846666d7ef5eadaa3" label="Mixed Materials" type="box">6</container><container id="aspace_ef3659532d07511efa9c1bd644b90306" parent="aspace_a5f6252f3b138f2846666d7ef5eadaa3" type="folder">6</container></did></c01><c01 id="aspace_ref65_r3n" level="file"><did><unittitle>Labor rights/farmworkers; higher education funding; Iran; Palestine; Vietnam; racism.</unittitle><unitdate datechar="creation">1977.</unitdate><container id="aspace_c2a7089f9457b793f94c1b39547b728a" label="Mixed Materials" type="box">6</container><container id="aspace_13663ccbbe79d81bbb490b0b49bfe1b6" parent="aspace_c2a7089f9457b793f94c1b39547b728a" type="folder">7</container></did></c01><c01 id="aspace_ref66_0cg" level="file"><did><unittitle>Elections; environmentalism; nuclear power; religion; communism; Iran; Chile; South Africa/Apartheid.</unittitle><unitdate datechar="creation">1978.</unitdate><container id="aspace_e1aad2ec35592b6ce30148201d189741" label="Mixed Materials" type="box">6</container><container id="aspace_94e54864aba57e4c80c5c72a405535af" parent="aspace_e1aad2ec35592b6ce30148201d189741" type="folder">8</container></did></c01><c01 id="aspace_ref67_xvi" level="file"><did><unittitle>Nuclear power; labor rights/lettuce strike; religion; ROTC; communism; police corruption; KKK; Iran; Puerto Rican independence. </unittitle><unitdate datechar="creation">1979.</unitdate><container id="aspace_d5d92b73924ed48b3b3ddc479744348e" label="Mixed Materials" type="box">6</container><container id="aspace_e36f45f23ba240342a1709a47e6d653e" parent="aspace_d5d92b73924ed48b3b3ddc479744348e" type="folder">9</container></did></c01><c01 id="aspace_ref68_582" level="file"><did><unittitle>Vietnam/draft; elections.</unittitle><unitdate datechar="creation">1970's.</unitdate><container id="aspace_137651d84e74e15018f8abb4813b8d4e" label="Mixed Materials" type="box">6</container><container id="aspace_f510ce129a4b4d2c45b513aaa15a3b43" parent="aspace_137651d84e74e15018f8abb4813b8d4e" type="folder">10</container></did></c01><c01 id="aspace_ref69_cm0" level="file"><did><unittitle>Draft; ROTC; anti-war; political campaigns; nuclear power; racism; communism; Iran's Shah.</unittitle><unitdate datechar="creation">1980.</unitdate><container id="aspace_4008a25c9244476c9f115761609db3cf" label="Mixed Materials" type="box">7</container><container id="aspace_c36a47b855b121f20fc895c5c5e07c6f" parent="aspace_4008a25c9244476c9f115761609db3cf" type="folder">1</container></did></c01><c01 id="aspace_ref70_21y" level="file"><did><unittitle>UCLA's nuclear reactor; draft/anti-war; international issues; women's rights; religion; unemployment/student expenses; affirmative action.</unittitle><unitdate datechar="creation">1981.</unitdate><container id="aspace_05ee6872b8e59632b13e5830551815e5" label="Mixed Materials" type="box">7</container><container id="aspace_7502e67fb6c7205f7b5aad1285c02c00" parent="aspace_05ee6872b8e59632b13e5830551815e5" type="folder">2</container></did></c01><c01 id="aspace_ref71_05g" level="file"><did><unittitle>International issues (El Salvador, Iran, Poland, Israel, Central America); disarmament; Reaganomics; communism.</unittitle><unitdate datechar="creation">1982.</unitdate><container id="aspace_baff822932c95017f1e3683605b4c56b" label="Mixed Materials" type="box">7</container><container id="aspace_a3e9d23522a7f50ec797b2b53a785ae3" parent="aspace_baff822932c95017f1e3683605b4c56b" type="folder">3</container></did></c01><c01 id="aspace_ref72_miy" level="file"><did><unittitle>Racism; higher education funding; El Salvador/Central America; religion; women's rights; disarmament.</unittitle><unitdate datechar="creation">1983.</unitdate><container id="aspace_1e3ff1f3cc7d6be6de727ff9b2abe423" label="Mixed Materials" type="box">7</container><container id="aspace_de391e1a7073227a3f4b70a3af3258b0" parent="aspace_1e3ff1f3cc7d6be6de727ff9b2abe423" type="folder">4</container></did></c01><c01 id="aspace_ref73_29x" level="file"><did><unittitle>International issues (El Salvador, Central America, Russia, Middle East, South Africa).</unittitle><unitdate datechar="creation">1984.</unitdate><container id="aspace_50e82327bff6a0ffa2e8caa97e752de8" label="Mixed Materials" type="box">7</container><container id="aspace_3dafa0bdda36dfd688d7ba318089bdf0" parent="aspace_50e82327bff6a0ffa2e8caa97e752de8" type="folder">5</container></did></c01><c01 id="aspace_ref74_glq" level="file"><did><unittitle>Divestment; anti-apartheid; Central America; Pakistan.</unittitle><unitdate datechar="creation">1985.</unitdate><container id="aspace_b03cb1ab8d7d674df3af8f8902f26478" label="Mixed Materials" type="box">7</container><container id="aspace_adde49c06ca6801aa3488e0ecbabf73a" parent="aspace_b03cb1ab8d7d674df3af8f8902f26478" type="folder">6</container></did></c01><c01 id="aspace_ref75_zkp" level="file"><did><unittitle>South Africa; Central America/CIA; police state.</unittitle><unitdate datechar="creation">1986.</unitdate><container id="aspace_fddb0d2460bf72f04f3cbed1c7103427" label="Mixed Materials" type="box">7</container><container id="aspace_109fe5ac1549e293b29e482c89ef9433" parent="aspace_fddb0d2460bf72f04f3cbed1c7103427" type="folder">7</container></did></c01><c01 id="aspace_ref76_9ob" level="file"><did><unittitle>Animal rights; political campaigns; campus issues.</unittitle><unitdate datechar="creation">1988.</unitdate><container id="aspace_8c5a6d8040f0be9bf0da916522329a85" label="Mixed Materials" type="box">7</container><container id="aspace_6a3670651dd080362913c465f06709ac" parent="aspace_8c5a6d8040f0be9bf0da916522329a85" type="folder">8</container></did></c01><c01 id="aspace_ref77_xed" level="file"><did><unittitle>Animal rights/experimentation; campus issues; women's rights; labor rights.</unittitle><unitdate datechar="creation">1989.</unitdate><container id="aspace_cf953f083316835e614c9d160416033e" label="Mixed Materials" type="box">7</container><container id="aspace_285577e0d8bf876f41d69c7c18aa52ab" parent="aspace_cf953f083316835e614c9d160416033e" type="folder">9</container></did></c01><c01 id="aspace_ref78_105" level="file"><did><unittitle>UC student fee rates; El Salvador.</unittitle><unitdate datechar="creation">1992.</unitdate><container id="aspace_7e8dc284efdd71276c10d4f23ca89190" label="Mixed Materials" type="box">7</container><container id="aspace_a0af4cc7e289222b815f083357ae833f" parent="aspace_7e8dc284efdd71276c10d4f23ca89190" type="folder">10</container></did></c01><c01 id="aspace_ref79_tfa" level="file"><did><unittitle>Establishment of Chicano/a Studies Center; dissolution/restructuring of departments; Justice for Janitors; student elections.</unittitle><unitdate datechar="creation">1993.</unitdate><container id="aspace_be6c4be39f1e88ef29adf18ba31caadf" label="Mixed Materials" type="box">7</container><container id="aspace_7a4af046b794945c7c968ed6c8152298" parent="aspace_be6c4be39f1e88ef29adf18ba31caadf" type="folder">11</container></did></c01><c01 id="aspace_ref80_vuy" level="file"><did><unittitle>Immigration/Proposition 187; student fees/higher education funding; Americorp; ROTC/LGBT rights; elections.</unittitle><unitdate datechar="creation">1994.</unitdate><container id="aspace_a26dd65f46984bef60e86026a494276a" label="Mixed Materials" type="box">7</container><container id="aspace_7923bdf84169458275952bac71966cdb" parent="aspace_a26dd65f46984bef60e86026a494276a" type="folder">12</container></did></c01><c01 id="aspace_ref81_eyw" level="file"><did><unittitle>Affirmative action.</unittitle><unitdate datechar="creation">1995.</unitdate><container id="aspace_a032ba95da9b285a4d418e42664f68b2" label="Mixed Materials" type="box">7</container><container id="aspace_f217e7cdbf5550c3577d67162b9c8403" parent="aspace_a032ba95da9b285a4d418e42664f68b2" type="folder">13</container></did></c01><c01 id="aspace_ref82_8yy" level="file"><did><unittitle>Affirmative action/Proposition 209; student fees; elections; gender issues; police brutality.</unittitle><unitdate datechar="creation">1996.</unitdate><container id="aspace_78b759e3c416ec8d89cfcbb5ed6eaec3" label="Mixed Materials" type="box">7</container><container id="aspace_f2bf2ac44dc49e35bb342a373c26e15a" parent="aspace_78b759e3c416ec8d89cfcbb5ed6eaec3" type="folder">14</container></did></c01><c01 id="aspace_ref83_sim" level="file"><did><unittitle>Graduate student strike/labor rights; Propositions 226/227; animal research.</unittitle><unitdate datechar="creation">1998.</unitdate><container id="aspace_f910f6ab4f7e3553353f0989384bc077" label="Mixed Materials" type="box">7</container><container id="aspace_690445c2f5367b1ff9e285f8f4bf919c" parent="aspace_f910f6ab4f7e3553353f0989384bc077" type="folder">15</container></did></c01><c01 id="aspace_ref84_c8l" level="file"><did><unittitle>Anti-impeachment; animal liberation.</unittitle><unitdate datechar="creation">1999.</unitdate><container id="aspace_45458fcce8fad6852bdb61884b197819" label="Mixed Materials" type="box">7</container><container id="aspace_cc8b8e8d0be14d67ec320699f1305b3a" parent="aspace_45458fcce8fad6852bdb61884b197819" type="folder">16</container></did></c01><c01 id="aspace_ref85_yxv" level="file"><did><unittitle>Affirmative action; dissolution/restructuring of departments.</unittitle><unitdate datechar="creation">1990's.</unitdate><container id="aspace_589bc890d23ad4b84d5f8a54c05f5e01" label="Mixed Materials" type="box">7</container><container id="aspace_c431693eecd3b4f1d3e10adec367fad5" parent="aspace_589bc890d23ad4b84d5f8a54c05f5e01" type="folder">17</container></did></c01><c01 id="aspace_ref86_4z0" level="file"><did><unittitle>Elections.</unittitle><unitdate datechar="creation">2000.</unitdate><container id="aspace_37b88a28fbcf10da5bf378b80adb4cad" label="Mixed Materials" type="box">7</container><container id="aspace_40b1ae5dd0575f8eadf021888be439b1" parent="aspace_37b88a28fbcf10da5bf378b80adb4cad" type="folder">18</container></did></c01><c01 id="aspace_ref87_8ip" level="file"><did><unittitle>Elections; anti-war.</unittitle><unitdate datechar="creation">2001.</unitdate><container id="aspace_b9e49f5cc82aa5af4a501f41abc1e8ee" label="Mixed Materials" type="box">7</container><container id="aspace_6c2dacbc4ba836c0d95ef75260762001" parent="aspace_b9e49f5cc82aa5af4a501f41abc1e8ee" type="folder">19</container></did></c01><c01 id="aspace_ref88_irw" level="file"><did><unittitle>Anti-war.</unittitle><unitdate datechar="creation">2003.</unitdate><container id="aspace_09421967e98d7b562df54f37057ecc4d" label="Mixed Materials" type="box">7</container><container id="aspace_668e9f63b40aa9a1298e12e32062530f" parent="aspace_09421967e98d7b562df54f37057ecc4d" type="folder">20</container></did></c01><c01 id="aspace_ref89_bbc" level="file"><did><unittitle>Elections.</unittitle><unitdate datechar="creation">2004.</unitdate><container id="aspace_a78bca2f6ebfd229624db880faa22e62" label="Mixed Materials" type="box">7</container><container id="aspace_76144c64e6dfae580958e34f62700315" parent="aspace_a78bca2f6ebfd229624db880faa22e62" type="folder">21</container></did></c01><c01 id="aspace_ref90_xjq" level="file"><did><unittitle>Student fees; labor rights; Minutemen.</unittitle><unitdate datechar="creation">2007-2009.</unitdate><container id="aspace_aa9a24841429e994b02c7041f2e5e504" label="Mixed Materials" type="box">7</container><container id="aspace_bcb975377fb9c63ef0f6319878718285" parent="aspace_aa9a24841429e994b02c7041f2e5e504" type="folder">22</container></did></c01><c01 id="aspace_ref91_p5i" level="file"><did><unittitle>Student fees; use of police force.</unittitle><unitdate datechar="creation">2010.</unitdate><container id="aspace_5023a18ae7a7fa0a9d6344ac7de40388" label="Mixed Materials" type="box">7</container><container id="aspace_9c818c3e55d04058bafb437930c20b28" parent="aspace_5023a18ae7a7fa0a9d6344ac7de40388" type="folder">23</container></did></c01><c01 id="aspace_ref92_1np" level="file"><did><unittitle>Graduate student labor.</unittitle><unitdate datechar="creation">2014.</unitdate><container id="aspace_ec88c76ca31be9d3380562e0a4880676" label="Mixed Materials" type="box">7</container><container id="aspace_7a53ce25b854c9e8db6bb85ffc36b751" parent="aspace_ec88c76ca31be9d3380562e0a4880676" type="folder">24</container></did></c01><c01 id="aspace_ref93_4j4" level="file"><did><unittitle>Socialism; Vietnam/draft; student strikes; academic freedom; freedom of speech; police use of force; ROTC; Jim Crow/segregation; labor rights; religion; elections; LGBT rights; tuition.</unittitle><unitdate datechar="creation">Undated.</unitdate><container id="aspace_33e7bf1bd71742920b900aefe96e1bed" label="Mixed Materials" type="box">7</container><container id="aspace_4dbca6e8075b7d843efb635863edb4d5" parent="aspace_33e7bf1bd71742920b900aefe96e1bed" type="folder">25</container></did></c01></dsc>
 </archdesc>
 </ead>
