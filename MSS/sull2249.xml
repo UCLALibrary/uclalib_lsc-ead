@@ -1,307 +1,50 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-<eadid countrycode="US" mainagencycode="US-CLU-SC">sull2249.xml</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Frank Sully papers</titleproper>
-<titleproper type="filing">Sully (Frank) papers</titleproper>
-<author>Finding aid prepared by Jenifer Becker with assistance from Julie Graham, August 2015; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA, 90095-1575</addressline>
-<addressline>(310) 825-4988</addressline>
-<addressline>spec-coll@library.ucla.edu</addressline>
-</address>
-<date>Finding aid last modified on 18 March 2016.</date>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>This finding aid was produced using the Archivists' Toolkit
-<date>2016-03-18T13:50-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
-</creation>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<unittitle>Frank Sully papers</unittitle>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2249</unitid>
-<repository>
-<corpname>UCLA Library Special Collections</corpname>
-</repository>
-<langmaterial>
-<language langcode="eng"/>
-</langmaterial>
-<physdesc>
-<extent>1.0 linear ft.</extent>
-<extent>(1 box and 1 flat box)</extent>
-</physdesc>
-<unitdate>circa 1920s – circa 1970s</unitdate>
-<abstract id="ref31" label="Abstract">Frank Sully started his acting career in 1929 and appeared on stage, film and television. The collection consists of a small amount of scripts, photographs, biographical information, clippings, and contracts related to Sully’s career.</abstract>
-<langmaterial id="ref65" label="Language of Materials">English</langmaterial>
-<physloc id="ref35" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-<origination label="Creator">
-<persname rules="aacr" source="naf" role="Actor (act)">Sully, Frank, 1908-1975</persname>
-</origination>
-</did>
-<accessrestrict id="ref66">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict id="ref67">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<prefercite id="ref36">
-<head>Preferred Citation</head>
-<p>[Identification of item], Frank Sully Papers (Collection 2249). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
-</prefercite>
-<acqinfo id="ref38">
-<head>Provenance/Source of Acquisition</head>
-<p>Gift of Mikell Ann Kemper, 2014.</p>
-</acqinfo>
-<odd id="ref64">
-<head>UCLA Catalog Record ID</head>
-<p>UCLA Catalog Record ID: 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7797453">7797453</extref></p>
-</odd>
-<bioghist id="ref33">
-<head>Biography/History</head>
-<p>Frank Sullivan, professionally known as Frank Sully and as Sully, was born in 1908 in St. Louis, Missouri. He began his career in Vaudeville in 1929. His stage work included Whoopee (1933), Midsummer Night’s Dream (1934) and Kiss Me, Kate (1955). During World War II, Sully performed in U.S.O. Camp Shows. Much of his professional work was concentrated in film and television where he was frequently cast as folksy or villainous characters. In 1940, Frank Sully starred in the film adaption of Grapes of Wrath. Other film appearances include Let’s Go Collegiate (1941), Bye Bye Birdie (1963), and Funny Girl (1968), among others. His many television credits include The Beverly Hillbillies, Colt .45, and The Virginian. He died December 17, 1975 in Woodland Hills, California.</p>
-</bioghist>
-<scopecontent id="ref32">
-<head>Scope and Content</head>
-<p>The collection consists of materials related to the career of actor Frank Sully. Included are a small amount of scripts, photographs, clippings, residual payment stubs, contracts, and biographical information. The two scripts represent the motion pictures The Grapes of Wrath and Funny Girl. The photographs represent motion picture and television projects, many of which are not identified, and headshots of Sully. Additionally, there are a small number of professional photographs of his first wife and performer Gladys Edris Slycott (also known as Edris Purcell) and autographed photographs of performers. Residual stubs document his work at Columbia Pictures, Universal, and Warner Bros.</p>
-</scopecontent>
-<arrangement id="ref37">
-<head>Organization and Arrangement</head>
-<p>The collection is organized in loose alphabetical order by file title.</p>
-</arrangement>
-<dsc type="in-depth">
-<head>Container List</head>
-<c01 id="ref1" level="file">
-<did>
-<unittitle>Biographical Information.</unittitle>
-<container id="cid9535001" type="Box">1</container>
-<container parent="cid9535001" type="Folder">1</container>
-<unitdate>undated.</unitdate>
-</did>
-</c01>
-<c01 id="ref2" level="file">
-<did>
-<unittitle>Residuals.</unittitle>
-<container id="cid9535002" type="Box">1</container>
-<container parent="cid9535002" type="Folder">2</container>
-<unitdate>1966-1976.</unitdate>
-</did>
-</c01>
-<c01 id="ref39" level="file">
-<did>
-<unittitle>Clippings.</unittitle>
-<container id="cid9677001" type="Box">1</container>
-<container parent="cid9677001" type="Folder">3</container>
-<unitdate>circa 1940s and 1972.</unitdate>
-</did>
-</c01>
-<c01 id="ref40" level="file">
-<did>
-<unittitle>Contracts.</unittitle>
-<container id="cid9677002" type="Box">1</container>
-<container parent="cid9677002" type="Folder">4</container>
-<unitdate>1952 and 1967.</unitdate>
-</did>
-</c01>
-<c01 id="ref41" level="file">
-<did>
-<unittitle>Funny Girl - script, production, information, still and lobby card.</unittitle>
-<container id="cid9677003" type="Box">1</container>
-<container parent="cid9677003" type="Folder">5</container>
-<unitdate>circa 1967.</unitdate>
-</did>
-</c01>
-<c01 id="ref42" level="file">
-<did>
-<unittitle>Grapes of Wrath (The) - script.</unittitle>
-<container id="cid9677004" type="Box">1</container>
-<container parent="cid9677004" type="Folder">6</container>
-<unitdate>5 Aug 1939.</unitdate>
-</did>
-</c01>
-<c01 id="ref43" level="file">
-<did>
-<unittitle>Kiss Me, Kate - rehearsal schedule and clipping.</unittitle>
-<container id="cid9677005" type="Box">1</container>
-<container parent="cid9677005" type="Folder">7</container>
-<unitdate>1955.</unitdate>
-</did>
-</c01>
-<c01 id="ref44" level="file">
-<did>
-<unittitle>Midsummer Night's Dream (A) - program and published playscript.</unittitle>
-<unitdate>circa 1934.</unitdate>
-</did>
-</c01>
-<c01 id="ref45" level="file">
-<did>
-<unittitle>U.S.O Appearance - schedule.</unittitle>
-<container id="cid9677006" type="Box">1</container>
-<container parent="cid9677006" type="Folder">9</container>
-<unitdate>29 Mar 1944.</unitdate>
-</did>
-</c01>
-<c01 id="ref5" level="file">
-<did>
-<unittitle>photographs of Gladys Edris Sylcott (AKA Edris Purcell) - (33 items).</unittitle>
-<container id="cid9529005" type="Box">2</container>
-<container parent="cid9529005" type="Folder">1</container>
-<unitdate>undated.</unitdate>
-</did>
-</c01>
-<c01 id="ref6" level="file">
-<did>
-<unittitle>photographs of performers signed (mostly to Sully) (10 items).</unittitle>
-<container id="cid9529006" type="Box">2</container>
-<container parent="cid9529006" type="Folder">2</container>
-<unitdate>undated.</unitdate>
-</did>
-<scopecontent id="ref7">
-<head>Scope and Content</head>
-<p>James Cagney, Ken Curtis, Jimmy Durante, Bob Hope, Gene Kelly, Arthur Lake, Jack Oakie, and Roy Rogers with others.</p>
-</scopecontent>
-</c01>
-<c01 id="ref8" level="file">
-<did>
-<unittitle>Photographs of Sully (headshots) (40 items).</unittitle>
-<container id="cid9529007" type="Box">2</container>
-<container parent="cid9529007" type="Folder">3</container>
-<unitdate>undated.</unitdate>
-</did>
-</c01>
-<c01 id="ref62" level="file">
-<did>
-<unittitle>Photographs of Sully with Others Undentified Appearances (19 items).</unittitle>
-<container id="cid9677010" type="Box">2</container>
-<container parent="cid9677010" type="Folder">18</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref49" level="file">
-<did>
-<unittitle>Unidentified motion picture - stills (9 items).</unittitle>
-<container id="cid9677008" type="Box">2</container>
-<container parent="cid9677008" type="Folder">5</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref50" level="file">
-<did>
-<unittitle>Unidentified title - stills (15 originals and 1 facsimile).</unittitle>
-<container id="cid9677009" type="Box">2</container>
-<container parent="cid9677009" type="Folder">6</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref48" level="file">
-<did>
-<unittitle>Unidentified motion picture - stills (4 items).</unittitle>
-<container id="cid9677007" type="Box">2</container>
-<container parent="cid9677007" type="Folder">4</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref51" level="file">
-<did>
-<unittitle>Boogie Man Will Get You - stills (2 items).</unittitle>
-<container id="cid9677011" type="Box">2</container>
-<container parent="cid9677011" type="Folder">7</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref52" level="file">
-<did>
-<unittitle>Bye Bye Birdie - stills (2 originals and 1 facsimile).</unittitle>
-<container id="cid9677012" type="Box">2</container>
-<container parent="cid9677012" type="Folder">8</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref53" level="file">
-<did>
-<unittitle>Down Among The Sheltering Palms (AKA Friendly Island) - stills (2 items).</unittitle>
-<container id="cid9677013" type="Box">2</container>
-<container parent="cid9677013" type="Folder">9</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref54" level="file">
-<did>
-<unittitle>Honeymoon Pilot - stills (2 items).</unittitle>
-<container id="cid9677014" type="Box">2</container>
-<container parent="cid9677014" type="Folder">10</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref55" level="file">
-<did>
-<unittitle>Laugh Your Blues Away - stills (2 items).</unittitle>
-<container id="cid9677015" type="Box">2</container>
-<container parent="cid9677015" type="Folder">11</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref56" level="file">
-<did>
-<unittitle>Let's Go Collegiate - stills (11 originals and 2 facsimiles).</unittitle>
-<container id="cid9677016" type="Box">2</container>
-<container parent="cid9677016" type="Folder">12</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref57" level="file">
-<did>
-<unittitle>Man in the Saddle - still.</unittitle>
-<container id="cid9677017" type="Box">2</container>
-<container parent="cid9677017" type="Folder">13</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref58" level="file">
-<did>
-<unittitle>Man's World (A) - stills (13 items).</unittitle>
-<container id="cid9677018" type="Box">2</container>
-<container parent="cid9677018" type="Folder">14</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref59" level="file">
-<did>
-<unittitle>More The Merrier (The) - still.</unittitle>
-<container id="cid9677019" type="Box">2</container>
-<container parent="cid9677019" type="Folder">15</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref60" level="file">
-<did>
-<unittitle>There's Something About A Soldier - stills (3 items).</unittitle>
-<container id="cid9677020" type="Box">2</container>
-<container parent="cid9677020" type="Folder">16</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-<c01 id="ref61" level="file">
-<did>
-<unittitle>Whoopee - still and credits.</unittitle>
-<container id="cid9677021" type="Box">2</container>
-<container parent="cid9677021" type="Folder">17</container>
-<unitdate>no date.</unitdate>
-</did>
-</c01>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c8rn3dcx/">sull2249.xml</eadid><filedesc><titlestmt><titleproper type="filing">Sully (Frank) papers</titleproper><titleproper>Finding aid for the Frank Sully papers <num>LSC.2249</num></titleproper><author>Finding aid prepared by Jenifer Becker with assistance from Julie Graham, August 2015; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Finding aid last modified on 18 March 2016.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information. </p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-10-31 14:12:52 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Frank Sully papers</unittitle>
+    <origination label="Creator">
+      <persname role="act" rules="aacr" source="naf">Sully, Frank</persname>
+    </origination>
+    <unitid>LSC.2249</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 linear feet</extent>
+      <extent altrender="carrier">(1 box and 1 flat box)</extent>
+    </physdesc>
+    <unitdate certainty="approximate" datechar="creation" normal="1920/1979" type="inclusive">circa 1920s – circa 1970s</unitdate>
+    <abstract id="aspace_e80dc65ca2da71e3a22e90cb71b09d5d" label="Abstract">Frank Sully started his acting career in 1929 and appeared on stage, film and television. The collection consists of a small amount of scripts, photographs, biographical information, clippings, and contracts related to Sully's career.</abstract>
+    <physloc id="aspace_54ad6b3629ab1c9022e419c6e8f5c0fa" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_b4bf97242319639a253a3ba458988ee8">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_9b6e05d0bdb411628feede5b07cb4998">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_f1659f426893c2d2caa3718660b3fd25">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_d3e9f58fa999c85f117d9cd200aeed7d">
+    <head>Provenance/Source of Acquisition</head>
+<p>Gift of Mikell Ann Kemper, 2014.</p>  </acqinfo>
+  <odd id="aspace_54b98324beaa43d80accee4b6e37c4f3">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9977974533606533">9977974533606533</extref></p>  </odd>
+  <prefercite id="aspace_e1e14fc1fd6b33f0945ab37611210a95">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Frank Sully Papers (Collection 2249). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_67c50e1377748d8e496cdfb7db385c62">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_2a073e27cb8c1aaa13114149dfd7e750">
+    <head>Biography/History</head>
+<p>Frank Sullivan, professionally known as Frank Sully and as Sully, was born in 1908 in St. Louis, Missouri. He began his career in Vaudeville in 1929. His stage work included <title>Whoopee</title> (1933), <title>Midsummer Night's Dream</title> (1934) and <title>Kiss Me, Kate</title> (1955). During World War II, Sully performed in U.S.O. Camp Shows.  Much of his professional work was concentrated in film and television where he was frequently cast as folksy or villainous characters. In 1940, Frank Sully starred in the film adaption of <title>Grapes of Wrath</title>. Other film appearances include <title>Let's Go Collegiate</title> (1941), <title>Bye Bye Birdie</title> (1963), and <title>Funny Girl</title> (1968), among others. His many television credits include <title>The Beverly Hillbillies</title>, <title>Colt .45</title>, and <title>The Virginian</title>. He died December 17, 1975 in Woodland Hills, California.</p>  </bioghist>
+  <scopecontent id="aspace_b1a263005103c802d61daa22baa9bffa">
+    <head>Scope and Content</head>
+<p>The collection consists of materials related to the career of actor Frank Sully. Included are a small amount of scripts, photographs, clippings, residual payment stubs, contracts, and biographical information.  The two scripts represent the motion pictures <title>The Grapes of Wrath</title> and <title>Funny Girl</title>. The photographs represent motion picture and television projects, many of which are not identified, and headshots of Sully.  Additionally, there are a small number of professional photographs of his first wife and performer Gladys Edris Slycott (also known as Edris Purcell) and autographed photographs of performers.  Residual stubs document his work at Columbia Pictures, Universal, and Warner Bros.</p>  </scopecontent>
+  <arrangement id="aspace_b23d6b1c18ce2b0e038549afff3e5528">
+    <head>Organization and Arrangement</head>
+<p>The collection is organized in loose alphabetical order by file title.</p>  </arrangement>
+  <dsc><c01 id="aspace_ref1_387" level="file"><did><unittitle>Biographical Information </unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_4c73797326bcfa69ad22d405610334ac" label="Mixed Materials" type="box">1</container><container id="aspace_e355bb70c1549af463cbe3658c4d02b7" parent="aspace_4c73797326bcfa69ad22d405610334ac" type="folder">1</container></did></c01><c01 id="aspace_ref39_t5c" level="file"><did><unittitle>Clippings </unittitle><unitdate datechar="creation">circa 1940s and 1972</unitdate><container id="aspace_bce7d99813ddc51195d2e412485ce177" label="Mixed Materials" type="box">1</container><container id="aspace_c94050675f6bd805a3fc3019106ea68a" parent="aspace_bce7d99813ddc51195d2e412485ce177" type="folder">3</container></did></c01><c01 id="aspace_ref40_p9o" level="file"><did><unittitle>Contracts </unittitle><unitdate datechar="creation">1952 and 1967 </unitdate><container id="aspace_7956f7be84d836626bdf6879b6180f80" label="Mixed Materials" type="box">1</container><container id="aspace_f911a851bc0f977634fcb9ff07fbfc17" parent="aspace_7956f7be84d836626bdf6879b6180f80" type="folder">4</container></did></c01><c01 id="aspace_ref2_086" level="file"><did><unittitle>Residuals </unittitle><unitdate datechar="creation">1966-1976</unitdate><container id="aspace_5f3bd6449a835f685a223388888d446a" label="Mixed Materials" type="box">1</container><container id="aspace_e031c863ff7b647d4d89d9eacded8fa4" parent="aspace_5f3bd6449a835f685a223388888d446a" type="folder">2</container></did></c01><c01 id="aspace_ref8_uqy" level="file"><did><unittitle>Frank Sully - photographs (headshots) (40 items)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_2503d0d8a9f80314607c92517318e095" label="Mixed Materials" type="box">2</container><container id="aspace_5a08d64e74334e6f053639dbcf5aab68" parent="aspace_2503d0d8a9f80314607c92517318e095" type="folder">3</container></did></c01><c01 id="aspace_ref62_o7t" level="file"><did><unittitle>Frank Sully with others - photographs (unidentified appearances) (19 items)</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_d09f15209dd8018062d7a07e5e7e9aa0" label="Mixed Materials" type="box">2</container><container id="aspace_a94bfc93d5c849f46b01009604a0d591" parent="aspace_d09f15209dd8018062d7a07e5e7e9aa0" type="folder">18</container></did></c01><c01 id="aspace_ref6_hw5" level="file"><did><unittitle>Photographs of Performers (signed mostly to Sully) (10 items)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_dd5560bbe2250ce10bcac925561fffde" label="Mixed Materials" type="box">2</container><container id="aspace_3ef3b22835e75d9aa6ab9ababb64a852" parent="aspace_dd5560bbe2250ce10bcac925561fffde" type="folder">2</container></did><scopecontent id="aspace_03dd01732177247b288d7d2cc868e2c8"><head>Scope and Content</head><p>James Cagney, Ken Curtis, Jimmy Durante, Bob Hope, Gene Kelly, Arthur Lake, Jack Oakie, and Roy Rogers with others.</p></scopecontent></c01><c01 id="aspace_ref5_823" level="file"><did><unittitle>Gladys Edris Sylcott (AKA Edris Purcell) - photographs (33 items)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_313a40bf03f00393529cb329fa9ad169" label="Mixed Materials" type="box">2</container><container id="aspace_196ba426e0286c10679986515215a058" parent="aspace_313a40bf03f00393529cb329fa9ad169" type="folder">1</container></did></c01><c01 id="aspace_ref51_48y" level="file"><did><unittitle>Boogie Man Will Get You - stills (2 items)</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_12cd99a05cb2d314c09a6aba2f728e45" label="Mixed Materials" type="box">2</container><container id="aspace_2ef5cec6b95ecf704dad5cafb1339dee" parent="aspace_12cd99a05cb2d314c09a6aba2f728e45" type="folder">7</container></did></c01><c01 id="aspace_ref52_wxo" level="file"><did><unittitle>Bye Bye Birdie - stills (2 originals and 1 facsimile) </unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_cf4723dbc65a44ee39a416b1cab15822" label="Mixed Materials" type="box">2</container><container id="aspace_b1dbbe44f3af20762bae36360d958c61" parent="aspace_cf4723dbc65a44ee39a416b1cab15822" type="folder">8</container></did></c01><c01 id="aspace_ref53_z9l" level="file"><did><unittitle>Down Among The Sheltering Palms (AKA Friendly Island) - stills (2 items) </unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_018843189578bb14429de6334d02fa91" label="Mixed Materials" type="box">2</container><container id="aspace_953721b95b2df5802d80b6d4cf15589b" parent="aspace_018843189578bb14429de6334d02fa91" type="folder">9</container></did></c01><c01 id="aspace_ref41_41y" level="file"><did><unittitle>Funny Girl - script, production, information, still and lobby card</unittitle><unitdate datechar="creation">circa 1967 </unitdate><container id="aspace_e46a4bda3b08233734e35351c232a401" label="Mixed Materials" type="box">1</container><container id="aspace_9304b28e2e8f950b98e1a2ac8f5f4547" parent="aspace_e46a4bda3b08233734e35351c232a401" type="folder">5</container></did></c01><c01 id="aspace_ref42_7is" level="file"><did><unittitle>Grapes of Wrath (The) - script</unittitle><unitdate datechar="creation">5 Aug 1939</unitdate><container id="aspace_a59904496e805588cbadd0e48d4a0c49" label="Mixed Materials" type="box">1</container><container id="aspace_08d93563fdb425f5a52f8132d099559e" parent="aspace_a59904496e805588cbadd0e48d4a0c49" type="folder">6</container></did></c01><c01 id="aspace_ref43_6ie" level="file"><did><unittitle>Kiss Me, Kate - rehearsal schedule and clipping </unittitle><unitdate datechar="creation">1955</unitdate><container id="aspace_33822f04180bcfa6c100349567a50fe3" label="Mixed Materials" type="box">1</container><container id="aspace_417a6904202f0573a85423cf3826a4bc" parent="aspace_33822f04180bcfa6c100349567a50fe3" type="folder">7</container></did></c01><c01 id="aspace_ref44_fu6" level="file"><did><unittitle>Midsummer Night's Dream (A) - program and published playscript </unittitle><unitdate datechar="creation">circa 1934</unitdate></did></c01><c01 id="aspace_ref54_7fc" level="file"><did><unittitle>Honeymoon Pilot - stills (2 items)</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_bcea3f3f4fec2b3275390ed17971325d" label="Mixed Materials" type="box">2</container><container id="aspace_89b4f15b47ba5c19f02a7a5d988d831f" parent="aspace_bcea3f3f4fec2b3275390ed17971325d" type="folder">10</container></did></c01><c01 id="aspace_ref55_y32" level="file"><did><unittitle>Laugh Your Blues Away - stills (2 items)</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_41094495f0b38d61248235f69ca2b42a" label="Mixed Materials" type="box">2</container><container id="aspace_138f3e454552a570a5e19b27c1c19dfb" parent="aspace_41094495f0b38d61248235f69ca2b42a" type="folder">11</container></did></c01><c01 id="aspace_ref56_9zd" level="file"><did><unittitle>Let's Go Collegiate - stills (11 originals and 2 facsimiles) </unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_8d6bfbf9653315960dc6dcb8c1a0d48a" label="Mixed Materials" type="box">2</container><container id="aspace_dcbaf9f925ef0b4b6a30d4f5164e296c" parent="aspace_8d6bfbf9653315960dc6dcb8c1a0d48a" type="folder">12</container></did></c01><c01 id="aspace_ref57_0rz" level="file"><did><unittitle>Man in the Saddle - still </unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_c728e00300ea26edd2c44c3f65bf0753" label="Mixed Materials" type="box">2</container><container id="aspace_538c0c81270c4e2798eb4f98ba4d99bb" parent="aspace_c728e00300ea26edd2c44c3f65bf0753" type="folder">13</container></did></c01><c01 id="aspace_ref58_qo7" level="file"><did><unittitle>Man's World (A) - stills (13 items)</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_9c06ecfca60446bd044a36a8137955fb" label="Mixed Materials" type="box">2</container><container id="aspace_a3e9ea7048da58916101f932574f7aca" parent="aspace_9c06ecfca60446bd044a36a8137955fb" type="folder">14</container></did></c01><c01 id="aspace_ref59_0n8" level="file"><did><unittitle>More The Merrier (The) - still </unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_efd0722c57581cb8faf4b8efb6ba42c2" label="Mixed Materials" type="box">2</container><container id="aspace_a825714ea260bfd0e6d807c95f90e023" parent="aspace_efd0722c57581cb8faf4b8efb6ba42c2" type="folder">15</container></did></c01><c01 id="aspace_ref60_rep" level="file"><did><unittitle>There's Something About A Soldier - stills (3 items)</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_e6c3d86bead7add87405f352becf93e9" label="Mixed Materials" type="box">2</container><container id="aspace_283450b6fcfcbc29f501d1d3b5b1adb9" parent="aspace_e6c3d86bead7add87405f352becf93e9" type="folder">16</container></did></c01><c01 id="aspace_ref61_qgo" level="file"><did><unittitle>Whoopee - still and credits</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_4b98fc603b2c47738a1b9d8a30df108f" label="Mixed Materials" type="box">2</container><container id="aspace_ad9ede4afe480b33ccb543baca24bbba" parent="aspace_4b98fc603b2c47738a1b9d8a30df108f" type="folder">17</container></did></c01><c01 id="aspace_ref45_bbm" level="file"><did><unittitle>U.S.O Appearance - schedule</unittitle><unitdate datechar="creation">29 Mar 1944</unitdate><container id="aspace_c581dba4fedfab93ec6c4886f4777662" label="Mixed Materials" type="box">1</container><container id="aspace_d272c8941bc481534528dc63e4bc3e9f" parent="aspace_c581dba4fedfab93ec6c4886f4777662" type="folder">9</container></did></c01><c01 id="aspace_ref49_c95" level="file"><did><unittitle>Unidentified motion picture - stills (9 items)</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_c4f7e1254a09d933ca1e1a15ea51f3d8" label="Mixed Materials" type="box">2</container><container id="aspace_c2e56a1d6b57aa710456429445611f02" parent="aspace_c4f7e1254a09d933ca1e1a15ea51f3d8" type="folder">5</container></did></c01><c01 id="aspace_ref50_l1d" level="file"><did><unittitle>Unidentified motion picture title - stills (15 originals and 1 facsimile)</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_74821e0c1dd22d83c6cca3247d2bb553" label="Mixed Materials" type="box">2</container><container id="aspace_eef745048bb002f8077ff5719ea7c212" parent="aspace_74821e0c1dd22d83c6cca3247d2bb553" type="folder">6</container></did></c01><c01 id="aspace_ref48_aw9" level="file"><did><unittitle>Unidentified motion picture - stills (4 items)</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_d44f769c70d578b701e10152f25d4c5a" label="Mixed Materials" type="box">2</container><container id="aspace_41141317762c9049864fe0e88898c85d" parent="aspace_d44f769c70d578b701e10152f25d4c5a" type="folder">4</container></did></c01></dsc>
 </archdesc>
 </ead>
