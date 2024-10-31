@@ -1,0 +1,2525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8jd52c8/">west2253.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Westwood-Holmby Historical Society records, 1907-2014
+</titleproper>
+<titleproper type="filing">Westwood-Holmby Historical Society records</titleproper>
+<author>Finding aid prepared by Caitlin Denny, April 2016; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>Online finding aid last updated 10 March 2017.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2017-03-10T12:06-0800</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<langusage>English.</langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Westwood-Holmby Historical Society records</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2253</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>25.2 linear ft.</extent>
+<extent>(15 boxes, 12 oversized flat boxes, 5 flat boxes, 1 shoe box, 1 poster tube, 1 oversize panorama enclosure)</extent>
+</physdesc>
+<unitdate normal="1989/2003" type="bulk">Bulk, 1989-2003</unitdate>
+<unitdate normal="1907/2014" type="inclusive">1907-2014</unitdate>
+<abstract id="ref292" label="Abstract">The collection is comprised of administrative, organizational and membership files of the Westwood-Holmby Historical Society as well as materials about Los Angeles gathered between 1989 and 2014 through the Research Committee of the WHHS. Historical research and community support were the main objectives of WHHS.</abstract>
+<langmaterial id="ref293" label="Language of Materials">Materials are in English.</langmaterial>
+<physloc id="ref372" label="Physical Location">Portions of the collection stored off-site at SRLF. All requests to access special collections materials must be made in advance through out electronic paging system using the "Request items" button. Oversize panoramic photographs (box 35) held on B-level, range 24.</physloc>
+</did>
+<accessrestrict id="ref373">
+<head>Conditions Governing Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections materials must be made in advance through out electronic paging system using the "Request items" button.</p>
+</accessrestrict>
+<userestrict id="ref374">
+<head>Conditions Governing Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<phystech id="ref303">
+<head>Physical Characteristics and Technical Requirements</head>
+<p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
+</phystech>
+<prefercite id="ref297">
+<head>Preferred Citation</head>
+<p>[Identification of item], Westwood-Holmby Historical Society Records (Collection 2253). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+</prefercite>
+<odd id="ref343">
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7834512">7834512</extref></p>
+</odd>
+<acqinfo id="ref298">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of the Westwood-Holmby Historical Society, 2014.</p>
+</acqinfo>
+<processinfo id="ref299">
+<head>Processing Information</head>
+<p>Processed by Caitlin Denny in 2016 under the supervision of Courtney Dean in the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/special-collections/at-this-location/center-primary-research-training-cfprt">Center for Primary Research and Training (CFPRT).</extref></p>
+</processinfo>
+<bioghist id="ref300">
+<head>Biography/History</head>
+<p>The Westwood-Holmby Historical Society (1989 – 2014) was a non-profit public benefit organization founded as an outgrowth of Westwood’s 60th Anniversary celebration. WHHS was a volunteer led and run organization dedicated to the research and documentation of people, places and events of historical significance in Westwood-Holmby, a neighborhood in west Los Angeles, California. They were active in building their own archives of photographs, newspaper clippings and oral histories among other records that were both collected and created by the WHHS. Lectures, exhibitions and tours were often curated by WHHS for the community as well as for local schools. Organizational priorities included petitioning for cultural heritage sites and being vocal in the bureaucratic measures that determine historical status in Los Angeles.</p>
+</bioghist>
+<scopecontent id="ref301">
+<head>Scope and Content</head>
+<p>In this collection are the administrative and research materials pertaining to the Westwood-Holmby Historical Society. Administrative files include bylaws, meeting minutes and various correspondence records. Files relating to specific events that WHHS programmed are also included in this collection and contain flyers, posters and photographs about and documenting their events and lectures. Membership files like member lists and guestbooks can also be found in this collection. WHHS’s most active unit was their research committee, who gathered the bulk of the content of this collection between 1989 and 2014. Their research materials include subseries collections that were donated to WHHS: the Rowe Radar Baldwin papers, the Robert and Blanche Campbell papers, and the George Gregson papers. These donated collections revolve around the lives of their donors and their relationship to the Westwood neighborhood. Research committee materials include a large amount of photographs, ephemera, publications and information about the family who developed the neighborhood of Westwood, the Janss family.</p>
+</scopecontent>
+<arrangement id="ref302">
+<head>Organization and Arrangement</head>
+<p>This collection has been arranged in the following series: 
+<list type="simple">
+<item>Series 1: Administrative, 1989 - 2014</item>
+<item>Series 2: Events, 1989 - 2003</item>
+<item>Series 3: Membership, 1989 - 2003</item>
+<item>Series 4: Historical Research, 1907 - 2014</item>
+<item>Subseries 4.1: Rowe Radar Baldwin papers, 1929-1992</item>
+<item>Subseries 4.2: Robert and Blanche Campbell papers, 1930-1990</item>
+<item>Subseries 4.3: George Gregson Westwood Real Estate papers, 1929-2014</item>
+<item>Subseries 4.4: Research Committee, 1907-2010</item>
+<item>Subseries 4.5: Oral Histories, 1989-2000</item>
+</list></p>
+</arrangement>
+<controlaccess>
+<corpname source="lcnaf" role="subject" encodinganalog="610">Westwood-Holmby Historical Society--Archives.</corpname>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref1" level="series">
+<did>
+<unittitle>Administrative.</unittitle>
+<unitdate normal="1989/2014" type="inclusive">1989 - 2014.</unitdate>
+</did>
+<scopecontent id="ref306">
+<head>Scope and Content</head>
+<p>This first series in the collection focuses on the administrative and legal files of the Westwood-Holmby Historical Society. Articles of incorporation, tax status and by laws accompany organizational level materials like meeting minutes, logo designs and correspondence.</p>
+</scopecontent>
+<arrangement id="ref311">
+<head>Organization and Arrangement</head>
+<p>Files at this level are arranged alphabetically.</p>
+</arrangement>
+<c02 id="ref5" level="file">
+<did>
+<unittitle>Articles of Incorporation.</unittitle>
+<container id="cid10017001" type="Box">1</container>
+<container parent="cid10017001" type="Folder">1</container>
+<unitdate normal="1989/1991" type="inclusive">1989 - 1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref28" level="file">
+<did>
+<unittitle>Brochures, Pamphlets and Press Releases.</unittitle>
+<container id="cid10017023" type="Box">1</container>
+<container parent="cid10017023" type="Folder">2</container>
+<unitdate normal="1989/1990" type="inclusive">1989 - 1990.</unitdate>
+</did>
+</c02>
+<c02 id="ref29" level="file">
+<did>
+<unittitle>By Laws.</unittitle>
+<container id="cid10017024" type="Box">1</container>
+<container parent="cid10017024" type="Folder">3</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref30" level="file">
+<did>
+<unittitle>Correspondence: From Westwood-Holmby Historical Society.</unittitle>
+<container id="cid10017025" type="Box">1</container>
+<container parent="cid10017025" type="Folder">4</container>
+<unitdate normal="1990/2008" type="inclusive">1990 - 2008.</unitdate>
+</did>
+</c02>
+<c02 id="ref31" level="file">
+<did>
+<unittitle>Correspondence: Samples.</unittitle>
+<container id="cid10017026" type="Box">1</container>
+<container parent="cid10017026" type="Folder">5</container>
+<unitdate normal="1992/1997" type="inclusive">1992 - 1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref32" level="file">
+<did>
+<unittitle>Correspondence: To Westwood-Holmby Historical Society.</unittitle>
+<container id="cid10017027" type="Box">1</container>
+<container parent="cid10017027" type="Folder">6</container>
+<unitdate normal="1990/1992" type="inclusive">1990 - 1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref33" level="file">
+<did>
+<unittitle>Dissolution.</unittitle>
+<container id="cid10017028" type="Box">1</container>
+<container parent="cid10017028" type="Folder">7</container>
+<unitdate normal="2014/2014">2014.</unitdate>
+</did>
+</c02>
+<c02 id="ref34" level="file">
+<did>
+<unittitle>Historical Committee.</unittitle>
+<container id="cid10017029" type="Box">1</container>
+<container parent="cid10017029" type="Folder">8</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref35" level="file">
+<did>
+<unittitle>Historic Preservation Overlay Zones.</unittitle>
+<container id="cid10017030" type="Box">1</container>
+<container parent="cid10017030" type="Folder">9</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref36" level="file">
+<did>
+<unittitle>Logo Design and Information.</unittitle>
+<container id="cid10017031" type="Box">1</container>
+<container parent="cid10017031" type="Folder">10</container>
+<unitdate normal="1989/1990" type="inclusive">1989 - 1990.</unitdate>
+</did>
+</c02>
+<c02 id="ref37" level="file">
+<did>
+<unittitle>Meeting Minutes.</unittitle>
+<container id="cid10017032" type="Box">1</container>
+<container parent="cid10017032" type="Folder">11</container>
+<unitdate normal="1989/1992" type="inclusive">1989 - 1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref38" level="file">
+<did>
+<unittitle>Meeting Minutes.</unittitle>
+<container id="cid10017033" type="Box">1</container>
+<container parent="cid10017033" type="Folder">12</container>
+<unitdate normal="1993/1993">1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref39" level="file">
+<did>
+<unittitle>Operational Notes.</unittitle>
+<container id="cid10017034" type="Box">1</container>
+<container parent="cid10017034" type="Folder">13</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref40" level="file">
+<did>
+<unittitle>Tax Exemption.</unittitle>
+<container id="cid10017035" type="Box">1</container>
+<container parent="cid10017035" type="Folder">14</container>
+<unitdate normal="1989/1990" type="inclusive">1989 - 1990.</unitdate>
+</did>
+</c02>
+<c02 id="ref287" level="file">
+<did>
+<unittitle>Historical Society Posters.</unittitle>
+<container id="cid10098094" type="Box">30</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref288">
+<head>Scope and Content</head>
+<p>Contains three posters, two copies of an original design promoting Westwood, and the third a poster of the University of California.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref2" level="series">
+<did>
+<unittitle>Events.</unittitle>
+<unitdate normal="1989/2003" type="inclusive">1989 - 2003.</unitdate>
+</did>
+<scopecontent id="ref307">
+<head>Scope and Content</head>
+<p>The documents in this series represent programmed events and lectures developed by WHHS. The bulk of the series contains photographs, flyers and press releases pertaining to the Celebrate Westwood 60th Committee of which the WHHS was created out of. Other events documented in this series include historical walking tours and guest lectures on historical architectural monuments all within the neighborhood of Westwood.</p>
+</scopecontent>
+<arrangement id="ref312">
+<head>Organization and Arrangement</head>
+<p>Files at this level are arranged chronologically.</p>
+</arrangement>
+<c02 id="ref9" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Committee Transition.</unittitle>
+<container id="cid10017004" type="Box">2</container>
+<container parent="cid10017004" type="Folder">1</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref10" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Community Research.</unittitle>
+<container id="cid10017005" type="Box">2</container>
+<container parent="cid10017005" type="Folder">2</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref11" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Correspondence.</unittitle>
+<container id="cid10017006" type="Box">2</container>
+<container parent="cid10017006" type="Folder">3</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref116" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Documentation.</unittitle>
+<container id="cid10081001" type="Box">2</container>
+<container parent="cid10081001" type="Folder">4</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref12" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Event Schedules.</unittitle>
+<container id="cid10017007" type="Box">2</container>
+<container parent="cid10017007" type="Folder">5</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref13" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Event, Committee Kickoff.</unittitle>
+<container id="cid10017008" type="Box">2</container>
+<container parent="cid10017008" type="Folder">6</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref14" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Event, Janss Day.</unittitle>
+<container id="cid10017009" type="Box">2</container>
+<container parent="cid10017009" type="Folder">7</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref15" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Event, Do-It-Yourself Walking Tour.</unittitle>
+<container id="cid10017010" type="Box">2</container>
+<container parent="cid10017010" type="Folder">8</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref16" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Event, UCLA Homecoming Parade.</unittitle>
+<container id="cid10017011" type="Box">2</container>
+<container parent="cid10017011" type="Folder">9</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref17" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Meetings.</unittitle>
+<container id="cid10017012" type="Box">2</container>
+<container parent="cid10017012" type="Folder">10</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref18" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Press, magazine - LA West.</unittitle>
+<container id="cid10017013" type="Box">2</container>
+<container parent="cid10017013" type="Folder">11</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref19" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Press, magazine - LA West supplement.</unittitle>
+<container id="cid10017014" type="Box">2</container>
+<container parent="cid10017014" type="Folder">12</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref20" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Press, magazine - UCLA Magazine.</unittitle>
+<container id="cid10017015" type="Box">2</container>
+<container parent="cid10017015" type="Folder">13</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref21" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Press, newspaper - LA Business Council supplement.</unittitle>
+<container id="cid10017016" type="Box">2</container>
+<container parent="cid10017016" type="Folder">14</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref22" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Press, newspaper - clippings.</unittitle>
+<container id="cid10017017" type="Box">2</container>
+<container parent="cid10017017" type="Folder">15</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref23" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Press - other.</unittitle>
+<container id="cid10017018" type="Box">2</container>
+<container parent="cid10017018" type="Folder">16</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref24" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Press Releases.</unittitle>
+<container id="cid10017019" type="Box">2</container>
+<container parent="cid10017019" type="Folder">17</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref25" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Supplements.</unittitle>
+<container id="cid10017020" type="Box">2</container>
+<container parent="cid10017020" type="Folder">18</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref250" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary: Display images.</unittitle>
+<container id="cid10098065" type="Box">17</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref117" level="file">
+<did>
+<unittitle>Westwood Village Art Shows.</unittitle>
+<container id="cid10090001" type="Box">2</container>
+<container parent="cid10090001" type="Folder">19</container>
+<unitdate normal="1990/1990">1990.</unitdate>
+</did>
+</c02>
+<c02 id="ref26" level="file">
+<did>
+<unittitle>Open House.</unittitle>
+<container id="cid10017021" type="Box">2</container>
+<container parent="cid10017021" type="Folder">19</container>
+<unitdate normal="1991/1991">June 1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref27" level="file">
+<did>
+<unittitle>Fox Studio Walking Tour.</unittitle>
+<container id="cid10017022" type="Box">2</container>
+<container parent="cid10017022" type="Folder">20</container>
+<unitdate normal="1991/1991">October 6, 1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref41" level="file">
+<did>
+<unittitle>Red Car Days.</unittitle>
+<container id="cid10017036" type="Box">3</container>
+<container parent="cid10017036" type="Folder">1</container>
+<unitdate normal="1992/1992">March 29, 1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref42" level="file">
+<did>
+<unittitle>Bob Pierson Lecture.</unittitle>
+<container id="cid10017037" type="Box">3</container>
+<container parent="cid10017037" type="Folder">2</container>
+<unitdate normal="1992/1992">April 27, 1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref43" level="file">
+<did>
+<unittitle>Los Angeles Conservancy - Union Station Event.</unittitle>
+<container id="cid10017038" type="Box">3</container>
+<container parent="cid10017038" type="Folder">3</container>
+<unitdate normal="1993/1993">October 1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref44" level="file">
+<did>
+<unittitle>Holiday Party.</unittitle>
+<container id="cid10017039" type="Box">3</container>
+<container parent="cid10017039" type="Folder">4</container>
+<unitdate normal="1993/1993">December 14, 1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref45" level="file">
+<did>
+<unittitle>Leslie Heumann Lecture - Researching Your House.</unittitle>
+<container id="cid10017040" type="Box">3</container>
+<container parent="cid10017040" type="Folder">5</container>
+<unitdate normal="1995/1995">April 24, 1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref46" level="file">
+<did>
+<unittitle>Karen Hudson Lecture on Architecture of Paul R Williams.</unittitle>
+<container id="cid10017041" type="Box">3</container>
+<container parent="cid10017041" type="Folder">6</container>
+<unitdate normal="1996/1996">November 7, 1996.</unitdate>
+</did>
+</c02>
+<c02 id="ref47" level="file">
+<did>
+<unittitle>Rancho to Communities: 75 Years.</unittitle>
+<container id="cid10017042" type="Box">3</container>
+<container parent="cid10017042" type="Folder">7</container>
+<unitdate normal="1997/1997">November 17, 1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref48" level="file">
+<did>
+<unittitle>Autumn Reception.</unittitle>
+<container id="cid10017043" type="Box">3</container>
+<container parent="cid10017043" type="Folder">8</container>
+<unitdate normal="1998/1998">November 16, 1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref49" level="file">
+<did>
+<unittitle>Jim Heimann Lecture - Westwood Then and Now.</unittitle>
+<container id="cid10017044" type="Box">3</container>
+<container parent="cid10017044" type="Folder">9</container>
+<unitdate normal="2000/2000">May 15, 2000.</unitdate>
+</did>
+</c02>
+<c02 id="ref50" level="file">
+<did>
+<unittitle>Janice Marscher Lecture.</unittitle>
+<container id="cid10017045" type="Box">3</container>
+<container parent="cid10017045" type="Folder">10</container>
+<unitdate normal="2003/2003">April 28, 2003.</unitdate>
+</did>
+</c02>
+<c02 id="ref51" level="file">
+<did>
+<unittitle>Event Flyers Collection.</unittitle>
+<container id="cid10017046" type="Box">3</container>
+<container parent="cid10017046" type="Folder">11</container>
+<unitdate normal="1992/2003" type="inclusive">1992 - 2003.</unitdate>
+</did>
+</c02>
+<c02 id="ref52" level="file">
+<did>
+<unittitle>Trivia.</unittitle>
+<container id="cid10017047" type="Box">3</container>
+<container parent="cid10017047" type="Folder">12</container>
+<unitdate>undated.</unitdate>
+</did>
+</c02>
+<c02 id="ref118" level="file">
+<did>
+<unittitle>Slide Presentation Notes.</unittitle>
+<container id="cid10090002" type="Box">3</container>
+<container parent="cid10090002" type="Folder">13</container>
+<unitdate>undated.</unitdate>
+</did>
+</c02>
+<c02 id="ref338" level="file">
+<did>
+<unittitle>UCLA-Westwood Photography Sale.</unittitle>
+<container id="cid10116005" type="Box">29</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref339">
+<head>Scope and Content</head>
+<p>This item is mounted on foam board.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref3" level="series">
+<did>
+<unittitle>Membership.</unittitle>
+<unitdate normal="1989/2003" type="inclusive">1989 - 2003.</unitdate>
+</did>
+<scopecontent id="ref309">
+<head>Scope and Content</head>
+<p>These files document a few key members of the WHHS, Wendy Kaplan and Greg Fischer. Fischer was on the board of directors for the WHHS as well as a historical walking tour guide of Los Angeles and an advocate for the restoration of historical Los Angeles neighborhood titles. Kaplan was the Founding President of the WHHS until her retirement in 1991. Also in this collection are photographs from member only meetings and lists of members throughout the years in the form of guestbooks and lists.</p>
+</scopecontent>
+<arrangement id="ref313">
+<head>Organization and Arrangement</head>
+<p>Files at this level are arranged by subject.</p>
+</arrangement>
+<c02 id="ref53" level="file">
+<did>
+<unittitle>Guestbook.</unittitle>
+<container id="cid10017048" type="Box">3</container>
+<container parent="cid10017048" type="Folder">14</container>
+<unitdate normal="1989/1991" type="inclusive">1989 - 1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref54" level="file">
+<did>
+<unittitle>Guestbook.</unittitle>
+<container id="cid10017049" type="Box">3</container>
+<container parent="cid10017049" type="Folder">15</container>
+<unitdate normal="1997/2003" type="inclusive">1997 - 2003.</unitdate>
+</did>
+</c02>
+<c02 id="ref55" level="file">
+<did>
+<unittitle>Member: Greg Fischer.</unittitle>
+<container id="cid10017050" type="Box">3</container>
+<container parent="cid10017050" type="Folder">16</container>
+<unitdate normal="1992/1995" type="inclusive">1992 - 1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref56" level="file">
+<did>
+<unittitle>Member: Wendy Kaplan.</unittitle>
+<container id="cid10017051" type="Box">3</container>
+<container parent="cid10017051" type="Folder">17</container>
+<unitdate normal="1991/1991">December 1991.</unitdate>
+</did>
+<scopecontent id="ref326">
+<head>Scope and Content</head>
+<p>Contains 35mm negatives.</p>
+</scopecontent>
+</c02>
+<c02 id="ref57" level="file">
+<did>
+<unittitle>Member Only Meetings.</unittitle>
+<container id="cid10017052" type="Box">3</container>
+<container parent="cid10017052" type="Folder">18</container>
+<unitdate normal="1989/1992" type="inclusive">1989 - 1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref58" level="file">
+<did>
+<unittitle>Membership and Attendance.</unittitle>
+<container id="cid10017053" type="Box">3</container>
+<container parent="cid10017053" type="Folder">19</container>
+<unitdate normal="1989/2003" type="inclusive">1989 - 2003.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref4" level="series">
+<did>
+<unittitle>Historical Research.</unittitle>
+<unitdate normal="1907/2014" type="inclusive">1907 - 2014.</unitdate>
+</did>
+<scopecontent id="ref310">
+<head>Scope and Content</head>
+<p>The fourth series in this collection contains the bulk of the materials. The Research Committee within the WHHS was the most active sector of the society due to their mission to preserve and restore historically significant information and architecture relating to Westwood and surrounding neighborhoods in Los Angeles. This series is comprised of five subseries, three of which are small donated collections by people or families who had affluent and honored standing in the Westwood community. Subjects that make appearances in this series are the prominent Westwood families of Janss and Burbank and Los Angeles city planning materials. The city planning materials include tract home maps and advertisements as well as correspondence on infrastructure and architectural developments. The last subseries in this series includes oral histories recorded on cassette and mini cassette as well as transcriptions of those interviews in bound book form.</p>
+</scopecontent>
+<arrangement id="ref314">
+<head>Organization and Arrangement</head>
+<p>Files at this level are arranged chronologically unless otherwise stated.</p>
+</arrangement>
+<phystech id="ref304">
+<head>Physical Characteristics and Technical Requirements</head>
+<p>SERIES CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
+</phystech>
+<c02 id="ref59" level="subseries">
+<did>
+<unittitle>Rowe Radar Baldwin papers.</unittitle>
+<unitdate normal="1929/1992" type="inclusive">1929 - 1992.</unitdate>
+</did>
+<scopecontent id="ref322">
+<head>Scope and Content</head>
+<p>Rowe Radar Baldwin was a 1929 UCLA alum. From 1934 to 1938 she wrote a column called   for the Westwood Hills Press as part of her duties as Publicity Director of the Janss Investment Corporation, for whom she worked from 1929 to 1938. She began writing   in June 1934 and resigned in April 1938, replaced by Gertrude Harlan. Following, Baldwin worked as UCLA’s athletic ticket manager from 1943 to 1973. She was a founding member of the UCLA Gold Shield. Baldwin assisted Westwood-Holmby Historical Society in research for exhibitions and events. In 1975 and 1976, Baldwin assisted Donald Combs in research for   exhibit at Contempo Westwood Center. In 1989, Baldwin assisted in the Westwood 60th Anniversary by providing valuable insight and details about the town. Baldwin served as Honorary Society Director of WHHS from 1989 to 1995. These papers were donated from Baldwin to WHHS in 1992. Her papers includes correspondence with Warner Bros studio, UCLA, San Bernardino School District and other individuals and businesses she helped provide with information or photographs of Westwood during her time as a columnist. Newspaper clipping from her column, as well as about Janss Investment Corporation can be found in this subseries. One folder is dedicated to child actress Jane Withers and her interaction with UCLA and Ms. Radar in 1936.</p>
+</scopecontent>
+<c03 id="ref72" level="file">
+<did>
+<unittitle>Rowe Radar Baldwin.</unittitle>
+<container id="cid10019013" type="Box">4</container>
+<container parent="cid10019013" type="Folder">1</container>
+<unitdate normal="1929/1989" type="inclusive">1929 - 1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref61" level="file">
+<did>
+<unittitle>"Village Raider" column.</unittitle>
+<container id="cid10019002" type="Box">4</container>
+<container parent="cid10019002" type="Folder">2</container>
+<unitdate normal="1934/1992" type="inclusive">1934 - 1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref62" level="file">
+<did>
+<unittitle>Early Janss Demonstration Homes.</unittitle>
+<container id="cid10019003" type="Box">4</container>
+<container parent="cid10019003" type="Folder">3</container>
+<unitdate normal="1935/1937" type="inclusive">1935 - 1937.</unitdate>
+</did>
+</c03>
+<c03 id="ref70" level="file">
+<did>
+<unittitle>Jose de Buenos Aires newspaper clipping.</unittitle>
+<container id="cid10019011" type="Box">4</container>
+<container parent="cid10019011" type="Folder">4</container>
+<unitdate normal="1936/1936">1936.</unitdate>
+</did>
+</c03>
+<c03 id="ref71" level="file">
+<did>
+<unittitle>Correspondence on "Village Raider".</unittitle>
+<container id="cid10019012" type="Box">4</container>
+<container parent="cid10019012" type="Folder">5</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref64" level="file">
+<did>
+<unittitle>Jane Withers.</unittitle>
+<container id="cid10019005" type="Box">4</container>
+<container parent="cid10019005" type="Folder">6</container>
+<unitdate normal="1936/1939" type="inclusive">1936 - 1939.</unitdate>
+</did>
+</c03>
+<c03 id="ref68" level="file">
+<did>
+<unittitle>Newspaper clippings.</unittitle>
+<container id="cid10019009" type="Box">4</container>
+<container parent="cid10019009" type="Folder">7</container>
+<unitdate normal="1937/1961" type="inclusive">1937 - 1961.</unitdate>
+</did>
+</c03>
+<c03 id="ref67" level="file">
+<did>
+<unittitle>"Colorful First Years" Westwood Village article.</unittitle>
+<container id="cid10019008" type="Box">4</container>
+<container parent="cid10019008" type="Folder">8</container>
+<unitdate normal="1952/1952">1952.</unitdate>
+</did>
+</c03>
+<c03 id="ref65" level="file">
+<did>
+<unittitle>History of Westwood.</unittitle>
+<container id="cid10019006" type="Box">4</container>
+<container parent="cid10019006" type="Folder">9</container>
+<unitdate normal="1960/1989" type="inclusive">1960s - 1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref66" level="file">
+<did>
+<unittitle>"Village Raider" column copies.</unittitle>
+<container id="cid10019007" type="Box">4</container>
+<container parent="cid10019007" type="Folder">10</container>
+<unitdate normal="1989/1989">May 1, 1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref73" level="file">
+<did>
+<unittitle>Westwood 60th Anniversary articles.</unittitle>
+<container id="cid10019014" type="Box">4</container>
+<container parent="cid10019014" type="Folder">11</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref74" level="file">
+<did>
+<unittitle>"Village Raider" column copies from Baldwin's scrapbook, 1934 - 1938.</unittitle>
+<container id="cid10019015" type="Box">4</container>
+<container parent="cid10019015" type="Folder">12</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref75" level="file">
+<did>
+<unittitle>"Village Raider" column copies from Baldwin's scrapbook, 1934 - 1938.</unittitle>
+<container id="cid10019016" type="Box">4</container>
+<container parent="cid10019016" type="Folder">13</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref69" level="file">
+<did>
+<unittitle>Correspondence with Wendy Kaplan.</unittitle>
+<container id="cid10019010" type="Box">4</container>
+<container parent="cid10019010" type="Folder">14</container>
+<unitdate normal="1989/1991" type="inclusive">1989 - 1991.</unitdate>
+</did>
+</c03>
+<c03 id="ref63" level="file">
+<did>
+<unittitle>The Janss Story.</unittitle>
+<container id="cid10019004" type="Box">4</container>
+<container parent="cid10019004" type="Folder">15</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref60" level="file">
+<did>
+<unittitle>Note from Rowe.</unittitle>
+<container id="cid10019001" type="Box">4</container>
+<container parent="cid10019001" type="Folder">16</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c03>
+</c02>
+<c02 id="ref76" level="subseries">
+<did>
+<unittitle>Robert and Blanche Campbell papers.</unittitle>
+<unitdate normal="1930/1990" type="inclusive">1930 - 1990.</unitdate>
+</did>
+<scopecontent id="ref323">
+<head>Scope and Content</head>
+<p>Robert and Blanche Campbell were business owners in Westwood in the 1930s to 1980s. They owned and operated Campbell’s Bookstore located at 10918 Le Conte Ave. Materials in this subseries include administrative and publicity files associated with Campbell’s Bookstore, community service activities of the Campbells, and photographs of the Campbell family. Also included in this subseries are ephemera about the Westwood Village Lions Club and Westwood Village Studio donated by the daughter of Robert and Blanche, Clarice Campbell and her friend Dorothy Ross, daughter of Ruth and Gene Ross.</p>
+</scopecontent>
+<c03 id="ref78" level="file">
+<did>
+<unittitle>Campbell's Bookstore stationary.</unittitle>
+<container id="cid10019018" type="Box">4</container>
+<container parent="cid10019018" type="Folder">17</container>
+<unitdate normal="1930/1950" type="inclusive">1930s - 1950s.</unitdate>
+</did>
+</c03>
+<c03 id="ref241" level="file">
+<did>
+<unittitle>Campbell's Bookstore stamps.</unittitle>
+<container id="cid10098056" type="Box">16</container>
+<unitdate normal="1929/1954" type="inclusive">1929 - 1954.</unitdate>
+</did>
+</c03>
+<c03 id="ref79" level="file">
+<did>
+<unittitle>Campbell columns.</unittitle>
+<container id="cid10019019" type="Box">4</container>
+<container parent="cid10019019" type="Folder">18</container>
+<unitdate normal="1936/1952" type="inclusive">1936 - 1952.</unitdate>
+</did>
+</c03>
+<c03 id="ref80" level="file">
+<did>
+<unittitle>Ye Village Tattler newspaper.</unittitle>
+<container id="cid10019020" type="Box">4</container>
+<container parent="cid10019020" type="Folder">19</container>
+<unitdate normal="1937/1981" type="inclusive">1937 - 1981.</unitdate>
+</did>
+</c03>
+<c03 id="ref81" level="file">
+<did>
+<unittitle>Tropical Ice Garden - Clarice Campbell.</unittitle>
+<container id="cid10019021" type="Box">4</container>
+<container parent="cid10019021" type="Folder">20</container>
+<unitdate normal="1939/1990" type="inclusive">1939 - 1990.</unitdate>
+</did>
+</c03>
+<c03 id="ref77" level="file">
+<did>
+<unittitle>Campbell Photographs.</unittitle>
+<container id="cid10019017" type="Box">4</container>
+<container parent="cid10019017" type="Folder">21</container>
+<unitdate normal="1948/1962" type="inclusive">1948 - 1962.</unitdate>
+</did>
+</c03>
+<c03 id="ref247" level="file">
+<did>
+<unittitle>Independence Press Award of Merit, Robert Campbell.</unittitle>
+<container id="cid10098062" type="Box">17</container>
+<unitdate normal="1962/1962">May 1962.</unitdate>
+</did>
+</c03>
+<c03 id="ref82" level="file">
+<did>
+<unittitle>Campbell and Bretano's newspaper articles.</unittitle>
+<container id="cid10019022" type="Box">4</container>
+<container parent="cid10019022" type="Folder">22</container>
+<unitdate normal="1962/1981" type="inclusive">1962 - 1981.</unitdate>
+</did>
+</c03>
+<c03 id="ref83" level="file">
+<did>
+<unittitle>Community Service.</unittitle>
+<container id="cid10019023" type="Box">4</container>
+<container parent="cid10019023" type="Folder">23</container>
+<unitdate normal="1963/1970" type="inclusive">1963 - 1970.</unitdate>
+</did>
+</c03>
+<c03 id="ref84" level="file">
+<did>
+<unittitle>Eugene Gilbert - Evening Outlook.</unittitle>
+<container id="cid10019024" type="Box">4</container>
+<container parent="cid10019024" type="Folder">24</container>
+<unitdate normal="1964/1985" type="inclusive">1964 - 1985.</unitdate>
+</did>
+</c03>
+<c03 id="ref85" level="file">
+<did>
+<unittitle>From Dorothy Ross and Clarice Campbell - Westwood Village Lions Club / postcard.</unittitle>
+<container id="cid10019025" type="Box">5</container>
+<container parent="cid10019025" type="Folder">1</container>
+<unitdate normal="1967/1990" type="inclusive">1967 - 1990.</unitdate>
+</did>
+</c03>
+<c03 id="ref239" level="file">
+<did>
+<unittitle>Outstanding Community Service Award, Blanche Campbell.</unittitle>
+<container id="cid10098054" type="Box">16</container>
+<unitdate normal="1970/1970">1970.</unitdate>
+</did>
+</c03>
+<c03 id="ref240" level="file">
+<did>
+<unittitle>Outstanding Community Service Award, Robert Campbell.</unittitle>
+<container id="cid10098055" type="Box">16</container>
+<unitdate normal="1972/1972">1972.</unitdate>
+</did>
+</c03>
+<c03 id="ref246" level="file">
+<did>
+<unittitle>Community Citizens of the Year Award, Bob and Blanche Campbell.</unittitle>
+<container id="cid10098061" type="Box">17</container>
+<unitdate normal="1982/1982">January 21, 1982.</unitdate>
+</did>
+</c03>
+<c03 id="ref260" level="file">
+<did>
+<unittitle>Mayor's Certificate of Appreciation, Blanche and Bob Campbell.</unittitle>
+<container id="cid10098074" type="Box">21</container>
+<unitdate normal="1982/1982">January 21, 1982.</unitdate>
+</did>
+</c03>
+<c03 id="ref86" level="file">
+<did>
+<unittitle>Ruth Ross "Westwood Village Studio" autobiography.</unittitle>
+<container id="cid10019026" type="Box">5</container>
+<container parent="cid10019026" type="Folder">2</container>
+<unitdate normal="1984/1984">1984.</unitdate>
+</did>
+</c03>
+<c03 id="ref87" level="file">
+<did>
+<unittitle>Oakley's Hair Stylists.</unittitle>
+<container id="cid10019027" type="Box">5</container>
+<container parent="cid10019027" type="Folder">3</container>
+<unitdate normal="1987/1989" type="inclusive">1987 - 1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref248" level="file">
+<did>
+<unittitle>Blanch Campbell portrait.</unittitle>
+<container id="cid10098063" type="Box">17</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref245" level="file">
+<did>
+<unittitle>Campbell's Bookstore matches.</unittitle>
+<container id="cid10098060" type="Box">16</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref243" level="file">
+<did>
+<unittitle>Robert Campbell signature stamp.</unittitle>
+<container id="cid10098058" type="Box">16</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref244" level="file">
+<did>
+<unittitle>Robert Campbell El Ranchero de San Jose de Buenos Aires Identification card.</unittitle>
+<container id="cid10098059" type="Box">16</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref242" level="file">
+<did>
+<unittitle>Rotary International Paul Harris Fellow medallion and pin.</unittitle>
+<container id="cid10098057" type="Box">16</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+</c02>
+<c02 id="ref88" level="subseries">
+<did>
+<unittitle>Geroge Gregson Westwood Real Estate papers.</unittitle>
+<unitdate normal="1929/2014" type="inclusive">1929 - 2014.</unitdate>
+</did>
+<scopecontent id="ref324">
+<head>Scope and Content</head>
+<p>George Gregson (Gregovich), 1904 – 1997, was the Vice President for the Janss Investment Corporation. His parents emigrated from Serbia to the United States and raised George in Arizona. Gregson began his career as an appraiser at a mortgage company and worked his way up to executive and then Vice President at the Janss Investment Corporation. After Janss Corp sold the land in Westwood, Gregson continued to own property in Westwood Village, including Linde Medical Plaza land, and various office locations. He was married to Patricia Cluff Janss from January 12th, 1935 until her death in 1939. Included in this subseries are materials related to Mr. Gregson’s time at Janss Investment Corporation, titles and deeds of the sale of Westwood Village, and his personal letter opener.</p>
+</scopecontent>
+<c03 id="ref90" level="file">
+<did>
+<unittitle>Tract Maps and Deeds.</unittitle>
+<container id="cid10065004" type="Box">5</container>
+<container parent="cid10065004" type="Folder">5</container>
+<unitdate normal="1920/1941" type="inclusive">1929 - 1941.</unitdate>
+</did>
+</c03>
+<c03 id="ref89" level="file">
+<did>
+<unittitle>Janss History Publication,  .</unittitle>
+<container id="cid10065003" type="Box">5</container>
+<container parent="cid10065003" type="Folder">4</container>
+<unitdate normal="1930/1930">1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref273" level="file">
+<did>
+<unittitle>Thomas Brothers Property Zone Atlas of Los Angeles County.</unittitle>
+<container id="cid10098084" type="Box">20</container>
+<unitdate normal="1946/1946">1946.</unitdate>
+</did>
+</c03>
+<c03 id="ref91" level="file">
+<did>
+<unittitle>Janss Investment Corporation Sears Warehouse Site.</unittitle>
+<container id="cid10065005" type="Box">5</container>
+<container parent="cid10065005" type="Folder">6</container>
+<unitdate normal="1948/1949" type="inclusive">1948 - 1949.</unitdate>
+</did>
+</c03>
+<c03 id="ref92" level="file">
+<did>
+<unittitle>Newspaper Clippings: Westwood Hills.</unittitle>
+<container id="cid10065006" type="Box">5</container>
+<container parent="cid10065006" type="Folder">7</container>
+<unitdate normal="1940/1949" type="inclusive">1940s.</unitdate>
+</did>
+</c03>
+<c03 id="ref93" level="file">
+<did>
+<unittitle>Westwood Village Property Sale I.</unittitle>
+<container id="cid10065007" type="Box">5</container>
+<container parent="cid10065007" type="Folder">8</container>
+<unitdate normal="1951/1960" type="inclusive">1951 - 1960.</unitdate>
+</did>
+</c03>
+<c03 id="ref94" level="file">
+<did>
+<unittitle>Westwood Village Property Sale II.</unittitle>
+<container id="cid10065008" type="Box">5</container>
+<container parent="cid10065008" type="Folder">9</container>
+<unitdate normal="1951/1960" type="inclusive">1951 - 1960.</unitdate>
+</did>
+</c03>
+<c03 id="ref95" level="file">
+<did>
+<unittitle>Westwood Village Appraisals.</unittitle>
+<container id="cid10065009" type="Box">5</container>
+<container parent="cid10065009" type="Folder">10</container>
+<unitdate normal="1953/1954" type="inclusive">1953 - 1954.</unitdate>
+</did>
+</c03>
+<c03 id="ref96" level="file">
+<did>
+<unittitle>Fox Hills Realty - Oil and Mineral Rights - Janss.</unittitle>
+<container id="cid10065010" type="Box">5</container>
+<container parent="cid10065010" type="Folder">11</container>
+<unitdate normal="1954/1954">1954.</unitdate>
+</did>
+</c03>
+<c03 id="ref97" level="file">
+<did>
+<unittitle>Photos: Janss Investment Corporation Properties.</unittitle>
+<container id="cid10065011" type="Box">5</container>
+<container parent="cid10065011" type="Folder">12</container>
+<unitdate normal="1954/1954">1954.</unitdate>
+</did>
+</c03>
+<c03 id="ref98" level="file">
+<did>
+<unittitle>Newspaper Clippings: Westwood Village.</unittitle>
+<container id="cid10065012" type="Box">6</container>
+<container parent="cid10065012" type="Folder">1</container>
+<unitdate normal="1958/1988" type="inclusive">1958 - 1988.</unitdate>
+</did>
+</c03>
+<c03 id="ref259" level="file">
+<did>
+<unittitle>Photos: Peter Caine collection of mounted Westwood photos.</unittitle>
+<container id="cid10098073" type="Box">20</container>
+<unitdate normal="1960/1960">circa 1960s.</unitdate>
+</did>
+</c03>
+<c03 id="ref99" level="file">
+<did>
+<unittitle>Right of Way Quitclaim.</unittitle>
+<container id="cid10065013" type="Box">6</container>
+<container parent="cid10065013" type="Folder">2</container>
+<unitdate normal="1960/1984" type="inclusive">1960 - 1984.</unitdate>
+</did>
+</c03>
+<c03 id="ref100" level="file">
+<did>
+<unittitle>Janss Westwood Publicity.</unittitle>
+<container id="cid10065014" type="Box">6</container>
+<container parent="cid10065014" type="Folder">3</container>
+<unitdate normal="1961/1992" type="inclusive">1961 - 1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref101" level="file">
+<did>
+<unittitle>Janss Right of Way - Southern Pacific Electric.</unittitle>
+<container id="cid10065015" type="Box">6</container>
+<container parent="cid10065015" type="Folder">4</container>
+<unitdate normal="1968/1971" type="inclusive">1968 - 1971.</unitdate>
+</did>
+</c03>
+<c03 id="ref102" level="file">
+<did>
+<unittitle>Photos: Exposition Rd and Wesdtwood Blvd, demolition is started.</unittitle>
+<container id="cid10065016" type="Box">7</container>
+<container parent="cid10065016" type="Folder">1</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref103" level="file">
+<did>
+<unittitle>Photos: Exposition Rd and Wesdtwood Blvd, start of construction.</unittitle>
+<container id="cid10065017" type="Box">7</container>
+<container parent="cid10065017" type="Folder">2</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref104" level="file">
+<did>
+<unittitle>Photos: Exposition Rd and Wesdtwood Blvd, demolished.</unittitle>
+<container id="cid10065018" type="Box">7</container>
+<container parent="cid10065018" type="Folder">3</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref105" level="file">
+<did>
+<unittitle>Photos: Exposition Rd and Wesdtwood Blvd, demolition views.</unittitle>
+<container id="cid10065019" type="Box">7</container>
+<container parent="cid10065019" type="Folder">4</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref106" level="file">
+<did>
+<unittitle>Photos: Exposition Rd and Wesdtwood Blvd, views.</unittitle>
+<container id="cid10065020" type="Box">7</container>
+<container parent="cid10065020" type="Folder">5</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref107" level="file">
+<did>
+<unittitle>Photos: Exposition Rd and Wesdtwood Blvd, views and Santa Monica Pier.</unittitle>
+<container id="cid10065021" type="Box">7</container>
+<container parent="cid10065021" type="Folder">6</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref108" level="file">
+<did>
+<unittitle>George Gregson Westwood Real Estate Papers History and Description.</unittitle>
+<container id="cid10065022" type="Box">7</container>
+<container parent="cid10065022" type="Folder">7</container>
+<unitdate normal="2014/2014">2014.</unitdate>
+</did>
+</c03>
+<c03 id="ref112" level="file">
+<did>
+<unittitle>Maps: Tract and Plans.</unittitle>
+<container id="cid10065026" type="Box">6</container>
+<container parent="cid10065026" type="Folder">15</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref111" level="file">
+<did>
+<unittitle>Photocopies: 1929 Janss Deed to Adrew and Myron Meyer.</unittitle>
+<container id="cid10065025" type="Box">6</container>
+<container parent="cid10065025" type="Folder">14</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref109" level="file">
+<did>
+<unittitle>Photocopies: Articles on Geroge Gregson.</unittitle>
+<container id="cid10065023" type="Box">7</container>
+<container parent="cid10065023" type="Folder">8</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref110" level="file">
+<did>
+<unittitle>Photocopies: Westwood Janss History.</unittitle>
+<container id="cid10065024" type="Box">7</container>
+<container parent="cid10065024" type="Folder">9</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref113" level="file">
+<did>
+<unittitle>George Gregson Letter Opener.</unittitle>
+<container id="cid10065027" type="Box">7</container>
+<container parent="cid10065027" type="Folder">10</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref249" level="file">
+<did>
+<unittitle>Photos: Janss Investment Corporation properties.</unittitle>
+<container id="cid10098064" type="Box">17</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref286" level="file">
+<did>
+<unittitle>Maps: Cloth Tract Maps of Westwood area.</unittitle>
+<container id="cid10098093" type="Box">29</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+</c02>
+<c02 id="ref114" level="subseries">
+<did>
+<unittitle>Research Committee.</unittitle>
+<unitdate normal="1907/2010" type="inclusive">1907 - 2010.</unitdate>
+</did>
+<scopecontent id="ref344">
+<head>Scope and Content</head>
+<p>The research committee in the Westwood-Holmby Historical Society was the core of the group's activities and interests. They sought to gain information and insight on their neighborhood in order to protect the rights of and inform landowners as well as register certain sites as historical places. Much of their research ended up contributing to the many exhibitions they had over the years.</p>
+</scopecontent>
+<arrangement id="ref315">
+<head>Organization and Arrangement</head>
+<p>Files at this level are arranged chronologically within subjects.</p>
+</arrangement>
+<c03 id="ref119" level="file">
+<did>
+<unittitle>60th Anniversary: Research.</unittitle>
+<container id="cid10090003" type="Box">7</container>
+<container parent="cid10090003" type="Folder">11</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref252" level="file">
+<did>
+<unittitle>Associations: Westwood Hills Business Village.</unittitle>
+<container id="cid10098067" type="Box">18</container>
+<container parent="cid10098067" type="Folder">1</container>
+<unitdate normal="1922/1930" type="inclusive">1922 - 1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref122" level="file">
+<did>
+<unittitle>Associations: G-P Club.</unittitle>
+<container id="cid10090005" type="Box">7</container>
+<container parent="cid10090005" type="Folder">12</container>
+<unitdate normal="1940/1940">1940.</unitdate>
+</did>
+</c03>
+<c03 id="ref123" level="file">
+<did>
+<unittitle>Associations: Masonic Club and Contempo Center.</unittitle>
+<container id="cid10090006" type="Box">7</container>
+<container parent="cid10090006" type="Folder">13</container>
+<unitdate normal="1976/1976">1976.</unitdate>
+</did>
+</c03>
+<c03 id="ref124" level="file">
+<did>
+<unittitle>Associations: Other Historical Society By Laws.</unittitle>
+<container id="cid10090007" type="Box">7</container>
+<container parent="cid10090007" type="Folder">14</container>
+<unitdate normal="1984/1989" type="inclusive">1984 - 1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref125" level="file">
+<did>
+<unittitle>Associations: Other Historical Societies.</unittitle>
+<container id="cid10090008" type="Box">7</container>
+<container parent="cid10090008" type="Folder">15</container>
+<unitdate normal="1988/2003" type="inclusive">1988 - 2003.</unitdate>
+</did>
+</c03>
+<c03 id="ref126" level="file">
+<did>
+<unittitle>Associations: Westwood Hills Business Village.</unittitle>
+<container id="cid10090009" type="Box">7</container>
+<container parent="cid10090009" type="Folder">16</container>
+<unitdate normal="1922/1930" type="inclusive">1922 - 1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref127" level="file">
+<did>
+<unittitle>Associations: Westwood Village Association.</unittitle>
+<container id="cid10090010" type="Box">6</container>
+<container parent="cid10090010" type="Folder">16</container>
+<unitdate normal="1991/1993" type="inclusive">1991 - 1993.</unitdate>
+</did>
+</c03>
+<c03 id="ref129" level="file">
+<did>
+<unittitle>Associations: Westwood Community Council.</unittitle>
+<container id="cid10090012" type="Box">7</container>
+<container parent="cid10090012" type="Folder">17</container>
+<unitdate normal="2010/2010">2010.</unitdate>
+</did>
+</c03>
+<c03 id="ref130" level="file">
+<did>
+<unittitle>Associations: Los Rancheros de San Jose de Buenos Aires Club.</unittitle>
+<container id="cid10090013" type="Box">7</container>
+<container parent="cid10090013" type="Folder">18</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref270" level="file">
+<did>
+<unittitle>Associations: Los Rancheros de San Jose de Buenos Aires gavel.</unittitle>
+<container id="cid10098082" type="Box">26</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref131" level="file">
+<did>
+<unittitle>Business: Hamner and Son photographs.</unittitle>
+<container id="cid10090014" type="Box">8</container>
+<container parent="cid10090014" type="Folder">1</container>
+<unitdate>circa 1925.</unitdate>
+</did>
+</c03>
+<c03 id="ref132" level="file">
+<did>
+<unittitle>Business: Hamner and Son photographs.</unittitle>
+<container id="cid10090015" type="Box">8</container>
+<container parent="cid10090015" type="Folder">2</container>
+<unitdate normal="1925/1930" type="inclusive">circa 1925 - 1930s.</unitdate>
+</did>
+</c03>
+<c03 id="ref133" level="file">
+<did>
+<unittitle>Business: Religious.</unittitle>
+<container id="cid10090016" type="Box">8</container>
+<container parent="cid10090016" type="Folder">3</container>
+<unitdate normal="1940/1990" type="inclusive">circa 1940s - 1990.</unitdate>
+</did>
+</c03>
+<c03 id="ref134" level="file">
+<did>
+<unittitle>Business: Directories.</unittitle>
+<container id="cid10090017" type="Box">8</container>
+<container parent="cid10090017" type="Folder">4</container>
+<unitdate normal="1950/2001" type="inclusive">1950 - 2001.</unitdate>
+</did>
+</c03>
+<c03 id="ref257" level="file">
+<did>
+<unittitle>Business: Hamner and Son ephemera.</unittitle>
+<container id="cid10098071" type="Box">19</container>
+<container parent="cid10098071" type="Folder">3</container>
+<unitdate normal="1951/1959" type="inclusive">1951 - 1959.</unitdate>
+</did>
+</c03>
+<c03 id="ref135" level="file">
+<did>
+<unittitle>Business: Glendale Federal Savings.</unittitle>
+<container id="cid10090018" type="Box">8</container>
+<container parent="cid10090018" type="Folder">5</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref256" level="file">
+<did>
+<unittitle>Business: Hamner and Son photobook.</unittitle>
+<container id="cid10098070" type="Box">19</container>
+<container parent="cid10098070" type="Folder">2</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref258" level="file">
+<did>
+<unittitle>Business: Hamner and Son, John Morgan Hamner portrait.</unittitle>
+<container id="cid10098072" type="Box">19</container>
+<container parent="cid10098072" type="Folder">4</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref136" level="file">
+<did>
+<unittitle>Business: Potter's Hardware deck of cards.</unittitle>
+<container id="cid10090019" type="Box">8</container>
+<container parent="cid10090019" type="Folder">6</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref137" level="file">
+<did>
+<unittitle>Business: Westwood business cards.</unittitle>
+<container id="cid10090020" type="Box">8</container>
+<container parent="cid10090020" type="Folder">7</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref138" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid10090021" type="Box">8</container>
+<container parent="cid10090021" type="Folder">8</container>
+<unitdate normal="1992/2014" type="inclusive">1992 - 2014.</unitdate>
+</did>
+</c03>
+<c03 id="ref139" level="file">
+<did>
+<unittitle>Development: Westwood master plan newspaper clippings.</unittitle>
+<container id="cid10090022" type="Box">8</container>
+<container parent="cid10090022" type="Folder">9</container>
+<unitdate normal="1958/1963" type="inclusive">1958 - 1963.</unitdate>
+</did>
+</c03>
+<c03 id="ref140" level="file">
+<did>
+<unittitle>Development: Traffic congestion plan.</unittitle>
+<container id="cid10090023" type="Box">8</container>
+<container parent="cid10090023" type="Folder">10</container>
+<unitdate normal="1958/1971" type="inclusive">1958 - 1971.</unitdate>
+</did>
+</c03>
+<c03 id="ref141" level="file">
+<did>
+<unittitle>Development: Historical and Cultural resources survey - survey guide.</unittitle>
+<container id="cid10090024" type="Box">8</container>
+<container parent="cid10090024" type="Folder">11</container>
+<unitdate normal="1981/1981">1981.</unitdate>
+</did>
+</c03>
+<c03 id="ref142" level="file">
+<did>
+<unittitle>Development: Cultural Resource Documentation Report: Westwood Village.</unittitle>
+<container id="cid10090025" type="Box">9</container>
+<container parent="cid10090025" type="Folder">1</container>
+<unitdate normal="1985/1985">1985.</unitdate>
+</did>
+</c03>
+<c03 id="ref143" level="file">
+<did>
+<unittitle>Development: Improvement Plans.</unittitle>
+<container id="cid10090026" type="Box">9</container>
+<container parent="cid10090026" type="Folder">2</container>
+<unitdate normal="1985/1992" type="inclusive">1985 - 1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref144" level="file">
+<did>
+<unittitle>Development: Westwood Village Specific Plan.</unittitle>
+<container id="cid10090027" type="Box">9</container>
+<container parent="cid10090027" type="Folder">3</container>
+<unitdate normal="1986/1987" type="inclusive">1986 - 1987.</unitdate>
+</did>
+</c03>
+<c03 id="ref145" level="file">
+<did>
+<unittitle>Development: Cultural Resource Documentation Report: Westwood, North and East Villages.</unittitle>
+<container id="cid10090028" type="Box">9</container>
+<container parent="cid10090028" type="Folder">4</container>
+<unitdate normal="1987/1987">1987.</unitdate>
+</did>
+</c03>
+<c03 id="ref146" level="file">
+<did>
+<unittitle>Development: Cultural Resource Documentation Report: Westwood, North and East Villages.</unittitle>
+<container id="cid10090029" type="Box">9</container>
+<container parent="cid10090029" type="Folder">5</container>
+<unitdate normal="1987/1987">1987.</unitdate>
+</did>
+</c03>
+<c03 id="ref147" level="file">
+<did>
+<unittitle>Development: The West Los Angeles Subregional Planning Area.</unittitle>
+<container id="cid10090030" type="Box">9</container>
+<container parent="cid10090030" type="Folder">6</container>
+<unitdate normal="1990/1990">1990.</unitdate>
+</did>
+</c03>
+<c03 id="ref148" level="file">
+<did>
+<unittitle>Development: Los Feliz Improvement Association.</unittitle>
+<container id="cid10090031" type="Box">9</container>
+<container parent="cid10090031" type="Folder">7</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c03>
+<c03 id="ref149" level="file">
+<did>
+<unittitle>Development: Westwood Village Management.</unittitle>
+<container id="cid10090032" type="Box">10</container>
+<container parent="cid10090032" type="Folder">1</container>
+<unitdate normal="1992/1993" type="inclusive">1992 - 1993.</unitdate>
+</did>
+</c03>
+<c03 id="ref150" level="file">
+<did>
+<unittitle>Development: SMEDRA / Save Westwood Village.</unittitle>
+<container id="cid10090033" type="Box">10</container>
+<container parent="cid10090033" type="Folder">2</container>
+<unitdate normal="1998/2002" type="inclusive">1998 - 2002.</unitdate>
+</did>
+</c03>
+<c03 id="ref151" level="file">
+<did>
+<unittitle>Development: Privilege Parking.</unittitle>
+<container id="cid10090034" type="Box">10</container>
+<container parent="cid10090034" type="Folder">3</container>
+<unitdate normal="1990/1990">circa 1990s.</unitdate>
+</did>
+</c03>
+<c03 id="ref152" level="file">
+<did>
+<unittitle>Development: Nansay Incorporated.</unittitle>
+<container id="cid10090035" type="Box">10</container>
+<container parent="cid10090035" type="Folder">4</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref153" level="file">
+<did>
+<unittitle>Development: Notated photocopies of development ads.</unittitle>
+<container id="cid10090036" type="Box">10</container>
+<container parent="cid10090036" type="Folder">5</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref154" level="file">
+<did>
+<unittitle>Development: Faculty units - University Crest - Old streets of Monterey.</unittitle>
+<container id="cid10090037" type="Box">10</container>
+<container parent="cid10090037" type="Folder">6</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref155" level="file">
+<did>
+<unittitle>Development: Apartment center - Village - North Village.</unittitle>
+<container id="cid10090038" type="Box">10</container>
+<container parent="cid10090038" type="Folder">7</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref156" level="file">
+<did>
+<unittitle>Development: University Entrance Park.</unittitle>
+<container id="cid10090039" type="Box">10</container>
+<container parent="cid10090039" type="Folder">8</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref157" level="file">
+<did>
+<unittitle>Development: Holmby Hills.</unittitle>
+<container id="cid10090040" type="Box">10</container>
+<container parent="cid10090040" type="Folder">9</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref158" level="file">
+<did>
+<unittitle>Development: Fox Hills - Country Club Units.</unittitle>
+<container id="cid10090041" type="Box">10</container>
+<container parent="cid10090041" type="Folder">10</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref159" level="file">
+<did>
+<unittitle>Development: Prosperity Units.</unittitle>
+<container id="cid10090042" type="Box">10</container>
+<container parent="cid10090042" type="Folder">11</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref284" level="file">
+<did>
+<unittitle>Development: Los Angeles County Index Map and Zoning.</unittitle>
+<container id="cid10098091" type="Box">29</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref285" level="file">
+<did>
+<unittitle>Development: Santa Monica Index Map and Zoning.</unittitle>
+<container id="cid10098092" type="Box">29</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref160" level="file">
+<did>
+<unittitle>Ephemera: Security Federal Savings Westwood Village, 25 year brochure.</unittitle>
+<container id="cid10090043" type="Box">10</container>
+<container parent="cid10090043" type="Folder">12</container>
+<unitdate normal="1969/1969">1969.</unitdate>
+</did>
+</c03>
+<c03 id="ref161" level="file">
+<did>
+<unittitle>Ephemera: "Yesterday Tripping" Los Angeles History.</unittitle>
+<container id="cid10090044" type="Box">10</container>
+<container parent="cid10090044" type="Folder">13</container>
+<unitdate normal="1984/1984">1984.</unitdate>
+</did>
+</c03>
+<c03 id="ref162" level="file">
+<did>
+<unittitle>Ephemera: Billy Bengston poster.</unittitle>
+<container id="cid10090045" type="Box">10</container>
+<container parent="cid10090045" type="Folder">14</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref163" level="file">
+<did>
+<unittitle>Ephemera: Westwood Village postcards.</unittitle>
+<container id="cid10090046" type="Box">10</container>
+<container parent="cid10090046" type="Folder">15</container>
+<unitdate normal="1989/1990" type="inclusive">1989 - 1990.</unitdate>
+</did>
+</c03>
+<c03 id="ref336" level="file">
+<did>
+<unittitle>Ephemera: Westwood Park illustration.</unittitle>
+<container id="cid10116004" type="Box">32</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref263" level="file">
+<did>
+<unittitle>Janss: Scrapbook, Investment Corporation.</unittitle>
+<container id="cid10098076" type="Box">22</container>
+<unitdate normal="1911/1964" type="inclusive">1911 - 1964.</unitdate>
+</did>
+</c03>
+<c03 id="ref165" level="file">
+<did>
+<unittitle>Janss: Family and friends photographs and family tree.</unittitle>
+<container id="cid10090048" type="Box">10</container>
+<container parent="cid10090048" type="Folder">17</container>
+<unitdate normal="1930/1930">circa 1930s.</unitdate>
+</did>
+</c03>
+<c03 id="ref166" level="file">
+<did>
+<unittitle>Janss: Business yearbook.</unittitle>
+<container id="cid10090049" type="Box">10</container>
+<container parent="cid10090049" type="Folder">18</container>
+<unitdate normal="1935/1935">1935.</unitdate>
+</did>
+</c03>
+<c03 id="ref167" level="file">
+<did>
+<unittitle>Janss: Mabel Jellison-Burbank.</unittitle>
+<container id="cid10090050" type="Box">6</container>
+<container parent="cid10090050" type="Folder">17</container>
+<unitdate normal="1935/1989" type="inclusive">1935 - 1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref253" level="file">
+<did>
+<unittitle>Janss: Sales Department Tracts of Westwood Hills.</unittitle>
+<container id="cid10098068" type="Box">18</container>
+<container parent="cid10098068" type="Folder">2</container>
+<unitdate normal="1936/1937" type="inclusive">1936 - 1937.</unitdate>
+</did>
+</c03>
+<c03 id="ref330" level="file">
+<did>
+<unittitle>Janss: Christmas Tribute to Emma Janss.</unittitle>
+<container id="cid10116001" type="Box">31</container>
+<unitdate normal="1940/1940">1940.</unitdate>
+</did>
+</c03>
+<c03 id="ref264" level="file">
+<did>
+<unittitle>Janss: Scrapbook.</unittitle>
+<container id="cid10098077" type="Box">23</container>
+<unitdate normal="1950/1960" type="inclusive">circa 1950s - 1960s.</unitdate>
+</did>
+<odd id="ref365">
+<head>General note</head>
+<p>This item is fragile.</p>
+</odd>
+</c03>
+<c03 id="ref168" level="file">
+<did>
+<unittitle>Janss: Janss Investment Corporation in UCLA Monthly.</unittitle>
+<container id="cid10090051" type="Box">6</container>
+<container parent="cid10090051" type="Folder">18</container>
+<unitdate normal="1979/1979">1979.</unitdate>
+</did>
+</c03>
+<c03 id="ref169" level="file">
+<did>
+<unittitle>Janss: Parkinson Spirit of Urbanism Award.</unittitle>
+<container id="cid10090052" type="Box">10</container>
+<container parent="cid10090052" type="Folder">19</container>
+<unitdate normal="1995/1995">1995.</unitdate>
+</did>
+</c03>
+<c03 id="ref170" level="file">
+<did>
+<unittitle>Janss: Autobiographies.</unittitle>
+<container id="cid10090053" type="Box">6</container>
+<container parent="cid10090053" type="Folder">19</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref164" level="file">
+<did>
+<unittitle>Janss: Peter Janss Los Angeles Times photocopies.</unittitle>
+<container id="cid10090047" type="Box">10</container>
+<container parent="cid10090047" type="Folder">16</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref261" level="file">
+<did>
+<unittitle>Janss: Scrapbook #3.</unittitle>
+<container id="cid10098075" type="Box">21</container>
+<unitdate>undated.</unitdate>
+</did>
+<odd id="ref366">
+<head>General note</head>
+<p>This item is fragile.</p>
+</odd>
+</c03>
+<c03 id="ref268" level="file">
+<did>
+<unittitle>Janss: Scrapbook #5.</unittitle>
+<container id="cid10098080" type="Box">25</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref266" level="file">
+<did>
+<unittitle>Janss: Scrapbook #7.</unittitle>
+<container id="cid10098078" type="Box">24</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref267" level="file">
+<did>
+<unittitle>Janss: Scrapbook #13.</unittitle>
+<container id="cid10098079" type="Box">25</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref271" level="file">
+<did>
+<unittitle>Janss: Scrapbook "Friends".</unittitle>
+<container id="cid10098083" type="Box">26</container>
+<unitdate>undated.</unitdate>
+</did>
+<odd id="ref367">
+<head>General note</head>
+<p>This item is fragile.</p>
+</odd>
+</c03>
+<c03 id="ref331" level="file">
+<did>
+<unittitle>Janss: Westwood Community Church Memorium.</unittitle>
+<container id="cid10116002" type="Box">31</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref171" level="file">
+<did>
+<unittitle>Maps: Westwood photocopies.</unittitle>
+<container id="cid10090054" type="Box">10</container>
+<container parent="cid10090054" type="Folder">20</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref342" level="file">
+<did>
+<unittitle>Maps: Prints of Westwood maps (medium).</unittitle>
+<container id="cid10122002" type="Box">20</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref332" level="file">
+<did>
+<unittitle>Maps: Old Spanish and Mexican Ranchos of Los Angeles.</unittitle>
+<container id="cid10116003" type="Box">31</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref333">
+<head>Scope and Content</head>
+<p>This map is a wood artifact.</p>
+</scopecontent>
+</c03>
+<c03 id="ref340" level="file">
+<did>
+<unittitle>Maps: Prints of Westwood maps (small).</unittitle>
+<container id="cid10122001" type="Box">32</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref341">
+<head>Scope and Content</head>
+<p>These items are mounted on foam core.</p>
+</scopecontent>
+</c03>
+<c03 id="ref172" level="file">
+<did>
+<unittitle>Narratives: Westwood.</unittitle>
+<container id="cid10090055" type="Box">10</container>
+<container parent="cid10090055" type="Folder">21</container>
+<unitdate normal="1986/1995" type="inclusive">1986 - 1995.</unitdate>
+</did>
+</c03>
+<c03 id="ref173" level="file">
+<did>
+<unittitle>Narratives: Westwood Village.</unittitle>
+<container id="cid10090056" type="Box">10</container>
+<container parent="cid10090056" type="Folder">22</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref174" level="file">
+<did>
+<unittitle>Narratives: Shelley Taylor Family in Westwood.</unittitle>
+<container id="cid10090057" type="Box">10</container>
+<container parent="cid10090057" type="Folder">23</container>
+<unitdate normal="2000/2000">2000.</unitdate>
+</did>
+</c03>
+<c03 id="ref175" level="file">
+<did>
+<unittitle>Narratives: Westwood Park origins.</unittitle>
+<container id="cid10090058" type="Box">10</container>
+<container parent="cid10090058" type="Folder">24</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref368" level="file">
+<did>
+<unittitle>Panorama: Westwood on Masonite.</unittitle>
+<container id="cid10783001" type="Box">35</container>
+<unitdate normal="1931/1931">1931.</unitdate>
+</did>
+<scopecontent id="ref369">
+<head>Scope and Content</head>
+<p>Original photo, 10.75" x 53.5" on Masonite. Lummis Auction purchase.</p>
+</scopecontent>
+</c03>
+<c03 id="ref370" level="file">
+<did>
+<unittitle>Panorama: Westwood Village.</unittitle>
+<container id="cid10783002" type="Box">35</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref371">
+<head>Scope and Content</head>
+<p>9.75" x 65.25" copy. Has some water damage.</p>
+</scopecontent>
+</c03>
+<c03 id="ref176" level="file">
+<did>
+<unittitle>People of Westwood: Arthur Letts biography.</unittitle>
+<container id="cid10090059" type="Box">11</container>
+<container parent="cid10090059" type="Folder">1</container>
+<unitdate normal="1927/1927">1927.</unitdate>
+</did>
+</c03>
+<c03 id="ref251" level="file">
+<did>
+<unittitle>People of Westwood: Arthur Letts Broadway Department Store plaque.</unittitle>
+<container id="cid10098066" type="Box">18</container>
+<unitdate normal="1923/1923">circa 1923.</unitdate>
+</did>
+</c03>
+<c03 id="ref177" level="file">
+<did>
+<unittitle>People of Westwood: White pages.</unittitle>
+<container id="cid10090060" type="Box">11</container>
+<container parent="cid10090060" type="Folder">2</container>
+<unitdate normal="1973/1976" type="inclusive">1973 - 1976.</unitdate>
+</did>
+</c03>
+<c03 id="ref178" level="file">
+<did>
+<unittitle>People of Westwood: Ron Blumberg.</unittitle>
+<container id="cid10090061" type="Box">11</container>
+<container parent="cid10090061" type="Folder">3</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref345" level="file">
+<did>
+<unittitle>Posters: Westwood Hills 
+<title render="italic">$5,000,000 in Building Permits</title> Ad.</unittitle>
+<container id="cid10192002" type="Box">33</container>
+<unitdate normal="1930/1930">1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref346" level="file">
+<did>
+<unittitle>Posters: Westwood Hills Open Today Ad.</unittitle>
+<container id="cid10192003" type="Box">33</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref347" level="file">
+<did>
+<unittitle>Posters: 
+<title render="italic">The Second Hollywood</title> Westwood aerial drawing Ad.</unittitle>
+<container id="cid10192004" type="Box">33</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref348" level="file">
+<did>
+<unittitle>Posters: Rancho San Vicente y Santa Monica.</unittitle>
+<container id="cid10192005" type="Box">33</container>
+<unitdate normal="1881/1881">1881.</unitdate>
+</did>
+</c03>
+<c03 id="ref349" level="file">
+<did>
+<unittitle>Posters: Westwood Hills and Holmby Hills map.</unittitle>
+<container id="cid10192006" type="Box">33</container>
+<unitdate normal="1931/1931">1931.</unitdate>
+</did>
+</c03>
+<c03 id="ref350" level="file">
+<did>
+<unittitle>Posters: Early Westwood subdivision map.</unittitle>
+<container id="cid10192007" type="Box">33</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref356" level="file">
+<did>
+<unittitle>Posters: San Jose de Buenos Ayres.</unittitle>
+<container id="cid10435001" type="Box">33</container>
+<unitdate normal="1858/1858">1858.</unitdate>
+</did>
+</c03>
+<c03 id="ref357" level="file">
+<did>
+<unittitle>Posters: Rancho San Jose de Buenos Ayres.</unittitle>
+<container id="cid10435002" type="Box">33</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref358" level="file">
+<did>
+<unittitle>Posters: 
+<title render="italic">The Historic Ranchos of Los Angeles</title> (color).</unittitle>
+<container id="cid10435003" type="Box">33</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref359" level="file">
+<did>
+<unittitle>Posters: Mar Pacifico Del Norte, old map of Ranchos Viscente.</unittitle>
+<container id="cid10435004" type="Box">33</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref351" level="file">
+<did>
+<unittitle>Posters: Westwood Hills Ad.</unittitle>
+<container id="cid10192008" type="Box">34</container>
+<unitdate normal="1928/1928">1928.</unitdate>
+</did>
+</c03>
+<c03 id="ref352" level="file">
+<did>
+<unittitle>Posters: Westwood Hills Smart Investment Ad.</unittitle>
+<container id="cid10192009" type="Box">34</container>
+<unitdate normal="1931/1931">1931.</unitdate>
+</did>
+</c03>
+<c03 id="ref353" level="file">
+<did>
+<unittitle>Posters: Holmby Hills, Janss Investment Corporation.</unittitle>
+<container id="cid10192010" type="Box">34</container>
+<unitdate normal="1926/1926">1926.</unitdate>
+</did>
+</c03>
+<c03 id="ref354" level="file">
+<did>
+<unittitle>Posters: Westwood Everyone Working Overtime Ad.</unittitle>
+<container id="cid10192011" type="Box">34</container>
+<unitdate normal="1922/1922">1922.</unitdate>
+</did>
+</c03>
+<c03 id="ref355" level="file">
+<did>
+<unittitle>Posters: Westwood Ad.</unittitle>
+<container id="cid10192012" type="Box">34</container>
+<unitdate normal="1924/1924">1924.</unitdate>
+</did>
+</c03>
+<c03 id="ref360" level="file">
+<did>
+<unittitle>Posters: Westwood, The New City Ad.</unittitle>
+<container id="cid10435005" type="Box">34</container>
+<unitdate normal="1923/1923">1923.</unitdate>
+</did>
+</c03>
+<c03 id="ref361" level="file">
+<did>
+<unittitle>Posters: Streets of Old Monterey Unit. Westwood Hills Ad.</unittitle>
+<container id="cid10435006" type="Box">34</container>
+<unitdate normal="1930/1930">1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref362" level="file">
+<did>
+<unittitle>Posters: Three New Homes In Westwood Hills Ad.</unittitle>
+<container id="cid10435007" type="Box">34</container>
+<unitdate normal="1935/1935">1935.</unitdate>
+</did>
+</c03>
+<c03 id="ref363" level="file">
+<did>
+<unittitle>Posters: Unit 2 of Fox Hills, Open Westwood Today Ad.</unittitle>
+<container id="cid10435008" type="Box">34</container>
+<unitdate normal="1923/1923">1923.</unitdate>
+</did>
+</c03>
+<c03 id="ref364" level="file">
+<did>
+<unittitle>Posters: Holmby Hills, Residential Estates Ad.</unittitle>
+<container id="cid10435009" type="Box">34</container>
+<unitdate normal="1926/1926">1926.</unitdate>
+</did>
+</c03>
+<c03 id="ref179" level="file">
+<did>
+<unittitle>Photocopies: Research.</unittitle>
+<container id="cid10090062" type="Box">6</container>
+<container parent="cid10090062" type="Folder">20</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref180" level="file">
+<did>
+<unittitle>Photocopies: Research.</unittitle>
+<container id="cid10090063" type="Box">6</container>
+<container parent="cid10090063" type="Folder">21</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref181" level="file">
+<did>
+<unittitle>Photocopies: Research.</unittitle>
+<container id="cid10098002" type="Box">12</container>
+<container parent="cid10098002" type="Folder">1</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref182" level="file">
+<did>
+<unittitle>Preservation: Historic Cultural Monuments.</unittitle>
+<container id="cid10098003" type="Box">11</container>
+<container parent="cid10098003" type="Folder">4</container>
+<unitdate normal="1987/1994" type="inclusive">1987 - 1994.</unitdate>
+</did>
+</c03>
+<c03 id="ref183" level="file">
+<did>
+<unittitle>Preservation: Research In The City of Los Angeles Survey.</unittitle>
+<container id="cid10098004" type="Box">11</container>
+<container parent="cid10098004" type="Folder">5</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c03>
+<c03 id="ref184" level="file">
+<did>
+<unittitle>Preservation: News.</unittitle>
+<container id="cid10098005" type="Box">11</container>
+<container parent="cid10098005" type="Folder">6</container>
+<unitdate normal="1991/1993" type="inclusive">1991 - 1993.</unitdate>
+</did>
+</c03>
+<c03 id="ref185" level="file">
+<did>
+<unittitle>Preservation: Guide.</unittitle>
+<container id="cid10098006" type="Box">11</container>
+<container parent="cid10098006" type="Folder">7</container>
+<unitdate normal="1992/1992">February 1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref186" level="file">
+<did>
+<unittitle>Preservation: Resources.</unittitle>
+<container id="cid10098007" type="Box">11</container>
+<container parent="cid10098007" type="Folder">8</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref187" level="file">
+<did>
+<unittitle>Preservation: Cultural Heritage Master Plan.</unittitle>
+<container id="cid10098008" type="Box">11</container>
+<container parent="cid10098008" type="Folder">9</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref188" level="file">
+<did>
+<unittitle>Preservation: Cultural Monuments of Conservation.</unittitle>
+<container id="cid10098009" type="Box">11</container>
+<container parent="cid10098009" type="Folder">10</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref189" level="file">
+<did>
+<unittitle>Publications: Westwood Hills.</unittitle>
+<container id="cid10098010" type="Box">11</container>
+<container parent="cid10098010" type="Folder">11</container>
+<unitdate normal="1940/1940">1940.</unitdate>
+</did>
+</c03>
+<c03 id="ref190" level="file">
+<did>
+<unittitle>Publications: Westwood Notices and News.</unittitle>
+<container id="cid10098011" type="Box">13</container>
+<container parent="cid10098011" type="Folder">1</container>
+<unitdate normal="1975/2004" type="inclusive">1975 - 2004.</unitdate>
+</did>
+</c03>
+<c03 id="ref269" level="file">
+<did>
+<unittitle>Publications: Eugene Gilbert Evening Outlook reprint copies.</unittitle>
+<container id="cid10098081" type="Box">26</container>
+<container parent="cid10098081" type="Folder">1</container>
+<unitdate normal="1978/1988" type="inclusive">1978 - 1988.</unitdate>
+</did>
+</c03>
+<c03 id="ref191" level="file">
+<did>
+<unittitle>Publications: Westways Article.</unittitle>
+<container id="cid10098012" type="Box">13</container>
+<container parent="cid10098012" type="Folder">2</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c03>
+<c03 id="ref192" level="file">
+<did>
+<unittitle>Publications: Village Update.</unittitle>
+<container id="cid10098013" type="Box">13</container>
+<container parent="cid10098013" type="Folder">3</container>
+<unitdate normal="1998/1999" type="inclusive">1998 - 1999.</unitdate>
+</did>
+</c03>
+<c03 id="ref193" level="file">
+<did>
+<unittitle>UCLA: The Architect and Engineer.</unittitle>
+<container id="cid10098014" type="Box">12</container>
+<container parent="cid10098014" type="Folder">2</container>
+<unitdate normal="1930/1930">1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref194" level="file">
+<did>
+<unittitle>UCLA: History of James Martin.</unittitle>
+<container id="cid10098015" type="Box">13</container>
+<container parent="cid10098015" type="Folder">5</container>
+<unitdate normal="1940/1974" type="inclusive">1940 - 1974.</unitdate>
+</did>
+</c03>
+<c03 id="ref195" level="file">
+<did>
+<unittitle>Westwood Photographs: Rancho Days.</unittitle>
+<container id="cid10098016" type="Box">13</container>
+<container parent="cid10098016" type="Folder">6</container>
+<unitdate normal="1907/1924" type="inclusive">1907 - 1924.</unitdate>
+</did>
+</c03>
+<c03 id="ref196" level="file">
+<did>
+<unittitle>Westwood Photographs: Westwood Early Development.</unittitle>
+<container id="cid10098017" type="Box">13</container>
+<container parent="cid10098017" type="Folder">7</container>
+<unitdate normal="1921/1927" type="inclusive">1921 - 1927.</unitdate>
+</did>
+</c03>
+<c03 id="ref197" level="file">
+<did>
+<unittitle>Westwood Photographs: UCLA.</unittitle>
+<container id="cid10098018" type="Box">13</container>
+<container parent="cid10098018" type="Folder">8</container>
+<unitdate normal="1929/1929">1929.</unitdate>
+</did>
+</c03>
+<c03 id="ref201" level="file">
+<did>
+<unittitle>Westwood Photographs: Westwood Blvd.</unittitle>
+<container id="cid10098022" type="Box">13</container>
+<container parent="cid10098022" type="Folder">8</container>
+<unitdate normal="1925/1955" type="inclusive">1925 - 1955.</unitdate>
+</did>
+</c03>
+<c03 id="ref202" level="file">
+<did>
+<unittitle>Westwood Photographs: UCLA.</unittitle>
+<container id="cid10098023" type="Box">13</container>
+<container parent="cid10098023" type="Folder">9</container>
+<unitdate normal="1929/1929">1929.</unitdate>
+</did>
+</c03>
+<c03 id="ref203" level="file">
+<did>
+<unittitle>Westwood Photographs: Advertisements and news clippings.</unittitle>
+<container id="cid10098024" type="Box">13</container>
+<container parent="cid10098024" type="Folder">10</container>
+<unitdate normal="1929/1929">1929.</unitdate>
+</did>
+</c03>
+<c03 id="ref204" level="file">
+<did>
+<unittitle>Westwood Photographs: Panoramic Photographs I.</unittitle>
+<container id="cid10098025" type="Box">13</container>
+<container parent="cid10098025" type="Folder">11</container>
+<unitdate normal="1929/1933" type="inclusive">1929 - 1933.</unitdate>
+</did>
+</c03>
+<c03 id="ref205" level="file">
+<did>
+<unittitle>Westwood Photographs: Panoramic Photographs II.</unittitle>
+<container id="cid10098026" type="Box">13</container>
+<container parent="cid10098026" type="Folder">12</container>
+<unitdate normal="1929/1933" type="inclusive">1929 - 1933.</unitdate>
+</did>
+<scopecontent id="ref237">
+<head>Scope and Content</head>
+<p>Contains 35mm negatives.</p>
+</scopecontent>
+</c03>
+<c03 id="ref206" level="file">
+<did>
+<unittitle>Westwood Photographs: UCLA Masonic Club.</unittitle>
+<container id="cid10098027" type="Box">13</container>
+<container parent="cid10098027" type="Folder">13</container>
+<unitdate normal="1929/1957" type="inclusive">1929 - 1957.</unitdate>
+</did>
+</c03>
+<c03 id="ref207" level="file">
+<did>
+<unittitle>Westwood Photographs: Glendon Ave.</unittitle>
+<container id="cid10098028" type="Box">13</container>
+<container parent="cid10098028" type="Folder">15</container>
+<unitdate normal="1930/1930">circa 1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref208" level="file">
+<did>
+<unittitle>Westwood Photographs: Janss Drug Tower.</unittitle>
+<container id="cid10098029" type="Box">13</container>
+<container parent="cid10098029" type="Folder">16</container>
+<unitdate normal="1930/1930">circa 1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref209" level="file">
+<did>
+<unittitle>Westwood Photographs: Royce Hall with Goodyear Blimp.</unittitle>
+<container id="cid10098030" type="Box">13</container>
+<container parent="cid10098030" type="Folder">17</container>
+<unitdate normal="1930/1930">circa 1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref210" level="file">
+<did>
+<unittitle>Westwood Photographs: Westwood Blvd.</unittitle>
+<container id="cid10098031" type="Box">13</container>
+<container parent="cid10098031" type="Folder">18</container>
+<unitdate normal="1930/1930">circa 1930.</unitdate>
+</did>
+</c03>
+<c03 id="ref211" level="file">
+<did>
+<unittitle>Westwood Photographs: Aerial Views.</unittitle>
+<container id="cid10098032" type="Box">13</container>
+<container parent="cid10098032" type="Folder">19</container>
+<unitdate normal="1931/1940" type="inclusive">1931 - 1940.</unitdate>
+</did>
+</c03>
+<c03 id="ref212" level="file">
+<did>
+<unittitle>Westwood Photographs: Janss Tower.</unittitle>
+<container id="cid10098033" type="Box">13</container>
+<container parent="cid10098033" type="Folder">20</container>
+<unitdate normal="1932/1954" type="inclusive">1932 - 1954.</unitdate>
+</did>
+</c03>
+<c03 id="ref213" level="file">
+<did>
+<unittitle>Westwood Photographs: Gas stations.</unittitle>
+<container id="cid10098034" type="Box">13</container>
+<container parent="cid10098034" type="Folder">21</container>
+<unitdate normal="1935/1936" type="inclusive">1935 - 1936.</unitdate>
+</did>
+</c03>
+<c03 id="ref214" level="file">
+<did>
+<unittitle>Westwood Photographs: People.</unittitle>
+<container id="cid10098035" type="Box">13</container>
+<container parent="cid10098035" type="Folder">22</container>
+<unitdate normal="1935/1940" type="inclusive">1935 - 1940.</unitdate>
+</did>
+</c03>
+<c03 id="ref215" level="file">
+<did>
+<unittitle>Westwood Photographs: Westwood Courtyards.</unittitle>
+<container id="cid10098036" type="Box">13</container>
+<container parent="cid10098036" type="Folder">23</container>
+<unitdate normal="1935/1947" type="inclusive">1935 - 1947.</unitdate>
+</did>
+</c03>
+<c03 id="ref216" level="file">
+<did>
+<unittitle>Westwood Photographs: Westwood Buildings.</unittitle>
+<container id="cid10098037" type="Box">13</container>
+<container parent="cid10098037" type="Folder">24</container>
+<unitdate normal="1935/1962" type="inclusive">1935 - 1962.</unitdate>
+</did>
+</c03>
+<c03 id="ref217" level="file">
+<did>
+<unittitle>Westwood Photographs: Janss Dome.</unittitle>
+<container id="cid10098038" type="Box">13</container>
+<container parent="cid10098038" type="Folder">26</container>
+<unitdate normal="1937/1954" type="inclusive">1937 - 1954.</unitdate>
+</did>
+</c03>
+<c03 id="ref218" level="file">
+<did>
+<unittitle>Westwood Photographs: South of Wilshire.</unittitle>
+<container id="cid10098039" type="Box">13</container>
+<container parent="cid10098039" type="Folder">27</container>
+<unitdate normal="1937/1954" type="inclusive">1937 - 1954.</unitdate>
+</did>
+</c03>
+<c03 id="ref219" level="file">
+<did>
+<unittitle>Westwood Photographs: USC Hearst Collection of Westwood.</unittitle>
+<container id="cid10098040" type="Box">14</container>
+<container parent="cid10098040" type="Folder">1</container>
+<unitdate normal="1938/1938">circa 1938.</unitdate>
+</did>
+</c03>
+<c03 id="ref220" level="file">
+<did>
+<unittitle>Westwood Photographs: Theatres.</unittitle>
+<container id="cid10098041" type="Box">14</container>
+<container parent="cid10098041" type="Folder">3</container>
+<unitdate normal="1938/1938">1938.</unitdate>
+</did>
+</c03>
+<c03 id="ref221" level="file">
+<did>
+<unittitle>Westwood Photographs: Wilshire.</unittitle>
+<container id="cid10098042" type="Box">14</container>
+<container parent="cid10098042" type="Folder">4</container>
+<unitdate normal="1939/1970" type="inclusive">1939 - 1970.</unitdate>
+</did>
+</c03>
+<c03 id="ref222" level="file">
+<did>
+<unittitle>Westwood Photographs: Janss Dome.</unittitle>
+<container id="cid10098043" type="Box">14</container>
+<container parent="cid10098043" type="Folder">5</container>
+<unitdate normal="1940/1940">circa 1940.</unitdate>
+</did>
+</c03>
+<c03 id="ref223" level="file">
+<did>
+<unittitle>Westwood Photographs: Movie premiere of "Adventures of Casanova".</unittitle>
+<container id="cid10098044" type="Box">14</container>
+<container parent="cid10098044" type="Folder">6</container>
+<unitdate normal="1948/1948">1948.</unitdate>
+</did>
+</c03>
+<c03 id="ref224" level="file">
+<did>
+<unittitle>Westwood Photographs: Ice Skating Rink.</unittitle>
+<container id="cid10098045" type="Box">14</container>
+<container parent="cid10098045" type="Folder">7</container>
+<unitdate normal="1950/1950">circa 1950.</unitdate>
+</did>
+</c03>
+<c03 id="ref225" level="file">
+<did>
+<unittitle>Westwood Photographs: Bullock's Westwood.</unittitle>
+<container id="cid10098046" type="Box">14</container>
+<container parent="cid10098046" type="Folder">8</container>
+<unitdate normal="1955/1955">1955.</unitdate>
+</did>
+</c03>
+<c03 id="ref226" level="file">
+<did>
+<unittitle>Westwood Photographs: Architecture.</unittitle>
+<container id="cid10098047" type="Box">14</container>
+<container parent="cid10098047" type="Folder">9</container>
+<unitdate normal="1990/1990">circa 1990s.</unitdate>
+</did>
+<scopecontent id="ref234">
+<head>Scope and Content</head>
+<p>Contains 35mm negatives.</p>
+</scopecontent>
+</c03>
+<c03 id="ref227" level="file">
+<did>
+<unittitle>Westwood Photographs: Historical Society Slide Show I.</unittitle>
+<container id="cid10098048" type="Box">14</container>
+<container parent="cid10098048" type="Folder">10</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref235">
+<head>Scope and Content</head>
+<p>Contains 35mm positive film.</p>
+</scopecontent>
+</c03>
+<c03 id="ref228" level="file">
+<did>
+<unittitle>Westwood Photographs: Historical Society Slide Show II.</unittitle>
+<container id="cid10098049" type="Box">14</container>
+<container parent="cid10098049" type="Folder">11</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref236">
+<head>Scope and Content</head>
+<p>Contains 35mm positive film.</p>
+</scopecontent>
+</c03>
+<c03 id="ref229" level="file">
+<did>
+<unittitle>Westwood Photographs: Copies from UCLA Collection.</unittitle>
+<container id="cid10098050" type="Box">14</container>
+<container parent="cid10098050" type="Folder">12</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref230" level="file">
+<did>
+<unittitle>Westwood Photographs: Westwood Photos with captions.</unittitle>
+<container id="cid10098051" type="Box">14</container>
+<container parent="cid10098051" type="Folder">13</container>
+<unitdate>undated.</unitdate>
+</did>
+</c03>
+<c03 id="ref254" level="file">
+<did>
+<unittitle>Westwood Photographs: Westwood and Los Angeles Homes.</unittitle>
+<container id="cid10098069" type="Box">19</container>
+<container parent="cid10098069" type="Folder">1</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref255">
+<head>Scope and Content</head>
+<p>Contains 35mm negatives.</p>
+</scopecontent>
+</c03>
+<c03 id="ref274" level="file">
+<did>
+<unittitle>Westwood Photographs: Oversize prints.</unittitle>
+<container id="cid10098085" type="Box">27</container>
+<unitdate normal="1930/1940" type="inclusive">circa 1930s - 1940s.</unitdate>
+</did>
+</c03>
+<c03 id="ref275" level="file">
+<did>
+<unittitle>Westwood Photographs: Negatives and contact prints.</unittitle>
+<container id="cid10098086" type="Box">28</container>
+<unitdate normal="1920/1950" type="inclusive">circa 1920s - 1950s.</unitdate>
+</did>
+<scopecontent id="ref276">
+<head>Scope and Content</head>
+<p>Contains medium format film negatives.</p>
+</scopecontent>
+</c03>
+</c02>
+<c02 id="ref291" level="subseries">
+<did>
+<unittitle>Oral Histories.</unittitle>
+<unitdate normal="1989/2000" type="inclusive">1989 - 2000.</unitdate>
+</did>
+<scopecontent id="ref325">
+<head>Scope and Content</head>
+<p>The oral histories in this subseries were recorded interviews conducted by the WHHS between the years of 1989 and 1992. Also included is a two volume bound transcript of separate interviews conducted by the UCLA Center for Oral History Research.</p>
+</scopecontent>
+<phystech id="ref305">
+<head>Physical Characteristics and Technical Requirements</head>
+<p>SUBSERIES CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
+</phystech>
+<c03 id="ref277" level="file">
+<did>
+<unittitle>Oral Histories: Rowe Baldwin Interview.</unittitle>
+<container id="cid10098087" type="Box">28</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+<scopecontent id="ref278">
+<head>Scope and Content</head>
+<p>Contains three cassette tapes.</p>
+</scopecontent>
+</c03>
+<c03 id="ref279" level="file">
+<did>
+<unittitle>Oral Histories: KSRF Interview on Westwood 60th Anniversary.</unittitle>
+<container id="cid10098088" type="Box">28</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+<scopecontent id="ref280">
+<head>Scope and Content</head>
+<p>Contains one cassette tape.</p>
+</scopecontent>
+</c03>
+<c03 id="ref282" level="file">
+<did>
+<unittitle>Oral Histories: Mabel Jellison Burbank.</unittitle>
+<container id="cid10098090" type="Box">28</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+<scopecontent id="ref283">
+<head>Scope and Content</head>
+<p>Contains two micro cassettes.</p>
+</scopecontent>
+</c03>
+<c03 id="ref281" level="file">
+<did>
+<unittitle>Oral Histories: Greg Fischer and Rubi Chatalian Interviews.</unittitle>
+<container id="cid10098089" type="Box">28</container>
+<unitdate>undated.</unitdate>
+</did>
+<scopecontent id="ref316">
+<head>Scope and Content</head>
+<p>Contains one cassette tape.</p>
+</scopecontent>
+</c03>
+<c03 id="ref231" level="file">
+<did>
+<unittitle>Oral Histories: Westwood Past Present and Future.</unittitle>
+<container id="cid10098052" type="Box">14</container>
+<container parent="cid10098052" type="Folder">14</container>
+<unitdate normal="1990/1990">November 14, 1990.</unitdate>
+</did>
+<scopecontent id="ref233">
+<head>Scope and Content</head>
+<p>Contains one VHS tape.</p>
+</scopecontent>
+</c03>
+<c03 id="ref238" level="file">
+<did>
+<unittitle>Oral Histories: Westwood Pioneers Volume 1, Volume 2.</unittitle>
+<container id="cid10098053" type="Box">15</container>
+<unitdate normal="2000/2000">2000.</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
