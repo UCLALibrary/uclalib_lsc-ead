@@ -1,155 +1,67 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-<eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://oac.cdlib.org/findaid/ark:/13030/c8rb795d/">hicks2238.xml</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Frederic Hicks papers, 1955-2012
-</titleproper>
-<titleproper type="filing">Hicks (Frederic) papers</titleproper>
-<author>Finding aid prepared by Melanie Jones, May 2016; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA, 90095-1575</addressline>
-<addressline>(310) 825-4988</addressline>
-<addressline>spec-coll@library.ucla.edu</addressline>
-</address>
-<date>This finding aid was last updated on 10 June 2016.</date>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>This finding aid was produced using the Archivists' Toolkit
-<date>2016-06-10T11:32-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
-</creation>
-<langusage>English.</langusage>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<unittitle>Frederic Hicks papers</unittitle>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2238</unitid>
-<repository>
-<corpname>UCLA Library Special Collections</corpname>
-</repository>
-<langmaterial>
-<language langcode="eng"/>
-</langmaterial>
-<physdesc>
-<extent>7.0 linear ft.</extent>
-<extent>(7 carton boxes)</extent>
-</physdesc>
-<unitdate normal="1955/2012" type="inclusive">1955-2012</unitdate>
-<abstract id="ref13" label="Abstract">This collection documents the activities and writings of Frederic Hicks. Hicks was a distinguished scholar of Mesoamerican ethnohistory and anthropology. The collection chronicles Hicks' work at Cerro Portezuelo, his editing of the Codex Vergara, and his professional life at the University of Louisville.</abstract>
-<langmaterial id="ref14" label="Language of Materials">Materials are primarily in English and Spanish, with some materials in German.</langmaterial>
-<physloc id="ref15" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-<origination label="Creator">
-<persname rules="aacr" source="naf">Hicks, Frederic, 1928-</persname>
-</origination>
-</did>
-<accessrestrict id="ref16">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict id="ref17">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<prefercite id="ref18">
-<head>Preferred Citation</head>
-<p>[Identification of item], Frederic Hicks Papers (Collection 2238). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
-</prefercite>
-<odd id="ref31">
-<head>UCLA Catalog Record ID</head>
-<p>UCLA Catalog Record ID: 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7858003">7858003</extref></p>
-</odd>
-<acqinfo id="ref23">
-<head>Provenance/Source of Acquisition</head>
-<p>Gift of Estate of Fred Hicks, 2014.</p>
-</acqinfo>
-<processinfo id="ref25">
-<head>Processing Information</head>
-<p>Processed by Melanie Jones in May 2016 under the supervision of Courtney Dean in the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/special-collections/at-this-location/center-primary-research-training-cfprt">Center for Primary Research and Training (CFPRT)</extref>.</p>
-</processinfo>
-<bioghist id="ref28">
-<head>Biography/History</head>
-<p>Frederic Hicks was a distinguished scholar of Mesoamerican ethnohistory and anthropology. He was born in New Orleans on January 7, 1928, and was raised in Connecticut. After completing his Bachelors in Anthropology at the University of New Mexico, he earned his Ph.D. at UCLA, working on George Brainerd’s archaeological project at Cerro Portezuelo, Mexico and coauthoring “The Transition from Classic to Postclassic at Cerro Portezuelo” with H.B. Nicholson in 1962. He then received a Fulbright teaching grant to study and work in Paraguay for three years.</p>
-<p>In 1965, Hicks began teaching at the University of Louisville, eventually becoming Chair of the Anthropology Department. He was very active in the local progressive social justice community, alongside his wife Dr. Judith Joel. Hicks made fundamental contributions to anthropological understandings of pre-Columbian Aztec society, including the nature of taxation, tribute, and labor organization, the political dynamics of local and imperial organizations, and the social organization and economic stratification of the empire. He served as President and Chair of the Robert F. Heizer Prize Committee for the American Society for Ethnohistory, as well as organizing numerous conference sessions and symposia on Anthropology and Ethnohistory.</p>
-<p>After his retirement, Hicks returned to his research on Cerro Portezuelo, hoping to complete a book on the project. His most recent article about the site’s architecture was published in Ancient Mesoamerica shortly before his death. He also co-edited an annotated facsimile edition of the Codex Vergara, an Aztec cadastral document drawn up by the Spanish conquerors of Mexico. The project reflects his decades of experience in Mexican archives, his deep knowledge of anthropology and ethnohistorical literature, and extensive personal collection of source materials.</p>
-<p>Frederic Hicks participated in trips to China, Cuba, Iran, Tibet, Nepal and Bhutan after his retirement, continuing to research and write academically almost until his last hour. He died July 9, 2013 in Louisville at age 85, after being diagnosed with lung cancer.</p>
-</bioghist>
-<scopecontent id="ref29">
-<head>Scope and Content</head>
-<p>The collection spans 1955 to 2012, with the bulk of materials coming from 1960 to 1990. The collection documents Hicks’ decades of experience in Mexican archives, his deep knowledge of anthropology and ethnohistorical literature, and his extensive personal collection of source materials, as well as his contributions to anthropological understandings of pre-Columbian Aztec society.</p>
-<p>Materials are largely textual, comprising research files, correspondence, article manuscripts, and field notes. Among other formats are photographs and illustrations. Also included is a file from Hicks’ executrix, with local obituaries and Hicks’ most recent CV. Some of the significant organizations and topics represented in these files are: the American Society for Ethnohistory, the University of California, Los Angeles, the University of Louisville, the American Civil Liberties Union of Kentucky, Cerro Portezuelo, the Codex Vergara, and the Aztec Empire.</p>
-</scopecontent>
-<arrangement id="ref30">
-<head>Organization and Arrangement</head>
-<p>This collection has been arranged in the following series: 
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-partial-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c8rb795d/">hick2238.xml</eadid><filedesc><titlestmt><titleproper type="filing">Hicks (Frederic) papers</titleproper><titleproper>Finding aid for the Frederic Hicks papers, 1955-2012 <num>LSC.2238</num></titleproper><author>Melanie Jones, May 2016; machine-readable finding aid prepared by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>This finding aid was last updated on 10 June 2016.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-11-07 14:22:21 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Frederic Hicks papers</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Hicks, Frederic</persname>
+    </origination>
+    <origination label="source">
+      <persname role="dnr" rules="local" source="local">Portugal, Joy, Exectrix, Estate of Frederic N. Hicks</persname>
+    </origination>
+    <unitid>LSC.2238</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">7 linear feet</extent>
+      <extent altrender="carrier">(7 boxes)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2 linear feet</extent>
+      <extent altrender="carrier">(2 unprocessed boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1955/2012" type="inclusive">1955-2012</unitdate>
+    <abstract id="aspace_ce3d09a4f98ce1f32032364e992ec6c8" label="Abstract">This collection documents the activities and writings of Frederic Hicks. Hicks was a distinguished scholar of Mesoamerican ethnohistory and anthropology. The collection chronicles Hicks' work at Cerro Portezuelo, his editing of the Codex Vergara, and his professional life at the University of Louisville.</abstract>
+    <physloc id="aspace_29d0a2eae73157ca148a144113918ac8" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_b2b79252728fe8cb58cfed4c8414a060">Materials are primarily in English and Spanish, with some materials in German, Dutch, and Italian.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_d5074bd0d5d1deb4c0e18671fa66c394">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_f17d30cf2f5c0500fb69908e35be19d1">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_b36f3d84efe95ba7de3b282940516fdf">
+    <head>Provenance/Source of Acquisition</head>
+<p>Gift of Estate of Fred Hicks, 2014.</p>  </acqinfo>
+  <odd id="aspace_5248cf3d7ad4e6a99ba05ed778f69334">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9978580033606533">9978580033606533</extref></p>  </odd>
+  <prefercite id="aspace_01b96dcb60a5cf5f7d9ffa0c598b3f73">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Frederic Hicks Papers (Collection 2238). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_971e1a4bad740a324efb7215c4d6a5d5">
+    <head>Processing Information</head>
+<p>Processed by Melanie Jones under the supervision of Courtney Dean in the <extref xlink:href="http://www.library.ucla.edu/special-collections/at-this-location/center-primary-research-training-cfprt" xlink:actuate="onRequest" xlink:show="new">Center for Primary Research and Training (CFPRT)</extref>, 2016.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_5a59b765d29c573a1b78ea36428cf763">
+    <head>Biography/History</head>
+<p>Frederic Hicks was a distinguished scholar of Mesoamerican ethnohistory and anthropology. He was born in New Orleans on January 7, 1928, and was raised in Connecticut. After completing his Bachelors in Anthropology at the University of New Mexico, he earned his Ph.D. at UCLA, working on George Brainerd's archaeological project at Cerro Portezuelo, Mexico and coauthoring "The Transition from Classic to Postclassic at Cerro Portezuelo" with H.B. Nicholson in 1962. He then received a Fulbright teaching grant to study and work in Paraguay for three years.</p><p>In 1965, Hicks began teaching at the University of Louisville, eventually becoming Chair of the Anthropology Department. He was very active in the local progressive social justice community, alongside his wife Dr. Judith Joel. Hicks made fundamental contributions to anthropological understandings of pre-Columbian Aztec society, including the nature of taxation, tribute, and labor organization, the political dynamics of local and imperial organizations, and the social organization and economic stratification of the empire. He served as President and Chair of the Robert F. Heizer Prize Committee for the American Society for Ethnohistory, as well as organizing numerous conference sessions and symposia on Anthropology and Ethnohistory.</p><p>After his retirement, Hicks returned to his research on Cerro Portezuelo, hoping to complete a book on the project. His most recent article about the site's architecture was published in Ancient Mesoamerica shortly before his death. He also co-edited an annotated facsimile edition of the Codex Vergara, an Aztec cadastral document drawn up by the Spanish conquerors of Mexico. The project reflects his decades of experience in Mexican archives, his deep knowledge of anthropology and ethnohistorical literature, and extensive personal collection of source materials.</p><p>Frederic Hicks participated in trips to China, Cuba, Iran, Tibet, Nepal and Bhutan after his retirement, continuing to research and write academically almost until his last hour. He died July 9, 2013 in Louisville at age 85, after being diagnosed with lung cancer.</p>  </bioghist>
+  <scopecontent id="aspace_ea236070df914bde3171135c2d252022">
+    <head>Scope and Content</head>
+<p>The collection spans 1955 to 2012, with the bulk of materials coming from 1960 to 1990. The collection documents Hicks' decades of experience in Mexican archives, his deep knowledge of anthropology and ethnohistorical literature, and his extensive personal collection of source materials, as well as his contributions to anthropological understandings of pre-Columbian Aztec society.</p><p>Materials are largely textual, comprising research files, correspondence, article manuscripts, and field notes. Among other formats are photographs and illustrations. Also included is a file from Hicks' executrix, with local obituaries and Hicks' most recent CV. Some of the significant organizations and topics represented in these files are: the American Society for Ethnohistory, the University of California, Los Angeles, the University of Louisville, the American Civil Liberties Union of Kentucky, Cerro Portezuelo, the Codex Vergara, and the Aztec Empire. </p>  </scopecontent>
+  <arrangement id="aspace_395faec6a5f6c3d157a4c2947ab79fc7">
+    <head>Organization and Arrangement</head>
+<p>This collection has been arranged in the following series:
 <list type="simple">
 <item>Series 1: Cerro Portezuelo (1960-2012)</item>
 <item>Series 2: Codex Vergara (2003-2012)</item>
 <item>Series 3: Personal and Professional Correspondence (1955-2012)</item>
 <item>Series 4: Field Notebooks and Journals (1958-2010)</item>
-</list></p>
-<p>The collection has been organized at the box level.</p>
-</arrangement>
-<controlaccess>
-<persname rules="aacr" source="naf">Hicks, Frederic, 1928- -- Archives</persname>
-</controlaccess>
-<dsc type="in-depth">
-<head>Container List</head>
-<c01 id="ref1" level="series">
-<did>
-<unittitle>Cerro Portezuelo Research Files.</unittitle>
-<container id="cid10187001" type="Boxes">1-2</container>
-<unitdate normal="1960/2012" type="inclusive">1960-2012.</unitdate>
-</did>
-<scopecontent id="ref5">
-<head>Scope and Content</head>
-<p>Contains Hicks’ work at the Cerro Portezuelo excavations as a UCLA graduate student, and his work after his retirement to compile the results of those findings into further academic publications. Significant topics and persons include the Aztec empire, Central Mexican artifacts, Lake Texcoco, Teotihuacan, George Brainerd, and H.B. Nicholson.</p>
-</scopecontent>
-</c01>
-<c01 id="ref2" level="series">
-<did>
-<unittitle>Codex Vergara Research Files.</unittitle>
-<container id="cid10187002" type="Box">3</container>
-<unitdate normal="2003/2012" type="inclusive">2003-2012.</unitdate>
-</did>
-<scopecontent id="ref7">
-<head>Scope and Content</head>
-<p>Contains Hicks’ work on the annotated facsimile edition of 
-<emph render="italic">El Códice Vergara: edición facsimilar con comentario: pintura indígena de casas, campos y organización social de Tepetlaoztoc a mediados del siglo XVI</emph> with Barbara Williams, including research notes, manuscript drafts, and correspondence between the two co-editors. Significant topics include the Kingdom of Acolhuacan, the Aztec empire, the economic and social structures of Tepetlaoztoc, and El Centro de Investigaciones y Estudios Superiores en Anthropologia Social.</p>
-</scopecontent>
-</c01>
-<c01 id="ref3" level="series">
-<did>
-<unittitle>Personal and Professional Correspondence.</unittitle>
-<container id="cid10187003" type="Boxes">4-6</container>
-<unitdate normal="1955/2012" type="inclusive">1955-2012.</unitdate>
-</did>
-<scopecontent id="ref9">
-<head>Scope and Content</head>
-<p>Contains Hicks’ personal and professional correspondence, largely with colleagues in anthropology, ethnohistory, and archaeology, as well as letters of recommendation. Significant topics include Congreso International de Americanistas, the International Congress of Anthropological and Ethnological Sciences, Chiapa de Corzo, the Codex Vergara, Cerro Portezuelo, the University of Louisville Anthropology Department, the American Anthropological Association, Hicks’ service in the Korean War, and his Global Exchange trip to Iran.</p>
-</scopecontent>
-</c01>
-<c01 id="ref4" level="series">
-<did>
-<unittitle>Field Notebooks and Journals.</unittitle>
-<container id="cid10187004" type="Box">7</container>
-<unitdate normal="1958/2010" type="inclusive">1958-2010.</unitdate>
-</did>
-<scopecontent id="ref11">
-<head>Scope and Content</head>
-<p>Contains Hicks’ personal journals, excavation field notes, artifact catalogues, and maps from his work in Mesoamerica, as well as language and pronunciation practice notes from his travels to Asia. Significant topics and areas include Cerro Portezuelo, Cacaxtla, Tlaxcala, Tepetlaoxtoc, Santa Catarina, UCLA Paipai Project, and the Codex Vergara.</p>
-</scopecontent>
-</c01>
-</dsc>
+</list></p><p>The collection has been organized at the box level.</p>  </arrangement>
+  <controlaccess>
+    <persname rules="aacr" source="naf">Hicks, Frederic -- Archives</persname>
+    <persname role="dnr" rules="local" source="local">Portugal, Joy, Exectrix, Estate of Frederic N. Hicks</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref1_ify" level="series"><did><unittitle>Cerro Portezuelo Research Files</unittitle><unitdate datechar="creation" normal="1960/2012" type="inclusive">1960-2012</unitdate><container id="aspace_2671b9dcd5683d517514e0f39f03d76e" label="Mixed Materials" type="box">1</container><container id="aspace_5ae733d684fc70fcab811d234dd5f236" label="Mixed Materials" type="box">2</container></did><scopecontent id="aspace_91c1178af6056b3bc684bd7fa5de3acc"><head>Scope and Content</head><p>Contains Hicks' work at the Cerro Portezuelo excavations as a UCLA graduate student, and his work after his retirement to compile the results of those findings into further academic publications. Significant topics and persons include the Aztec empire, Central Mexican artifacts, Lake Texcoco, Teotihuacan, George Brainerd, and H.B. Nicholson.</p></scopecontent></c01><c01 id="aspace_ref2_95d" level="series"><did><unittitle>Codex Vergara Research Files</unittitle><unitdate datechar="creation" normal="2003/2012" type="inclusive">2003-2012</unitdate><container id="aspace_ebd256f8fb0ea084e4fef1614d1d56de" label="Mixed Materials" type="box">3</container></did><scopecontent id="aspace_9c0be171ec4ec27409f7db5790dbf722"><head>Scope and Content</head><p>Contains Hicks' work on the annotated facsimile edition of <emph render="italic">El Códice Vergara: edición facsimilar con comentario: pintura indígena de casas, campos y organización social de Tepetlaoztoc a mediados del siglo XVI</emph> with Barbara Williams, including research notes, manuscript drafts, and correspondence between the two co-editors. Significant topics include the Kingdom of Acolhuacan, the Aztec empire, the economic and social structures of Tepetlaoztoc, and El Centro de Investigaciones y Estudios Superiores en Anthropologia Social.</p></scopecontent></c01><c01 id="aspace_ref3_wsy" level="series"><did><unittitle>Personal and Professional Correspondence</unittitle><unitdate datechar="creation" normal="1955/2012" type="inclusive">1955-2012</unitdate><container id="aspace_44ee44e37e040510c9f71e492edb313c" label="Mixed Materials" type="box">4</container><container id="aspace_22d118675c9f00584d95703aa337e008" label="Mixed Materials" type="box">5</container><container id="aspace_acc7ffa22993fb694e12e849084986a3" label="Mixed Materials" type="box">6</container></did><scopecontent id="aspace_995cf674ecc6600af89e33516d641965"><head>Scope and Content</head><p>Contains Hicks' personal and professional correspondence, largely with colleagues in anthropology, ethnohistory, and archaeology, as well as letters of recommendation. Significant topics include Congreso International de Americanistas, the International Congress of Anthropological and Ethnological Sciences, Chiapa de Corzo, the Codex Vergara, Cerro Portezuelo, the University of Louisville Anthropology Department, the American Anthropological Association, Hicks' service in the Korean War, and his Global Exchange trip to Iran.</p></scopecontent></c01><c01 id="aspace_ref4_i0y" level="series"><did><unittitle>Field Notebooks and Journals</unittitle><unitdate datechar="creation" normal="1958/2010" type="inclusive">1958-2010</unitdate><container id="aspace_c19a91367477ddccb98d47a971e1fcad" label="Mixed Materials" type="box">7</container></did><scopecontent id="aspace_8175df551e2385e7a902024dd72a9fe7"><head>Scope and Content</head><p>Contains Hicks' personal journals, excavation field notes, artifact catalogues, and maps from his work in Mesoamerica, as well as language and pronunciation practice notes from his travels to Asia. Significant topics and areas include Cerro Portezuelo, Cacaxtla, Tlaxcala, Tepetlaoxtoc, Santa Catarina, UCLA Paipai Project, and the Codex Vergara.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
