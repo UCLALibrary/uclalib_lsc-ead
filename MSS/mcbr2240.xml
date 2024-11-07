@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC">mcbr2240.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>George McCutchen McBride papers, 1942-1949 [bulk dates 1906-1952]
+</titleproper>
+<titleproper type="filing">McBride (George M.) papers</titleproper>
+<author>Finding aid prepared by Mitchell Erzinger, April 2014; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©2015 The Regents of the University of California. All rights reserved.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2015-05-19T12:26-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<langusage>Description is in 
+<language>English.</language></langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>George McCutchen McBride papers</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2240</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>3.5 linear ft.</extent>
+<extent>(1 oversize box, 3 oversize boxed rolls, 7 map folders)</extent>
+</physdesc>
+<unitdate normal="1942/1952" type="inclusive">1942-1949 [bulk dates 1906-1952]</unitdate>
+<abstract id="ref2" label="Abstract">George McBride was the chair of the Geography department at UCLA from 1923 until 1942, subsequently serving in South America as the Technical Advisor to the Ecuador-Peru Mixed Boundary Demarcation Commission from 1942-1949. The collection is comprised of materials created and compiled by McBride during his tenure on the boundary commission, in which he followed closely the activities of the commission while reporting directly to the Secretary of State on the border demarcation process.</abstract>
+<physloc id="ref3" label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+<origination label="Creator">
+<persname source="ingest">McBride, George McCutchen, 1876-1971</persname>
+</origination>
+</did>
+<accessrestrict id="ref4">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</p>
+</accessrestrict>
+<userestrict id="ref5">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo id="ref6">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Professor George M. McBride, 19 March 1956.</p>
+</acqinfo>
+<processinfo id="ref7">
+<head>Processing Note</head>
+<p>Processed by Mitchell Erzinger, April 2014.</p>
+</processinfo>
+<prefercite id="ref8">
+<head>Preferred Citation</head>
+<p>[Identification of item], George McCutchen McBride Papers (Collection 2240). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+</prefercite>
+<bioghist id="ref9">
+<head>Biography</head>
+<p>Dr. George McCutchen McBride was born on October 11, 1876 in Benton, Kansas. Graduating from Park College Academy and Park College in Parkville, Missouri, he went on to receive a D.D. from Auburn Theological Seminary in New York, subsequently beginning the first phase of his career as a missionary teacher in South America from 1901-1915, where he taught in high schools in Santiago, Chile and La Paz, Bolivia. During this time, McBride achieved fluency in Spanish and began to develop his ideals and interests through a firsthand understanding of traditional rural and urban life across the economic, social, and political strata.</p>
+<p>McBride returned to the United States in 1915 to pursue graduate work in geography at Yale, becoming an Assistant Librarian and Research Associate for the American Geographical Society in 1917, and receiving his Ph.D. in Geography from Yale in 1921 with a dissertation on the "Land Systems of Mexico." In 1922, McBride accepted a position in the Geography department at UCLA (then still named the University of California, Southern Branch). Integral to its expansion, he served as chairman of the department from 1923 until 1942, at which point he was called to serve as the United States technical advisor to the Ecuador-Peru Mixed Boundary Demarcation Commission until 1949. In this role, he followed closely the activities of the commission, preparing multiple reports for the US Department of State on the progress of the border demarcation, in addition to supervising the aerial photography of the border line conducted by the US Army Air Force.</p>
+<p>In 1956, McBride was awarded for his work in South America by the American Geographical Society with the David Livingstone Centenary Medal for "scientific achievement in the field of geography in the southern hemisphere." In 1961, he was awarded an honorary doctor of law degree from the University of California, Los Angeles. George McBride died in Claremont, California on October 7, 1971, just shy of his 95th birthday. His scholarly publications and journal articles have since appeared in print in both English and Spanish, and are recognized as classics in the field.</p>
+</bioghist>
+<bioghist id="ref10">
+<head>Historical Note</head>
+<p>The border conflict between Ecuador and Peru was one of the longest running border conflicts in the Western Hemisphere, rooted in the imprecise borders and shifting territories of viceroyalties and administrative districts during the Spanish colonization that had begun in the 16th century. After a broad series of disputes, major escalation of the conflict occurred in 1941 when Peru invaded Ecuador after alleging that Ecuador had incurred on Peruvian territory, resulting in the Ecuadorian-Peruvian War from July 5-31. A cease fire was subsequently agreed upon, and on January 29, 1942, the Protocol of Peace, Friendship, and Boundaries - also known as the Rio Protocol - was ratified in Rio de Janeiro, formally addressing the border dispute between Ecuador and Peru. The treaty designated a mixed boundary commission comprised of representatives from both countries, in addition to representatives from the governments of Argentina, Brazil, Chile, and the United States - mediating parties tasked with being the guarantors of the treaty - to collaborate as needed to resolve disagreements during the boundary demarcation process.</p>
+<p>Mapping of the Ecuador-Peru border was completed in 1947, and was met with near unanimous approval from both Ecuador and Peru. However, in 1948, the government of Ecuador cited a geographical error in the Rio Protocol, wherein a single watershed between the Zamora and Santiago rivers in the Cordillera del Condor region was identified, when in fact the geographical surveys had revealed two watersheds. This nullity thesis reopened Ecuador's aspirations for a sovereign outlet to the Amazon, and in turn reignited the border conflict over the subsequent decades, culminating in a month-long military clash in January 1995 known as the Cenepa War. In February 1995, a cease-fire - the Declaracion de Paz de Itamaraty - was produced, providing for demobilization and continued bilateral talks between Ecuador and Peru and the guarantor states of the Rio Protocol. The result was a definitive peace agreement, the Brasilia Presidential Act, ratified on 26 October 1998.</p>
+</bioghist>
+<scopecontent id="ref11">
+<head>Scope and Content</head>
+<p>The collection is comprised of materials created and compiled during the period of McBride's service in South America from 1942-1949 as the technical advisor to the Ecuador-Peru Mixed Boundary Demarcation Commission, as put into place by the Rio Protocol. The material includes copies of the final report to the Secretary of State as prepared by George McBride, notes, periodic reports, and supplemental research materials such as article clippings and publications used during demarcation and in the drafting of the final report, in addition to official memorandums and McBride's professional correspondences with the Department of State and various members of the boundary commission. Also included are a variety of maps utilized in and produced during the demarcation process, comprised of general, political, and topographic maps, aeronautical charts and detail sketches, aerial photography and maps of the border region conducted and prepared by the US Army Air Force, and McBride's own holograph maps and sketches. Collection material is in English and Spanish.</p>
+</scopecontent>
+<arrangement id="ref12">
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: 
+<list numeration="arabic" type="ordered">
+<item>Clippings collected by McBride</item>
+<item>Correspondence</item>
+<item>Maps</item>
+<item>Memoranda</item>
+<item>Notes and Research</item>
+<item>Photographs</item>
+<item>Posters</item>
+<item>Reports</item>
+</list></p>
+<p>The collection is organized by type of material and chronology. Box/folder contents and titles from boxes 1-7 are taken from McBride's original description and personal organization of the material, indicated by quotations. Alternate arrangements and titles/additions from the processor are denoted in brackets. Maps have been separated and ordered based on size and/or production, where applicable. The following is a summary of container contents: 
+<list type="simple">
+<item>Box 1: Final Report to the Secretary of State on the Ecuador-Peru Boundary dispute.</item>
+<item>Box 2: Bibliographic cards, notes, reports, memos, correspondence and other research materials applicable to the boundary commission, written and/or collected by McBride for the preparation of the Final Report.</item>
+<item>Box 3: Official memorandums and related documents from the Technical Advisor to the Ambassador and other officials of the demarcation commission.</item>
+<item>Box 4: Official correspondence of George McBride, including letters sent and received from 1942-1949.</item>
+<item>Box 5: Notes, clippings, memos, reports and publications related to the Ecuador-Peru boundary dispute, including aerial survey notes and maps.</item>
+<item>Box 6: Reports and publications from the Republic of Ecuador, Peru, and neutral military parties regarding the Ecuador-Peru boundary.</item>
+<item>Box 7: Clippings collected by McBride regarding the Ecuador-Peru boundary dispute, from 1942-1944.</item>
+<item>Box 8: Aerial trimetrogon photography of the Ecuador-Peru border region conducted by the US Army Air Force.</item>
+<item>Box 9: Graphic posters from Ecuador and Peru.</item>
+<item>Box 10-18: Maps.</item>
+</list></p>
+</arrangement>
+<separatedmaterial id="ref13">
+<head>Items Removed from the Collection</head>
+<p>One poster - Newsmap for the Armed Forces, Overseas edition, from 1945 - has been removed to the Poster Collection (Collection Number 95), as it remains contextually and thematically unassociated with the rest of the content in this collection.</p>
+</separatedmaterial>
+<odd id="ref214">
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7414610">7414610</extref></p>
+</odd>
+<controlaccess>
+<genreform source="rbgenr">Aerial views.</genreform>
+<subject source="lcsh">Boundary disputes-20th century.</subject>
+<geogname source="lcnaf">Condor Range (Ecuador and Peru)</geogname>
+<subject source="lcsh">Ecuador-Peru Conflict, 1941</subject>
+<subject source="lcsh">Geography</subject>
+<geogname source="lcnaf">Latin America-Boundaries.</geogname>
+<genreform source="rbgenr">Maps.</genreform>
+<genreform source="rbgenr">Newspapers.</genreform>
+<genreform source="rbgenr">Photographs.</genreform>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref193" level="series">
+<did>
+<unittitle>Reports</unittitle>
+</did>
+<c02 id="ref194" level="file">
+<did>
+<unittitle>"Original Copies" [Incomplete copies of Final Report to the Secretary of State, with corrections]</unittitle>
+<container id="cid9273011" type="Box">1</container>
+<container parent="cid9273011" type="Folder">1</container>
+</did>
+<scopecontent id="ref195">
+<p>Typed and holograph copies with corrections.</p>
+</scopecontent>
+</c02>
+<c02 id="ref196" level="file">
+<did>
+<unittitle>"Incomplete copy of Report by G.M. McBride" [Incomplete copy of Final Report to the Secretary of State]</unittitle>
+<container id="cid9273010" type="Box">1</container>
+<container parent="cid9273010" type="Folder">2</container>
+</did>
+</c02>
+<c02 id="ref197" level="file">
+<did>
+<unittitle>"Complete copy (except for one penciled change)" [Copy of Final Report to the Secretary of State]</unittitle>
+<container id="cid9273009" type="Box">1</container>
+<container parent="cid9273009" type="Folder">3</container>
+</did>
+</c02>
+<c02 id="ref198" level="file">
+<did>
+<unittitle>[Final Report to the Secretary of State on Ecuador-Peru Boundary Settlement]</unittitle>
+<container id="cid9273008" type="Box">1</container>
+<container parent="cid9273008" type="Folder">4</container>
+</did>
+<scopecontent id="ref199">
+<p>Copy originally bound in black binder dated 3-3-52.</p>
+</scopecontent>
+</c02>
+<c02 id="ref200" level="file">
+<did>
+<unittitle>"Reports 1-6 of Technical Advisor [George McBride] on Ecuadoran-Peruvian Boundary, 14 July 1942 - 23 Aug 1945"</unittitle>
+<container id="cid9273007" type="Box">3</container>
+<container parent="cid9273007" type="Folder">8</container>
+</did>
+<scopecontent id="ref201">
+<p>Typed reports with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref202" level="file">
+<did>
+<unittitle>[General Report of neutral military observers on the Ecuadorian side, from the initiation of hostilities to the ratification of the Rio Protocol]</unittitle>
+<container id="cid9273006" type="Box">6</container>
+<container parent="cid9273006" type="Folder">1</container>
+</did>
+<scopecontent id="ref203">
+<p>Typed reports in Spanish, dated 1941-1942.</p>
+</scopecontent>
+</c02>
+<c02 id="ref204" level="file">
+<did>
+<unittitle>Asuntos Internacionales [International Affairs], 1943-44</unittitle>
+<container id="cid9273005" type="Box">6</container>
+<container parent="cid9273005" type="Folder">2</container>
+</did>
+<scopecontent id="ref205">
+<p>Typed reports on International affairs, from the Republic of Ecuador.</p>
+</scopecontent>
+</c02>
+<c02 id="ref206" level="file">
+<did>
+<unittitle>Asuntos Internacionales [International Affairs], Jan 1944 - Sep 1944</unittitle>
+<container id="cid9273004" type="Box">6</container>
+<container parent="cid9273004" type="Folder">3</container>
+</did>
+<scopecontent id="ref207">
+<p>Typed reports on International affairs, from the Republic of Ecuador.</p>
+</scopecontent>
+</c02>
+<c02 id="ref208" level="file">
+<did>
+<unittitle>Asuntos Internacionales [International Affairs], Oct 1944 - Nov 1944</unittitle>
+<container id="cid9273003" type="Box">6</container>
+<container parent="cid9273003" type="Folder">4</container>
+</did>
+<scopecontent id="ref209">
+<p>Typed reports on International affairs, from the Republic of Ecuador.</p>
+</scopecontent>
+</c02>
+<c02 id="ref210" level="file">
+<did>
+<unittitle>Asuntos Internacionales [International Affairs], 1945</unittitle>
+<container id="cid9273002" type="Box">6</container>
+<container parent="cid9273002" type="Folder">5</container>
+</did>
+<scopecontent id="ref211">
+<p>Typed reports on International affairs, from the Republic of Ecuador.</p>
+</scopecontent>
+</c02>
+<c02 id="ref212" level="file">
+<did>
+<unittitle>Boletin Informativo. [Quito, Ecuador publication 1945-46]</unittitle>
+<container id="cid9273001" type="Box">6</container>
+<container parent="cid9273001" type="Folder">6</container>
+</did>
+<scopecontent id="ref213">
+<p>Bulletin of the external relations office, Republic of Ecuador.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref104" level="series">
+<did>
+<unittitle>Notes and research</unittitle>
+</did>
+<c02 id="ref105" level="file">
+<did>
+<unittitle>[Bibliographic cards]</unittitle>
+<container id="cid9273054" type="Box">2</container>
+<container parent="cid9273054" type="Folder">1</container>
+</did>
+<scopecontent id="ref106">
+<p>Catalog cards of McBride's personal research materials and references.</p>
+</scopecontent>
+</c02>
+<c02 id="ref107" level="file">
+<did>
+<unittitle>"Final Report - additions, etc."</unittitle>
+<container id="cid9273053" type="Box">2</container>
+<container parent="cid9273053" type="Folder">2</container>
+</did>
+<scopecontent id="ref108">
+<p>Typed and holograph notes for additions to the Final Report.</p>
+</scopecontent>
+</c02>
+<c02 id="ref109" level="file">
+<did>
+<unittitle>"Final Report - Status Quo 1936"</unittitle>
+<container id="cid9273052" type="Box">2</container>
+<container parent="cid9273052" type="Folder">3</container>
+</did>
+<scopecontent id="ref110">
+<p>Typed and holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref111" level="file">
+<did>
+<unittitle>"Final Report - Demarcation (Desacuerdo)"</unittitle>
+<container type="Box">2</container>
+<container id="cid9273051" type="Folder">4</container>
+</did>
+<scopecontent id="ref112">
+<p>Typed and holograph notes, including holograph maps, assorted clippings.</p>
+</scopecontent>
+</c02>
+<c02 id="ref113" level="file">
+<did>
+<unittitle>"Final Report - Talera agreement"</unittitle>
+<container id="cid9273050" type="Box">2</container>
+<container parent="cid9273050" type="Folder">5</container>
+</did>
+<scopecontent id="ref114">
+<p>Holograph notes; typed report on Talera agreement and its significance in the Rio Protocol.</p>
+</scopecontent>
+</c02>
+<c02 id="ref115" level="file">
+<did>
+<unittitle>"Final Report - Navigation Rights"</unittitle>
+<container id="cid9273049" type="Box">2</container>
+<container parent="cid9273049" type="Folder">6</container>
+</did>
+<scopecontent id="ref116">
+<p>Typed and holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref117" level="file">
+<did>
+<unittitle>"Final Report - Aguiar's (reward[?])"</unittitle>
+<container id="cid9273048" type="Box">2</container>
+<container parent="cid9273048" type="Folder">7</container>
+</did>
+<scopecontent id="ref118">
+<p>Typed and holograph notes; assorted clippings; typed report of Brazilian Technical expert regarding boundary demarcation.</p>
+</scopecontent>
+</c02>
+<c02 id="ref119" level="file">
+<did>
+<unittitle>"Final Report - Ecuador's Amazonian Aspirations"</unittitle>
+<container id="cid9273047" type="Box">2</container>
+<container parent="cid9273047" type="Folder">8</container>
+</did>
+<scopecontent id="ref120">
+<p>Typed notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref121" level="file">
+<did>
+<unittitle>"Final Report - 1940-41 Developments"</unittitle>
+<container id="cid9273046" type="Box">2</container>
+<container parent="cid9273046" type="Folder">9</container>
+</did>
+<scopecontent id="ref122">
+<p>Typed and holograph notes; memos and reports.</p>
+</scopecontent>
+</c02>
+<c02 id="ref123" level="file">
+<did>
+<unittitle>"Final Report - Photographs"</unittitle>
+<container id="cid9273045" type="Box">2</container>
+<container parent="cid9273045" type="Folder">10</container>
+</did>
+<scopecontent id="ref124">
+<p>Air views of the boundary; river views; postcards; includes holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref125" level="file">
+<did>
+<unittitle>"Final Report - Outline, etc."</unittitle>
+<container id="cid9273044" type="Box">2</container>
+<container parent="cid9273044" type="Folder">11</container>
+</did>
+<scopecontent id="ref126">
+<p>Typed and holograph notes for general outline of Final Report.</p>
+</scopecontent>
+</c02>
+<c02 id="ref127" level="file">
+<did>
+<unittitle>"Final Report - Historical Data"</unittitle>
+<container id="cid9273043" type="Box">2</container>
+<container parent="cid9273043" type="Folder">12</container>
+</did>
+<scopecontent id="ref128">
+<p>Typed and holograph notes; clippings.</p>
+</scopecontent>
+</c02>
+<c02 id="ref129" level="file">
+<did>
+<unittitle>"Final Report - Mediation Procedure"</unittitle>
+<container id="cid9273042" type="Box">2</container>
+<container parent="cid9273042" type="Folder">13</container>
+</did>
+<scopecontent id="ref130">
+<p>Typed and holograph notes; memos and correspondence.</p>
+</scopecontent>
+</c02>
+<c02 id="ref131" level="file">
+<did>
+<unittitle>"Final Report - Zones of occupation"</unittitle>
+<container id="cid9273041" type="Box">2</container>
+<container parent="cid9273041" type="Folder">14</container>
+</did>
+<scopecontent id="ref132">
+<p>Holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref133" level="file">
+<did>
+<unittitle>"Final Report - 1924-38 Negotiations"</unittitle>
+<container id="cid9273040" type="Box">2</container>
+<container parent="cid9273040" type="Folder">15</container>
+</did>
+<scopecontent id="ref134">
+<p>Typed and holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref135" level="file">
+<did>
+<unittitle>"Final Report - Rubber in upper Putumayo"</unittitle>
+<container id="cid9273039" type="Box">2</container>
+<container parent="cid9273039" type="Folder">16</container>
+</did>
+<scopecontent id="ref136">
+<p>Holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref137" level="file">
+<did>
+<unittitle>"Final Report - British Bondholders Concession, 1854, 1887"</unittitle>
+<container id="cid9273038" type="Box">2</container>
+<container parent="cid9273038" type="Folder">17</container>
+</did>
+<scopecontent id="ref138">
+<p>Holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref139" level="file">
+<did>
+<unittitle>"Final Report - Maynas, Jaen, [Tunbez?]"</unittitle>
+<container id="cid9273037" type="Box">2</container>
+<container parent="cid9273037" type="Folder">18</container>
+</did>
+<scopecontent id="ref140">
+<p>Holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref141" level="file">
+<did>
+<unittitle>"Final Report - Demarcation (incidents) and attitudes"</unittitle>
+<container id="cid9273036" type="Box">2</container>
+<container parent="cid9273036" type="Folder">19</container>
+</did>
+<scopecontent id="ref142">
+<p>Clippings, press summaries.</p>
+</scopecontent>
+</c02>
+<c02 id="ref143" level="file">
+<did>
+<unittitle>"Final Report - Demarcation Personnel</unittitle>
+<container type="Box">2</container>
+<container id="cid9273035" type="Folder">20</container>
+</did>
+<scopecontent id="ref144">
+<p>Typed and holograph notes, clippings.</p>
+</scopecontent>
+</c02>
+<c02 id="ref145" level="file">
+<did>
+<unittitle>"Final Report - Demarcation (Process)"</unittitle>
+<container id="cid9273034" type="Box">2</container>
+<container parent="cid9273034" type="Folder">21</container>
+</did>
+<scopecontent id="ref146">
+<p>Typed and holograph notes, memos.</p>
+</scopecontent>
+</c02>
+<c02 id="ref147" level="file">
+<did>
+<unittitle>"Final Report - Zucumbios, upper Gueppi"</unittitle>
+<container id="cid9273033" type="Box">2</container>
+<container parent="cid9273033" type="Folder">22</container>
+</did>
+<scopecontent id="ref148">
+<p>Typed and holograph notes, including holograph map.</p>
+</scopecontent>
+</c02>
+<c02 id="ref149" level="file">
+<did>
+<unittitle>"Final Report - Development of [Amazonia?] Resulting from settlement. Oil, Gold, Roads, airfields, colonies"</unittitle>
+<container id="cid9273032" type="Box">2</container>
+<container parent="cid9273032" type="Folder">23</container>
+</did>
+<scopecontent id="ref150">
+<p>Typed and holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref151" level="file">
+<did>
+<unittitle>"Final Report - Misc. Data"</unittitle>
+<container type="Box">2</container>
+<container id="cid9273031" type="Folder">24</container>
+</did>
+<scopecontent id="ref152">
+<p>Typed and holograph notes, clippings, correspondence; includes treaties applicable to the boundary commission.</p>
+</scopecontent>
+</c02>
+<c02 id="ref153" level="file">
+<did>
+<unittitle>"Notes on Ecuador-Peru Boundary"</unittitle>
+<container id="cid9273030" type="Box">3</container>
+<container parent="cid9273030" type="Folder">9</container>
+</did>
+<scopecontent id="ref154">
+<p>Typed and holograph notes; includes Study of Historical Documents from 1941.</p>
+</scopecontent>
+</c02>
+<c02 id="ref155" level="file">
+<did>
+<unittitle>[Notes]</unittitle>
+<container id="cid9273029" type="Box">3</container>
+<container parent="cid9273029" type="Folder">10</container>
+</did>
+<scopecontent id="ref156">
+<p>Holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref157" level="file">
+<did>
+<unittitle>"Press comments" [1942-43]</unittitle>
+<container id="cid9273028" type="Box">5</container>
+<container parent="cid9273028" type="Folder">3</container>
+</did>
+<scopecontent id="ref158">
+<p>Typed notes and summaries of press comments regarding the border dispute, with holograph notes; includes clippings</p>
+</scopecontent>
+</c02>
+<c02 id="ref159" level="file">
+<did>
+<unittitle>"Notes on Sector Occidental"</unittitle>
+<container type="Box">5</container>
+<container id="cid9273027" type="Folder">4</container>
+</did>
+<scopecontent id="ref160">
+<p>Typed and holograph notes, clippings.</p>
+</scopecontent>
+</c02>
+<c02 id="ref161" level="file">
+<did>
+<unittitle>"Notes on Sector Oriental"</unittitle>
+<container id="cid9273026" type="Box">5</container>
+<container parent="cid9273026" type="Folder">5</container>
+</did>
+<scopecontent id="ref162">
+<p>Typed and holograph notes; includes clippings and photographs</p>
+</scopecontent>
+</c02>
+<c02 id="ref163" level="file">
+<did>
+<unittitle>"General notes"</unittitle>
+<container id="cid9273025" type="Box">5</container>
+<container parent="cid9273025" type="Folder">6</container>
+</did>
+<scopecontent id="ref164">
+<p>Typed and holograph notes; includes map list.</p>
+</scopecontent>
+</c02>
+<c02 id="ref165" level="file">
+<did>
+<unittitle>"Revision + notes"</unittitle>
+<container id="cid9273024" type="Box">5</container>
+<container parent="cid9273024" type="Folder">7</container>
+</did>
+<scopecontent id="ref166">
+<p>Typed and holograph memos and notes; includes clippings [1947-48]</p>
+</scopecontent>
+</c02>
+<c02 id="ref167" level="file">
+<did>
+<unittitle>"Recent clippings on boundary"</unittitle>
+<container id="cid9273023" type="Box">5</container>
+<container parent="cid9273023" type="Folder">8</container>
+</did>
+<scopecontent id="ref168">
+<p>Clippings, including holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref169" level="file">
+<did>
+<unittitle>"Cordillera del Condor"</unittitle>
+<container id="cid9273022" type="Box">5</container>
+<container parent="cid9273022" type="Folder">9</container>
+</did>
+<scopecontent id="ref170">
+<p>Typed and holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref171" level="file">
+<did>
+<unittitle>"Zarumilla Canal"</unittitle>
+<container id="cid9273021" type="Box">5</container>
+<container parent="cid9273021" type="Folder">10</container>
+</did>
+<scopecontent id="ref172">
+<p>Typed and holograph notes, clippings.</p>
+</scopecontent>
+</c02>
+<c02 id="ref173" level="file">
+<did>
+<unittitle>"Lagartococha"</unittitle>
+<container id="cid9273020" type="Box">5</container>
+<container parent="cid9273020" type="Folder">11</container>
+</did>
+<scopecontent id="ref174">
+<p>Typed and holograph notes; includes clippings, report (in Spanish) from the Peruvian government dated May 1947.</p>
+</scopecontent>
+</c02>
+<c02 id="ref175" level="file">
+<did>
+<unittitle>"Apru altitude"</unittitle>
+<container id="cid9273019" type="Box">5</container>
+<container parent="cid9273019" type="Folder">12</container>
+</did>
+<scopecontent id="ref176">
+<p>Holograph notes, clippings.</p>
+</scopecontent>
+</c02>
+<c02 id="ref177" level="file">
+<did>
+<unittitle>"The Protocol"</unittitle>
+<container id="cid9273018" type="Box">5</container>
+<container parent="cid9273018" type="Folder">13</container>
+</did>
+<scopecontent id="ref178">
+<p>Typed and holograph notes, including extracts from the Rio Protocol.</p>
+</scopecontent>
+</c02>
+<c02 id="ref179" level="file">
+<did>
+<unittitle>"Hitos - Demarcation"</unittitle>
+<container id="cid9273017" type="Box">5</container>
+<container parent="cid9273017" type="Folder">14</container>
+</did>
+<scopecontent id="ref180">
+<p>Typed and holograph notes; includes photographs.</p>
+</scopecontent>
+</c02>
+<c02 id="ref181" level="file">
+<did>
+<unittitle>"Aerial Survey" [Folder 1 of 2]</unittitle>
+<container id="cid9273016" type="Box">5</container>
+<container parent="cid9273016" type="Folder">15</container>
+</did>
+<scopecontent id="ref182">
+<p>Typed and holograph notes; include maps.</p>
+</scopecontent>
+</c02>
+<c02 id="ref183" level="file">
+<did>
+<unittitle>"Aerial Survey" [Folder 2 of 2]</unittitle>
+<container type="Box">5</container>
+<container id="cid9273015" type="Folder">16</container>
+</did>
+<scopecontent id="ref184">
+<p>Typed and holograph notes; includes maps.</p>
+</scopecontent>
+</c02>
+<c02 id="ref185" level="file">
+<did>
+<unittitle>[Notes and holograph maps]</unittitle>
+<container id="cid9273014" type="Box">5</container>
+<container parent="cid9273014" type="Folder">17</container>
+</did>
+<scopecontent id="ref186">
+<p>Includes McBride's holograph maps and sketches, notes and lists; photographs. Material originally housed with large maps.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref85" level="series">
+<did>
+<unittitle>Memoranda</unittitle>
+</did>
+<c02 id="ref86" level="file">
+<did>
+<unittitle>[1942]</unittitle>
+<container id="cid9273063" type="Box">3</container>
+<container parent="cid9273063" type="Folder">1</container>
+</did>
+<scopecontent id="ref87">
+<p>Typed memos with holograph notes</p>
+</scopecontent>
+</c02>
+<c02 id="ref88" level="file">
+<did>
+<unittitle>[1943]</unittitle>
+<container id="cid9273062" type="Box">3</container>
+<container parent="cid9273062" type="Folder">2</container>
+</did>
+<scopecontent id="ref89">
+<p>Typed memos with holograph notes</p>
+</scopecontent>
+</c02>
+<c02 id="ref90" level="file">
+<did>
+<unittitle>[1944]</unittitle>
+<container id="cid9273061" type="Box">3</container>
+<container parent="cid9273061" type="Folder">3</container>
+</did>
+<scopecontent id="ref91">
+<p>Typed memos with holograph notes; includes maps.</p>
+</scopecontent>
+</c02>
+<c02 id="ref92" level="file">
+<did>
+<unittitle>[1945]</unittitle>
+<container id="cid9273060" type="Box">3</container>
+<container parent="cid9273060" type="Folder">4</container>
+</did>
+<scopecontent id="ref93">
+<p>Typed memos with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref94" level="file">
+<did>
+<unittitle>[1946-1948]</unittitle>
+<container id="cid9273059" type="Box">3</container>
+<container parent="cid9273059" type="Folder">5</container>
+</did>
+<scopecontent id="ref95">
+<p>Typed memos with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref96" level="file">
+<did>
+<unittitle>[1947]</unittitle>
+<container id="cid9273058" type="Box">3</container>
+<container parent="cid9273058" type="Folder">6</container>
+</did>
+<scopecontent id="ref97">
+<p>Typed memos with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref98" level="file">
+<did>
+<unittitle>[1948]</unittitle>
+<container id="cid9273057" type="Box">3</container>
+<container parent="cid9273057" type="Folder">7</container>
+</did>
+<scopecontent id="ref99">
+<p>Typed memos with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref100" level="file">
+<did>
+<unittitle>"Strictly Confidential - Peruvian-Ecuadoran relations"</unittitle>
+<container id="cid9273056" type="Box">5</container>
+<container parent="cid9273056" type="Folder">1</container>
+</did>
+<scopecontent id="ref101">
+<p>Typed reports, memos; includes maps, and publication dated 1938.</p>
+</scopecontent>
+</c02>
+<c02 id="ref102" level="file">
+<did>
+<unittitle>[Memorandum publication by Rafael Alvarado, director of Ecuadoran embassy in Rio de Janeiro, 1938]</unittitle>
+<container type="Box">5</container>
+<container id="cid9273055" type="Folder">2</container>
+</did>
+<scopecontent id="ref103">
+<p>In Spanish.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref35" level="series">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c02 id="ref36" level="file">
+<did>
+<unittitle>[Official letters sent by McBride, 1942]</unittitle>
+<container id="cid9273088" type="Box">4</container>
+<container parent="cid9273088" type="Folder">1</container>
+</did>
+<scopecontent id="ref37">
+<p>Typed letters with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref38" level="file">
+<did>
+<unittitle>[Official letters sent by McBride, 1943]</unittitle>
+<container id="cid9273087" type="Box">4</container>
+<container parent="cid9273087" type="Folder">2</container>
+</did>
+<scopecontent id="ref39">
+<p>Typed letters with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref40" level="file">
+<did>
+<unittitle>[Official letters sent by McBride, 1944]</unittitle>
+<container id="cid9273086" type="Box">4</container>
+<container parent="cid9273086" type="Folder">3</container>
+</did>
+<scopecontent id="ref41">
+<p>Typed letters with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref42" level="file">
+<did>
+<unittitle>[Official letters sent by McBride, 1945]</unittitle>
+<container id="cid9273085" type="Box">4</container>
+<container parent="cid9273085" type="Folder">4</container>
+</did>
+<scopecontent id="ref43">
+<p>Typed letters with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref44" level="file">
+<did>
+<unittitle>[Official letters sent by McBride, 1946]</unittitle>
+<container id="cid9273084" type="Box">4</container>
+<container parent="cid9273084" type="Folder">5</container>
+</did>
+<scopecontent id="ref45">
+<p>Typed letters with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref46" level="file">
+<did>
+<unittitle>[Official letters sent by McBride, 1947]</unittitle>
+<container id="cid9273083" type="Box">4</container>
+<container parent="cid9273083" type="Folder">6</container>
+</did>
+<scopecontent id="ref47">
+<p>Typed letters with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref48" level="file">
+<did>
+<unittitle>[Official letters sent by McBride, 1948]</unittitle>
+<container id="cid9273082" type="Box">4</container>
+<container parent="cid9273082" type="Folder">7</container>
+</did>
+<scopecontent id="ref49">
+<p>Typed letters with holograph notes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref50" level="file">
+<did>
+<unittitle>[Official letters received by McBride, 1942]</unittitle>
+<container id="cid9273081" type="Box">4</container>
+<container parent="cid9273081" type="Folder">8</container>
+</did>
+<scopecontent id="ref51">
+<p>Typed letters.</p>
+</scopecontent>
+</c02>
+<c02 id="ref52" level="file">
+<did>
+<unittitle>[Official letters received by McBride, 1943]</unittitle>
+<container id="cid9273080" type="Box">4</container>
+<container parent="cid9273080" type="Folder">9</container>
+</did>
+<scopecontent id="ref53">
+<p>Typed letters.</p>
+</scopecontent>
+</c02>
+<c02 id="ref54" level="file">
+<did>
+<unittitle>[Official letters received by McBride, 1944]</unittitle>
+<container id="cid9273079" type="Box">4</container>
+<container parent="cid9273079" type="Folder">10</container>
+</did>
+<scopecontent id="ref55">
+<p>Typed letters.</p>
+</scopecontent>
+</c02>
+<c02 id="ref56" level="file">
+<did>
+<unittitle>[Official letters received by McBride, 1945]</unittitle>
+<container id="cid9273078" type="Box">4</container>
+<container parent="cid9273078" type="Folder">11</container>
+</did>
+<scopecontent id="ref57">
+<p>Typed letters.</p>
+</scopecontent>
+</c02>
+<c02 id="ref58" level="file">
+<did>
+<unittitle>[Official letters received by McBride, 1946]</unittitle>
+<container id="cid9273077" type="Box">4</container>
+<container parent="cid9273077" type="Folder">12</container>
+</did>
+<scopecontent id="ref59">
+<p>Typed letters.</p>
+</scopecontent>
+</c02>
+<c02 id="ref60" level="file">
+<did>
+<unittitle>[Official letters received by McBride, 1947]</unittitle>
+<container id="cid9273076" type="Box">4</container>
+<container parent="cid9273076" type="Folder">13</container>
+</did>
+<scopecontent id="ref61">
+<p>Typed letters.</p>
+</scopecontent>
+</c02>
+<c02 id="ref62" level="file">
+<did>
+<unittitle>[Official letters received by McBride, 1948]</unittitle>
+<container id="cid9273075" type="Box">4</container>
+<container parent="cid9273075" type="Folder">14</container>
+</did>
+<scopecontent id="ref63">
+<p>Typed letters.</p>
+</scopecontent>
+</c02>
+<c02 id="ref64" level="file">
+<did>
+<unittitle>[Official letters received by McBride, 1949]</unittitle>
+<container id="cid9273074" type="Box">4</container>
+<container parent="cid9273074" type="Folder">15</container>
+</did>
+<scopecontent id="ref65">
+<p>Typed letters.</p>
+</scopecontent>
+</c02>
+<c02 id="ref66" level="file">
+<did>
+<unittitle>"Aides-Memoires" [May 1945 - Jan 1949]</unittitle>
+<container id="cid9273073" type="Box">4</container>
+<container parent="cid9273073" type="Folder">16</container>
+</did>
+<scopecontent id="ref67">
+<p>Typed and holograph notes and memos; includes some corresondence.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref14" level="series">
+<did>
+<unittitle>Clippings collected by McBride</unittitle>
+</did>
+<c02 id="ref15" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273098" type="Box">7</container>
+<container parent="cid9273098" type="Folder">1</container>
+</did>
+<scopecontent id="ref16">
+<p>Majority of clippings in Spanish. (folder 1 of 10)</p>
+</scopecontent>
+</c02>
+<c02 id="ref17" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273097" type="Box">7</container>
+<container parent="cid9273097" type="Folder">2</container>
+</did>
+<scopecontent id="ref18">
+<p>Majority of clippings in Spanish. (folder 2 of 10)</p>
+</scopecontent>
+</c02>
+<c02 id="ref19" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273096" type="Box">7</container>
+<container parent="cid9273096" type="Folder">3</container>
+</did>
+<scopecontent id="ref20">
+<p>Majority of clippings in Spanish. (folder 3 of 10)</p>
+</scopecontent>
+</c02>
+<c02 id="ref21" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273095" type="Box">7</container>
+<container parent="cid9273095" type="Folder">4</container>
+</did>
+<scopecontent id="ref22">
+<p>Majority of clippings in Spanish. (folder 4 of 10)</p>
+</scopecontent>
+</c02>
+<c02 id="ref23" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273094" type="Box">7</container>
+<container parent="cid9273094" type="Folder">5</container>
+</did>
+<scopecontent id="ref24">
+<p>Majority of clippings in Spanish. (folder 5 of 10)</p>
+</scopecontent>
+</c02>
+<c02 id="ref25" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273093" type="Box">7</container>
+<container parent="cid9273093" type="Folder">6</container>
+</did>
+<scopecontent id="ref26">
+<p>Majority of clippings in Spanish. (folder 6 of 10)</p>
+</scopecontent>
+</c02>
+<c02 id="ref27" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273092" type="Box">7</container>
+<container parent="cid9273092" type="Folder">7</container>
+</did>
+<scopecontent id="ref28">
+<p>Majority of clippings in Spanish. (folder 7 of 10)</p>
+</scopecontent>
+</c02>
+<c02 id="ref29" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273091" type="Box">7</container>
+<container parent="cid9273091" type="Folder">8</container>
+</did>
+<scopecontent id="ref30">
+<p>Majority of clippings in Spanish. (folder 8 of 10)</p>
+</scopecontent>
+</c02>
+<c02 id="ref31" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273090" type="Box">7</container>
+<container parent="cid9273090" type="Folder">9</container>
+</did>
+<scopecontent id="ref32">
+<p>Majority of clippings in Spanish. (folder 9 of 10)</p>
+</scopecontent>
+</c02>
+<c02 id="ref33" level="file">
+<did>
+<unittitle>"McBride's Clippings RE: Peru-Ecuador Boundary Dispute (1942-1944)"</unittitle>
+<container id="cid9273089" type="Box">7</container>
+<container parent="cid9273089" type="Folder">10</container>
+</did>
+<scopecontent id="ref34">
+<p>Majority of clippings in Spanish. (folder 10 of 10)</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref187" level="series">
+<did>
+<unittitle>Photographs</unittitle>
+</did>
+<c02 id="ref188" level="file">
+<did>
+<unittitle>[Aerial photos]</unittitle>
+<container id="cid9273013" type="Box">8</container>
+</did>
+<scopecontent id="ref189">
+<p>92 aerial trimetrogon photographs of the Ecuador-Peru border region taken by US Army Air Force [AAF].</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref190" level="series">
+<did>
+<unittitle>Posters</unittitle>
+</did>
+<c02 id="ref191" level="file">
+<did>
+<unittitle>[Peruvian solidarity posters, and WWII graphic posters from Ecuador and Peru].</unittitle>
+<container id="cid9273012" type="Box">9</container>
+</did>
+<scopecontent id="ref192">
+<p>In Spanish.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref68" level="series">
+<did>
+<unittitle>Maps</unittitle>
+</did>
+<c02 id="ref69" level="file">
+<did>
+<unittitle>[Small Maps (1 of 2)]</unittitle>
+<container id="cid9273072" type="Box">10</container>
+</did>
+<scopecontent id="ref70">
+<p>Includes McBride's holograph maps and sketches.</p>
+</scopecontent>
+</c02>
+<c02 id="ref71" level="file">
+<did>
+<unittitle>[Small Maps (2 of 2)]</unittitle>
+<container id="cid9273071" type="Box">11</container>
+</did>
+</c02>
+<c02 id="ref72" level="file">
+<did>
+<unittitle>[Maps prepared by the US AAF]</unittitle>
+<container id="cid9273070" type="Box">12</container>
+</did>
+<scopecontent id="ref73">
+<p>Maps prepared from trimetrogon photographs by the US Army Air Force.</p>
+</scopecontent>
+</c02>
+<c02 id="ref74" level="file">
+<did>
+<unittitle>[Large Maps (1 of 2)]</unittitle>
+<container id="cid9273069" type="Box">13</container>
+</did>
+<scopecontent id="ref75">
+<p>Includes maps prepared by the Shell Company of Ecuador.</p>
+</scopecontent>
+</c02>
+<c02 id="ref76" level="file">
+<did>
+<unittitle>[Large Maps (2 of 2)]</unittitle>
+<container id="cid9273068" type="Box">14</container>
+</did>
+<scopecontent id="ref77">
+<p>Includes maps prepared by the American Geographical Society of New York.</p>
+</scopecontent>
+</c02>
+<c02 id="ref78" level="file">
+<did>
+<unittitle>[Oversize Maps]</unittitle>
+<container id="cid9273067" type="Box">15</container>
+</did>
+</c02>
+<c02 id="ref79" level="file">
+<did>
+<unittitle>[Oversize Maps]</unittitle>
+<container id="cid9273066" type="Box">16</container>
+</did>
+<scopecontent id="ref80">
+<p>Boxed roll.</p>
+</scopecontent>
+</c02>
+<c02 id="ref81" level="file">
+<did>
+<unittitle>[Oversize Maps]</unittitle>
+<container id="cid9273065" type="Box">17</container>
+</did>
+<scopecontent id="ref82">
+<p>Boxed roll.</p>
+</scopecontent>
+</c02>
+<c02 id="ref83" level="file">
+<did>
+<unittitle>[Oversize Maps]</unittitle>
+<container id="cid9273064" type="Box">18</container>
+</did>
+<scopecontent id="ref84">
+<p>Boxed roll.</p>
+</scopecontent>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
