@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC">post2228.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Dianne Post Papers
+                    <num>LSC.2228</num>
+                </titleproper>
+                <titleproper type="filing">Post (Dianne) papers</titleproper>
+                <author>Finding aid prepared by Stacy Wood, 2014; updated by Sabrina Ponce, 2018; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 02 March 2018.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-03-02T15:28-0800</date>
+            </creation>
+            <langusage>Finding aid written in: 
+                <language>English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Dianne Post papers</unittitle>
+            <unitid>LSC.2228</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.8 linear feet</extent>
+                <extent>(2 boxes, 1 carton)</extent>
+            </physdesc>
+            <unitdate normal="1980/2008" type="inclusive">1980-2008</unitdate>
+            <abstract id="ref2" label="Abstract">Dianne Post is a lawyer who specializes in developing policy and programmatic reform on issues related to gender equality. Also active in the lesbian feminist movement, she organized cultural and political activities in Arizona to challenge domestic violence and advocate for the rights of the LGBT community. This collection contains organizational documents from activist organizations throughout Arizona specifically focused on domestic violence and gay and lesbian issues. Included are materials related to the planning of the first women's music festival in Arizona as well as recordings of lesbian and women's music. Also included are legal documents authored by or used by Dianne Post, articles published by and about Dianne Post, correspondence, and ephemera.</abstract>
+            <langmaterial id="ref82" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref91" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="aacr" source="naf">Post, Dianne</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref92">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref93">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical objects belong to the UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref94">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Dianne Post papers (Collection 2228). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref86">
+            <head>Provenance/Source of Acquisition</head>
+            <p>June L. Mazer Lesbian Archives, transfer, 2014. Original provenance unknown.</p>
+            <p>This collection is part of an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+        </acqinfo>
+        <processinfo id="ref6">
+            <head>Processing History</head>
+            <p>Processed by Stacy Wood, February 2014. Description enhanced and further physical processing completed by Sabrina Ponce in 2018.</p>
+        </processinfo>
+        <odd id="ref95">
+            <head>Sponsor</head>
+            <p>The 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+        </odd>
+        <odd id="ref87">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7404727">7404727</extref></p>
+        </odd>
+        <bioghist id="ref7">
+            <head>Biography</head>
+            <p>Dianne Post (born 1947) is a lawyer who has worked in over fourteen countries over the past twenty six years. She has contributed to the design and implementation of legal policies and reform initiatives related to gender equality. Post works with vulnerable populations in developing, transitional and developed countries.</p>
+            <p>Post consults on international cases, and has worked with the United Nations, the Inter-American Commission on Human Rights and the European Court of Human Rights. She specializes in issues related to violence against women and children including sex-trafficking, pornography, and domestic violence.</p>
+            <p>Also active in the lesbian feminist movement, she was the first to produce a women's music festival in Arizona, the Arizona Womyn's Music Festival.</p>
+        </bioghist>
+        <scopecontent id="ref8">
+            <head>Scope and Content</head>
+            <p>This collection contains organizational documents from activist organizations throughout Arizona specifically focused on domestic violence and gay and lesbian issues. Included are materials related to the planning of Arizona Womyn's Music Festival (the first women's music festival in Arizona) as well as recordings of lesbian and women's music. Also included are legal documents authored by or used by Dianne Post, articles published by and about Dianne Post, correspondence, and ephemera.</p>
+        </scopecontent>
+        <arrangement id="ref96">
+            <head>Organization and Arrangement</head>
+            <p>Materials arranged by subject.</p>
+        </arrangement>
+        <phystech id="ref97">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>COLLECTION CONTAINS AUDIO MATERIALS: Audio materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections materials must be made in advance using the request button located on this page.</p>
+            <p>COLLECTION CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing. All requests to access special collections materials must be made in advance using the request button located on this page.</p>
+        </phystech>
+        <controlaccess>
+            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
+            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
+            <persname rules="aacr" source="naf">Post, Dianne -- Archives.</persname>
+            <subject source="lcsh">Human rights workers--United States--Archives. </subject>
+            <subject source="lcsh">Lesbian activists--United States--Archives.</subject>
+            <occupation source="lcsh">Women lawyers--United States--Archives.</occupation>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="file">
+                <did>
+                    <unittitle>Feminist publications</unittitle>
+                    <container id="cid11597001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11597001" type="Folder">1</container>
+                    <unitdate normal="1981/2003" type="inclusive">1981-2008</unitdate>
+                </did>
+                <scopecontent id="ref11">
+                    <head>Scope and Content</head>
+                    <p>Assorted feminist publications, including the last issue of 
+                        <title render="italic">Off Our Backs</title> and 
+                        <title render="italic">Lavender Moon</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>Sonia Johnson: Presidential candidate</unittitle>
+                    <container id="cid11597003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11597003" type="Folder">2</container>
+                    <unitdate normal="1984/1984">1983-1984</unitdate>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Content</head>
+                    <p>Fundraising materials, clippings and interview on one cassette tape with lesbian presidential candidate Sonia Johnson.</p>
+                </scopecontent>
+                <phystech id="ref98">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIO MATERIALS: Audio materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                </phystech>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>Arizona Womyn's Music Festival</unittitle>
+                    <container id="cid11597002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11597002" type="Folder">3</container>
+                    <unitdate normal="1988/1993" type="inclusive">1988-1993</unitdate>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Content</head>
+                    <p>Flyers, maps, programs and festival information, which Post helped organize.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle>Subject files: Domestic violence</unittitle>
+                    <container id="cid11597004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11597004" type="Folder">4</container>
+                    <unitdate normal="1989/2004" type="inclusive">1989-2004</unitdate>
+                </did>
+                <scopecontent id="ref20">
+                    <head>Scope and Content</head>
+                    <p>Copies of clippings and publications regarding domestic violence.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref21" level="file">
+                <did>
+                    <unittitle>Clippings of articles by Dianne Post</unittitle>
+                    <container id="cid11597006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11597006" type="Folder">5</container>
+                    <unitdate normal="1990/1998" type="inclusive">1990-1998</unitdate>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Content</head>
+                    <p>Articles and op-eds written or contributed to by Dianne Post in various magazines and newspapers.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">LTN Newsletter</title></unittitle>
+                    <container id="cid11597005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11597005" type="Folder">6</container>
+                    <unitdate normal="1991/1996" type="inclusive">1991-1996</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref27" level="file">
+                <did>
+                    <unittitle>Flyers</unittitle>
+                    <container id="cid11605001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11605001" type="Folder">7</container>
+                    <unitdate normal="1991/1998" type="inclusive">1991-1998</unitdate>
+                </did>
+                <scopecontent id="ref29">
+                    <head>Scope and Content</head>
+                    <p>Flyers for events, readings and talks.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref30" level="file">
+                <did>
+                    <unittitle>Assorted newsletters</unittitle>
+                    <container id="cid11605002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11605002" type="Folder">8</container>
+                    <unitdate normal="1991/1998" type="inclusive">1991-1998</unitdate>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Content</head>
+                    <p>Newsletters for organizations including Valley Community Women, Women's Center Inc. and Arizona Women's News.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref33" level="file">
+                <did>
+                    <unittitle>Clippings: Coverage of Dianne Post</unittitle>
+                    <container id="cid11605003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11605003" type="Folder">9</container>
+                    <unitdate normal="1992/2003" type="inclusive">1992-2003</unitdate>
+                </did>
+                <scopecontent id="ref35">
+                    <head>Scope and Content</head>
+                    <p>Clippings of newspaper and magazine stories concerning the activism and professional life of Dianne Post.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref36" level="file">
+                <did>
+                    <unittitle>Valley of the Sun Gay and Lesbian Community Center</unittitle>
+                    <container id="cid11605004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11605004" type="Folder">10</container>
+                    <unitdate normal="1993/1995" type="inclusive">1993-1995</unitdate>
+                </did>
+                <scopecontent id="ref38">
+                    <head>Scope and Content</head>
+                    <p>Board meeting minutes, communication, reports, programming discussions for the Valley of the Sun Gay and Lesbian Community Center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref39" level="file">
+                <did>
+                    <unittitle>Arizonans for Fairness Coalition, Inc.</unittitle>
+                    <container id="cid11605008" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11605008" type="Folders">1-2</container>
+                    <container id="cid11605005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11605005" type="Folder">11</container>
+                    <unitdate normal="1994/1997" type="inclusive">1994-1997</unitdate>
+                </did>
+                <scopecontent id="ref41">
+                    <head>Scope and Content</head>
+                    <p>Financial documents, articles of incorporation, press releases, promotional ephemera, and other documents related to the formation and work of Arizonans for Fairness Coalition, Inc.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref42" level="file">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <container id="cid11605006" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11605006" type="Folder">3</container>
+                    <unitdate normal="1992/1994" type="inclusive">circa 1993</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref45" level="file">
+                <did>
+                    <unittitle>Lesbian Resource Project</unittitle>
+                    <container id="cid11605007" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11605007" type="Folder">4</container>
+                    <unitdate normal="1993/1995" type="inclusive">1993-1995</unitdate>
+                </did>
+                <scopecontent id="ref47">
+                    <head>Scope and Content</head>
+                    <p>Newsletter and flyer from the Lesbian Resource Project, an Arizona lesbian social and educational group. Also includes a certificate of appreciation for Post.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref54" level="file">
+                <did>
+                    <unittitle>Legal publications</unittitle>
+                    <container id="cid11605010" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11605010" type="Folder">5</container>
+                    <unitdate normal="1996/2003" type="inclusive">1996-2003</unitdate>
+                </did>
+                <scopecontent id="ref56">
+                    <head>Scope and Content</head>
+                    <p>Publications having to do with legal news, philosophies and discussions.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref60" level="file">
+                <did>
+                    <unittitle>Legal documents: New Times Inc. v. Women Take Back the Night</unittitle>
+                    <container id="cid11605009" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11605009" type="Folder">6</container>
+                    <unitdate normal="1997/1997">1997</unitdate>
+                </did>
+                <scopecontent id="ref62">
+                    <head>Scope and Content</head>
+                    <p>Depositions, briefs, summaries and communication surrounding this case. Women Take Back the Night, of which Post was a member, was an organization dedicated to protesting against domestic violence.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref63" level="file">
+                <did>
+                    <unittitle>Legal documents: Lesbian couple child custody cases</unittitle>
+                    <container id="cid11605011" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11605011" type="Folder">7</container>
+                    <unitdate normal="1998/1998">1998</unitdate>
+                </did>
+                <scopecontent id="ref65">
+                    <head>Scope and Content</head>
+                    <p>Briefs, summaries, trial documents and depositions having to do with several child custody cases between lesbian couples.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref66" level="file">
+                <did>
+                    <unittitle>State Bar of Arizona : Gay and Lesbian Task Force Report</unittitle>
+                    <container id="cid11605013" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11605013" type="Folder">8</container>
+                    <unitdate normal="1999/1999">1999</unitdate>
+                </did>
+                <scopecontent id="ref68">
+                    <head>Scope and Content</head>
+                    <p>Bound copy of the State Bar of Arizona's report by the Gay and Lesbian Task Force.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref69" level="file">
+                <did>
+                    <unittitle>Pro-choice materials</unittitle>
+                    <container id="cid11605012" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11605012" type="Folders">9-10</container>
+                    <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
+                </did>
+                <scopecontent id="ref71">
+                    <head>Scope and Content</head>
+                    <p>Correspondence, news clippings and notes having to do with Dianne Post's (and others') activism and protest concerning the appointment of anti-choice Board Members to both Planned Parenthood and the Arizona Human Rights Fund.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref75" level="file">
+                <did>
+                    <unittitle>Assorted materials</unittitle>
+                    <container id="cid11605015" type="Box" label="Mixed materials">2</container>
+                    <container parent="cid11605015" type="Folder">11</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <scopecontent id="ref77">
+                    <head>Scope and Content</head>
+                    <p>Business cards and personal items.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref78" level="file">
+                <did>
+                    <unittitle>Published works and ephemera</unittitle>
+                    <container id="cid11609001" type="Box" label="Mixed materials">3</container>
+                    <unitdate normal="1980/2000" type="inclusive">1980-2008</unitdate>
+                </did>
+                <scopecontent id="ref80">
+                    <head>Scope and Content</head>
+                    <p>Includes three t-shirts from the Arizona Womyn's Music Festival, 6 CDs and 29 audiocassettes containing recordings by lesbian musicians, several buttons and pins, and a number of published books:</p>
+                    <p>Elaine Mikels - 
+                        <title render="italic">Just Lucky I guess </title> Ruthann Robson - 
+                        <title render="italic">Lesbian (Out)Law </title> Daphne Scholinski - 
+                        <title render="italic">The Last Time I Wore a Dress </title> Karen Louise - 
+                        <title render="italic">Foster Child </title> Karen Dale Wolman - 
+                        <title render="italic">Rites of First Blood </title> Susan Hawthorne - 
+                        <title render="italic">Wild Politics </title> Marilyn Murphy - 
+                        <title render="italic">Are You Girls Traveling Alone? </title> Joann Drury - 
+                        <title render="italic">The Other Side of Silence </title> Becky Birtha - 
+                        <title render="italic">Lover's Choice </title> Jennifer Kelly - 
+                        <title render="italic">Zest for Life </title> Olivia Free Woman - 
+                        <title render="italic">The Incident at New Providence </title> Olivia Free Woman - 
+                        <title render="italic">Selected Works</title> The Practical Lawyer - Vol. 33, 37</p>
+                    <p></p>
+                </scopecontent>
+                <phystech id="ref99">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIO MATERIALS: Audio materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                    <p>COLLECTION CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing. All requests to access special collections materials must be made in advance using the request button located on this page.</p>
+                </phystech>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
