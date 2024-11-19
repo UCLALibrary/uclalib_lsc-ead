@@ -1,272 +1,65 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8dr2xn8/">pros2225.xml</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Finding Aid for the Sue Prosin Papers
-                    <num>LSC.2225</num>
-                </titleproper>
-                <titleproper type="filing">Prosin (Sue) papers</titleproper>
-                <author>Finding aid prepared by Stacy Wood, 2014; Sabrina Ponce, 2018; machine-readable finding aid created by Caroline Cubé.</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>UCLA Library Special Collections</publisher>
-                <address>
-                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
-                    <addressline>Box 951575</addressline>
-                    <addressline>Los Angeles, CA, 90095-1575</addressline>
-                    <addressline>(310) 825-4988</addressline>
-                    <addressline>spec-coll@library.ucla.edu</addressline>
-                </address>
-                <date>Online finding aid last updated 15 February 2018.</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2018-02-15T13:04-0800</date>
-            </creation>
-            <langusage>Finding aid written in: 
-                <language>English.</language></langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Sue Prosin papers</unittitle>
-            <unitid>LSC.2225</unitid>
-            <repository>
-                <corpname>UCLA Library Special Collections</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>1.8 linear feet</extent>
-                <extent>(2 boxes, 1 carton)</extent>
-            </physdesc>
-            <unitdate normal="1959/1986" type="inclusive">1959-1986</unitdate>
-            <abstract id="ref2" label="Abstract">Sue Prosin was a social scientist who published studies on a range of topics like butch-femme relationships and attitudes of the Jewish community toward African-Americans. She attended San Fernando Valley State College (currenty California State University, Northridge) and was also an active member of the Daughters of Bilitis. This collection contains correspondence, research materials, and various writings by Prosin. The bulk of the collection focuses on her study of butch-femme lesbian relationships between 1960 and 1965.</abstract>
-            <langmaterial id="ref46" label="Language of Materials">Materials are in English.</langmaterial>
-            <physloc id="ref60" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
-            <origination label="Creator">
-                <persname rules="aacr" source="local">Prosin, Sue</persname>
-            </origination>
-        </did>
-        <userestrict id="ref62">
-            <head>Conditions Governing Reproduction and Use</head>
-            <p>Property rights to the physical objects belong to the UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-        </userestrict>
-        <accessrestrict id="ref61">
-            <head>Conditions Governing Access</head>
-            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
-        </accessrestrict>
-        <prefercite id="ref63">
-            <head>Preferred Citation</head>
-            <p>[Identification of item], Sue Prosin Papers (Collection 2225). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
-        </prefercite>
-        <acqinfo id="ref50">
-            <head>Provenance/Source of Acquisition</head>
-            <p>June Mazer Lesbian Archives, transfer, 2014. Original provenance unknown.</p>
-            <p>This collection is part of an outreach and collection-building partnership between the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
-        </acqinfo>
-        <processinfo id="ref6">
-            <head>Processing History</head>
-            <p>Stacy Wood, 2014. Description enhanced and further physical processing completed by Sabrina Ponce in 2018.</p>
-        </processinfo>
-        <odd id="ref58">
-            <head>UCLA Catalog Record ID</head>
-            <p>UCLA Catalog Record ID: 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7404728">7404728</extref></p>
-        </odd>
-        <odd id="ref59">
-            <head>Sponsor</head>
-            <p>The 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
-        </odd>
-        <bioghist id="ref7">
-            <head>Biography</head>
-            <p>Sue Prosin was a social scientist who published studies on a range of topics like butch-femme relationships and attitudes of the Jewish community toward African-Americans. She attended San Fernando Valley State College (now California State University, Northridge) and was also an active member of the Daughters of Bilitis. The original purpose of the Daughters of Bilitis (founded in 1955) was to counteract the isolation experienced by lesbians, although the organization later focused on educating lesbians about their rights and on lobbying efforts. Prosin died in 2002.</p>
-        </bioghist>
-        <scopecontent id="ref8">
-            <head>Scope and Content</head>
-            <p>This collection contains correspondence, research materials, and various writings by Sue Prosin. The bulk of the collection focuses on a study by Prosin of butch-femme lesbian relationships between 1960 and 1965.</p>
-        </scopecontent>
-        <arrangement id="ref65">
-            <head>Organization and Arrangement</head>
-            <p>Materials arranged by type.</p>
-        </arrangement>
-        <phystech id="ref64">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
-        </phystech>
-        <relatedmaterial id="ref66">
-            <head>Related Material</head>
-            <p>
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c89c6z56/">Daughters of Bilitis Records (Collection 1946)</extref>. Available at Library Special Collections, Charles E. Young Research Library, UCLA.</p>
-        </relatedmaterial>
-        <controlaccess>
-            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
-            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
-            <persname rules="aacr" source="local">Prosin, Sue -- Archives.</persname>
-            <subject source="lcsh">Butch and femme (Lesbian culture)</subject>
-        </controlaccess>
-        <dsc>
-            <c01 id="ref9" level="file">
-                <did>
-                    <unittitle>Coursework</unittitle>
-                    <container id="cid11565001" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11565001" type="Folders">1-2</container>
-                    <unitdate normal="1959/1965" type="inclusive">1959-1965</unitdate>
-                </did>
-                <scopecontent id="ref11">
-                    <head>Scope and Content</head>
-                    <p>Papers, drafts of papers, notes and research materials from Prosin's undergraduate course work.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref15" level="file">
-                <did>
-                    <unittitle>Planner</unittitle>
-                    <container id="cid11565002" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11565002" type="Folder">3</container>
-                    <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref18" level="file">
-                <did>
-                    <unittitle>Clippings</unittitle>
-                    <container id="cid11565003" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11565003" type="Folder">5</container>
-                    <unitdate normal="1962/1986" type="inclusive">1962-1986</unitdate>
-                </did>
-                <scopecontent id="ref20">
-                    <head>Scope and Content</head>
-                    <p>Clippings of news stories concerning activism by Sue Prosin and about her mother, Frieda Trebor, the first occupational therapist in California.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref21" level="file">
-                <did>
-                    <unittitle>Assorted materials</unittitle>
-                    <container id="cid11565004" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11565004" type="Folder">5</container>
-                    <unitdate normal="1961/1986" type="inclusive">1961-1986</unitdate>
-                </did>
-                <scopecontent id="ref67">
-                    <head>Scope and Content</head>
-                    <p>Includes a flyer, notes, and a card to June Mazer and Bunny MacCulloch.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref24" level="file">
-                <did>
-                    <unittitle>Daughters of Bilitis Second National Convention</unittitle>
-                    <container id="cid11573001" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11573001" type="Folder">6</container>
-                    <unitdate normal="1962/1962">1962</unitdate>
-                </did>
-                <scopecontent id="ref26">
-                    <head>Scope and Content</head>
-                    <p>Prosin's resume, copies of several different articles, and other materials regarding the presentation of her paper "A Study in Minority Action" at the Daughters of Bilitis Second National Convention.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref27" level="file">
-                <did>
-                    <unittitle>"The Concept of the Lesbian, a Minority in Reverse" by Sue Prosin</unittitle>
-                    <container id="cid11573002" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11573002" type="Folder">7</container>
-                    <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
-                </did>
-                <scopecontent id="ref29">
-                    <head>Scope and Content</head>
-                    <p>Drafts, correspondences, and notes for the publication of Prosin's article, presented at the Daughters of Bilitis Second National Convention under the title of "A Study in Minority Action."</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref30" level="file">
-                <did>
-                    <unittitle>Resource books</unittitle>
-                    <container id="cid11573003" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11573003" type="Folder">8</container>
-                    <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
-                </did>
-                <scopecontent id="ref32">
-                    <head>Scope and Content</head>
-                    <p>
-                        <title render="italic">The Blue Book: A Guide to Gay and Lesbian LA</title> (1979) and 
-                        <title render="italic">LA Women's Yellow Pages</title> (1977)</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref33" level="file">
-                <did>
-                    <unittitle>Correspondence</unittitle>
-                    <container id="cid11573004" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11573004" type="Folder">9</container>
-                    <unitdate normal="1964/1986" type="inclusive">circa 1965-1985</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref35" level="file">
-                <did>
-                    <unittitle>Negatives (photographs)</unittitle>
-                    <container id="cid11573005" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11573005" type="Folder">10</container>
-                    <unitdate>undated</unitdate>
-                </did>
-            </c01>
-            <c01 id="ref37" level="file">
-                <did>
-                    <unittitle>Recipes, poems, notes</unittitle>
-                    <container id="cid11573006" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11573006" type="Folder">11</container>
-                    <unitdate normal="1950/1954" type="inclusive">circa 1951-1953</unitdate>
-                </did>
-                <scopecontent id="ref39">
-                    <head>Scope and Content</head>
-                    <p>Poems, clippings, notes and personal writings of Sue Prosin.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref40" level="file">
-                <did>
-                    <unittitle>Writings</unittitle>
-                    <container id="cid11573007" type="Box" label="Mixed materials">2</container>
-                    <container parent="cid11573007" type="Folder">1</container>
-                    <unitdate>undated</unitdate>
-                </did>
-                <scopecontent id="ref42">
-                    <head>Scope and Content</head>
-                    <p>"The Lesbian: A Study in Self-Image and Role Playing Patterns" and "The Concept of the Lesbian: A Minority in Reverse" by Sue Prosin.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref43" level="file">
-                <did>
-                    <unittitle>Butch-femme study</unittitle>
-                    <container id="cid11573008" type="Box" label="Mixed materials">2</container>
-                    <container parent="cid11573008" type="Folders">2-13</container>
-                    <unitdate normal="1960/1965" type="inclusive">1960-1965</unitdate>
-                </did>
-                <scopecontent id="ref45">
-                    <head>Scope and Content</head>
-                    <p>Contains notes on observations, research literature, research design materials, interviews with couples, data tabulation sheets, research proposals and survey materials for a study on butch-femme relationships and gendered dynamics by Sue Prosin.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref68" level="file">
-                <did>
-                    <unittitle>Audiovisual materials</unittitle>
-                    <container id="cid11584001" type="Box" label="Mixed materials">3</container>
-                    <unitdate normal="1960/1981" type="inclusive">1960-1981</unitdate>
-                </did>
-                <scopecontent id="ref69">
-                    <head>Scope and Content</head>
-                    <p>Includes twenty-three 1/4 inch audio reels pertaining to Prosin's butch-femme study. There is an additional audio reel container that is supposed to include the second reel of selections from Ruth Reid's "Dark Birth," but it is empty. Also includes three audiocassette tapes containing interviews with Sue Prosin.</p>
-                </scopecontent>
-                <phystech id="ref70">
-                    <head>Physical Characteristics and Technical Requirements</head>
-                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
-                </phystech>
-            </c01>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c8dr2xn8/">pros2225.xml</eadid><filedesc><titlestmt><titleproper type="filing">Prosin (Sue) papers</titleproper><titleproper>Finding Aid for the Sue Prosin Papers <num>LSC.2225</num></titleproper><author>Machine-readable finding aid prepared by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 15 February 2018.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information. </p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-11-19 12:06:36 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Sue Prosin papers</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Prosin, Sue</persname>
+    </origination>
+    <unitid>LSC.2225</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.8 linear feet</extent>
+      <extent altrender="carrier">(2 boxes, 1 carton)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1959/1986" type="inclusive">1959-1986</unitdate>
+    <abstract id="aspace_190c56b7345e9fade881391906ba459c" label="Abstract">Sue Prosin was a social scientist who published studies on a range of topics like butch-femme relationships and attitudes of the Jewish community toward African-Americans. She attended San Fernando Valley State College (currenty California State University, Northridge) and was also an active member of the Daughters of Bilitis. This collection contains correspondence, research materials, and various writings by Prosin. The bulk of the collection focuses on her study of butch-femme lesbian relationships between 1960 and 1965.</abstract>
+    <physloc id="aspace_b91e4249daeb25d0c8d191bf7db70811" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_1b176df9fc062fb8ff4d212f4abbf5ee">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_96c90c24b93eabb9c0b942b81b6e69e0">
+    <head>Conditions Governing Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <phystech id="aspace_2b9af465ea2547fcf6047f2d73c0eba6">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>CONTAINS AUDIOVISUAL MATERIALS: This collection contains processed audiovisual materials. All requests to access digital materials must be made in advance using the request button located on this page.</p>  </phystech>
+  <userestrict id="aspace_76599943657dc989eededea9c1590e4e">
+    <head>Conditions Governing Reproduction and Use</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_c1b99e86ac018799edd5b030be9f4759">
+    <head>Provenance/Source of Acquisition</head>
+<p>June Mazer Lesbian Archives, transfer, 2014. Original provenance unknown.</p><p>This collection is part of an outreach and collection-building partnership between the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/">UCLA Library</extref>.</p>  </acqinfo>
+  <odd id="aspace_db54900e1559fd8c459943f5fa702ae0">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9974047283606533">9974047283606533</extref></p>  </odd>
+  <odd id="aspace_3503bdaedbdf4657b4725e170cbe4cbd">
+    <head>Sponsor</head>
+<p>The <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://digital.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the  <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>  </odd>
+  <prefercite id="aspace_dd5e9908757ae5a871d4269455d24f10">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Sue Prosin Papers (Collection 2225). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_bb6b3c766f5f897a54f501cca7d73b2c">
+    <head>Processing History</head>
+<p>Processed by Stacy Wood, 2014. Description enhanced and further physical processing completed by Sabrina Ponce in 2018.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_4df39dff78211db3fe5e9e26be244762">
+    <head>Biography</head>
+<p>Sue Prosin was a social scientist who published studies on a range of topics like butch-femme relationships and attitudes of the Jewish community toward African-Americans. She attended San Fernando Valley State College (now California State University, Northridge) and was also an active member of the Daughters of Bilitis.  The original purpose of the Daughters of Bilitis (founded in 1955) was to counteract the isolation experienced by lesbians, although the organization later focused on educating lesbians about their rights and on lobbying efforts. Prosin died in 2002.</p>  </bioghist>
+  <scopecontent id="aspace_8eed6d5a26d0eda930a086f71be1ae9c">
+    <head>Scope and Content</head>
+<p>This collection contains correspondence, research materials, and various writings by Sue Prosin. The bulk of the collection focuses on a study by Prosin of butch-femme lesbian relationships between 1960 and 1965.</p>  </scopecontent>
+  <arrangement id="aspace_030e0121ca1b7e0a0dbf3ae3c0c3c901">
+    <head>Organization and Arrangement </head>
+<p>Materials arranged by type.</p>  </arrangement>
+  <relatedmaterial id="aspace_ce8268bb97ad1c33af46c00c25a0e605">
+    <head>Related Material</head>
+<p><extref xlink:href="https://www.oac.cdlib.org/findaid/ark:/13030/c89c6z56/" xlink:actuate="onRequest" xlink:show="new">Daughters of Bilitis Records (Collection 1946)</extref>. Available at Library Special Collections, Charles E. Young Research Library, UCLA.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Butch and femme (Lesbian culture)</subject>
+    <persname rules="aacr" source="local">Prosin, Sue -- Archives</persname>
+    <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives</corpname>
+    <corpname source="local">June L. Mazer Lesbian Archive at UCLA</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref9_829" level="file"><did><unittitle>Coursework </unittitle><unitdate datechar="creation" normal="1959/1965" type="inclusive">1959-1965</unitdate><container id="aspace_f4985ac9049346ffa8a7f170cc3d3ed0" label="Mixed Materials" type="box">1</container><container id="aspace_8500427bc1e68d78cf53ec3b594ee7a0" parent="aspace_f4985ac9049346ffa8a7f170cc3d3ed0" type="folder">1-2</container></did><scopecontent id="aspace_bc39846ec5ce53cd37311e236dc7d8dc"><head>Scope and Content</head><p>Papers, drafts of papers, notes and research materials from Prosin's undergraduate course work.</p></scopecontent></c01><c01 id="aspace_ref15_sjn" level="file"><did><unittitle>Planner</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container id="aspace_18691b60666d2674a1c1ba328f9d9859" label="Mixed Materials" type="box">1</container><container id="aspace_f68056b4f4f310fe81cc3e6b643e565d" parent="aspace_18691b60666d2674a1c1ba328f9d9859" type="folder">3</container></did></c01><c01 id="aspace_ref18_q4i" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1962/1986" type="inclusive">1962-1986</unitdate><container id="aspace_0b4407e9f281b6702c8a466b47fee666" label="Mixed Materials" type="box">1</container><container id="aspace_118da315ee39a40799bd6cd96d4cc426" parent="aspace_0b4407e9f281b6702c8a466b47fee666" type="folder">5</container></did><scopecontent id="aspace_7d5d1827edc4f609a6df6d0c3a42d8e4"><head>Scope and Content</head><p>Clippings of news stories concerning activism by Sue Prosin and about her mother, Frieda Trebor, the first occupational therapist in California.</p></scopecontent></c01><c01 id="aspace_ref21_v47" level="file"><did><unittitle>Assorted materials</unittitle><unitdate datechar="creation" normal="1961/1986" type="inclusive">1961-1986</unitdate><container id="aspace_38e51054ae57eeb4cc4056d4c4b0583c" label="Mixed Materials" type="box">1</container><container id="aspace_0ea2956c7907167e82e83b159aaea498" parent="aspace_38e51054ae57eeb4cc4056d4c4b0583c" type="folder">5</container></did><scopecontent id="aspace_cc2d71eed34e484567cc011cc060a927"><head>Scope and Content</head><p>Includes a flyer, notes, and a card to June Mazer and Bunny MacCulloch.</p></scopecontent></c01><c01 id="aspace_ref24_j4u" level="file"><did><unittitle>Daughters of Bilitis Second National Convention</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container id="aspace_b8954a38b8c2d8c5244f3af7495c63e2" label="Mixed Materials" type="box">1</container><container id="aspace_850f14b065ab44937a6f31065d518be7" parent="aspace_b8954a38b8c2d8c5244f3af7495c63e2" type="folder">6</container></did><scopecontent id="aspace_d78e9f59ba30e89273fd4eeebe75a0c5"><head>Scope and Content</head><p>Prosin's resume, copies of several different articles, and other materials regarding the presentation of her paper "A Study in Minority Action" at the Daughters of Bilitis Second National Convention.</p></scopecontent></c01><c01 id="aspace_ref27_fiy" level="file"><did><unittitle>"The Concept of the Lesbian, a Minority in Reverse" by Sue Prosin</unittitle><unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate><container id="aspace_2ccb3694504513ea8306ee2c275620cf" label="Mixed Materials" type="box">1</container><container id="aspace_662990dbe7d54b4c9e059442f9ec39dc" parent="aspace_2ccb3694504513ea8306ee2c275620cf" type="folder">7</container></did><scopecontent id="aspace_2dc2d6666afc06c296cc56056765ca51"><head>Scope and Content</head><p>Drafts, correspondences, and notes for the publication of Prosin's article, presented at the Daughters of Bilitis Second National Convention under the title of "A Study in Minority Action."</p></scopecontent></c01><c01 id="aspace_ref30_4on" level="file"><did><unittitle>Resource books</unittitle><unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate><container id="aspace_a95b2eeb32bcb4d255389c7d661a2afe" label="Mixed Materials" type="box">1</container><container id="aspace_12aaf73671cc3e5609fcb9b80e88a044" parent="aspace_a95b2eeb32bcb4d255389c7d661a2afe" type="folder">8</container></did><scopecontent id="aspace_d85ca2f0ef8c0f89a5b5ca3e26db5cab"><head>Scope and Content</head><p><title render="italic">The Blue Book: A Guide to Gay and Lesbian LA</title> (1979) and <title render="italic">LA Women's Yellow Pages</title> (1977)</p></scopecontent></c01><c01 id="aspace_ref33_hl1" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1964/1986" type="inclusive">circa 1965-1985</unitdate><container id="aspace_a07dc423f9780799dc67405e0af0e6eb" label="Mixed Materials" type="box">1</container><container id="aspace_03947f30ac64ea1f04ff5a03f6b0fa5f" parent="aspace_a07dc423f9780799dc67405e0af0e6eb" type="folder">9</container></did></c01><c01 id="aspace_ref35_law" level="file"><did><unittitle>Negatives (photographs)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_0e1f05e8dac92a9f418f0fd57a03ec83" label="Mixed Materials" type="box">1</container><container id="aspace_feda63de9d3bd7f7eb8cb3bff45f4fab" parent="aspace_0e1f05e8dac92a9f418f0fd57a03ec83" type="folder">10</container></did></c01><c01 id="aspace_ref37_j85" level="file"><did><unittitle>Recipes, poems, notes</unittitle><unitdate datechar="creation" normal="1950/1954" type="inclusive">circa 1951-1953</unitdate><container id="aspace_0ac02e2d7b8be674a52c810e1637c030" label="Mixed Materials" type="box">1</container><container id="aspace_72908a02533b5c6cc768a5125308e35e" parent="aspace_0ac02e2d7b8be674a52c810e1637c030" type="folder">11</container></did><scopecontent id="aspace_a576bdf59e467f1c13cb91e4b44dfd33"><head>Scope and Content</head><p>Poems, clippings, notes and personal writings of Sue Prosin.</p></scopecontent></c01><c01 id="aspace_ref40_bs4" level="file"><did><unittitle>Writings</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_6e7ecb31270afc7cbec1cbc23fde6d90" label="Mixed Materials" type="box">2</container><container id="aspace_f2b4bf8270faa286aa6234ebecda419e" parent="aspace_6e7ecb31270afc7cbec1cbc23fde6d90" type="folder">1</container></did><scopecontent id="aspace_835dd413cfb61aa41312483926e60456"><head>Scope and Content</head><p>"The Lesbian: A Study in Self-Image and Role Playing Patterns" and "The Concept of the Lesbian: A Minority in Reverse" by Sue Prosin.</p></scopecontent></c01><c01 id="aspace_ref43_h2m" level="file"><did><unittitle>Butch-femme study</unittitle><unitdate datechar="creation" normal="1960/1965" type="inclusive">1960-1965</unitdate><container id="aspace_22ad6011b9b918e5bab1be331290eba2" label="Mixed Materials" type="box">2</container><container id="aspace_cef5e84e86f39758fca42f3dbcbe9ff9" parent="aspace_22ad6011b9b918e5bab1be331290eba2" type="folder">2-13</container></did><scopecontent id="aspace_7f2362149905bf632c841f1c7f66de33"><head>Scope and Content</head><p>Contains notes on observations, research literature, research design materials, interviews with couples, data tabulation sheets, research proposals and survey materials for a study on butch-femme relationships and gendered dynamics by Sue Prosin.</p></scopecontent></c01><c01 id="aspace_ref68_r0t" level="file"><did><unittitle>Audiovisual materials</unittitle><unitdate datechar="creation" normal="1960/1981" type="inclusive">1960-1981</unitdate><container id="aspace_fee8049114a902ee59838311420ab93f" label="Mixed Materials" type="box">3</container></did><scopecontent id="aspace_227f2625a61644db7e914573fbd3c7bc"><head>Scope and Content</head><p>Includes twenty-three 1/4 inch audio reels pertaining to Prosin's butch-femme study. There is an additional audio reel container that is supposed to include the second reel of selections from Ruth Reid's "Dark Birth," but it is empty. Also includes three audiocassette tapes containing interviews with Sue Prosin.</p></scopecontent><phystech id="aspace_b7aff047dc844c428e119ff66847a14c"><head>Physical Characteristics and Technical Requirements</head><p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p></phystech></c01></dsc>
+</archdesc>
 </ead>
