@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC">weat2223.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Carolyn Weathers papers, 
+                    <date calendar="gregorian" normal="1971/2010" era="ce">1971-2010</date>
+                    <num>LSC.2223</num>
+                </titleproper>
+                <titleproper type="filing">Weathers (Carolyn) papers</titleproper>
+                <author>Finding aid prepared by Stacy Wood, 2014; Sabrina Ponce, 2017; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Finding aid last updated 31 January 2018.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-01-31T09:21-0800</date>
+            </creation>
+            <langusage>Finding aid written in: 
+                <language>English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Carolyn Weathers papers</unittitle>
+            <unitid>LSC.2223</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.8 linear feet</extent>
+                <extent>(2 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1971/2010" type="inclusive">1971-2010</unitdate>
+            <abstract id="ref2" label="Abstract">Carolyn Weathers is a lesbian activist and publisher. This collection contain flyers, brochures, publications, and other materials related to the operation of Clothespin Fever Press, a lesbian press founded by Carolyn Weathers and Jenny Wrenn in the 1980s.</abstract>
+            <langmaterial id="ref36" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref43" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="rda" source="local">Weathers, Carolyn</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref44">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref52">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical objects belong to the UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref46">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Carolyn Weathers Papers (Collection 2223). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Provenance unknown.</p>
+            <p>This collection is part of an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing History</head>
+            <p>This collection was processed by Stacy Wood, March 2014. Description enhanced and further physical processing completed by Sabrina Ponce in 2017.</p>
+            <p></p>
+        </processinfo>
+        <odd id="ref47">
+            <head>Sponsor</head>
+            <p>The 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+        </odd>
+        <odd id="ref40">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7594284">7594284</extref></p>
+        </odd>
+        <bioghist id="ref9">
+            <head>Biography</head>
+            <p>Born in 1941, Carolyn Weathers is the daughter of a Southern Baptist preacher. She moved to Los Angeles after being expelled from a Texas University when she came out as a lesbian. She was an enthusiastic participant in the pre-Stonewall bar scene in San Antonio, Texas and in the Gay Liberation Front and the Gay Women's Liberation Front at the Women's Center of Los Angeles.</p>
+            <p>She was a co-publisher with artist Jenny Wrenn, of Clothespin Fever Press, a now defunct lesbian book publishing company that operated from 1986-1994. Her stories and remembrances are included in 
+                <title render="italic">Gay LA: A History of Sexual Outlaws, Power Politics and Lipstick Lesbians </title>by Lillian Faderman and Stuart Timmons as well as in
+                <title render="italic"> Feminists Who Changed America 1963-1975</title> edited by Barbara Love. She also wrote a memoir, titled
+                <title render="italic"> Her Leaving Texas</title> (1986). After retiring from her job as a public librarian for the Los Angeles Public Library, she began writing the column "True Life Lesbian Adventures" for the June L. Mazer Lesbian Archives. Weathers was awarded with an LGBT Heritage Award by the City of Los Angeles In June 2015.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content</head>
+            <p>This collection contain flyers, brochures, publications, and other materials related to the operation of Clothespin Fever Press, a lesbian press founded by Carolyn Weathers and Jenny Wrenn in the 1980s.</p>
+        </scopecontent>
+        <arrangement id="ref41">
+            <head>Organization and Arrangement</head>
+            <p>Materials arranged by type.</p>
+        </arrangement>
+        <relatedmaterial id="ref53">
+            <head>Related Material</head>
+            <p>Carolyn Weathers Photographs and Papers, Coll2014-008, ONE National Gay &amp; Lesbian Archives, USC Libraries, University of Southern California.</p>
+        </relatedmaterial>
+        <phystech id="ref51">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+            <p>COLLECTION CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </phystech>
+        <controlaccess>
+            <corpname rules="rda" source="local">Clothespin Fever Press -- Archives.</corpname>
+            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
+            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
+            <persname rules="rda" source="local">Weathers, Carolyn -- Archives</persname>
+            <subject source="lcsh">Feminist literature--Publishing. </subject>
+            <subject source="lcsh">Lesbian activists--California--Archives.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">The House of Pelham Falls</title> by Brenda Weathers</unittitle>
+                    <container id="cid11532001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11532001" type="Folders">1-2</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Content</head>
+                    <p>Manuscript by Carolyn Weathers's sister Brenda, with editorial notes by Katherine Forrest.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>"A History of Clothespin Fever Press"</unittitle>
+                    <container id="cid11532002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11532002" type="Folder">3</container>
+                    <unitdate normal="2004/2004">2004</unitdate>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Content</head>
+                    <p>Narrative history of Clothespin Fever Press written by Carolyn Weathers in preparation for an event in their honor at ONE Institute and Archives in 2004.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle>Flyers and brochures</unittitle>
+                    <container id="cid11532003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11532003" type="Folder">4</container>
+                    <unitdate normal="1976/1991" type="inclusive">1976-1991</unitdate>
+                </did>
+                <scopecontent id="ref20">
+                    <head>Scope and Content</head>
+                    <p>Flyers for True Life Lesbian Adventures by Carolyn Weathers at the June L. Mazer Lesbian Archives. Brochures for Women's Health and Healing Conference 1976 and the Westside Women's Clinic.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref21" level="file">
+                <did>
+                    <unittitle>Clothespin Fever Press catalogs</unittitle>
+                    <container id="cid11532004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11532004" type="Folder">5</container>
+                    <unitdate normal="1990/2004" type="inclusive">1990-2004</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">Lesbian Line</title></unittitle>
+                    <container id="cid11532005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11532005" type="Folder">6</container>
+                    <unitdate normal="1988/1994" type="inclusive">1988-1994</unitdate>
+                </did>
+                <scopecontent id="ref26">
+                    <head>Scope and Content</head>
+                    <p>Quarterly newspaper and catalogs for Clothespin Fever Press.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref27" level="file">
+                <did>
+                    <unittitle>Women's History postcards</unittitle>
+                    <container id="cid11532006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11532006" type="Folder">7</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <scopecontent id="ref29">
+                    <head>Scope and Content</head>
+                    <p>Clothespin Fever Press purchased these postcards from Helaine Victoria Press.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref30" level="file">
+                <did>
+                    <unittitle>Jenny Wrenn photo project</unittitle>
+                    <container id="cid11532008" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11532008" type="Folder">8</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Content</head>
+                    <p>Printed photo reproductions by Clothespin Fever Press co-founder Jenny Wrenn.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref33" level="file">
+                <did>
+                    <unittitle>Books</unittitle>
+                    <container id="cid11532007" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11532007" type="Folder">9</container>
+                    <unitdate normal="1985/1989" type="inclusive">1985-1989</unitdate>
+                </did>
+                <scopecontent id="ref35">
+                    <head>Scope and Content</head>
+                    <p>Words in Our Pockets: How to Gain Power, Get Published and Get Paid: The Feminist Writers guild Handbook, ed. Celeste West (1985) and Womb with Views: A Contradictionary of the english language by Kate Musgrave (1989).</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref48" level="file">
+                <did>
+                    <unittitle>Plaques</unittitle>
+                    <container id="cid11532009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11532009" type="Folder">10</container>
+                    <unitdate normal="1990/2010" type="inclusive">1990-2010</unitdate>
+                </did>
+                <scopecontent id="ref49">
+                    <head>Scope and Content</head>
+                    <p>Invitation to the Inauguration Ceremony for the Mayor of Houston, Annise D. Parker and a plaque from Clothespin Fever Press to Ann Bradley for her "Excellent Work in Supporting And Promoting Lesbian Literature in Los Angeles."</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref37" level="file">
+                <did>
+                    <unittitle>Audiovisual materials</unittitle>
+                    <container id="cid10415002" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1971/2010" type="inclusive">1971-2010</unitdate>
+                </did>
+                <scopecontent id="ref50">
+                    <head>Scope and Content</head>
+                    <p>Includes recordings of Weathers' poetry readings, performances, interviews and other material related to Weather's career as a publisher and activist. Contains one VHS cassette, one audio disc, 9 DVDs with videorecordings, 1 DVD with slides, 3 audiocassettes, and one DVD titled "HomoFiles 6/30/2010 Marie Cartier + Carolyn Weathers" of unknown material.</p>
+                </scopecontent>
+                <phystech id="ref38">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
+                    <p>COLLECTION CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing. To access digital materials you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
+                </phystech>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
