@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8pv6njn">beer2222.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Jinx Beers papers 
+<date calendar="gregorian" normal="1975/2013" era="ce">1975-2013</date>
+</titleproper>
+<titleproper type="filing">Beers (Jinx) papers</titleproper>
+<author>Finding aid prepared by Stacy Wood, 2014; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©2014 The Regents of the University of California. All rights reserved.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2014-04-17T13:27-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<langusage>Finding aid written in: 
+<language>English.</language></langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+ <head>Descriptive Summary</head>
+<unittitle>Jinx Beers papers</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2222</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>5 linear ft.</extent>
+<extent>(10 boxes)</extent>
+</physdesc>
+<unitdate normal="1975/2013" type="inclusive">1975-2013</unitdate>
+<abstract id="ref2" label="Abstract">Jinx Beers was founder of <title source="aacr2" encodinganalog="630">Lesbian News</title> and lifelong lesbian activist throughout Southern California. This collection represents administrative activities of <title source="aacr2" encodinganalog="630">Lesbian News</title> as well as the writing and publication of Beers's memoir and various stories and articles.</abstract>
+<langmaterial id="ref166" label="Language of Materials">Materials are in English.</langmaterial>
+<physloc id="ref3" label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+<origination label="Creator">
+<persname rules="aacr" source="local">Beers, Jinx</persname>
+</origination>
+</did>
+<accessrestrict id="ref4">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</p>
+</accessrestrict>
+<userestrict id="ref5">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite id="ref6">
+<head>Preferred Citation</head>
+<p>[Identification of item], Jinx Beers papers, (Collection 2222). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7400136">7400136</extref></p>
+</odd>
+<acqinfo id="ref7">
+<head>Acquisition Information</head>
+<p>The materials were donated by Baylis Glascock.</p>
+<p>This collection is part of an outreach and collection-building partnership between the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+</acqinfo>
+<processinfo id="ref167">
+<head>Processing Information</head>
+<p>Processed by Stacy Wood, 2014.</p>
+<p>The 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+</processinfo>
+<bioghist id="ref8">
+<head>Biography</head>
+<p>Jinx Beers was born in Pasadena, CA in 1933. She joined the Air Force and after receiving an honorable discharge, she remained active in Reserves for another twelve years. She resigned in 1974 due to the United States Military's policies concerning homosexuals. She then went on to earn a Bachelor of Arts degree from the University of California Los Angeles in experimental psychology. She worked at the UCLA Institute for Transportation and Traffic Engineering for eighteen years.</p>
+<p>In 1973, Beers co-taught the first lesbian studies class at the Experimental College at the University of California Los Angeles, which served as a connecting point for many Los Angeles activists and yielded a group called Lesbian Activists.</p>
+<p>In 1975, Beers founded The LN (The Lesbian News), a publication of lesbian news that is still active and published monthly. After fourteen years as the editor and owner of The LN, Jinx Beers sold the periodical and begin publishing LSF: Lesbian Short Fiction. She also managed the business of artist and partner Alicia Austin.</p>
+<p>2008 saw the publication of her memoir, Memoirs of an Old Dyke and in 2009, she was honored with a proclamation by the City of West Hollywood as well as with an Etheridge Award for her service to the community.</p>
+</bioghist>
+<scopecontent id="ref9">
+<head>Scope and Content</head>
+<p>This collection includes Beers's personal materials including research and preparatory work for her memoir 
+<title>Memoirs of an Old Dyke</title> as well as administrative materials for the magazine, 
+<title>Lesbian News.</title></p>
+</scopecontent>
+<controlaccess>
+<persname rules="aacr" source="local">Beers, Jinx -- Archives</persname>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref10" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279233" type="Box">1</container>
+<container parent="cid8279233" type="Folder">1</container>
+<unitdate>1975-1976.</unitdate>
+<physdesc id="ref11">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref12">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref13" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279232" type="Box">1</container>
+<container parent="cid8279232" type="Folder">2</container>
+<unitdate>1977.</unitdate>
+<physdesc id="ref14">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref15">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref16" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279231" type="Box">1</container>
+<container parent="cid8279231" type="Folder">3</container>
+<unitdate>1978.</unitdate>
+<physdesc id="ref17">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref18">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref19" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279230" type="Box">1</container>
+<container parent="cid8279230" type="Folder">4</container>
+<unitdate>1979.</unitdate>
+<physdesc id="ref20">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref21">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref22" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279229" type="Box">1</container>
+<container parent="cid8279229" type="Folder">5</container>
+<unitdate>1979-2005.</unitdate>
+<physdesc id="ref23">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref24">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref25" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279228" type="Box">1</container>
+<container parent="cid8279228" type="Folder">6</container>
+<unitdate>1980.</unitdate>
+<physdesc id="ref26">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref27">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref28" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279227" type="Box">2</container>
+<container parent="cid8279227" type="Folder">1</container>
+<unitdate>1982.</unitdate>
+<physdesc id="ref29">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref30">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref31" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279226" type="Box">2</container>
+<container parent="cid8279226" type="Folder">2</container>
+<unitdate>1983.</unitdate>
+<physdesc id="ref32">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref33">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref34" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279225" type="Box">2</container>
+<container parent="cid8279225" type="Folder">3</container>
+<unitdate>1984.</unitdate>
+<physdesc id="ref35">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref36">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref37" level="file">
+<did>
+<unittitle>Lesbian News Correspondence.</unittitle>
+<container id="cid8279224" type="Box">2</container>
+<container parent="cid8279224" type="Folder">4</container>
+<unitdate>1985.</unitdate>
+<physdesc id="ref38">handwritten notes, envelopes</physdesc>
+</did>
+<scopecontent id="ref39">
+<p>Correspondence related to the operations and subscriptions of the Lesbian News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref40" level="file">
+<did>
+<unittitle>Lesbian News - Correspondence.</unittitle>
+<container id="cid8279223" type="Box">3</container>
+<container parent="cid8279223" type="Folder">1</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref41">handwritten notes, printed paper, envelopes</physdesc>
+</did>
+<scopecontent id="ref42">
+<p>Correspondence having to do with Lesbian News. Includes correspondence from advertisers, subscribers and readers.</p>
+</scopecontent>
+</c01>
+<c01 id="ref43" level="file">
+<did>
+<unittitle>Lesbian News - Correspondence.</unittitle>
+<container id="cid8279222" type="Box">3</container>
+<container parent="cid8279222" type="Folder">2</container>
+<unitdate>1987.</unitdate>
+<physdesc id="ref44">handwritten notes, printed paper, envelopes</physdesc>
+</did>
+<scopecontent id="ref45">
+<p>Correspondence having to do with the Lesbian News, includes correspondence from advertisers, subscribers and additional readers.</p>
+</scopecontent>
+</c01>
+<c01 id="ref46" level="file">
+<did>
+<unittitle>Sale of the Lesbian News.</unittitle>
+<container id="cid8279221" type="Box">3</container>
+<container parent="cid8279221" type="Folder">3</container>
+<unitdate>July-August, 1989.</unitdate>
+<physdesc id="ref47">printed paper</physdesc>
+</did>
+<scopecontent id="ref48">
+<p>Includes agreements, correspondence, promissory notes, security agreement and bill of sale pertaining to the sale of the Lesbian News from Jinx Beers to Deborah Bergman.</p>
+</scopecontent>
+</c01>
+<c01 id="ref49" level="file">
+<did>
+<unittitle>The Lesbian News.</unittitle>
+<container id="cid8279220" type="Box">3</container>
+<container parent="cid8279220" type="Folder">4</container>
+<unitdate>1989-2005.</unitdate>
+<physdesc id="ref50">magazines, printed paper</physdesc>
+</did>
+<scopecontent id="ref51">
+<p>Includes four issues of The Lesbian News: September 1989, August 1997, February and April 2005.</p>
+</scopecontent>
+</c01>
+<c01 id="ref52" level="file">
+<did>
+<unittitle>Non-fiction essays by Jinx Beers.</unittitle>
+<container id="cid8279219" type="Box">4</container>
+<container parent="cid8279219" type="Folder">1</container>
+<unitdate>1960-1971.</unitdate>
+<physdesc id="ref53">printed paper with handwritten notes</physdesc>
+</did>
+<scopecontent id="ref54">
+<p>Includes: The Lesbian: Coworker, Wife and Mother That Western Sidewinder! Stop, Mother: Don't Deny Your Youngster a Pet Snake! Beauty Away from the Crowds: Lava Bed National Monument</p>
+</scopecontent>
+</c01>
+<c01 id="ref55" level="file">
+<did>
+<unittitle>Short stories by Jinx Beers.</unittitle>
+<container id="cid8279218" type="Box">4</container>
+<container parent="cid8279218" type="Folder">2</container>
+<unitdate>1990-2006.</unitdate>
+<physdesc id="ref56">printed paper with handwritten notes</physdesc>
+</did>
+<scopecontent id="ref57">
+<p>Includes: To Fly with Eagles No Turning Back Leonard The Election Everything is a Matter of Timing The Patchwork Dragon The Mouse The Best Laid Schemes The Amazing Miss Manody</p>
+</scopecontent>
+</c01>
+<c01 id="ref58" level="file">
+<did>
+<unittitle>Jan (working title).</unittitle>
+<container id="cid8279217" type="Box">4</container>
+<container parent="cid8279217" type="Folder">3</container>
+<unitdate>1993.</unitdate>
+<physdesc id="ref59">printed paper</physdesc>
+</did>
+<scopecontent id="ref60">
+<p>Manuscript for Jan, a novella by Jinx Beers. Also includes correspondence with NAIAD Press.</p>
+</scopecontent>
+</c01>
+<c01 id="ref61" level="file">
+<did>
+<unittitle>Poems.</unittitle>
+<container id="cid8279216" type="Box">4</container>
+<container parent="cid8279216" type="Folder">4</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref62">printed paper</physdesc>
+</did>
+<scopecontent id="ref63">
+<p>Poems by Jinx Beers.</p>
+</scopecontent>
+</c01>
+<c01 id="ref64" level="file">
+<did>
+<unittitle>Memoirs of an Old Dyke - Advertisements.</unittitle>
+<container id="cid8279215" type="Box">4</container>
+<container parent="cid8279215" type="Folder">5</container>
+<unitdate>2009-2001.</unitdate>
+<physdesc id="ref65">printed paper</physdesc>
+</did>
+<scopecontent id="ref66">
+<p>Documents relating to advertising for Jinx Beers's memoirs.</p>
+</scopecontent>
+</c01>
+<c01 id="ref67" level="file">
+<did>
+<unittitle>Memoirs of an Old Dyke - Review Information.</unittitle>
+<container id="cid8279214" type="Box">4</container>
+<container parent="cid8279214" type="Folder">6</container>
+<unitdate>2010.</unitdate>
+<physdesc id="ref68">printed paper</physdesc>
+</did>
+<scopecontent id="ref69">
+<p>Copies of or notices of reviews of Memoirs of an Old Dyke.</p>
+</scopecontent>
+</c01>
+<c01 id="ref70" level="file">
+<did>
+<unittitle>Radio Interview Information.</unittitle>
+<container id="cid8279213" type="Box">4</container>
+<container parent="cid8279213" type="Folder">7</container>
+<unitdate>2010.</unitdate>
+<physdesc id="ref71">printed paper</physdesc>
+</did>
+<scopecontent id="ref72">
+<p>Emails, correspondence and other information concerning radio interviews with Jinx Beers.</p>
+</scopecontent>
+</c01>
+<c01 id="ref73" level="file">
+<did>
+<unittitle>Book Orders.</unittitle>
+<container id="cid8279212" type="Box">4</container>
+<container parent="cid8279212" type="Folder">8</container>
+<unitdate>2010.</unitdate>
+<physdesc id="ref74">printed paper</physdesc>
+</did>
+<scopecontent id="ref75">
+<p>Copies of orders for Memoirs of an Old Dyke.</p>
+</scopecontent>
+</c01>
+<c01 id="ref76" level="file">
+<did>
+<unittitle>Miscellaneous.</unittitle>
+<container id="cid8279211" type="Box">4</container>
+<container parent="cid8279211" type="Folder">9</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref77">printed paper</physdesc>
+</did>
+<scopecontent id="ref78">
+<p>Handwritten notes, copyright information and other research materials for self publishing.</p>
+</scopecontent>
+</c01>
+<c01 id="ref79" level="file">
+<did>
+<unittitle>Promotional materials and correspondence.</unittitle>
+<container id="cid8279210" type="Box">4</container>
+<container parent="cid8279210" type="Folder">10</container>
+<unitdate>2010-2011.</unitdate>
+<physdesc id="ref80">printed paper</physdesc>
+</did>
+<scopecontent id="ref81">
+<p>Correspondence with advertisers and promoters concerning Memoirs of an Old Dyke.</p>
+</scopecontent>
+</c01>
+<c01 id="ref82" level="file">
+<did>
+<unittitle>Memoirs of an Old Dyke - Correction Process.</unittitle>
+<container id="cid8279209" type="Box">5</container>
+<container parent="cid8279209" type="Folder">1</container>
+<unitdate>2008.</unitdate>
+<physdesc id="ref83">printed paper, handwritten notes</physdesc>
+</did>
+<scopecontent id="ref84">
+<p>Contains documentation of the correction process for Jinx Beers's memoir.</p>
+</scopecontent>
+</c01>
+<c01 id="ref85" level="file">
+<did>
+<unittitle>Memoirs of an Old Dyke - Final Draft (submitted to publisher).</unittitle>
+<container id="cid8279208" type="Box">5</container>
+<container parent="cid8279208" type="Folder">2</container>
+<unitdate>2008.</unitdate>
+<physdesc id="ref86">printed paper</physdesc>
+</did>
+<scopecontent id="ref87">
+<p>Final draft of Jinx Beers's memoir, later submitted to publisher.</p>
+</scopecontent>
+</c01>
+<c01 id="ref88" level="file">
+<did>
+<unittitle>Memoirs of an Old Dyke - Proof.</unittitle>
+<container id="cid8279207" type="Box">5</container>
+<container parent="cid8279207" type="Folder">3</container>
+<unitdate>2009.</unitdate>
+<physdesc id="ref89">printed paper, photocopy</physdesc>
+</did>
+<scopecontent id="ref90">
+<p>A photocopied copy of the proof of Jinx Beers's memoir, includes visuals.</p>
+</scopecontent>
+</c01>
+<c01 id="ref91" level="file">
+<did>
+<unittitle>Memoirs of an Old Dyke - Correspondence and Email.</unittitle>
+<container id="cid8279206" type="Box">5</container>
+<container parent="cid8279206" type="Folder">4</container>
+<unitdate>2007-2009.</unitdate>
+<physdesc id="ref92">printed paper</physdesc>
+</did>
+<scopecontent id="ref93">
+<p>Correspondence, print outs of email concerning the publication, editing process and marketing of Jinx Beers's memoir.</p>
+</scopecontent>
+</c01>
+<c01 id="ref94" level="file">
+<did>
+<unittitle>Memoirs of an Old Dyke - Photographs.</unittitle>
+<container id="cid8279205" type="Box">5</container>
+<container parent="cid8279205" type="Folder">5</container>
+<unitdate>No date.</unitdate>
+<physdesc id="ref95">photographs, photocopies</physdesc>
+</did>
+<scopecontent id="ref96">
+<p>Photographs used for Jinx Beers's memoir.</p>
+</scopecontent>
+</c01>
+<c01 id="ref97" level="file">
+<did>
+<unittitle>Correspondence - Alicia Austin.</unittitle>
+<container id="cid8279204" type="Box">6</container>
+<container parent="cid8279204" type="Folder">1</container>
+<unitdate>2004-2011.</unitdate>
+<physdesc id="ref98">printed paper, post it notes, handwritten notes</physdesc>
+</did>
+<scopecontent id="ref99">
+<p>Correspondence about the breakup of Alicia Austin and Jinx Beers. Includes correspondence between Alicia and Jinx as well as between friends in reference to the details and fallout of their breakup.</p>
+</scopecontent>
+</c01>
+<c01 id="ref100" level="file">
+<did>
+<unittitle>Correspondence - Kathy, Gail and Alan.</unittitle>
+<container id="cid8279203" type="Box">6</container>
+<container parent="cid8279203" type="Folder">2</container>
+<unitdate>2004-2013.</unitdate>
+<physdesc id="ref101">printed paper</physdesc>
+</did>
+<scopecontent id="ref102">
+<p>Correspondence between Jinx Beers and three friends, Kathy, Gail and Alan.</p>
+</scopecontent>
+</c01>
+<c01 id="ref103" level="file">
+<did>
+<unittitle>Correspondence - Miscellaneous.</unittitle>
+<container id="cid8279202" type="Box">6</container>
+<container parent="cid8279202" type="Folder">3</container>
+<unitdate>2005-2013.</unitdate>
+<physdesc id="ref104">printed paper</physdesc>
+</did>
+<scopecontent id="ref105">
+<p>Miscellaneous correspondence, both professional and personal of Jinx Beers.</p>
+</scopecontent>
+</c01>
+<c01 id="ref106" level="file">
+<did>
+<unittitle>Correspondence - Awards/Interviews.</unittitle>
+<container id="cid8279201" type="Box">6</container>
+<container parent="cid8279201" type="Folder">4</container>
+<unitdate>2008-2012.</unitdate>
+<physdesc id="ref107">printed paper</physdesc>
+</did>
+<scopecontent id="ref108">
+<p>Correspondence concerning the awards and interviews of Jinx Beers.</p>
+</scopecontent>
+</c01>
+<c01 id="ref109" level="file">
+<did>
+<unittitle>Correspondence - Virginia.</unittitle>
+<container id="cid8279200" type="Box">6</container>
+<container parent="cid8279200" type="Folder">5</container>
+<unitdate>2009-2011.</unitdate>
+<physdesc id="ref110">printed paper</physdesc>
+</did>
+<scopecontent id="ref111">
+<p>Correspondence between Jinx Beers and her friend Virginia.</p>
+</scopecontent>
+</c01>
+<c01 id="ref112" level="file">
+<did>
+<unittitle>Rainbow Key Award Nomination Paperwork.</unittitle>
+<container id="cid8279199" type="Box">6</container>
+<container parent="cid8279199" type="Folder">6</container>
+<unitdate>2010.</unitdate>
+<physdesc id="ref113">printed paper</physdesc>
+</did>
+<scopecontent id="ref114">
+<p>Paperwork for the nomination of the Rainbow Key Award, an award given by the city of West Hollywood, California for outstanding contributions to the gay and lesbian community.</p>
+</scopecontent>
+</c01>
+<c01 id="ref115" level="file">
+<did>
+<unittitle>Correspondence - June L. Mazer Archives.</unittitle>
+<container id="cid8279198" type="Box">6</container>
+<container parent="cid8279198" type="Folder">7</container>
+<unitdate>2010-2013.</unitdate>
+<physdesc id="ref116">printed paper</physdesc>
+</did>
+<scopecontent id="ref117">
+<p>Correspondence concerning the deposit of the Jinx Beers Papers to the June L. Mazer Archives.</p>
+</scopecontent>
+</c01>
+<c01 id="ref118" level="file">
+<did>
+<unittitle>Correspondence - Professional.</unittitle>
+<container id="cid8279197" type="Box">6</container>
+<container parent="cid8279197" type="Folder">8</container>
+<unitdate>2012.</unitdate>
+<physdesc id="ref119">printed paper</physdesc>
+</did>
+<scopecontent id="ref120">
+<p>Correspondence having to do with Jinx Beers's professional life.</p>
+</scopecontent>
+</c01>
+<c01 id="ref121" level="file">
+<did>
+<unittitle>Volume Notes.</unittitle>
+<container id="cid8279196" type="Box">6</container>
+<container parent="cid8279196" type="Folder">9</container>
+<unitdate>2013.</unitdate>
+<physdesc id="ref122">handwritten note</physdesc>
+</did>
+<scopecontent id="ref123">
+<p>Notes on volume assembled by Jinx Beers in preparation to donate her collection to the June L. Mazer Archives. Each folder has retained its original label.</p>
+</scopecontent>
+</c01>
+<c01 id="ref124" level="file">
+<did>
+<unittitle>Photographs "Jinx as an Adult".</unittitle>
+<container id="cid8279195" type="Box">7</container>
+<container parent="cid8279195" type="Folder">1</container>
+<unitdate>1974-1999.</unitdate>
+<physdesc id="ref125">photographs</physdesc>
+</did>
+<scopecontent id="ref126">
+<p>Photographs from Jinx Beers's adult life.</p>
+</scopecontent>
+</c01>
+<c01 id="ref127" level="file">
+<did>
+<unittitle>Photographs - "Jinx and/or Lovers".</unittitle>
+<container id="cid8279194" type="Box">7</container>
+<container parent="cid8279194" type="Folder">2</container>
+<unitdate>1975-2005.</unitdate>
+<physdesc id="ref128">photographs</physdesc>
+</did>
+<scopecontent id="ref129">
+<p>Photographs of Jinx with lovers over the years.</p>
+</scopecontent>
+</c01>
+<c01 id="ref130" level="file">
+<did>
+<unittitle>FRONTIERS Magazine.</unittitle>
+<container id="cid8279193" type="Box">7</container>
+<container parent="cid8279193" type="Folder">3</container>
+<unitdate>1985.</unitdate>
+<physdesc id="ref131">newsprint</physdesc>
+</did>
+<scopecontent id="ref132">
+<p>Jinx Beers was the cover story for this issue of FRONTIERS magazine.</p>
+</scopecontent>
+</c01>
+<c01 id="ref133" level="file">
+<did>
+<unittitle>Ephemera/Awards.</unittitle>
+<container id="cid8279192" type="Box">7</container>
+<container parent="cid8279192" type="Folder">4</container>
+<unitdate>1987-1995.</unitdate>
+<physdesc id="ref134">printed paper, ribbon</physdesc>
+</did>
+<scopecontent id="ref135">
+<p>Includes the Lesbian of the Year Award (homemade), Dick Michaels Media Awards and a Novel Writing Workshop Certificate.</p>
+</scopecontent>
+</c01>
+<c01 id="ref136" level="file">
+<did>
+<unittitle>Handmade Cards.</unittitle>
+<container id="cid8279191" type="Box">7</container>
+<container parent="cid8279191" type="Folder">5</container>
+<unitdate>2003-2005.</unitdate>
+<physdesc id="ref137">crosstiched paper</physdesc>
+</did>
+<scopecontent id="ref138">
+<p>Crosstitched homemade cards by Sister Virginia.</p>
+</scopecontent>
+</c01>
+<c01 id="ref139" level="file">
+<did>
+<unittitle>Ransom Notes.</unittitle>
+<container id="cid8279190" type="Box">7</container>
+<container parent="cid8279190" type="Folder">6</container>
+<unitdate>2005-2006.</unitdate>
+<physdesc id="ref140">printed paper</physdesc>
+</did>
+<scopecontent id="ref141">
+<p>Several issues of the "Ransom Notes"</p>
+</scopecontent>
+</c01>
+<c01 id="ref142" level="file">
+<did>
+<unittitle>Handmade cards.</unittitle>
+<container id="cid8279189" type="Box">7</container>
+<container parent="cid8279189" type="Folder">7</container>
+<unitdate>2006-2009.</unitdate>
+<physdesc id="ref143">crosstiched paper</physdesc>
+</did>
+<scopecontent id="ref144">
+<p>Crosstiched homemade cards by Sister Virginia.</p>
+</scopecontent>
+</c01>
+<c01 id="ref145" level="file">
+<did>
+<unittitle>Nobody Loves you Like a Sister.</unittitle>
+<container id="cid8279188" type="Box">7</container>
+<container parent="cid8279188" type="Folder">8</container>
+<unitdate>2007.</unitdate>
+<physdesc id="ref146">bound book</physdesc>
+</did>
+<scopecontent id="ref147">
+<p>Published book through New Leaf Press.</p>
+</scopecontent>
+</c01>
+<c01 id="ref148" level="file">
+<did>
+<unittitle>Handmade Cards.</unittitle>
+<container id="cid8279187" type="Box">7</container>
+<container parent="cid8279187" type="Folder">9</container>
+<unitdate>2010-2011.</unitdate>
+<physdesc id="ref149">crosstiched paper</physdesc>
+</did>
+<scopecontent id="ref150">
+<p>Crosstitched homemade cards by Sister Virginia.</p>
+</scopecontent>
+</c01>
+<c01 id="ref151" level="file">
+<did>
+<unittitle>Photographs - "Airforce/Germany".</unittitle>
+<container id="cid8279186" type="Box">7</container>
+<container parent="cid8279186" type="Folder">10</container>
+<unitdate>No date.</unitdate>
+<physdesc id="ref152">photographs</physdesc>
+</did>
+</c01>
+<c01 id="ref153" level="file">
+<did>
+<unittitle>Photographs - "Jinx as child".</unittitle>
+<container id="cid8279185" type="Box">7</container>
+<container parent="cid8279185" type="Folder">11</container>
+<unitdate>No date.</unitdate>
+<physdesc id="ref154">Photographs</physdesc>
+</did>
+</c01>
+<c01 id="ref155" level="file">
+<did>
+<unittitle>Photographs - Miscellaneous.</unittitle>
+<container id="cid8279184" type="Box">7</container>
+<container parent="cid8279184" type="Folder">12</container>
+<unitdate>No date.</unitdate>
+<physdesc id="ref156">photographs</physdesc>
+</did>
+</c01>
+<c01 id="ref157" level="file">
+<did>
+<unittitle>Photos and photo discs.</unittitle>
+<container id="cid8279183" type="Box">7</container>
+<container parent="cid8279183" type="Folder">13</container>
+<unitdate>No date.</unitdate>
+<physdesc id="ref158">photographs and CD-Rs</physdesc>
+</did>
+</c01>
+<c01 id="ref159" level="file">
+<did>
+<unittitle>Ephemera.</unittitle>
+<container id="cid8279182" type="Box">8</container>
+<unitdate>1980-2002.</unitdate>
+<physdesc id="ref160">frames, paper, plaques</physdesc>
+</did>
+<scopecontent id="ref161">
+<p>Contains framed personal notes as well as three diplomas: CCC Management Team Recognizes Jinx Beers for United States Military Service on Veteran's Day 2002 Certificate of Achievement from the Los Angeles Department of Water and Power for completing a course in Basic Customer Service Procedures 1999 Bachelor of Arts Diploma with a Major in Psychology from the University of California 1963 CCC Star Hitter for Perfect Attendance 2004</p>
+</scopecontent>
+</c01>
+<c01 id="ref162" level="file">
+<did>
+<unittitle>Ephemera.</unittitle>
+<container id="cid8279181" type="Box">9</container>
+<unitdate>No date.</unitdate>
+<physdesc id="ref163">softball mitt, quilt, plaques</physdesc>
+</did>
+</c01>
+<c01 id="ref164" level="file">
+<did>
+<unittitle>Ephemera.</unittitle>
+<container id="cid8279180" type="Box">10</container>
+<unitdate>No date.</unitdate>
+<physdesc id="ref165">photographs, patches</physdesc>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>
