@@ -1,275 +1,71 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8dr3162/">ruby2214.xml</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Jay Ruby Collection on Coffee House Positano, circa 1950-1960s
-                    <num>LSC.2214</num>
-                </titleproper>
-                <titleproper type="filing">Ruby (Jay) Collection on Coffee House Positano</titleproper>
-                <author>Finding aid prepared by Scott Reed, August 2016; machine-readable finding aid created by Caroline Cubé.</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>UCLA Library Special Collections</publisher>
-                <address>
-                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
-                    <addressline>Box 951575</addressline>
-                    <addressline>Los Angeles, CA, 90095-1575</addressline>
-                    <addressline>(310) 825-4988</addressline>
-                    <addressline>spec-coll@library.ucla.edu</addressline>
-                </address>
-                <date>Online finding aid last updated 14 August 2017.</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2017-08-14T12:07-0700</date>
-            </creation>
-            <langusage>English.</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Jay Ruby Collection on Coffee House Positano</unittitle>
-            <unitid>LSC.2214</unitid>
-            <repository>
-                <corpname>UCLA Library Special Collections</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>4.2 linear feet</extent>
-                <extent>(1 half box, 1 oversize flat box, 1 painting, 1 table)
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://www.oac.cdlib.org/findaid/ark:/13030/c8dr3162/">ruby2214.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ruby (Jay) Collection on Coffee House Positano </titleproper><titleproper>Finding aid for the Jay Ruby Collection on Coffee House Positano, circa 1950-1960s <num>LSC.2214</num></titleproper><author>Machine-readable finding aid prepared by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 14 August 2017.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information. </p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-11-22 14:32:48 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>2024-11-22</date><item>Added EDI, MMSID, mRS (CC).</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Jay Ruby Collection on Coffee House Positano</unittitle>
+    <origination label="Creator">
+      <persname role="col" rules="rda" source="naf">Jay Ruby</persname>
+    </origination>
+    <unitid>LSC.2214</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.2 linear feet</extent>
+      <extent altrender="carrier">(1 half box, 1 oversize flat box, 1 painting, 1 table)
 </extent>
-            </physdesc>
-            <unitdate normal="1950/1969" type="inclusive">circa 1950-1960s</unitdate>
-            <abstract id="ref28" label="Abstract">Coffee House Positano was a Malibu café and performance space (1957-1963) operated by Mike Dutton and Lorees Yerby off the Pacific Coast Highway. The café was known as a center of Bohemian life in Southern California. Collection was assembled by Jay Ruby and contains photographs, original and photocopies/printed scans of Positano bulletins and announcements, correspondence of waitress Joan Laine, and various ephemera related to the Positano and Malibu bohemian community.</abstract>
-            <langmaterial id="ref29" label="Language of Materials">Materials are in English.</langmaterial>
-            <physloc id="ref30" label="Physical Location">Portions of the collection stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information. Chess table held in map room on B-level; painting held in Cashin storage area on B-level</physloc>
-            <origination label="Creator">
-                <persname rules="rda" source="naf" role="Collector (col)">Jay Ruby</persname>
-            </origination>
-        </did>
-        <accessrestrict id="ref32">
-            <head>Conditions on Access</head>
-            <p>PORTIONS OF COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-        </accessrestrict>
-        <userestrict id="ref33">
-            <head>Conditions on Use and Reproduction</head>
-            <p>Property rights to the physical object belong to UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-        </userestrict>
-        <prefercite id="ref34">
-            <head>Preferred Citation</head>
-            <p>[Identification of item], Jay Ruby Collection on Coffee House Positano (Collection 2214). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
-        </prefercite>
-        <acqinfo id="ref35">
-            <head>Provenance/Source of Acquisition</head>
-            <p>Gift of Jay Ruby, 2012. Gift of Joan Laine, 2014.</p>
-        </acqinfo>
-        <processinfo id="ref36">
-            <head>Processing Information</head>
-            <p>Processed by Scott Reed in 2016 under the supervision of Courtney Dean in the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/special-collections/at-this-location/center-primary-research-training-cfprt">Center for Primary Research and Training (CFPRT).</extref></p>
-        </processinfo>
-        <bioghist id="ref37">
-            <head>Biography/History</head>
-            <p>Coffee House Positano was a Malibu café and performance space (1957-1963) operated by Mike Dutton and Lorees Yerby off the Pacific Coast Highway. The café was known as a center of Bohemian life in Southern California and was frequented by notable Los Angeles artists, writers, and entertainment industry types including Allen Ginsberg, Ray Bradbury, and Keith Finch. Jay Ruby was an undergraduate at UCLA and worked as a dishwasher at Positano while living on the property from 1957-1959, in addition to participating in the community. After the closing of the café, the property transformed into the Budwood artists colony until the 1993 Malibu fire consumed the property.</p>
-            <p>Ruby later became a professor Emeritus of Anthropology at Temple University, and has researched and wrote extensively on Positano. Joan Laine was a waitress at Coffee Shop Positano (1957-1959).</p>
-            <p>Source: http://www.malibutimes.com/malibu_life/article_3d0d3bdf-4267-50fb-a6c8-6d6fee3654e4.html</p>
-        </bioghist>
-        <scopecontent id="ref38">
-            <head>Scope and Content</head>
-            <p>Collection consists of materials compiled by Jay Ruby documenting the history of Coffee House Positano and its related community of artists and patrons. Included are photographs, original and photocopies/printed scans of Positano bulletins and announcements, art and performance ephemera, correspondence, artworks, and furniture.</p>
-        </scopecontent>
-        <arrangement id="ref39">
-            <head>Organization and Arrangement</head>
-            <p/>
-            <p>The materials have retained their original folder organization from Jay Ruby.</p>
-        </arrangement>
-        <relatedmaterial id="ref40">
-            <head>Related Material</head>
-            <p>
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c8wd4526/">Lorees Yerby papers</extref></p>
-        </relatedmaterial>
-        <odd id="ref50">
-            <head>UCLA Catalog Record ID</head>
-            <p>UCLA Catalog Record ID: 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=8027818">8027818</extref></p>
-        </odd>
-        <controlaccess>
-            <corpname rules="dacs" source="local">Coffee House Positano.</corpname>
-            <occupation source="lcsh">Artists--California--Los Angeles.</occupation>
-            <subject source="lcsh">Bohemianism--California--Malibu.</subject>
-            <subject source="lcsh">Coffeehouses--California--Malibu.</subject>
-            <subject source="lcsh">Counterculture--California--Malibu</subject>
-            <geogname source="lcsh">Malibu (Calif.)--Social life and customs--20th century.</geogname>
-        </controlaccess>
-        <dsc>
-            <c01 id="ref1" level="series">
-                <did>
-                    <unittitle>Series 1: Coffee House Positano and Malibu Bohemia</unittitle>
-                    <unitdate normal="1950/1969" type="inclusive">circa 1950s-1960s</unitdate>
-                </did>
-                <scopecontent id="ref41">
-                    <head>Scope and Content</head>
-                    <p>Contains photographs of Jay Ruby and others, original and photocopies/printed scans of Positano bulletins and announcements, copies of clippings/articles, script for Desire Trapped by the Trail, exhibit invitation for Ed Pagac and Ruth Levy at Keith Finch Studio, assorted printed digital maps.</p>
-                </scopecontent>
-                <c02 id="ref2" level="file">
-                    <did>
-                        <unittitle>Photographs</unittitle>
-                        <container id="cid10533001" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533001" type="Folder">1</container>
-                        <unitdate normal="1950/1969" type="inclusive">circa 1950s-1960s</unitdate>
-                    </did>
-                    <scopecontent id="ref45">
-                        <head>Scope and Content</head>
-                        <p>Four photographs: 3 Jay Ruby, 1 group shot Jay Ruby and others.</p>
-                    </scopecontent>
-                </c02>
-                <c02 id="ref3" level="file">
-                    <did>
-                        <unittitle>Positano and Malibu Ephemera</unittitle>
-                        <container id="cid10533002" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533002" type="Folder">2</container>
-                        <unitdate normal="1956/1966" type="inclusive">1956-1966</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref6" level="file">
-                    <did>
-                        <unittitle>Desire Trapped Script</unittitle>
-                        <container id="cid10533005" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533005" type="Folder">3</container>
-                        <unitdate normal="1959/1959">1959</unitdate>
-                    </did>
-                    <scopecontent id="ref46">
-                        <head>Scope and Content</head>
-                        <p>Also contains photograph with Colleen Guadelouple, Jay Ruby, Bill Otto, and others unidentified.</p>
-                    </scopecontent>
-                </c02>
-                <c02 id="ref7" level="file">
-                    <did>
-                        <unittitle>Playhouse</unittitle>
-                        <container id="cid10533006" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533006" type="Folder">4</container>
-                        <unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref8" level="file">
-                    <did>
-                        <unittitle>Old Maps</unittitle>
-                        <container id="cid10533007" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533007" type="Folder">5</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref9" level="file">
-                    <did>
-                        <unittitle>Positano Bulletins</unittitle>
-                        <container id="cid10533008" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533008" type="Folder">6</container>
-                        <unitdate normal="1950/1969" type="inclusive">circa 1950s-1960s</unitdate>
-                    </did>
-                    <scopecontent id="ref47">
-                        <head>Scope and Content</head>
-                        <p>Materials are photocopies and printed scan copies.</p>
-                    </scopecontent>
-                </c02>
-                <c02 id="ref10" level="file">
-                    <did>
-                        <unittitle>Miscellaneous Articles</unittitle>
-                        <container id="cid10533009" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533009" type="Folder">7</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref11" level="file">
-                    <did>
-                        <unittitle>Cafe Espresso Kick Article</unittitle>
-                        <container id="cid10533010" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533010" type="Folder">8</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref12" level="file">
-                    <did>
-                        <unittitle>Initial Announcement</unittitle>
-                        <container id="cid10533011" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533011" type="Folder">9</container>
-                        <unitdate normal="1959/1959">1959</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref13" level="file">
-                    <did>
-                        <unittitle>Raitt Poems</unittitle>
-                        <container id="cid10533012" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533012" type="Folder">10</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-                <c02 id="ref15" level="file">
-                    <did>
-                        <unittitle>Property Maps</unittitle>
-                        <container id="cid10533013" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10533013" type="Folder">11</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c02>
-            </c01>
-            <c01 id="ref16" level="series">
-                <did>
-                    <unittitle>Series 2: Joan Laine materials</unittitle>
-                    <unitdate normal="1959/1963" type="inclusive">circa 1959-1963</unitdate>
-                </did>
-                <scopecontent id="ref42">
-                    <head>Scope and Content</head>
-                    <p>Contains a selection of letters to Joan Laine, a waitress at Coffee House Positano, 1957-1959, including letters from Ed Pagac, an artist who was active at Positano from its beginning to its end, Pasitano co-owner Lorees Yerby, and Positano waitress Shirley Jonas.</p>
-                </scopecontent>
-                <c02 id="ref17" level="file">
-                    <did>
-                        <unittitle>Correspondence</unittitle>
-                        <container id="cid10539001" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid10539001" type="Folder">12</container>
-                        <unitdate normal="1959/1963" type="inclusive">circa 1959-1963</unitdate>
-                    </did>
-                </c02>
-            </c01>
-            <c01 id="ref21" level="series">
-                <did>
-                    <unittitle>Series 3: Artworks and Furniture</unittitle>
-                    <unitdate normal="1950/1969" type="inclusive">Approx 1950s-1960s</unitdate>
-                </did>
-                <scopecontent id="ref43">
-                    <head>Scope and Content</head>
-                    <p>Series contains artworks and furniture associated with Coffee House Positano.</p>
-                </scopecontent>
-                <c02 id="ref22" level="file">
-                    <did>
-                        <unittitle>Oil painting by Edward Pagac</unittitle>
-                        <container id="cid10537001" type="Box" label="Mixed materials">2</container>
-                        <unitdate>undated</unitdate>
-                        <physdesc id="ref23" label="Physical Description">Unframed, Approx. 40"x30", by Edward Pagac, a painter who frequented Positano.</physdesc>
-                    </did>
-                </c02>
-                <c02 id="ref24" level="file">
-                    <did>
-                        <unittitle>Concrete Crucifix</unittitle>
-                        <container id="cid10537002" type="Box" label="Mixed materials">3</container>
-                        <unitdate>undated</unitdate>
-                        <physdesc id="ref25" label="Physical Description">Approx. 17"x15"</physdesc>
-                    </did>
-                </c02>
-                <c02 id="ref26" level="file">
-                    <did>
-                        <unittitle>Chess Table</unittitle>
-                        <container id="cid10537003" type="Box" label="Mixed materials">4</container>
-                        <unitdate>undated</unitdate>
-                        <physdesc id="ref49" label="Physical Description">Wooden table, Approx. 41"x24"x28"</physdesc>
-                    </did>
-                </c02>
-            </c01>
-        </dsc>
-    </archdesc>
+    </physdesc>
+    <unitdate certainty="approximate" datechar="creation" normal="1950/1969" type="inclusive">circa 1950-1960s</unitdate>
+    <abstract id="aspace_0a752ae4abc49d538c0e1ce109b218ba" label="Abstract">Coffee House Positano was a Malibu café and performance space (1957-1963) operated by Mike Dutton and Lorees Yerby off the Pacific Coast Highway. The café was known as a center of Bohemian life in Southern California. Collection was assembled by Jay Ruby and contains photographs, original and photocopies/printed scans of Positano bulletins and announcements, correspondence of waitress Joan Laine, and various ephemera related to the Positano and Malibu bohemian community.</abstract>
+    <physloc id="aspace_9f59184ee32c6bb325cecfce5a8f1e29" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.
+
+Chess table held in map room on B-level; painting held in Cashin storage area on B-level.</physloc>
+    <langmaterial id="aspace_f71513a29ac92e5044bd4e1b32c09c9e">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_c16afc0e909a6a1ebd3d5c60f204696e">
+    <head>Conditions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_3938b28c3b29a3fd120c5e3036fac971">
+    <head>Conditions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_051c066447d04837d041898a36940dfc">
+    <head>Provenance/Source of Acquisition</head>
+<p>Gift of Jay Ruby, 2012. Gift of Joan Laine, 2014.</p>  </acqinfo>
+  <odd id="aspace_77f1fe1f36c8b1a8849a260c2afad543">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9980278183606533">9980278183606533</extref></p>  </odd>
+  <prefercite id="aspace_7bf7432716d94d063c80d35d1622aa20">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Jay Ruby Collection on Coffee House Positano (Collection 2214). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_c0165a53a682324b1ed0ba463c852441">
+    <head>Processing Information</head>
+<p>Processed by Scott Reed in 2016 under the supervision of Courtney Dean in the <extref xlink:href="https://www.library.ucla.edu/about/programs/center-for-primary-research-and-training-cfprt/" xlink:actuate="onRequest" xlink:show="new">Center for Primary Research and Training (CFPRT).</extref></p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_941fd972e8b873fd530963a992330d01">
+    <head>Biography/History</head>
+<p>Coffee House Positano was a Malibu café and performance space (1957-1963) operated by Mike Dutton and Lorees Yerby off the Pacific Coast Highway. The café was known as a center of Bohemian life in Southern California and was frequented by notable Los Angeles artists, writers, and entertainment industry types including Allen Ginsberg, Ray Bradbury, and Keith Finch. Jay Ruby was an undergraduate at UCLA and worked as a dishwasher at Positano while living on the property from 1957-1959, in addition to participating in the community. After the closing of the café, the property transformed into the Budwood artists colony until the 1993 Malibu fire consumed the property.</p><p>Ruby later became a professor Emeritus of Anthropology at Temple University, and has researched and wrote extensively on Positano. Joan Laine was a waitress at Coffee Shop Positano (1957-1959).</p><p>Source: https://www.malibutimes.com/malibu_life/article_3d0d3bdf-4267-50fb-a6c8-6d6fee3654e4.html</p>  </bioghist>
+  <scopecontent id="aspace_b343577ac28315986111f561d9e6b84d">
+    <head>Scope and Content</head>
+<p>Collection consists of materials compiled by Jay Ruby documenting the history of Coffee House Positano and its related community of artists and patrons. Included are photographs, original and photocopies/printed scans of Positano bulletins and announcements, art and performance ephemera, correspondence, artworks, and furniture.</p>  </scopecontent>
+  <arrangement id="aspace_f6f8a52ba00745ddfbe56710b524b6fd">
+    <head>Organization and Arrangement</head>
+<p>This collection has been arranged in the following series:
+<list type="simple">
+<item>Series 1: Coffeehouse Positano and Malibu Bohemia, Approx. 1950-1969</item>
+<item>Series 2: Joan Laine materials, Approx. 1959-1963</item>
+<item>Series 3: Artworks and Furniture, Approx. 1959-1963</item>
+</list></p>
+    <p>The materials have retained their original folder organization from Jay Ruby.</p>
+  </arrangement>
+  <relatedmaterial id="aspace_7299da9fda0a25a6b856caf51e7e7913">
+    <head>Related Material</head>
+<p><extref xlink:href="https://www.oac.cdlib.org/findaid/ark:/13030/c8wd4526/" xlink:actuate="onRequest" xlink:show="new">Lorees Yerby papers</extref>. Available at UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </relatedmaterial>
+  <controlaccess>
+    <occupation source="lcsh">Artists -- California -- Los Angeles.</occupation>
+    <subject source="lcsh">Coffeehouses -- California -- Malibu.</subject>
+    <geogname source="lcsh">Malibu (Calif.) -- Social life and customs -- 20th century.</geogname>
+    <subject source="lcsh">Counterculture -- California -- Malibu</subject>
+    <subject source="lcsh">Bohemianism -- California -- Malibu.</subject>
+    <corpname rules="dacs" source="local">Coffee House Positano</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref1_mcs" level="series"><did><unittitle>Series 1: Coffee House Positano and Malibu Bohemia</unittitle><unitdate datechar="creation" normal="1950/1969" type="inclusive">circa 1950s-1960s</unitdate></did><scopecontent id="aspace_9ad703d2880cad890f5c4a3f2e278131"><head>Scope and Content</head><p>Contains photographs of Jay Ruby and others, original and photocopies/printed scans of Positano bulletins and announcements, copies of clippings/articles, script for Desire Trapped by the Trail, exhibit invitation for Ed Pagac and Ruth Levy at Keith Finch Studio, assorted printed digital maps.</p></scopecontent><c02 id="aspace_ref2_l29" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation" normal="1950/1969" type="inclusive">circa 1950s-1960s</unitdate><container id="aspace_46fb4f7c5fcf3da034a879d118be1307" label="Mixed Materials" type="box">1</container><container id="aspace_36f93d6d10651fbd5cc1d5dc23ca8333" parent="aspace_46fb4f7c5fcf3da034a879d118be1307" type="folder">1</container></did><scopecontent id="aspace_1cdb17aa0b30eafe255e64ebd9527300"><head>Scope and Content</head><p>Four photographs: 3 Jay Ruby, 1 group shot Jay Ruby and others.</p></scopecontent></c02><c02 id="aspace_ref3_8xz" level="file"><did><unittitle>Positano and Malibu Ephemera</unittitle><unitdate datechar="creation" normal="1956/1966" type="inclusive">1956-1966</unitdate><container id="aspace_ad24b88ca65d40e4f10c43b1e42c7487" label="Mixed Materials" type="box">1</container><container id="aspace_d3b3f9dea901d83053464c00f737f77e" parent="aspace_ad24b88ca65d40e4f10c43b1e42c7487" type="folder">2</container></did></c02><c02 id="aspace_ref6_ehp" level="file"><did><unittitle>Desire Trapped Script</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container id="aspace_ab0f449f2e42da81c2c4a84e5a8537a1" label="Mixed Materials" type="box">1</container><container id="aspace_5cc4177164aceb500f4875ff8b0638df" parent="aspace_ab0f449f2e42da81c2c4a84e5a8537a1" type="folder">3</container></did><scopecontent id="aspace_b353f1f7f01f04b9466b2e67726df829"><head>Scope and Content</head><p>Also contains photograph with Colleen Guadelouple, Jay Ruby, Bill Otto, and others unidentified.</p></scopecontent></c02><c02 id="aspace_ref7_866" level="file"><did><unittitle>Playhouse</unittitle><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><container id="aspace_db619e0b076cfe072e8db879012ad842" label="Mixed Materials" type="box">1</container><container id="aspace_55e3a58ab922b815743b73fabd60fa37" parent="aspace_db619e0b076cfe072e8db879012ad842" type="folder">4</container></did></c02><c02 id="aspace_ref8_fi3" level="file"><did><unittitle>Old Maps</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_1a828bb268d9f6b0f684712710d44f22" label="Mixed Materials" type="box">1</container><container id="aspace_0d4bd718649c7401891527d6a13c830e" parent="aspace_1a828bb268d9f6b0f684712710d44f22" type="folder">5</container></did></c02><c02 id="aspace_ref9_jd2" level="file"><did><unittitle>Positano Bulletins</unittitle><unitdate datechar="creation" normal="1950/1969" type="inclusive">circa 1950s-1960s</unitdate><container id="aspace_4f242f36d3c0a666ae62b91b8b8cc5a6" label="Mixed Materials" type="box">1</container><container id="aspace_239d7326d1d289c1411234de120a8b72" parent="aspace_4f242f36d3c0a666ae62b91b8b8cc5a6" type="folder">6</container></did><scopecontent id="aspace_2feaff82a059476c598a75b45d3d5fd3"><head>Scope and Content</head><p>Materials are photocopies and printed scan copies.</p></scopecontent></c02><c02 id="aspace_ref10_b8y" level="file"><did><unittitle>Miscellaneous Articles</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_571995c8a903d9a567e4f8f24d0648f1" label="Mixed Materials" type="box">1</container><container id="aspace_2d0bea6052d1e1a48d976136b0f0d7af" parent="aspace_571995c8a903d9a567e4f8f24d0648f1" type="folder">7</container></did></c02><c02 id="aspace_ref11_ilp" level="file"><did><unittitle>Cafe Espresso Kick Article</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_b5cb4a1c42d74ec81ea1a457ebc3e5b5" label="Mixed Materials" type="box">1</container><container id="aspace_876183ae5c27cfa7393e391b065c9a6b" parent="aspace_b5cb4a1c42d74ec81ea1a457ebc3e5b5" type="folder">8</container></did></c02><c02 id="aspace_ref12_ndc" level="file"><did><unittitle>Initial Announcement</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container id="aspace_8b1688130e0fa8c503ffed8f2ea1a338" label="Mixed Materials" type="box">1</container><container id="aspace_f5418dda4be165185d25cb0c65d560e9" parent="aspace_8b1688130e0fa8c503ffed8f2ea1a338" type="folder">9</container></did></c02><c02 id="aspace_ref13_33a" level="file"><did><unittitle>Raitt Poems</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_fbaf9da21e2a8b4ec2756e5ee39c3ae3" label="Mixed Materials" type="box">1</container><container id="aspace_0c5bba6912677547c066b680b90bcc70" parent="aspace_fbaf9da21e2a8b4ec2756e5ee39c3ae3" type="folder">10</container></did></c02><c02 id="aspace_ref15_sn4" level="file"><did><unittitle>Property Maps</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_17c9c8fe960165a1874a0eceba04c56d" label="Mixed Materials" type="box">1</container><container id="aspace_471ad0762b46c7cbc8caef599796046e" parent="aspace_17c9c8fe960165a1874a0eceba04c56d" type="folder">11</container></did></c02></c01><c01 id="aspace_ref16_ibb" level="series"><did><unittitle>Series 2: Joan Laine materials</unittitle><unitdate datechar="creation" normal="1959/1963" type="inclusive">circa 1959-1963</unitdate></did><scopecontent id="aspace_f62bb8dca230101057c95623b7a553c9"><head>Scope and Content</head><p>Contains a selection of letters to Joan Laine, a waitress at Coffee House Positano, 1957-1959, including letters from Ed Pagac, an artist who was active at Positano from its beginning to its end, Pasitano co-owner Lorees Yerby, and Positano waitress Shirley Jonas.</p></scopecontent><c02 id="aspace_ref17_ky0" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1959/1963" type="inclusive">circa 1959-1963</unitdate><container id="aspace_18e3d61217a144b46ac30f81155ad513" label="Mixed Materials" type="box">1</container><container id="aspace_06a3a200b5c728b826ec0853169808c4" parent="aspace_18e3d61217a144b46ac30f81155ad513" type="folder">12</container></did></c02></c01><c01 id="aspace_ref21_xah" level="series"><did><unittitle>Series 3: Artworks and Furniture</unittitle><unitdate datechar="creation" normal="1950/1969" type="inclusive">Approx 1950s-1960s</unitdate></did><scopecontent id="aspace_717f068c2546d751adaf60d1190e9f9b"><head>Scope and Content</head><p>Series contains artworks and furniture associated with Coffee House Positano.</p></scopecontent><c02 id="aspace_ref22_kkj" level="file"><did><unittitle>Oil painting by Edward Pagac</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_8015786ccb796385c1408b63c1f78602" label="Physical Description">Unframed, Approx. 40"x30", by Edward Pagac, a painter who frequented Positano.</physdesc><container id="aspace_f95ca87751ece1751c4732ad1b05014d" label="Mixed Materials" type="box">2</container></did></c02><c02 id="aspace_ref24_0hy" level="file"><did><unittitle>Concrete Crucifix</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_9726ca129c2ff72046caf709f57240be" label="Physical Description">Approx. 17"x15"</physdesc><container id="aspace_d2f1f0f4059289a749f171c8d88878d5" label="Mixed Materials" type="box">3</container></did></c02><c02 id="aspace_ref26_jr4" level="file"><did><unittitle>Chess Table</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_b7b77873c245ee3a79e173486b95cd61" label="Physical Description">Wooden table, Approx. 41"x24"x28"</physdesc><container id="aspace_981ce5dc65c92ad704443b1e077be31d" label="Mixed Materials" type="box">4</container></did></c02></c01></dsc>
+</archdesc>
 </ead>
