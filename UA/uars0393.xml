@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC">uars0393.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Loyalty Oath Controversy. Collection. 
+<date calendar="gregorian" era="ce">1945-1968.</date>
+</titleproper>
+<titleproper type="filing">Loyalty Oath Controversy. Collection.</titleproper>
+<author>Finding aid prepared by University Archives staff, Alva Moore Stevenson, 1990 May; finding aid revised by Katharine A. Lawrie, 2013 May; machine-readable finding aid created by Katharine A. Lawrie, 2013 June.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©1990 May</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2013-06-07T13:20-0700</date>
+</creation>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Loyalty Oath Controversy. Collection.</unittitle>
+<unitid>University Archives Record Series 393</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>5.2 linear ft.</extent>
+<extent>(13 boxes)</extent>
+</physdesc>
+<unitdate>1945-1968</unitdate>
+<abstract id="ref26" label="Abstract">Record Series 393 contains documents regarding the Loyalty Oath Controversy, including a history of the collection, excerpts from Regent's meetings, University related publications, and newspaper clippings.</abstract>
+<origination label="Creator">
+<persname source="ingest">UCLA University Archives.</persname>
+</origination>
+</did>
+<accessrestrict id="ref3">
+<head>Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict id="ref4">
+<head>Publication Rights</head>
+<p>Copyright of portions of this collection has been assigned to The Regents of the University of California. The UCLA University Archives can grant permission to publish for materials to which it holds the copyright. All requests for permission to publish or quote must be submitted in writing to the UCLA University Archivist.</p>
+</userestrict>
+<prefercite id="ref5">
+<head>Preferred Citation</head>
+<p>[Identification of item], Loyalty Oath Controversy. Collection (University Archives Record Series 393). UCLA Library Special Collections, University Archives.</p>
+</prefercite>
+<bioghist id="ref6">
+<head>Historical note</head>
+<p>A special file on the loyalty oath controversy was set up in 1951 by Andrew Horn, University Archivist. Since that time printed and manuscript material has been collected dealing directly or indirectly with the University controversy. In 1968 the Caughey Project to study the history of oaths led to an organized enquiry to get petinent materials and papers of people directly involved with the controversy. The responses to the request are included in the collection under "History of Collection." Under the auspices of the same project, Jane White organized and listed the material in the collection. Jane White's list and notes on her work are also includled in the first section of the collection.</p>
+<p>In March 1974 the Collection was again reorganized to include the papers of Paul Dodd and others which had since been added to the Collection. The present organization and register attempts to divide the various committees and offices in order to show the inter-relationships that existed at the time of the controversy.</p>
+<p>A list of other pertinent background material, and material in the University Archives and the Department of Special Collections dealing with the loyalty oath is available in UCLA University Archives.</p>
+</bioghist>
+<scopecontent id="ref7">
+<head>Scope and Content</head>
+<p>Record Series 393 contains documents regarding the Loyalty Oath Controversy, including a history of the collection, excerpts from Regent's meetings, University related publications, and newspaper clippings.</p>
+<p>This is an inactive record series; no additional University records are expected to be added.</p>
+</scopecontent>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=3521462">3521462</extref></p>
+</odd>
+<dsc>
+<c id="ref27" level="series">
+<did>
+<unittitle>History of collection.</unittitle>
+</did>
+<c id="ref39" level="file">
+<did>
+<unittitle>Andrew Horn, University Archivist; correspondence, notes, etc.</unittitle>
+<container id="cid7409031" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409031" type="Folder">1</container>
+<unitdate>1950.</unitdate>
+</did>
+</c>
+<c id="ref40" level="file">
+<did>
+<unittitle>Robert Vosper, correspondence with Paul Dodd.</unittitle>
+<container id="cid7409032" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409032" type="Folder">2</container>
+<unitdate>1951.</unitdate>
+</did>
+</c>
+<c id="ref41" level="file">
+<did>
+<unittitle>Lists of UCB holdings on loyalty oath - Archives and Manuscript Division, Bancroft.</unittitle>
+<container id="cid7409033" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409033" type="Folder">3</container>
+<unitdate>1968.</unitdate>
+</did>
+</c>
+<c id="ref42" level="file">
+<did>
+<unittitle>Memos and letters on Caughey Project.</unittitle>
+<container id="cid7409034" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409034" type="Folder">4</container>
+<unitdate>1968.</unitdate>
+</did>
+</c>
+<c id="ref43" level="file">
+<did>
+<unittitle>Caughey Project, responses from request for material.</unittitle>
+<container id="cid7409035" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409035" type="Folder">5</container>
+<unitdate>1968.</unitdate>
+</did>
+</c>
+<c id="ref44" level="file">
+<did>
+<unittitle>Caughey Project, returned letters of request.</unittitle>
+<container id="cid7409036" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409036" type="Folder">6</container>
+<unitdate>1968.</unitdate>
+</did>
+</c>
+<c id="ref45" level="file">
+<did>
+<unittitle>Caughey Project, Jane White's history and list of collection.</unittitle>
+<container id="cid7409037" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409037" type="Folder">7</container>
+<unitdate>1968.</unitdate>
+</did>
+</c>
+</c>
+<c id="ref28" level="series">
+<did>
+<unittitle>Regents: excerpts of meetings.</unittitle>
+</did>
+<c id="ref46" level="file">
+<did>
+<unittitle></unittitle>
+<container id="cid7409038" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409038" type="Folder">8</container>
+<unitdate>1949 Mar 25-Jul 22.</unitdate>
+</did>
+</c>
+<c id="ref47" level="file">
+<did>
+<unittitle></unittitle>
+<container id="cid7409039" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409039" type="Folder">9</container>
+<unitdate>1949 Sep 23-Nov 18.</unitdate>
+</did>
+</c>
+<c id="ref48" level="file">
+<did>
+<unittitle></unittitle>
+<container id="cid7409040" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409040" type="Folder">10</container>
+<unitdate>1950 Jan 04-Feb 24.</unitdate>
+</did>
+</c>
+<c id="ref49" level="file">
+<did>
+<unittitle>1950 Mar 31-Apr 21.</unittitle>
+<container id="cid7409041" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409041" type="Folder">11</container>
+</did>
+</c>
+<c id="ref50" level="file">
+<did>
+<unittitle>1950 Jun 23-Jul 21.</unittitle>
+<container id="cid7409042" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409042" type="Folder">12</container>
+</did>
+</c>
+<c id="ref51" level="file">
+<did>
+<unittitle>1950 Aug 25-1951 Oct 19.</unittitle>
+<container id="cid7409043" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409043" type="Folder">13</container>
+</did>
+</c>
+</c>
+<c id="ref52" level="file">
+<did>
+<unittitle>Regents: miscellaneous.</unittitle>
+<container id="cid7409044" type="Box" label="Mixed materials">1</container>
+<container parent="cid7409044" type="Folder">14</container>
+</did>
+</c>
+<c id="ref29" level="series">
+<did>
+<unittitle>Office of the President, Robert G. Sproul.</unittitle>
+</did>
+<c id="ref53" level="file">
+<did>
+<unittitle>Letters from Sproul.</unittitle>
+<container id="cid7409045" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409045" type="Folder">1</container>
+<unitdate>1950.</unitdate>
+</did>
+</c>
+<c id="ref54" level="file">
+<did>
+<unittitle>Letters to Sproul.</unittitle>
+<container id="cid7409046" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409046" type="Folder">2</container>
+<unitdate>1949-1950.</unitdate>
+</did>
+</c>
+<c id="ref55" level="file">
+<did>
+<unittitle>Correspondence between Sproul and Paul Dodd.</unittitle>
+<container id="cid7409047" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409047" type="Folder">3</container>
+<unitdate>1950-1952.</unitdate>
+</did>
+</c>
+</c>
+<c id="ref30" level="series">
+<did>
+<unittitle>Academic Senate: Northern Section.</unittitle>
+</did>
+<c id="ref56" level="file">
+<did>
+<unittitle>Meetings.</unittitle>
+<container id="cid7409048" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409048" type="Folder">4</container>
+<unitdate>1945 Oct 10-1950 Jun 06.</unitdate>
+</did>
+</c>
+<c id="ref57" level="file">
+<did>
+<unittitle>Meetings.</unittitle>
+<container id="cid7409049" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409049" type="Folder">5</container>
+<unitdate>1950 Sep 26-1951 Dec 05.</unitdate>
+</did>
+</c>
+<c id="ref58" level="file">
+<did>
+<unittitle>Resolutions, etc.</unittitle>
+<container id="cid7409050" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409050" type="Folder">6</container>
+</did>
+</c>
+<c id="ref59" level="file">
+<did>
+<unittitle>Committee on Academic Freedom.</unittitle>
+<container id="cid7409051" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409051" type="Folder">7</container>
+</did>
+</c>
+<c id="ref60" level="file">
+<did>
+<unittitle>Conference Committee.</unittitle>
+<container id="cid7409052" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409052" type="Folder">8</container>
+<unitdate>1950 Mar 06.</unitdate>
+</did>
+</c>
+<c id="ref61" level="file">
+<did>
+<unittitle>Committee of Five.</unittitle>
+<container id="cid7409053" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409053" type="Folder">9</container>
+<unitdate>1950.</unitdate>
+</did>
+</c>
+<c id="ref62" level="file">
+<did>
+<unittitle>Committee of Seven.</unittitle>
+<container id="cid7409054" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409054" type="Folder">10</container>
+<unitdate>1950.</unitdate>
+</did>
+</c>
+<c id="ref63" level="file">
+<did>
+<unittitle>Faculty Committee on Financial Assistance.</unittitle>
+<container id="cid7409055" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409055" type="Folder">11</container>
+</did>
+</c>
+</c>
+<c id="ref31" level="series">
+<did>
+<unittitle>Academic Senate: Southern Section.</unittitle>
+</did>
+<c id="ref64" level="file">
+<did>
+<unittitle>Minutes and agendas.</unittitle>
+<container id="cid7409056" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409056" type="Folder">12</container>
+<unitdate>1949 Sep 22-1950 Apr 24.</unitdate>
+</did>
+</c>
+<c id="ref65" level="file">
+<did>
+<unittitle>Resolutions, etc.</unittitle>
+<container id="cid7409057" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409057" type="Folder">13</container>
+<unitdate>1949-1950.</unitdate>
+</did>
+</c>
+<c id="ref66" level="file">
+<did>
+<unittitle>Miscellaneous.</unittitle>
+<container id="cid7409058" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409058" type="Folder">14</container>
+</did>
+</c>
+<c id="ref67" level="file">
+<did>
+<unittitle>Advisory Committee.</unittitle>
+<container id="cid7409059" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409059" type="Folder">15</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref68" level="file">
+<did>
+<unittitle>Committee on Faculty Poll.</unittitle>
+<container id="cid7409060" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409060" type="Folder">16</container>
+</did>
+</c>
+<c id="ref69" level="file">
+<did>
+<unittitle>Committee on Research.</unittitle>
+<container id="cid7409061" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409061" type="Folder">17</container>
+</did>
+</c>
+<c id="ref70" level="file">
+<did>
+<unittitle>Committee on Privilege and Tenure.</unittitle>
+<container id="cid7409062" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409062" type="Folder">18</container>
+</did>
+</c>
+<c id="ref71" level="file">
+<did>
+<unittitle>Correspondence with Robert G. Sproul.</unittitle>
+<container id="cid7409063" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409063" type="Folder">19</container>
+</did>
+</c>
+<c id="ref72" level="file">
+<did>
+<unittitle>Conference Committee Resolution.</unittitle>
+<container id="cid7409064" type="Box" label="Mixed materials">2</container>
+<container parent="cid7409064" type="Folder">20</container>
+<unitdate>1950 Mar.</unitdate>
+</did>
+</c>
+<c id="ref73" level="file">
+<did>
+<unittitle>Faculty Steering and Policy Committee.</unittitle>
+<container id="cid7409065" type="Box" label="Mixed materials">3</container>
+<container parent="cid7409065" type="Folder">1</container>
+</did>
+</c>
+<c id="ref74" level="file">
+<did>
+<unittitle>Faculty Steering Committee, Paul Dodd correspondence.</unittitle>
+<container id="cid7409066" type="Box" label="Mixed materials">3</container>
+<container parent="cid7409066" type="Folder">2</container>
+</did>
+</c>
+</c>
+<c id="ref32" level="series">
+<did>
+<unittitle>Academic Senates.</unittitle>
+</did>
+<c id="ref75" level="file">
+<did>
+<unittitle>Special Unified Committee on Tenure.</unittitle>
+<container id="cid7409067" type="Box" label="Mixed materials">3</container>
+<container parent="cid7409067" type="Folder">3</container>
+<unitdate>1951-1952.</unitdate>
+</did>
+</c>
+<c id="ref76" level="file">
+<did>
+<unittitle>Special Unified Committee on Tenure, Northern Section.</unittitle>
+<container id="cid7409068" type="Box" label="Mixed materials">3</container>
+<container parent="cid7409068" type="Folder">4</container>
+<unitdate>1951-1952.</unitdate>
+</did>
+</c>
+<c id="ref77" level="file">
+<did>
+<unittitle>Special Unified Committee on Tenure, Southern Section.</unittitle>
+<container id="cid7409069" type="Box" label="Mixed materials">3</container>
+<container parent="cid7409069" type="Folder">5</container>
+<unitdate>1951-1952.</unitdate>
+</did>
+</c>
+</c>
+<c id="ref33" level="series">
+<did>
+<unittitle>Conference Committee of Deans.</unittitle>
+<unitdate>1950.</unitdate>
+</did>
+<c id="ref78" level="file">
+<did>
+<unittitle>Southern Section - Endorsements of March 01, 1950 Resolution by Departments.</unittitle>
+<container id="cid7409070" type="Box" label="Mixed materials">3</container>
+<container parent="cid7409070" type="Folder">6</container>
+</did>
+</c>
+<c id="ref79" level="file">
+<did>
+<unittitle>(South) A-C.</unittitle>
+<container id="cid7409071" type="Box" label="Mixed materials">3</container>
+<container parent="cid7409071" type="Folder">7</container>
+</did>
+</c>
+<c id="ref80" level="file">
+<did>
+<unittitle>(South) E-L.</unittitle>
+<container id="cid7409072" type="Box" label="Mixed materials">3</container>
+<container parent="cid7409072" type="Folder">8</container>
+</did>
+</c>
+<c id="ref81" level="file">
+<did>
+<unittitle>(South) M-Z.</unittitle>
+<container id="cid7409073" type="Box" label="Mixed materials">3</container>
+<container parent="cid7409073" type="Folder">9</container>
+</did>
+</c>
+</c>
+<c id="ref82" level="series">
+<did>
+<unittitle>UCLA Faculty.</unittitle>
+</did>
+<c id="ref34" level="subseries">
+<did>
+<unittitle>Committee for Responsible University Government.</unittitle>
+</did>
+<c id="ref83" level="file">
+<did>
+<unittitle>Minutes.</unittitle>
+<container id="cid7409074" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409074" type="Folder">1</container>
+<unitdate>1950-1952.</unitdate>
+</did>
+</c>
+<c id="ref84" level="file">
+<did>
+<unittitle>Reports and resolutions.</unittitle>
+<container id="cid7409075" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409075" type="Folder">2</container>
+</did>
+</c>
+<c id="ref85" level="file">
+<did>
+<unittitle>Jacoby, Neil; correspondence.</unittitle>
+<container id="cid7409076" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409076" type="Folder">3</container>
+<unitdate>1950-1952.</unitdate>
+</did>
+</c>
+<c id="ref86" level="file">
+<did>
+<unittitle>Rolfe, Franklin P.; correspondence.</unittitle>
+<container id="cid7409077" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409077" type="Folder">4</container>
+<unitdate>1950-1952.</unitdate>
+</did>
+</c>
+<c id="ref87" level="file">
+<did>
+<unittitle>Smith, John E.; correspondence.</unittitle>
+<container id="cid7409078" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409078" type="Folder">5</container>
+<unitdate>1950-1952.</unitdate>
+</did>
+</c>
+<c id="ref88" level="file">
+<did>
+<unittitle>Miscellaneous.</unittitle>
+<container id="cid7409079" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409079" type="Folder">6</container>
+</did>
+</c>
+</c>
+<c id="ref89" level="file">
+<did>
+<unittitle>Beals, Ralph L.; statements.</unittitle>
+<container id="cid7409081" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409081" type="Folder">7</container>
+<unitdate>1950.</unitdate>
+</did>
+</c>
+<c id="ref90" level="file">
+<did>
+<unittitle>Caughey, John W.; statements.</unittitle>
+<container id="cid7409082" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409082" type="Folder">8</container>
+</did>
+</c>
+<c id="ref35" level="subseries">
+<did>
+<unittitle>Dodd, Paul.</unittitle>
+</did>
+<c id="ref91" level="file">
+<did>
+<unittitle>Statements and speeches.</unittitle>
+<container id="cid7409080" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409080" type="Folder">9</container>
+</did>
+</c>
+<c id="ref92" level="file">
+<did>
+<unittitle>Notes.</unittitle>
+<container id="cid7409083" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409083" type="Folder">10</container>
+</did>
+</c>
+<c id="ref93" level="file">
+<did>
+<unittitle>Correspondence, intra-campus.</unittitle>
+<container id="cid7409084" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409084" type="Folder">11</container>
+</did>
+</c>
+<c id="ref94" level="file">
+<did>
+<unittitle>Correspondence with Monroe Deutsch.</unittitle>
+<container id="cid7409085" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409085" type="Folder">12</container>
+</did>
+</c>
+<c id="ref95" level="file">
+<did>
+<unittitle>Correspondence with John Hicks.</unittitle>
+<container id="cid7409086" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409086" type="Folder">13</container>
+</did>
+</c>
+<c id="ref96" level="file">
+<did>
+<unittitle>Correspondence with C.L. Mowat.</unittitle>
+<container id="cid7409087" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409087" type="Folder">14</container>
+</did>
+</c>
+<c id="ref97" level="file">
+<did>
+<unittitle>Correspondence from outside the university.</unittitle>
+<container id="cid7409088" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409088" type="Folder">15</container>
+</did>
+</c>
+<c id="ref98" level="file">
+<did>
+<unittitle>Teletype correspondence with President Sproul's Office.</unittitle>
+<container id="cid7409089" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409089" type="Folder">16</container>
+</did>
+</c>
+<c id="ref99" level="file">
+<did>
+<unittitle>Correspondence concerning Alumni Committee.</unittitle>
+<container id="cid7409090" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409090" type="Folder">17</container>
+</did>
+</c>
+<c id="ref100" level="file">
+<did>
+<unittitle>Correspondence with Group for Academic Freedom.</unittitle>
+<container id="cid7409091" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409091" type="Folder">18</container>
+</did>
+</c>
+</c>
+<c id="ref36" level="subseries">
+<did>
+<unittitle>Durrell, Cordell.</unittitle>
+</did>
+<c id="ref101" level="file">
+<did>
+<unittitle>Statements and speeches.</unittitle>
+<container id="cid7409092" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409092" type="Folder">19</container>
+</did>
+</c>
+<c id="ref102" level="file">
+<did>
+<unittitle>Notes and resolutions of meetings.</unittitle>
+<container id="cid7409093" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409093" type="Folder">20</container>
+</did>
+</c>
+<c id="ref103" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid7409094" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409094" type="Folder">21</container>
+<unitdate>1950-1951.</unitdate>
+</did>
+</c>
+</c>
+<c id="ref104" level="file">
+<did>
+<unittitle>Griggs, David; notes, etc.</unittitle>
+<container id="cid7409095" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409095" type="Folder">22</container>
+</did>
+</c>
+<c id="ref105" level="file">
+<did>
+<unittitle>MacGowan, Kenneth; correspondence.</unittitle>
+<container id="cid7409096" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409096" type="Folder">23</container>
+<unitdate>1950.</unitdate>
+</did>
+</c>
+<c id="ref106" level="file">
+<did>
+<unittitle>McHenry, Dean E.; statements and proposals.</unittitle>
+<container id="cid7409097" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409097" type="Folder">24</container>
+</did>
+</c>
+<c id="ref107" level="file">
+<did>
+<unittitle>Popper, Danicel; correspondence.</unittitle>
+<container id="cid7409098" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409098" type="Folder">25</container>
+</did>
+</c>
+<c id="ref108" level="file">
+<did>
+<unittitle>Pucciani, Oreste F; notes and correspondence.</unittitle>
+<container id="cid7409099" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409099" type="Folder">26</container>
+<unitdate>1949-1950.</unitdate>
+</did>
+</c>
+<c id="ref109" level="file">
+<did>
+<unittitle>Roose, Kenneth D.; correspondence.</unittitle>
+<container id="cid7409100" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409100" type="Folder">27</container>
+<unitdate>1949-1950.</unitdate>
+</did>
+</c>
+<c id="ref110" level="file">
+<did>
+<unittitle>Westegaard, Waldemar; speech.</unittitle>
+<container id="cid7409101" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409101" type="Folder">28</container>
+<unitdate>1950 Mar 15.</unitdate>
+</did>
+</c>
+<c id="ref111" level="file">
+<did>
+<unittitle>Miscellaneous correspondence A-Z.</unittitle>
+<container id="cid7409102" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409102" type="Folder">29</container>
+</did>
+</c>
+<c id="ref112" level="file">
+<did>
+<unittitle>Statements, press releases, speeches, etc.; A-Z.</unittitle>
+<container id="cid7409103" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409103" type="Folder">30</container>
+</did>
+</c>
+<c id="ref113" level="file">
+<did>
+<unittitle>Statements, press releases, speeches, etc. (unknown author).</unittitle>
+<container id="cid7409104" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409104" type="Folder">31</container>
+</did>
+</c>
+<c id="ref114" level="file">
+<did>
+<unittitle>Notes and lists on press.</unittitle>
+<container id="cid7409105" type="Box" label="Mixed materials">4</container>
+<container parent="cid7409105" type="Folder">32</container>
+</did>
+</c>
+</c>
+<c id="ref37" level="series">
+<did>
+<unittitle>University of California, miscellaneous.</unittitle>
+</did>
+<c id="ref115" level="file">
+<did>
+<unittitle>UC, Oath forms and letters.</unittitle>
+<container id="cid7409106" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409106" type="Folder">1</container>
+</did>
+</c>
+<c id="ref116" level="file">
+<did>
+<unittitle>UC, Office of Public Information; press releases and letters.</unittitle>
+<container id="cid7409107" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409107" type="Folder">2</container>
+</did>
+</c>
+<c id="ref117" level="file">
+<did>
+<unittitle>UC, correspondence from outside the University, A-Z.</unittitle>
+<container id="cid7409108" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409108" type="Folder">3</container>
+</did>
+</c>
+<c id="ref118" level="file">
+<did>
+<unittitle>UCLA, Library.</unittitle>
+<container id="cid7409109" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409109" type="Folder">4</container>
+<unitdate>1950.</unitdate>
+</did>
+</c>
+<c id="ref119" level="file">
+<did>
+<unittitle>UC, Scripps Institution of Oceanography, letters of Roger Revelle, Acting Director.</unittitle>
+<container id="cid7409110" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409110" type="Folder">5</container>
+<unitdate>1950.</unitdate>
+</did>
+</c>
+<c id="ref120" level="file">
+<did>
+<unittitle>Non-Senate academic and administrative employees.</unittitle>
+<container id="cid7409111" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409111" type="Folder">6</container>
+</did>
+</c>
+<c id="ref121" level="file">
+<did>
+<unittitle>Student groups.</unittitle>
+<container id="cid7409112" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409112" type="Folder">7</container>
+</did>
+</c>
+<c id="ref122" level="file">
+<did>
+<unittitle>California Alumni Association.</unittitle>
+<container id="cid7409113" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409113" type="Folder">8</container>
+</did>
+</c>
+</c>
+<c id="ref38" level="series">
+<did>
+<unittitle>Non-University materials.</unittitle>
+</did>
+<c id="ref123" level="file">
+<did>
+<unittitle>Committee for Academic Employees.</unittitle>
+<container id="cid7409114" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409114" type="Folder">9</container>
+</did>
+</c>
+<c id="ref124" level="file">
+<did>
+<unittitle>Group for Academic Freedom (Berkeley).</unittitle>
+<container id="cid7409115" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409115" type="Folder">10</container>
+</did>
+</c>
+<c id="ref125" level="file">
+<did>
+<unittitle>Court cases.</unittitle>
+<container id="cid7409116" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409116" type="Folder">11</container>
+</did>
+</c>
+<c id="ref126" level="file">
+<did>
+<unittitle>Science and Education.</unittitle>
+<container id="cid7409117" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409117" type="Folder">12</container>
+</did>
+</c>
+<c id="ref127" level="file">
+<did>
+<unittitle>Phi Beta Kappa.</unittitle>
+<container id="cid7409118" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409118" type="Folder">13</container>
+</did>
+</c>
+<c id="ref128" level="file">
+<did>
+<unittitle>Librarians.</unittitle>
+<container id="cid7409119" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409119" type="Folder">14</container>
+</did>
+</c>
+<c id="ref129" level="file">
+<did>
+<unittitle>American Association of University Professors.</unittitle>
+<container id="cid7409120" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409120" type="Folder">15</container>
+</did>
+</c>
+<c id="ref130" level="file">
+<did>
+<unittitle>National Council of the Arts, Science, Professions.</unittitle>
+<container id="cid7409121" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409121" type="Folder">16</container>
+</did>
+</c>
+<c id="ref131" level="file">
+<did>
+<unittitle>Federation for Repeal of the Levering Act.</unittitle>
+<container id="cid7409122" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409122" type="Folder">17</container>
+</did>
+</c>
+<c id="ref132" level="file">
+<did>
+<unittitle>Communist Party.</unittitle>
+<container id="cid7409123" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409123" type="Folder">18</container>
+</did>
+</c>
+<c id="ref133" level="file">
+<did>
+<unittitle>American Civil Liberties Union.</unittitle>
+<container id="cid7409124" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409124" type="Folder">19</container>
+</did>
+</c>
+<c id="ref134" level="file">
+<did>
+<unittitle>Miscellaneous.</unittitle>
+<container id="cid7409125" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409125" type="Folder">20</container>
+</did>
+</c>
+</c>
+<c id="ref135" level="file">
+<did>
+<unittitle>Miscellaneous and unidentified material.</unittitle>
+<container id="cid7409126" type="Box" label="Mixed materials">5</container>
+<container parent="cid7409126" type="Folder">21</container>
+</did>
+</c>
+<c id="ref136" level="file">
+<did>
+<unittitle>University publications.</unittitle>
+<container id="cid7409127" type="Box" label="Mixed materials">6</container>
+</did>
+</c>
+<c id="ref137" level="file">
+<did>
+<unittitle>Non-University publications.</unittitle>
+<container id="cid7409128" type="Box" label="Mixed materials">7</container>
+</did>
+</c>
+<c id="ref138" level="file">
+<did>
+<unittitle>Newspaper clippings.</unittitle>
+<container id="cid7409129" type="Boxes" label="Mixed materials">8-9</container>
+</did>
+</c>
+<c id="ref139" level="file">
+<did>
+<unittitle>Paul Dodd scrapbook of newspaper clippings re: controversy.</unittitle>
+<container id="cid7409130" type="Box" label="Mixed materials">10</container>
+</did>
+</c>
+<c id="ref140" level="file">
+<did>
+<unittitle>Beginnings of bibliography on Loyalty Oath controversy, anti-communism, etc. On 4x6 cards.</unittitle>
+<container id="cid7409131" type="Box" label="Mixed materials">10</container>
+</did>
+</c>
+<c id="ref141" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid7413001" type="Box" label="Mixed materials">11</container>
+<container parent="cid7413001" type="Folders">1-3</container>
+<unitdate>1949-1952.</unitdate>
+</did>
+</c>
+<c id="ref142" level="file">
+<did>
+<unittitle>Poll - correspondence.</unittitle>
+<container id="cid7413002" type="Box" label="Mixed materials">11</container>
+<container parent="cid7413002" type="Folder">4</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref144" level="file">
+<did>
+<unittitle>Poll - results.</unittitle>
+<container id="cid7413004" type="Box" label="Mixed materials">11</container>
+<container parent="cid7413004" type="Folder">5</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref145" level="file">
+<did>
+<unittitle>Poll - responses from emeriti.</unittitle>
+<container id="cid7413005" type="Box" label="Mixed materials">11</container>
+<container parent="cid7413005" type="Folder">6</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref146" level="file">
+<did>
+<unittitle>Poll - responses from professors.</unittitle>
+<container id="cid7413006" type="Box" label="Mixed materials">11</container>
+<container parent="cid7413006" type="Folder">7</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref147" level="file">
+<did>
+<unittitle>Poll - responses from professors.</unittitle>
+<container id="cid7413007" type="Box" label="Mixed materials">12</container>
+<container parent="cid7413007" type="Folder">1</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref148" level="file">
+<did>
+<unittitle>Poll - responses from associate professors.</unittitle>
+<container id="cid7413008" type="Box" label="Mixed materials">12</container>
+<container parent="cid7413008" type="Folders">2-3</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref149" level="file">
+<did>
+<unittitle>Poll - responses from associate professors with tenure.</unittitle>
+<container id="cid7413009" type="Box" label="Mixed materials">12</container>
+<container parent="cid7413009" type="Folder">4</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref150" level="file">
+<did>
+<unittitle>Poll - responses from associate professors without tenure.</unittitle>
+<container id="cid7413010" type="Box" label="Mixed materials">12</container>
+<container parent="cid7413010" type="Folders">5-6</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref151" level="file">
+<did>
+<unittitle>Poll - responses from instructors.</unittitle>
+<container id="cid7413011" type="Box" label="Mixed materials">13</container>
+<container parent="cid7413011" type="Folder">1</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref152" level="file">
+<did>
+<unittitle>Poll - responses from unidentified.</unittitle>
+<container id="cid7413012" type="Box" label="Mixed materials">13</container>
+<container parent="cid7413012" type="Folder">2</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref153" level="file">
+<did>
+<unittitle>Poll - responses received too late.</unittitle>
+<container id="cid7413013" type="Box" label="Mixed materials">13</container>
+<container parent="cid7413013" type="Folder">3</container>
+<unitdate>1949.</unitdate>
+</did>
+</c>
+<c id="ref154" level="file">
+<did>
+<unittitle>Newspaper clippings.</unittitle>
+<container id="cid7413014" type="Box" label="Mixed materials">13</container>
+<container parent="cid7413014" type="Folders">4-5</container>
+<unitdate>1952.</unitdate>
+</did>
+</c>
+<c id="ref155" level="file">
+<did>
+<unittitle>Academic Senate, Southern Section; draft memo re: poll; poll draft; poll &amp; memo (mimeo masters).</unittitle>
+<container id="cid7413015" type="Box" label="Mixed materials">13</container>
+<container parent="cid7413015" type="Folder">6</container>
+<unitdate>1949 Dec 01.</unitdate>
+</did>
+</c>
+</dsc>
+</archdesc>
+</ead>
