@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::1839::Miriam Matthews collection of Los Angeles Newspapers on African Americans)//EN" "matt1839.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Miriam Matthews collection of Los Angeles Newspapers on African Americans, ca. 1948-1985</titleproper>
+<titleproper type="filing">Matthews (Miriam) collection of Los Angeles Newspapers on African Americans</titleproper>
+<author>Processed by Octavio Olvera, May 2012; machine-readable finding aid created by Caroline Cub&#x00E9;.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2012</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce">May 2012;</date> frontmatter gathered MARC Record, encoding added via Notetab Pro, and Oxygen. Date of source: <date>May 2012</date>. Supplementary encoding and revision by Caroline Cub&#x00E9;.</creation>
+<langusage>Description is in <language langcode="eng" 
+scriptcode="Latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Miriam Matthews collection of Los Angeles Newspapers on African Americans</unittitle>
+<unitdate type="inclusive" normal="1948/1985">ca. 1948-1985</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1839</unitid>
+<origination label="Creator">
+<persname rules="aacr2">Matthews, Miriam, collector.</persname></origination>
+<physdesc label="Extent">
+<extent>42 oversize flat boxes (16.5 linear ft.)</extent>
+</physdesc>
+<abstract label="Abstract">Collection consists of newspapers collected by Miriam Matthews, mostly published for the African American community in Los Angeles and concerning African American topics. Titles include the <title>California Eagle</title> (1958-1959), <title>Los Angeles Sentinel</title> (1955-1985) and the <title>Los Angeles Tribune</title> (1958) as well as some clippings and pages of other newspapers from the Los Angeles area.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<langmaterial label="Language of the Material">
+Materials are in English.
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Charles Matthews, 2009.</p>
+</acqinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Miriam Matthews collection of Los Angeles Newspapers on African Americans (Collection 1839). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=6940331">6940331</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography/History</head>
+<p>Miriam Matthews was born on August 6, 1905 in Pensacola, Florida and moved to Los Angeles with her family two years later. After graduating from Los Angeles High School in 1922, Matthews studied at the University of California, Southern Branch (now UCLA) for two years. She transferred to the University of California, Berkeley where she graduated with a B.A. in 1926 and a certificate in librarianship in 1927, becoming the first known certified African American librarian in California. Matthews began her career at the Los Angeles Public Library (LAPL) in 1927 and became a branch librarian in 1934. She took two leaves of absence from LAPL, one in 1940 to work at the New York Public Library in a librarian exchange program and another from 1944 to 1945 in order to earn a master's degree in library science from the University of Chicago. In 1949, she was promoted to regional librarian, a position she held until her retirement from LAPL in 1960. Matthews was one of the first people to advocate for the establishment of Negro History Week (now African American History Month) in Los Angeles, leading to its official observance by the City of Los Angeles in 1931. In 1946, she became chairman of the California Library Association Committee on Intellectual Freedom. The following year, she was appointed to the American Library Association Committee on Intellectual Freedom (1947-1951) where she contributed to the 1948 revision of the Library Bill of Rights. In 1977, Gov. Edmund Brown appointed Matthews to the California Heritage Preservation Commission and California State Historic Records Advisory Board. She contributed to the establishment of an archives and records management program for the City of Los Angeles in 1979. While a member of the Los Angeles 200 Committee in 1981, Matthews proposed and implemented the construction of a historical plaque detailing the names, ages, and races of the city founders. Matthews died on Mercer Island, Washington on June 23, 2003. In 2003, the Los Angeles Historical Society established the annual Miriam Matthews Award in her honor. The Los Angeles Public Library Hyde Park branch was renamed for her in 2004.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>Collection consists of newspapers collected by Miriam Matthews, mostly published for the African American community in Los Angeles and concerning African American topics. Titles include the <title>California Eagle</title> (1958-1959), <title>Los Angeles Sentinel</title> (1955-1985) and the <title>Los Angeles Tribune</title> (1958) as well as some clippings and pages of other newspapers from the Los Angeles area.</p>
+</scopecontent>
+<arrangement>
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: 
+<list type="ordered" numeration="arabic">
+<item>Newspaper publication titles</item>
+<item>Dates of publication</item>
+<item>Loose clippings</item>
+</list></p>
+</arrangement>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Matthews, Miriam --Archives.</persname>
+<occupation source="lcsh" encodinganalog="650">African American women librarians --California --Los Angeles --Archival resources.</occupation>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="rbgenr" encodinganalog="655">Newspapers.</genreform>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<relatedmaterial encodinganalog="544">
+<head>Related Material</head>
+<p>
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt3t1nd954/" actuate="onrequest" show="new">Miriam Matthews Papers (Collection 1804).
+</extref> Available at Library Special Collections, UCLA.</p>
+<p>Miriam Matthews Collection.
+<extref href="http://www.oaklandlibrary.org/locations/african-american-museum-library-oakland" actuate="onrequest" show="new">African American Museum and Library at Oakland (AAMLO).
+</extref></p>
+<p>Miriam Matthews Photographic Collection.
+<extref href="http://www.caamuseum.org/" actuate="onrequest" show="new">California African American Museum, Los Angeles.
+</extref></p>
+</relatedmaterial>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 level="file"><did><unittitle><title>L.A. Sentinel.</title> Volumes: XXI; XXIV; XXVI; XXVII; XXVIII </unittitle>
+<unitdate> Oct. 13, 1955 - Dec. 28, 1961.</unitdate>
+<physdesc>19 items.</physdesc>
+</did>
+<scopecontent><p>Issues: No.42, No. 20, No.31, No.n/a; No.23, No. 27, No. 29, No.32, No. 35, No. 47, No. 49, No. 50,
+No. 51, No. 42, No. 44, No. 45, No. 50, No. 51, No. 1 </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXI, Issue: No. 42</unittitle>
+<unitdate> Oct. 13, 1955.</unitdate>
+<physdesc> 32 pages, 10 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 5000 Jam Till Death Protest Rally Local Atty. Named to State Board </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIV, Issue: No. 20</unittitle>
+<unitdate> May 8, 1958.</unitdate>
+<physdesc> 36 pages,  15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Jail "Dad" In Baby Death Probe </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIV, Issue: No. 31</unittitle>
+<unitdate> July 24, 1958.</unitdate>
+<physdesc> 36 pages, 15 cents.</physdesc>
+</did>
+<scopecontent><p>Headline: 5 Killed in 30-Ft. Auto Plunge </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: No. 50</unittitle>
+<unitdate> Dec. 1, 1960.</unitdate>
+<physdesc> 48 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Arrest 25 for Numbers Racket </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: No. 51</unittitle>
+<unitdate> Dec. 8, 1960.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Citizens Demand Vice Cleanup + Students Swingled in $300,000 Book Racket
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: No. 49</unittitle>
+<unitdate> Nov. 24, 1960.</unitdate>
+<physdesc> 36 pages, 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Fresno Conference Inspires Negro Leaders + Schools Mark Time in New Oreleans Dispute
+ </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: No. 47</unittitle>
+<unitdate> Nov. 10, 1960.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Big Negro Vote Elects Kennedy + Gunman Robs Watts Bank </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: No. 35</unittitle>
+<unitdate> Aug. 18, 1960.</unitdate>
+<physdesc> 40 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Mate Slays 'Unfaithful' Wife </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: No. 29</unittitle>
+<unitdate> July 7, 1960.</unitdate>
+<physdesc> 40 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Strangler eludes Police Block </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: No. 27</unittitle>
+<unitdate> June 23, 1960.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Police Slay Boy, 16 in Stolen Car Chase </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: N/A</unittitle>
+<unitdate> Mar. 10, 1960.</unitdate>
+<physdesc> 40 pages; 2 sections (torn front cover)</physdesc>
+</did>
+<scopecontent><p>Headline: Ben Waller Target&#2026; </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: No. 23</unittitle>
+<unitdate> May 26, 1960.</unitdate>
+<physdesc> 44 pages; 4 sections,  15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Three Tots Perish in Blaze </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVI, Issue: No. 32</unittitle>
+<unitdate> July 28, 1960.</unitdate>
+<physdesc> 40 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Police Capture Sex-Slayer, 19 </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 45</unittitle>
+<unitdate> Nov. 2, 1961.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Beautician Murders Wide and Her Lover +White Realtor Cut Over Negro Listing
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 42</unittitle>
+<unitdate> Oct. 12, 1961.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 10th Recall Drive Set + Mystery Rider Guns MTA Teenage Bandit </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 50</unittitle>
+<unitdate> Dec. 7, 1961.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Real Estate Broker Slays Sweetie, Self + Greathound Taking Driver Applications
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 44</unittitle>
+<unitdate> Oct. 26, 1961.</unitdate>
+<physdesc> 48 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Flames Peril 6, 3 Tots Perish + Teenagers, Police Clash in Compton </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 51</unittitle>
+<unitdate> Dec. 14, 1961.</unitdate>
+<physdesc> 48 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Teen Gang Killing Laid to 'Gladiators' </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">1</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVIII, Issue: No. 1</unittitle>
+<unitdate> Dec. 28, 1961.</unitdate>
+<physdesc> 32 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Weaver Slated for Cabinet </p></scopecontent>
+</c02>
+</c01>
+<c01 level="file"><did><unittitle><title>L.A. Sentinel.</title> Volumes: XVII; XVIII </unittitle>
+<unitdate> Feb. 15, 1962 - Dec. 20, 1962.</unitdate>
+<physdesc>14 items.</physdesc>
+</did>
+<scopecontent><p>Issues: No. 8, No. 9, No. 11, No. 15, No. 35, No. 39, No.40, No. 41, No. 43, No. 45, No. 46, No. 47,
+No.50, No.51 </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 45</unittitle>
+<unitdate> Nov. 8, 1962.</unitdate>
+<physdesc> 48 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Minority Vote Proves Winning Margin for Brown + Hawkins Our First in Congress
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 51</unittitle>
+<unitdate> Dec. 20, 1962.</unitdate>
+<physdesc> 40 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Dorothy Dandridge Charges Hubby Hocked Her Belongings </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 50</unittitle>
+<unitdate> Dec. 13, 1962.</unitdate>
+<physdesc> 44 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Showdown Near in Battle for NAACP Prexy + Showmen Trapped in Clerk's Slaying
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 47</unittitle>
+<unitdate> Nov. 22, 1962.</unitdate>
+<physdesc> 36 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Community Unites in Lindsay-for-Council Drive + Bank Bandits Trapped After Blazing Gun
+Fight </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 46</unittitle>
+<unitdate> Nov. 15, 1962.</unitdate>
+<physdesc> 48 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Woman Dies at Church as Worship Continues + Consider Gilbert Lindsay Major Choice for
+ Council </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 41</unittitle>
+<unitdate> Oct. 4, 1962.</unitdate>
+<physdesc> 48 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Uncertain Calm at Ole Miss as World Blasts Dixie Bias </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 35</unittitle>
+<unitdate> Aug. 23, 1962.</unitdate>
+<physdesc> 48 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Stepmother Fatally Beats Boy with Rod + JFk Hawkins Talk </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 15</unittitle>
+<unitdate> Apr. 5, 1962.</unitdate>
+<physdesc> 52 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: L.A. Dodgers Chavez Ravine Dream Come True + Girl, 13, Heroine in South L.A. Robbery
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 11</unittitle>
+<unitdate> Mar. 8, 1962.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Montrey Highlands Pickets Protest Realty Bias + Find Woman's Body in' Love Nest'
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 9</unittitle>
+<unitdate> Feb. 22, 1962.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Mate Boasts About Love Affairs, Slain by Wife + Urban Department Doomed
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVII, Issue: No. 8</unittitle>
+<unitdate> Feb. 15, 1962.</unitdate>
+<physdesc> 44 pages,;4 sections,15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Beautician Slain at Bus Stop + Jon Arnett Denies Real Estate Bias Deal
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVIII, Issue: No. 43</unittitle>
+<unitdate> Oct. 25, 1962.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Brown Stresses Civil Rights </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVIII, Issue: No. 39</unittitle>
+<unitdate> Sep. 20, 1962.</unitdate>
+<physdesc> 44 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Integration at Baldwin School + jury Clears Manager in Motel Lot Slaying
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">2</container>
+<unittitle><title>L.A Sentinel.</title> Volume: XXVIII, Issue: No. 40</unittitle>
+<unitdate> Sep. 27, 1962.</unitdate>
+<physdesc> 44 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Nation Demands Firm Action By U.S. in Mississippi Rebellion </p></scopecontent>
+</c02>
+</c01>
+<c01 level="file"><did><unittitle><title>L.A. Sentinel.</title> Volumes: XXVII; XXVIII; XXIX </unittitle>
+<unitdate> Jan. 17, 1963 - Sep. 12, 1963.</unitdate>
+<physdesc>18 items.</physdesc>
+</did>
+<scopecontent><p>Issues: No. 3, No. 4, No. 6, No. 7, No. 9, No. 13, No. N/A, No. N/A, No. 17, No. 20, No. 21, No. 24, No.
+25, No. 29, No. 30, No. 35, No. 36 </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: N/A, Issue: N/A</unittitle>
+<unitdate> Apr. 4, 1963.</unitdate>
+<physdesc> Section B only; Compton-South L.A. section</physdesc>
+</did>
+<scopecontent><p>Headline: 'Cadillac Bandits' Nabbed </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: N/A, Issue: N/A</unittitle>
+<unitdate> Apr. 18, 1963.</unitdate>
+<physdesc> Section C only; Compton-South L.A section</physdesc>
+</did>
+<scopecontent><p>Headline: Kids Turn Compton Into 'Shoot-Out' </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 25</unittitle>
+<unitdate> June 27, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Dad Held in Fiery Death of 4 Tots </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 35</unittitle>
+<unitdate> Sep.  5, 1963.</unitdate>
+<physdesc> 48 pagese; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 'I Loved Him,' Girl Asserts in Ray Charles Paternity Case </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 34</unittitle>
+<unitdate> Aug. 29, 1963.</unitdate>
+<physdesc> 56 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 200,000 March for Freedom and Jobs </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 30</unittitle>
+<unitdate> Aug. 1, 1963.</unitdate>
+<physdesc> 56 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Act Now on Rights-Reuther + Gun-Play Jails Gospel Singer </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 29</unittitle>
+<unitdate> July 25, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Disabled Vet Held in Party Killing </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 36</unittitle>
+<unitdate> Sep. 12, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 'I Had to Destroy Them' Slayer of Wife, Two Children Asserts </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 13</unittitle>
+<unitdate> Mar. 28, 1963.</unitdate>
+<physdesc> 56 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Rape Victim Recalls 'I Was All Shook Up!' + Lindsay, Bradley in Hot Races
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 21</unittitle>
+<unitdate> May 23, 1963.</unitdate>
+<physdesc> 54 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Dr. King to Get Hero's Welcome Here Sunday + Church Backs up Chambers Jr.
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 4</unittitle>
+<unitdate> Jan. 24, 1963.</unitdate>
+<physdesc> 44 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Couple Rescues Vice Cop in Vicious Street Attack </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 3</unittitle>
+<unitdate> Jan. 17, 1963.</unitdate>
+<physdesc> 48 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Pretty D-J Sues Bass For Party 'Assault' </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 7</unittitle>
+<unitdate> Feb. 14, 1963.</unitdate>
+<physdesc> 48 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Problems of Jobless Railroad Workers Exposed + Student's Slaying Stuns City
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 6</unittitle>
+<unitdate> Feb. 7, 1963.</unitdate>
+<physdesc> 48 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Solons Urge JFK to Name Shaw P.O. Chief </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVII, Issue: No. 24</unittitle>
+<unitdate> June 20, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Kennedy Urges Firm Rights Laws </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVIII, Issue: No. 20</unittitle>
+<unitdate> May 16, 1963.</unitdate>
+<physdesc> 53 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Birmingham Still a 'Powder Keg' </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVIII, Issue: No. 17</unittitle>
+<unitdate> Apr. 25, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Mayor Calls for Prayer Day on Dixie Injustices 'Don't Run Over That Girl Again'
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">3</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXVIII, Issue: No. 9</unittitle>
+<unitdate> Feb. 28, 1963.</unitdate>
+<physdesc> 44 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Schoolmarm Shoots Father of 3 </p></scopecontent>
+</c02>
+</c01>
+<c01 level="file"><did><unittitle><title>L.A. Sentinel.</title> Volumes: XXIX </unittitle>
+<unitdate> Sep. 19, 1963 - Dec. 26, 1963.</unitdate>
+<physdesc>14 items.</physdesc>
+</did>
+<scopecontent><p>Issues: No. 37, No. 38, No. 39, No. 40, No. 41, No. 42, No. 43, No.45, No. 46, No. 47, No. 48, No. 49,
+No. 50, No. 51 </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 42</unittitle>
+<unitdate> Oct. 24, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Infant Dies in South L.A. Fire </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 37</unittitle>
+<unitdate> Sep. 19, 1963.</unitdate>
+<physdesc> 52 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Vile Church Bombing 'Atrocity of Century' </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 38</unittitle>
+<unitdate> Sep. 26, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 'Cool Bandit' Makes $5000 Haul </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 39</unittitle>
+<unitdate> Oct. 3, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 'Hands Stomped, Copts Beat Me' + Rights Unit Given Year </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 49</unittitle>
+<unitdate> Dec. 12, 1963.</unitdate>
+<physdesc> 56 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Brown Hits Housing Initiative + Charges Chief Left Her Injured on Highway 99
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 41</unittitle>
+<unitdate> Oct. 17, 1963.</unitdate>
+<physdesc> 52 pages, 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Foul Play Ruled Out Fall Fatal to Minister </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 50</unittitle>
+<unitdate> Dec. 19, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections,  15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: The Inside Story of Queen Dinah Washingston's Death </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 48</unittitle>
+<unitdate> Dec. 5, 1963.</unitdate>
+<physdesc> 56 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Chambers Jr. Given Probation + Man Grieves Self to Death Over JFK
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 47</unittitle>
+<unitdate> Nov. 28, 1963.</unitdate>
+<physdesc> 40 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Like Being 'Orphaned' Minorities Mourn Kennedy </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 46</unittitle>
+<unitdate> Nov. 21, 1963.</unitdate>
+<physdesc> 56 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Gov. Brown to Fight Housing Initiative </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 45</unittitle>
+<unitdate> Nov. 14, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Charged with Pandering Chambers Jr. Changes Plea to 'Not Guilty' </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 43</unittitle>
+<unitdate> Oct. 31, 1963.</unitdate>
+<physdesc> 56 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 'I only Wanted a Fix' Guns Roar: Pawnbroker Shot </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 40</unittitle>
+<unitdate> Oct. 10, 1963.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Chambers Jr. Admits Guilt </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">4</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXIX, Issue: No. 51</unittitle>
+<unitdate> Dec. 26, 1963.</unitdate>
+<physdesc> 32 pages; 2 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Mother, 3 Children Die From Gas Fumes in Pre-Yule Tragedy </p></scopecontent>
+</c02>
+</c01>
+<c01 level="file"><did><unittitle><title>L.A. Sentinel.</title> Volumes: XXX </unittitle>
+<unitdate> Jan. 7, 1964 - Nov. 12, 1964.</unitdate>
+<physdesc>12 items.</physdesc>
+</did>
+<scopecontent><p>Issues: No. 1, No. 3, No. 4, No. 16, No. 32, No. 35, No. 36, No. 44, No. 45 </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: N/A, Issue: N/A</unittitle>
+<unitdate> Jan. 7, 1964.</unitdate>
+<physdesc> Incomplete: Feature section only</physdesc>
+</did>
+<scopecontent><p>Headline: Negroes Pace '65 Rose Parade </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 16</unittitle>
+<unitdate> Apr. 23, 1964.</unitdate>
+<physdesc> 144 pages; 8 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Baptists Condemn Stall-ins + Blast Housing Initiative </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 33</unittitle>
+<unitdate> Aug. 20, 1964.</unitdate>
+<physdesc> 62 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Mexicans Qualify 'No Stand' on Proposition 14 </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 45</unittitle>
+<unitdate> Nov. 12, 1964.</unitdate>
+<physdesc> 62 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Youth Shot - Police Thwart Gang War </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 44</unittitle>
+<unitdate> Nov. 5, 1964.</unitdate>
+<physdesc> 60 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Mighty Minority Vote Sparks LBJ Victory </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 36</unittitle>
+<unitdate> Sep. 10, 1964.</unitdate>
+<physdesc> 56 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Police Kill 1 in 2 Gun Fights </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 35</unittitle>
+<unitdate> Sep. 3, 1964.</unitdate>
+<physdesc> 62 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 'Penny Ante' Killer Slays Two </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 16</unittitle>
+<unitdate> Apr. 23, 1964.</unitdate>
+<physdesc> The Sentinel's 30th Anniversary Progess Edition - 144 pages; 8 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: The Life Story of Sidney Poitier </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 4</unittitle>
+<unitdate> Jan. 30, 1964.</unitdate>
+<physdesc> 56 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Tot, 5, Trapped in Home Fire + Map Mass Voter Drive </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 3</unittitle>
+<unitdate> Jan. 23, 1964.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Charles Loses Paternity Suit </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 1</unittitle>
+<unitdate> Jan. 9, 1964.</unitdate>
+<physdesc> 52 pages; 3 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Teacher Slain Over Sandwich  + President Hits Race Bias </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">5</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXX, Issue: No. 32</unittitle>
+<unitdate> Aug. 13, 1964.</unitdate>
+<physdesc> 60 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Exclusive - Champion Cassius Clay Takes a Bride! </p></scopecontent>
+</c02>
+</c01>
+<c01 level="file"><did><unittitle><title>L.A. Sentinel.</title> Volumes: XXXI; XXI </unittitle>
+<unitdate> Aug. 12, 1965 - July 14, 1966.</unitdate>
+<physdesc>16 items.</physdesc>
+</did>
+<scopecontent><p>Issues: No. 32, No.36, No.47, No.49, No.50, No.51, No.14, No.39, No.17, No.18, No.20, No.21, No.22,
+ No.24, No.25, No.27, No.28 </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXI, Issue: No. 27</unittitle>
+<unitdate> July 7, 1966.</unitdate>
+<physdesc> 48 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: NAACP Boots Nazi, Shuns 'Black Power' </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 18</unittitle>
+<unitdate> May 5, 1966.</unitdate>
+<physdesc> 56 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Korean Bride of Ex-GI Found Slain </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 50</unittitle>
+<unitdate> Dec. 16, 1965.</unitdate>
+<physdesc> 66 pages; 6 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Twenty Thousand View Watts Yule Spectacle + Car Trunk Bares Body </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 25</unittitle>
+<unitdate> June 23, 1966.</unitdate>
+<physdesc> 54 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Welder Reveals $10,000 Offer to Slay Martin Luther King </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 24</unittitle>
+<unitdate> June 16, 1966.</unitdate>
+<physdesc> 56 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Dymally's Wide Sues for Divorce </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 22</unittitle>
+<unitdate>  June 2, 1966.</unitdate>
+<physdesc> 60 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Mrs. Deadwyler To Ask City for 'Six Figures' in Lawsuit </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 21</unittitle>
+<unitdate> May 26, 1966.</unitdate>
+<physdesc> 56 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 'Car Didn't Move' </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 28</unittitle>
+<unitdate> July 14, 1966.</unitdate>
+<physdesc> 56 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Adoption of Eight-Year-Old Negro Boy Spurs Racial Terrorism in Glendale  + 'Black Power'
+ Split Widens </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 20</unittitle>
+<unitdate> May 19, 1966.</unitdate>
+<physdesc> 58 pages-; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Hundreds in Killin Protest South L.A. Violence Renewed </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 39</unittitle>
+<unitdate> Sep. 29, 1966.</unitdate>
+<physdesc> 48 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Riot Creates Tensions in Troubled Bay Area </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 51</unittitle>
+<unitdate> Dec. 23, 1965.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: 2 Women Quizzed in 'Love Slayings' </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 49</unittitle>
+<unitdate> Dec. 9, 1965.</unitdate>
+<physdesc> 64 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Throngs Await SLA Christmas Parade Saturday + Riot Report Debated
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 47</unittitle>
+<unitdate> Nov. 25, 1965.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Central, Watts Rebuilding OK'd </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 36</unittitle>
+<unitdate> Sep. 9, 1965.</unitdate>
+<physdesc> 54 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Dot Dandridge is Dead </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 32</unittitle>
+<unitdate> Aug. 12, 1965.</unitdate>
+<physdesc> 60 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Angelesnos Greet Convention Delegates </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 14</unittitle>
+<unitdate> Apr. 21, 1966.</unitdate>
+<physdesc> 60 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Mt. Sinai Defaults Church Foreclosed </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">6</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 17</unittitle>
+<unitdate> Apr. 28, 1966.</unitdate>
+<physdesc> 62 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Hawkins Brothers Clash in Eyoa War </p></scopecontent>
+</c02>
+</c01>
+<c01 level="file"><did><unittitle><title>L.A. Sentinel.</title> Volumes: XXXI </unittitle>
+<unitdate> Aug. 25, 1966 - Dec. 29, 1966.</unitdate>
+<physdesc>16 items.</physdesc>
+</did>
+<scopecontent><p>Issues: No. 30, No. 31, No. 32, No. 33, No. 34, No. 37, No. 38, No. 40, No. 43, No. 44, No. 45, No. 45,
+ No. 49, No. 50, No. 51, No. 52 </p></scopecontent>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 51</unittitle>
+<unitdate> Dec. 22, 1966.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Mahalia Seeks Divorce + Negro Editors Buys Into Pro Football Club </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 44</unittitle>
+<unitdate> Nov. 3, 1966.</unitdate>
+<physdesc> 52 pages, 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Brown Winner in Poll + 'Biased' Cop Faces $300,000 Lawsuit </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 45</unittitle>
+<unitdate> Nov. 10, 1966.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Carwasher Mum on 'Marriage' to Nurse </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 46</unittitle>
+<unitdate> Nov. 17, 1966.</unitdate>
+<physdesc> 48 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Is Wills-O'Malley Feud a Hoax + Nude's Death Puzzles </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 43</unittitle>
+<unitdate> Oct. 27, 1966.</unitdate>
+<physdesc> 52 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Wife Clears Lomax + Gil Lindsay Blasted for His Stand on Flouridation </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 50</unittitle>
+<unitdate> Dec. 15, 1966.</unitdate>
+<physdesc> 48 pages; 6 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Central Avenue Face-Lift + The Hot 'Chitlin' Murder </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 33</unittitle>
+<unitdate> Aug. 18, 1966.</unitdate>
+<physdesc> 52 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Santa Ana Bias in Realty Bared </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 49</unittitle>
+<unitdate> Dec. 8, 1966.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Sam Cooke is Gone, but Legend Lives on + Free Postman's Murder Suspect
+</p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 40</unittitle>
+<unitdate> Oct. 6, 1966.</unitdate>
+<physdesc> 50 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: U.S. Sleuths Probing Slain Postman's Loan Operations </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 38</unittitle>
+<unitdate> Sep. 22, 1966.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: KKK's Secret Known: Major Rally a Flop </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 34</unittitle>
+<unitdate> Aug. 26, 1966.</unitdate>
+<physdesc> 48 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Freeway Suicide + Yorty's Watts Testimony Draws Senators' Rebuke </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 32</unittitle>
+<unitdate> Aug. 11, 1966.</unitdate>
+<physdesc> 60 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Fitting Last Rites Set for Rep. Hawkins Wife </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 31</unittitle>
+<unitdate> Aug. 4, 1966.</unitdate>
+<physdesc> 56 pages; 5 sections. 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Who Shot Nitery Czar? </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 30</unittitle>
+<unitdate> July 28, 1966.</unitdate>
+<physdesc> 56 pages; 5 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: $300,000,000 Deadwyler Claim Biggest in Community History </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 52</unittitle>
+<unitdate> Dec. 29, 1966.</unitdate>
+<physdesc> 36 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Air Horn Blast Triggers Murder + Rose Float Flops </p></scopecontent>
+</c02>
+<c02 level="file"><did>
+<container type="box" label="Box">7</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXI, Issue: No. 37</unittitle>
+<unitdate> Sep. 15, 1966.</unitdate>
+<physdesc> 44 pages; 4 sections, 15 cents</physdesc>
+</did>
+<scopecontent><p>Headline: Dope Pair 'Fixed' + Human Relations Units to Act to Avert Local War </p></scopecontent>
+</c02>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">8</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXII</unittitle>
+<unitdate> June 22, 1967; June 29, 1967; July 6, 1967; July 13, 1967; July 27, 1967; Aug. 3, 1967; Aug. 17, 1967; Aug.
+24, 1967; Oct. 12, 1967.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 25, No.26, No.27, No.28, No.30, No.31, No.33, No.34, No.41 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">9</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXII; XXXIV</unittitle>
+<unitdate> Apr. 11, 1968; Jan. 18, 1968; Jan. 25, 1968; Feb. 22, 1968; Feb. 29, 1968; Apr. 4, 1968; May 16, 1968; May
+23, 1968; May 30, 1968; June 6, 1968.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 15, No.3, No.4, No.8, No.9, No.13, No.20, No.21, No.22, No.23 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">10</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXII; XXXIV; XXXV</unittitle>
+<unitdate> June 20, 1968; July 4, 1968; July 11, 1968; July 18, 1968; July 25, 1968; Aug. 1, 1968; Sep. 5, 1968; Sep.
+12, 1968; Dec. 5, 1968; Dec. 26, 1968.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 25, No. 27, No. 28, No. 29, No. 30, No. 31, No. 36, No. 37, No. 49, No. 52
+</p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">11</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXVI; XXXVII</unittitle>
+<unitdate> ; Jan. 2, 1969; Jan. 16, 1969; Jan. 30, 1969; Feb. 20, 1969; Feb. 27, 1969; Mar. 6, 1969; Mar. 13, 1969;
+Mar. 20, 1969; Mar. 27, 1969; Apr. 3, 1969; Apr. 10, 1969; Apr. 24, 1969; Jan. 29, 1970; Aug. 20, 1970; Sep. 17, 1970;
+Nov. 19, 1970.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 1, No.3, No.5, No.8, No.9, No.10, No.11, No.12, No.13, No.14, No.15, No.17, No.5, No.34,
+ No.38, No.47 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">12</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XXXVII; XXXVIII; XXXIX</unittitle>
+<unitdate> Feb. 18, 1971; Oct. 7, 1971; Oct. 21, 1971; Feb. 3, 1972; Feb. 10, 1972; Feb. 17, 1972; Feb. 24, 1972; Mar.
+ 2, 1972; Mar. 9, 1972; Mar. 16, 1972; Mar. 30, 1972; Apr. 6, 1972; Apr. 13, 1972.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 7, No. 40, No. 42, No. 5, No. 6, No. 7, No. 8, No. 9, No. 10, No. 11, No. 13, No. 14, No. 15
+</p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">13</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XL; XLI</unittitle>
+<unitdate> Jan. 4, 1973; Jan. 18, 1973; Jan. 25, 1973; Feb. 1, 1973; Feb. 8, 1973; Feb. 15, 1973; Feb. 22, 1973; Mar.
+1, 1973; Mar. 8, 1973; Mar. 15, 1873; Mar. 22, 1973; Mar. 29, 1973; Apr. 5, 1973; Apr. 12, 1973.</unitdate>
+</did>
+<scopecontent><p>Issues:  No. 1, No. 3, No. 4, No. 5, No. 6, No. 7, No. 8, No. 9, No. 10, No. 11, No. 12, No. 13, No. 1,
+No. 2 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">14</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLI</unittitle>
+<unitdate> Apr. 19, 1973; May 3, 1973; May 10, 1973; May 17, 1973; May 24, 1973; May 31, 1973; June 7, 1973; June
+14, 1973; June 21, 1973; June 28, 1973; July 5, 1973; July 12, 1973; July 19, 1973; July 26, 1973.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 3, No. 5, No. 6, No. 7, No. 8, No. 9, No. 10, No. 11, No. 12, No. 13, No. 14, No. 15, No. 16,
+ No. 17 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLI</unittitle>
+<unitdate> Aug. 2, 1973; ; Aug. 9, 1973; Aug. 16, 1973; Aug. 23, 1973; Aug. 30, 1973; Sep. 6, 1973; Sep. 20, 1973;
+Sep. 27, 1973; Oct. 4, 1973; Oct. 11, 1973; Oct. 18, 1973; Oct. 25, 1973; Nov. 1, 1973; Nov. 15, 1973; Nov. 22, 1973;
+Nov. 29, 1973; Dec. 6, 1973; Dec. 13, 1973; Dec. 20, 1973.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 18, No. 19, No. 20, No. 21, No. 22, No. 23, No. 25, No. 26, No. 27, No. 28, No. 29, No. 30,
+ No. 31, No. 33, No. 34, No. 35, No. 36, No. 37, No. 38 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">16</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLI; XLII</unittitle>
+<unitdate> Jan. 3, 1974; ; Jan. 17, 1974; Jan. 24, 1974; Jan. 31, 1974; Feb. 14, 1974; Feb. 21, 1974; Feb. 28, 1974;
+Mar. 7, 1974; Mar. 14, 1974; Mar. 21, 1974; Apr. 11, 1974; Apr. 18, 1974; May 2, 1974; May 9, 1974; May 16, 1974;
+May 23, 1974; June 13, 1974; June 27, 1974; July 4, 1974; Aug. 1, 1974; Aug. 8, 1974.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 40, No. 42, No. 43, No. 44, No. 46, No. 47, No. 48, No. 49, No. 50, No. 51, No. 2, No. 3,
+No. 5, No. 6, No. 7, No. 8, No. 11, No. 13, No. 18, No. 18(2) </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">17</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLII</unittitle>
+<unitdate> Aug. 15, 1974; Aug. 22, 1974; Aug. 29, 1974; Sep. 5, 1974; Sep. 12, 1974; Sep. 26, 1974; Oct. 3, 1974; Oct.
+ 10, 1974; Oct. 17, 1974; Oct. 31, 1974; Nov. 7, 1974; Nov. 14, 1974; Nov. 28, 1974; Dec. 5, 1974; Dec. 12,
+1974.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 20, No. 21, No. 22, No. 23, No. 24, No. 26, No. 27, No. 28, No. 29, No. 31, No. 32, No. 33,
+ No. 35, No. 36, No. 37 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">18</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLII; XLIII</unittitle>
+<unitdate> Jan. 2, 1975; Jan. 9, 1975; Jan. 16, 1975; Jan. 30, 1975; Feb. 13, 1975; Feb. 20, 1975; Feb. 27, 1975; Mar.
+13, 1975; Mar. 20, 1975; Mar. 27, 1975; Apr. 3, 1975; Apr. 17, 1974; Apr. 24, 1975; Apr. 3, 1975; Apr. 17, 1975; Apr.
+24, 1975; May 1, 1975; May 8, 1975; May 15, 1975; May 22, 1975.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 40, No. 41, No. 42, No. 44, No. 46, No. 47, No. 48, No. 50, No. 51, No. 52, No. 1, No. 3,
+No. 3, No. 4, No. 5, No. 6, No. 7, No. 8 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">19</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XIIII; XLIII</unittitle>
+<unitdate> May 29, 1975; June 5, 1975; June 12, 1975; June 19, 1975; June 26, 1975; July 3, 1975; July 10, 1975; July
+17, 1975; July 24, 1975; Aug. 2, 1975; Aug. 14, 1975; Aug. 21, 1975; Aug. 28, 1975; Sep. 2, 1975; Nov. 13,
+1975.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 9, No. 10, No. 11, No. 12, No. 13, No. 14, No. 15, No. 16, No. 17, No. 19, No. 20, No. 21,
+No. 22, No. 27, No. 33 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">20</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLIV</unittitle>
+<unitdate> Apr. 1, 1976, Apr. 8, 1975; Apr. 15, 1975; Apr. 29, 1975; May 6, 1975; May 13, 1975; May 20, 1975; June 3,
+1975; June 10, 1975; June 17, 1975; June 24, 1975; July 8, 1975; July 15, 1975; July 22, 1975.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 2, No. 3, No. 4, No. 6, No. 7, No. 8, No. 9, No. 10, No. 11, No. 12, No. 14, No. 15, No. 16,
+No. 17 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">21</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLIV</unittitle>
+<unitdate> July 29, 1976; Aug. 5, 1976; Aug. 12, 1976; Aug. 19, 1976; Aug. 26, 1976; Sep. 2, 1976; Sep. 9, 1976; Sep.
+16, 1976; Sep. 23, 1976; Sep. 30, 1976; Oct. 7, 1976; Oct. 14, 1976; Oct. 21, 1976; Oct. 28, 1976; Nov. 4, 1976; Nov.
+11, 1976; Dec. 2, 1976; Dec. 9, 1976; Dec. 16, 1976; Dec. 23, 1976; Dec. 30, 1976..</unitdate>
+</did>
+<scopecontent><p>Issues: No. 18, No. 19, No. 20, No. 21, No. 22, No. 23, No. 24, No. 25, No. 26, No. 27, No. 28, No. 29,
+ No. 30, No. 31, No. 32, No. 33, No. 36, No. 37, No. 38, No. 39, No. 40 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">22</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLIV; XLI</unittitle>
+<unitdate> Jan. 6, 1977; Jan. 13, 1977; Jan. 20, 1977; Jan. 27, 1977; Feb. 3, 1977; Feb. 10, 1977; Feb. 17, 1977; Feb.
+24, 1977; Mar. 3, 1977; Mar. 10, 1977; Mar. 17, 1977; Mar. 24, 1977; Apr. 7, 1977; Apr. 14, 1977; Apr. 21, 1977; Apr.
+28, 1977.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 41, No. 42, No. 43, No. 44, No. 45, No. 46, No. 47, No. 48, No. 49, No. 50, No. 51, No. 52,
+ No. 1, No. 3, No. 4, No. 5 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">23</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLI</unittitle>
+<unitdate> May 5, 1977; May 12, 1977; May 19, 1977; May 26, 1977; June 2, 1977; June 9, 1977; June 16, 1977; June
+23, 1977; June 30, 1977; July 7, 1977; July 14, 1977; July 28, 1977.</unitdate>
+<physdesc> L.A. Sentinel forgot to change issue for issue 19.</physdesc>
+</did>
+<scopecontent><p>Issues: No. 6, No. 7, No. 8, No. 9, No. 10, No. 11, No. 12, No. 13, No. 14, No. 15, No. 16, No. 17, No.
+18, No. 19, No. 21 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">24</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLI; XLV</unittitle>
+<unitdate> Sep. 1, 1977; Sep. 8, 1977; Sep. 15, 1977; Sep. 22, 1977; Sep. 29, 1977; Oct. 6, 1977; Oct. 13, 1977; Oct.
+20, 1977; Oct. 27, 1977; Nov. 3, 1977; Nov. 10, 1977; Dec. 8, 1977; Dec. 15, 1977; Dec. 22, 1977; Dec. 29,
+1977.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 22, No. 23, No. 24, No. 25, No. 26, No. 27, No. 28, No. 29, No. 30, No. 31, No. 32, No. 36,
+ No. 37, No. 38, No. 39 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">25</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLV; XLVI</unittitle>
+<unitdate> Jan. 5, 1978; Jan. 12, 1978; Jan 19, 1978; Jan. 26, 1978; Feb. 2, 1978; Feb. 9, 1978; Feb.16, 1978; Feb.
+23, 1978; Mar. 6, 1978; Mar. 13, 1978; Mar. 20, 1978; Mar. 27, 1978; Apr. 4, 1978.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 37, No. 38, No. 42, No. 43, No. 44, No. 45, No. 46, No. 47, No. 49, No. 50, No. 51, No. 15,
+ No. 26, No. 45, No. 5, No. 6 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">26</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLVI; XLIV</unittitle>
+<unitdate> May 11, 1978; June 1, 1978; June 15, 1978; July 6, 1978; July 13, 1978; 20, 1978; Aug. 3, 1978; Aug. 10,
+1978; Aug. 17, 1978; Aug. 31, 1978; Sep. 7, 1978; Sep.21, 1978; Sep. 28, 1978; Sep. 5, 1978; Sep. 12, 1978; Nov. 30,
+1978; Dec. 7, 1978; Dec. 14, 1978; Dec. 21, 1978.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 7, No. 10, No. 12, No. 15, No. 16, No. 17, No. 19, No. 20, No. 21, No.  23, No. 24, No. 26,
+No. 27, No. 28, No. 29, No. 36, No. 37, No. 38, No. 39 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">27</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLIV; XLV</unittitle>
+<unitdate> Jan. 4, 1979; Jan. 11, 1979; Jan. 18, 1979; Jan. 25, 1979; Jan. 8, 1979; Jan. 22, 1979; Jan 1, 1979; Jan 8,
+1979; Jan 15, 1979; Jan 22, 1979; Jan 29, 1979; Feb. 5, 1979; Feb. 9, 1979; Feb. 26, 1979.</unitdate>
+<physdesc> 14 Items</physdesc>
+</did>
+<scopecontent><p>Issues: No. 41, No. 42, No. 43, No. 44, No. 46, No. 48, No. 49, No. 50, No. 51, No. 52, No. 1, No. 2,
+No. 4, No. 5 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">28</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLV</unittitle>
+<unitdate> May 3, 1979; May 10, 1979; May 17, 1979; May 24, 1979; June 7, 1979; June 14, 1979; June 21, 1979; June
+ 28, 1979; July 19, 1979; July 26, 1979; Aug. 2, 1979; Aug. 9, 1979; Aug. 23, 1979; Aug. 30, 1979; Sep. 6, 1979; Sep.
+13, 1979.</unitdate>
+<physdesc> 16 Items</physdesc>
+</did>
+<scopecontent><p>Issues: No. 6, No. 7, No. 8, No. 9, No. 11, No. 12, No. 13, No. 14, No. 17, No. 18, No. 19, No. 20, No.
+22, No. 23, No. 24, No. 25 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">29</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLV</unittitle>
+<unitdate> Sep. 20, 1979; Sep. 27, 1979; Oct. 4, 1979; Oct. 11, 1979; Oct. 18, 1979; Oct. 25, 1979; Nov. 1, 1979; Nov.
+8, 1979; Nov. 15, 1979; Nov. 22, 1979; Nov. 29, 1979; Dec. 6, 1979; Dec. 13, 1979; Dec. 20, 1979; Dec. 27,
+1979.</unitdate>
+<physdesc> 15 Items</physdesc>
+</did>
+<scopecontent><p>Issues: No. 26, No. 27, No. 28, No. 29, No. 30, No. 31, No. 32, No. 33, No. 34, No. 35, No. 36, No. 37,
+ No. 38, No. 38(2), No. 39 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLVI</unittitle>
+<unitdate> Aug. 7, 1980; Aug. 14, 1980; Aug. 21, 1980; Aug. 28, 1980; Sep. 4, 1980; Sep. 11, 1980; Sep. 18, 1980;
+Oct. 2, 1980; Oct. 9, 1980; Oct. 16, 1980; Oct. 23, 1980; Oct. 30, 1980; Nov. 6, 1980; Nov. 13, 1980; Nov. 20, 1980;
+Nov. 27, 1980; Dec. 4, 1980; Dec. 11, 1980; Dec. 18, 1980; Dec. 25, 1980.</unitdate>
+<physdesc> 20 Items</physdesc>
+</did>
+<scopecontent><p>Issues: No. 17, No. 18, No. 19 , No. 20, No. 21, No. 22, No. 23, No. 25, No. 25(2),No. 27, No. 28, No.
+29, No. 30, No. 31, No. 32, No. 33, No. 34, No. 35, No. 36, No. 37 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">31</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLVI; XLVII</unittitle>
+<unitdate> Jan. 1, 1981; Jan 8, 1981; Jan. 15, 1981; Jan. 22, 1981; Jan. 29, 1981; Feb. 12, 1981; Feb. 19, 1981; Feb.
+26, 1981; Mar. 5, 1981; Mar. 12, 1981; Mar. 19, 1981; Mar. 26, 1981; Apr. 2, 1981; Apr. 9, 1981; Apr. 16,
+1981.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 38, No. 39, No. 40, No. 41, No. 43, No. 44, No. 45, No. 9(46), No. 47, No. 48, No. 49, No.
+50, No. 51, No. 52, No. 1 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">32</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLVII</unittitle>
+<unitdate> Apr. 23, 1981; Apr. 30, 1981; May 7, 1981; May, 14, 1981; June 11, 1981; June 18, 1981; June 25, 1981;
+July 2, 1981; July 9, 1981; July 16, 1981; July 23, 1981; July 30, 1981; Aug. 6, 1981; Aug. 13, 1981; Aug. 20, 1981; Aug.
+ 27, 1981; Sep. 3, 1981.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 2, No. 3, No. 4, No. 5, No. 9, No. 10, No. 11, No. 12, No. 13, No. 14, No. 16, No. 17, No.
+18, No. 19, No. 20 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">33</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLVII</unittitle>
+<unitdate> Sep. 10, 1981; Sep. 17, 1982; Sep. 24, 1981; Oct. 8, 1981; Oct. 16; 1981; Nov. 5, 1981; Nov. 12, 1981; Nov.
+19, 1981; Nov. 26, 1981; Dec. 3, 1981; Dec. 10, 1981; Dec. 17, 1981; Dec. 24, 1981; Dec. 31, 1981.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 22, No. 23, No. 24, No. 26, No. 27, No. 30, No. 31, No. 32, No. 33, No. 34, No. 35, No. 36,
+ No. 37, No. 38 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">34</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLVII</unittitle>
+<unitdate> Jan. 7, 1982; Jan. 14, 1982; Jan. 21, 1982; Feb. 4, 1982 Feb. 11, 1982; Feb. 18, 1982; Feb. 25, 1982; Mar.
+4, 1982; Mar. 11, 1982; Mar. 18, 1982; Mar. 25, 1982, Apr. 1, 1982; Apr. 8, 1982; Apr. 15, 1982.</unitdate>
+<physdesc> Issue No. 43 (Feb. 18, 1982) Miriam Matthews Receives Titus Alexander Award</physdesc>
+</did>
+<scopecontent><p>Issues: No. 39, No. 40, No. 41, No. 41(2), No. 42, No. 43, No. 44, No. 45, No. 46, No. 47, No. 48, No.
+49, No. 50, No. 51 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">35</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLVII; XLVIII</unittitle>
+<unitdate> Apr. 22, 1982; Apr. 29, 1982; May 6, 1982; May 13, 1982; May 20, 1982; May 27, 1982; June 3, 1982; June
+10, 1982; June 17, 1982; June 24, 1982; July 1, 1982; July 8, 1982; July 15, 1982; July 22, 1982; July 29,
+1982.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 52, No. 1, No. 2, No. 3, No. 4, No. 5, No. 6, No. 7, No. 8, No. 9, No. 10, No. 11, No. 12,
+No. 13, No. 14 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">36</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLVIII</unittitle>
+<unitdate> Aug. 5, 1982; Aug. 12, 1982; Aug. 19, 1982; Aug. 26, 1982; Sep. 2, 1982; Sep. 9, 1982; Sep. 16, 1982; Sep.
+ 23, 1982; Sep. 30, 1982; Oct. 7, 1982; Oct. 14, 1982; Oct. 21, 1982; Oct. 28, 1982; Nov. 4, 1982; Nov. 11, 1982; Dec.
+16, 1982.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 15, No. 16, No. 17, No. 18, No. 19, No. 20, No. 21, No. 22, No. 23, No. 24, No. 25, No. 26,
+ No. 27, No. 28, No. 29, No. 34 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">37</container>
+<unittitle><title>L.A. Sentinel.</title> Volume: XLVII; XLIX; L</unittitle>
+<unitdate> Feb. 24, 1983; July 7, 1983, Apr. 12, 1984; Apr. 19, 1984; Sep. 27,1984; Oct. 4, 1984; Oct. 11, 1984; Oct.
+18, 1984; Oct. 25, 1984; Nov. 1, 1984; Nov. 8, 1984; Nov. 15, 1984; Nov. 22, 1984; Nov. 29, 1984, Dec. 6, 1984; Dec.
+13, 1984; Dec. 20, 1984; Dec. 27, 1984;  Feb. 21, 1985; Mar. 7, 1985; Mar. 14, 1985.</unitdate>
+</did>
+<scopecontent><p>Issues: No. 44, No. 11, No. 51, No. 52, No. 23, No. 24, No. 2, No. 26, No. 27, No. 28, No. 29, No. 30,
+No. 31, No. 32, No. 33, No. 34, No. 35, No. 36, No. 44, No. 46, No. 47 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">38</container>
+<unittitle><title>Los Angeles Sentinel.</title></unittitle>
+<unitdate> Special Issue Black Progress in So Cal XXXVII, Thursday May 20, 1971 (two copies); Special Issue Black
+Progress in So Cal XXXVIII, Thursday May 27, 1971 (two copies); Special Edition Sentinel Publisher Dies XLII, Thursday
+June 20, 1974; Special Edition Sentiel's 50 XLVIII, Thursday April 14, 1983 (three copies).</unitdate>
+</did>
+<scopecontent><p>Issues: No. 20, No. 21, No. 12, No. 51 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">39</container>
+<unittitle><title>LA Times, Muhammad Speaks, LA City Press, Tribune News Wave, California Eagle.</title> Volume:
+</unittitle>
+<unitdate> LA Times: XCIII, Friday May 24, 1974; Sunday June 30, 1974 (partial); Friday May 24, 1974 (partial); Sunday
+May 5, 1974
+Muhammad Speaks: 13, May 31, 1974
+LA City Press: 43, Wednesday Aug. 27, 1980 (2 pages)
+Tribune News Wave: 54, Thursday Feb. 21, 1980 (2 pages);  54, Thursday Feb. 7, 1980 (2 pages)
+California Eagle: Thursday January 7, 1965 (partial); LXXXIV, Thursday Dec. 5, 1963.</unitdate>
+<physdesc> No issue numbers for LA Times; No issue number for partial California Eagle</physdesc>
+</did>
+<scopecontent><p>Issues: Muhammad Speaks: No. 38; LA City Press: No. 35; Tibune News Wave: No. 44, No. 42, No.
+5, No. 24, No. 7, No. 8, No. 47, No. 31, No. 48, No. 22, No. 30, No. 25, No. 33, No. 46, No. 27, N. 14, No. 41, No. 32;
+California Eagle: No. 38 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">40</container>
+<unittitle><title>California Eagle.</title></unittitle>
+<unitdate> Thursday April 10, 1958 (partial); Thursday April 24, 1958 (partial); Thursday May 8, 1958 (partial);
+Thursday February 18, 1960 (partial); Thursday February 25, 1960 (partial); Thursday July 28, 1960 (partial);
+Thursday September 29, 1960 (partial);  Thursday December 15, 1960 (partial); Thursday August 24, 1961  (partial);
+Thursday October 5, 1961 (partial); Thursday October 24, 1961, Thursday November 16, 1961 (partial); Thursday
+November 23, 1961 (partial); Thursday December 7, 1961 (partial); Thursday February 8, 1962(partial); Thursday
+February 22, 1962 (partial); Thursday March 1, 1962 (partial); Thursday March 8, 1962 (partial); Thursday August 8,
+1963 (partial); Thursday October 24, 1963 (partial); Thursday October 31, 1963 (partial); Thursday November 21, 1963
+(partial); Thursday December 12, 1963 (partial); Thursday January 23, 1964 (partial); Thursday January 30, 1964
+(partial); Thursday February 6, 1964 (partial); Thursday February 13, 1964 (partial); Thursday February 27, 1964
+(partial); Thursday March 5, 1964 (partial); Thursday March 19, 1964 (partial); Thursday April 16, 1964 (partial);
+Thursday May 28, 1964 (partial); Thursday June 4 1964 (partial); Thursday August 20, 1964.</unitdate>
+<physdesc> Random pages from California Eagle</physdesc>
+</did>
+<scopecontent><p>Issues: Vol. LXXVIII- Nos. 4, 6, 8; Vol. LXXIX- Nos. 49, 50; Vol. LXXX- Nos. 19,28, 39; Vol. LXXXI- Nos.
+23, 29, 32, 35, 36, 38, 47, 49, 50, 51; Vol. LXXXIV- Nos. ?, 32, 33, 36, 39, 45, 46, 47, 48, 50, 51 (copy 1 of 2), 51 (copy
+2 of 2); Vol. LXXXV- Nos. 1, 5, 11, 12, 23 </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">41</container>
+<unittitle><title>Los Angeles Tribune.</title></unittitle>
+<unitdate> Friday February28, 1958 (partial); Friday June 27, 1958 (partial); Friday July 25, 1958 (partial); Friday
+August 1, 1958 (partial); Friday August 29, 1958 (partial); Friday September 5, 1958 (partial); Friday September 12.
+1958 (partial); Friday September 19, 1958 (partial); Friday September 26, 1958 (partial); Friday October 3, 1958
+(partial); Friday October 10, 1958 (partial); Friday October 17, 1958 (partial); Friday October 31, 1984 (partial); Friday
+November 7, 1958 (partial); Friday November 14, 1958 (partial); Friday November 21, 1958 (partial); Friday December
+5, 1958 (partial); Friday December 26, 1958 (partial); Friday January 2, 1959 (partial); Friday January 9, 1959 (partial);
+Friday January 23, 1959 (partial); Friday January 30, 1959 (partial); Friday February 6, 1959 (partial); Friday February
+13, 1959 (partial); Friday March 20, 1959 (partial); Friday April 3, 1959 (partial); Friday April 10, 1959 (partial); Friday
+April 24, 1959 (partial); Friday May 1, 1959 (partial); Friday May 29, 1959 (partial); Friday June 5, 1959 (partial); Friday
+June 12, 1959 (partial); Friday June 26, 1959 (partial); Friday July 3, 1959 (partial); Friday July 17, 1959 (partial); Friday
+ July 24, 1959 (partial); Friday July 31, 1959 (partial); Friday August 7, 1959 (partial); Friday February 26, 1950 (partial);
+ Friday March 11, 1960 (partial); Friday March 18, 1960 (partial); Friday March 25, 1960 (partial); Friday April 8, 1960
+(partial); Friday April 15, 1960 (partial).</unitdate>
+</did>
+<scopecontent><p>Issues: Vol. 18- Nos. 3, 20, 24, 25, 29, 30, 31, 32, 33, 34, 35 (copy 1 of 2), 35 (copy 2 of 2), 38, 39,
+40, 41, 43, 46, 47, 48, 50, 51, 52; Vol. 19- Nos. 1, 6, 8, 9, 11, 12 (copy 1 of 2), 12 (copy 2 of 2), ?, 17, 18, 20, 21, 23,
+24, ?, 26; Vol. 20- Nos. 3, 5, 6, 7, 9, 10, </p></scopecontent>
+</c01>
+<c01 level="file"><did>
+<container type="box" label="Box">42</container>
+<unittitle><title>Los Angeles Tribune.</title></unittitle>
+<unitdate> Saturday June 19, 1948 (partial); Saturday August 6, 1949 (partial); Saturday August 20, 1949 (partial);
+Saturday August 27, 1949 (partial); Friday November 4, 1955 (partial); Friday November 11, 1955 (partial); Friday
+November 18, 1955 (partial); Friday July 27, 1956 (partial); Friday August 3, 1956 (partial); Wednesday November 27,
+1957 (partial); Friday February 21, 1958 (partial); Friday March 28, 1958 (partial); Friday April 4, 1958 (partial); Friday
+April 11, 1958 (partial); Friday April 18, 1958 (partial); Friday April 25, 1958 (partial); Friday May 2, 1958 (partial); Friday
+ May 9, 1958 (partial); Friday May 16, 1958 (partial); Friday May 23, 1958 (partial); Friday May 30, 1958 (partial); Friday
+ June 6, 1958 (partial); Friday June 13, 1958 (partial); Friday June 20, 1958 (partial); Friday July 4, 1958 (partial); Friday
+ July 11, 1958 (partial); Friday July 18, 1958 (partial); Friday August 8, 1958 (partial); Friday December 12, 1958
+(partial); Friday August 14, 1959 (partial); Friday September 11, 1959 (partial); Friday October 2, 1959 (partial); Friday
+October 16, 1959 (partial); Friday October 23, 1959 (partial); Friday October 30, 1959 (partial); Friday November 6,
+1959 (partial); Friday November 13, 1959 (partial); Friday November 20, 1959 (partial); Friday December 11, 1959
+(partial); Friday December 25, 1959 (partial); Friday January 1, 1960 (partial); Friday January 8, 1960 (partial); Friday
+January 15, 1960 (partial); Friday January 22, 1960 (partial); Friday January 29, 1960 (partial); Friday February 5,
+1960.</unitdate>
+<physdesc> The second Vol. 9- No. 27 is incorrectly labeled and would therefore be No. 28</physdesc>
+</did>
+<scopecontent><p>Issues: Vol. 8- No. 19; ?; Vol. 9- No. 27; Vol. 9- No. 27; Vol. 15- Nos. 38, 39, 40; Vol. 16- Nos. 24, 25;
+ Vol. 17- No. 42; Vol. 18- Nos. 2, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 26, 44; Vol. 19- Nos. 27, 31, 34,
+36, 37, 38, 39, 40, 41, 44, 46, 47, 48, 49, 50, 51, 52 </p></scopecontent>
+</c01>
+</dsc>
+</archdesc>
+</ead>
