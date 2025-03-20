@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c82z17qg/">losa2204.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Gay and Lesbian Community Services Center records, 
+                    <date calendar="gregorian" normal="1975/1992" era="ce">1975-1992</date>
+                    <num>LSC.2204</num>
+                </titleproper>
+                <titleproper type="filing">Gay and Lesbian Community Services Center records</titleproper>
+                <author>Finding aid prepared by Stacy Wood, 2013; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 30 August 2017.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-08-30T15:11-0700</date>
+            </creation>
+            <langusage>Finding aid written in: 
+                <language>English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Gay and Lesbian Community Services Center records.</unittitle>
+            <unitid>LSC.2204</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.2 linear feet</extent>
+                <extent>(3 document boxes)</extent>
+            </physdesc>
+            <unitdate normal="1975/1992" type="inclusive">1975-1992</unitdate>
+            <abstract id="ref2" label="Abstract">The Los Angeles LGBT Center is a community services center serving the lesbian, gay, bisexual and transgender community of Los Angeles. Its former name was the Gay and Lesbian Community Services Center. The collection contains institutional documents as well as programming and event information from 1975-1992.</abstract>
+            <langmaterial id="ref87" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref3" label="Physical location">COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+            <origination label="Creator">
+                <corpname rules="aacr" source="naf">Gay/Lesbian Community Services Center.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref4">
+            <head>Conditions on Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Conditions on Use and Reproduction</head>
+            <p>Property rights to the physical object belong to UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Gay and Lesbian Community Services Center Records (Collection 2204). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Provenance unknown.</p>
+            <p>This collection is part of an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing History</head>
+            <p>Processed by Stacy Wood, 2013. Description enhanced and further physical processing completed by Sabrina Ponce in 2016.</p>
+            <p>The 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+            <p></p>
+            <p></p>
+        </processinfo>
+        <odd id="ref88">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7381450">7381450</extref></p>
+        </odd>
+        <bioghist id="ref9">
+            <head>Biography</head>
+            <p>In Spring 1971, a group of activists from the Gay Liberation Front (GLF) and the Metropolitan Community Church (MCC) held a series of meetings at the home of GLF activist John Platania, to create an organization to provide social services for members of the gay and lesbian community, many of whom were marginalized and on the street, in the Hollywood/Silverlake area of the city of Los Angeles, and in the adjoining unincorporated area of West Hollywood, in Los Angeles County. Platania, who had worked for the Los Angeles Community Development Agency, drew up a detailed development plan for a nonprofit organization to offer services via a hot line and services for people living on the street, instituted by the MCC and the Liberation House, a crisis housing facility at 1168 North Edgemont, in Hollywood, opened by the GLF's Survival Committee. The formal proposal, prepared by GLF activist Don Kilhefner, was submitted on July 14, 1971, and the articles of incorporation were signed by Morris Kight, June Herrle, James Kepner, and John Platania on July 22, 1971. The articles were filed in the office of the California Secretary of State on January 4, 1972.</p>
+            <p>The Gay Community Services Center opened its doors in October 1971, in a run-down Victorian house designed by William Eastlake, at 1614 Wilshire Boulevard. A second Liberation House, at 1322 North Van Ness Avenue (formerly a residence of filmmaker Jack Warner) and a Gaywill Funky Thrift Shoppe, at 1519-1521 Griffith Park Boulevard, were already in operation. Kilhefner was appointed as the Center's first Executive Director.</p>
+            <p>The Center initially provided hotline, information, referral, counseling, housing, education, and employment services; a venereal disease clinic was opened in October 1972. Services were provided free of charge, with the exception of housing for which a nominal per diem fee was charged. In accordance with the founders' concept of "community," the Center was staffed entirely by gays and lesbians. In addition, most of the staff, including professionals and paraprofessionals, were volunteers, although a small number of full-time core staff members received minimal "survival stipends." The Internal Revenue Service refused to grant the Center non-profit status until April 1974, and as the Center was unable to obtain government funding without this certification, it was forced to depend entirely upon donations for the first year of its existence. In 1972, the Center served approximately 75,000 persons with a staff of 85 full-time and part-time volunteers; its income was reported at $41,678.</p>
+            <p>In November 1972, the Center received its first grant, of approximately $20,000, for a drug education program, from the National Free Clinic Council (NFCC). Kilhefner and Center Administrative Director Ken Bartley also served as co-directors of a similar grant awarded the Los Angeles Consortium of Free Clinics. The granting of non-profit status by the Internal Revenue Service in April 1974 enabled the Center to apply for public funding, and between August and November the Center received federal and local government grants totaling $410,281, to fund its medical and alcohol and drug abuse programs. The three-year grant from the National Institute on Alcohol Abuse and Alcoholism (NIAAA) to fund the Center's Women's Alcohol Program (WAP) was worth $1 million, a windfall unprecedented for any gay group in the world, and the Center thereby became the first institution with the word "gay" in its name to receive federal funding.</p>
+            <p>Early in 1975, the building at 1614 Wilshire Boulevard was condemned, and the Center, which had been searching since late 1974 for new quarters, obtained a lease, with option to purchase, on a building at 1213 North Highland Avenue. In April 1975, on the eve of the Center's move to its new home, two events nearly destroyed the Center. An attempt by Center management to divert some of the NIAAA funds to other Center programs was vigorously protested by the WAP program director, Brenda Weathers, and resulted in the transfer of the grant from the Center to a newly incorporated, independent Alcoholism Center for Women, which remains in existence today. At the same time, a conflict arose between lesbian feminist members of the staff and what they perceived to be the Center's patriarchal male-dominated hierarchy. The controversy resulted in the firing of eleven staff members, who in return picketed the Center's new facility on Highland Avenue. The issue, which resulted in the alienation of many donors as well as a significant portion of the lesbian community, was not resolved until 1978. Nevertheless, a number of lesbian activists, including Lillene Fifield, who had been instrumental in obtaining the NIAAA grant, remained with the Center on the grounds that the Center's work in helping the marginalized members of the gay and lesbian community outweighed the sexism evidenced in some quarters.</p>
+            <p>The Center's programs, in particular the Venereal Disease Control Program, which by providing a safe space for testing was able to identify and treat sexually transmitted diseases earlier than the Los Angeles County Health Department, thus saving the county money, had earned the Center the support of local politicians, in particular county supervisor Ed Edelman and city councilwoman Peggy Stevenson. Thus, despite the controversies of early 1975 the Center continued to expand: annual income for 1975 was $527,050, and for 1976 was $645,306. By this time the number of professional and nonprofessional volunteers had grown to 250, and the salaried staff to 44.</p>
+            <p>The rapid growth of the Center in the mid 1970s was made possible by the generosity of the Democratic administration of President Jimmy Carter: in particular, by 1981, CETA (Comprehensive Employment and Training Act) funds totaled nearly $500,000, (approximately one-third of the Center's $1.8 million budget, and provided the salaries of 41 of the Center's 85 paid staff. The Reagan administration, however, eliminated many social service funding programs, and slashed the budgets of those that remained. Anticipating the end of federal funding for the Center, the Center Board of Directors instituted a robust private donor program to free the Center from the vicissitudes of government funding. Steve Schulte, Executive Director of the Center from 1979 to 1983, who had earned a political science degree from Yale and had worked for the Los Angeles City Council, recast the Center, which had retained the "casualness about dress and rules" of its founders, as a serious, "respectable" institution that would appeal to mainstream donors.</p>
+            <p>The Center currently goes by the name of Los Angeles LGBT Center.</p>
+            <p>This historical note was taken from the Finding Aid for the L.A. Gay and Lesbian Center Records at the ONE National Gay and Lesbian Archives.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content</head>
+            <p>This collection includes promotional materials, correspondence and organizational documents regarding the programming, campaigns and activities of the Gay and Lesbian Community Services Center from 1975-1992.</p>
+        </scopecontent>
+        <arrangement id="ref89">
+            <head>Organization and Arrangement</head>
+            <p>Organized alphabetically by type, therein chronologically.</p>
+        </arrangement>
+        <relatedmaterial id="ref11">
+            <head>Related Material</head>
+            <p/>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Gay/Lesbian Community Services Center. -- Archives</corpname>
+            <subject source="lcsh">Bisexuals--Services for--California--Los Angeles.</subject>
+            <subject source="lcsh">Community centers--California--Los Angeles--Archives.</subject>
+            <subject source="lcsh">Gays--Services for--California--Los Angeles.</subject>
+            <subject source="lcsh">June L. Mazer Lesbian Archive at UCLA. </subject>
+            <subject source="lcsh">June L. Mazer Lesbian Archives. </subject>
+            <subject source="lcsh">Lesbians--Services for--California--Los Angeles.</subject>
+            <subject source="lcsh">Transgender people--Services for--California--Los Angeles.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref78" level="file">
+                <did>
+                    <unittitle>Administrative: Internal Correspondence</unittitle>
+                    <container id="cid7986034" type="Box" label="Folder ">1</container>
+                    <container parent="cid7986034" type="Folder">1</container>
+                    <unitdate normal="1981/1985" type="inclusive">circa 1982-1984</unitdate>
+                    <physdesc id="ref79" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref80">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence and memos exchanged internally related to staff and maintenance issues.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref30" level="file">
+                <did>
+                    <unittitle>Administrative: Job Opportunities</unittitle>
+                    <container id="cid7986050" type="Box" label="Folder ">1</container>
+                    <container parent="cid7986050" type="Folder">2</container>
+                    <unitdate normal="1988/1993" type="inclusive">circa 1989-1992</unitdate>
+                    <physdesc id="ref31" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Contents note</head>
+                    <p>Information on job, volunteer, and vocational training opportunities at the Gay and Lesbian Community Services Center, Gay &amp; Lesbian Alliance Against Defamation/Los Angeles (GLAAD/LA), Lambda Legal Defense and Education Fund, Inc., Lesbian &amp; Gay Community Mediation Project, and other organizations in collaboration with the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref27" level="file">
+                <did>
+                    <unittitle>Administrative: Meeting minutes</unittitle>
+                    <container id="cid7986051" type="Box" label="Folder ">1</container>
+                    <container parent="cid7986051" type="Folder">3</container>
+                    <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+                    <physdesc id="ref28" label="General Physical Description note">printed paper, photocopies</physdesc>
+                </did>
+                <scopecontent id="ref29">
+                    <head>Scope and Contents note</head>
+                    <p>Minutes from various meetings at the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>Administrative: Organizational documents</unittitle>
+                    <container id="cid7986055" type="Box" label="Folder ">1</container>
+                    <container parent="cid7986055" type="Folder">4</container>
+                    <unitdate normal="1971/1983" type="inclusive">circa 1972-1982</unitdate>
+                    <physdesc id="ref16" label="General Physical Description note">photocopies, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Contents note</head>
+                    <p>Articles of Incorporation and other documents regarding non-profit and tax-exempt status of the organization.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref69" level="file">
+                <did>
+                    <unittitle>Administrative: Unionization</unittitle>
+                    <container id="cid7986037" type="Box" label="Folder ">1</container>
+                    <container parent="cid7986037" type="Folder">5</container>
+                    <unitdate normal="1982/1985" type="inclusive">circa 1983-1984</unitdate>
+                    <physdesc id="ref70" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref71">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence, notes and memos related to the unionization of center employees, including a print-out of a 1978 article about National Labor Relations Board decisions.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref45" level="file">
+                <did>
+                    <unittitle>Correspondence: Members</unittitle>
+                    <container id="cid7986045" type="Box" label="Folder ">1</container>
+                    <container parent="cid7986045" type="Folder">6</container>
+                    <unitdate normal="1986/1993" type="inclusive">circa 1987-1992</unitdate>
+                    <physdesc id="ref46" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref47">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence from the center to its members, affiliated organizations, donors and active participants about events and roundtables hosted by the center. Also includes a letter from a member and the center's reply.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref36" level="file">
+                <did>
+                    <unittitle>Correspondence: Outside Organizations</unittitle>
+                    <container id="cid7986048" type="Box" label="Folder ">1</container>
+                    <container parent="cid7986048" type="Folder">7</container>
+                    <unitdate normal="1988/1993" type="inclusive">circa 1989-1992</unitdate>
+                    <physdesc id="ref37" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref38">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence from other organizations.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref75" level="file">
+                <did>
+                    <unittitle>Lesbian Central: Administrative</unittitle>
+                    <container id="cid7986035" type="Box" label="Folder ">1</container>
+                    <container parent="cid7986035" type="Folder">8</container>
+                    <unitdate normal="1982/1985" type="inclusive">circa 1983-1984</unitdate>
+                    <physdesc id="ref76" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref77">
+                    <head>Scope and Contents note</head>
+                    <p>Monthly reports, financial information, and summaries of services provided by Lesbian Central, a women's-only group at the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref84" level="file">
+                <did>
+                    <unittitle>Lesbian Central: Connexxus</unittitle>
+                    <container id="cid7986032" type="Box" label="Folder ">1</container>
+                    <container parent="cid7986032" type="Folders">9-10</container>
+                    <unitdate normal="1983/1986" type="inclusive">circa 1984-1985</unitdate>
+                    <physdesc id="ref85" label="General Physical Description note">printed paper, handwritten notes</physdesc>
+                </did>
+                <scopecontent id="ref86">
+                    <head>Scope and Contents note</head>
+                    <p>Connexxus was a lesbian social services center serving the Los Angeles lesbian community in the 1980s. During this time, they conducted surveys of organizations that offered mental health, recovery, or medical services to women, particularly lesbian women in Los Angeles. This file contains these surveys (presented to Lauren Jardine, director of Lesbian Central) as well as brochures that contain information about some of the organizations surveyed. Also included is a flyer for a fundraising event in support of Connexxus.</p>
+                    <p></p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref72" level="file">
+                <did>
+                    <unittitle>Lesbian Central: Fundraisers</unittitle>
+                    <container id="cid7986036" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986036" type="Folder">1</container>
+                    <unitdate normal="1982/1985" type="inclusive">circa 1983-1984</unitdate>
+                    <physdesc id="ref73" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref74">
+                    <head>Scope and Contents note</head>
+                    <p>Information about planning and execution of fundraisers, mostly for Lesbian Central. Includes memos, correspondence, invoices and event details.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref60" level="file">
+                <did>
+                    <unittitle>Lesbian Central: Lauren Jardine</unittitle>
+                    <container id="cid7986040" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986040" type="Folder">2</container>
+                    <unitdate normal="1981/1985" type="inclusive">circa 1982-1984</unitdate>
+                    <physdesc id="ref61" label="General Physical Description note">printed paper, handwritten notes, photocopies</physdesc>
+                </did>
+                <scopecontent id="ref62">
+                    <head>Scope and Contents note</head>
+                    <p>Press releases, memos, employee evaluations, flyers, news coverage, and some personal documents all related to Dr. Lauren Jardine's tenure as the Director of Lesbian Central at the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref63" level="file">
+                <did>
+                    <unittitle>Lesbian Central: Lesbian Rights Project</unittitle>
+                    <container id="cid7986039" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986039" type="Folder">3</container>
+                    <unitdate normal="1980/1984" type="inclusive">circa 1981-1983</unitdate>
+                    <physdesc id="ref64" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref65">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence between the organization Lesbian Rights Project and Lesbian Central at the Gay and Lesbian Community Services Center. Programming and presentation information. Also includes sample legal documents and pamphlets on lesbian motherhood.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref21" level="file">
+                <did>
+                    <unittitle>Lesbian Central: Programming</unittitle>
+                    <container id="cid7986053" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986053" type="Folder">4</container>
+                    <unitdate normal="1982/1990" type="inclusive">circa 1983-1989</unitdate>
+                    <physdesc id="ref22" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Contents note</head>
+                    <p>Flyers of events, details of programming, calendars, and other information concerning Lesbian Central.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref66" level="file">
+                <did>
+                    <unittitle>Lesbian Central: Silent Auction</unittitle>
+                    <container id="cid7986038" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986038" type="Folder">5</container>
+                    <unitdate normal="1982/1984" type="inclusive">circa 1983</unitdate>
+                    <physdesc id="ref67" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref68">
+                    <head>Scope and Contents note</head>
+                    <p>Receipts, invoices, donation and bidding information for a fundraiser silent auction.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref48" level="file">
+                <did>
+                    <unittitle>Programs: Health and clinics</unittitle>
+                    <container id="cid7986044" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986044" type="Folder">6</container>
+                    <unitdate normal="1990/1992" type="inclusive">circa 1991</unitdate>
+                    <physdesc id="ref49" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref50">
+                    <head>Scope and Contents note</head>
+                    <p>Flyers and programming information about health related programs and clinics associated or sponsored by the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref81" level="file">
+                <did>
+                    <unittitle>Programs: Human Services programs</unittitle>
+                    <container id="cid7986033" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986033" type="Folder">7</container>
+                    <unitdate normal="1982/1985" type="inclusive">circa 1983-1984</unitdate>
+                    <physdesc id="ref82" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref83">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence, meeting minutes and information regarding the five programs in the Human Services Division including grant administration details.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref42" level="file">
+                <did>
+                    <unittitle>Programs: Lesbian Roundtable</unittitle>
+                    <container id="cid7986046" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986046" type="Folder">8</container>
+                    <unitdate normal="1989/1992" type="inclusive">circa 1990-1991</unitdate>
+                    <physdesc id="ref43" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref44">
+                    <head>Scope and Contents note</head>
+                    <p>Flyers, programming information and meeting details for the women's only Lesbian Roundtable at the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref57" level="file">
+                <did>
+                    <unittitle>Programs: Society for Senior Gay and Lesbian Citizens (SSGLC)</unittitle>
+                    <container id="cid7986041" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986041" type="Folder">9</container>
+                    <unitdate normal="1979/1984" type="inclusive">circa 1980-1983</unitdate>
+                    <physdesc id="ref58" label="General Physical Description note">printed paper, flyers</physdesc>
+                </did>
+                <scopecontent id="ref59">
+                    <head>Scope and Contents note</head>
+                    <p>Memos, meeting minutes, correspondence, promotional materials and programming details for the senior services group at the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref39" level="file">
+                <did>
+                    <unittitle>Publicity: Calendars</unittitle>
+                    <container id="cid7986047" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986047" type="Folder">10</container>
+                    <unitdate normal="1988/1993" type="inclusive">circa 1989-1992</unitdate>
+                    <physdesc id="ref40" label="General Physical Description note">printed glossy paper</physdesc>
+                </did>
+                <scopecontent id="ref41">
+                    <head>Scope and Contents note</head>
+                    <p>Event and programming calendars for the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref54" level="file">
+                <did>
+                    <unittitle>Publicity: Invitations and mailers</unittitle>
+                    <container id="cid7986042" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986042" type="Folder">11</container>
+                    <unitdate normal="1980/1992" type="inclusive">circa 1981-1991</unitdate>
+                    <physdesc id="ref55" label="General Physical Description note">postcards, brochures, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref56">
+                    <head>Scope and Contents note</head>
+                    <p>Mailers for the center's fundraising efforts as well as mailers for events.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>Publicity: News coverage</unittitle>
+                    <container id="cid7986056" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986056" type="Folder">12</container>
+                    <unitdate normal="1975/1988" type="inclusive">1975-1988</unitdate>
+                    <physdesc id="ref13" label="General Physical Description note">newsprint, photocopies</physdesc>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>News coverage from various news outlets of various campaigns and programming with which the center was engaged.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Publicity: Newsletters</unittitle>
+                    <container id="cid7986052" type="Box" label="Folder ">2</container>
+                    <container parent="cid7986052" type="Folder">13</container>
+                    <unitdate normal="1972/1993" type="inclusive">circa 1973-1992</unitdate>
+                    <physdesc id="ref25" label="General Physical Description note">printed paper, photocopies</physdesc>
+                </did>
+                <scopecontent id="ref26">
+                    <head>Scope and Contents note</head>
+                    <p>News publications produced by the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle>Publicity: Press releases</unittitle>
+                    <container id="cid7986054" type="Box" label="Folder ">3</container>
+                    <container parent="cid7986054" type="Folder">1</container>
+                    <unitdate normal="1980/1992" type="inclusive">circa 1981-1991</unitdate>
+                    <physdesc id="ref19" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref20">
+                    <head>Scope and Contents note</head>
+                    <p>Press releases concerning campaigns, events and programming at or of concern to the center.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref33" level="file">
+                <did>
+                    <unittitle>Publicity: Program and event flyers</unittitle>
+                    <container id="cid7986049" type="Box" label="Folder ">3</container>
+                    <container parent="cid7986049" type="Folder">2</container>
+                    <unitdate normal="1979/1993" type="inclusive">circa 1980-1992</unitdate>
+                    <physdesc id="ref34" label="General Physical Description note">printed paper, photocopies</physdesc>
+                </did>
+                <scopecontent id="ref35">
+                    <head>Scope and Contents note</head>
+                    <p>Flyers for events and programming at the center and affiliated organizations</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref51" level="file">
+                <did>
+                    <unittitle>Publicity: Promotional materials</unittitle>
+                    <container id="cid7986043" type="Box" label="Folder ">3</container>
+                    <container parent="cid7986043" type="Folder">3</container>
+                    <unitdate normal="1974/1993" type="inclusive">circa 1975-1992</unitdate>
+                    <physdesc id="ref52" label="General Physical Description note">printed glossy paper, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref53">
+                    <head>Scope and Contents note</head>
+                    <p>Brochures and other materials describing programming and activities of the center in order to promote its programs.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref92" level="file">
+                <did>
+                    <unittitle>Assorted documents</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid10813002" type="Box" label="Mixed materials">3</container>
+                    <container parent="cid10813002" type="Folder">4</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <scopecontent id="ref93">
+                    <head>Scope and Content</head>
+                    <p>Contains items related to petitions against hate crimes, the president's roundtable, a questionnaire, and the Seventeenth Annual Stonewall Democratic Club Awards Celebration.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
