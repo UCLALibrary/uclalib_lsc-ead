@@ -1,128 +1,61 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-CLU-SC">cote2197.xml</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Finding Aid for the Renee Cote papers 1984-1987
-                    <num>LSC.2197</num>
-                </titleproper>
-                <titleproper type="filing">Cote (Renee) papers</titleproper>
-                <author>Finding aid prepared by Stacy Wood, 2014; Sabrina Ponce, 2017; machine-readable finding aid created by Caroline Cubé.</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>UCLA Library Special Collections</publisher>
-                <address>
-                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
-                    <addressline>Box 951575</addressline>
-                    <addressline>Los Angeles, CA, 90095-1575</addressline>
-                    <addressline>(310) 825-4988</addressline>
-                    <addressline>spec-coll@library.ucla.edu</addressline>
-                </address>
-                <date>Online finding aid last updated 20 November 2017.</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2017-11-20T10:23-0800</date>
-            </creation>
-            <langusage>Finding aid written in: 
-                <language>English.</language></langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Renee Cote papers</unittitle>
-            <unitid>LSC.2197</unitid>
-            <repository>
-                <corpname>UCLA Library Special Collections</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>0.2 linear feet</extent>
-                <extent>(1 half box)</extent>
-            </physdesc>
-            <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
-            <abstract id="ref2" label="Abstract">Renee Cote was a psychotherapist and lesbian activist. This collection includes the thesis for her master's degree as well as an additional publication.</abstract>
-            <langmaterial id="ref14" label="Language of Materials">Materials are in English and French.</langmaterial>
-            <physloc id="ref16" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
-            <origination label="Creator">
-                <persname rules="aacr" source="naf">Côté, Renée</persname>
-            </origination>
-        </did>
-        <accessrestrict id="ref17">
-            <head>Conditions Governing Access</head>
-            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
-        </accessrestrict>
-        <userestrict id="ref18">
-            <head>Conditions Governing Reproduction and Use</head>
-            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-        </userestrict>
-        <prefercite id="ref19">
-            <head>Preferred Citation</head>
-            <p>[Identification of item], Renee Cote papers (Collection 2197). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
-        </prefercite>
-        <acqinfo id="ref7">
-            <head>Acquisition Information</head>
-            <p>Provenance unknown.</p>
-            <p>This collection is part of an outreach and collection-building partnership between the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
-        </acqinfo>
-        <processinfo id="ref8">
-            <head>Processing History</head>
-            <p>Processed by Stacy Wood, 2014. Description enhanced and further physical processing completed by Sabrina Ponce in 2017.</p>
-        </processinfo>
-        <odd id="ref21">
-            <head>Sponsor</head>
-            <p>The 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
-        </odd>
-        <odd id="ref15">
-            <head>UCLA Catalog Record ID</head>
-            <p>UCLA Catalog Record ID: 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7377079">7377079</extref></p>
-        </odd>
-        <bioghist id="ref9">
-            <head>Biography</head>
-            <p>Renee Cote was a psychotherapist and lesbian activist.</p>
-        </bioghist>
-        <scopecontent id="ref10">
-            <head>Scope and Content</head>
-            <p>This collection includes Renee Cote's Master's Thesis, "From 49 to -9: The Beginnings of my Recovery as an ACMIP" submitted in March 1987 to Vermont College of Norwich University. Also included is a copy of "La Journee internationale des femmes" by Renee Cote, published in 1984.</p>
-        </scopecontent>
-        <arrangement id="ref20">
-            <head>Organization and Arrangement</head>
-            <p>Materials arranged in chronological order.</p>
-        </arrangement>
-        <controlaccess>
-            <persname rules="aacr" source="naf">Côté, Renée -- Archives.</persname>
-            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
-            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
-            <subject source="lcsh">Lesbian activists--United States--Archives.</subject>
-            <subject source="lcsh">Psychotherapists--United States--Archives. </subject>
-        </controlaccess>
-        <dsc>
-            <c01 id="ref11" level="file">
-                <did>
-                    <unittitle>Publications</unittitle>
-                    <container id="cid11475001" type="Box" label="Mixed materials">1</container>
-                    <container parent="cid11475001" type="Folder">1</container>
-                    <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
-                </did>
-                <scopecontent id="ref13">
-                    <head>Scope and Contents note</head>
-                    <p>A copy of 
-                        <title render="italic">La Journee internationale des femmes</title> and "The Beginnings of my Recovery as an ACMIP," both by Renee Cote.</p>
-                </scopecontent>
-            </c01>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c86t0ps7/">cote2197.xml</eadid><filedesc><titlestmt><titleproper type="filing">Cote (Renee) papers</titleproper><titleproper>Finding Aid for the Renee Cote papers <num>LSC.2197</num></titleproper><author>Finding aid prepared by Stacy Wood, 2014; Sabrina Ponce, 2017; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 20 November 2017.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-03-21 12:32:21 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Renee Cote papers</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Côté, Renée</persname>
+    </origination>
+    <unitid>LSC.2197</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 linear feet</extent>
+      <extent altrender="carrier">(1 half box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1984/1987" type="inclusive">1984-1987</unitdate>
+    <abstract id="aspace_aacc9757651b2eafacd83cb9d312bc4f" label="Abstract">Renee Cote was a psychotherapist and lesbian activist. This collection includes the thesis for her master's degree as well as an additional publication.</abstract>
+    <physloc id="aspace_5e19f76dd02462c0eb066938efbd8db6" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_91dd388d8baa09aed35d63d5badfb26c">Materials are in English and French.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_e8b63c601b3a25879171edec4b7098ca">
+    <head>Conditions Governing Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_35633b57d9257ebdda74d5833dc9207a">
+    <head>Conditions Governing Reproduction and Use</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_31b32f5a74b26b2fa2ad2ac549fa6143">
+    <head>Acquisition Information</head>
+<p>Provenance unknown.</p><p>This collection is part of an outreach and collection-building partnership between the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/">UCLA Library</extref>.</p>  </acqinfo>
+  <odd id="aspace_6a6734b53fb1b812be8c7e752c794d83">
+    <head>Sponsor</head>
+<p>The <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://digital.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the  <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>  </odd>
+  <odd id="aspace_b6596512408db8be3411068a3dcac0b0">
+    <head>UCLA Catalog Record ID</head> <p>
+      UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9973770793606533">9973770793606533</extref>
+    </p> </odd>
+  <prefercite id="aspace_974bdfc09cb65b9b166615a3146767fc">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Renee Cote papers (Collection 2197). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_fff4fe8af019f7c57b2c58ce25b51b64">
+    <head>Processing History</head>
+<p>Processed by Stacy Wood, 2014. Description enhanced and further physical processing completed by Sabrina Ponce in 2017.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_f30cab26f80f5c6eef5f513e2e9e7ca7">
+    <head>Biography</head>
+<p>Renee Cote was a psychotherapist and lesbian activist.</p>  </bioghist>
+  <scopecontent id="aspace_9d78db7132ae07d2ed602095ab2f9303">
+    <head>Scope and Content</head>
+<p>This collection includes Renee Cote's Master's Thesis, "From 49 to -9: The Beginnings of my Recovery as an ACMIP" submitted in March 1987 to Vermont College of Norwich University. Also included is a copy of "La Journee internationale des femmes" by Renee Cote, published in 1984.</p>  </scopecontent>
+  <arrangement id="aspace_adf303e37b72ff603dc424ea82a758b9">
+    <head>Organization and Arrangement </head>
+<p>Materials arranged in chronological order.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Psychotherapists -- United States -- Archives.</subject>
+    <subject source="lcsh">Lesbian activists -- United States -- Archives.</subject>
+    <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives</corpname>
+    <corpname source="local">June L. Mazer Lesbian Archive at UCLA</corpname>
+    <persname rules="aacr" source="naf">Côté, Renée -- Archives</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_6d9" level="file"><did><unittitle>Publications</unittitle><unitdate datechar="creation" normal="1984/1987" type="inclusive">1984-1987</unitdate><container id="aspace_ad13126ed3d31495b316dd3105fc84df" label="Mixed Materials" type="box">1</container><container id="aspace_9b84046bafcd82f4d3333a21b266a8ce" parent="aspace_ad13126ed3d31495b316dd3105fc84df" type="folder">1</container></did><scopecontent id="aspace_4a9ef0aa294225378319fab44feda036"><head>Scope and Contents note</head><p>A copy of <title render="italic">La Journee internationale des femmes</title> and "The Beginnings of my Recovery as an ACMIP," both by Renee Cote.</p></scopecontent></c01></dsc>
+</archdesc>
 </ead>
