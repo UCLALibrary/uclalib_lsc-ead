@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC">radi2193.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Corinna Radigan papers 
+                    <date calendar="gregorian" normal="1960/1989" era="ce">1960-1989</date>
+                    <num>LSC.2193</num>
+                </titleproper>
+                <titleproper type="filing">Radigan (Corinna) papers</titleproper>
+                <author>Finding aid prepared by Stacy Wood, 2013; Sabrina Ponce, 2017; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 03 January 2018.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-01-03T15:03-0800</date>
+            </creation>
+            <langusage>Finding aid written in: 
+                <language>English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Corinna Radigan papers</unittitle>
+            <unitid>LSC.2193</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.4 linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate normal="1960/1989" type="inclusive">1960-1989</unitdate>
+            <abstract id="ref2" label="Abstract">Corinna Radigan was a sports writer for several newspapers and magazines, including the 
+                <title render="italic">Bay Area Reporter</title>. This collection compiles her and several women's work, brought together by Radigan, including unpublished stories and manuscripts as well as materials related to The Coming Out project and various correspondence between authors.</abstract>
+            <langmaterial id="ref34" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref36" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="rda" source="local">Radigan, Corinna</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref37">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref38">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref39">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Corinna Radigan papers, (Collection 2193). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Provenance unknown.</p>
+            <p>This collection is part of an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+        </acqinfo>
+        <processinfo id="ref35">
+            <head>Processing Information</head>
+            <p>Processed by Stacy Wood, 2013. Description enhanced and further physical processing completed by Sabrina Ponce in 2017.</p>
+        </processinfo>
+        <odd id="ref45">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="https://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7384780">7384780</extref></p>
+        </odd>
+        <odd id="ref40">
+            <head>Sponsor</head>
+            <p>The 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+        </odd>
+        <bioghist id="ref8">
+            <head>Biography</head>
+            <p>Corinna Radigan was a sports writer working with various newspapers and magazines including the 
+                <title render="italic">Bay Area Reporter</title>.</p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content</head>
+            <p>This collection contains various unpublished manuscripts and writings from Kary Wind, Lee Lynch, Shirley Gore, Rochelle Dubois and Corinna Radigan as well as materials related to The Coming Out project and correspondence between authors such as Lyndall McCowan (who was also a member of the Daughters of Bilitis) and Barbara Grier.</p>
+        </scopecontent>
+        <arrangement id="ref41">
+            <head>Organization and Arrangement</head>
+            <p>Materials arranged by type.</p>
+        </arrangement>
+        <relatedmaterial id="ref44">
+            <head>Related Material</head>
+            <p>
+                <list type="simple">
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c8w096rb/">Barbara Grier Periodical collection (Collection 2130).</extref> Available at Library Special Collections, Charles E. Young Research Library, UCLA.</item>
+                    <item>
+                        <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c89c6z56/">Daughters of Bilitis records (Collection 1946).</extref> Available at Library Special Collections, Charles E. Young Research Library, UCLA.</item>
+                </list></p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
+            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
+            <occupation source="lcsh">Lesbian authors--United States--Archives.</occupation>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="file">
+                <did>
+                    <unittitle>Correspondence: Lyndall McCowan</unittitle>
+                    <container id="cid7974176" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974176" type="Folder">1</container>
+                    <unitdate normal="1970/1980" type="inclusive">1970-1980</unitdate>
+                </did>
+                <scopecontent id="ref12">
+                    <head>Scope and Content</head>
+                    <p>Includes correspondence between Lyndall MacCowan and Barbara Grier (co-founder of the Naiad Press), concerning young lesbian organization and a study guide for the audio cassette "On Being Gay" recorded by United Presbyterian Church, 1973. MacCowan was an active member of the San Francisco chapter of the Daughters of Bilitis.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref13" level="file">
+                <did>
+                    <unittitle>Rochelle Dubois</unittitle>
+                    <container id="cid7974175" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974175" type="Folder">2</container>
+                    <unitdate normal="1978/1978">1978</unitdate>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Content</head>
+                    <p>A copy of 
+                        <title render="italic">The Phoenix and the Lotus Myour Letters of C.H. to the artist Rochelle</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">Toothpick House</title> by Lee Lynch</unittitle>
+                    <container id="cid7974174" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974174" type="Folder">3</container>
+                    <unitdate normal="1983/1983">1983</unitdate>
+                </did>
+                <scopecontent id="ref18">
+                    <head>Scope and Content</head>
+                    <p>Contains a carbon copy of the first typed draft of 
+                        <title render="italic">Toothpick House</title> by Lee Lynch</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref19" level="file">
+                <did>
+                    <unittitle>Correspondence: Nancy Ruthchild Manahan</unittitle>
+                    <container id="cid7974173" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974173" type="Folder">4</container>
+                    <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+                </did>
+                <scopecontent id="ref21">
+                    <head>Scope and Content</head>
+                    <p>Correspondence to and from Nancy Ruthchild Manahan of the Epona Press about 
+                        <title render="italic">Caterpillars: Journal Entries by Eleven Women</title>, one of their titles.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>Kary Wind</unittitle>
+                    <container id="cid7974172" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974172" type="Folder">5</container>
+                    <unitdate normal="1983/1983">1983</unitdate>
+                </did>
+                <scopecontent id="ref24">
+                    <head>Scope and Content</head>
+                    <p>Includes biographical sheet and the manuscript for 
+                        <title render="italic">Screaming Alone</title>, about surviving incest.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>Shirley Gore</unittitle>
+                    <container id="cid7974171" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974171" type="Folder">6</container>
+                    <unitdate normal="1952/1960" type="inclusive">1952-1960</unitdate>
+                </did>
+                <scopecontent id="ref27">
+                    <head>Scope and Content</head>
+                    <p>Unpublished stories and other writings by Shirley Gore.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref28" level="file">
+                <did>
+                    <unittitle>Coming-out correspondence</unittitle>
+                    <container id="cid7974170" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974170" type="Folder">7</container>
+                    <unitdate normal="1978/1982" type="inclusive">1978-1982</unitdate>
+                </did>
+                <scopecontent id="ref30">
+                    <head>Scope and Contents note</head>
+                    <p>Contains a coming out story by Claudia Johnson as well as two coming out letters to parents, one by an anonymous author and the other by Juana Maria Paz. These letters were part of a call for "coming-out correspondence" by the West Coast Lesbian Collections (the former name of the June L. Mazer Lesbian Archives).</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref31" level="file">
+                <did>
+                    <unittitle>Corinna Radigan articles</unittitle>
+                    <container id="cid7974169" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974169" type="Folder">8</container>
+                    <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Content</head>
+                    <p>Articles in a number of publications by Corinna Radigan.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
