@@ -1,469 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-<eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8xw4n07">clew2190.xml</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Jane Clewe papers 
-<date calendar="gregorian" normal="1970/2009" era="ce">1970-2009</date>
-</titleproper>
-<titleproper type="filing">Clewe (Jane) papers</titleproper>
-<author>Finding aid prepared by Stacy Wood, 2013; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA, 90095-1575</addressline>
-<addressline>(310) 825-4988</addressline>
-<addressline>spec-coll@library.ucla.edu</addressline>
-</address>
-<date>©2014 The Regents of the University of California. All rights reserved.</date>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>This finding aid was produced using the Archivists' Toolkit
-<date>2014-04-08T14:34-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
-</creation>
-<langusage>Finding aid written in: 
-<language>English.</language></langusage>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
- <head>Descriptive Summary</head>
-<unittitle>Jane Clewe papers</unittitle>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2190</unitid>
-<repository>
-<corpname>UCLA Library Special Collections</corpname>
-</repository>
-<langmaterial>
-<language langcode="eng"/>
-</langmaterial>
-<physdesc>
-<extent>4.5 linear ft.</extent>
-<extent>(9 boxes)</extent>
-</physdesc>
-<unitdate normal="1970/2009" type="inclusive">1970-2009</unitdate>
-<abstract id="ref2" label="Abstract">Jane Clewe was a donor and member of many activist and community organizations devoted to lesbian and women's issues. This collection contains newsletters and organizational materials from many of these organizations as well as a large collection of magazines from the 1990's related to lesbian and women's issues.</abstract>
-<langmaterial id="ref101" label="Language of Materials">Materials are in English.</langmaterial>
-<physloc id="ref3" label="Physical location">COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-<origination label="Creator">
-<persname source="ingest">Clewe, Jane</persname>
-</origination>
-</did>
-<accessrestrict id="ref4">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict id="ref5">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<prefercite id="ref6">
-<head>Preferred Citation</head>
-<p>[Identification of item], Jane Clewe papers (Collection 2190). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
-</prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7377067">7377067</extref></p>
-</odd>
-<processinfo id="ref102">
-<head>Processing Information</head>
-<p>Processed by Stacy Wood, 2013.</p>
-<p>The 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
-</processinfo>
-<acqinfo id="ref7">
-<head>Acquisition Information</head>
-<p>Provenance unknown. This collection is part of an outreach and collection-building partnership between the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
-</acqinfo>
-<bioghist id="ref8">
-<head>Biography</head>
-<p>Jane Clewe was a graduate of Princeton University, Class of 1977. She lived with her partner Debbie in Los Angeles, California and enjoyed hiking, scuba and other outdoors activities. She was an active member of the Wilderness Women and a donor and member of many activist and community organizations devoted to lesbian and women's issues.</p>
-</bioghist>
-<scopecontent id="ref9">
-<head>Scope and Content</head>
-<p>This collection contains materials collected and maintained by Jane Clewe, including a substantial number of magazines from the 1990s focused on women's and lesbian issues. It also includes newsletters and communication from a number of activist and community organizations devoted to lesbian and gay issues in Los Angeles, California.</p>
-</scopecontent>
-<controlaccess>
-<persname source="ingest">Clewe, Jane -- Archival resources.</persname>
-<subject source="lcsh">Lesbian activists -- Archival resources.</subject>
-</controlaccess>
-<dsc type="in-depth">
-<head>Container List</head>
-<c01 id="ref10" level="file">
-<did>
-<unittitle>Martial arts materials.</unittitle>
-<container id="cid7974168" type="Box">1</container>
-<container parent="cid7974168" type="Folder">1</container>
-<unitdate>1981.</unitdate>
-<physdesc id="ref11">printed paper, glossy paper</physdesc>
-</did>
-<scopecontent id="ref12">
-<p>Programs and calendars for women in martial arts groups and events.</p>
-</scopecontent>
-</c01>
-<c01 id="ref13" level="file">
-<did>
-<unittitle>Connexxus materials.</unittitle>
-<container id="cid7974167" type="Box">1</container>
-<container parent="cid7974167" type="Folder">2</container>
-<unitdate>1986.</unitdate>
-<physdesc id="ref14">printed paper</physdesc>
-</did>
-<scopecontent id="ref15">
-<p>Flyers, mock-ups, schedules and organizational documents.</p>
-</scopecontent>
-</c01>
-<c01 id="ref16" level="file">
-<did>
-<unittitle>Frontiers magazine.</unittitle>
-<container id="cid7974166" type="Box">1</container>
-<container parent="cid7974166" type="Folder">3</container>
-<unitdate>1986-1988.</unitdate>
-<physdesc id="ref17">newsprint</physdesc>
-</did>
-<scopecontent id="ref18">
-<p>Coverage of Connexxus in Frontiers Magazine.</p>
-</scopecontent>
-</c01>
-<c01 id="ref19" level="file">
-<did>
-<unittitle>Cynara (film materials).</unittitle>
-<container id="cid7974165" type="Box">1</container>
-<container parent="cid7974165" type="Folder">4</container>
-<unitdate>1996.</unitdate>
-<physdesc id="ref20">glossy cardstock, envelope</physdesc>
-</did>
-<scopecontent id="ref21">
-<p>Promotional materials for the film Cynara.</p>
-</scopecontent>
-</c01>
-<c01 id="ref22" level="file">
-<did>
-<unittitle>Pride programs.</unittitle>
-<container id="cid7974164" type="Box">1</container>
-<container parent="cid7974164" type="Folder">5</container>
-<unitdate>1993-1995.</unitdate>
-<physdesc id="ref23">printed paper</physdesc>
-</did>
-<scopecontent id="ref24">
-<p>Programs from various gay pride events in Los Angeles and Orange County.</p>
-</scopecontent>
-</c01>
-<c01 id="ref25" level="file">
-<did>
-<unittitle>Newsletters.</unittitle>
-<container id="cid7974163" type="Box">1</container>
-<container parent="cid7974163" type="Folder">6</container>
-<unitdate>1996-2010.</unitdate>
-<physdesc id="ref26">printed paper</physdesc>
-</did>
-<scopecontent id="ref27">
-<p>Newsletters from various lesbian and feminist activist organizations and community centers.</p>
-</scopecontent>
-</c01>
-<c01 id="ref28" level="file">
-<did>
-<unittitle>Newsletters.</unittitle>
-<container id="cid7974162" type="Box">1</container>
-<container parent="cid7974162" type="Folder">7</container>
-<unitdate>1995.</unitdate>
-<physdesc id="ref29">printed paper</physdesc>
-</did>
-<scopecontent id="ref30">
-<p>Newsletters from various lesbian and feminist activist and community groups.</p>
-</scopecontent>
-</c01>
-<c01 id="ref31" level="file">
-<did>
-<unittitle>Newsclippings.</unittitle>
-<container id="cid7974161" type="Box">1</container>
-<container parent="cid7974161" type="Folder">8</container>
-<unitdate>1993-2005.</unitdate>
-<physdesc id="ref32">newsprint, photocopies</physdesc>
-</did>
-<scopecontent id="ref33">
-<p>Clippings from various news sources compiling stories focused on gay and lesbian stories and issues.</p>
-</scopecontent>
-</c01>
-<c01 id="ref34" level="file">
-<did>
-<unittitle>Newsletters.</unittitle>
-<container id="cid7974160" type="Box">2</container>
-<container parent="cid7974160" type="Folder">1</container>
-<unitdate>1992-1993.</unitdate>
-<physdesc id="ref35">printed paper, newsprint</physdesc>
-</did>
-<scopecontent id="ref36">
-<p>Newsletters from various community and activist organizations related to feminist and/or lesbian and gay issues.</p>
-</scopecontent>
-</c01>
-<c01 id="ref37" level="file">
-<did>
-<unittitle>Christopher Street Magazine.</unittitle>
-<container id="cid7974159" type="Box">2</container>
-<container parent="cid7974159" type="Folder">2</container>
-<unitdate>1994-1995.</unitdate>
-<physdesc id="ref38">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref39">
-<p>Issues 214, 218, 222 and 223 of Christopher Street Magazine.</p>
-</scopecontent>
-</c01>
-<c01 id="ref40" level="file">
-<did>
-<unittitle>The Lambda Update.</unittitle>
-<container id="cid7974158" type="Box">2</container>
-<container parent="cid7974158" type="Folder">3</container>
-<unitdate>1993-1995.</unitdate>
-<physdesc id="ref41">printed paper</physdesc>
-</did>
-<scopecontent id="ref42">
-<p>Newsletter of Lambda Legal Defense and Education Fund.</p>
-</scopecontent>
-</c01>
-<c01 id="ref43" level="file">
-<did>
-<unittitle>Newsletters.</unittitle>
-<container id="cid7974157" type="Box">2</container>
-<container parent="cid7974157" type="Folder">4</container>
-<unitdate>1994.</unitdate>
-<physdesc id="ref44">printed paper</physdesc>
-</did>
-<scopecontent id="ref45">
-<p>Newsletters from various community and activist organizations related to feminist and/or lesbian and gay issues.</p>
-</scopecontent>
-</c01>
-<c01 id="ref46" level="file">
-<did>
-<unittitle>Magazines (Miscellaneous).</unittitle>
-<container id="cid7974156" type="Box">3</container>
-<container parent="cid7974156" type="Folder">1</container>
-<unitdate>1994-2004.</unitdate>
-<physdesc id="ref47">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref48">
-<p>-B-Man No. 17, January 1990 -Teaching Tolerance, Spring 1995 and Spring 2005 -The Advocate, June 2004 -Night Life Issue 623, October 1994</p>
-</scopecontent>
-</c01>
-<c01 id="ref49" level="file">
-<did>
-<unittitle>Camping Women.</unittitle>
-<container id="cid7974155" type="Box">3</container>
-<container parent="cid7974155" type="Folder">2</container>
-<unitdate>1997.</unitdate>
-<physdesc id="ref50">printed paper</physdesc>
-</did>
-<scopecontent id="ref51">
-<p>Flyers, information and publications related to Camping Women.</p>
-</scopecontent>
-</c01>
-<c01 id="ref52" level="file">
-<did>
-<unittitle>Out Magazine.</unittitle>
-<container id="cid7974154" type="Box">3</container>
-<container parent="cid7974154" type="Folder">3</container>
-<unitdate>2001-2005.</unitdate>
-<physdesc id="ref53">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref54">
-<p>Issues contained: January 2001, February 2001, April 2001, August 2001, February 2003</p>
-</scopecontent>
-</c01>
-<c01 id="ref55" level="file">
-<did>
-<unittitle>Out Magazine.</unittitle>
-<container id="cid7974153" type="Box">3</container>
-<container parent="cid7974153" type="Folder">4</container>
-<unitdate>1995-2000.</unitdate>
-<physdesc id="ref56">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref57">
-<p>Issues contained: March 1995, February 2000, March 2000, May 2000, September 2000, November 2000, December 2000</p>
-</scopecontent>
-</c01>
-<c01 id="ref58" level="file">
-<did>
-<unittitle>Miscellaneous.</unittitle>
-<container id="cid7974152" type="Box">3</container>
-<container parent="cid7974152" type="Folder">5</container>
-<unitdate>No date.</unitdate>
-<physdesc id="ref59">printed paper</physdesc>
-</did>
-<scopecontent id="ref60">
-<p>Mailings, catalogs and various newsletters.</p>
-</scopecontent>
-</c01>
-<c01 id="ref61" level="file">
-<did>
-<unittitle>Magazines.</unittitle>
-<container id="cid7974151" type="Box">4</container>
-<unitdate>1998-2005.</unitdate>
-<physdesc id="ref62">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref63">
-<p>Contains issues of Curve Magazine 1998-2003 and issues of Ms. Magazine 1998-2005.</p>
-</scopecontent>
-</c01>
-<c01 id="ref64" level="file">
-<did>
-<unittitle>Girlfriends Magazine.</unittitle>
-<container id="cid7974150" type="Box">5</container>
-<unitdate>1999-2004.</unitdate>
-<physdesc id="ref65">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref66">
-<p>Issues of Girlfriends Magazine 1999-2004.</p>
-</scopecontent>
-</c01>
-<c01 id="ref67" level="file">
-<did>
-<unittitle>Magazines (Miscellaneous).</unittitle>
-<container id="cid7974149" type="Box">6</container>
-<container parent="cid7974149" type="Folder">1</container>
-<unitdate>1990-2005.</unitdate>
-<physdesc id="ref68">printed, bound magazines</physdesc>
-</did>
-</c01>
-<c01 id="ref69" level="file">
-<did>
-<unittitle>Flyers.</unittitle>
-<container id="cid7974148" type="Box">6</container>
-<container parent="cid7974148" type="Folder">2</container>
-<unitdate>No date.</unitdate>
-<physdesc id="ref70">printed paper</physdesc>
-</did>
-<scopecontent id="ref71">
-<p>Flyers for gay and lesbian social and activist gatherings around Southern California.</p>
-</scopecontent>
-</c01>
-<c01 id="ref72" level="file">
-<did>
-<unittitle>Princeton Alumni Weekly.</unittitle>
-<container id="cid7974147" type="Box">6</container>
-<container parent="cid7974147" type="Folder">3</container>
-<unitdate>1989-1992.</unitdate>
-<physdesc id="ref73">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref74">
-<p>Weekly updates and networking opportunities for Princeton Alumni.</p>
-</scopecontent>
-</c01>
-<c01 id="ref75" level="file">
-<did>
-<unittitle>Princeton Alumni Weekly.</unittitle>
-<container id="cid7974146" type="Box">6</container>
-<container parent="cid7974146" type="Folder">4</container>
-<unitdate>1993.</unitdate>
-<physdesc id="ref76">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref77">
-<p>Weekly updates and networking opportunities for Princeton Alumni.</p>
-</scopecontent>
-</c01>
-<c01 id="ref78" level="file">
-<did>
-<unittitle>Princeton Alumni Weekly.</unittitle>
-<container id="cid7974145" type="Box">6</container>
-<container parent="cid7974145" type="Folder">5</container>
-<unitdate>1994.</unitdate>
-<physdesc id="ref79">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref80">
-<p>Weekly updates and networking opportunities for Princeton Alumni.</p>
-</scopecontent>
-</c01>
-<c01 id="ref81" level="file">
-<did>
-<unittitle>Princeton Alumni Weekly.</unittitle>
-<container id="cid7974144" type="Box">6</container>
-<container parent="cid7974144" type="Folder">6</container>
-<unitdate>1995-1996.</unitdate>
-<physdesc id="ref82">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref83">
-<p>Weekly updates and networking opportunities for Princeton Alumni.</p>
-</scopecontent>
-</c01>
-<c01 id="ref84" level="file">
-<did>
-<unittitle>Princeton Alumni Weekly.</unittitle>
-<container id="cid7974143" type="Box">6</container>
-<container parent="cid7974143" type="Folder">7</container>
-<unitdate>2004-2006.</unitdate>
-<physdesc id="ref85">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref86">
-<p>Weekly updates and networking opportunities for Princeton Alumni.</p>
-</scopecontent>
-</c01>
-<c01 id="ref87" level="file">
-<did>
-<unittitle>Princeton Alumni Weekly.</unittitle>
-<container id="cid7974142" type="Box">6</container>
-<container parent="cid7974142" type="Folder">8</container>
-<unitdate>2007-2008.</unitdate>
-<physdesc id="ref88">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref89">
-<p>Weekly updates and networking opportunities for Princeton Alumni.</p>
-</scopecontent>
-</c01>
-<c01 id="ref90" level="file">
-<did>
-<unittitle>Princeton Alumni Weekly.</unittitle>
-<container id="cid7974141" type="Box">6</container>
-<container parent="cid7974141" type="Folder">9</container>
-<unitdate>2009-2010.</unitdate>
-<physdesc id="ref91">printed, bound magazines</physdesc>
-</did>
-<scopecontent id="ref92">
-<p>Weekly updates and networking opportunities for Princeton Alumni.</p>
-</scopecontent>
-</c01>
-<c01 id="ref93" level="file">
-<did>
-<unittitle>Princeton materials.</unittitle>
-<container id="cid7974140" type="Box">6</container>
-<container parent="cid7974140" type="Folder">11</container>
-<unitdate>1993-2006.</unitdate>
-<physdesc id="ref94">printed paper</physdesc>
-</did>
-<scopecontent id="ref95">
-<p>Various mailings and communication through the Princeton Alumni network.</p>
-</scopecontent>
-</c01>
-<c01 id="ref96" level="file">
-<did>
-<unittitle>Princeton Alumni Weekly (duplicates).</unittitle>
-<container id="cid7974139" type="Box">6</container>
-<container parent="cid7974139" type="Folder">12</container>
-<unitdate>1989-2010.</unitdate>
-<physdesc id="ref97">printed, bound magazines</physdesc>
-</did>
-</c01>
-<c01 id="ref98" level="file">
-<did>
-<unittitle>T-Shirts and Books.</unittitle>
-<container id="cid7974138" type="Box">7</container>
-<unitdate>1970-2009.</unitdate>
-<physdesc id="ref99">bound books, t-shirts</physdesc>
-</did>
-<scopecontent id="ref100">
-<p>Contains T-shirts from lesbian organizations throughout the 1970s and 1980s as well as small press books and poetry collections focused on lesbian lives and experiences. Full container list included in box.</p>
-</scopecontent>
-</c01>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c8xw4n07/">clew2190.xml</eadid><filedesc><titlestmt><titleproper type="filing">Clewe (Jane) papers</titleproper><titleproper>Finding aid for the Jane Clewe papers <num>LSC.2190</num></titleproper><author>Machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>©2014 The Regents of the University of California. All rights reserved.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-03-25 11:37:54 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Jane Clewe papers</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Clewe, Jane</persname>
+    </origination>
+    <unitid>LSC.2190</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.5 linear feet</extent>
+      <extent altrender="carrier">(9 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1970/2009" type="inclusive">1970-2009</unitdate>
+    <abstract id="aspace_e48125dba8864dc4e863eb9a7c876195" label="Abstract">Jane Clewe was a donor and member of many activist and community organizations devoted to lesbian and women's issues. This collection contains newsletters and organizational materials from many of these organizations as well as a large collection of magazines from the 1990's related to lesbian and women's issues.</abstract>
+    <physloc id="aspace_dac57ec5bb33244262f3023ecef74bd5" label="Physical location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_32c1f20cf66227aab9872ca172bb5618">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_8fbb47ee875501bf0bf959d04b0ad109">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_abd4c9db45d112198c5898ee851efd42">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_7d1dc6ef19952eb753bd694abe652acb">
+    <head>Acquisition Information</head>
+<p>Provenance unknown.</p><p>This collection is part of an outreach and collection-building partnership between the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/">UCLA Library</extref>.</p>  </acqinfo>
+  <odd id="aspace_53ab87168dc37f833141f0a8d7beb9be">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9973770673606533">9973770673606533</extref></p>  </odd>
+  <odd id="aspace_cd8e87543354379a6790509330220146">
+    <head>Sponsor</head>
+<p>The <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://digital.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the  <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>  </odd>
+  <prefercite id="aspace_fdf6475aaf24f0327321f8ec2adc6d0a">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Jane Clewe papers (Collection 2190). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_9e4ddb4a211e27be6f794dee0e5c618e">
+    <head>Processing Information</head>
+<p>Processed by Stacy Wood, 2013.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_d6e9d2af6d9455312519c7441ac7532d">
+    <head>Biography</head>
+<p>Jane Clewe was a graduate of Princeton University, Class of 1977. She lived with her partner Debbie in Los Angeles, California and enjoyed hiking, scuba and other outdoors activities. She was an active member of the Wilderness Women and a donor and member of many activist and community organizations devoted to lesbian and women's issues.</p>  </bioghist>
+  <scopecontent id="aspace_6f66a68025d3dd7f271a2472ba6ad192">
+    <head>Scope and Content</head>
+<p>This collection contains materials collected and maintained by Jane Clewe, including a substantial number of magazines from the 1990s focused on women's and lesbian issues. It also includes newsletters and communication from a number of activist and community organizations devoted to lesbian and gay issues in Los Angeles, California.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Lesbian activists -- Archives.</subject>
+    <persname source="local">Clewe, Jane--Archives.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref10_ei1" level="file"><did><unittitle>Martial arts materials</unittitle><unitdate datechar="creation">1981</unitdate><physdesc id="aspace_8158d52dec2697ce4cdb0fc37b810993" label="General Physical Description note">printed paper, glossy paper</physdesc><container id="aspace_ebf411628b108bd2ab009c1e26d54e2b" label="Mixed Materials" type="box">1</container><container id="aspace_5732f12e248f917f241c5858c6d8cfc1" parent="aspace_ebf411628b108bd2ab009c1e26d54e2b" type="folder">1</container></did><scopecontent id="aspace_4b7d583a484f66bbd819532f6d7e52f2"><head>Scope and Contents note</head><p>Programs and calendars for women in martial arts groups and events.</p></scopecontent></c01><c01 id="aspace_ref13_e7p" level="file"><did><unittitle>Connexxus materials</unittitle><unitdate datechar="creation">1986</unitdate><physdesc id="aspace_cafbbd0d42faf0c56495fe695c7a63f5" label="General Physical Description note">printed paper</physdesc><container id="aspace_5fa50e7c1b517f8b02e0801904ec2ccf" label="Mixed Materials" type="box">1</container><container id="aspace_baf9458ab628789301181f3de4e80d1f" parent="aspace_5fa50e7c1b517f8b02e0801904ec2ccf" type="folder">2</container></did><scopecontent id="aspace_4f8f8f8474f4a4f4376f7709039c4875"><head>Scope and Contents note</head><p>Flyers, mock-ups, schedules and organizational documents.</p></scopecontent></c01><c01 id="aspace_ref16_a0o" level="file"><did><unittitle>Frontiers magazine</unittitle><unitdate datechar="creation">1986-1988</unitdate><physdesc id="aspace_d02a46521edba995f6d74a20e441d003" label="General Physical Description note">newsprint</physdesc><container id="aspace_ccd52e8b9d3bb72c86e917ef7ebca952" label="Mixed Materials" type="box">1</container><container id="aspace_fcd60f3cba49bd137f536c6ab3c2efa4" parent="aspace_ccd52e8b9d3bb72c86e917ef7ebca952" type="folder">3</container></did><scopecontent id="aspace_0854c4fbe35f33f662ce13b9715be970"><head>Scope and Contents note</head><p>Coverage of Connexxus in Frontiers Magazine.</p></scopecontent></c01><c01 id="aspace_ref19_o1x" level="file"><did><unittitle>Cynara (film materials)</unittitle><unitdate datechar="creation">1996</unitdate><physdesc id="aspace_b6f967e15d4343930336b77503489301" label="General Physical Description note">glossy cardstock, envelope</physdesc><container id="aspace_20565fda7010c4c35fa0645d56c3e716" label="Mixed Materials" type="box">1</container><container id="aspace_6d2e23615c0007b62371d86f5e41b2a5" parent="aspace_20565fda7010c4c35fa0645d56c3e716" type="folder">4</container></did><scopecontent id="aspace_61edf5003c73ecf9845f5d60a18dc0e0"><head>Scope and Contents note</head><p>Promotional materials for the film Cynara.</p></scopecontent></c01><c01 id="aspace_ref22_djs" level="file"><did><unittitle>Pride programs</unittitle><unitdate datechar="creation">1993-1995</unitdate><physdesc id="aspace_c0fe9c9de9ffd115771e16ead290ee7f" label="General Physical Description note">printed paper</physdesc><container id="aspace_e6ef664d10da9ff9e18f9e503a8c755b" label="Mixed Materials" type="box">1</container><container id="aspace_b2e192e4c8c921efb7e22331b9a4b851" parent="aspace_e6ef664d10da9ff9e18f9e503a8c755b" type="folder">5</container></did><scopecontent id="aspace_43df39e1a773a61c17e786a7f264350e"><head>Scope and Contents note</head><p>Programs from various gay pride events in Los Angeles and Orange County.</p></scopecontent></c01><c01 id="aspace_ref25_hjk" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1996-2010</unitdate><physdesc id="aspace_bf11c796dd6af3a122dcaf64c3c15ac3" label="General Physical Description note">printed paper</physdesc><container id="aspace_6b325582c1c1f12783dc2c320e6abbae" label="Mixed Materials" type="box">1</container><container id="aspace_c94de434bba0d0757743265ba0335e10" parent="aspace_6b325582c1c1f12783dc2c320e6abbae" type="folder">6</container></did><scopecontent id="aspace_dc96e34d070379e8c45d454fcfd36cb9"><head>Scope and Contents note</head><p>Newsletters from various lesbian and feminist activist organizations and community centers.</p></scopecontent></c01><c01 id="aspace_ref28_nh7" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1995</unitdate><physdesc id="aspace_5499630b99b2056175dfa4a9c08d5be1" label="General Physical Description note">printed paper</physdesc><container id="aspace_6a0073b87b0c90c7e19992ee085e0bd6" label="Mixed Materials" type="box">1</container><container id="aspace_4a302141f36ae6f6b28f06cffd3864d5" parent="aspace_6a0073b87b0c90c7e19992ee085e0bd6" type="folder">7</container></did><scopecontent id="aspace_461426183133dd5a1b42816be24c0ad4"><head>Scope and Contents note</head><p>Newsletters from various lesbian and feminist activist and community groups.</p></scopecontent></c01><c01 id="aspace_ref31_z8t" level="file"><did><unittitle>Newsclippings</unittitle><unitdate datechar="creation">1993-2005</unitdate><physdesc id="aspace_fd6ed0a6965c8c1c95361b55a2ad5099" label="General Physical Description note">newsprint, photocopies</physdesc><container id="aspace_e1c04217788b070c40b3c4ec63923623" label="Mixed Materials" type="box">1</container><container id="aspace_abe1c98e9659ed6f5ec0a50f3b0958a2" parent="aspace_e1c04217788b070c40b3c4ec63923623" type="folder">8</container></did><scopecontent id="aspace_5620f7c655067ebd1f116d7b0034c56f"><head>Scope and Contents note</head><p>Clippings from various news sources compiling stories focused on gay and lesbian stories and issues.</p></scopecontent></c01><c01 id="aspace_ref34_i47" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1992-1993</unitdate><physdesc id="aspace_68433df4133b219a20c4ad0ca8660c9b" label="General Physical Description note">printed paper, newsprint</physdesc><container id="aspace_0f947e5c41aaf50f4fca0eac448875c5" label="Mixed Materials" type="box">2</container><container id="aspace_0525ea73118de9405b223aa9b4d2d06b" parent="aspace_0f947e5c41aaf50f4fca0eac448875c5" type="folder">1</container></did><scopecontent id="aspace_794568d12ae9565a334486f58cf95fdd"><head>Scope and Contents note</head><p>Newsletters from various community and activist organizations related to feminist and/or lesbian and gay issues.</p></scopecontent></c01><c01 id="aspace_ref37_hbn" level="file"><did><unittitle>Christopher Street Magazine</unittitle><unitdate datechar="creation">1994-1995</unitdate><physdesc id="aspace_1bc0dd44ae3cde6e76cefe62c664e413" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_3dd85aa4bd141f84ecaa4dcda2ac587a" label="Mixed Materials" type="box">2</container><container id="aspace_13f6940eb150ca08ad02cccca2abce5c" parent="aspace_3dd85aa4bd141f84ecaa4dcda2ac587a" type="folder">2</container></did><scopecontent id="aspace_18c532a608eec735fd1b2f4772c919da"><head>Scope and Contents note</head><p>Issues 214, 218, 222 and 223 of Christopher Street Magazine.</p></scopecontent></c01><c01 id="aspace_ref40_2n9" level="file"><did><unittitle>The Lambda Update</unittitle><unitdate datechar="creation">1993-1995</unitdate><physdesc id="aspace_9d7378d77b64fafd697c3c37daa8ad8b" label="General Physical Description note">printed paper</physdesc><container id="aspace_01f6678a47cb733c48fa61764195c0ea" label="Mixed Materials" type="box">2</container><container id="aspace_bc1212a894615aa21ae49c6135523dde" parent="aspace_01f6678a47cb733c48fa61764195c0ea" type="folder">3</container></did><scopecontent id="aspace_9ababe5b7b59fedb6e8ffec30c0b81b1"><head>Scope and Contents note</head><p>Newsletter of Lambda Legal Defense and Education Fund.</p></scopecontent></c01><c01 id="aspace_ref43_tef" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1994</unitdate><physdesc id="aspace_3105cda9d619d2854a48723837ab44dc" label="General Physical Description note">printed paper</physdesc><container id="aspace_4df24a08bafdc5ef2b9f5e58e73a790f" label="Mixed Materials" type="box">2</container><container id="aspace_21a6d5c55c0f6a5b0b5507472bb34ef1" parent="aspace_4df24a08bafdc5ef2b9f5e58e73a790f" type="folder">4</container></did><scopecontent id="aspace_ce126aca443ba5ac6d7393af3af22fca"><head>Scope and Contents note</head><p>Newsletters from various community and activist organizations related to feminist and/or lesbian and gay issues.</p></scopecontent></c01><c01 id="aspace_ref46_dmw" level="file"><did><unittitle>Magazines (Miscellaneous)</unittitle><unitdate datechar="creation">1994-2004</unitdate><physdesc id="aspace_496ade1929fbc80cd8af598070c27010" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_db83c04d65860bab38a8f44cd4dc35ef" label="Mixed Materials" type="box">3</container><container id="aspace_6dedb593613f28d157acc672f1dd104b" parent="aspace_db83c04d65860bab38a8f44cd4dc35ef" type="folder">1</container></did><scopecontent id="aspace_02474dee1f74f79b02f335a874a7fd53"><head>Scope and Contents note</head><p>-B-Man No. 17, January 1990 -Teaching Tolerance, Spring 1995 and Spring 2005 -The Advocate, June 2004 -Night Life Issue 623, October 1994</p></scopecontent></c01><c01 id="aspace_ref49_r0r" level="file"><did><unittitle>Camping Women</unittitle><unitdate datechar="creation">1997</unitdate><physdesc id="aspace_8acbe97a81a4448ebdcfc5bf57946887" label="General Physical Description note">printed paper</physdesc><container id="aspace_ad81a5058a959a5b8560433ae2d3fedf" label="Mixed Materials" type="box">3</container><container id="aspace_816ab39c5901be932c92af07314ad771" parent="aspace_ad81a5058a959a5b8560433ae2d3fedf" type="folder">2</container></did><scopecontent id="aspace_7f01b9526e354cae3f7ae7b5acec630c"><head>Scope and Contents note</head><p>Flyers, information and publications related to Camping Women.</p></scopecontent></c01><c01 id="aspace_ref52_eel" level="file"><did><unittitle>Out Magazine</unittitle><unitdate datechar="creation">2001-2005</unitdate><physdesc id="aspace_a75a2d669bb1a2bb10d2da37b47d39fe" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_6473d414058c6376021941107334761e" label="Mixed Materials" type="box">3</container><container id="aspace_c65b7919d0caffbf02c758cb94df9088" parent="aspace_6473d414058c6376021941107334761e" type="folder">3</container></did><scopecontent id="aspace_74356d44585b6319872895c370a96d9e"><head>Scope and Contents note</head><p>Issues contained: January 2001, February 2001, April 2001, August 2001, February 2003</p></scopecontent></c01><c01 id="aspace_ref55_cv1" level="file"><did><unittitle>Out Magazine</unittitle><unitdate datechar="creation">1995-2000</unitdate><physdesc id="aspace_ad3b4ee0c8520884a5140e69d5ff46f2" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_8307deb596031b278fb51e9f0ae34987" label="Mixed Materials" type="box">3</container><container id="aspace_df8c9d8a9e5f5a43c528cdb18f7c58ae" parent="aspace_8307deb596031b278fb51e9f0ae34987" type="folder">4</container></did><scopecontent id="aspace_a0730589bc554b2e000f0076567f19fb"><head>Scope and Contents note</head><p>Issues contained: March 1995, February 2000, March 2000, May 2000, September 2000, November 2000, December 2000</p></scopecontent></c01><c01 id="aspace_ref58_d46" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate datechar="creation">No date</unitdate><physdesc id="aspace_32f1ec3c415a5cb1922957d7b4408d75" label="General Physical Description note">printed paper</physdesc><container id="aspace_c3d613d290e0218289d7f71ae61c9576" label="Mixed Materials" type="box">3</container><container id="aspace_d2723e652cbaba2ac95e805328cbaeda" parent="aspace_c3d613d290e0218289d7f71ae61c9576" type="folder">5</container></did><scopecontent id="aspace_3fc0428023c7227afdfe805df3b813b6"><head>Scope and Contents note</head><p>Mailings, catalogs and various newsletters.</p></scopecontent></c01><c01 id="aspace_ref61_6lc" level="file"><did><unittitle>Magazines</unittitle><unitdate datechar="creation">1998-2005</unitdate><physdesc id="aspace_e909772ff1aae5544719f6d8d0036b6d" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_9b01eeaa26d135796ecc132dbdc75f31" label="Mixed Materials" type="box">4</container></did><scopecontent id="aspace_f321070127fe15f495147c7b3a041acc"><head>Scope and Contents note</head><p>Contains issues of Curve Magazine 1998-2003 and issues of Ms. Magazine 1998-2005.</p></scopecontent></c01><c01 id="aspace_ref64_0td" level="file"><did><unittitle>Girlfriends Magazine</unittitle><unitdate datechar="creation">1999-2004</unitdate><physdesc id="aspace_f418331df8a49ef2b896104a65058667" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_a193d66b7d9e9831d16a02660242832e" label="Mixed Materials" type="box">5</container></did><scopecontent id="aspace_2e49cdda21a9cac4767ccf1701a7b146"><head>Scope and Contents note</head><p>Issues of Girlfriends Magazine 1999-2004.</p></scopecontent></c01><c01 id="aspace_ref67_pw8" level="file"><did><unittitle>Magazines (Miscellaneous)</unittitle><unitdate datechar="creation">1990-2005</unitdate><physdesc id="aspace_81beda41921741f1032241fd562478db" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_2021e17ab8a3ba56bb7b08c8b2b93e90" label="Mixed Materials" type="box">6</container><container id="aspace_a574a5f49b475a53ba92f8eb01427604" parent="aspace_2021e17ab8a3ba56bb7b08c8b2b93e90" type="folder">1</container></did></c01><c01 id="aspace_ref69_8tv" level="file"><did><unittitle>Flyers</unittitle><unitdate datechar="creation">No date</unitdate><physdesc id="aspace_e67cdda80ae18fe0edf8f831876df937" label="General Physical Description note">printed paper</physdesc><container id="aspace_1b1f43b5b22731f15c0fd8e3530a127c" label="Mixed Materials" type="box">6</container><container id="aspace_18a4719194f7df6ee6d51df073403fc6" parent="aspace_1b1f43b5b22731f15c0fd8e3530a127c" type="folder">2</container></did><scopecontent id="aspace_5cfe469e2a211daa6a05f71dd0ead9df"><head>Scope and Contents note</head><p>Flyers for gay and lesbian social and activist gatherings around Southern California.</p></scopecontent></c01><c01 id="aspace_ref72_93q" level="file"><did><unittitle>Princeton Alumni Weekly</unittitle><unitdate datechar="creation">1989-1992</unitdate><physdesc id="aspace_9b4d7993868e5943abb62f6390660a5e" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_5d40c1333bba4098a7b5db7e05a44f42" label="Mixed Materials" type="box">6</container><container id="aspace_16263bea44abb7a37e39139caacc12a1" parent="aspace_5d40c1333bba4098a7b5db7e05a44f42" type="folder">3</container></did><scopecontent id="aspace_1ff05ad1a966401c0df35ed7db8b1294"><head>Scope and Contents note</head><p>Weekly updates and networking opportunities for Princeton Alumni.</p></scopecontent></c01><c01 id="aspace_ref75_1gj" level="file"><did><unittitle>Princeton Alumni Weekly</unittitle><unitdate datechar="creation">1993</unitdate><physdesc id="aspace_b26008371052f85ce90ad7b65e71f5fb" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_6d662b14d9530634e8a0eac3bb6c6f47" label="Mixed Materials" type="box">6</container><container id="aspace_5cbb38a9e48e31e6960bb347fd1af7aa" parent="aspace_6d662b14d9530634e8a0eac3bb6c6f47" type="folder">4</container></did><scopecontent id="aspace_e440120780f785258c0daef5415dcc73"><head>Scope and Contents note</head><p>Weekly updates and networking opportunities for Princeton Alumni.</p></scopecontent></c01><c01 id="aspace_ref78_rik" level="file"><did><unittitle>Princeton Alumni Weekly</unittitle><unitdate datechar="creation">1994</unitdate><physdesc id="aspace_67681d6d8575096e74a4a25c4a857dd9" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_0f5ef275b65b14c8ed87938f8c8f6f74" label="Mixed Materials" type="box">6</container><container id="aspace_7e542a368f0a23712d9344d6faee1580" parent="aspace_0f5ef275b65b14c8ed87938f8c8f6f74" type="folder">5</container></did><scopecontent id="aspace_bf1f3cfdd7fd11e2237eab39f046329f"><head>Scope and Contents note</head><p>Weekly updates and networking opportunities for Princeton Alumni.</p></scopecontent></c01><c01 id="aspace_ref81_sk4" level="file"><did><unittitle>Princeton Alumni Weekly</unittitle><unitdate datechar="creation">1995-1996</unitdate><physdesc id="aspace_f1ad1e344495b6555c3e95be2ec4be8d" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_bc7e98dc9bf2abc60d9fd668a86816cf" label="Mixed Materials" type="box">6</container><container id="aspace_276a5bd2d8759dfac05e06f4821b04d0" parent="aspace_bc7e98dc9bf2abc60d9fd668a86816cf" type="folder">6</container></did><scopecontent id="aspace_48923aedd1349a3dbb80616444c0c629"><head>Scope and Contents note</head><p>Weekly updates and networking opportunities for Princeton Alumni.</p></scopecontent></c01><c01 id="aspace_ref84_kb9" level="file"><did><unittitle>Princeton Alumni Weekly</unittitle><unitdate datechar="creation">2004-2006</unitdate><physdesc id="aspace_d164854916d9b6fd383e128debf45157" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_59bf058ecaaca73ea905390e21609251" label="Mixed Materials" type="box">6</container><container id="aspace_a4482db8c7e07b6e3f2f118f61e14f1c" parent="aspace_59bf058ecaaca73ea905390e21609251" type="folder">7</container></did><scopecontent id="aspace_56604fad625f9d79876cd1473666ce1f"><head>Scope and Contents note</head><p>Weekly updates and networking opportunities for Princeton Alumni.</p></scopecontent></c01><c01 id="aspace_ref87_ivx" level="file"><did><unittitle>Princeton Alumni Weekly</unittitle><unitdate datechar="creation">2007-2008</unitdate><physdesc id="aspace_0c0c6988a491d82ef577d8eb989faee1" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_fdef7bc9081a3b4a7d929b77dc174019" label="Mixed Materials" type="box">6</container><container id="aspace_911eeb0ca0bd159d9f1c57525c615e80" parent="aspace_fdef7bc9081a3b4a7d929b77dc174019" type="folder">8</container></did><scopecontent id="aspace_00cafbe16f34839906cf19c41bec6624"><head>Scope and Contents note</head><p>Weekly updates and networking opportunities for Princeton Alumni.</p></scopecontent></c01><c01 id="aspace_ref90_iur" level="file"><did><unittitle>Princeton Alumni Weekly</unittitle><unitdate datechar="creation">2009-2010</unitdate><physdesc id="aspace_103dfb808e8d1e8b6a04351cdd30d530" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_51dcc7e41b29055fa777b72b3be684f5" label="Mixed Materials" type="box">6</container><container id="aspace_03829f1013a9b2dccc8f012f4c9c407d" parent="aspace_51dcc7e41b29055fa777b72b3be684f5" type="folder">9</container></did><scopecontent id="aspace_de0027909af9638179931337ffbd3156"><head>Scope and Contents note</head><p>Weekly updates and networking opportunities for Princeton Alumni.</p></scopecontent></c01><c01 id="aspace_ref93_ca1" level="file"><did><unittitle>Princeton materials</unittitle><unitdate datechar="creation">1993-2006</unitdate><physdesc id="aspace_531e11c5c217dfd0e73abfe47e574e1f" label="General Physical Description note">printed paper</physdesc><container id="aspace_8cfd1af21aa5362b68a73b2cf55ff44a" label="Mixed Materials" type="box">6</container><container id="aspace_5d6e5aedc0c8f991021826790230d9fc" parent="aspace_8cfd1af21aa5362b68a73b2cf55ff44a" type="folder">11</container></did><scopecontent id="aspace_0e4fdef43e1cd57eebfe83a62f67548b"><head>Scope and Contents note</head><p>Various mailings and communication through the Princeton Alumni network.</p></scopecontent></c01><c01 id="aspace_ref96_cbi" level="file"><did><unittitle>Princeton Alumni Weekly (duplicates)</unittitle><unitdate datechar="creation">1989-2010</unitdate><physdesc id="aspace_3106d8972e0323a99976821d5c4300c2" label="General Physical Description note">printed, bound magazines</physdesc><container id="aspace_d6cdd044b28f7fb6251c84e2ac08d3ff" label="Mixed Materials" type="box">6</container><container id="aspace_1051e7be4974080336c98b202db6c17b" parent="aspace_d6cdd044b28f7fb6251c84e2ac08d3ff" type="folder">12</container></did></c01><c01 id="aspace_ref98_r1r" level="file"><did><unittitle>T-Shirts and Books</unittitle><unitdate datechar="creation">1970-2009</unitdate><physdesc id="aspace_8bc59dbafe673dbb3f6fa6b3c5cb508b" label="General Physical Description note">bound books, t-shirts</physdesc><container id="aspace_70394e13d1bc090f321fa081275f4def" label="Mixed Materials" type="box">7</container></did><scopecontent id="aspace_ac57929b61faf849a1805488d449858b"><head>Scope and Contents note</head><p>Contains T-shirts from lesbian organizations throughout the 1970s and 1980s as well as small press books and poetry collections focused on lesbian lives and experiences. Full container list included in box.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
