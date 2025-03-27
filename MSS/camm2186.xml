@@ -1,0 +1,2936 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8sb47qx/">camm2186.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Margarethe Cammermeyer papers, 1963-2012
+</titleproper>
+<titleproper type="filing">Cammermeyer (Margarethe) papers</titleproper>
+<author>Finding aid prepared by Marika Cifor; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©2014 The Regents of the University of California. All rights reserved.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2015-12-11T11:39-0800</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Margarethe Cammermeyer papers</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2186</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>26.0 linear ft.</extent>
+<extent>(59 document boxes, 2 record cartons, and 1 flat box) </extent>
+</physdesc>
+<unitdate normal="1991/2000" type="bulk">Bulk, 1991-2000</unitdate>
+<unitdate normal="1963/2012" type="inclusive">1963-2012</unitdate>
+<abstract id="ref366" label="Abstract">Margarethe (Grethe) Cammermeyer was born in 1942 in Oslo, Norway. Her career as nurse in the military included distinguished service in Vietnam, work for the Veteran’s Administration, and a position as Chief Nurse of the Washington National Guard. As a result of her statement in an interview for top security clearance that she was a lesbian, she was separated from the military in 1992. She successfully challenged her discharge and the military’s regulations that mandated that lesbians and gay men be separated from the service. This experience, documented in her memoir, 
+<emph render="italic">Serving in Silence</emph>, inspired her to become involved in LGBT activism and politics. The Margarethe Cammermeyer papers contain her personal, professional, and activist materials including correspondence, legal documents, photographs, videotapes, ephemera and other materials. The majority of the material relates to her successful challenge in the courts of both her discharge and the military’s regulations that mandated that lesbians and gay men be separated from the service between 1992 and 1997.</abstract>
+<langmaterial id="ref367" label="Language of Materials">Materials are primarily in English, some materials in Norwegian.</langmaterial>
+<physloc id="ref368" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+<origination label="Creator">
+<persname rules="aacr" source="naf">Cammermeyer, Margarethe, 1942-</persname>
+</origination>
+</did>
+<accessrestrict id="ref371">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict id="ref369">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<phystech id="ref379">
+<head>Physical Characteristics and Technical Requirements</head>
+<p>Audiovisual materials must be digitized prior to use.</p>
+<p>Special equipment or further processing may be required for viewing. To access digital materials you must notify the reference desk in advance of your visit.</p>
+</phystech>
+<prefercite id="ref372">
+<head>Preferred Citation</head>
+<p>[Identification of item], Margarethe Cammermeyer Papers (Collection 2186). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+</prefercite>
+<odd id="ref387">
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7347666">7347666</extref></p>
+</odd>
+<acqinfo id="ref373">
+<head>Provenance/Source of Acquisition</head>
+<p>Margarethe Cammermeyer, 2013. This collection is part of an outreach and collection-building partnership between the June L. Mazer Lesbian Archives, the UCLA Center for the Study of Women (CSW) and the UCLA Library.</p>
+</acqinfo>
+<processinfo id="ref374">
+<head>Processing Information</head>
+<p>Processed by Marika Cifor in 2013 in the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/special-collections/at-this-location/center-primary-research-training-cfprt">Center for Primary Research and Training (CFPRT)</extref> with assistance from Jillian Cuellar.</p>
+<p>The processing of this collection was generously supported by 
+<emph render="bold">
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.arcadiafund.org.uk/">Arcadia.</extref></emph></p>
+<p>The 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+</processinfo>
+<bioghist id="ref376">
+<head>Biography/History</head>
+<p>Margarethe Cammermeyer was born on March 24, 1942 in Oslo, Norway. Her family immigrated to the United States in 1951, settling near Washington, D.C. She became an American citizen in 1960. From 1959 to 1963 she attended the University of Maryland, College Park, earning a Bachelors of Science in Nursing. In 1961, while at the University of Maryland, she joined the Army Student Nurse Program. Upon graduation in 1963, she reported for active duty, serving in United States Army Nursing Corps at Fort Sam Houston, Texas, Martin Army Hospital at Ft. Benning, Georgia, and a 2-year tour in Nuremberg, Germany. In Germany she married fellow soldier, Harvey Hawken, in 1965. At her request in 1967, she was sent to the 24th Evacuation Hospital at Long Binh, Vietnam where she served for 14 months as head nurse of a medical unit and of the neurosurgical intensive care unit. She was awarded a Bronze Star. She was forced to leave the military in 1968 when she became pregnant with the first of her four sons, as women were not permitted to have dependents.</p>
+<p>After returning from Vietnam, she settled in Seattle, Washington with her family. She continued her work as a nurse and in 1971 began working at the Veterans’ Administration Hospital. She continued working in VA Medical Centers, including those in Seattle, San Francisco, and American Lake, until her retirement in 1996. She was honored as the Veterans’ Administration Nurse of the Year in 1985. She supplemented her appointment at the VA with part-time work as a lecturer and consultant. She also continued her studies, graduating from the University of Washington with Masters of Arts in Nursing in 1976 and a Ph.D. in Nursing Science in 1991. She divorced in 1980.</p>
+<p>The military played an important role in her life. In 1972 when the regulation prohibiting women from serving with dependents she joined the Army Reserves, achieving the rank of Colonel in 1987. In 1988, she accepted the position of Chief Nurse of the Washington State National Guard. That same year she began a relationship with Diane Divelbess. In 1989, during an interview for top-secret clearance she told the interviewer, "I am a lesbian." As a result, she was separated from the military on June 1, 1992. On the same day, Lambda Legal and the Northwest Women’s Law Center filed suit on her behalf in Federal District Court in Seattle, challenging Cammermeyer’s discharge and the military’s regulations that mandated that lesbians and gay men be separated from the service. In June 1994, U.S. District Court Judge Thomas Zilly held that the ban on gays in the military violated the equal protection and due process guarantees of the U.S. Constitution and ordered the Army to reinstate Cammermeyer. She was reinstated in the Washington National Guard and resumed her position as Chief Nurse. The government did not appeal Cammermeyer’s right to be reinstated, but in its appeal asked the Ninth Circuit Court of Appeals to strike the judge’s ruling from the books. The ruling took issue with the older ban as well as new the “Don’t Ask, Don’t Tell” policy which was enacted in 1993. In October 1996, the Court of Appeals dismissed the government’s appeal as moot and denied the government’s request to vacate the district court’s ruling, sending the case back to the district court. In 1997 the district court denied the government’s motion to vacate, maintaining the value of the victory as precedent. In March 1997, Cammermeyer retired with full military privileges. She returned to health care work in 2006, opening an Adult Family Home to provide skilled care to the elderly. Since 2008, she has served as the Hospital Commissioner for Whidbey General Hospital.</p>
+<p>Cammermeyer’s experiences with the military’s antigay policies inspired her to become involved in LGBT activism and politics. In 1994, she published a memoir, 
+<emph render="italic">Serving in Silence</emph>; it was adapted into an Emmy winning television movie in 1995. Her first involvement in politics was in 1998 when she ran as a Democratic candidate for the United States Congress in Washington. Though she did not win the congressional seat, she continues to be involved in local politics, serving as the Chairperson of her local Democratic party. Between 1999 and 2001 she hosted the 
+<emph render="italic">Grethe Cammermeyer Show</emph>, a daily internet talk show, on GAYBC Radio Network. She serves on the Military Advisory Council for the Servicemembers Legal Defense Network and the Defense Advisory Council of Women in the Services. Cammermeyer and her wife, artist Diane Dievelbess, have been involved in activism around a number of LGBT causes, including marriage equality. In 2012, after same-sex marriage was legalized in Washington, Cammermeyer and Divelbess became the first same-sex couple to get a marriage license in Island County.</p>
+</bioghist>
+<scopecontent id="ref377">
+<head>Scope and Content</head>
+<p>The Margarethe Cammermeyer papers contain her personal, professional, and activist materials including correspondence, legal documents, photographs, videotapes, ephemera, and other materials. The majority of the material is in the first series and relates to her successful challenge in the courts of both her discharge and the military’s regulations that mandated that lesbians and gay men be separated from the service between 1992 and 1997. A significant amount of materials in the second series documents her activism on LGBT issues, particularly in fighting discrimination against LGBT people in the military. This series contains copies of her memoir 
+<emph render="italic">Serving in Silence</emph> and its film adaptation, correspondence, congressional campaign materials, photographs, writings, newspaper clippings, videotapes, audio cassettes, awards, and other materials relating to her professional life. The third series contains materials documenting her nursing career and personal life including a copy of dissertation, a yearbook, and wedding album.</p>
+</scopecontent>
+<arrangement id="ref378">
+<head>Organization and Arrangement</head>
+<p>This collection has been arranged in the following series:</p>
+<p>
+<list type="simple">
+<item>Series 1: Legal Papers, 1978-2008</item>
+<item>Series 2: Professional Career and Activism, 1979-2011</item>
+<item>Series 3: Personal Papers, 1963-2012</item>
+</list></p>
+<p>Series 1 is arranged according to its original order. Series 2 and 3 are arranged chronologically.</p>
+</arrangement>
+<relatedmaterial id="ref380">
+<head>Related Material</head>
+<p>
+<list type="simple">
+<item>DADT Digital Archive 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://dadtarchive.org/"> (http://dadtarchive.org/)</extref></item>
+<item>Dusty Pruitt Papers, 1945-2002. Coll 2012.029. ONE National Gay and Lesbian Archives</item>
+</list></p>
+</relatedmaterial>
+<controlaccess>
+<persname rules="aacr" source="naf">Cammermeyer, Margarethe, 1942-</persname>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref1" level="series">
+<did>
+<unittitle>Series 1: Legal Papers.</unittitle>
+<unitdate normal="1991/1997" type="bulk">Bulk, 1991-1997.</unitdate>
+<unitdate normal="1978/2008" type="inclusive">1978-2008.</unitdate>
+</did>
+<scopecontent id="ref381">
+<head>Scope and Content</head>
+<p>This series contains correspondence, briefs, depositions, exhibits, pleadings, reports, memoranda, transcripts, research materials, and other documents relating to Cammermeyer’s successful challenge of both her discharge and the military’s regulations that mandated that lesbians and gay men be separated from the service in the courts between 1992 and 1997. The materials provide detailed insights into Cammermeyer’s military career, the process of her separation from military service, and the strategies of her legal team. The materials were obtained from the files of her legal team of Perkins Coie, Lambda Legal, and Hedges and Caldwell.</p>
+</scopecontent>
+<phystech id="ref382">
+<head>Physical Characteristics and Technical Requirements</head>
+<p>The video contained in this series must be digitized prior to use.</p>
+</phystech>
+<c02 id="ref89" level="file">
+<did>
+<unittitle>Rules and Regulations - Perkins Coie Administrative.</unittitle>
+<container id="cid7996033" type="Box">1</container>
+<container parent="cid7996033" type="Folder">1</container>
+<unitdate normal="1978/1991" type="inclusive">1978-1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref90" level="file">
+<did>
+<unittitle>Involuntary Separation Action Military Counsel/Respondent Packet - Perkins Coie Administrative.</unittitle>
+<container id="cid7996034" type="Box">1</container>
+<container parent="cid7996034" type="Folder">2</container>
+<unitdate normal="1989/1991" type="inclusive">1989-1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref91" level="file">
+<did>
+<unittitle>Hearing Materials - Perkins Coie Administrative.</unittitle>
+<container id="cid7996035" type="Box">1</container>
+<container parent="cid7996035" type="Folder">3</container>
+<unitdate normal="1989/1991" type="inclusive">1989-1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref92" level="file">
+<did>
+<unittitle>Exhibits of Ralph Nutter - Perkins Coie Administrative.</unittitle>
+<container id="cid7996036" type="Box">1</container>
+<container parent="cid7996036" type="Folder">4</container>
+<unitdate normal="1990/1994" type="inclusive">1990-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref93" level="file">
+<did>
+<unittitle>Press Clippings - Perkins Coie Administrative.</unittitle>
+<container id="cid7996037" type="Box">1</container>
+<container parent="cid7996037" type="Folder">5</container>
+<unitdate normal="1991/1994" type="inclusive">1991-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref94" level="file">
+<did>
+<unittitle>Drafts 001- Memorandum in Opposition to Defendants' Motion for Judgement on the Pleadings - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996038" type="Box">1</container>
+<container parent="cid7996038" type="Folder"></container>
+<unitdate normal="1993/1993">1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref95" level="file">
+<did>
+<unittitle>Drafts 001- Memorandum in Opposition to Defendants' Motion for Judgement on the Pleadings - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996039" type="Box">1</container>
+<container parent="cid7996039" type="Folder">6</container>
+<unitdate normal="1993/1993">1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref96" level="file">
+<did>
+<unittitle>Drafts 002- Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996040" type="Box">1</container>
+<container parent="cid7996040" type="Folder">8</container>
+<unitdate normal="1994/1997" type="inclusive">1994-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref97" level="file">
+<did>
+<unittitle>Drafts 002- Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996041" type="Box">1</container>
+<container parent="cid7996041" type="Folder">9</container>
+<unitdate normal="1994/1997" type="inclusive">1994-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref98" level="file">
+<did>
+<unittitle>Declaration of David M. Glass - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996042" type="Box">2</container>
+<container parent="cid7996042" type="Folder">1</container>
+<unitdate normal="1994/1994">1994 February 2.</unitdate>
+</did>
+</c02>
+<c02 id="ref99" level="file">
+<did>
+<unittitle>Declaration of David M. Glass - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996043" type="Box">2</container>
+<container parent="cid7996043" type="Folder">2</container>
+<unitdate normal="1994/1994">1994 February 2.</unitdate>
+</did>
+</c02>
+<c02 id="ref100" level="file">
+<did>
+<unittitle>Cammermeyer Personal Documents - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996044" type="Box">2</container>
+<container parent="cid7996044" type="Folder">3</container>
+<unitdate normal="1985/1995" type="inclusive">1985-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref101" level="file">
+<did>
+<unittitle>Cammermeyer Personal Documents - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996045" type="Box">2</container>
+<container parent="cid7996045" type="Folder">4</container>
+<unitdate normal="1985/1995" type="inclusive">1985-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref102" level="file">
+<did>
+<unittitle>Defendant's Response to Plaintiff's 1st - Perkins Coie Administrative (1 of 3).</unittitle>
+<container id="cid7996046" type="Box">2</container>
+<container parent="cid7996046" type="Folder">5</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref103" level="file">
+<did>
+<unittitle>Defendant's Response to Plaintiff's 1st - Perkins Coie Administrative (2 of 3).</unittitle>
+<container id="cid7996047" type="Box">2</container>
+<container parent="cid7996047" type="Folder">6</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref104" level="file">
+<did>
+<unittitle>Defendant's Response to Plaintiff's 1st - Perkins Coie Administrative (3 of 3).</unittitle>
+<container id="cid7996048" type="Box">3</container>
+<container parent="cid7996048" type="Folder">1</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref105" level="file">
+<did>
+<unittitle>Defendant's Response to Plaintiff's 1st - Perkins Coie Administrative (Folder 3) (1 of 3)..</unittitle>
+<container id="cid7996049" type="Box">3</container>
+<container parent="cid7996049" type="Folder">2</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995..</unitdate>
+</did>
+</c02>
+<c02 id="ref106" level="file">
+<did>
+<unittitle>Defendant's Response to Plaintiff's 1st - Perkins Coie Administrative (Folder 3) (2 of 3).</unittitle>
+<container id="cid7996050" type="Box">3</container>
+<container parent="cid7996050" type="Folder">3</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref107" level="file">
+<did>
+<unittitle>Defendant's Response to Plaintiff's 1st - Perkins Coie Administrative (Folder 3) (3 of 3).</unittitle>
+<container id="cid7996051" type="Box">3</container>
+<container parent="cid7996051" type="Folder">4</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref108" level="file">
+<did>
+<unittitle>Appellants' Motion for Reconsideration of Motion for Summary Disposition - Cammermeyer v. Perry - United States Court of Appeals for the 9th Circuit.</unittitle>
+<container id="cid7996052" type="Box">3</container>
+<container parent="cid7996052" type="Folder">5</container>
+<unitdate normal="1995/1995">1995 April 21.</unitdate>
+</did>
+</c02>
+<c02 id="ref109" level="file">
+<did>
+<unittitle>Consent Motion to Stay Briefing Schedule - Cammermeyer v. Perry - United States Court of Appeals for the 9th Circuit.</unittitle>
+<container id="cid7996053" type="Box">3</container>
+<container parent="cid7996053" type="Folder">6</container>
+<unitdate normal="1995/1995">1995 April 21.</unitdate>
+</did>
+</c02>
+<c02 id="ref110" level="file">
+<did>
+<unittitle>Brief for Appellants - Cammermeyer v. Perry - United States Court of Appeals for the 9th Circuit.</unittitle>
+<container id="cid7996054" type="Box">3</container>
+<container parent="cid7996054" type="Folder">7</container>
+<unitdate normal="1995/1995">1995 June.</unitdate>
+</did>
+</c02>
+<c02 id="ref111" level="file">
+<did>
+<unittitle>Brief for Amicus Curiae, Servicemembers Legal Defense Network in Support of Appellee and Plaintiff - Cammermeyer v. Perry - United States Court of Appeals for the 9th Circuit.</unittitle>
+<container id="cid7996055" type="Box">3</container>
+<container parent="cid7996055" type="Folder">8</container>
+<unitdate normal="1995/1995">1995 August 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref112" level="file">
+<did>
+<unittitle>Background - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996056" type="Box">4</container>
+<container parent="cid7996056" type="Folder">1</container>
+<unitdate normal="1990/1990">1990.</unitdate>
+</did>
+</c02>
+<c02 id="ref113" level="file">
+<did>
+<unittitle>Background - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996057" type="Box">4</container>
+<container parent="cid7996057" type="Folder">2</container>
+<unitdate normal="1990/1990">1990.</unitdate>
+</did>
+</c02>
+<c02 id="ref114" level="file">
+<did>
+<unittitle>Documents - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996058" type="Box">4</container>
+<container parent="cid7996058" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref115" level="file">
+<did>
+<unittitle>Documents - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996059" type="Box">4</container>
+<container parent="cid7996059" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref116" level="file">
+<did>
+<unittitle>Department of Defense &amp; Army National Guard and Army Reserve Policies on Homosexuality and Separation of Officers - Perkins Coie Administrative.</unittitle>
+<container id="cid7996060" type="Box">4</container>
+<container parent="cid7996060" type="Folder">5</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref117" level="file">
+<did>
+<unittitle>National Defense Authorization Act &amp; Authorizing Appropriations for Fiscal Year 1994 - Perkins Coie Administrative.</unittitle>
+<container id="cid7996061" type="Box">4</container>
+<container parent="cid7996061" type="Folder">6</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref118" level="file">
+<did>
+<unittitle>Related Cases - Perkins Coie Administrative (1 of 4).</unittitle>
+<container id="cid7996062" type="Box">4</container>
+<container parent="cid7996062" type="Folder">7</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref119" level="file">
+<did>
+<unittitle>Related Cases - Perkins Coie Administrative (2 of 4).</unittitle>
+<container id="cid7996063" type="Box">5</container>
+<container parent="cid7996063" type="Folder">1</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref120" level="file">
+<did>
+<unittitle>Related Cases - Perkins Coie Administrative (3 of 4).</unittitle>
+<container id="cid7996064" type="Box">5</container>
+<container parent="cid7996064" type="Folder">2</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref121" level="file">
+<did>
+<unittitle>Related Cases - Perkins Coie Administrative (4 of 4).</unittitle>
+<container id="cid7996065" type="Box">5</container>
+<container parent="cid7996065" type="Folder">3</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref122" level="file">
+<did>
+<unittitle>Deposition of General John P. Otjen - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996066" type="Box">5</container>
+<container parent="cid7996066" type="Folder">4</container>
+<unitdate normal="1994/1994">1994 February 16.</unitdate>
+</did>
+</c02>
+<c02 id="ref123" level="file">
+<did>
+<unittitle>Deposition of General John P. Otjen - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996067" type="Box">5</container>
+<container parent="cid7996067" type="Folder">5</container>
+<unitdate normal="1994/1994">1994 February 16.</unitdate>
+</did>
+</c02>
+<c02 id="ref124" level="file">
+<did>
+<unittitle>Deposition of General John P. Otjen - Perkins Coie Administrative.</unittitle>
+<container id="cid7996068" type="Box">5</container>
+<container parent="cid7996068" type="Folder">5</container>
+<unitdate normal="1994/1994">1994 February 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref125" level="file">
+<did>
+<unittitle>Exhibits - Deposition of General John P. Otjen - Perkins Coie Administrative (1 of 4).</unittitle>
+<container id="cid7996069" type="Box">5</container>
+<container parent="cid7996069" type="Folder">7</container>
+<unitdate normal="1994/1994">1994 February 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref126" level="file">
+<did>
+<unittitle>Exhibits - Deposition of General John P. Otjen - Perkins Coie Administrative (2 of 4).</unittitle>
+<container id="cid7996070" type="Box">6</container>
+<container parent="cid7996070" type="Folder">1</container>
+<unitdate normal="1994/1994">1994 February 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref127" level="file">
+<did>
+<unittitle>Exhibits - Deposition of General John P. Otjen - Perkins Coie Administrative (3 of 4).</unittitle>
+<container id="cid7996071" type="Box">6</container>
+<container parent="cid7996071" type="Folder">2</container>
+<unitdate normal="1994/1994">1994 February 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref128" level="file">
+<did>
+<unittitle>Exhibits - Deposition of General John P. Otjen - Perkins Coie Administrative (4 of 4).</unittitle>
+<container id="cid7996072" type="Box">6</container>
+<container parent="cid7996072" type="Folder">3</container>
+<unitdate normal="1994/1994">1994 February 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref129" level="file">
+<did>
+<unittitle>Deposition of Admiral Thomas H. Moorer, (Ret.) - Perkins Coie Administrative.</unittitle>
+<container id="cid7996073" type="Box">6</container>
+<container parent="cid7996073" type="Folder">4</container>
+<unitdate normal="1994/1994">1994 February 23.</unitdate>
+</did>
+</c02>
+<c02 id="ref130" level="file">
+<did>
+<unittitle>Continued Deposition of Edwin Dorn - Perkins Coie Administrative.</unittitle>
+<container id="cid7996074" type="Box">6</container>
+<container parent="cid7996074" type="Folder">5</container>
+<unitdate normal="1994/1994">1994 February 23.</unitdate>
+</did>
+</c02>
+<c02 id="ref131" level="file">
+<did>
+<unittitle>Deposition of Oria S. Berndt - Perkins Coie Administrative.</unittitle>
+<container id="cid7996075" type="Box">6</container>
+<container parent="cid7996075" type="Folder">6</container>
+<unitdate normal="1994/1994">1994 March 7.</unitdate>
+</did>
+</c02>
+<c02 id="ref132" level="file">
+<did>
+<unittitle>Deposition of Robert L. Maginnis - Perkins Coie Administrative.</unittitle>
+<container id="cid7996076" type="Box">7</container>
+<container parent="cid7996076" type="Folder">1</container>
+<unitdate normal="1994/1994">1994 February 25.</unitdate>
+</did>
+</c02>
+<c02 id="ref133" level="file">
+<did>
+<unittitle>Pleadings 001- Cammermeyer v. Cheney - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996077" type="Box">7</container>
+<container parent="cid7996077" type="Folder">3</container>
+<unitdate normal="1992/1993" type="inclusive">1992-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref134" level="file">
+<did>
+<unittitle>Pleadings 001- Cammermeyer v. Cheney - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996078" type="Box">7</container>
+<container parent="cid7996078" type="Folder">4</container>
+<unitdate normal="1992/1993" type="inclusive">1992-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref135" level="file">
+<did>
+<unittitle>Pleadings 002- Cammermeyer v. Cheney - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996079" type="Box">7</container>
+<container parent="cid7996079" type="Folder">4</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref136" level="file">
+<did>
+<unittitle>Pleadings 002- Cammermeyer v. Cheney - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996080" type="Box">7</container>
+<container parent="cid7996080" type="Folder">4</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref137" level="file">
+<did>
+<unittitle>Pleadings 003- Cammermeyer v. Cheney - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996081" type="Box">7</container>
+<container parent="cid7996081" type="Folder">6</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref138" level="file">
+<did>
+<unittitle>Pleadings 003- Cammermeyer v. Cheney - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996082" type="Box">8</container>
+<container parent="cid7996082" type="Folder">1</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref139" level="file">
+<did>
+<unittitle>Pleadings 001- Cammermeyer v. Perry - United States Court of Appeals for the 9th Circuit - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996083" type="Box">8</container>
+<container parent="cid7996083" type="Folder">2</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref140" level="file">
+<did>
+<unittitle>Pleadings 001- Cammermeyer v. Perry - United States Court of Appeals for the 9th Circuit - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996084" type="Box">8</container>
+<container parent="cid7996084" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref141" level="file">
+<did>
+<unittitle>Pleadings 002- Cammermeyer v. Perry - United States Court of Appeals for the 9th Circuit - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996085" type="Box">8</container>
+<container parent="cid7996085" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref142" level="file">
+<did>
+<unittitle>Pleadings 002- Cammermeyer v. Perry - United States Court of Appeals for the 9th Circuit - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996086" type="Box">8</container>
+<container parent="cid7996086" type="Folder">5</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref143" level="file">
+<did>
+<unittitle>Pleadings 003- Cammermeyer v. Perry - United States Court of Appeals for the 9th Circuit - Perkins Coie Administrative.</unittitle>
+<container id="cid7996087" type="Box">8</container>
+<container parent="cid7996087" type="Folder">6</container>
+<unitdate normal="1995/1997" type="inclusive">1995-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref144" level="file">
+<did>
+<unittitle>Pleadings 007- Cammermeyer v. Cohen - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996088" type="Box">9</container>
+<container parent="cid7996088" type="Folder">1</container>
+<unitdate normal="1997/1997">1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref145" level="file">
+<did>
+<unittitle>Pleadings 007- Cammermeyer v. Cohen - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996089" type="Box">9</container>
+<container parent="cid7996089" type="Folder">2</container>
+<unitdate normal="1997/1997">1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref146" level="file">
+<did>
+<unittitle>Pleadings 004- Cammermeyer v. Perry - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996090" type="Box">9</container>
+<container parent="cid7996090" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref147" level="file">
+<did>
+<unittitle>Pleadings 004- Cammermeyer v. Perry - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996091" type="Box">9</container>
+<container parent="cid7996091" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref148" level="file">
+<did>
+<unittitle>Pleadings 005- Cammermeyer v. Perry - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996092" type="Box">9</container>
+<container parent="cid7996092" type="Folder">5</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref149" level="file">
+<did>
+<unittitle>Pleadings 005- Cammermeyer v. Perry - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996093" type="Box">9</container>
+<container parent="cid7996093" type="Folder">6</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref150" level="file">
+<did>
+<unittitle>Pleadings 006 - Cammermeyer v. Perry - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7996094" type="Box">9</container>
+<container parent="cid7996094" type="Folder">7</container>
+<unitdate normal="1994/1997" type="inclusive">1994-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref151" level="file">
+<did>
+<unittitle>Pleadings 006 - Cammermeyer v. Perry - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7996095" type="Box">10</container>
+<container parent="cid7996095" type="Folder">1</container>
+<unitdate normal="1994/1997" type="inclusive">1994-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref152" level="file">
+<did>
+<unittitle>Listing of Withdrawal of Federal Recognition Board - Perkins Coie Administrative (1 of 4).</unittitle>
+<container id="cid7996096" type="Box">10</container>
+<container parent="cid7996096" type="Folder">2</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref153" level="file">
+<did>
+<unittitle>Listing of Withdrawal of Federal Recognition Board - Perkins Coie Administrative (2 of 4).</unittitle>
+<container id="cid7996097" type="Box">10</container>
+<container parent="cid7996097" type="Folder">3</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref154" level="file">
+<did>
+<unittitle>Listing of Withdrawal of Federal Recognition Board - Perkins Coie Administrative (3 of 4).</unittitle>
+<container id="cid7996098" type="Box">10</container>
+<container parent="cid7996098" type="Folder">4</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref155" level="file">
+<did>
+<unittitle>Listing of Withdrawal of Federal Recognition Board - Perkins Coie Administrative (4 of 4).</unittitle>
+<container id="cid7996099" type="Box">10</container>
+<container parent="cid7996099" type="Folder">5</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref156" level="file">
+<did>
+<unittitle>Crittendon Report Vol. III - Perkins Coie Administrative (1 of 4).</unittitle>
+<container id="cid7996100" type="Box">10</container>
+<container parent="cid7996100" type="Folder">6</container>
+<unitdate normal="1989/1989">1989 July.</unitdate>
+</did>
+</c02>
+<c02 id="ref157" level="file">
+<did>
+<unittitle>Crittendon Report Vol. III - Perkins Coie Administrative (2 of 4).</unittitle>
+<container id="cid7997001" type="Box">11</container>
+<container parent="cid7997001" type="Folder">1</container>
+<unitdate normal="1989/1989">1989 July.</unitdate>
+</did>
+</c02>
+<c02 id="ref158" level="file">
+<did>
+<unittitle>Crittendon Report Vol. III - Perkins Coie Administrative (3 of 4).</unittitle>
+<container id="cid7997002" type="Box">11</container>
+<container parent="cid7997002" type="Folder">2</container>
+<unitdate normal="1989/1989">1989 July.</unitdate>
+</did>
+</c02>
+<c02 id="ref159" level="file">
+<did>
+<unittitle>Crittendon Report Vol. III - Perkins Coie Administrative (4 of 4).</unittitle>
+<container id="cid7997003" type="Box">11</container>
+<container parent="cid7997003" type="Folder">3</container>
+<unitdate normal="1989/1989">1989 July.</unitdate>
+</did>
+</c02>
+<c02 id="ref160" level="file">
+<did>
+<unittitle>Crittendon Report - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997004" type="Box">11</container>
+<container parent="cid7997004" type="Folder">4</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref161" level="file">
+<did>
+<unittitle>Crittendon Report - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997005" type="Box">11</container>
+<container parent="cid7997005" type="Folder">5</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref162" level="file">
+<did>
+<unittitle>Correspondence: Transfer of Case Files - Perkins Coie Administrative.</unittitle>
+<container id="cid7997006" type="Box">11</container>
+<container parent="cid7997006" type="Folder">6</container>
+<unitdate normal="2008/2008">2008.</unitdate>
+</did>
+</c02>
+<c02 id="ref163" level="file">
+<did>
+<unittitle>Correspondence - Perkins Coie Administrative (1 of 4).</unittitle>
+<container id="cid7997007" type="Box">12</container>
+<container parent="cid7997007" type="Folder">1</container>
+<unitdate normal="1992/1995" type="inclusive">1992-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref164" level="file">
+<did>
+<unittitle>Correspondence - Perkins Coie Administrative (2 of 4).</unittitle>
+<container id="cid7997008" type="Box">12</container>
+<container parent="cid7997008" type="Folder">2</container>
+<unitdate normal="1992/1995" type="inclusive">1992-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref165" level="file">
+<did>
+<unittitle>Correspondence - Perkins Coie Administrative (3 of 4).</unittitle>
+<container id="cid7997009" type="Box">12</container>
+<container parent="cid7997009" type="Folder">3</container>
+<unitdate normal="1992/1995" type="inclusive">1992-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref166" level="file">
+<did>
+<unittitle>Correspondence - Perkins Coie Administrative (4 of 4).</unittitle>
+<container id="cid7997010" type="Box">12</container>
+<container parent="cid7997010" type="Folder">4</container>
+<unitdate normal="1992/1995" type="inclusive">1992-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref167" level="file">
+<did>
+<unittitle>Correspondence - Perkins Coie Administrative (1 of 3).</unittitle>
+<container id="cid7997011" type="Box">12</container>
+<container parent="cid7997011" type="Folder">5</container>
+<unitdate normal="1994/1998" type="inclusive">1994-1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref168" level="file">
+<did>
+<unittitle>Correspondence - Perkins Coie Administrative (2 of 3).</unittitle>
+<container id="cid7997012" type="Box">13</container>
+<container parent="cid7997012" type="Folder">1</container>
+<unitdate normal="1994/1998" type="inclusive">1994-1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref169" level="file">
+<did>
+<unittitle>Correspondence - Perkins Coie Administrative (3 of 3).</unittitle>
+<container id="cid7997013" type="Box">13</container>
+<container parent="cid7997013" type="Folder">2</container>
+<unitdate normal="1994/1998" type="inclusive">1994-1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref170" level="file">
+<did>
+<unittitle>External Correspondence 001 - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997014" type="Box">13</container>
+<container parent="cid7997014" type="Folder">3</container>
+<unitdate normal="1990/1992" type="inclusive">1990-1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref171" level="file">
+<did>
+<unittitle>External Correspondence 001 - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997015" type="Box">13</container>
+<container parent="cid7997015" type="Folder">4</container>
+<unitdate normal="1990/1992" type="inclusive">1990-1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref172" level="file">
+<did>
+<unittitle>External Correspondence 002 - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997016" type="Box">13</container>
+<container parent="cid7997016" type="Folder">5</container>
+<unitdate normal="1993/1993">1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref173" level="file">
+<did>
+<unittitle>External Correspondence 002 - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997017" type="Box">13</container>
+<container parent="cid7997017" type="Folder">6</container>
+<unitdate normal="1993/1993">1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref174" level="file">
+<did>
+<unittitle>External Correspondence 003 - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997018" type="Box">14</container>
+<container parent="cid7997018" type="Folder">1</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref175" level="file">
+<did>
+<unittitle>External Correspondence 003 - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997019" type="Box">14</container>
+<container parent="cid7997019" type="Folder">2</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref176" level="file">
+<did>
+<unittitle>External Correspondence 004 - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997020" type="Box">14</container>
+<container parent="cid7997020" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref177" level="file">
+<did>
+<unittitle>External Correspondence 004 - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997021" type="Box">14</container>
+<container parent="cid7997021" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref178" level="file">
+<did>
+<unittitle>External Correspondence 005 - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997022" type="Box">14</container>
+<container parent="cid7997022" type="Folder">5</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref179" level="file">
+<did>
+<unittitle>External Correspondence 005 - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997023" type="Box">14</container>
+<container parent="cid7997023" type="Folder">6</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref180" level="file">
+<did>
+<unittitle>External Correspondence 006 - Perkins Coie Administrative.</unittitle>
+<container id="cid7997024" type="Box">15</container>
+<container parent="cid7997024" type="Folder">1</container>
+<unitdate normal="1995/1997" type="inclusive">1995-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref181" level="file">
+<did>
+<unittitle>Original Briefs for the 9th Circuit - Perkins Coie Administrative (1 of 6).</unittitle>
+<container id="cid7997025" type="Box">15</container>
+<container parent="cid7997025" type="Folder">2</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref182" level="file">
+<did>
+<unittitle>Original Briefs for the 9th Circuit - Perkins Coie Administrative (2 of 6).</unittitle>
+<container id="cid7997026" type="Box">15</container>
+<container parent="cid7997026" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref183" level="file">
+<did>
+<unittitle>Original Briefs for the 9th Circuit - Perkins Coie Administrative (3 of 6).</unittitle>
+<container id="cid7997027" type="Box">15</container>
+<container parent="cid7997027" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref184" level="file">
+<did>
+<unittitle>Original Briefs for the 9th Circuit - Perkins Coie Administrative (4 of 6).</unittitle>
+<container id="cid7997028" type="Box">15</container>
+<container parent="cid7997028" type="Folder">5</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref185" level="file">
+<did>
+<unittitle>Original Briefs for the 9th Circuit - Perkins Coie Administrative (5 of 6).</unittitle>
+<container id="cid7997029" type="Box">16</container>
+<container parent="cid7997029" type="Folder">1</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref186" level="file">
+<did>
+<unittitle>Original Briefs for the 9th Circuit - Perkins Coie Administrative (6 of 6).</unittitle>
+<container id="cid7997030" type="Box">16</container>
+<container parent="cid7997030" type="Folder">2</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref187" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (1 of 5).</unittitle>
+<container id="cid7997031" type="Box">16</container>
+<container parent="cid7997031" type="Folder">3</container>
+<unitdate normal="1988/1992" type="inclusive">1988-1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref188" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (2 of 5).</unittitle>
+<container id="cid7997032" type="Box">16</container>
+<container parent="cid7997032" type="Folder">4</container>
+<unitdate normal="1988/1992" type="inclusive">1988-1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref189" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (3 of 5).</unittitle>
+<container id="cid7997033" type="Box">16</container>
+<container parent="cid7997033" type="Folder">5</container>
+<unitdate normal="1988/1992" type="inclusive">1988-1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref190" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (4 of 5).</unittitle>
+<container id="cid7997034" type="Box">16</container>
+<container parent="cid7997034" type="Folder">6</container>
+<unitdate normal="1988/1992" type="inclusive">1988-1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref191" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (5 of 5).</unittitle>
+<container id="cid7997035" type="Box">17</container>
+<container parent="cid7997035" type="Folder">1</container>
+<unitdate normal="1988/1992" type="inclusive">1988-1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref192" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (1 of 4).</unittitle>
+<container id="cid7997036" type="Box">17</container>
+<container parent="cid7997036" type="Folder">2</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref193" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (2 of 4).</unittitle>
+<container id="cid7997037" type="Box">17</container>
+<container parent="cid7997037" type="Folder">3</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref194" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (3 of 4).</unittitle>
+<container id="cid7997038" type="Box">17</container>
+<container parent="cid7997038" type="Folder">4</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref195" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (4 of 4).</unittitle>
+<container id="cid7997039" type="Box">17</container>
+<container parent="cid7997039" type="Folder">5</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref196" level="file">
+<did>
+<unittitle>Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (1 of 5).</unittitle>
+<container id="cid7997040" type="Box">17</container>
+<container parent="cid7997040" type="Folder">6</container>
+<unitdate normal="1994/1994">1994 February.</unitdate>
+</did>
+</c02>
+<c02 id="ref197" level="file">
+<did>
+<unittitle>Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (2 of 5).</unittitle>
+<container id="cid7997041" type="Box">18</container>
+<container parent="cid7997041" type="Folder">1</container>
+<unitdate normal="1994/1994">1994 February.</unitdate>
+</did>
+</c02>
+<c02 id="ref198" level="file">
+<did>
+<unittitle>Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (3 of 5).</unittitle>
+<container id="cid7997042" type="Box">18</container>
+<container parent="cid7997042" type="Folder">2</container>
+<unitdate normal="1994/1994">1994 February.</unitdate>
+</did>
+</c02>
+<c02 id="ref199" level="file">
+<did>
+<unittitle>Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (4 of 5).</unittitle>
+<container id="cid7997043" type="Box">18</container>
+<container parent="cid7997043" type="Folder">3</container>
+<unitdate normal="1994/1994">1994 February.</unitdate>
+</did>
+</c02>
+<c02 id="ref200" level="file">
+<did>
+<unittitle>Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (5 of 5).</unittitle>
+<container id="cid7997044" type="Box">18</container>
+<container parent="cid7997044" type="Folder">4</container>
+<unitdate normal="1994/1994">1994 February.</unitdate>
+</did>
+</c02>
+<c02 id="ref201" level="file">
+<did>
+<unittitle>Plaintiff's Reply Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (1 of 6).</unittitle>
+<container id="cid7997045" type="Box">18</container>
+<container parent="cid7997045" type="Folder">5</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref202" level="file">
+<did>
+<unittitle>Plaintiff's Reply Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (2 of 6).</unittitle>
+<container id="cid7997046" type="Box">18</container>
+<container parent="cid7997046" type="Folder">6</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref203" level="file">
+<did>
+<unittitle>Plaintiff's Reply Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (3 of 6).</unittitle>
+<container id="cid7997047" type="Box">19</container>
+<container parent="cid7997047" type="Folder">1</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref204" level="file">
+<did>
+<unittitle>Plaintiff's Reply Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (4 of 6).</unittitle>
+<container id="cid7997048" type="Box">19</container>
+<container parent="cid7997048" type="Folder">2</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref205" level="file">
+<did>
+<unittitle>Plaintiff's Reply Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (5 of 6).</unittitle>
+<container id="cid7997049" type="Box">19</container>
+<container parent="cid7997049" type="Folder">3</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref206" level="file">
+<did>
+<unittitle>Plaintiff's Reply Memorandum in Support of Plaintiff's Motion for Summary Judgement - Perkins Coie Administrative (6 of 6).</unittitle>
+<container id="cid7997050" type="Box">19</container>
+<container parent="cid7997050" type="Folder">4</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref207" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997051" type="Box">19</container>
+<container parent="cid7997051" type="Folder">5</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref208" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997052" type="Box">19</container>
+<container parent="cid7997052" type="Folder">6</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref209" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (1 of 6).</unittitle>
+<container id="cid7997053" type="Box">20</container>
+<container parent="cid7997053" type="Folder">1</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref224" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (2 of 6).</unittitle>
+<container id="cid7997068" type="Box">20</container>
+<container parent="cid7997068" type="Folder">2</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref225" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (3 of 6).</unittitle>
+<container id="cid7997069" type="Box">20</container>
+<container parent="cid7997069" type="Folder">3</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref226" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (4 of 6).</unittitle>
+<container id="cid7997070" type="Box">20</container>
+<container parent="cid7997070" type="Folder">4</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref227" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (5 of 6).</unittitle>
+<container id="cid7997071" type="Box">20</container>
+<container parent="cid7997071" type="Folder">5</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref228" level="file">
+<did>
+<unittitle>Case Research - Perkins Coie Administrative (6 of 6).</unittitle>
+<container id="cid7997072" type="Box">21</container>
+<container parent="cid7997072" type="Folder">1</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref229" level="file">
+<did>
+<unittitle>Cammermeyer Documents - Exhibits - Service Record Volume I - Perkins Coie Administrative.</unittitle>
+<container id="cid7997073" type="Box">21</container>
+<container parent="cid7997073" type="Folder">2</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref230" level="file">
+<did>
+<unittitle>Withdrawal of Federal Recognition Board - Volume II - Federal Documents/Statements - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997074" type="Box">21</container>
+<container parent="cid7997074" type="Folder">3</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref231" level="file">
+<did>
+<unittitle>Withdrawal of Federal Recognition Board - Volume II - Federal Documents/Statements - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997075" type="Box">21</container>
+<container parent="cid7997075" type="Folder">4</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref232" level="file">
+<did>
+<unittitle>Withdrawal of Federal Recognition Board - Volume III - Historical, Psychological, and Legal Research - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997076" type="Box">21</container>
+<container parent="cid7997076" type="Folder">5</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref233" level="file">
+<did>
+<unittitle>Withdrawal of Federal Recognition Board - Volume III - Historical, Psychological, and Legal Research - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997077" type="Box">21</container>
+<container parent="cid7997077" type="Folder">6</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref234" level="file">
+<did>
+<unittitle>Withdrawal of Federal Recognition Board - Volume IV - Miscellaneous Expert and Servicemember Declarations - Perkins Coie Administrative (1 of 2).</unittitle>
+<container id="cid7997078" type="Box">22</container>
+<container parent="cid7997078" type="Folder">1</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref235" level="file">
+<did>
+<unittitle>Withdrawal of Federal Recognition Board - Volume IV - Miscellaneous Expert and Servicemember Declarations - Perkins Coie Administrative (2 of 2).</unittitle>
+<container id="cid7997079" type="Box">22</container>
+<container parent="cid7997079" type="Folder">2</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref236" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation (Appeal) Volume I - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid7997080" type="Box">22</container>
+<container parent="cid7997080" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref237" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation (Appeal) Volume I - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid7997081" type="Box">22</container>
+<container parent="cid7997081" type="Folder">4</container>
+<unitdate normal="1994/1994">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref238" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume 5 - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid7997082" type="Box">22</container>
+<container parent="cid7997082" type="Folder">5</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref239" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume 5 - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid7997083" type="Box">22</container>
+<container parent="cid7997083" type="Folder">6</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref240" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume VII - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid7997084" type="Box">23</container>
+<container parent="cid7997084" type="Folder">1</container>
+<unitdate normal="1997/1997">1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref241" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume VII - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid7997085" type="Box">23</container>
+<container parent="cid7997085" type="Folder">2</container>
+<unitdate normal="1997/1997">1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref242" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume V - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid7997086" type="Box">23</container>
+<container parent="cid7997086" type="Folder">3</container>
+<unitdate normal="1994/1994">1994 March - 1994 June.</unitdate>
+</did>
+</c02>
+<c02 id="ref243" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume V - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid7997087" type="Box">23</container>
+<container parent="cid7997087" type="Folder">4</container>
+<unitdate normal="1994/1994">1994 March - 1994 June.</unitdate>
+</did>
+</c02>
+<c02 id="ref244" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume VI - Hedges and Caldwell.</unittitle>
+<container id="cid7997088" type="Box">23</container>
+<container parent="cid7997088" type="Folder">5</container>
+<unitdate normal="1994/1994">1994 July.</unitdate>
+</did>
+</c02>
+<c02 id="ref245" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume VII - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid7997089" type="Box">23</container>
+<container parent="cid7997089" type="Folder">6</container>
+<unitdate normal="1994/1994">1994 July-1994 December.</unitdate>
+</did>
+</c02>
+<c02 id="ref246" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume VII - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid7997090" type="Box">23</container>
+<container parent="cid7997090" type="Folder">7</container>
+<unitdate normal="1994/1994">1994 July-1994 December.</unitdate>
+</did>
+</c02>
+<c02 id="ref247" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume VIII - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid7997091" type="Box">24</container>
+<container parent="cid7997091" type="Folder">1</container>
+<unitdate normal="1995/1995">1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref248" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume VIII - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid7997092" type="Box">24</container>
+<container parent="cid7997092" type="Folder">2</container>
+<unitdate normal="1995/1995">1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref249" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume IX - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid7997093" type="Box">24</container>
+<container parent="cid7997093" type="Folder">3</container>
+<unitdate normal="1995/1995">1995 August - 1998 November.</unitdate>
+</did>
+</c02>
+<c02 id="ref250" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume IX - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid7997094" type="Box">24</container>
+<container parent="cid7997094" type="Folder">4</container>
+<unitdate normal="1995/1998" type="inclusive">1995 August - 1998 November.</unitdate>
+</did>
+</c02>
+<c02 id="ref251" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Cammermeyer Retirement Records - Hedges and Caldwell.</unittitle>
+<container id="cid7997095" type="Box">24</container>
+<container parent="cid7997095" type="Folder">5</container>
+<unitdate normal="1998/1999" type="inclusive">1998-1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref252" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Benefit for Cammermeyer Military Justice Fund - Hedges and Caldwell.</unittitle>
+<container id="cid7997096" type="Box">24</container>
+<container parent="cid7997096" type="Folder">6</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref253" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents from Client - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid7997097" type="Box">25</container>
+<container parent="cid7997097" type="Folder">1</container>
+<unitdate normal="1989/1992" type="inclusive">1989-1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref254" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents from Client - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid7997098" type="Box">25</container>
+<container parent="cid7997098" type="Folder">2</container>
+<unitdate normal="1989/1992" type="inclusive">1989-1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref255" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents from Client - Honors - Hedges and Caldwell.</unittitle>
+<container id="cid7997099" type="Box">25</container>
+<container parent="cid7997099" type="Folder">3</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref256" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents from Client - Military Records - Hedges and Caldwell.</unittitle>
+<container id="cid7997100" type="Box">25</container>
+<container parent="cid7997100" type="Folder">4</container>
+<unitdate normal="1990/1999" type="inclusive">1990s.</unitdate>
+</did>
+</c02>
+<c02 id="ref257" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents from Client - Letters of Support - Hedges and Caldwell.</unittitle>
+<container id="cid7997101" type="Box">25</container>
+<container parent="cid7997101" type="Folder">5</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref258" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Meinhold Stay Pleadings - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid7997102" type="Box">25</container>
+<container parent="cid7997102" type="Folder">6</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref259" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Meinhold Stay Pleadings - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid7997103" type="Box">25</container>
+<container parent="cid7997103" type="Folder">7</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref260" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition Transcripts, Notes - Edwin Dorn - Hedges and Caldwell (1 of 5).</unittitle>
+<container id="cid7997104" type="Box">26</container>
+<container parent="cid7997104" type="Folder">1</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref261" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition Transcripts, Notes - Edwin Dorn - Hedges and Caldwell (2 of 5).</unittitle>
+<container id="cid7997105" type="Box">26</container>
+<container parent="cid7997105" type="Folder">2</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref262" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition Transcripts, Notes - Edwin Dorn - Hedges and Caldwell (3 of 5).</unittitle>
+<container id="cid7997106" type="Box">26</container>
+<container parent="cid7997106" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref263" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition Transcripts, Notes - Edwin Dorn - Hedges and Caldwell (4 of 5).</unittitle>
+<container id="cid7997107" type="Box">26</container>
+<container parent="cid7997107" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref264" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition Transcripts, Notes - Edwin Dorn - Hedges and Caldwell (5 of 5).</unittitle>
+<container id="cid7997108" type="Box">26</container>
+<container parent="cid7997108" type="Folder">5</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref265" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents from Client - Cammermeyer Statement - Hedges and Caldwell.</unittitle>
+<container id="cid7997109" type="Box">26</container>
+<container parent="cid7997109" type="Folder">6</container>
+<unitdate normal="1989/1989">1989.</unitdate>
+</did>
+</c02>
+<c02 id="ref266" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents from Client - Conference Transcript - Hedges and Caldwell.</unittitle>
+<container id="cid7997110" type="Box">26</container>
+<container parent="cid7997110" type="Folder">7</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref267" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents from Client - Producer Documents - Hedges and Caldwell.</unittitle>
+<container id="cid7997111" type="Box">27</container>
+<container parent="cid7997111" type="Folder">1</container>
+<unitdate normal="1992/1992">1992.</unitdate>
+</did>
+</c02>
+<c02 id="ref268" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents from Client - Divorce Proceedings - Hedges and Caldwell.</unittitle>
+<container id="cid7997112" type="Box">27</container>
+<container parent="cid7997112" type="Folder">2</container>
+<unitdate normal="1980/1984" type="inclusive">1980-1984.</unitdate>
+</did>
+</c02>
+<c02 id="ref269" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Documents Produced in Discovery by Department of Justice - Hedges and Caldwell.</unittitle>
+<container id="cid7997113" type="Box">27</container>
+<container parent="cid7997113" type="Folder">3</container>
+<unitdate normal="1993/1993">1993 August 30.</unitdate>
+</did>
+</c02>
+<c02 id="ref270" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Cooperating Organizations - Hedges and Caldwell.</unittitle>
+<container id="cid7997114" type="Box">27</container>
+<container parent="cid7997114" type="Folder">4</container>
+<unitdate normal="1991/1991">1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref271" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Press Kit - Hedges and Caldwell.</unittitle>
+<container id="cid7997115" type="Box">27</container>
+<container parent="cid7997115" type="Folder">5</container>
+<unitdate normal="1989/1991" type="inclusive">1989-1991.</unitdate>
+</did>
+</c02>
+<c02 id="ref272" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military: Meinhold (1 of 3) - Hedges and Caldwell.</unittitle>
+<container id="cid8002001" type="Box">27</container>
+<container parent="cid8002001" type="Folder">6</container>
+<unitdate normal="1994/1997" type="inclusive">1994-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref273" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military: Meinhold (2 of 3 - Hedges and Caldwell.</unittitle>
+<container id="cid8002002" type="Box">27</container>
+<container parent="cid8002002" type="Folder">7</container>
+<unitdate normal="1994/1997" type="inclusive">1994-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref274" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military: Meinhold (3 of 3) - Hedges and Caldwell.</unittitle>
+<container id="cid8002003" type="Box">27</container>
+<container parent="cid8002003" type="Folder">8</container>
+<unitdate normal="1994/1997" type="inclusive">1994-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref275" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Senate Testimony - Hedges and Caldwell.</unittitle>
+<container id="cid8002004" type="Box">28</container>
+<container parent="cid8002004" type="Folder">1</container>
+<unitdate normal="1993/1993">1993 May 11.</unitdate>
+</did>
+</c02>
+<c02 id="ref276" level="file">
+<did>
+<unittitle>Deposition of John P. Otjen - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002005" type="Box">28</container>
+<container parent="cid8002005" type="Folder">2</container>
+<unitdate normal="1994/1994">1994 February 16.</unitdate>
+</did>
+</c02>
+<c02 id="ref277" level="file">
+<did>
+<unittitle>Deposition of John P. Otjen - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002006" type="Box">28</container>
+<container parent="cid8002006" type="Folder">3</container>
+<unitdate normal="1994/1994">1994 February 16.</unitdate>
+</did>
+</c02>
+<c02 id="ref278" level="file">
+<did>
+<unittitle>Deposition of John P. Otjen - Hedges and Caldwell.</unittitle>
+<container id="cid8002007" type="Box">28</container>
+<container parent="cid8002007" type="Folder">4</container>
+<unitdate normal="1994/1994">1994 February 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref279" level="file">
+<did>
+<unittitle>Deposition of Admiral Thomas H. Moorer, (Ret.) - Hedges and Caldwell.</unittitle>
+<container id="cid8002008" type="Box">28</container>
+<container parent="cid8002008" type="Folder">5</container>
+<unitdate normal="1994/1994">1994 February 23.</unitdate>
+</did>
+</c02>
+<c02 id="ref280" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - (Appeal) Appellants' Brief - Hedges and Caldwell.</unittitle>
+<container id="cid8002009" type="Box">29</container>
+<container parent="cid8002009" type="Folder">1</container>
+<unitdate normal="1995/1995">1995 June 16.</unitdate>
+</did>
+</c02>
+<c02 id="ref281" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Cammermeyer/Pruitt Correspondence Volume i - Hedges and Caldwell.</unittitle>
+<container id="cid8002010" type="Box">29</container>
+<container parent="cid8002010" type="Folder">2</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref282" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume I - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002011" type="Box">29</container>
+<container parent="cid8002011" type="Folder">3</container>
+<unitdate normal="1989/1992" type="inclusive">1989 November 28- 1992 December 18.</unitdate>
+</did>
+</c02>
+<c02 id="ref283" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume I - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002012" type="Box">29</container>
+<container parent="cid8002012" type="Folder">4</container>
+<unitdate normal="1989/1992" type="inclusive">1989 November 28- 1992 December 18.</unitdate>
+</did>
+</c02>
+<c02 id="ref284" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume II - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002013" type="Box">29</container>
+<container parent="cid8002013" type="Folder">5</container>
+<unitdate normal="1993/1994" type="inclusive">1993 January 1-1994 January 31.</unitdate>
+</did>
+</c02>
+<c02 id="ref285" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume II - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002014" type="Box">29</container>
+<container parent="cid8002014" type="Folder">6</container>
+<unitdate normal="1993/1994" type="inclusive">1993 January 1-1994 January 31.</unitdate>
+</did>
+</c02>
+<c02 id="ref286" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume III - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002015" type="Box">29</container>
+<container parent="cid8002015" type="Folder">7</container>
+<unitdate normal="1994/1994">1994 February 1-1994 February 28.</unitdate>
+</did>
+</c02>
+<c02 id="ref287" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume III - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002016" type="Box">30</container>
+<container parent="cid8002016" type="Folder">1</container>
+<unitdate normal="1994/1994">1994 February 1-1994 February 28.</unitdate>
+</did>
+</c02>
+<c02 id="ref288" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume IV - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002017" type="Box">30</container>
+<container parent="cid8002017" type="Folder">2</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref289" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Correspondence Volume IV - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002018" type="Box">30</container>
+<container parent="cid8002018" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref290" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Clerk's Docket Sheet - Hedges and Caldwell.</unittitle>
+<container id="cid8002019" type="Box">30</container>
+<container parent="cid8002019" type="Folder">4</container>
+<unitdate normal="1994/1994">1994 July 11.</unitdate>
+</did>
+</c02>
+<c02 id="ref291" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Discovery I - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002020" type="Box">30</container>
+<container parent="cid8002020" type="Folder">5</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref292" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Discovery I - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002021" type="Box">30</container>
+<container parent="cid8002021" type="Folder">6</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref318" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume IX - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002047" type="Box">34</container>
+<container parent="cid8002047" type="Folder">6</container>
+<unitdate normal="1999/1999">1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref293" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Amicus Curiae Briefs - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002022" type="Box">30</container>
+<container parent="cid8002022" type="Folder">7</container>
+<unitdate normal="1995/1995">1995 August.</unitdate>
+</did>
+</c02>
+<c02 id="ref294" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Amicus Curiae Briefs - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002023" type="Box">30</container>
+<container parent="cid8002023" type="Folder">8</container>
+<unitdate normal="1995/1995">1995 August.</unitdate>
+</did>
+</c02>
+<c02 id="ref295" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Supplemental Excerpts of Record Volume II - Hedges and Caldwell.</unittitle>
+<container id="cid8002024" type="Box">31</container>
+<container parent="cid8002024" type="Folder">1</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref296" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition of Edwin Dorn - Hedges and Caldwell (1 of 4).</unittitle>
+<container id="cid8002025" type="Box">31</container>
+<container parent="cid8002025" type="Folder">2</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref297" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition of Edwin Dorn - Hedges and Caldwell (2 of 4).</unittitle>
+<container id="cid8002026" type="Box">31</container>
+<container parent="cid8002026" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref298" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition of Edwin Dorn - Hedges and Caldwell (3 of 4).</unittitle>
+<container id="cid8002027" type="Box">31</container>
+<container parent="cid8002027" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref299" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition of Edwin Dorn - Hedges and Caldwell (4 of 4).</unittitle>
+<container id="cid8002028" type="Box">32</container>
+<container parent="cid8002028" type="Folder">1</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref300" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition of Robert L. Maginnis - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002029" type="Box">32</container>
+<container parent="cid8002029" type="Folder">2</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref301" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Deposition of Robert L. Maginnis - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002030" type="Box">32</container>
+<container parent="cid8002030" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref302" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Summary of Administrative Proceedings - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002031" type="Box">32</container>
+<container parent="cid8002031" type="Folder">4</container>
+<unitdate normal="1991/1991">1991 August 23.</unitdate>
+</did>
+</c02>
+<c02 id="ref303" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Reply Brief for Appellants - Hedges and Caldwell.</unittitle>
+<container id="cid8002032" type="Box">32</container>
+<container parent="cid8002032" type="Folder">5</container>
+<unitdate normal="1995/1995">1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref304" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Administrative Hearing Transcripts - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002033" type="Box">32</container>
+<container parent="cid8002033" type="Folder">6</container>
+<unitdate normal="1991/1991">1991 July.</unitdate>
+</did>
+</c02>
+<c02 id="ref305" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Administrative Hearing Transcripts - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002034" type="Box">32</container>
+<container parent="cid8002034" type="Folder">7</container>
+<unitdate normal="1991/1991">1991 July.</unitdate>
+</did>
+</c02>
+<c02 id="ref306" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Book Information - Freedom to Differ - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002035" type="Box">32</container>
+<container parent="cid8002035" type="Folder">8</container>
+<unitdate normal="1991/1991">1991 July.</unitdate>
+</did>
+</c02>
+<c02 id="ref307" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume I - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002036" type="Box">33</container>
+<container parent="cid8002036" type="Folder">1</container>
+<unitdate normal="1992/1994" type="inclusive">1992-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref308" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume I - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002037" type="Box">33</container>
+<container parent="cid8002037" type="Folder">2</container>
+<unitdate normal="1992/1994" type="inclusive">1992-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref309" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume II - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002038" type="Box">33</container>
+<container parent="cid8002038" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref310" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume III - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002039" type="Box">33</container>
+<container parent="cid8002039" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref311" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume VIII - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002040" type="Box">33</container>
+<container parent="cid8002040" type="Folder">5</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref312" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume VIII - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002041" type="Box">33</container>
+<container parent="cid8002041" type="Folder">6</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref313" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume III - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002042" type="Box">34</container>
+<container parent="cid8002042" type="Folder">1</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref314" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume III - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002043" type="Box">34</container>
+<container parent="cid8002043" type="Folder">2</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref315" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume IV - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002044" type="Box">34</container>
+<container parent="cid8002044" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref316" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume IV - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002045" type="Box">34</container>
+<container parent="cid8002045" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref317" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume IX - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002046" type="Box">34</container>
+<container parent="cid8002046" type="Folder">5</container>
+<unitdate normal="1999/1999">1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref319" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume II (Appeal) - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002048" type="Box">35</container>
+<container parent="cid8002048" type="Folder">1</container>
+<unitdate normal="1995/1997" type="inclusive">1995-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref320" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume II (Appeal) - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002049" type="Box">35</container>
+<container parent="cid8002049" type="Folder">2</container>
+<unitdate normal="1995/1997" type="inclusive">1995-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref321" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume VI - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002050" type="Box">35</container>
+<container parent="cid8002050" type="Folder">3</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref322" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Litigation Volume VI - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002051" type="Box">35</container>
+<container parent="cid8002051" type="Folder">4</container>
+<unitdate normal="1994/1994">1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref323" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Slip Opinion - Hedges and Caldwell.</unittitle>
+<container id="cid8002052" type="Box">35</container>
+<container parent="cid8002052" type="Folder">5</container>
+<unitdate normal="1996/1996">1996 October 7.</unitdate>
+</did>
+</c02>
+<c02 id="ref324" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Control Group Regulations - Hedges and Caldwell.</unittitle>
+<container id="cid8002053" type="Box">35</container>
+<container parent="cid8002053" type="Folder">6</container>
+<unitdate normal="1995/1995">1995 August 14.</unitdate>
+</did>
+</c02>
+<c02 id="ref325" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Press Releases - Hedges and Caldwell.</unittitle>
+<container id="cid8002054" type="Box">35</container>
+<container parent="cid8002054" type="Folder">7</container>
+<unitdate normal="1992/1993" type="inclusive">1992-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref326" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military Challenges: Other Briefs - Hedges and Caldwell (1 of 5).</unittitle>
+<container id="cid8002055" type="Box">35</container>
+<container parent="cid8002055" type="Folder">8</container>
+<unitdate normal="1995/1997" type="inclusive">1995-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref327" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military Challenges: Other Briefs - Hedges and Caldwell (2 of 5).</unittitle>
+<container id="cid8002056" type="Box">36</container>
+<container parent="cid8002056" type="Folder">1</container>
+<unitdate normal="1995/1997" type="inclusive">1995-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref328" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military Challenges: Other Briefs - Hedges and Caldwell (3 of 5).</unittitle>
+<container id="cid8002057" type="Box">36</container>
+<container parent="cid8002057" type="Folder">2</container>
+<unitdate normal="1995/1997" type="inclusive">1995-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref329" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military Challenges: Other Briefs - Hedges and Caldwell (4 of 5).</unittitle>
+<container id="cid8002058" type="Box">36</container>
+<container parent="cid8002058" type="Folder">3</container>
+<unitdate normal="1995/1997" type="inclusive">1995-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref330" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military Challenges: Other Briefs - Hedges and Caldwell (5 of 5).</unittitle>
+<container id="cid8002059" type="Box">36</container>
+<container parent="cid8002059" type="Folder">4</container>
+<unitdate normal="1995/1997" type="inclusive">1995-1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref331" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military Challenges: Other Decisions - Hedges and Caldwell.</unittitle>
+<container id="cid8002060" type="Box">36</container>
+<container parent="cid8002060" type="Folder">5</container>
+<unitdate normal="1993/1995" type="inclusive">1993-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref332" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - United States Department of Labor/Bureau of Labor Statistics - Hedges and Caldwell.</unittitle>
+<container id="cid8002061" type="Box">36</container>
+<container parent="cid8002061" type="Folder">6</container>
+<unitdate normal="1998/1998">1998 September 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref333" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Military: Expert Declarations - Hedges and Caldwell.</unittitle>
+<container id="cid8002062" type="Box">37</container>
+<container parent="cid8002062" type="Folder">1</container>
+<unitdate normal="1993/1993">1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref334" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Press Clippings - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002063" type="Box">37</container>
+<container parent="cid8002063" type="Folder">2</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref335" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Press Clippings - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002064" type="Box">37</container>
+<container parent="cid8002064" type="Folder">3</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref336" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Brief for Appellee and Support, Excerpts of Record - Hedges and Caldwell (1 of 4).</unittitle>
+<container id="cid8002065" type="Box">37</container>
+<container parent="cid8002065" type="Folder">4</container>
+<unitdate normal="1995/1995">1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref337" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Brief for Appellee and Support, Excerpts of Record - Hedges and Caldwell (2 of 4).</unittitle>
+<container id="cid8002066" type="Box">37</container>
+<container parent="cid8002066" type="Folder">5</container>
+<unitdate normal="1995/1995">1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref338" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Brief for Appellee and Support, Excerpts of Record - Hedges and Caldwell (3 of 4).</unittitle>
+<container id="cid8002067" type="Box">38</container>
+<container parent="cid8002067" type="Folder">1</container>
+<unitdate normal="1995/1995">1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref339" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Brief for Appellee and Support, Excerpts of Record - Hedges and Caldwell (4 of 4).</unittitle>
+<container id="cid8002068" type="Box">38</container>
+<container parent="cid8002068" type="Folder">2</container>
+<unitdate normal="1995/1995">1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref340" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Board Action - Hedges and Caldwell (1 of 2).</unittitle>
+<container id="cid8002069" type="Box">38</container>
+<container parent="cid8002069" type="Folder">3</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref341" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Board Action - Hedges and Caldwell (2 of 2).</unittitle>
+<container id="cid8002070" type="Box">38</container>
+<container parent="cid8002070" type="Folder">4</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref342" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Annotated Case Documents - Hedges and Caldwell (1 of 7).</unittitle>
+<container id="cid8002071" type="Box">38</container>
+<container parent="cid8002071" type="Folder">5</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref343" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Annotated Case Documents - Hedges and Caldwell (2 of 7).</unittitle>
+<container id="cid8002072" type="Box">39</container>
+<container parent="cid8002072" type="Folder">2</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref344" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Annotated Case Documents - Hedges and Caldwell (3 of 7).</unittitle>
+<container id="cid8002073" type="Box">39</container>
+<container parent="cid8002073" type="Folder">2</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref345" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Annotated Case Documents - Hedges and Caldwell (4 of 7).</unittitle>
+<container id="cid8002074" type="Box">39</container>
+<container parent="cid8002074" type="Folder">3</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref346" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Annotated Case Documents - Hedges and Caldwell (5 of 7).</unittitle>
+<container id="cid8002075" type="Box">39</container>
+<container parent="cid8002075" type="Folder">4</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref347" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Annotated Case Documents - Hedges and Caldwell (6 of 7).</unittitle>
+<container id="cid8002076" type="Box">40</container>
+<container parent="cid8002076" type="Folder">1</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref348" level="file">
+<did>
+<unittitle>Cammermeyer v. Cheney - Annotated Case Documents - Hedges and Caldwell (7 of 7).</unittitle>
+<container id="cid8002077" type="Box">40</container>
+<container parent="cid8002077" type="Folder">2</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref349" level="file">
+<did>
+<unittitle>Cammermeyer v. Cohen - Correspondence.</unittitle>
+<container id="cid8002078" type="Box">40</container>
+<container parent="cid8002078" type="Folder">3</container>
+<unitdate normal="1997/1997">1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref350" level="file">
+<did>
+<unittitle>Cammermeyer v. Perry - Brief for Appellee Margarethe Cammermeyer - United States Court of Appeals for the 9th Circuit.</unittitle>
+<container id="cid8002079" type="Box">40</container>
+<container parent="cid8002079" type="Folder">4</container>
+<unitdate normal="1995/1995">1995 August 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref351" level="file">
+<did>
+<unittitle>Cammermeyer v. Perry - Reply Brief for Appellants - United States Court of Appeals for the 9th Circuit.</unittitle>
+<container id="cid8002080" type="Box">40</container>
+<container parent="cid8002080" type="Folder">5</container>
+<unitdate normal="1995/1995">1995 September 15.</unitdate>
+</did>
+</c02>
+<c02 id="ref352" level="file">
+<did>
+<unittitle>Cammermeyer v. Perry - Appellee Opposition to Appellants' Emergency Motion - United States Court of Appeals for the 9th Circuit.</unittitle>
+<container id="cid8002081" type="Box">40</container>
+<container parent="cid8002081" type="Folder">6</container>
+<unitdate normal="1994/1994">1994 July 1.</unitdate>
+</did>
+</c02>
+<c02 id="ref353" level="file">
+<did>
+<unittitle>Cammermeyer v. Perry - Supplemental Excerpts of Record Volume I.</unittitle>
+<container id="cid8002082" type="Box">40</container>
+<container parent="cid8002082" type="Folder">7</container>
+<unitdate normal="1994/1994">1994 February 3.</unitdate>
+</did>
+</c02>
+<c02 id="ref354" level="file">
+<did>
+<unittitle>Cammermeyer v. Perry - Supplemental Excerpts of Record Volume II.</unittitle>
+<container id="cid8002083" type="Box">41</container>
+<container parent="cid8002083" type="Folder">1</container>
+<unitdate normal="1994/1994">1994 February 3.</unitdate>
+</did>
+</c02>
+<c02 id="ref355" level="file">
+<did>
+<unittitle>Correspondence: To Cammermeyer from Attorneys.</unittitle>
+<container id="cid8002084" type="Box">41</container>
+<container parent="cid8002084" type="Folder">2</container>
+<unitdate normal="1993/1995" type="inclusive">1993-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref356" level="file">
+<did>
+<unittitle>Appeal - Money to Pay Attorneys - Correspondence and Briefs.</unittitle>
+<container id="cid8002085" type="Box">41</container>
+<container parent="cid8002085" type="Folder">3</container>
+<unitdate normal="1997/1999" type="inclusive">1997-1999.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref2" level="series">
+<did>
+<unittitle>Series 2: Professional Career and Activism.</unittitle>
+<unitdate normal="1991/2002" type="bulk">Bulk, 1991-2002.</unitdate>
+<unitdate normal="1979/2011" type="inclusive">1979-2011.</unitdate>
+</did>
+<scopecontent id="ref383">
+<head>Scope and Content</head>
+<p>This series documents Cammermeyer’s professional careers in the military and as nurse, lecturer, radio host, and congressional candidate from 1979 through 2011. It also documents her activism on lesbian, gay, bisexual and transgender (LGBT) issues, particularly in fighting discrimination against LGBT people in the military. This series contains copies of her memoir 
+<title render="italic">Serving in Silence</title> and its film adaptation, correspondence including letters of support, congressional campaign materials, photographs, writings including speeches and articles concerning LGBT rights, newspaper clippings documenting her court cases, 
+<title render="italic">Serving in Silence</title>, and activism, videotapes and audio cassettes from television appearances, interviews, and Senate hearings, awards she received for her LGBT activism and leadership, and other materials relating to her professional life.</p>
+</scopecontent>
+<arrangement id="ref384">
+<head>Organization and Arrangement</head>
+<p>The arrangement of this series is primarily chronological. However, videotapes, awards, and some congressional campaign materials have been grouped by material type.</p>
+</arrangement>
+<phystech id="ref385">
+<head>Physical Characteristics and Technical Requirements</head>
+<p>The videos and audio cassettes contained in this series must be digitized prior to use.</p>
+</phystech>
+<c02 id="ref17" level="file">
+<did>
+<unittitle>Nursing Career: Correspondence, Clippings, Awards.</unittitle>
+<container id="cid7995014" type="Box">42</container>
+<container parent="cid7995014" type="Folder">1</container>
+<unitdate normal="1979/1995" type="inclusive">1979-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref18" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Speaking Engagements (1 of 7).</unittitle>
+<container id="cid7995015" type="Box">42</container>
+<container parent="cid7995015" type="Folder">2</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref19" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Speaking Engagements (2 of 7).</unittitle>
+<container id="cid7995016" type="Box">42</container>
+<container parent="cid7995016" type="Folder">3</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref20" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Speaking Engagements (3 of 7).</unittitle>
+<container id="cid7995017" type="Box">42</container>
+<container parent="cid7995017" type="Folder">4</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref21" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Speaking Engagements (3 of 7).</unittitle>
+<container id="cid7995018" type="Box">42</container>
+<container parent="cid7995018" type="Folder">4</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref22" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Speaking Engagements (4 of 7).</unittitle>
+<container id="cid7995019" type="Box">42</container>
+<container parent="cid7995019" type="Folder">5</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref23" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Speaking Engagements (5 of 7).</unittitle>
+<container id="cid7995020" type="Box">42</container>
+<container parent="cid7995020" type="Folder">6</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref24" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Speaking Engagements (6 of 7).</unittitle>
+<container id="cid7995021" type="Box">43</container>
+<container parent="cid7995021" type="Folder">1</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref25" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Speaking Engagements (7 of 7).</unittitle>
+<container id="cid7995022" type="Box">43</container>
+<container parent="cid7995022" type="Folder">2</container>
+<unitdate normal="1991/1993" type="inclusive">1991-1993.</unitdate>
+</did>
+</c02>
+<c02 id="ref26" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support (1 of 2).</unittitle>
+<container id="cid7995023" type="Box">43</container>
+<container parent="cid7995023" type="Folder">3</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995..</unitdate>
+</did>
+</c02>
+<c02 id="ref27" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support (2 of 2).</unittitle>
+<container id="cid7995024" type="Box">43</container>
+<container parent="cid7995024" type="Folder">4</container>
+<unitdate normal="1991/1995" type="inclusive">1991-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref28" level="file">
+<did>
+<unittitle>Clippings (1 of 9).</unittitle>
+<container id="cid7995025" type="Box">43</container>
+<container parent="cid7995025" type="Folder">5</container>
+<unitdate normal="1991/2010" type="inclusive">1991-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref29" level="file">
+<did>
+<unittitle>Clippings (2 of 9).</unittitle>
+<container id="cid7995026" type="Box">43</container>
+<container parent="cid7995026" type="Folder">6</container>
+<unitdate normal="1991/2010" type="inclusive">1991-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref30" level="file">
+<did>
+<unittitle>Clippings (3 of 9).</unittitle>
+<container id="cid7995027" type="Box">44</container>
+<container parent="cid7995027" type="Folder">1</container>
+<unitdate normal="1991/2010" type="inclusive">1991-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref31" level="file">
+<did>
+<unittitle>Clippings (4 of 9).</unittitle>
+<container id="cid7995028" type="Box">44</container>
+<container parent="cid7995028" type="Folder">2</container>
+<unitdate normal="1991/2010" type="inclusive">1991-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref32" level="file">
+<did>
+<unittitle>Clippings (5 of 9).</unittitle>
+<container id="cid7995029" type="Box">44</container>
+<container parent="cid7995029" type="Folder">3</container>
+<unitdate normal="1991/2010" type="inclusive">1991-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref33" level="file">
+<did>
+<unittitle>Clippings (6 of 9).</unittitle>
+<container id="cid7995030" type="Box">44</container>
+<container parent="cid7995030" type="Folder">4</container>
+<unitdate normal="1991/2010" type="inclusive">1991-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref34" level="file">
+<did>
+<unittitle>Clippings (7 of 9).</unittitle>
+<container id="cid7995031" type="Box">44</container>
+<container parent="cid7995031" type="Folder">5</container>
+<unitdate normal="1991/2010" type="inclusive">1991-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref35" level="file">
+<did>
+<unittitle>Clippings (8 of 9).</unittitle>
+<container id="cid7995032" type="Box">44</container>
+<container parent="cid7995032" type="Folder">6</container>
+<unitdate normal="1991/2010" type="inclusive">1991-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref36" level="file">
+<did>
+<unittitle>Clippings (9 of 9).</unittitle>
+<container id="cid7995033" type="Box">45</container>
+<container parent="cid7995033" type="Folder">1</container>
+<unitdate normal="1991/2010" type="inclusive">1991-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref37" level="file">
+<did>
+<unittitle>Correspondence: Awards, Speaking Engagements, Nursing, Public Relations.</unittitle>
+<container id="cid7995034" type="Box">45</container>
+<container parent="cid7995034" type="Folder">2</container>
+<unitdate normal="1992/1996" type="inclusive">1992-1996.</unitdate>
+</did>
+</c02>
+<c02 id="ref38" level="file">
+<did>
+<unittitle>Subject File: Nomination of Dan Coats as Secretary of Defense.</unittitle>
+<container id="cid7995035" type="Box">45</container>
+<container parent="cid7995035" type="Folder">3</container>
+<unitdate normal="1992/2000" type="inclusive">1992-2000.</unitdate>
+</did>
+</c02>
+<c02 id="ref39" level="file">
+<did>
+<unittitle>
+<emph render="italic">Serving in Silence</emph> Chapter 5: Drafts, Notes, Reference Materials.</unittitle>
+<container id="cid7995036" type="Box">45</container>
+<container parent="cid7995036" type="Folder">4</container>
+<unitdate normal="1993/1994" type="inclusive">1993-1994.</unitdate>
+</did>
+</c02>
+<c02 id="ref40" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, Congressional Campaign.</unittitle>
+<container id="cid7995037" type="Box">45</container>
+<container parent="cid7995037" type="Folder">5</container>
+<unitdate normal="1993/1995" type="inclusive">1993-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref41" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph> (1 of 10).</unittitle>
+<container id="cid7995038" type="Box">45</container>
+<container parent="cid7995038" type="Folder">6</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref42" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph> (2 of 10).</unittitle>
+<container id="cid7995039" type="Box">45</container>
+<container parent="cid7995039" type="Folder">7</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref43" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph>(3 of 10).</unittitle>
+<container id="cid7995040" type="Box">45</container>
+<container parent="cid7995040" type="Folder">8</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref44" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph> (4 of 10).</unittitle>
+<container id="cid7995041" type="Box">46</container>
+<container parent="cid7995041" type="Folder">1</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref45" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph> (5 of 10).</unittitle>
+<container id="cid7995042" type="Box">46</container>
+<container parent="cid7995042" type="Folder">2</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref46" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph> (6 of 10).</unittitle>
+<container id="cid7995043" type="Box">46</container>
+<container parent="cid7995043" type="Folder">3</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref47" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph> (7 of 10).</unittitle>
+<container id="cid7995044" type="Box">46</container>
+<container parent="cid7995044" type="Folder">4</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref48" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph> (8 of 10).</unittitle>
+<container id="cid7995045" type="Box">46</container>
+<container parent="cid7995045" type="Folder">5</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref49" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph> (9 of 10).</unittitle>
+<container id="cid7995046" type="Box">47</container>
+<container parent="cid7995046" type="Folder">1</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref50" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations,
+<emph render="italic"> Serving in Silence </emph>(10 of 10).</unittitle>
+<container id="cid7995047" type="Box">47</container>
+<container parent="cid7995047" type="Folder">2</container>
+<unitdate normal="1994/1995" type="inclusive">1994-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref51" level="file">
+<did>
+<unittitle>Correspondence: Criticism.</unittitle>
+<container id="cid7995048" type="Box">47</container>
+<container parent="cid7995048" type="Folder">3</container>
+<unitdate normal="1994/1998" type="inclusive">1994-1998..</unitdate>
+</did>
+</c02>
+<c02 id="ref52" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph>, Congressional Campaign.</unittitle>
+<container id="cid7995049" type="Box">47</container>
+<container parent="cid7995049" type="Folder">4</container>
+<unitdate normal="1994/1998" type="inclusive">1994-1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref53" level="file">
+<did>
+<unittitle>
+<emph render="italic">Serving in Silence</emph>: Promotions, Correspondence, Agreements.</unittitle>
+<container id="cid7995050" type="Box">47</container>
+<container parent="cid7995050" type="Folder">5</container>
+<unitdate normal="1994/2005" type="inclusive">1994-2005.</unitdate>
+</did>
+</c02>
+<c02 id="ref54" level="file">
+<did>
+<unittitle>Awards:
+<emph render="italic"> Serving in Silence</emph> Film.</unittitle>
+<container id="cid7995051" type="Box">47</container>
+<container parent="cid7995051" type="Folder">6</container>
+<unitdate normal="1995/1995">1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref55" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph>, Congressional Campaign.</unittitle>
+<container id="cid7995052" type="Box">47</container>
+<container parent="cid7995052" type="Folder">7</container>
+<unitdate normal="1995/1998" type="inclusive">1995-1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref56" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Serving in Silence, Awards.</unittitle>
+<container id="cid7995053" type="Box">47</container>
+<container parent="cid7995053" type="Folder">8</container>
+<unitdate normal="1995/2003" type="inclusive">1995-2003.</unitdate>
+</did>
+</c02>
+<c02 id="ref57" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Congressional Campaign.</unittitle>
+<container id="cid7996001" type="Box">48</container>
+<container parent="cid7996001" type="Folder">1</container>
+<unitdate normal="1997/1999" type="inclusive">1997-1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref61" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Congressional Campaign, Speaking Engagements, Public Relations.</unittitle>
+<container id="cid7996005" type="Box">48</container>
+<container parent="cid7996005" type="Folder">2</container>
+<unitdate normal="1997/1999" type="inclusive">1997-1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref62" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Congressional Campaign, Speaking Engagements, Public Relations, 
+<emph render="italic">Serving in Silence</emph>.</unittitle>
+<container id="cid7996006" type="Box">48</container>
+<container parent="cid7996006" type="Folder">3</container>
+<unitdate normal="1997/1999" type="inclusive">1997-1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref60" level="file">
+<did>
+<unittitle>Congressional Campaign: Guest Book.</unittitle>
+<container id="cid7996004" type="Box">48</container>
+<container parent="cid7996004" type="Folder">4</container>
+<unitdate normal="1998/1998">1998 November 3.</unitdate>
+</did>
+</c02>
+<c02 id="ref64" level="file">
+<did>
+<unittitle>Congressional Campaign Materials (1 of 3).</unittitle>
+<container id="cid7996008" type="Box">48</container>
+<container parent="cid7996008" type="Folder">5</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref65" level="file">
+<did>
+<unittitle>Congressional Campaign Materials (2 of 3).</unittitle>
+<container id="cid7996009" type="Box">48</container>
+<container parent="cid7996009" type="Folder">6</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref66" level="file">
+<did>
+<unittitle>Congressional Campaign Materials (3 of 3).</unittitle>
+<container id="cid7996010" type="Box">48</container>
+<container parent="cid7996010" type="Folder">7</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref67" level="file">
+<did>
+<unittitle>Subject File:
+<emph render="italic"> Out at Work</emph> HBO Documentary.</unittitle>
+<container id="cid7996011" type="Box">48</container>
+<container parent="cid7996011" type="Folder">8</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref68" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Press Coverage, Congressional Campaign.</unittitle>
+<container id="cid7996012" type="Box">49</container>
+<container parent="cid7996012" type="Folder">1</container>
+<unitdate normal="1998/1999" type="inclusive">1998-1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref69" level="file">
+<did>
+<unittitle>Correspondence: Speaking Engagements, Awards.</unittitle>
+<container id="cid7996013" type="Box">49</container>
+<container parent="cid7996013" type="Folder">2</container>
+<unitdate normal="1998/1999" type="inclusive">1998-1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref70" level="file">
+<did>
+<unittitle>Correspondence: Speaking Engagements, Public Relations.</unittitle>
+<container id="cid7996014" type="Box">49</container>
+<container parent="cid7996014" type="Folder">3</container>
+<unitdate normal="1998/1999" type="inclusive">1998-1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref71" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Congressional Campaign, Public Relations, Publications.</unittitle>
+<container id="cid7996015" type="Box">49</container>
+<container parent="cid7996015" type="Folder">4</container>
+<unitdate normal="1998/1999" type="inclusive">1998-1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref72" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Personal, Speaking Engagements, Public Relations.</unittitle>
+<container id="cid7996016" type="Box">49</container>
+<container parent="cid7996016" type="Folder">5</container>
+<unitdate normal="1999/2004" type="inclusive">1999-2004.</unitdate>
+</did>
+</c02>
+<c02 id="ref73" level="file">
+<did>
+<unittitle>Interview with and Speaking Engagements involving Fred Phelps, Jr. of Westboro Baptist Church.</unittitle>
+<container id="cid7996017" type="Box">49</container>
+<container parent="cid7996017" type="Folder">6</container>
+<unitdate normal="2000/2000">2000 September.</unitdate>
+</did>
+</c02>
+<c02 id="ref74" level="file">
+<did>
+<unittitle>
+<emph render="italic">Grethe Cammermeyer Show</emph> on GAYBC Radio Network (1 of 2).</unittitle>
+<container id="cid7996018" type="Box">50</container>
+<container parent="cid7996018" type="Folder">1</container>
+<unitdate normal="2000/2000">2000.</unitdate>
+</did>
+</c02>
+<c02 id="ref75" level="file">
+<did>
+<unittitle>Forward for 
+<emph render="italic">Out of the Ordinary: Reflections on Growing Up with Gay Parents</emph>.</unittitle>
+<container id="cid7996019" type="Box">50</container>
+<container parent="cid7996019" type="Folder">3</container>
+<unitdate normal="2000/2000">2000.</unitdate>
+</did>
+</c02>
+<c02 id="ref76" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Public Relations, Speaking Engagements, Personal, GAYBC Radio Network.</unittitle>
+<container id="cid7996020" type="Box">50</container>
+<container parent="cid7996020" type="Folder">4</container>
+<unitdate normal="2000/2002" type="inclusive">2000-2002.</unitdate>
+</did>
+</c02>
+<c02 id="ref77" level="file">
+<did>
+<unittitle>Writing: Speeches, Articles, Activism, Nursing.</unittitle>
+<container id="cid7996021" type="Box">50</container>
+<container parent="cid7996021" type="Folder">5</container>
+<unitdate normal="2000/2009" type="inclusive">2000-2009.</unitdate>
+</did>
+</c02>
+<c02 id="ref78" level="file">
+<did>
+<unittitle>Correspondence: Letters of Support, Speaking Engagements, Activism, Personal, Awards.</unittitle>
+<container id="cid7996022" type="Box">50</container>
+<container parent="cid7996022" type="Folder">6</container>
+<unitdate normal="2000/2010" type="inclusive">2000-2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref79" level="file">
+<did>
+<unittitle>Application for Hospital Commissioner South Whidbey.</unittitle>
+<container id="cid7996023" type="Box">50</container>
+<container parent="cid7996023" type="Folder">7</container>
+<unitdate normal="2008/2008">2008.</unitdate>
+</did>
+</c02>
+<c02 id="ref80" level="file">
+<did>
+<unittitle>Awards.</unittitle>
+<container id="cid7996024" type="Box">50</container>
+<container parent="cid7996024" type="Folder">8</container>
+<unitdate normal="2010/2010">2010.</unitdate>
+</did>
+</c02>
+<c02 id="ref81" level="file">
+<did>
+<unittitle>
+<emph render="italic">Serving in Silence</emph>: Copies of Books, DVD, Videotape, Cassette Tapes.</unittitle>
+<container id="cid7996025" type="Box">51</container>
+<container parent="cid7996025" type="Folder">1</container>
+<unitdate normal="1994/1996" type="inclusive">1994-1996.</unitdate>
+</did>
+<phystech id="ref388">
+<head>Physical Characteristics and Technical Requirements</head>
+<p>Special equipment or further processing may be required for viewing. To access digital materials you must notify the reference desk in advance of your visit.</p>
+</phystech>
+</c02>
+<c02 id="ref82" level="file">
+<did>
+<unittitle>Videotapes (6 tapes): Appearances, Speaking Engagements, Military Career.</unittitle>
+<container id="cid7996026" type="Box">51</container>
+<container parent="cid7996026" type="Folder">2</container>
+<unitdate normal="1992/1995" type="inclusive">1992-1995.</unitdate>
+</did>
+</c02>
+<c02 id="ref83" level="file">
+<did>
+<unittitle>Videotapes (14 tapes): Appearances, Speaking Engagements, Military Career.</unittitle>
+<container id="cid7996027" type="Box">52</container>
+<container parent="cid7996027" type="Folder">1</container>
+<unitdate normal="1993/1996" type="inclusive">1993-1996.</unitdate>
+</did>
+</c02>
+<c02 id="ref84" level="file">
+<did>
+<unittitle>Videotapes (14 tapes): Appearances, Speaking Engagements, Military Career.</unittitle>
+<container id="cid7996028" type="Box">53</container>
+<container parent="cid7996028" type="Folder">1</container>
+<unitdate normal="1996/2000" type="inclusive">1996-2000.</unitdate>
+</did>
+</c02>
+<c02 id="ref85" level="file">
+<did>
+<unittitle>Cassette Tape: Grethe and Fred Phelps, Jr..</unittitle>
+<container id="cid7996029" type="Box">53</container>
+<container parent="cid7996029" type="Folder">2</container>
+<unitdate normal="1996/2000" type="inclusive">1996-2000.</unitdate>
+</did>
+</c02>
+<c02 id="ref86" level="file">
+<did>
+<unittitle>Congressional Campaign: T-Shirts.</unittitle>
+<container id="cid7996030" type="Box">54</container>
+<container parent="cid7996030" type="Folder">1</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref87" level="file">
+<did>
+<unittitle>Congressional Campaign: Buttons, Pens.</unittitle>
+<container id="cid7996031" type="Box">54</container>
+<container parent="cid7996031" type="Folder">2</container>
+<unitdate normal="1998/1998">1998.</unitdate>
+</did>
+</c02>
+<c02 id="ref88" level="file">
+<did>
+<unittitle>Videotapes (14 tapes): Appearances, Speaking Engagements, Military Career.</unittitle>
+<container id="cid7996032" type="Box">55</container>
+<container parent="cid7996032" type="Folder">1</container>
+<unitdate>Undated.</unitdate>
+</did>
+</c02>
+<c02 id="ref358" level="file">
+<did>
+<unittitle>Awards.</unittitle>
+<container id="cid8004002" type="Box">56</container>
+<unitdate normal="1985/2011" type="inclusive">1985-2011.</unitdate>
+</did>
+</c02>
+<c02 id="ref359" level="file">
+<did>
+<unittitle>Awards.</unittitle>
+<container id="cid8004003" type="Box">57</container>
+<unitdate normal="1985/2011" type="inclusive">1985-2011.</unitdate>
+</did>
+</c02>
+<c02 id="ref360" level="file">
+<did>
+<unittitle>Awards.</unittitle>
+<container id="cid8004004" type="Box">58</container>
+<unitdate normal="1985/2011" type="inclusive">1985-2011.</unitdate>
+</did>
+</c02>
+<c02 id="ref361" level="file">
+<did>
+<unittitle>Awards.</unittitle>
+<container id="cid8004005" type="Box">59</container>
+<unitdate normal="1985/2011" type="inclusive">1985-2011.</unitdate>
+</did>
+</c02>
+<c02 id="ref362" level="file">
+<did>
+<unittitle>Awards.</unittitle>
+<container id="cid8004006" type="Box">60</container>
+<unitdate normal="1985/2011" type="inclusive">1985-2011.</unitdate>
+</did>
+</c02>
+<c02 id="ref363" level="file">
+<did>
+<unittitle>Awards.</unittitle>
+<container id="cid8004007" type="Carton">61</container>
+<unitdate normal="1985/2011" type="inclusive">1985-2011.</unitdate>
+</did>
+</c02>
+<c02 id="ref364" level="file">
+<did>
+<unittitle>Awards.</unittitle>
+<container id="cid8004008" type="Carton">62</container>
+<unitdate normal="1985/2011" type="inclusive">1985-2011.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref3" level="series">
+<did>
+<unittitle>Series 3: Personal Papers.</unittitle>
+<unitdate normal="1963/1968" type="bulk">Bulk, 1963-1968.</unitdate>
+<unitdate normal="1963/2012" type="inclusive">1963-2012.</unitdate>
+</did>
+<scopecontent id="ref386">
+<head>Scope and Content</head>
+<p>This series contains personal materials from 1963 through 2012, including correspondence from Cammermeyer to her parents while she was serving in Vietnam; curriculum vitae covering her careers and accomplishments as a nurse, in the military, and as an activist; photographs of her first wedding in 1965; a yearbook from the University of Maryland; a copy of her dissertation from the University of Washington on Cognitive Disability with Obstructive Sleep Apnea; and other materials. It documents Cammermeyer’s 1965 marriage, military service in Vietnam, personal relationships, and professional accomplishments.</p>
+</scopecontent>
+<c02 id="ref4" level="file">
+<did>
+<unittitle>Yearbook: University of Maryland School of Medicine and School of Nursing.</unittitle>
+<container id="cid7995002" type="Box">63</container>
+<container parent="cid7995002" type="Folder">1</container>
+<unitdate normal="1963/1963">1963.</unitdate>
+</did>
+</c02>
+<c02 id="ref5" level="file">
+<did>
+<unittitle>Bride's Book - Marriage to Harvey Hawken - Neurmburg, Germany (1 of 2).</unittitle>
+<container id="cid7995001" type="Box">63</container>
+<container parent="cid7995001" type="Folder">2</container>
+<unitdate normal="1965/1965">1965 August 14.</unitdate>
+</did>
+</c02>
+<c02 id="ref6" level="file">
+<did>
+<unittitle>Bride's Book - Marriage to Harvey Hawken- Neurmburg, Germany (2 of 2).</unittitle>
+<container id="cid7995003" type="Box">63</container>
+<container parent="cid7995003" type="Folder">3</container>
+<unitdate normal="1965/1965">1965 August 14.</unitdate>
+</did>
+</c02>
+<c02 id="ref8" level="file">
+<did>
+<unittitle>Correspondence: From Cammermeyer to Her Parents from Vietnam.</unittitle>
+<container id="cid7995005" type="Box">63</container>
+<container parent="cid7995005" type="Folder"></container>
+<unitdate normal="1967/1968" type="inclusive">1967-1968.</unitdate>
+</did>
+</c02>
+<c02 id="ref9" level="file">
+<did>
+<unittitle>Dissertation - University of Washington.</unittitle>
+<container id="cid7995006" type="Box">63</container>
+<container parent="cid7995006" type="Folder">5</container>
+<unitdate normal="1991/1991">1991 May 17.</unitdate>
+</did>
+</c02>
+<c02 id="ref10" level="file">
+<did>
+<unittitle>Photographs for Passport.</unittitle>
+<container id="cid7995007" type="Box">63</container>
+<container parent="cid7995007" type="Folder">6</container>
+<unitdate normal="1999/1999">1999.</unitdate>
+</did>
+</c02>
+<c02 id="ref11" level="file">
+<did>
+<unittitle>Correspondence: Personal.</unittitle>
+<container id="cid7995008" type="Box">63</container>
+<container parent="cid7995008" type="Folder">7</container>
+<unitdate normal="2004/2008" type="inclusive">2004-2008.</unitdate>
+</did>
+</c02>
+<c02 id="ref12" level="file">
+<did>
+<unittitle>Psychology Paper on Cammermeyer.</unittitle>
+<container id="cid7995009" type="Box">63</container>
+<container parent="cid7995009" type="Folder">8</container>
+<unitdate normal="2010/2010">2010 October.</unitdate>
+</did>
+</c02>
+<c02 id="ref13" level="file">
+<did>
+<unittitle>Curriculum Vitae.</unittitle>
+<container id="cid7995010" type="Box">63</container>
+<container parent="cid7995010" type="Folder">9</container>
+<unitdate normal="2012/2012">2012 September.</unitdate>
+</did>
+</c02>
+<c02 id="ref14" level="file">
+<did>
+<unittitle>Wedding Album - Marriage to Harvey Hawken (1 of 3).</unittitle>
+<container id="cid7995011" type="Box">64</container>
+<container parent="cid7995011" type="Folder">1</container>
+<unitdate normal="1965/1965">1965 August 14.</unitdate>
+</did>
+</c02>
+<c02 id="ref15" level="file">
+<did>
+<unittitle>Wedding Album - Marriage to Harvey Hawken (2 of 3).</unittitle>
+<container id="cid7995012" type="Box">64</container>
+<container parent="cid7995012" type="Folder">2</container>
+<unitdate normal="1965/1965">1965 August 14.</unitdate>
+</did>
+</c02>
+<c02 id="ref16" level="file">
+<did>
+<unittitle>Wedding Album - Marriage to Harvey Hawken (3 of 3).</unittitle>
+<container id="cid7995013" type="Box">64</container>
+<container parent="cid7995013" type="Folder">3</container>
+<unitdate normal="1965/1965">1965 August 14.</unitdate>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
