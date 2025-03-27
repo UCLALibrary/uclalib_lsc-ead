@@ -1,226 +1,70 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8pk0n81 ">poll2184.xml</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Finding Aid for the Melvin Pollner papers, circa 1967-2007
-                    <num>LSC.2184</num>
-                </titleproper>
-                <titleproper type="filing">Pollner (Melvin) papers</titleproper>
-                <author>Finding aid prepared by Kelly Besser with assistance from Kamarin Takahara, 2013; final revisions made by Angel Diaz, 2017.</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>UCLA Library Special Collections</publisher>
-                <address>
-                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
-                    <addressline>Box 951575</addressline>
-                    <addressline>Los Angeles, CA, 90095-1575</addressline>
-                    <addressline>(310) 825-4988</addressline>
-                    <addressline>spec-coll@library.ucla.edu</addressline>
-                </address>
-                <date>18 August 2017</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2017-08-22T15:22-0700</date>
-            </creation>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Melvin Pollner papers</unittitle>
-            <unitid>LSC.2184</unitid>
-            <repository>
-                <corpname>UCLA Library Special Collections</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>15.0 linear feet</extent>
-                <extent>(Fourteen record cartons, two document boxes and one half size document box)</extent>
-            </physdesc>
-            <unitdate>circa 1967-2007</unitdate>
-            <abstract id="ref1" label="Abstract">Melvin Pollner was a UCLA Professor of Sociology for nearly 40 years and a leading practitioner of ethnomethodology, one of the department's signature specialties. The collection consists of field notes, research files of ethnomethodology papers and notes, Pollner's drafts and reprints, his Mundane Reasoning dissertation files, Sociology course materials and audio tapes from traffic court studies.</abstract>
-            <langmaterial id="ref2" label="Language of Materials">Materials are in English.</langmaterial>
-            <physloc id="ref3" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
-            <origination label="Creator">
-                <persname source="ingest">Pollner, Melvin</persname>
-            </origination>
-        </did>
-        <accessrestrict id="ref4">
-            <head>Restrictions on Access</head>
-            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections materials must be made in advance using the request button located on this page</p>
-        </accessrestrict>
-        <userestrict id="ref6">
-            <head>Restrictions on Use and Reproduction</head>
-            <p>Property rights to the physical object belong to UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where UCLA Library Special Collections does not hold the copyright.</p>
-        </userestrict>
-        <prefercite id="ref7">
-            <head>Preferred Citation</head>
-            <p>[Identification of item], Melvin Pollner papers (Collection 2184). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
-        </prefercite>
-        <acqinfo id="ref8">
-            <head>Provenance/Source of Acquisition</head>
-            <p>Judy A. Pollner, 2008.</p>
-        </acqinfo>
-        <processinfo id="ref9">
-            <head>Processing Information</head>
-            <p>Processed by Kelly Besser with assistance from Kamarin Takahara, 2013; final revisions made by Angel Diaz, 2017.</p>
-        </processinfo>
-        <odd id="ref28">
-            <head>UCLA Catalog Record ID</head>
-            <p>UCLA Catalog Record ID: 
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7345927">7345927</extref></p>
-        </odd>
-        <bioghist id="ref10">
-            <head>Biography/History</head>
-            <p>Melvin Pollner was born on October 13, 1940, in the Bronx neighborhood of New York City. He attended the Bronx High School of Science and earned a bachelor's degree in sociology from the City College of New York. He went on to earn a master's degree in sociology from UC Berkeley and a PhD in sociology from UC Santa Barbara. He joined the UCLA Department of Sociology in 1968 where he taught for nearly 40 years.</p>
-            <p>In the early 1980s, as part of the reorganization of the Department’s graduate program, faculty organized themselves into areas of common interest. One of these areas focused on ethnomethodological, phenomenological and observational sociologies (EPOS) and included the following professors as affiliated faculty: Melvin Pollner, Harold Garfinkel, Robert Emerson, Jack Katz and Emanuel Schegloff. Pollner taught Sociology 271, one of the introductory courses in this area that grappled with fundamental ideas and concerns which animate ethnomethodological and phenomenological investigations. Pollner’s course featured guest presentations by the aforementioned faculty and included topics such as “The world of everyday life and the problem of rationality,” “Rules, norms and tacit knowledge” and “Speaking and discourse.”</p>
-            <p>Professor Pollner's primary research interests were the sociology of mental illness; self and identity; ethnomethodology; and toward the end of his career, economic sociology. His work in these areas included studies of psychiatric emergency teams, the construction of reality in families, making and managing meaning in traffic court, the impact of religious beliefs on psychological well-being, and narrative practices in Alcoholics Anonymous.</p>
-            <p>UCLA Department of Sociology colleague and longtime collaborator, Professor Emeritus Robert Emerson described Pollner as deeply committed to sociology and specifically to ethnomethodology. Emerson remembers that Pollner described ethnomethodology as follows: “The study of the practices used to craft whatever participants in particular settings recognize as intelligible, meaningful and real.” According to Emerson, this meant “understanding all social matters -- gender and social class, reality and truth -- not as fixed objects or facts, but as meanings people create and sustain in interaction with one another.”</p>
-            <p>Melvin Pollner died at the UCLA Medical Center on November 2, 2007. The Melvin Pollner Prize in Ethnomethodology was created in 2009 and awarded every other year beginning in 2010 to the author of an article, chapter or book that develops original work resonant with Pollner’s interests in topics such as mundane reason, reality disjunctures, radical reflexivity and the connections and contributions of ethnomethodology to other types of sociology.</p>
-        </bioghist>
-        <scopecontent id="ref11">
-            <head>Scope and Content</head>
-            <p>The collection includes field notes, research files of ethnomethodology papers and notes, Pollner's drafts and reprints, his Mundane Reasoning dissertation files, Sociology course materials and audio tapes from traffic court studies.</p>
-        </scopecontent>
-        <arrangement id="ref12">
-            <head>Organization and Arrangement</head>
-            <p>The collection has been arranged in the following series: 
-                <list type="simple">
-                    <item>1. Field notes.</item>
-                    <item>2. Research files.</item>
-                    <item>3. Drafts.</item>
-                    <item>4. Reprints.</item>
-                    <item>5. Academic course materials.</item>
-                    <item>6. Open reel audio tapes.</item>
-                </list></p>
-        </arrangement>
-        <phystech id="ref26">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
-        </phystech>
-        <relatedmaterial id="ref27">
-            <head>Related Material</head>
-            <p>
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/kt087015p0/">Harold Garfinkel Papers (Collection 1273).</extref> Available at Library Special Collections, UCLA.</p>
-            <p>
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/c8qc08kr ">Gail Jefferson papers (Collection 2319)</extref> Available at Library Special Collections, UCLA.</p>
-            <p>
-                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.oac.cdlib.org/findaid/ark:/13030/tf8s2009gs/">Harvey Sacks Papers (Collection 1678).</extref> Available at Library Special Collections, UCLA.</p>
-        </relatedmaterial>
-        <controlaccess>
-            <subject source="lcsh">Ethnomethodology--Research.</subject>
-            <occupation source="lcsh">Sociologists--California--Los Angeles--Archives.</occupation>
-            <subject source="lcsh">Traffic courts--Social aspects--Case studies. </subject>
-            <subject source="lcnaf">University of California, Los Angeles. Department of Sociology--Faculty--Archives.</subject>
-        </controlaccess>
-        <dsc>
-            <c01 id="ref13" level="series">
-                <did>
-                    <unittitle>Field notes.</unittitle>
-                    <container id="cid7998004" type="Box" label="Mixed materials">1-2, 4-5, 8, 13</container>
-                </did>
-                <scopecontent id="ref14">
-                    <head>Scope and Content</head>
-                    <p>Materials include Pollner's field notes for studies which include data sets used for articles.</p>
-                    <p>Box 1: Includes the following folders: Stress and Religiosity, Religious Belief and Well Being, Mental Illness and Divine Relations.</p>
-                    <p>Box 2: Traffic court transaction notes.</p>
-                    <p>Box 4: Interviews and notes for Alcoholics Anonymous article and Taking Findings Back to the Field notes and interview transcripts.</p>
-                    <p>Box 5: Interview transcripts for the following articles: "Making Sense of Making Sense" article and Cross-Culturing and Self-Evaluation: The Case of Lesbian and Gay Elderly. Field notes for Robert S. Roden's "Playing in a Traveling Band." Pollner's transcripts of court proceedings concerning a child's competence to testify in court.</p>
-                    <p>Box 8: Alcoholics Anonymous field notes.</p>
-                    <p>Box 13: Traffic court notes and transcriptions of court proceedings.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref19" level="series">
-                <did>
-                    <unittitle>Research files.</unittitle>
-                    <container id="cid7998005" type="Box" label="Mixed materials">4-15</container>
-                </did>
-                <scopecontent id="ref22">
-                    <head>Scope and Content</head>
-                    <p>Materials include ethnomethodology papers and articles by Pollner's colleagues, many of which are unpublished, and his related notes.</p>
-                    <p>Box 4: Working notes for studies of observer-observed relationships and notes on inclusion and distance.</p>
-                    <p>Box 5: Aaron V. Cicourel file which includes the following drafts: "Observing the Everyday World in the Act and After the Fact: Structural and Processual Explanations of Discourse and Social Networks in Task-Oriented Environments" and "The Interpenetration of Communicative Contexts: Examples from Medical Encounters.</p>
-                    <p>Box 6: Files include articles, drafts and notes from the following colleagues: Mike Lynch, Richard A. Hilbert, Harold Garfinkel, Eric Livingston, Harvey Sacks, Scott Jacbos, Sally Jackson, Samuel Vuchinich, Max Levin, Albert B. Robillard, Edmond Wright, Jeff Coulter, D. Lawrence Wieder, Alan Blum, Deirdre Boden, James L. Heap, Michael Moerman, David Silverman, Kenneth Charles Leiter and Phillip J. Kuykendall.</p>
-                    <p>Box 7: Files include articles from the following scholars: David T. Helm, Charles Blondel and Dale Lowery.</p>
-                    <p>Box 8: "Delusions of Competence: A Socio-Behavioral Study of the Maintenance of a Deviant Belief System in a Family with a Retarded Child" by Marilyn McDonald Wikler, a bound dissertation inscribed to Mel from Lynn.</p>
-                    <p>Box 9: Files include papers, presentations and notes from the following: Paul Filmer, Michael Phillipson, Maurice Roche, Barry Sandywell, David Silverman, Larry Woods, Gail Jefferson, Seymour Papert, Albert Adato, Craig MacAndrew, Uta Gerhardt, Bob MacKay, Carlos Castaneda, Howard Schwartz, Harold Garfinkel, Roy Turner, Alan Ryave, Carol A.B. Warren, Robert M. Emerson, Bennetta Jules-Rosette, Peter Eglin, Harvey Sacks, Joan P. Emerson, J. Maxwell Atkinson, John Heritage and Jo Anne Goldberg.</p>
-                    <p>Box 10: Files include papers from the following: Timothy Anderson, Aaron V. Cicourel, Robert M. Emerson, Michael E. Lynch, Albert Adato, Ray McDermott, William D. Darrough, Howard Schwartz, Jon Driessen, James A. Holstien, Jim Heap, Bruce A. Katz, Bennetta Jules-Rosette, Jim Schenkein, John Heritage, Michael Moerman, Kenneth Leiter, Russ Rueger, Marshall Shumsky, Harvey Sacks, Jean Widmer, Anita Pomerantz and Roy Turner.</p>
-                    <p>Box 11: Files include papers from the following: Harvey Sacks, Harold Garfinkel, Gail Jefferson, Jeff Coulter, Albert B. Robillard, Thomas P. Wilson, Lindsey Churchill, John Heritage, Renee R. Anspach, Aaron V. Cicourel, Paul Drew, Dorothy E. Smith, James A. Holstein, Hugh "Bud" Mehan, Wayne A. Beach, Norbert Wiley, Richard A. Hilbert and Ethnomethodology Newsletter No. 1 compiled at the Department of Sociology, University of California, Santa Barbara.</p>
-                    <p>Box 12: Files include papers from the following: Alan F. Blum, Jeff Coulter, Louis Narens, Peter E. Lord, Bennetta Jules-Rosette, Sherri Cavan, Douglas W. Maynard, David A. Goode, William D. Darrough, D. Lawrence Wieder and Don H. Zimmerman. Materials also include a copy of Pollner's "On the Foundations of Mundane Reasoning" dissertation, Harold Garfinkel's "Some Sociological Methods for Making Everyday Activities Observable" and a binder of lectures by Harvey Sacks.</p>
-                    <p>Box 13: Files include papers by Harold Garfinkel, Louis Narens, D. Lawrence Wieder, Don H. Zimmerman, Albert B. Robillard, Joan C. Zielinski and Berkeley Journal of Sociology which includes articles by Harvey Sacks, Sherri Cavan, Marvin B. Scott, Carl Werthman and Emanuel A. Schegloff.</p>
-                    <p>Box 14: California Mental Health Research Monographs by Dorothy Miller including Words That Fail Part I: Retrospective Analysis of Mental Patients' Careers and Words That Fail Part II: Disbanded Worlds: A Study of Returns to the Mental Hospital. Materials also include a bound copy of Case Studies submitted to the Administrative Director, Southwestern Montana Drug Program and Anita Pomerantz's article, "Extreme Case Formulations: A Way of Legitimizing Claims."</p>
-                    <p>Box 15: A copy of Anita Pomerantz's paper, "Presenting 'Raw Data' as a Conversational Practice" and copies of Peter Eglin's papers, "Reality Disjunctures on Telegraph Avenue: A Study in Practical Reasoning and the Law," "Leaving Out the Interpreter's Work: A Methodological Critique of Ethnosemantics Based on Ethnomethodology" and "What Should Sociology Explain - Regularities, Rules or Interpretations?"</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref15" level="series">
-                <did>
-                    <unittitle>Drafts.</unittitle>
-                    <container id="cid7998001" type="Box" label="Mixed materials">1-5, 15</container>
-                </did>
-                <scopecontent id="ref21">
-                    <head>Scope and Content</head>
-                    <p>Pollner's handwritten and typed drafts of articles including unpublished writing.</p>
-                    <p>Box 1: The Socio-Symbolics of Athletic Courses and Psychological Well-Being, Mental Illness Reader, and Mundane Reasoning. The Mundane Reasoning files include his dissertation proposal, a binder of notes, annotated chapter drafts and proofs.</p>
-                    <p>Box 2: Tell it to the Judge: A Study of Practical Sociological Reasoning in a Municipal Court and Mundane Reasoning chapters.</p>
-                    <p>Box 3: Folder of writing entitled "Misc. Writings."</p>
-                    <p>Box 4: Notes, correspondence and proofs concerning Pollner's contribution to the Handbook of Ethnography, Doubled-Over in Laughter: Humor and the Construction of Selves in Alcoholics Anonymous, He, She and Ha: Gender Differences in the Incidence of Laughter, notes and writings on "Achieving the Observer Role," Linguistic Resources and the Interpretation of Social Reality, Symbolic Resources and the Sense of Order, Reflexivity, The Reflexivity of Constructionism and the Construction of Reflexivity, Cognitive Enterprise in a Case of Folie a Famille, Features of Reality Disjunctures and Their Resolution, Self-Explicating Settings and Family Delusions as Microcultural Systems.</p>
-                    <p>Box 5: The Worst First: Policies and Practices of Psychiatric Case Selection (with Robert M. Emerson), Explicative Transactions: Making and Managing Meaning in Traffic Court, Explicative Transactions notes, The Everyday World as Phenomenon, Sociological and Common-Sense Models of the Labeling Process, Constitutive and Mundane Versions of Labeling Theory, World Sociology Paper with notes, The Making of a Social Problem and Making Sense of Making Sense: Explorations of Members' Methods for Sustaining a Sense of Social Order.</p>
-                    <p>Box 15: Typescript of "'The Very Coinage of Your Brain': The Resolution of Reality Disjunctures," and a folder of handwritten and typed pages in a file labeled Schematizing Experience in Terms of Mundane Reason.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref16" level="series">
-                <did>
-                    <unittitle>Reprints.</unittitle>
-                    <container id="cid7998002" type="Box" label="Mixed materials">1, 4-5</container>
-                </did>
-                <scopecontent id="ref20">
-                    <head>Scope and Content</head>
-                    <p>Reprints by Pollner.</p>
-                    <p>Box 1: The Effect of Spouse Presence on Appraisals of Emotional Support and Household Strain, Divine Relations, Social Relations and Well Being, The Interpersonal Context of Mental Health Interviews, The Effects of Interviewer Gender in Mental Health Interviews and Cross-Culturing and Self-Evaluation: The Case of Lesbian and Gay Elderly.</p>
-                    <p>Box 4: Left of Ethnomethodology: The Rise and Decline of Radical Reflexivity, The Self We Live By: Narrative Identity in a Postmodern World book review, Inside the Bubble: Communion, Cognition, and Deep Play at the Intersection of Wall Street and Cyberspace, Constructing Participant/Observation Relations and 'The Very Coinage of Your Brain': The Anatomy of Reality-Disjunctures.</p>
-                    <p>Box 5: The Social Construction of Unreality: A Case Study of a Family's Attribution of Competence to a Severely Retarded Child, Narrative Mapping of Social Worlds: The Voice of Experience in Alcoholics Anonymous, A World Without Words and the World with Words, Policies and Practices of Psychiatric Case Selection, Dirty Work Designations: Their Features and Consequences in a Psychiatric Setting, Ethnomethodology and Person-Centering Practices, Difference and Dialogue: Members' Readings of Ethnographic Texts, On the Uses of Members' Responses to Researchers' Accounts, Constitutive and Mundane Versions of Labeling Theory, The Everyday World as Phenomenon, Mundane Reasoning and Explicative Transactions: Making and Managing Meaning in Traffic Court.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref17" level="series">
-                <did>
-                    <unittitle>Academic course materials.</unittitle>
-                    <container id="cid7998003" type="Box" label="Mixed materials">1-5, 7-8, 12, 14</container>
-                </did>
-                <scopecontent id="ref18">
-                    <head>Scope and Content</head>
-                    <p>Materials include lecture notes, syllabi, readings and student work for Sociology, Ethnomethodology and Communication Studies courses taught by Pollner.</p>
-                    <p>Box 1: UCLA student dissertations include Identity Work Among Homosexual Elderly by Dana Rosenfeld and Rock Musician Careers: The Culture of the Long-Term Professional by Jill Marie Stein.</p>
-                    <p>Box 2: UCLA lecture notes on the rhetoric of objectivity, analysis of Solomon, practicality as a constituent feature, specification of a fatuity and truth. Simulated excuses exercise student work file. Syllabi, readings and lecture notes for Sociology 191: Humor and Laughter and Communication Studies 197G: Humor and Laughter. Sociology 184: Seminar on the Sociology of Humor ungraded student papers annotated by Pollner.</p>
-                    <p>Box 3: Boston University Ethnomethodology course syllabus, Sociology 267 annotated reader, Sociology of Knowledge lectures, Sociology of Science course notes, Reflexivity and Post-structuralism annotated reader, Sociology 222 lecture notes, annotated readings, final exams, syllabi, case studies and class exercises, Sociology 149: Analyses of Belief Structures and Analyses of Practical Activities student papers.</p>
-                    <p>Box 4: Sociology 157 Socio-Somatics papers and notes.</p>
-                    <p>Box 5: Sociology 197 and Communication Studies 197G exercises and project guidelines for courses on humor. Sociology of Consciousness course notes. Sociology 159 syllabi, paper guidelines and notes.</p>
-                    <p>Box 7: Sociology 148/157: Sociology of Mental Illness PowerPoint slide printouts and lecture notes concerning stress, family response, biological/psychological models, societal reaction, mental health establishment and treatment. Sociology 284: Topics in Mental Health and Illness materials include syllabi, notes, lecture notes and student papers. Sociology 184D: Social Structure and Subjectivity materials include syllabi, notes and lecture outlines. Sociology 197: Self and Society materials include lecture note outlines, presentations, exams and annotated readings.</p>
-                    <p>Box 8: Sociology 197: Self and Society reader and lecture notes; Sociology 223: Mind and Body seminar notes, outlines and syllabus; Sociology 159: Sociology of Knowledge reading lists, exams and syllabus and Sociology 220: Sites of Selfing discussion guides and lecture notes.</p>
-                    <p>Box 12: Student "Heap" journal includes Pollner's notes on sociological theories and course assignments, file of Pollner's notes on ethnomethodology and theorists, Sociology 202 notes and Sociology 271: Introduction to Ethnomethodology notes.</p>
-                    <p>Box 14: Sociology 149/Sociology 17 and Sociology 154 lecture notes, class exercises, midterms, finals and copies of readings.</p>
-                </scopecontent>
-            </c01>
-            <c01 id="ref23" level="series">
-                <did>
-                    <unittitle>Open reel audio tapes.</unittitle>
-                    <container id="cid8006001" type="Box" label="Mixed materials">16-17</container>
-                </did>
-                <scopecontent id="ref24">
-                    <head>Scope and Content</head>
-                    <p>Box 16: Fourteen tapes. Ten concern Pollner's traffic court field studies, one is a Harold Garfinkel talk with a question and answer session, another includes a note to Garfinkel and two are unidentifed.</p>
-                    <p>Box 17: Twelve tapes concerning Pollner's traffic court field studies.</p>
-                </scopecontent>
-                <phystech id="ref25">
-                    <head>Physical Characteristics and Technical Requirements</head>
-                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
-                </phystech>
-            </c01>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://www.oac.cdlib.org/findaid/ark:/13030/c8pk0n81/">poll2184.xml</eadid><filedesc><titlestmt><titleproper type="filing">Pollner (Melvin) papers</titleproper><titleproper>Finding Aid for the Melvin Pollner papers <num>LSC.2184</num></titleproper><author>Finding aid prepared by Kelly Besser with assistance from Kamarin Takahara, 2013; final revisions made by Angel Diaz, 2017.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>18 August 2017</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-03-27 11:51:36 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Melvin Pollner papers</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="naf">Pollner, Melvin</persname>
+    </origination>
+    <unitid>LSC.2184</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">15 linear feet</extent>
+      <extent altrender="carrier">(Fourteen record cartons, two document boxes and one half size document box)</extent>
+    </physdesc>
+    <unitdate certainty="approximate" datechar="creation" normal="1967/2007" type="inclusive">circa 1967-2007</unitdate>
+    <abstract id="aspace_dc455fbfc59cbb1c9306c4bed921c6b1" label="Abstract">Melvin Pollner was a UCLA Professor of Sociology for nearly 40 years and a leading practitioner of ethnomethodology, one of the department's signature specialties. The collection consists of field notes, research files of ethnomethodology papers and notes, Pollner's drafts and reprints, his Mundane Reasoning dissertation files, Sociology course materials and audio tapes from traffic court studies.</abstract>
+    <physloc id="aspace_7c4c2183dc5fcbae3427f2c77b471cfd" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_3020bf3430360880528b9db05f60b59c">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_819e8b1ed3be0e87040f130eae4a6d80">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <phystech id="aspace_942abfd1ff666f97bb689f9bc0c358f3">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>CONTAINS UNPROCESSED AUDIOVISUAL MATERIALS: Audiovisual materials are not currently available for access and will require further processing and assessment. If you have questions about this material please email spec-coll@library.ucla.edu.</p>  </phystech>
+  <userestrict id="aspace_82ab2664aec6ca4597cfc088fb3f7b2b">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_3902a5bfb3f28bd44c00ab02cede3b8a">
+    <head>Provenance/Source of Acquisition</head>
+<p>Judy A. Pollner, 2008.</p>  </acqinfo>
+  <odd id="aspace_4b473c5fc1be0ede6ff059633383aca3">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9973459273606533">9973459273606533</extref></p>  </odd>
+  <prefercite id="aspace_35a1c9216ca49fcbb30f4b8aa1cab5cc">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Melvin Pollner papers (Collection 2184). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_acde508f7a027d42d103520dc36ff6e3">
+    <head>Processing Information</head>
+<p>Processed by Kelly Besser with assistance from Kamarin Takahara, 2013; final revisions made by Angel Diaz, 2017.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_92cb6d23a4f19bfd2b89c67c620d8914">
+    <head>Biography/History</head>
+<p>Melvin Pollner was born on October 13, 1940, in the Bronx neighborhood of New York City. He attended the Bronx High School of Science and earned a bachelor's degree in sociology from the City College of New York. He went on to earn a master's degree in sociology from UC Berkeley and a PhD in sociology from UC Santa Barbara. He joined the UCLA Department of Sociology in 1968 where he taught for nearly 40 years. </p><p>In the early 1980s, as part of the reorganization of the Department's graduate program, faculty organized themselves into areas of common interest. One of these areas focused on ethnomethodological, phenomenological and observational sociologies (EPOS) and included the following professors as affiliated faculty: Melvin Pollner, Harold Garfinkel, Robert Emerson, Jack Katz and Emanuel Schegloff. Pollner taught Sociology 271, one of the introductory courses in this area that grappled with fundamental ideas and concerns which animate ethnomethodological and phenomenological investigations. Pollner's course featured guest presentations by the aforementioned faculty and included topics such as "The world of everyday life and the problem of rationality," "Rules, norms and tacit knowledge" and "Speaking and discourse."</p><p>Professor Pollner's primary research interests were the sociology of mental illness; self and identity; ethnomethodology; and toward the end of his career, economic sociology. His work in these areas included studies of psychiatric emergency teams, the construction of reality in families, making and managing meaning in traffic court, the impact of religious beliefs on psychological well-being, and narrative practices in Alcoholics Anonymous. </p><p>UCLA Department of Sociology colleague and longtime collaborator, Professor Emeritus Robert Emerson described Pollner as deeply committed to sociology and specifically to ethnomethodology. Emerson remembers that Pollner described ethnomethodology as follows: "The study of the practices used to craft whatever participants in particular settings recognize as intelligible, meaningful and real." According to Emerson, this meant "understanding all social matters -- gender and social class, reality and truth -- not as fixed objects or facts, but as meanings people create and sustain in interaction with one another."</p><p>Melvin Pollner died at the UCLA Medical Center on November 2, 2007. The Melvin Pollner Prize in Ethnomethodology was created in 2009 and awarded every other year beginning in 2010 to the author of an article, chapter or book that develops original work resonant with Pollner's interests in topics such as mundane reason, reality disjunctures, radical reflexivity and the connections and contributions of ethnomethodology to other types of sociology.</p>  </bioghist>
+  <scopecontent id="aspace_763491e7d5170c23cb47540df8ec94e6">
+    <head>Scope and Content</head>
+<p>The collection includes field notes, research files of ethnomethodology papers and notes, Pollner's drafts and reprints, his Mundane Reasoning dissertation files, Sociology course materials and audio tapes from traffic court studies.</p>  </scopecontent>
+  <arrangement id="aspace_b05420387a21bcf2b1a8aad3d06f3796">
+    <head>Organization and Arrangement</head>
+<p>The collection has been arranged in the following series:
+<list type="simple">
+<item>1. Field notes.</item>
+<item>2. Research files.</item>
+<item>3. Drafts.</item>
+<item>4. Reprints.</item>
+<item>5. Academic course materials.</item>
+<item>6. Open reel audio tapes.</item>
+</list></p>  </arrangement>
+  <relatedmaterial id="aspace_3284ed6b8a52017393a7b2548979cfb3">
+    <head>Related Material</head>
+<p><extref xlink:href="http://www.oac.cdlib.org/findaid/ark:/13030/kt087015p0/" xlink:actuate="onRequest" xlink:show="new">Harold Garfinkel Papers (Collection 1273).</extref> Available at Library Special Collections, UCLA.</p><p><extref xlink:href="http://www.oac.cdlib.org/findaid/ark:/13030/c8qc08kr/" xlink:actuate="onRequest" xlink:show="new">Gail Jefferson papers (Collection 2319)</extref> Available at Library Special Collections, UCLA.</p><p><extref xlink:href="http://www.oac.cdlib.org/findaid/ark:/13030/tf8s2009gs/" xlink:actuate="onRequest" xlink:show="new">Harvey Sacks Papers (Collection 1678).</extref> Available at Library Special Collections, UCLA.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Traffic courts -- Social aspects -- Case studies. </subject>
+    <subject source="lcsh">Ethnomethodology -- Research.</subject>
+    <occupation source="lcsh">Sociologists -- California -- Los Angeles -- Archives.</occupation>
+    <subject source="lcnaf">University of California, Los Angeles. Department of Sociology -- Faculty -- Archives.</subject>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref13_wqp" level="series"><did><unittitle>Field notes.</unittitle><container id="aspace_f0bd6547fd11a1426c7fbd4faef02785" label="Mixed Materials" type="box">1</container><container id="aspace_1d1b1c97eb67287cb271cbe394662e47" label="Mixed Materials" type="box">2</container><container id="aspace_258e3d3c8198890fe97fff7aad524648" label="Mixed Materials" type="box">4</container><container id="aspace_a3fca509ba7b7a902a8fd81a2418e35e" label="Mixed Materials" type="box">5</container><container id="aspace_2d8c3beb93b07c57f1705fdd7f0be82e" label="Mixed Materials" type="box">8</container><container id="aspace_0d305895e8a59dfb5e5c73b1bd00cecd" label="Mixed Materials" type="box">13</container></did><scopecontent id="aspace_1fb3aaf610f25e2a8dee1cabf52be398"><head>Scope and Content</head><p>Materials include Pollner's field notes for studies which include data sets used for articles.</p><p>Box 1: Includes the following folders: Stress and Religiosity, Religious Belief and Well Being, Mental Illness and Divine Relations.</p><p>Box 2: Traffic court transaction notes.</p><p>Box 4: Interviews and notes for Alcoholics Anonymous article and Taking Findings Back to the Field notes and interview transcripts.</p><p>Box 5: Interview transcripts for the following articles: "Making Sense of Making Sense" article and Cross-Culturing and Self-Evaluation: The Case of Lesbian and Gay Elderly. Field notes for Robert S. Roden's "Playing in a Traveling Band." Pollner's transcripts of court proceedings concerning a child's competence to testify in court.</p><p>Box 8: Alcoholics Anonymous field notes.</p><p>Box 13: Traffic court notes and transcriptions of court proceedings.</p></scopecontent></c01><c01 id="aspace_ref19_ewc" level="series"><did><unittitle>Research files.</unittitle><container id="aspace_81f3ba1275baca8083d846e527ffcaa2" label="Mixed Materials" type="box">4</container><container id="aspace_810c24eb3cf126e8af6e5c515fe66e9d" label="Mixed Materials" type="box">5</container><container id="aspace_b1a3c2f0181d4b5d87eb156e7c6220f4" label="Mixed Materials" type="box">6</container><container id="aspace_41ccc82fe38ef2f68cb04bd9cae05638" label="Mixed Materials" type="box">7</container><container id="aspace_e92475c3506ab4e705a5dc5a2104d72c" label="Mixed Materials" type="box">8</container><container id="aspace_b1cc81247c1ce497cd56f74516990ad1" label="Mixed Materials" type="box">9</container><container id="aspace_047a8ba070b77ccc7688b9992935f8ee" label="Mixed Materials" type="box">10</container><container id="aspace_c2a3a5a58b103e592c21a4ffe657353c" label="Mixed Materials" type="box">11</container><container id="aspace_cc38c51f8458044bec810a042521a49e" label="Mixed Materials" type="box">12</container><container id="aspace_4f35dbf55b08c69c396a38fb008b2f82" label="Mixed Materials" type="box">13</container><container id="aspace_4407eebe498af29740faa662b391ee9b" label="Mixed Materials" type="box">14</container><container id="aspace_21a73372302c3ab42b386aa10d571970" label="Mixed Materials" type="box">15</container></did><scopecontent id="aspace_509eb0ec913f4a3b450943377b125227"><head>Scope and Content</head><p>Materials include ethnomethodology papers and articles by Pollner's colleagues, many of which are unpublished, and his related notes.</p><p>Box 4: Working notes for studies of observer-observed relationships and notes on inclusion and distance.</p><p>Box 5: Aaron V. Cicourel file which includes the following drafts: "Observing the Everyday World in the Act and After the Fact: Structural and Processual Explanations of Discourse and Social Networks in Task-Oriented Environments" and "The Interpenetration of Communicative Contexts: Examples from Medical Encounters.</p><p>Box 6: Files include articles, drafts and notes from the following colleagues: Mike Lynch, Richard A. Hilbert, Harold Garfinkel, Eric Livingston, Harvey Sacks, Scott Jacbos, Sally Jackson, Samuel Vuchinich, Max Levin, Albert B. Robillard, Edmond Wright, Jeff Coulter, D. Lawrence Wieder, Alan Blum, Deirdre Boden, James L. Heap, Michael Moerman, David Silverman, Kenneth Charles Leiter and Phillip J. Kuykendall.</p><p>Box 7: Files include articles from the following scholars: David T. Helm, Charles Blondel and Dale Lowery. </p><p>Box 8: "Delusions of Competence: A Socio-Behavioral Study of the Maintenance of a Deviant Belief System in a Family with a Retarded Child" by Marilyn McDonald Wikler, a bound dissertation inscribed to Mel from Lynn.</p><p>Box 9: Files include papers, presentations and notes from the following: Paul Filmer, Michael Phillipson, Maurice Roche, Barry Sandywell, David Silverman, Larry Woods, Gail Jefferson, Seymour Papert, Albert Adato, Craig MacAndrew, Uta Gerhardt, Bob MacKay, Carlos Castaneda, Howard Schwartz, Harold Garfinkel, Roy Turner, Alan Ryave, Carol A.B. Warren, Robert M. Emerson, Bennetta Jules-Rosette, Peter Eglin, Harvey Sacks, Joan P. Emerson, J. Maxwell Atkinson, John Heritage and Jo Anne Goldberg.</p><p>Box 10: Files include papers from the following: Timothy Anderson, Aaron V. Cicourel, Robert M. Emerson, Michael E. Lynch, Albert Adato, Ray McDermott, William D. Darrough, Howard Schwartz, Jon Driessen, James A. Holstien, Jim Heap, Bruce A. Katz, Bennetta Jules-Rosette, Jim Schenkein, John Heritage, Michael Moerman, Kenneth Leiter, Russ Rueger, Marshall Shumsky, Harvey Sacks, Jean Widmer, Anita Pomerantz and Roy Turner.</p><p>Box 11: Files include papers from the following: Harvey Sacks, Harold Garfinkel, Gail Jefferson, Jeff Coulter, Albert B. Robillard, Thomas P. Wilson, Lindsey Churchill, John Heritage, Renee R. Anspach, Aaron V. Cicourel, Paul Drew, Dorothy E. Smith, James A. Holstein, Hugh "Bud" Mehan, Wayne A. Beach, Norbert Wiley, Richard A. Hilbert and Ethnomethodology Newsletter No. 1 compiled at the Department of Sociology, University of California, Santa Barbara.</p><p>Box 12: Files include papers from the following: Alan F. Blum, Jeff Coulter, Louis Narens, Peter E. Lord, Bennetta Jules-Rosette, Sherri Cavan, Douglas W. Maynard, David A. Goode, William D. Darrough, D. Lawrence Wieder and Don H. Zimmerman. Materials also include  a copy of Pollner's "On the Foundations of Mundane Reasoning" dissertation, Harold Garfinkel's "Some Sociological Methods for Making Everyday Activities Observable" and a binder of lectures by Harvey Sacks.</p><p>Box 13: Files include papers by Harold Garfinkel, Louis Narens, D. Lawrence Wieder, Don H. Zimmerman, Albert B. Robillard, Joan C. Zielinski and Berkeley Journal of Sociology which includes articles by Harvey Sacks, Sherri Cavan, Marvin B. Scott, Carl Werthman and Emanuel A. Schegloff.</p><p>Box 14: California Mental Health Research Monographs by Dorothy Miller including Words That Fail Part I: Retrospective Analysis of Mental Patients' Careers and Words That Fail Part II: Disbanded Worlds: A Study of Returns to the Mental Hospital. Materials also include a bound copy of Case Studies submitted to the Administrative Director, Southwestern Montana Drug Program and Anita Pomerantz's article, "Extreme Case Formulations: A Way of Legitimizing Claims."</p><p>Box 15: A copy of Anita Pomerantz's paper, "Presenting 'Raw Data' as a Conversational Practice" and copies of Peter Eglin's papers, "Reality Disjunctures on Telegraph Avenue: A Study in Practical Reasoning and the Law,"  "Leaving Out the Interpreter's Work: A Methodological Critique of Ethnosemantics Based on Ethnomethodology" and "What Should Sociology Explain - Regularities, Rules or Interpretations?"</p></scopecontent></c01><c01 id="aspace_ref15_vk3" level="series"><did><unittitle>Drafts.</unittitle><container id="aspace_b3d01b53b48cae764d868b0ee162c214" label="Mixed Materials" type="box">1</container><container id="aspace_e61f0d63a770c3c2a44943ad3b57d8dc" label="Mixed Materials" type="box">2</container><container id="aspace_3da5c818ae5ecd3068603988d9e5a9f3" label="Mixed Materials" type="box">3</container><container id="aspace_eaebe409aae8c833c8dbdcf0744f06fa" label="Mixed Materials" type="box">4</container><container id="aspace_7b2a60314e1b395ba1b6ad0c2d6bbea5" label="Mixed Materials" type="box">5</container><container id="aspace_ffe7fe62ea81c76031641a668c64c7df" label="Mixed Materials" type="box">15</container></did><scopecontent id="aspace_4d6365e5bed5b0c2a0225e54cd608d54"><head>Scope and Content</head><p>Pollner's handwritten and typed drafts of articles including unpublished writing.</p><p>Box 1: The Socio-Symbolics of Athletic Courses and Psychological Well-Being, Mental Illness Reader, and Mundane Reasoning. The Mundane Reasoning files include his dissertation proposal, a binder of notes, annotated chapter drafts and proofs.</p><p>Box 2: Tell it to the Judge: A Study of Practical Sociological Reasoning in a Municipal Court and Mundane Reasoning chapters.</p><p>Box 3: Folder of writing entitled "Misc. Writings." </p><p>Box 4: Notes, correspondence and proofs concerning Pollner's contribution to the Handbook of Ethnography, Doubled-Over in Laughter: Humor and the Construction of Selves in Alcoholics Anonymous, He, She and Ha: Gender Differences in the Incidence of Laughter, notes and writings on "Achieving the Observer Role," Linguistic Resources and the Interpretation of Social Reality, Symbolic Resources and the Sense of Order, Reflexivity, The Reflexivity of Constructionism and the Construction of Reflexivity, Cognitive Enterprise in a Case of Folie a Famille, Features of Reality Disjunctures and Their Resolution, Self-Explicating Settings and Family Delusions as Microcultural Systems.</p><p>Box 5: The Worst First: Policies and Practices of Psychiatric Case Selection (with Robert M. Emerson), Explicative Transactions: Making and Managing Meaning in Traffic Court, Explicative Transactions notes, The Everyday World as Phenomenon, Sociological and Common-Sense Models of the Labeling Process, Constitutive and Mundane Versions of Labeling Theory, World Sociology Paper with notes, The Making of a Social Problem and Making Sense of Making Sense: Explorations of Members' Methods for Sustaining a Sense of Social Order. </p><p>Box 15: Typescript of "'The Very Coinage of Your Brain': The Resolution of Reality Disjunctures," and a folder of handwritten and typed pages in a file labeled Schematizing Experience in Terms of Mundane Reason.</p></scopecontent></c01><c01 id="aspace_ref16_c0d" level="series"><did><unittitle>Reprints.</unittitle><container id="aspace_40a681a1cbb0c0a06729fcf6397cffa8" label="Mixed Materials" type="box">1</container><container id="aspace_405ecb26c3535e49a62442719daadd46" label="Mixed Materials" type="box">4</container><container id="aspace_ec980b679356983b1231a52c0c034f04" label="Mixed Materials" type="box">5</container></did><scopecontent id="aspace_11b218f9742370a5e160cd9639c3df9b"><head>Scope and Content</head><p>Reprints by Pollner.</p><p>Box 1: The Effect of Spouse Presence on Appraisals of Emotional Support and Household Strain, Divine Relations, Social Relations and Well Being, The Interpersonal Context of Mental Health Interviews, The Effects of Interviewer Gender in Mental Health Interviews and Cross-Culturing and Self-Evaluation: The Case of Lesbian and Gay Elderly.</p><p>Box 4: Left of Ethnomethodology: The Rise and Decline of Radical Reflexivity, The Self We Live By: Narrative Identity in a Postmodern World book review, Inside the Bubble: Communion, Cognition, and Deep Play at the Intersection of Wall Street and Cyberspace, Constructing Participant/Observation Relations and 'The Very Coinage of Your Brain': The Anatomy of Reality-Disjunctures.</p><p>Box 5: The Social Construction of Unreality: A Case Study of a Family's Attribution of Competence to a Severely Retarded Child, Narrative Mapping of Social Worlds: The Voice of Experience in Alcoholics Anonymous, A World Without Words and the World with Words, Policies and Practices of Psychiatric Case Selection, Dirty Work Designations: Their Features and Consequences in a Psychiatric Setting, Ethnomethodology and Person-Centering Practices, Difference and Dialogue: Members' Readings of Ethnographic Texts, On the Uses of Members' Responses to Researchers' Accounts, Constitutive and Mundane Versions of Labeling Theory, The Everyday World as Phenomenon, Mundane Reasoning and Explicative Transactions: Making and Managing Meaning in Traffic Court.</p></scopecontent></c01><c01 id="aspace_ref17_k1k" level="series"><did><unittitle>Academic course materials.</unittitle><container id="aspace_6d388ec816c05b05e338f8db37a49216" label="Mixed Materials" type="box">1</container><container id="aspace_4d8be8617fb56a3b9ddc804d3fb3257e" label="Mixed Materials" type="box">2</container><container id="aspace_ba1e42f618a0a3071fbe24168dd55c6f" label="Mixed Materials" type="box">3</container><container id="aspace_d5bad21deb2299336ce7580ab8a975b5" label="Mixed Materials" type="box">4</container><container id="aspace_93f2b522ae4baeb2d9e4bf94536ab583" label="Mixed Materials" type="box">5</container><container id="aspace_f5c138832ada49796e736c97942ddacd" label="Mixed Materials" type="box">7</container><container id="aspace_2d1bf7322d653f26062392895f49ef0f" label="Mixed Materials" type="box">8</container><container id="aspace_a4a24dbd51595af062ac3dc0c442f01a" label="Mixed Materials" type="box">12</container><container id="aspace_ca20ba84dba6d5ad7da7362d47c07b08" label="Mixed Materials" type="box">14</container></did><scopecontent id="aspace_243e183718ae30561fba5895cf3512a1"><head>Scope and Content</head><p>Materials include lecture notes, syllabi, readings and student work for Sociology, Ethnomethodology and Communication Studies courses taught by Pollner.</p><p>Box 1: UCLA student dissertations include Identity Work Among Homosexual Elderly by Dana Rosenfeld and Rock Musician Careers: The Culture of the Long-Term Professional by Jill Marie Stein.</p><p>Box 2: UCLA lecture notes on the rhetoric of objectivity, analysis of Solomon, practicality as a constituent feature, specification of a fatuity and truth. Simulated excuses exercise student work file. Syllabi, readings and lecture notes for Sociology 191: Humor and Laughter and Communication Studies 197G: Humor and Laughter. Sociology 184: Seminar on the Sociology of Humor ungraded student papers annotated by Pollner.</p><p>Box 3: Boston University Ethnomethodology course syllabus, Sociology 267 annotated reader, Sociology of Knowledge lectures, Sociology of Science course notes, Reflexivity and Post-structuralism annotated reader, Sociology 222 lecture notes, annotated readings, final exams, syllabi, case studies and class exercises, Sociology 149: Analyses of Belief Structures and Analyses of Practical Activities student papers.</p><p>Box 4: Sociology 157 Socio-Somatics papers and notes.</p><p>Box 5: Sociology 197 and Communication Studies 197G exercises and project guidelines for courses on humor. Sociology of Consciousness course notes. Sociology 159 syllabi, paper guidelines and notes.</p><p>Box 7: Sociology 148/157: Sociology of Mental Illness PowerPoint slide printouts and lecture notes concerning stress, family response, biological/psychological models, societal reaction, mental health establishment and treatment. Sociology 284: Topics in Mental Health and Illness materials include syllabi, notes, lecture notes and student papers. Sociology 184D: Social Structure and Subjectivity materials include syllabi, notes and lecture outlines. Sociology 197: Self and Society materials include lecture note outlines, presentations, exams and annotated readings.</p><p>Box 8: Sociology 197: Self and Society reader and lecture notes; Sociology 223: Mind and Body seminar notes, outlines and syllabus; Sociology 159: Sociology of Knowledge reading lists, exams and syllabus and Sociology 220: Sites of Selfing discussion guides and lecture notes.</p><p>Box 12: Student "Heap" journal includes Pollner's notes on sociological theories and course assignments, file of Pollner's notes on ethnomethodology and theorists, Sociology 202 notes and Sociology 271: Introduction to Ethnomethodology notes.</p><p>Box 14: Sociology 149/Sociology 17 and Sociology 154 lecture notes, class exercises, midterms, finals and copies of readings.</p></scopecontent></c01><c01 id="aspace_ref23_uqp" level="series"><did><unittitle>Open reel audio tapes.</unittitle><container id="aspace_041db91bbc8444f12339be9db6931835" label="Mixed Materials" type="box">16</container><container id="aspace_f880753fda897d52e78bc706d58c1b93" label="Mixed Materials" type="box">17</container></did><scopecontent id="aspace_708c69030f37241af5202f9de78e368b"><head>Scope and Content</head><p>Box 16: Fourteen tapes. Ten concern Pollner's traffic court field studies, one is a Harold Garfinkel talk with a question and answer session, another includes a note to Garfinkel and two are unidentifed.</p><p>Box 17: Twelve tapes concerning Pollner's traffic court field studies.</p></scopecontent><phystech id="aspace_403a99b5bfacddcd92754a264614e3a5"><head>Physical Characteristics and Technical Requirements</head><p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p></phystech></c01></dsc>
+</archdesc>
 </ead>
