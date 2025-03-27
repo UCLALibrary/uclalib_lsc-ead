@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8pv6r0q/">harm2181.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Har-ma Press records
+                    <num>LSC.2181</num>
+                </titleproper>
+                <titleproper type="filing">Har-ma Press records</titleproper>
+                <author>Finding aid prepared by Jimmy Zavala under the supervision of Kelly Kress; machine-readable finding aid created by Caroline Cubé..</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Finding aid last updated 25 July 2016.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-08-11T10:42-0700</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Har-ma Press Records</unittitle>
+            <unitid>LSC.2181</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.2 linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate>1979-1984</unitdate>
+            <abstract id="ref3" label="Abstract">Correspondence between Muir Dawson, Harold Smith, and Roger Levenson, and other documents regarding the development, manufacture and sale of the Har-ma printing press.</abstract>
+            <langmaterial id="ref53" label="Language of Materials">English</langmaterial>
+            <physloc id="ref50" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+            <origination label="Creator">
+                <corpname rules="aacr" source="naf">Har-Ma Press.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref52">
+            <head>Restrictions on Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+        </accessrestrict>
+        <userestrict id="ref9">
+            <head>Restrictions on Use and Reproduction</head>
+            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref11">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Har-ma Press Records (Collection 2181). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <odd id="ref54">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7816482">7816482</extref></p>
+        </odd>
+        <acqinfo id="ref10">
+            <head>Provenance/Source of Acquisition</head>
+            <p>Purchase, 2013.</p>
+        </acqinfo>
+        <bioghist id="ref4">
+            <head>Biography/History</head>
+            <p>The Har-ma Press was invented in the late 1970s by Harold Smith, an engineer from Sacramento, California. The name of the press is derived from the first three letters of Harold Smith's first name and the last two letters of his wife, Alma's first name. Harold and Alma Smith worked closely as authors and printers.</p>
+            <p>In 1978, the Har-ma caught the eye of Roger Levenson, printer and proprietor of Tamalpais Press, during a demonstration by Smith at a printer's fair. Levenson immediately ordered one for himself, and Smith subsequently consulted Levenson on design improvements as he built additional presses. Levenson also recommended the Har-ma to Muir Dawson, owner and operator of Dawson's Bookshop in Los Angeles. Dawson purchased a Har-ma press for the bookshop, and arranged the sale of several others, including one to UCLA. Smith built a total of 15 presses: a prototype numbered 0 and numbers 1-16, but no number 13. Harold Smith died in 1999.</p>
+            <p></p>
+        </bioghist>
+        <scopecontent id="ref6">
+            <head>Scope and Content</head>
+            <p>Materials documenting the development of the Har-ma printing press, invented by Harold Smith. Includes sales information, correspondence documenting bookseller Muir Dawson's relationship with Harold Smith during the years Smith built the presses, operating instructions, a list of the locations of each press, and two artists' books produced on a Har-ma press.</p>
+        </scopecontent>
+        <arrangement id="ref5">
+            <head>Arrangement note</head>
+            <p>Collection arranged by subject.</p>
+        </arrangement>
+        <controlaccess>
+            <persname rules="rda" source="naf">Dawson, Muir</persname>
+            <persname rules="aacr" source="naf">Levenson, Roger, 1914-1994</persname>
+            <persname source="ingest">Smith, Harold</persname>
+            <subject source="lcsh">Hand presses</subject>
+            <subject source="lcsh">Printing presses </subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>Correspondence between Muir Dawson and Roger Levenson</unittitle>
+                    <container id="cid10094011" type="Box" label="Text">1</container>
+                    <container parent="cid10094011" type="Folder">1</container>
+                    <unitdate>1979-1984</unitdate>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>9 letters and 4 postcards exchanged between Muir Dawson and Roger Levenson about the Har-ma Press.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>Correspondence between Muir Dawson and Harold Smith</unittitle>
+                    <container id="cid10094010" type="Box" label="Text">1</container>
+                    <container parent="cid10094010" type="Folder">2</container>
+                    <unitdate>1979-1982</unitdate>
+                </did>
+                <scopecontent id="ref18">
+                    <head>Scope and Contents note</head>
+                    <p>5 Letters exchanged between Muir Dawson and Harold Smith regarding acquisitions of presses for various clients. Also included is one handwritten thank you note from Smith to Dawson as well as another handwritten note from Harold and Alma Smith to the Dawsons.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref20" level="file">
+                <did>
+                    <unittitle>Correspondence between Muir Dawson and Jean P. Whyte</unittitle>
+                    <container id="cid10094009" type="Box" label="Text">1</container>
+                    <container parent="cid10094009" type="Folder">3</container>
+                    <unitdate>1982-1983</unitdate>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Contents note</head>
+                    <p>13 Letters exchanged between Muir Dawson and Jean P. Whyte, a professor from Monash University in Victoria, Australia, regarding the sale of Har-ma Press #11 to Monash University.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Correspondences regarding interest in Har-ma Press.</unittitle>
+                    <container id="cid10094008" type="Box" label="Text">1</container>
+                    <container parent="cid10094008" type="Folder">4</container>
+                    <unitdate>1979-1982</unitdate>
+                </did>
+                <scopecontent id="ref26">
+                    <head>Scope and Contents note</head>
+                    <p>7 letters between multiple individuals. The bulk of the letters demonstrate interest by different people in acquiring a Har-ma Press. A couple of letters concern the sale of Har-Ma Press #8 to UCLA professor of Spanish, Enrique Cepeda.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref28" level="file">
+                <did>
+                    <unittitle>Annotated Letter about missing press # 13.</unittitle>
+                    <container id="cid10094007" type="Box" label="Text">1</container>
+                    <container parent="cid10094007" type="Folder">5</container>
+                    <unitdate>1984</unitdate>
+                </did>
+                <scopecontent id="ref30">
+                    <head>Scope and Contents note</head>
+                    <p>This letter between Roger Levenson and an unknown correspondent documents the locations of all 15 Har-ma presses that Smith built. The letter also contains a notation in Muir Dawson's hand about the missing press # 13 that reads as follows: "9/23/84 Roger says Harold tells him there is no # 13."</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref31" level="file">
+                <did>
+                    <unittitle>Messages in Wood</unittitle>
+                    <container id="cid10094006" type="Box" label="Text">1</container>
+                    <container parent="cid10094006" type="Folder">6</container>
+                    <unitdate>1979</unitdate>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Contents note</head>
+                    <p>A book of text and images written and drawn by the Smiths and produced by Harold and Alma on a Har-ma Press.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>The Har-ma Press</unittitle>
+                    <container id="cid10094005" type="Box" label="Text">1</container>
+                    <container parent="cid10094005" type="Folder">7</container>
+                    <unitdate>1981</unitdate>
+                    <physdesc id="ref36" label="General Physical Description note">Pamphlet. 5 5/8 x 3 3/4 inches, (14) pp. Illustrated. Green printed wrappers, stitched, with a blind-stamped image of a Har-Ma press on the front cover.</physdesc>
+                </did>
+                <scopecontent id="ref37">
+                    <head>Scope and Contents note</head>
+                    <p>Limited edition of 150 copies printed on Har-ma Press number 8 (UCLA Horn Press) as a keepsake for the members of the Rounce and Coffin Club.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref38" level="file">
+                <did>
+                    <unittitle>Publicity</unittitle>
+                    <container id="cid10094004" type="Box" label="Text">1</container>
+                    <container parent="cid10094004" type="Folder">8</container>
+                    <unitdate>1978-1985</unitdate>
+                </did>
+                <scopecontent id="ref40">
+                    <head>Scope and Contents note</head>
+                    <p>Includes drafts of two articles written by Muir Dawson and Roger Levenson in the UCLA Librarian and Fine Print Magazine, with original artwork for the latter. There are 7 copies of the article in the UCLA Librarian. Also included is a letterhead with a photograph of a Har-ma Press for sale purposes in the Printer’s Fair, Marin County, 11/5/78. Four photocopies of this letterhead are included.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref41" level="file">
+                <did>
+                    <unittitle>Har-ma Press Sales</unittitle>
+                    <container id="cid10094003" type="Box" label="Text">1</container>
+                    <container parent="cid10094003" type="Folder">9</container>
+                    <unitdate>1980-1983</unitdate>
+                </did>
+                <scopecontent id="ref43">
+                    <head>Scope and Contents note</head>
+                    <p>Original purchase order and shipping manifest of Har-ma Press #11 to Monash University. There are two copies of the shipping manifest. Also included is a shipping manifest from California Motor Express regarding the sale of books from Dawson’s bookshop to the Book Club of California and a business card from Staudt International Service Corp, an international freight company. Shipping manifests for presses delivered to Dawson’s book shop and original billing for the sale of two presses is also a part of this file.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref44" level="file">
+                <did>
+                    <unittitle>Har-ma Press operating instructions</unittitle>
+                    <container id="cid10094002" type="Box" label="Text">1</container>
+                    <container parent="cid10094002" type="Folder">10</container>
+                    <unitdate>Unknown</unitdate>
+                </did>
+                <scopecontent id="ref46">
+                    <head>Scope and Contents note</head>
+                    <p>A set of printed instructions and a separate set of typed instructions on how to operate the Har-ma Press. There are also 3 handwritten notes on disassembling the press for moving or other operations tips based on experience with working with the press.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref47" level="file">
+                <did>
+                    <unittitle>Program Announcements</unittitle>
+                    <container id="cid10094001" type="Box" label="Text">1</container>
+                    <container parent="cid10094001" type="Folder">11</container>
+                    <unitdate>1981</unitdate>
+                </did>
+                <scopecontent id="ref49">
+                    <head>Scope and Contents note</head>
+                    <p>Program announcements for “An Evening devoted to the Past, Present and Future of Handpresses,” February 5, 1981 at Dawson’s Book Shop featuring Harold and Alma Smith and Roger Levenson.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
