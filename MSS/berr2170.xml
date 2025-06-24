@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC">berr2170.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Mildred Berryman papers 
+                    <date calendar="gregorian" normal="1937/1999" era="ce">1937-1999</date>
+                    <num>LSC.2170</num>
+                </titleproper>
+                <titleproper type="filing">Berryman (Mildred) papers</titleproper>
+                <author>Finding aid prepared by Stacy Wood, 2013; Sabrina Ponce, 2017; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 03 January 2018.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-01-03T14:34-0800</date>
+            </creation>
+            <langusage>Finding aid written in: 
+                <language>English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Mildred Berryman papers</unittitle>
+            <unitid>LSC.2170</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.2 linear feet</extent>
+                <extent>(1 half box)</extent>
+            </physdesc>
+            <unitdate normal="1937/1999" type="inclusive">1937-1999</unitdate>
+            <abstract id="ref2" label="Abstract">Mildred J. Berryman was a researcher, writer, photographer, and stenographer based in Salt Lake City, Utah. As a lesbian member of the Church of Latter-day Saints, she did research concerning lesbian and gay communities in Salt Lake City, Utah. This collection contains her unpublished thesis "The Psychological Phenomena of the Homosexual," research, and relevant materials.</abstract>
+            <langmaterial id="ref40" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref43" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="rda" source="local">Berryman, Mildred, 1901-1972</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref44">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref45">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref46">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Mildred Berryman papers (Collection 2170). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Gift of LeVern and Bonnie Bullough, circa 1990. Small amount of additional material donated at later unknown date. Transferred from the Mazer Archives to UCLA in 2013.</p>
+            <p>This collection is part of an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+        </acqinfo>
+        <processinfo id="ref41">
+            <head>Processing Information</head>
+            <p>Processed by Stacy Wood, 2013. Description enhanced and further physical processing completed by Sabrina Ponce in 2017.</p>
+            <p></p>
+        </processinfo>
+        <odd id="ref48">
+            <head>Sponsor</head>
+            <p>The 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+        </odd>
+        <odd id="ref42">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7346245">7346245</extref></p>
+        </odd>
+        <bioghist id="ref8">
+            <head>Biography</head>
+            <p>Mildred J. Berryman was born September 22, 1901 in Salt Lake City, Utah. She was the third and last child of Richard Gordon and Mildred Stokes Berryman. Until 1910, the Berrymans moved residences almost yearly, but after Mildred's mother passed away that year, the family settled and Richard worked tending bar at Hanak and Rumph which later became the Opera Bar. Mildred Berryman graduated from public secondary schooling and entered Westminster College in Salt Lake City on October 11, 1916. It was here that she met and befriended Theodora Anderson, who would later become her sister-in-law. Mildred expressed her desire to embark on a study of lesbianism, which the school refused to allow. Mildred temporarily ceased her relationship with Westminster until she married, "to try and escape her homosexuality." She soon left her husband.</p>
+            <p>In 1920, Mildred got a job as a stenographer for McLaren, Goode and Company and had her first lesbian relationship with a music teacher named Mae Anderson. Their relationship lasted a year. Mae Anderson would eventually become a faculty member of the Latter-day Saints School of Music, teaching alongside Willard Weihe. Weihe was the President of the Bohemian Club, a social group for homosexuals in Salt Lake City founded in 1886 and which Mildred Berryman would eventually join in the 1920s. Berryman joined the LDS Church around 1920. She received a Patriarchal Blessing from Mormon patriarch Richard G. Lambert in 1921. After another failed heterosexual marriage attempt, Berryman met Edith Mary Chapman in 1924. They lived together for four years in Edith's home, which she later turned into a boarding house for lesbians.</p>
+            <p>It was around this time that Berryman began working as a photographer, processing and taking photographs for the Superior Photo Company. She moved back home with her family in 1929 and Berryman resumed work on her thesis on homosexuality that she had started years earlier. Mildred gathered data for her case studies over the next several years, with people she had met primarily through the Bohemian Club of Salt Lake City. In her study, she included data on 24 lesbians (including herself) and nine gay men. By 1936, Berryman was doing so well as a photographer that she was able to open up her own studio in her family residence. That same year, Mildred met her next companion, known only as Z in case study 24. Mildred and Z were together for twelve years.</p>
+            <p>Mildred stopped working on her thesis in 1939, titled the Psychological Phenomena of the Homosexual, which she had hoped to turn in to Temple Bar College in Seattle, Washington in order to obtain a PhD. Temple Bar College, now defunct, is thought to have been a college operating through correspondence courses. Mildred continued her work as a photographer until 1941, but in 1940 her and her father opened the Berryman Menage at their residence, where they had a mineral showroom and lapidary shop which sold mineralogical specimens collected in Utah and Arizona. The first ad for the Berryman Menage appeared in the October 1940 issue of the Mineralogist. Berryman had published an article on a field trip of the Utah Mineralogical Society to the Wilcat Mountains a year earlier in the same publication. She published a second article in the magazine in July 1943 entitled "A Utah Locality."</p>
+            <p>During World Ward II, Berryman worked at a small arms defense plant at Hill Air Force Base, where she met 34 year old Ruth Uckerman Dempsey, a Mormon housewife who was working at the same plant. In 1943, when Mildred and her ailing father moved up to Woods Cross, a rural area just north of Salt Lake City, Ruth decided to move in with them. At the end of the second world war, Ruth and Mildred (who had adopted the nickname Barrie), opened their own manufacturing company called Berryman Novelty Manufacturing. Ruth and Barrie stayed together for thirty three years. Mildred J. Berryman died on November 7, 1972 at the age of 71. Her obituary states that she was a member of the Bountiful Community Church, past president of the Business and Professional Women Organization and past president of the American Legion Auxiliary. Ruth sent Mildred's research to her daughter, and parts of the study were published in Signs: Journal of Women in Culture and Society in 1978. After Mildred's death, Ruth moved back to Idaho to live with her son Clyde, She was buried in same cemetery as Mildred in 1979.</p>
+            <p>This biography draws heavily from "Mildred Jessie Barrie Berryman" by Connell O'Donovan, accessible at: http://www.connellodonovan.com/berryman.pdf</p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content</head>
+            <p>This collection contains Mildred J. Berryman's research and drafts of her unpublished thesis entitled "The Psychological Phenomena of the Homosexual." Also included are correspondence and other notes about Berryman's work.</p>
+        </scopecontent>
+        <arrangement id="ref47">
+            <head>Organization and Arrangement</head>
+            <p>Materials arranged by type.</p>
+        </arrangement>
+        <controlaccess>
+            <persname rules="rda" source="local">Berryman, Mildred, 1901-1972 -- Archives.</persname>
+            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
+            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
+            <subject source="lcsh">Lesbians--Utah--Salt Lake City--Archives. </subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="file">
+                <did>
+                    <unittitle>"The Psychological Phenomena of the Homosexual"</unittitle>
+                    <container id="cid7974459" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974459" type="Folder">1</container>
+                    <unitdate normal="1938/1938">1938</unitdate>
+                </did>
+                <scopecontent id="ref12">
+                    <head>Scope and Content</head>
+                    <p>Mildred J. Berryman's unpublished thesis, prepared "for Doctor of Philosophy for the Temple Bar College, Seattle Washington."</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>Thesis notes</unittitle>
+                    <container id="cid7974454" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974454" type="Folders">2-3</container>
+                    <unitdate normal="1936/1940" type="inclusive">circa 1937-1939</unitdate>
+                </did>
+                <scopecontent id="ref27">
+                    <head>Scope and Content</head>
+                    <p>References and notes directly related to thesis research.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>Other research</unittitle>
+                    <container id="cid7974455" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974455" type="Folder">4</container>
+                    <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
+                </did>
+                <scopecontent id="ref24">
+                    <head>Scope and Content</head>
+                    <p>References and notes not specifically tied to thesis research.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref31" level="file">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <container id="cid7974452" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974452" type="Folder">5</container>
+                    <unitdate normal="1938/1938">1938</unitdate>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Content</head>
+                    <p>Correspondence with the American Red Cross.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>Biographical notes and researcher correspondence</unittitle>
+                    <container id="cid7974451" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974451" type="Folder">6</container>
+                    <unitdate normal="1972/1999" type="inclusive">1972-1999</unitdate>
+                </did>
+                <scopecontent id="ref36">
+                    <head>Scope and Content</head>
+                    <p>Research notes and materials about Mildred Berryman and her work including clippings, various articles about her work, and correspondence with researchers seeking to access her materials at the Mazer.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref37" level="file">
+                <did>
+                    <unittitle>Photograph</unittitle>
+                    <container id="cid7974450" type="Box" label="Mixed Materials">1</container>
+                    <container parent="cid7974450" type="Folder">7</container>
+                    <unitdate normal="1974/1976" type="inclusive">circa 1975</unitdate>
+                </did>
+                <scopecontent id="ref39">
+                    <head>Scope and Content</head>
+                    <p>Photographic print and negative of Mildred J. Berryman.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
