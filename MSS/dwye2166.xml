@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC">dwye2166.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Sandy Dwyer papers 
+<date calendar="gregorian" normal="1977/1991" era="ce">1977-1991</date>
+</titleproper>
+<titleproper type="filing">Dwyer (Sandy) papers</titleproper>
+<author>Finding aid prepared by Stacy Wood, December 2012; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©2014 The Regents of the University of California. All rights reserved.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2014-03-26T14:04-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<langusage>Finding aid written in: 
+<language>English.</language></langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection">
+<did>
+ <head>Descriptive Summary</head>
+<unittitle>Sandy Dwyer papers</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2166</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>10.5 linear ft.</extent>
+<extent>(21 boxes)</extent>
+</physdesc>
+<unitdate normal="1977/1991" type="inclusive">1977-1991</unitdate>
+<abstract id="ref2" label="Abstract">Sandy Dwyer is a lesbian activist, playwright and journalist living and working in Los Angeles, California. This collection represents materials used by and produced by Sandy Dwyer in the course of her life. The bulk are scripts and promotional materials.</abstract>
+<langmaterial id="ref321" label="Language of Materials">Materials are in English.</langmaterial>
+<physloc id="ref3" label="Physical location">COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+<origination label="Creator">
+<persname source="ingest">Dwyer, Sandy</persname>
+</origination>
+</did>
+<accessrestrict id="ref4">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict id="ref5">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite id="ref6">
+<head>Preferred Citation</head>
+<p>[Identification of item], Sandy Dwyer papers (Collection 2166). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7347785">7347785</extref></p>
+</odd>
+<acqinfo id="ref7">
+<head>Acquisition Information</head>
+<p>Provenance unknown. This collection is part of an outreach and collection-building partnership between the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+</acqinfo>
+<processinfo id="ref8">
+<head>Processing History</head>
+<p>Processed by Stacy Wood, December 2012.</p>
+<p>The 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+</processinfo>
+<bioghist id="ref9">
+<head>Biography</head>
+<p>Sandy Dwyer was born Sandra Jean Nelson in Milwaukee, Wisconsin. She was raised on a ranch in the Ozarks of Missouri by her parents who were rodeo producers. She received her Masters degree at the University of Missouri. She spent time as a trapeze artist, biology teacher, trick rope artist, social worker, gardener, actor and playwrite. Sandy Dwyer came out as a lesbian in 1986 and became involved with the Los Angeles gay and lesbian community. She co-founded a newspaper focused on local gay and lesbian news and events called The News. The paper was known for its hard hitting journalism and gained notoriety for exposing financial abuses by large mainstream gay and lesbian non profit organizations.</p>
+</bioghist>
+<scopecontent id="ref322">
+<head>Scope and Content</head>
+<p>This collection contains materials used and produced by Sandy Dwyer predominantly through the 1970s and 1980s. Included are plays written by Sandy as well as programs and other promotional materials from theater productions in which she was involved. Correspondence of both a personal and professional nature are represented. Work materials from the Department of Public Social Services are also included as are research materials used for various jobs.</p>
+</scopecontent>
+<controlaccess>
+<subject source="lcsh">Dramatists, American--20th century -- Archival resources.</subject>
+<subject source="local">Dwyer, Sandy -- Archival resources.</subject>
+<subject source="lcsh">Women journalists--United States -- Archival resources.</subject>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref13" level="file">
+<did>
+<unittitle>T-Shirts.</unittitle>
+<container id="cid7974290" type="Box">1</container>
+<unitdate>1970-1989.</unitdate>
+<physdesc id="ref14">cotton shirts</physdesc>
+</did>
+<scopecontent id="ref15">
+<p>Cotton shirts from various lesbian and feminist events and organizations.</p>
+</scopecontent>
+</c01>
+<c01 id="ref16" level="file">
+<did>
+<unittitle>T-Shirts.</unittitle>
+<container id="cid7974289" type="Box">2</container>
+<unitdate>1970-1989.</unitdate>
+<physdesc id="ref17">cotton shirts</physdesc>
+</did>
+<scopecontent id="ref18">
+<p>Cotton shirts from various lesbian and feminist events and organizations.</p>
+</scopecontent>
+</c01>
+<c01 id="ref19" level="file">
+<did>
+<unittitle>Radio.</unittitle>
+<container id="cid7974288" type="Box">3</container>
+<container parent="cid7974288" type="Folder">1</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref20">printed paper, folder</physdesc>
+</did>
+<scopecontent id="ref21">
+<p>Includes an audience marketing plan for Media West Productions as well as correspondence. Also included are a sample format, program descriptions, demographics, sponsorship information and advertising rates for Sunday Brunch Radio.</p>
+</scopecontent>
+</c01>
+<c01 id="ref22" level="file">
+<did>
+<unittitle>Correspondence and Newsletters.</unittitle>
+<container id="cid7974287" type="Box">3</container>
+<container parent="cid7974287" type="Folder">2</container>
+<unitdate>1987.</unitdate>
+<physdesc id="ref23">printed paper, photocopies</physdesc>
+</did>
+<scopecontent id="ref24">
+<p>Newsletters from various gay and lesbian activist organizations, correspondence with these organizations. Also includes press releases and newspaper clippings.</p>
+</scopecontent>
+</c01>
+<c01 id="ref25" level="file">
+<did>
+<unittitle>Poetry and Landscapes.</unittitle>
+<container id="cid7974286" type="Box">3</container>
+<container parent="cid7974286" type="Folder">3</container>
+<unitdate>1984.</unitdate>
+<physdesc id="ref26">bound printed chapbooks</physdesc>
+</did>
+<scopecontent id="ref27">
+<p>Includes: Edwin : A character in Poems by Clifton Snyder with illustrations by Trent Edward Sally Warner Contemplative Landscape</p>
+</scopecontent>
+</c01>
+<c01 id="ref28" level="file">
+<did>
+<unittitle>Play by Several Authors.</unittitle>
+<container id="cid7974285" type="Box">3</container>
+<container parent="cid7974285" type="Folder">4</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref29">printed paper, handwritten notes, photocopies</physdesc>
+</did>
+<scopecontent id="ref30">
+<p>Several versions and drafts of a play written and edited collaboratively by Sandy Dwyer and a group of participants. Titles vary.</p>
+</scopecontent>
+</c01>
+<c01 id="ref31" level="file">
+<did>
+<unittitle>Play by Several Authors.</unittitle>
+<container id="cid7974284" type="Box">3</container>
+<container parent="cid7974284" type="Folder">4</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref32">printed paper, handwritten notes, photocopies</physdesc>
+</did>
+<scopecontent id="ref33">
+<p>Several versions and drafts of a play written and edited collaboratively by Sandy Dwyer and a group of participants. Titles vary.</p>
+</scopecontent>
+</c01>
+<c01 id="ref34" level="file">
+<did>
+<unittitle>Play by Several Authors.</unittitle>
+<container id="cid7974283" type="Box">3</container>
+<container parent="cid7974283" type="Folder">5</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref35">printed paper, handwritten notes, photocopies</physdesc>
+</did>
+<scopecontent id="ref36">
+<p>Several versions and drafts of a play written and edited collaboratively by Sandy Dwyer and a group of participants. Titles vary.</p>
+</scopecontent>
+</c01>
+<c01 id="ref37" level="file">
+<did>
+<unittitle>Play by Several Authors.</unittitle>
+<container id="cid7974282" type="Box">3</container>
+<container parent="cid7974282" type="Folder">6</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref38">printed paper, handwritten notes, photocopies</physdesc>
+</did>
+<scopecontent id="ref39">
+<p>Several versions and drafts of a play written and edited collaboratively by Sandy Dwyer and a group of participants. Titles vary.</p>
+</scopecontent>
+</c01>
+<c01 id="ref40" level="file">
+<did>
+<unittitle>Dog Calendar.</unittitle>
+<container id="cid7974281" type="Box">4</container>
+<container parent="cid7974281" type="Folder">1</container>
+<unitdate>1984.</unitdate>
+<physdesc id="ref41">glossy printed calendar</physdesc>
+</did>
+<scopecontent id="ref42">
+<p>A 1984 calendar featuring dogs published by Alyson Publications.</p>
+</scopecontent>
+</c01>
+<c01 id="ref43" level="file">
+<did>
+<unittitle>Photos (1).</unittitle>
+<container id="cid7974280" type="Box">4</container>
+<container parent="cid7974280" type="Folder">2</container>
+<unitdate>1981-1989.</unitdate>
+<physdesc id="ref44">photos of varying sizes and print techniques</physdesc>
+</did>
+<scopecontent id="ref45">
+<p>Photographs of various plays, films, cultural events and speeches that featured gay or lesbian characters, gay or lesbian entertainment professionals and gay or lesbian luminaries.</p>
+</scopecontent>
+</c01>
+<c01 id="ref46" level="file">
+<did>
+<unittitle>Photos (2).</unittitle>
+<container id="cid7974279" type="Box">4</container>
+<container parent="cid7974279" type="Folder">3</container>
+<unitdate>1981-1989.</unitdate>
+<physdesc id="ref47">photos of varying sizes and print techniques</physdesc>
+</did>
+<scopecontent id="ref48">
+<p>Photographs of various plays, films, cultural events and speeches that featured gay or lesbian characters, gay or lesbian entertainment professionals and gay or lesbian luminaries.</p>
+</scopecontent>
+</c01>
+<c01 id="ref49" level="file">
+<did>
+<unittitle>Photos (3).</unittitle>
+<container id="cid7974278" type="Box">4</container>
+<container parent="cid7974278" type="Folder">4</container>
+<unitdate>1981-1989.</unitdate>
+<physdesc id="ref50">photos of varying sizes and print techniques</physdesc>
+</did>
+<scopecontent id="ref51">
+<p>Photographs of various plays, films, cultural events and speeches that featured gay or lesbian characters, gay or lesbian entertainment professionals and gay or lesbian luminaries.</p>
+</scopecontent>
+</c01>
+<c01 id="ref52" level="file">
+<did>
+<unittitle>Photos (4).</unittitle>
+<container id="cid7974277" type="Box">5</container>
+<container parent="cid7974277" type="Folder">1</container>
+<unitdate>1981-1989.</unitdate>
+<physdesc id="ref53">photos of varying sizes and print techniques</physdesc>
+</did>
+<scopecontent id="ref54">
+<p>Photographs of various plays, films, cultural events and speeches that featured gay or lesbian characters, gay or lesbian entertainment professionals and gay or lesbian luminaries.</p>
+</scopecontent>
+</c01>
+<c01 id="ref55" level="file">
+<did>
+<unittitle>Magazines and Newspapers (1).</unittitle>
+<container id="cid7974276" type="Box">5</container>
+<container parent="cid7974276" type="Folder">2</container>
+<unitdate>1980-1987.</unitdate>
+<physdesc id="ref56">stapled printed paper</physdesc>
+</did>
+<scopecontent id="ref57">
+<p>Laguna Outreach: August 1987 Volume 6 Number 8 November 1987 Volume 8, Number 11 The Lesbian News: January 1980 Volume 5, Number 6 March 1980 Volume 5, Number 8 April 1980 Volume 5, Number 9 The Optimist : A Publication of AIDS Project Los Angeles: November 1986 Number 23</p>
+</scopecontent>
+</c01>
+<c01 id="ref58" level="file">
+<did>
+<unittitle>Magazines and Newspapers (2).</unittitle>
+<container id="cid7974275" type="Box">5</container>
+<container parent="cid7974275" type="Folder">3</container>
+<unitdate>1983-1986.</unitdate>
+<physdesc id="ref59">stapled newsprint</physdesc>
+</did>
+<scopecontent id="ref60">
+<p>LA Times Magazine : October 5, 1986 West Hollywood The Paper : December 1985 Volume 1, Number 17 Southern California Women for Understanding Newsletter: October, November 1987 Volume 2, Number 5 The Lesbian News: March 1984 Volume 9, Number 8 December 1985 Volume 9, Number 5</p>
+</scopecontent>
+</c01>
+<c01 id="ref61" level="file">
+<did>
+<unittitle>Magazines and Newspapers (3).</unittitle>
+<container id="cid7974274" type="Box">5</container>
+<container parent="cid7974274" type="Folder">4</container>
+<unitdate>1980-1981.</unitdate>
+<physdesc id="ref62">stapled printed paper and newsprint</physdesc>
+</did>
+<scopecontent id="ref63">
+<p>Lesbian News: February 1980 Volume 5, Number 7 June 1980 Volume 5, Number 11 May 1980 Volume 5, Number 10 January 1981 Volume 6, Number 6 December 1980, Volume 6, Number 5 November 1980, Volume 6, Number 4 Also includes the Lesbian News Reference List for Southern California Women's Communityi January 1981</p>
+</scopecontent>
+</c01>
+<c01 id="ref64" level="file">
+<did>
+<unittitle>Magazines and Newspapers (4).</unittitle>
+<container id="cid7974273" type="Box">5</container>
+<container parent="cid7974273" type="Folder">5</container>
+<unitdate>1982-1985.</unitdate>
+<physdesc id="ref65">stapled printed paper and newsprint</physdesc>
+</did>
+<scopecontent id="ref66">
+<p>Gay Milwaukee : Gay Guide to Entertainment April 1981 Coming Out to your Parents Pamphlet 1984 Washington Post Clippping November 1, 1985 "Teenage Homosexuality" Southern California Women for Understanding Newsletter October, 11, 1984 with note Lesbian News December 1982, Volume 8, Number 5 Also includes: Bumper Sticker, timesheets from Frontiers Magazine</p>
+</scopecontent>
+</c01>
+<c01 id="ref67" level="file">
+<did>
+<unittitle>Magazines and Newspapers (5).</unittitle>
+<container id="cid7974272" type="Box">5</container>
+<container parent="cid7974272" type="Folder">6</container>
+<unitdate>1980-1984.</unitdate>
+<physdesc id="ref68">stapled printed paper and newsprint</physdesc>
+</did>
+<scopecontent id="ref69">
+<p>Southern California Women for Understanding Newsletter: February-March, 1987 Lesbian News: June 1980 Volume 5, Number 12 June 1982 Volume 7, Number 11 October 1980 Volume 6, Number 3 September 1980 Volume 5, Number 2 August 1980 Volume 6, Number 11 The Bar Rag Newsletter: September 1981 Connection: February 8-22, 1984 LA Times: November 24, 1981 Part VI Frontiers: April 11-18, 1984 Christopher Street West Bulletin</p>
+</scopecontent>
+</c01>
+<c01 id="ref70" level="file">
+<did>
+<unittitle>Magazines and Newspapers (6).</unittitle>
+<container id="cid7974271" type="Box">5</container>
+<container parent="cid7974271" type="Folder">7</container>
+<unitdate>1980-1983.</unitdate>
+<physdesc id="ref71">stapled printed paper and newsprint</physdesc>
+</did>
+<scopecontent id="ref72">
+<p>The Lesbian News: March 1982 Volume 7 Number 8 January 1983 Volume 8, Number 6 September 1982 Volume 8, Number 2 May 1982 Volume 1, Number 10 November 1982 volume 8, Number 4 April 1982 Volume 8, Number 3 October 1982 Volume 8, Number 3 August 1982 Volume 8, Number 1 The Advocate: June 12, 1980</p>
+</scopecontent>
+</c01>
+<c01 id="ref73" level="file">
+<did>
+<unittitle>T-Shirts.</unittitle>
+<container id="cid7974270" type="Box">6</container>
+<unitdate>1970-1989.</unitdate>
+<physdesc id="ref74">cotton shirts</physdesc>
+</did>
+<scopecontent id="ref75">
+<p>Cotton shirts from various lesbian and feminist events and organizations.</p>
+</scopecontent>
+</c01>
+<c01 id="ref76" level="file">
+<did>
+<unittitle>Maps-Mastercopy.</unittitle>
+<container id="cid7974269" type="Box">7</container>
+<container parent="cid7974269" type="Folder">1</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref77">photocopies</physdesc>
+</did>
+<scopecontent id="ref78">
+<p>Photocopies of maps drawn to aid members of a softball league in getting to games.</p>
+</scopecontent>
+</c01>
+<c01 id="ref79" level="file">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid7974268" type="Box">7</container>
+<container parent="cid7974268" type="Folder">2</container>
+<unitdate>1987-1988.</unitdate>
+<physdesc id="ref80">handwritten letters, printed paper, photocopies</physdesc>
+</did>
+<scopecontent id="ref81">
+<p>Correspondence with a range of people including friends, political contacts and colleagues.</p>
+</scopecontent>
+</c01>
+<c01 id="ref82" level="file">
+<did>
+<unittitle>Women's History.</unittitle>
+<container id="cid7974267" type="Box">7</container>
+<container parent="cid7974267" type="Folder">3</container>
+<unitdate>1986-1990.</unitdate>
+<physdesc id="ref83">newsprint, printed paper</physdesc>
+</did>
+<scopecontent id="ref84">
+<p>Includes a clipping from the LA Weekly June 23-29 with a short feature on Sandy Dwyer as well as a copy of The News April 4, 1986 and a copy of The Valley Business Alliance March 1990.</p>
+</scopecontent>
+</c01>
+<c01 id="ref85" level="file">
+<did>
+<unittitle>Glenn Cannon Photos.</unittitle>
+<container id="cid7974266" type="Box">7</container>
+<container parent="cid7974266" type="Folder">4</container>
+<unitdate>1987.</unitdate>
+<physdesc id="ref86">photographs</physdesc>
+</did>
+<scopecontent id="ref87">
+<p>Includes photographs, a note from Glenn Cannon to Sandy Dwyer and a business card.</p>
+</scopecontent>
+</c01>
+<c01 id="ref88" level="file">
+<did>
+<unittitle>Calendars and Planners.</unittitle>
+<container id="cid7974265" type="Box">7</container>
+<container parent="cid7974265" type="Folder">5</container>
+<unitdate>1975-1979.</unitdate>
+<physdesc id="ref89">bound calendars</physdesc>
+</did>
+<scopecontent id="ref90">
+<p>Planners from 1975, 1978, 1979.</p>
+</scopecontent>
+</c01>
+<c01 id="ref91" level="file">
+<did>
+<unittitle>Department of Public Social Services (Miscellaneous).</unittitle>
+<container id="cid7974264" type="Box">8</container>
+<container parent="cid7974264" type="Folder">1</container>
+<unitdate>1976-1977.</unitdate>
+<physdesc id="ref92">printed paper, photocopies, stapled paper</physdesc>
+</did>
+<scopecontent id="ref93">
+<p>Includes letters, ID Cards, internal documents (time-off requests etc.), drawings.</p>
+</scopecontent>
+<odd id="ref94">
+<head>General note</head>
+<p>The original label on this folder was "Some papers from my tenure at DPSS - Medical Division. My position was Program Assistant."</p>
+</odd>
+</c01>
+<c01 id="ref95" level="file">
+<did>
+<unittitle>Department of Public Social Services - Sandy Dwyer.</unittitle>
+<container id="cid7974263" type="Box">8</container>
+<container parent="cid7974263" type="Folder">2</container>
+<unitdate>1974-1975.</unitdate>
+<physdesc id="ref96">printed paper</physdesc>
+</did>
+<scopecontent id="ref97">
+<p>Original label "When with DPSS as Program Assistant in Medi-Cal - I wrote the enclosed memos and developed the forms - you can tell from initials in lower left of cover sheet - example - RLC (Program Lead:Robert L. Chaffee - one who approves) : SN (Sandra Nelson - one who writes) : CLL (Cynthis L. Luna - one who types it)</p>
+</scopecontent>
+</c01>
+<c01 id="ref98" level="file">
+<did>
+<unittitle>Notes.</unittitle>
+<container id="cid7974262" type="Box">8</container>
+<container parent="cid7974262" type="Folder">3</container>
+<unitdate>1976-1981.</unitdate>
+<physdesc id="ref99">greeting cards, handwritten notes, printed paper</physdesc>
+</did>
+<scopecontent id="ref100">
+<p>Jounal entries, newspaper clipping with note.</p>
+</scopecontent>
+</c01>
+<c01 id="ref101" level="file">
+<did>
+<unittitle>Theatre Materials.</unittitle>
+<container id="cid7974261" type="Box">8</container>
+<container parent="cid7974261" type="Folder">4</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref102">typewritten paper, photocopies</physdesc>
+</did>
+<scopecontent id="ref103">
+<p>Contact information, drafts of plays and press concerning different theatre projects involving Sandy Dwyer as writer/producer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref104" level="file">
+<did>
+<unittitle>Greeting Cards.</unittitle>
+<container id="cid7974260" type="Box">8</container>
+<container parent="cid7974260" type="Folder">5</container>
+<unitdate>1971-1980.</unitdate>
+<physdesc id="ref105">greeting cards and envelopes</physdesc>
+</did>
+<scopecontent id="ref106">
+<p>Greeting cards.</p>
+</scopecontent>
+</c01>
+<c01 id="ref107" level="file">
+<did>
+<unittitle>Alyson Publications Leonard Matlovich Dress Kit.</unittitle>
+<container id="cid7974259" type="Box">8</container>
+<container parent="cid7974259" type="Folder">6</container>
+<unitdate>1989.</unitdate>
+</did>
+<scopecontent id="ref108">
+<p>Alyson Publications Leonard Matlovich Dress Kit</p>
+</scopecontent>
+<odd id="ref109">
+<head>General note</head>
+<p>Technical Sergeant Leonard P. Matlovich (July 6, 1943 – June 22, 1988)was a Vietnam War veteran, race relations instructor, and recipient of the Purple Heart and the Bronze Star. Matlovich was the first gay service member to purposely out himself to the military to fight their ban on gays.</p>
+</odd>
+</c01>
+<c01 id="ref110" level="file">
+<did>
+<unittitle>"Favorite Places Favorite Things" by Darel Hale.</unittitle>
+<container id="cid7974258" type="Box">9</container>
+<container parent="cid7974258" type="Folder">1</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref111">printed paper</physdesc>
+</did>
+<scopecontent id="ref112">
+<p>Treatment for a play or monologue series.</p>
+</scopecontent>
+</c01>
+<c01 id="ref113" level="file">
+<did>
+<unittitle>Flyers, Brochures, Programs.</unittitle>
+<container id="cid7974257" type="Box">9</container>
+<container parent="cid7974257" type="Folder">2</container>
+<unitdate>1987-1990.</unitdate>
+<physdesc id="ref114">photocopies, printed paper, stapled paper, bound programs</physdesc>
+</did>
+<scopecontent id="ref115">
+<p>Brochures and programs from Los Angeles area gay, lesbian and feminist organizations.</p>
+</scopecontent>
+</c01>
+<c01 id="ref116" level="file">
+<did>
+<unittitle>Behavior Studies.</unittitle>
+<container id="cid7974256" type="Box">9</container>
+<container parent="cid7974256" type="Folder">3</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref117">handwritten notes</physdesc>
+</did>
+<scopecontent id="ref118">
+<p>Poetry as well as a draft and printed versions of the essay " A Male Homosexual's Behavior Characteristics and Their Relationship to the fulfillment of Neurotic Needs."</p>
+</scopecontent>
+</c01>
+<c01 id="ref119" level="file">
+<did>
+<unittitle>Printing.</unittitle>
+<container id="cid7974255" type="Box">9</container>
+<container parent="cid7974255" type="Folder">4</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref120">handwritten notes, printed paper</physdesc>
+</did>
+<scopecontent id="ref121">
+<p>Letters, meeting minutes and formatting mockups.</p>
+</scopecontent>
+</c01>
+<c01 id="ref122" level="file">
+<did>
+<unittitle>Advertising Rates and Analysis (The News).</unittitle>
+<container id="cid7974254" type="Box">9</container>
+<container parent="cid7974254" type="Folder">5</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref123">handwritten notes, printed paper, brochures</physdesc>
+</did>
+<scopecontent id="ref124">
+<p>Rates and advertising analysis for the gay and lesbian newspaper founded and operated by Sandy Dwyer, The News.</p>
+</scopecontent>
+</c01>
+<c01 id="ref125" level="file">
+<did>
+<unittitle>Confidential Business Plan (The News).</unittitle>
+<container id="cid7974253" type="Box">9</container>
+<container parent="cid7974253" type="Folder">6</container>
+<unitdate>1985.</unitdate>
+<physdesc id="ref126">typed paper</physdesc>
+</did>
+<scopecontent id="ref127">
+<p>Two copies of the confidential business plan for The News, the gay and lesbian newspaper founded and operated by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref128" level="file">
+<did>
+<unittitle>Fictitious Business Report (The News).</unittitle>
+<container id="cid7974252" type="Box">9</container>
+<container parent="cid7974252" type="Folder">7</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref129">typed paper</physdesc>
+</did>
+<scopecontent id="ref130">
+<p>Receipts and completed forms required for filing a Fictitious Business Report along with a letter confirming status.</p>
+</scopecontent>
+</c01>
+<c01 id="ref131" level="file">
+<did>
+<unittitle>Dummy Mockup (The News).</unittitle>
+<container id="cid7974251" type="Box">9</container>
+<container parent="cid7974251" type="Folder">8</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref132">graph paper, printed paper</physdesc>
+</did>
+<scopecontent id="ref133">
+<p>Twenty four page mockup of an issue of The News, a gay and lesbian newspaper founded and operated by Sandy Dwyer. Includes handwritten notes and pasted articles on graph paper.</p>
+</scopecontent>
+</c01>
+<c01 id="ref134" level="file">
+<did>
+<unittitle>Miscellaneous (The News).</unittitle>
+<container id="cid7974250" type="Box">10</container>
+<container parent="cid7974250" type="Folder">1</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref135">typewritten paper, handwritten notes, newspaper clippings</physdesc>
+</did>
+<scopecontent id="ref136">
+<p>Style guide information, clippings about The News and/or other gay news outlets, mockups.</p>
+</scopecontent>
+</c01>
+<c01 id="ref137" level="file">
+<did>
+<unittitle>Business Plan (The News).</unittitle>
+<container id="cid7974249" type="Box">10</container>
+<container parent="cid7974249" type="Folder">2</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref138">typewritten paper with handwritten notes</physdesc>
+</did>
+<scopecontent id="ref139">
+<p>Includes the business plan for The News with commentary and assistance from Ron Norman as business adviser.</p>
+</scopecontent>
+</c01>
+<c01 id="ref140" level="file">
+<did>
+<unittitle>Management (The News).</unittitle>
+<container id="cid7974248" type="Box">10</container>
+<container parent="cid7974248" type="Folder">3</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref141">typewritten paper, handwritten notes</physdesc>
+</did>
+<scopecontent id="ref142">
+<p>Includes notes and essays about plans for the management of The News, down to a daily scale. In addition, this folder contains correspondence with different constituencies concerning management issues.</p>
+</scopecontent>
+</c01>
+<c01 id="ref143" level="file">
+<did>
+<unittitle>University of Missouri.</unittitle>
+<container id="cid7974247" type="Box">10</container>
+<container parent="cid7974247" type="Folder">4</container>
+<unitdate>1962-1966.</unitdate>
+<physdesc id="ref144">printed material, typewritten paper, onion skin paper</physdesc>
+</did>
+<scopecontent id="ref145">
+<p>Letters, resume, published reading material and essays from Sandy Dwyer's time at the University of Missouri.</p>
+</scopecontent>
+</c01>
+<c01 id="ref146" level="file">
+<did>
+<unittitle>Miscellaneous.</unittitle>
+<container id="cid7974246" type="Box">10</container>
+<container parent="cid7974246" type="Folder">5</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref147">handwritten notes, photographs, stapled paper</physdesc>
+</did>
+<scopecontent id="ref148">
+<p>Inventory, Connexxus Anniversary Program, The News Program, Miscellaneous photographs.</p>
+</scopecontent>
+</c01>
+<c01 id="ref149" level="file">
+<did>
+<unittitle>Psychiatry/Women's Studies.</unittitle>
+<container id="cid7974245" type="Box">10</container>
+<container parent="cid7974245" type="Folder">6</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref150">typewritten paper</physdesc>
+</did>
+<scopecontent id="ref151">
+<p>Assignments and research materials for academic courses in psychiatry and women's studies, mainly focused on behavior patterns of homosexuals.</p>
+</scopecontent>
+</c01>
+<c01 id="ref152" level="file">
+<did>
+<unittitle>Ephemera.</unittitle>
+<container id="cid7974244" type="Box">10</container>
+<container parent="cid7974244" type="Folder">7</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref153">miscellaneous</physdesc>
+</did>
+<scopecontent id="ref154">
+<p>Visors, buttons, visitor cards and various ephemera.</p>
+</scopecontent>
+</c01>
+<c01 id="ref155" level="file">
+<did>
+<unittitle>Drafts/Edits (Miscellaneous).</unittitle>
+<container id="cid7974243" type="Box">11</container>
+<container parent="cid7974243" type="Folder">1</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref156">printed paper</physdesc>
+</did>
+<scopecontent id="ref157">
+<p>Contains drafts, notes and edits of miscellaneous plays. Some of the stories are complete and some are partial.</p>
+</scopecontent>
+</c01>
+<c01 id="ref158" level="file">
+<did>
+<unittitle>"Cheese and Crackers".</unittitle>
+<container id="cid7974242" type="Box">11</container>
+<container parent="cid7974242" type="Folder">2</container>
+<unitdate>1980.</unitdate>
+<physdesc id="ref159">printed paper</physdesc>
+</did>
+<scopecontent id="ref160">
+<p>Drafts and completed versions of the play "Cheese and Crackers" by Sandy Dwyer. Also includes some promotional material, a working script with cast lists for selected performances.</p>
+</scopecontent>
+</c01>
+<c01 id="ref161" level="file">
+<did>
+<unittitle>"Depressed".</unittitle>
+<container id="cid7974241" type="Box">11</container>
+<container parent="cid7974241" type="Folder">3</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref162">printed paper</physdesc>
+</did>
+<scopecontent id="ref163">
+<p>Drafts, edits and completed versions of the play "Depressed" by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref164" level="file">
+<did>
+<unittitle>"Good Morning Dear".</unittitle>
+<container id="cid7974240" type="Box">11</container>
+<container parent="cid7974240" type="Folder">4</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref165">printed paper</physdesc>
+</did>
+<scopecontent id="ref166">
+<p>Contains drafts, edits and completed versions of the play "Good Morning Dear" by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref167" level="file">
+<did>
+<unittitle>"Honest Encounter".</unittitle>
+<container id="cid7974239" type="Box">11</container>
+<container parent="cid7974239" type="Folder">5</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref168">printed paper</physdesc>
+</did>
+<scopecontent id="ref169">
+<p>Drafts and edits and completed versions of the play "Honest Encounter" written by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref170" level="file">
+<did>
+<unittitle>"Hope Rings Eternal".</unittitle>
+<container id="cid7974238" type="Box">11</container>
+<container parent="cid7974238" type="Folder">6</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref171">printed paper</physdesc>
+</did>
+<scopecontent id="ref172">
+<p>Drafts, edits and completed versions of the play "Hope Rings Eternal" written by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref173" level="file">
+<did>
+<unittitle>"Let's Get a Cat".</unittitle>
+<container id="cid7974237" type="Box">11</container>
+<container parent="cid7974237" type="Folder">7</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref174">printed paper</physdesc>
+</did>
+<scopecontent id="ref175">
+<p>Drafts, edits and completed versions of the play "Let's Get a Cat" by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref176" level="file">
+<did>
+<unittitle>"Loot".</unittitle>
+<container id="cid7974236" type="Box">11</container>
+<container parent="cid7974236" type="Folder">8</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref177">printed paper</physdesc>
+</did>
+<scopecontent id="ref178">
+<p>Promotional materials for the play "Loot."</p>
+</scopecontent>
+</c01>
+<c01 id="ref179" level="file">
+<did>
+<unittitle>"Man and Woman".</unittitle>
+<container id="cid7974235" type="Box">11</container>
+<container parent="cid7974235" type="Folder">9</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref180">printed paper</physdesc>
+</did>
+<scopecontent id="ref181">
+<p>Drafts, edits and completed versions of the play "Man and Woman" written by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref182" level="file">
+<did>
+<unittitle>"Pissoire".</unittitle>
+<container id="cid7974234" type="Box">12</container>
+<container parent="cid7974234" type="Folder">1</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref183">printed paper</physdesc>
+</did>
+<scopecontent id="ref184">
+<p>Drafts, edits and completed versions of the play "Pissoire" by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref185" level="file">
+<did>
+<unittitle>"Pleased to Meet You".</unittitle>
+<container id="cid7974233" type="Box">12</container>
+<container parent="cid7974233" type="Folder">2</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref186">printed paper</physdesc>
+</did>
+<scopecontent id="ref187">
+<p>Drafts, edits and completed versions of the play "Pleased to Meet You" by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref188" level="file">
+<did>
+<unittitle>Newspapers - REviews.</unittitle>
+<container id="cid7974232" type="Box">12</container>
+<container parent="cid7974232" type="Folder">3</container>
+<unitdate>1980-1982.</unitdate>
+<physdesc id="ref189">newsprint</physdesc>
+</did>
+<scopecontent id="ref190">
+<p>Newspapers and newspaper clippings that contain reviews of plays written by or featuring Sandy Dwyer in some capacity.</p>
+</scopecontent>
+</c01>
+<c01 id="ref191" level="file">
+<did>
+<unittitle>"Romantic Interlude".</unittitle>
+<container id="cid7974231" type="Box">13</container>
+<container parent="cid7974231" type="Folder">1</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref192">printed paper</physdesc>
+</did>
+<scopecontent id="ref193">
+<p>Drafts, edits and completed versions of the play "Romantic Interlude" by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref194" level="file">
+<did>
+<unittitle>"They are Soft and Cuddly".</unittitle>
+<container id="cid7974230" type="Box">13</container>
+<container parent="cid7974230" type="Folder">2</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref195">printed paper</physdesc>
+</did>
+<scopecontent id="ref196">
+<p>Drafts, edits and completed versions of the play "They are Soft and Cuddly" by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref197" level="file">
+<did>
+<unittitle>"Wish on the Moon".</unittitle>
+<container id="cid7974229" type="Box">13</container>
+<container parent="cid7974229" type="Folder">3</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref198">printed paper</physdesc>
+</did>
+<scopecontent id="ref199">
+<p>Drafts, edits and completed version so of the play "Wish on the Moon" by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref200" level="file">
+<did>
+<unittitle>Unnamed Play Edits.</unittitle>
+<container id="cid7974228" type="Box">13</container>
+<container parent="cid7974228" type="Folder">4</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref201">printed paper with handwritten notes</physdesc>
+</did>
+<scopecontent id="ref202">
+<p>Notes and edits on an unnamed play by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref203" level="file">
+<did>
+<unittitle>Correspondence (Apollo's Mice).</unittitle>
+<container id="cid7974227" type="Box">13</container>
+<container parent="cid7974227" type="Folder">5</container>
+<unitdate>1979-1982.</unitdate>
+<physdesc id="ref204">printed paper, handwritten notes</physdesc>
+</did>
+<scopecontent id="ref205">
+<p>Correspondence with theaters concerning possible productions and stagings of plays associated with the Apollo's Mice Theatre Company.</p>
+</scopecontent>
+<odd id="ref206">
+<head>General note</head>
+<p>Sandy Dwyer was a member and featured actor/writer involved with Apollo's Mice Theatre Company.</p>
+</odd>
+</c01>
+<c01 id="ref207" level="file">
+<did>
+<unittitle>Apollo's Mice Theatre Company Materials.</unittitle>
+<container id="cid7974226" type="Box">13</container>
+<container parent="cid7974226" type="Folder">6</container>
+<unitdate>1982-1985.</unitdate>
+<physdesc id="ref208">flyers, printed paper, photographs</physdesc>
+</did>
+<scopecontent id="ref209">
+<p>Includes programs and promotional materials for the play "Cheese and Crackers" by Sandy Dwyer as well as programs for "Grab Bag Cabaret," "Perfect Relationship," and "Haunted Host" which each featured Sandy Dwyer. This folder also contains Sandy Dwyer's headshots, reviews for several of the plays and a flyer for the Orange County Gay and Lesbian Resource Day.</p>
+</scopecontent>
+</c01>
+<c01 id="ref210" level="file">
+<did>
+<unittitle>"Cheese and Crackers" (2).</unittitle>
+<container id="cid7974225" type="Box">13</container>
+<container parent="cid7974225" type="Folder">7</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref211">bound printed paper</physdesc>
+</did>
+<scopecontent id="ref212">
+<p>Three copies of the play "Cheese and Crackers" by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref213" level="file">
+<did>
+<unittitle>Correspondence - Theatre (Miscellaneous).</unittitle>
+<container id="cid7974224" type="Box">14</container>
+<container parent="cid7974224" type="Folder">1</container>
+<unitdate>1974-1977.</unitdate>
+<physdesc id="ref214">printed paper, envelopes, onion skin paper</physdesc>
+</did>
+<scopecontent id="ref215">
+<p>Includes correspondence regarding productions, theatrical events and education.</p>
+</scopecontent>
+</c01>
+<c01 id="ref216" level="file">
+<did>
+<unittitle>Correspondence - Personal (Miscellaneous).</unittitle>
+<container id="cid7974223" type="Box">14</container>
+<container parent="cid7974223" type="Folder">2</container>
+<unitdate>1974-1980.</unitdate>
+<physdesc id="ref217">printed paper, handwritten letters</physdesc>
+</did>
+<scopecontent id="ref218">
+<p>Correspondence with friends and colleagues, the bulk are greeting cards sent for birthday or holiday celebrations.</p>
+</scopecontent>
+</c01>
+<c01 id="ref219" level="file">
+<did>
+<unittitle>Correspondence - Personal (Miscellaneous) 2.</unittitle>
+<container id="cid7974222" type="Box">14</container>
+<container parent="cid7974222" type="Folder">3</container>
+<unitdate>1974-1980.</unitdate>
+<physdesc id="ref220">printed paper, handwritten letters, greeting cards</physdesc>
+</did>
+<scopecontent id="ref221">
+<p>Correspondence with friends, colleagues and family. The majority is made up of greeting cards.</p>
+</scopecontent>
+</c01>
+<c01 id="ref222" level="file">
+<did>
+<unittitle>Correspondence - Danella.</unittitle>
+<container id="cid7974221" type="Box">14</container>
+<container parent="cid7974221" type="Folder">4</container>
+<unitdate>1982-1983.</unitdate>
+<physdesc id="ref223">handwritten letters</physdesc>
+</did>
+<scopecontent id="ref224">
+<p>Correspondence with Sandy Dwyer and her lover Danella. Some of the letters include annotations on letters from Danella by Sandy.</p>
+</scopecontent>
+</c01>
+<c01 id="ref225" level="file">
+<did>
+<unittitle>Production Book for Bye Bye Birdie.</unittitle>
+<container id="cid7974220" type="Box">15</container>
+<container parent="cid7974220" type="Folder">1</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref226">photocopies</physdesc>
+</did>
+<scopecontent id="ref227">
+<p>Production book used by Sandy Dwyer for a production of Bye Bye Birdie.</p>
+</scopecontent>
+</c01>
+<c01 id="ref228" level="file">
+<did>
+<unittitle>Headshots and CAA contracts.</unittitle>
+<container id="cid7974219" type="Box">15</container>
+<container parent="cid7974219" type="Folder">2</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref229">photographs, printed paper</physdesc>
+</did>
+<scopecontent id="ref230">
+<p>Headshots from different points in Sandy Dwyer's acting career, some under the name of Sandra Nelson. Also included are signed contracts with agents and actor's unions.</p>
+</scopecontent>
+</c01>
+<c01 id="ref231" level="file">
+<did>
+<unittitle>Production Book for Talent Debut.</unittitle>
+<container id="cid7974218" type="Box">15</container>
+<container parent="cid7974218" type="Folder">3</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref232">printed paper</physdesc>
+</did>
+<scopecontent id="ref233">
+<p>Production book used by Sandy Dwyer in a production of Talent Debut.</p>
+</scopecontent>
+</c01>
+<c01 id="ref234" level="file">
+<did>
+<unittitle>Miscellaneous Scripts.</unittitle>
+<container id="cid7974217" type="Box">15</container>
+<container parent="cid7974217" type="Folder">4</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref235">printed paper</physdesc>
+</did>
+<scopecontent id="ref236">
+<p>Miscellaneous scripts, no attribution or participation is noted or indicated on the scripts.</p>
+</scopecontent>
+</c01>
+<c01 id="ref237" level="file">
+<did>
+<unittitle>Actor's Workshop.</unittitle>
+<container id="cid7974216" type="Box">15</container>
+<container parent="cid7974216" type="Folder">5</container>
+<unitdate>1984.</unitdate>
+<physdesc id="ref238">printed paper, envelopes</physdesc>
+</did>
+<scopecontent id="ref239">
+<p>Programs, class information, newsletters and reviews from the Actor's Workshop.</p>
+</scopecontent>
+<odd id="ref240">
+<head>General note</head>
+<p>Founded by Film/TV actor R.J. Adams in 1980, The Actors Workshop has been training aspiring and professional young film/television actors in both Los Angeles and Orange County, California.</p>
+</odd>
+</c01>
+<c01 id="ref241" level="file">
+<did>
+<unittitle>"A Waltz for Women's Voices".</unittitle>
+<container id="cid7974215" type="Box">15</container>
+<container parent="cid7974215" type="Folder">6</container>
+<unitdate>1976.</unitdate>
+<physdesc id="ref242">printed paper</physdesc>
+</did>
+<scopecontent id="ref243">
+<p>Sandy Dwyer was cast in this play as the narrator but it never opened. Contained are working scripts.</p>
+</scopecontent>
+</c01>
+<c01 id="ref244" level="file">
+<did>
+<unittitle>"The Blonde in Twenty B".</unittitle>
+<container id="cid7974214" type="Box">15</container>
+<container parent="cid7974214" type="Folder">7</container>
+<unitdate>1981.</unitdate>
+<physdesc id="ref245">printed paper</physdesc>
+</did>
+<scopecontent id="ref246">
+<p>Working script for Sandy Dwyer, who was cast in the role of Bernice.</p>
+</scopecontent>
+</c01>
+<c01 id="ref247" level="file">
+<did>
+<unittitle>Theatrical Leaflets.</unittitle>
+<container id="cid7974213" type="Box">15</container>
+<container parent="cid7974213" type="Folder">8</container>
+<unitdate>1979-1985.</unitdate>
+<physdesc id="ref248">flyers, printed paper</physdesc>
+</did>
+<scopecontent id="ref249">
+<p>Flyers and leaflets for various productions.</p>
+</scopecontent>
+</c01>
+<c01 id="ref250" level="file">
+<did>
+<unittitle>"Newspaper Clippings".</unittitle>
+<container id="cid7974212" type="Box">15</container>
+<container parent="cid7974212" type="Folder">9</container>
+<unitdate>1980-1987.</unitdate>
+<physdesc id="ref251">printed paper, newsprint</physdesc>
+</did>
+<scopecontent id="ref252">
+<p>Reviews of shows and other media mentions of Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref253" level="file">
+<did>
+<unittitle>"Crisis Counselor".</unittitle>
+<container id="cid7974211" type="Box">15</container>
+<container parent="cid7974211" type="Folder">10</container>
+<unitdate>1982.</unitdate>
+<physdesc id="ref254">printed paper</physdesc>
+</did>
+<scopecontent id="ref255">
+<p>Script and correspondence about the public service announcement "Crisis Counselor" in which Sandy Dwyer was cast as a lesbian mother involved in a custody battle.</p>
+</scopecontent>
+</c01>
+<c01 id="ref256" level="file">
+<did>
+<unittitle>Theater Company Proposal.</unittitle>
+<container id="cid7974210" type="Box">15</container>
+<container parent="cid7974210" type="Folder">11</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref257">printed paper</physdesc>
+</did>
+<scopecontent id="ref258">
+<p>Proposal and accompanying notes as well as correspondence written by Sandy Dwyer. The proposal was for a gay and lesbian theater company in Los Angeles.</p>
+</scopecontent>
+</c01>
+<c01 id="ref259" level="file">
+<did>
+<unittitle>Softball League.</unittitle>
+<container id="cid7974209" type="Box">16</container>
+<container parent="cid7974209" type="Folder">1</container>
+<unitdate>1970.</unitdate>
+<physdesc id="ref260">handwritten notes</physdesc>
+</did>
+<scopecontent id="ref261">
+<p>Notes, statistics and information about the softball league in which Sandy Dwyer participated.</p>
+</scopecontent>
+</c01>
+<c01 id="ref262" level="file">
+<did>
+<unittitle>Correspondence - Personal (3).</unittitle>
+<container id="cid7974208" type="Box">16</container>
+<container parent="cid7974208" type="Folder">2</container>
+<unitdate>1970-1989.</unitdate>
+<physdesc id="ref263">greeting cards</physdesc>
+</did>
+<scopecontent id="ref264">
+<p>Greeting cards sent to Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref265" level="file">
+<did>
+<unittitle>Correspondence - Personal (4).</unittitle>
+<container id="cid7974207" type="Box">16</container>
+<container parent="cid7974207" type="Folder">3</container>
+<unitdate>1970-1989.</unitdate>
+<physdesc id="ref266">greeting cards</physdesc>
+</did>
+<scopecontent id="ref267">
+<p>Greeting cards sent to Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref268" level="file">
+<did>
+<unittitle>Logo (The News).</unittitle>
+<container id="cid7974206" type="Box">16</container>
+<container parent="cid7974206" type="Folder">4</container>
+<unitdate>1986.</unitdate>
+<physdesc id="ref269">handwritten notes, drawings, collage</physdesc>
+</did>
+<scopecontent id="ref270">
+<p>Logo for the gay and lesbian magazine founded and operated by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref271" level="file">
+<did>
+<unittitle>Miscellaneous.</unittitle>
+<container id="cid7974205" type="Box">16</container>
+<container parent="cid7974205" type="Folder">5</container>
+<unitdate>No Date.</unitdate>
+<physdesc id="ref272">drawings, notebooks</physdesc>
+</did>
+<scopecontent id="ref273">
+<p>Notebooks of poetry from former lovers of Sandy Dwyer, personal calendars and drawings.</p>
+</scopecontent>
+</c01>
+<c01 id="ref274" level="file">
+<did>
+<unittitle>Frontiers Magazine.</unittitle>
+<container id="cid7974204" type="Box">16</container>
+<container parent="cid7974204" type="Folder">6</container>
+<unitdate>1985.</unitdate>
+<physdesc id="ref275">newsprint , printed paper</physdesc>
+</did>
+<scopecontent id="ref276">
+<p>Articles written by Sandy Dwyer as well as photographs taken by Sandy Dwyer that were commissioned by or featured in Frontiers Magazine.</p>
+</scopecontent>
+</c01>
+<c01 id="ref277" level="file">
+<did>
+<unittitle>Poetry (Notebook).</unittitle>
+<container id="cid7974203" type="Box">17</container>
+<container parent="cid7974203" type="Folder">1</container>
+<unitdate>1963-1978.</unitdate>
+<physdesc id="ref278">handwritten notes</physdesc>
+</did>
+<scopecontent id="ref279">
+<p>Poetry drafts and edits from two different notebooks in the collection.</p>
+</scopecontent>
+</c01>
+<c01 id="ref280" level="file">
+<did>
+<unittitle>Poetry (Rough Drafts).</unittitle>
+<container id="cid7974202" type="Box">17</container>
+<container parent="cid7974202" type="Folder">2</container>
+<unitdate>1968-1977.</unitdate>
+<physdesc id="ref281">typewritten paper with handwritten notes</physdesc>
+</did>
+<scopecontent id="ref282">
+<p>Rough drafts of a poetry series written by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref283" level="file">
+<did>
+<unittitle>Poetry (Originals).</unittitle>
+<container id="cid7974201" type="Box">17</container>
+<container parent="cid7974201" type="Folder">3</container>
+<unitdate>1978.</unitdate>
+<physdesc id="ref284">printed paper</physdesc>
+</did>
+<scopecontent id="ref285">
+<p>Poetry series by Sandy Dwyer, marked by her as "Originals."</p>
+</scopecontent>
+</c01>
+<c01 id="ref286" level="file">
+<did>
+<unittitle>"Once Upon a Lifetime" Poetry Collection.</unittitle>
+<container id="cid7974200" type="Box">17</container>
+<container parent="cid7974200" type="Folder">4</container>
+<unitdate>1974.</unitdate>
+<physdesc id="ref287">printed paper</physdesc>
+</did>
+<scopecontent id="ref288">
+<p>Poetry collection written by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref289" level="file">
+<did>
+<unittitle>Department of Public Social Services (DPSS).</unittitle>
+<container id="cid7974199" type="Box">17</container>
+<container parent="cid7974199" type="Folder">5</container>
+<unitdate>1969-1976.</unitdate>
+<physdesc id="ref290">printed paper, invoices, cards</physdesc>
+</did>
+<scopecontent id="ref291">
+<p>Employment records, test results, applications and resumes from Sandy Dwyer's tenure at the DPSS. This included time spent as a social worker, analyst and program assistant.</p>
+</scopecontent>
+</c01>
+<c01 id="ref292" level="file">
+<did>
+<unittitle>Certificates.</unittitle>
+<container id="cid7974198" type="Box">17</container>
+<container parent="cid7974198" type="Folder">6</container>
+<unitdate>1971-1977.</unitdate>
+<physdesc id="ref293">printed paper</physdesc>
+</did>
+<scopecontent id="ref294">
+<p>Certificate of appreciation from the city in appreciation of Sandy Dwyer's service on a jury as well as a certificate recognizing her participation in a softball league.</p>
+</scopecontent>
+</c01>
+<c01 id="ref295" level="file">
+<did>
+<unittitle>Poetry (Typed Drafts).</unittitle>
+<container id="cid7974197" type="Box">18</container>
+<container parent="cid7974197" type="Folder">1</container>
+<unitdate>1968-1977.</unitdate>
+<physdesc id="ref296">printed paper</physdesc>
+</did>
+<scopecontent id="ref297">
+<p>Typed drafts of various pieces of poetry collections by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref298" level="file">
+<did>
+<unittitle>Essays.</unittitle>
+<container id="cid7974196" type="Box">18</container>
+<container parent="cid7974196" type="Folder">2</container>
+<unitdate>No Date.</unitdate>
+</did>
+<scopecontent id="ref299">
+<p>"Jeans", "Labels", "Moments" and "Why I Write, all essays by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref300" level="file">
+<did>
+<unittitle>Medical Handbook.</unittitle>
+<container id="cid7974195" type="Box">18</container>
+<container parent="cid7974195" type="Folder">3</container>
+<unitdate>1972.</unitdate>
+<physdesc id="ref301">printed paper</physdesc>
+</did>
+<scopecontent id="ref302">
+<p>Medical handbook partially compiled by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref303" level="file">
+<did>
+<unittitle>Information and Referral Directory.</unittitle>
+<container id="cid7974194" type="Box">18</container>
+<container parent="cid7974194" type="Folder">4</container>
+<unitdate>1974.</unitdate>
+<physdesc id="ref304">bound paper</physdesc>
+</did>
+<scopecontent id="ref305">
+<p>Directory containing listings of medical and psychological services.</p>
+</scopecontent>
+</c01>
+<c01 id="ref306" level="file">
+<did>
+<unittitle>Poetry (Rewrites).</unittitle>
+<container id="cid7974193" type="Box">18</container>
+<container parent="cid7974193" type="Folder">5</container>
+<unitdate>1978.</unitdate>
+<physdesc id="ref307">printed paper</physdesc>
+</did>
+<scopecontent id="ref308">
+<p>Rewrites of poetry from a collection by Sandy Dwyer.</p>
+</scopecontent>
+</c01>
+<c01 id="ref309" level="file">
+<did>
+<unittitle>Radio Scripts (1).</unittitle>
+<container id="cid7974192" type="Box">19</container>
+<container parent="cid7974192" type="Folder">1</container>
+<unitdate>1989.</unitdate>
+<physdesc id="ref310">typed paper</physdesc>
+</did>
+<scopecontent id="ref311">
+<p>Scripts for radio program "This Way Out."</p>
+</scopecontent>
+<odd id="ref312">
+<head>General note</head>
+<p>"This Way Out" is a weekly half-hour community radio program produced by and for LGBT people and their equality allies. The "magazine style" show is heard on more than 200 local stations around the world, via satellite to cable and home receivers in Europe, Asia, Africa, and the Middle East, and online via our podcasts (click on the link in the upper right-hand corner).</p>
+</odd>
+</c01>
+<c01 id="ref313" level="file">
+<did>
+<unittitle>Radio Scripts (2).</unittitle>
+<container id="cid7974191" type="Box">19</container>
+<container parent="cid7974191" type="Folder">2</container>
+<unitdate>1989.</unitdate>
+<physdesc id="ref314">typed paper</physdesc>
+</did>
+<scopecontent id="ref315">
+<p>Scripts for the radio program "This Way Out."</p>
+</scopecontent>
+<odd id="ref316">
+<head>General note</head>
+<p>"This Way Out" is a weekly half-hour community radio program produced by and for LGBT people and their equality allies. The "magazine style" show is heard on more than 200 local stations around the world, via satellite to cable and home receivers in Europe, Asia, Africa, and the Middle East, and online via our podcasts (click on the link in the upper right-hand corner).</p>
+</odd>
+</c01>
+<c01 id="ref317" level="file">
+<did>
+<unittitle>Radio Scripts (3).</unittitle>
+<container id="cid7974190" type="Box">19</container>
+<container parent="cid7974190" type="Folder">3</container>
+<unitdate>1989.</unitdate>
+<physdesc id="ref318">typed paper</physdesc>
+</did>
+<scopecontent id="ref319">
+<p>Scripts for the radio program "This Way Out."</p>
+</scopecontent>
+<odd id="ref320">
+<head>General note</head>
+<p>"This Way Out" is a weekly half-hour community radio program produced by and for LGBT people and their equality allies. The "magazine style" show is heard on more than 200 local stations around the world, via satellite to cable and home receivers in Europe, Asia, Africa, and the Middle East, and online via our podcasts (click on the link in the upper right-hand corner).</p>
+</odd>
+</c01>
+</dsc>
+</archdesc>
+</ead>
