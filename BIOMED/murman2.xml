@@ -1,0 +1,5883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival 
+Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" 
+dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="CLU" publicid="PUBLIC &quot;-//University of California, Los Angeles::Louise M. Darling Biomedical 
+Library::History and Special Collections Division//TEXT (US::CLU::46::Eugene Otto Weber Murman Watercolors of California Flora.)//EN&quot; 
+&quot;murman46.xml&quot;">murman46.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Eugene Otto Weber Murman Watercolors of California Flora, 
+<date calendar="gregorian" era="ce">1941-1961</date></titleproper>
+<titleproper type="filing">Murman (Eugene O. W.) watercolors of California flora</titleproper>
+<author>Processed by Pat L. Walter.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Louise M. Darling Biomedical Library History and Special Collections Division</publisher>
+<address>
+<addressline>History and Special Collections Division</addressline>
+<addressline>UCLA</addressline>
+<addressline>12-077 Center for Health Sciences</addressline>
+<addressline>Box 951798</addressline>
+<addressline>Los Angeles, CA 90095-1798</addressline>
+<addressline>Phone: 310/825-6940</addressline>
+<addressline>Fax: 310/825-0465</addressline>
+<addressline>Email: biomed-ref@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/biomed/his/hisdiv.htm</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9;2005</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from ColdFusion web application and SQLServer relational database. Date of source: <date calendar="gregorian" era="ce">July, 2002</date></creation>
+<langusage>Finding aid written in: <language langcode="eng" scriptcode="lat">English.</language></langusage>
+<descrules>Finding aid prepared using <title render="italic">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Finding Aid of the Eugene Otto Weber Murman Watercolors of California Flora, 
+<date calendar="gregorian" era="ce">1941-1961</date></titleproper>
+<num>Collection number: 46</num>
+<publisher>Louise M. Darling Biomedical Library History and Special Collections Division
+<lb/>University of California, Los Angeles
+<lb/>Los Angeles, CA
+</publisher>
+<list type="simple">
+<head>Contact Information:</head>
+<item>Louise M. Darling Biomedical Library History and Special Collections Division</item>
+<item>History and Special Collections Division</item>
+<item>UCLA</item>
+<item>12-077 Center for Health Sciences</item>
+<item>Box 951798</item>
+<item>Los Angeles, CA 90095-1798</item>
+<item>310/825-6940</item>
+<item>310/825-0465</item>
+<item>biomed-ref@library.ucla.edu</item>
+<item>http://www.library.ucla.edu/libraries/biomed/his/hisdiv.htm</item>
+</list>
+<list type="deflist">
+<defitem>
+<label>Processed by:</label>
+<item>Pat L. Walter.</item>
+</defitem>
+<defitem>
+<label>Date Completed:</label>
+<item>July, 2002</item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>Louise M. Darling Biomedical Library History and Special Collections 
+Division staff.</item>
+</defitem>
+</list>
+<p>&#x00A9;2005 The Regents of the University of California. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Eugene Otto Weber Murman Watercolors of California Flora,</unittitle> 
+<unitdate type="inclusive">1941-1961</unitdate>
+<unitid label="Collection number" repositorycode="CLU" countrycode="US">46</unitid>
+<origination label="Creator"><persname source="lcnaf">Murman, Eugene Otto Weber</persname></origination>
+<physdesc label="Extent"><extent>26 boxes (52 linear ft.) and 78 35-mm. slides</extent></physdesc>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library. 
+<subarea>Louise M. Darling Biomedical Library History and Special 
+Collections Division</subarea></corpname>
+<address><addressline>Los Angeles, California 90095-1490</addressline></address>
+</repository>
+<abstract label="Abstract">The Murman collection consists of 495 original 
+watercolors and 26 photographs of California native plants, representing 
+85 different families and ca. 460 species. The paintings are 
+scientifically accurate as well as artistic, each showing details of a 
+branch and enlarged paintings of the flowers, fruit, and other diagnostic 
+parts. Murman, originally a Russian banker, trained as a commercial artist 
+after his emigration to the U.S. in 1905 and became a furniture designer 
+in Los Angeles in 1906. After his retirement, he began traveling 
+throughout California making preliminary sketches, color notes, and 
+photographs of plants and collecting dried specimens; using these, Murman 
+produced his body of watercolors in his home studio. Each series in the 
+Container List represents a plant family. Each entry represents one plate, 
+listing the scientific and common name, date &#x0026; place of specimen 
+collection, plus notes.</abstract>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice 
+is required for access to the collection. Please contact Louise M. Darling 
+Biomedical Library History and Special Collections Division for paging 
+information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict>
+<head>Access</head>
+<p>The collection is open for research. The copyright for the plates does 
+not reside with UCLA. Some plates, mostly of conifers and other California 
+trees, have been published by the University of California Press or 
+Cachuma Press; rights to these plates will pass into the public domain in 
+2012. Contact the History &#x0026; Special Collections Division of the 
+Louise M. Darling Biomedical Library, UCLA, for further information.</p>
+</accessrestrict>
+<userestrict>
+<head>Publication Rights</head>
+<p>Property rights in the physical objects belong to the UCLA Biomedical 
+Library. Literary rights, including copyright, are retained by the 
+creators and their heirs. It is the responsibility of the researcher to 
+determine who holds the copyright and pursue the copyright owner or his or 
+her heir for permission to publish if the Biomedical Library does not hold 
+the copyright. </p>
+</userestrict>
+<prefercite>
+<head>Preferred Citation</head>
+<p>[Identification of item], Eugene Otto Weber Murman watercolors of California flora (Manuscript collection 46). Louise M. Darling Biomedical Library History and Special Collections Division, University of California, Los Angeles.</p>
+</prefercite> 
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4430904">4430904</extref></p>
+</odd>
+<acqinfo>
+<head>Acquisition Information</head>
+<p>In the late 1940s or early 1950s, Murman began selling these watercolor 
+plates to the UCLA Library's Department of Special Collections. At his 
+death in 1962 the UCLA collection numbered 521 plates. In 1984, to mark 
+the occasion of naming the UCLA Biomedical Library in honor of Louise M. 
+Darling, its first librarian, the UCLA Library Special Collections 
+Department transferred the Murman watercolors to the Louise M. Darling 
+Biomedical Library.</p>
+</acqinfo>
+<processinfo>
+<head>Processing Information</head>
+<p>Processed by: Pat L. Walter, July, 2002</p>
+</processinfo>
+</descgrp>
+<bioghist>
+<head>Biography</head>
+<p>Eugene O. Murman (Apr. 18, 1874 - Mar. 17, 1962) was born in St. 
+Petersburg, Russia and developed an early interest in natural history and 
+nature photography. After jobs as translator and clerk, he joined the 
+foreign exchange department of the Russian Commercial and Industrial Bank 
+and remained there until his immigration to the United States in 1905. 
+Unable to find a banking position in New York, Murman decided on a change 
+of career and spent a year in Germany being trained as a commercial 
+artist. In 1906 he moved to Los Angeles where he soon became head designer 
+for the California Furniture Company, which subsequently became W. 
+&#x0026; J. Sloane; he stayed with this firm for thirty-four years. During 
+his free hours and on holidays he amassed a fine butterfly collection and 
+became familiar with the plants and birds of his new home. His collection 
+of hand-colored lantern slides was used to illustrate lectures on various 
+natural history topics; these slides now reside in the Hancock Library of 
+Biology &#x0026; Oceanography at the University of Southern California. 
+The butterfly collection was given to the Los Angeles County Museum of 
+Natural History.</p>
+<p>After his retirement, Murman and his second wife began a project to 
+document the California flora in watercolors. Frequent collecting trips 
+took them to many parts of the state and acquainted them with various 
+botanists, forest rangers, and park naturalist, many of whom cooperated by 
+sending living specimens of flowers and fruit, and assisted in 
+identification of plants. Murman made color notes and preliminary sketches 
+in the field and took black-and-white photographs for form and size, while 
+Mrs. Murman took color photographs of the plants in their native habitat. 
+With the aid of these field notes and photographs, as well as dried 
+specimens, Murman then produced his outstanding series of watercolors in 
+his home studio. His work received wide recognition, and just before his 
+death he completed copies of four paintings for the collection of 
+botanical art in the Hunt Botanical Library, Carnegie Institute of 
+Technology.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content</head>
+<p>Eighty-five families of California plants are represented by Murman's 
+watercolor plates, approximately 460 species. Specimens came from many 
+California counties from north to south, with a fair number also collected 
+in Oregon, Arizona, and other western locations. Each plate consists of an 
+8 x 10" watercolor (or photograph) on a 15 x 20" board.</p>
+<p>Murman provided family, genus, and species (scientific and common 
+names), location and date of specimen collection for each of the plates. 
+The plates were numbered in the order of their accession at UCLA, so plate 
+(and box) numbers serve only as location indicators; there is no taxonomic 
+order to them. Murman's nomenclature is occasionally outdated, so some 
+ingenuity and patience may be needed to locate a specific plant in the 
+finding aid.</p>
+<p>Each SERIES in the Container List represents a plant Family. Brackets 
+indicate earlier or variant forms of the scientific family name; 
+parentheses indicate the common name; the dates indicate inclusive 
+collection dates. The "International Plant Name Index" (IPNI) 
+(http://www.ipni.org) was used as the authority for placing a plate within 
+a particular family (which sometimes differs from Murman's 
+classification), and The National Plant Data Center's "Plants Database" 
+(http://plants.usda.gov) served as the authority for the common family 
+name used. Each ENTRY within a series represents a Murman plate. The 
+genus, species, and common names of the specimens are in the form provided 
+by Murman; no effort was made to standardize or update them. Again, the 
+date is the date of specimen collecting; the notes include collecting 
+location(s).</p>
+<p>Related Collection: The Department of Special Collections, Young 
+Research Library, UCLA in its Collection #1237 holds Murman archival 
+material that extends one's knowledge of Mr. Murman's work and interests. 
+Included are documents, lecture notes, photographs, sketches, slides, 
+scrapbooks, and notebooks covering Russian cooking, ethnic costumes and 
+artifacts, designs and interiors, gardens, flora, and travel.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this 
+collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<subject>Botany -- California</subject>
+</controlaccess>
+</controlaccess>
+
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 level="series">
+<did>
+<unitid>Series 1.</unitid>
+<unittitle>Acanthaceae (Acanthus) Family. 
+<unitdate>1958</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">340</container>
+<unittitle>Beloperone californica 
+(chuparosa).<unitdate>3/20/58</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 2.</unitid>
+<unittitle>Aceraceae (Maple) Family. 
+<unitdate>1965</unitdate></unittitle>
+<physdesc><extent>4 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">1</container>
+<unittitle>Acer circinatum (vine 
+maple).<unitdate>5/15/54</unitdate></unittitle>
+</did>
+<note><p>McCloud, Siskiyou County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">2</container>
+<unittitle>Acer glabrum (Sierra 
+maple).<unitdate>7/20/54</unitdate></unittitle>
+</did>
+<note><p>McCloud, Siskiyou County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">3</container>
+<unittitle>Acer macrophyllum (bigleaf 
+maple).<unitdate>4/3/54</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">4</container>
+<unittitle>Acer negundo var. californicum (box 
+elder)<unitdate>4/3/54</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 3.</unitid>
+<unittitle>Agavaceae (Century-plant) Family. 
+<unitdate>1941-1960</unitdate></unittitle>
+<physdesc><extent>7 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">453</container>
+<unittitle>Yucca baccata (Spanish dagger).<unitdate>5/7/60, 
+9/60</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden; Kaibab National Forest, AZ; 
+plate indicates Family: Liliaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">198</container>
+<unittitle>Yucca brevifolia (joshua 
+tree).<unitdate>3/16/41</unitdate></unittitle>
+</did>
+<note><p>Mojave Desert; plate indicates Family: Liliaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">199</container>
+<unittitle>Yucca mojavensis (Mojave 
+yucca).<unitdate>3/30/41</unitdate></unittitle>
+</did>
+<note><p>Colorado Desert; plate indicates Family: Liliaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">200</container>
+<unittitle>Yucca mojavensis (Mojave 
+yucca).<unitdate>4/27/41</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Morongo Valley, San Bernardino County; plate indicates Family: 
+Liliaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">201</container>
+<unittitle>Yucca mojavensis (Mojave yucca; Spanish 
+dagger).<unitdate>5/13/54</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument, San Bernardino County; plate 
+indicates Family: Liliaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">202</container>
+<unittitle>Yucca mojavensis (Mojave yucca; Spanish 
+dagger).<unitdate>5/14/54</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Joshua Tree National Monument, San Bernardino County; plate 
+indicates Family: Liliaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">348</container>
+<unittitle>Yucca whipplei (our Lord's candle; Spanish 
+bayonet).<unitdate>5/1/57, 7/9/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden; plate indicates Family: 
+Liliaceae</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 4.</unitid>
+<unittitle>Aizoaceae (Fig-marigold [Carpet weed]) Family. 
+<unitdate>1961</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">379</container>
+<unittitle>Mesembryanthemum crystallinum (ice 
+plant).<unitdate>4/27/61</unitdate></unittitle>
+</did>
+<note><p>Rincon Point, Ventura County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">376</container>
+<unittitle>Mesembryanthemum edule (Hottentot 
+fig).<unitdate>4/20/61</unitdate></unittitle>
+</did>
+<note><p>no collection place</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 5.</unitid>
+<unittitle>Amaryllidaceae (Amaryllis) Family. 
+<unitdate>1954-1955</unitdate></unittitle>
+<physdesc><extent>3 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">5</container>
+<unittitle>Agave deserti (desert 
+agave).<unitdate>5/14/54</unitdate></unittitle>
+</did>
+<note><p>In-ko-pah Gorge, Imperial County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">382</container>
+<unittitle>Agave shawii (Shaw's 
+agave).<unitdate>1/15/55</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">460</container>
+<unittitle>Agave shawii (Shaw's 
+agave).<unitdate>1/16/55</unitdate></unittitle>
+</did>
+<note><p>coast near Mexico border</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 6.</unitid>
+<unittitle>Anacardiaceae (Sumac) Family. 
+<unitdate>1953-1957</unitdate></unittitle>
+<physdesc><extent>5 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">6</container>
+<unittitle>Rhus diversiloba (poison oak).<unitdate>3/30/53, 
+6/28/53</unitdate></unittitle>
+</did>
+<note><p>also slide #159; Glendale, Verdugo Hills, Los Angeles 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">7</container>
+<unittitle>Rhus integrifolia (lemonade berry; mahogany 
+sumac).<unitdate>1/25/53, 7/3/53</unitdate></unittitle>
+</did>
+<note><p>also slide #160; Glendale, Verdugo Hills, Los Angeles County; 
+Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">8</container>
+<unittitle>Rhus laurina (laurel sumac).<unitdate>6/28/53, 7/26/53, 
+9/13/53</unitdate></unittitle>
+</did>
+<note><p>also slide #161; Verdugo Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">9</container>
+<unittitle>Rhus ovata (sugar bush; sugar sumac).<unitdate>6/28/53, 
+6/1/53</unitdate></unittitle>
+</did>
+<note><p>also slide #162; Potrero Valley, Ventura County; Santa Barbara 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">425</container>
+<unittitle>Rhus trilobata (squaw bush).<unitdate>3/7/57, 
+5/11/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 7.</unitid>
+<unittitle>Apiaceae [Umbelliferae] (Parsley) Family. 
+<unitdate>1955</unitdate></unittitle>
+<physdesc><extent>3 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">412</container>
+<unittitle>Angelica lineariloba (poison 
+angelica).<unitdate>7/17/55</unitdate></unittitle>
+</did>
+<note><p>June Lake, Mono County; collected at 7,650' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">411</container>
+<unittitle>Heracleum lanatum (cow 
+parsnip).<unitdate>7/17/55</unitdate></unittitle>
+</did>
+<note><p>Silver Lake, Mono County; collected at 7,250' 
+elevation.</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">410</container>
+<unittitle>Sphenosciadium capitellatum (no common 
+name).<unitdate>7/17/55</unitdate></unittitle>
+</did>
+<note><p>Silver Lake, Mono County; collected at 7,250' 
+elevation</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 8.</unitid>
+<unittitle>Aristolochiaceae (Birthwort) Family. 
+<unitdate>1955</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">463</container>
+<unittitle>Aristolochia californica (Dutchman's 
+pipe).<unitdate>2/18/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 9.</unitid>
+<unittitle>Asclepiadaceae (Milkweed) Family. 
+<unitdate>1941-1960</unitdate></unittitle>
+<physdesc><extent>4 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">10</container>
+<unittitle>Asclepias cordifolia (purple 
+milkweed).<unitdate>6/1/42</unitdate></unittitle>
+</did>
+<note><p>Madera County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">11</container>
+<unittitle>Asclepias eriocarpa 
+(milkweed).<unitdate>7/16/41</unitdate></unittitle>
+</did>
+<note><p>Charlton Flats, Angeles National Forest</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">12</container>
+<unittitle>Asclepias erosa (desert 
+milkweed).<unitdate>6/1/42</unitdate></unittitle>
+</did>
+<note><p>Madera County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">455</container>
+<unittitle>Asclepias mexicana (Mexican 
+milkweed).<unitdate>8/14/60</unitdate></unittitle>
+</did>
+<note><p>Canoga Park, Los Angeles County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 10.</unitid>
+<unittitle>Asteraceae [Compositae] (Sunflower) Family. 
+<unitdate>1941-1961</unitdate></unittitle>
+<physdesc><extent>27 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">45</container>
+<unittitle>Artemisia bolanderi (common 
+sagebrush).<unitdate>8/20/54</unitdate></unittitle>
+</did>
+<note><p>Mammoth, Mono County; collected at 8,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">495</container>
+<unittitle>Artemisia pycnocephala (thickheaded 
+sagebrush).<unitdate>6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">331</container>
+<unittitle>Baileye multiradiata (woolly 
+marigold).<unitdate>2/3/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">46</container>
+<unittitle>Centaurea solstitialis (yellow star thistle; Barnaby's 
+thistle).<unitdate>8/27/51</unitdate></unittitle>
+</did>
+<note><p>Marin County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">47</container>
+<unittitle>Cichorium intybus 
+(chicory).<unitdate>8/27/51</unitdate></unittitle>
+</did>
+<note><p>Marin County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">378</container>
+<unittitle>Cirsium drummondii var. acaulescens (dwarf 
+thistle).<unitdate>8/20/54, 1961</unitdate></unittitle>
+</did>
+<note><p>Arcularis Ranch, Mono County; collected at 8,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">471</container>
+<unittitle>Cirsium occidentale (western 
+thistle).<unitdate>5/10/55</unitdate></unittitle>
+</did>
+<note><p>Verdugo Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">48</container>
+<unittitle>Coreopsis calliopsidea 
+(coreopsis).<unitdate>5/10/42</unitdate></unittitle>
+</did>
+<note><p>Mojave Desert, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">359</container>
+<unittitle>Coreopsis gigantea (giant 
+coreopsis).<unitdate>1/5/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">360</container>
+<unittitle>Coreopsis maritima (coast 
+coreopsis).<unitdate>1/5/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">361</container>
+<unittitle>Encelia farinosa (brittle bush; 
+incienso).<unitdate>3/20/58</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">49</container>
+<unittitle>Erigeron glaucus (seaside 
+daisy).<unitdate>8/23/51</unitdate></unittitle>
+</did>
+<note><p>Pacific Grove, Monterey County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">494</container>
+<unittitle>Eriophyllum nevinii (Catalina silver 
+lace).<unitdate>5/11/57</unitdate></unittitle>
+</did>
+<note><p>Catalina &#x0026; San Clemente Islands; Santa Barbara Botanic 
+Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">496</container>
+<unittitle>Franseria dumosa (burro 
+bush).<unitdate>2/10/61</unitdate></unittitle>
+</did>
+<note><p>Borrego Springs, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">497</container>
+<unittitle>Geraea canescens (desert 
+sunflower).<unitdate>4/22/61</unitdate></unittitle>
+</did>
+<note><p>Painted Canyon near Mecca, Riverside County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">50</container>
+<unittitle>Grindelia robusta (gum 
+plant).<unitdate>8/23/51</unitdate></unittitle>
+</did>
+<note><p>Pacific Grove, Monterey County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">362</container>
+<unittitle>Haplopappus linearifolius var. interior (narrowleaf 
+goldenbush).<unitdate>4/18/58</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">498</container>
+<unittitle>Hymenoclea monogyra (cheese 
+bush).<unitdate>2/10/61</unitdate></unittitle>
+</did>
+<note><p>Anza Borrego Desert State Park, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">51</container>
+<unittitle>Luina hypoleuca var. californica (no common 
+name).<unitdate>6/3/41</unitdate></unittitle>
+</did>
+<note><p>Patrick Creek near Hwy. #199</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">363</container>
+<unittitle>Monoptilon bellioides (desert 
+star).<unitdate>3/20/58</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">499</container>
+<unittitle>Palafoxia linearis (Spanish 
+needle).<unitdate>5/15/61</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">52</container>
+<unittitle>Perezia microcephala 
+(scapelote).<unitdate>8/31/51</unitdate></unittitle>
+</did>
+<note><p>Lompoc, Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">53</container>
+<unittitle>Peucephyllum schottii (pigmy 
+cedar).<unitdate>2/20/54</unitdate></unittitle>
+</did>
+<note><p>Death Valley National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">500</container>
+<unittitle>Psathyrotes ramosissima (velvet 
+rosettes).<unitdate>4/22/61</unitdate></unittitle>
+</did>
+<note><p>Painted Canyon near Mecca, Riverside County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">54</container>
+<unittitle>Silybum marianum (milk 
+thistle).<unitdate>6/28/53</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">55</container>
+<unittitle>Tetradymia spinosa longispina (cotton 
+thorn).<unitdate>5/15/54</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">56</container>
+<unittitle>Wyethia helenioides (no common 
+name).<unitdate>6/3/41</unitdate></unittitle>
+</did>
+<note><p>Lake County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 11.</unitid>
+<unittitle>Berberidaceae (Barberry) Family. 
+<unitdate>1955-1958</unitdate></unittitle>
+<physdesc><extent>4 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">464</container>
+<unittitle>Berberis aquifolium (Oregon grape).<unitdate>2/18/55, 
+6/11/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">465</container>
+<unittitle>Berberis nevinii (Nevin barberry).<unitdate>3/26/55, 
+6/11/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">423</container>
+<unittitle>Berberis pinnata (California mahonia).<unitdate>3/7/57, 
+6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">341</container>
+<unittitle>Berberis piperiana (piper mahonia).<unitdate>2/3/58, 
+6/28/57</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 12.</unitid>
+<unittitle>Betulaceae (Birch) Family. 
+<unitdate>1955</unitdate></unittitle>
+<physdesc><extent>6 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">384</container>
+<unittitle>Alnus rhombifolia (white alder).<unitdate>1/20/55, 
+7/4/55</unitdate></unittitle>
+</did>
+<note><p>North Hollywood, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">466</container>
+<unittitle>Alnus rubra (red alder; Oregon alder).<unitdate>2/23/55, 
+3/23/55, 8/5/55,</unitdate></unittitle>
+</did>
+<note><p>Inverness, Marin County; Klamath, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">467</container>
+<unittitle>Alnus sinuata (Sitka alder).<unitdate>5/23/55, 
+9/14/55</unitdate></unittitle>
+</did>
+<note><p>Regional Botanic Garden, Berkeley, CA; Mount Hood, 
+OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">468</container>
+<unittitle>Alnus tenuifolia (thinleaf 
+alder).<unitdate>5/23/55</unitdate></unittitle>
+</did>
+<note><p>Regional Botanic Garden, Berkeley, CA</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">469</container>
+<unittitle>Betula fontinalis (water birch).<unitdate>5/11/55, 
+7/16/55</unitdate></unittitle>
+</did>
+<note><p>Rock Creek Canyon, Mono County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">470</container>
+<unittitle>Corylus rostrata var. californica (California 
+hazel).<unitdate>4/5/55, 11/2/55</unitdate></unittitle>
+</did>
+<note><p>Mills College, Oakland, Alameda County and also Josephine 
+County, OR</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 13.</unitid>
+<unittitle>Bignoniaceae (Bignonia) Family. 
+<unitdate>1954</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">13</container>
+<unittitle>Chilopsis linearis (desert willow; desert 
+catalpa).<unitdate>5/10/54, 10/24/54</unitdate></unittitle>
+</did>
+<note><p>Morongo Valley and Dagget, San Bernardino County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 14.</unitid>
+<unittitle>Brassicaceae [Cruiciferae] (Mustard) Family. 
+<unitdate>1958-1961</unitdate></unittitle>
+<physdesc><extent>3 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">508</container>
+<unittitle>Dithyrea californica (spectacle 
+pod).<unitdate>2/10/61</unitdate></unittitle>
+</did>
+<note><p>Anza Borrego Desert State Park, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">343</container>
+<unittitle>Stanleya pinnata (desert 
+plume).<unitdate>5/25/58</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">459</container>
+<unittitle>Streptanthus inflatus (squaw cabbage; desert 
+candle).<unitdate>4/22/60</unitdate></unittitle>
+</did>
+<note><p>Shoshone, Inyo County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 15.</unitid>
+<unittitle>Burseraceae [Burceraceae] (Torchwood) Family. 
+<unitdate>1957-1960</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">381</container>
+<unittitle>Bursera microphylla (elephant tree; torote).</unittitle>
+<physdesc>photograph by Dalton E. Merkel</physdesc>
+</did>
+<note><p>Anza Borrego Desert State Park, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">451</container>
+<unittitle>Bursera microphylla (elephant tree; 
+torote).<unitdate>7/28/57, 8/30/60</unitdate></unittitle>
+</did>
+<note><p>Anza Borrego Desert State Park, San Diego County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 16.</unitid>
+<unittitle>Buxaceae (Box) Family. 
+<unitdate>1957-1958</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">342</container>
+<unittitle>Simmondsia chinensis [Simmondsia californica] (goat nut; 
+jojoba).<unitdate>6/28/57, 1/6/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden; plate indicates species: 
+californica</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 17.</unitid>
+<unittitle>Cactaceae (Cactus) Family. 
+<unitdate>1940-1960</unitdate></unittitle>
+<physdesc><extent>41 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">14</container>
+<unittitle>Carnegia gigantea 
+(saguaro).<unitdate>5/22/51</unitdate></unittitle>
+</did>
+<note><p>5 miles north of Laguna Dam, Imperial County; Utah; Arizona; 
+Sonora, Baja Calif.; Colorado River west of mouth of Bill Williams 
+Crater</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">15</container>
+<unittitle>Carnegia gigantea 
+(saguaro).<unitdate>3/17/40</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Saguaro Nationa Monument, Arizona; photo includes Rosaleen Meek 
+Murman</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">16</container>
+<unittitle>Carnegia gigantea 
+(saguaro).<unitdate>2/23/50</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Saguaro National Monument, Arizona; photo includes Eugene 
+Murman</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">17</container>
+<unittitle>Carnegia gigantea 
+(saguaro).<unitdate>2/23/50</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Saguaro National Monument, Arizona</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">313</container>
+<unittitle>Cereus emoryi (golden-spined cereus; 
+cunado).<unitdate>4/24/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">18</container>
+<unittitle>Cereus engelmannii (calico 
+cactus).<unitdate>3/30/41</unitdate></unittitle>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">19</container>
+<unittitle>Echinocactus acanthodes (barrel 
+cactus).<unitdate>3/30/41</unitdate></unittitle>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Item ">20</container>
+<unittitle>Echinocatus acanthodes (barrel cactus; 
+bisnaga).<unitdate>4/26/41</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Colorado desert</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">447</container>
+<unittitle>Echinocactus johnsonii (eight-spined 
+hedgehog).<unitdate>4/22/60</unitdate></unittitle>
+</did>
+<note><p>14.3 miles northwest of Shoshone, Inyo County; diameter: 4.5"; 
+height: 6"</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">21</container>
+<unittitle>Echinocerus engelmannii (hedgehog 
+cactus).<unitdate>3/30/41</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">357</container>
+<unittitle>Echinocereus engelmannii (saint's 
+cactus).<unitdate>5/25/58</unitdate></unittitle>
+<physdesc>photograph by Rosaleen M. Murman</physdesc>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">22</container>
+<unittitle>Echinocereus mojavensis (Mojave hedgehog 
+cactus).<unitdate>4/27/41</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument, Keys Ranch</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">23</container>
+<unittitle>Echinocereus mojavensis (Mojave hedgehog 
+cactus).<unitdate>4/27/41</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Joshua Tree National Monument, Keys Ranch</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">24</container>
+<unittitle>Mamillaria dioica (fishhook 
+cactus).<unitdate>4/19/41</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">25</container>
+<unittitle>Mamillaria microcarpa (Graham's nipple 
+cactus).<unitdate>7/25754</unitdate></unittitle>
+</did>
+<note><p>Colorado Desert</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">26</container>
+<unittitle>Opuntia acanthocarpa (deer-horn 
+cactus).<unitdate>5/20/54</unitdate></unittitle>
+</did>
+<note><p>Mojave Desert, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">27</container>
+<unittitle>Opuntia basilaris (beavertail 
+cactus).<unitdate>3/30/41</unitdate></unittitle>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">28</container>
+<unittitle>Opuntia basilaris (beavertail 
+cactus).<unitdate>3/30/41</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">29</container>
+<unittitle>Opuntia bigelovii (jumping 
+cholla).<unitdate>4/27/41</unitdate></unittitle>
+</did>
+<note><p>Colorado Desert</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">314</container>
+<unittitle>Opuntia chlorotica (golden prickly 
+pear).<unitdate>5/27/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">380</container>
+<unittitle>Opuntia covillei var. piercei (Coville's 
+tuna).<unitdate>5/10/60</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">30</container>
+<unittitle>Opuntia echinocarpa 
+(cholla).<unitdate>3/30/41</unitdate></unittitle>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">31</container>
+<unittitle>Opuntia echinocarpa (golden 
+cholla).<unitdate>3/30/41</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">449</container>
+<unittitle>Opuntia echinocarpa var. parkeri (staghorn 
+cholla).<unitdate>5/10/60</unitdate></unittitle>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">32</container>
+<unittitle>Opuntia erinacea (hedgehog 
+cactus).<unitdate>4/21/54</unitdate></unittitle>
+</did>
+<note><p>Mojave Desert, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">315</container>
+<unittitle>Opuntia megacantha (prickly pear; la tuna 
+rancheria).<unitdate>9/12/59</unitdate></unittitle>
+<physdesc>color photograph by Rosaleen M. Murman</physdesc>
+</did>
+<note><p>Mission la Purisima Concepcion, Lompoc, Santa Barbara 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">316</container>
+<unittitle>Opuntia megacantha (prickly pear; la tuna 
+rancheria).<unitdate>9/12/59</unitdate></unittitle>
+</did>
+<note><p>Mission la Purisima Concepcion, Lompoc, Santa Barbara 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">317</container>
+<unittitle>Opuntia megacarpa (large-fruited 
+tuna).<unitdate>4/24/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">33</container>
+<unittitle>Opuntia mojavensis (Mojave prickly 
+pear).<unitdate>5/20/54</unitdate></unittitle>
+</did>
+<note><p>Mojave Desert, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">34</container>
+<unittitle>Opuntia occidentalis (no common 
+name).<unitdate>5/11/41</unitdate></unittitle>
+</did>
+<note><p>Newport</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">448</container>
+<unittitle>Opuntia parishii (dead 
+cactus).<unitdate>6/12/60</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">35</container>
+<unittitle>Opuntia parryi (no common 
+name).<unitdate>5/17/41</unitdate></unittitle>
+</did>
+<note><p>Tujunga Wash</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">36</container>
+<unittitle>Opuntia prolifera (coast 
+cholla).<unitdate>4/19/41</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">318</container>
+<unittitle>Opuntia ramosissima (lead-pencil 
+cholla).<unitdate>6/24/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">319</container>
+<unittitle>Opuntia serpentina (San Diego 
+cholla).<unitdate>4/16/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">37</container>
+<unittitle>Opuntia treleasei (no common name).</unittitle>
+</did>
+<note><p>no collection date or place</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">38</container>
+<unittitle>Opuntia ursina (grizzly bear cactus).</unittitle>
+</did>
+<note><p>no collection date or place</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">358</container>
+<unittitle>Opuntia ursina (grizzly bear 
+cactus).<unitdate>5/25/58</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>photo by Rosaleen M. Murman; Joshua Tree National 
+Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">39</container>
+<unittitle>Opuntia vaseyi (no common name).</unittitle>
+</did>
+<note><p>no collection date or place</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Item ">40</container>
+<unittitle>Opuntia vaseyi (no common 
+name).<unitdate>5/17/41</unitdate></unittitle>
+</did>
+<note><p>Tujunga Wash</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">450</container>
+<unittitle>Opuntia x. munzii (no common 
+name).<unitdate>6/15/60</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 18.</unitid>
+<unittitle>Calycanthaceae (Sweet-shrub) Family. 
+<unitdate>1957</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">419</container>
+<unittitle>Calycanthus occidentalis (spice bush).<unitdate>6/6/57, 
+8/15/57</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 19.</unitid>
+<unittitle>Capparaceae [Capparidaceae] (Caper) Family. 
+<unitdate>1953</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">41</container>
+<unittitle>Isomeris arborea (burro fat; bladder 
+pod).<unitdate>6/28/53</unitdate></unittitle>
+</did>
+<note><p>also slide #163; Santa Barbara County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 20.</unitid>
+<unittitle>Caprifoliaceae (Honeysuckle) Family.</unittitle>
+<physdesc><extent>6 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">320</container>
+<unittitle>Lonicera interrupta (chaparral 
+honeysuckle).<unitdate>5/4/59, 7/17/59, 
+10/18/59</unitdate></unittitle>
+</did>
+<note><p>Mulholland Drive, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">321</container>
+<unittitle>Lonicera involucrata 
+(twinberry).<unitdate>2/18/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">389</container>
+<unittitle>Sambucus glauca (blueberry elder).<unitdate>4/28/55, 
+7/26/55</unitdate></unittitle>
+</did>
+<note><p>Canoga Park, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">386</container>
+<unittitle>Sambucus racemosa var. callicarpa (coast red 
+elderberry)<unitdate>6/13/57</unitdate></unittitle>
+</did>
+<note><p>Inverness, Marin County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">441</container>
+<unittitle>Symphoricarpos mollis (creeping 
+snowberry).<unitdate>6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">440</container>
+<unittitle>Symphoricarpos rotundifolius (mountain 
+snowberry).<unitdate>7/16/55, 9/55</unitdate></unittitle>
+</did>
+<note><p>Mammoth, Mono County; collected at 8,200' elevation</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 21.</unitid>
+<unittitle>Caryophyllaceae (Pink) Family. 
+<unitdate>1941</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">42</container>
+<unittitle>Silene californica (indian 
+pink).<unitdate>6/3/41</unitdate></unittitle>
+</did>
+<note><p>Lake County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 22.</unitid>
+<unittitle>Chenopodiaceae (Saltbush) Family. 
+<unitdate>1954-1961</unitdate></unittitle>
+<physdesc><extent>6 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">43</container>
+<unittitle>Atriplex hymenelytra (desert 
+holly).<unitdate>2/20/54</unitdate></unittitle>
+</did>
+<note><p>Death Valley National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">44</container>
+<unittitle>Atriplex hymenelytra (desert 
+holly).<unitdate>2/20/54</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Death Valley National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">328</container>
+<unittitle>Eurotia lanata (winter fat; 
+romeria).<unitdate>4/29/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">457</container>
+<unittitle>Grayia spinosa (hop-sage).<unitdate>3/30/60, 
+5/17/58</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">430</container>
+<unittitle>Sarcobatus vermiculatus (greasewood).<unitdate>7/10/57, 
+8/15/57</unitdate></unittitle>
+</did>
+<note><p>male &#x0026; female specimen collected on separate dates; 
+Alkaline Flats, Owens Lake, Inyo County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">507</container>
+<unittitle>Suaeda torreyana (ink 
+weed).<unitdate>2/10/61</unitdate></unittitle>
+</did>
+<note><p>Anza Borrego Desert State Park, San Diego County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 23.</unitid>
+<unittitle>Convolvulaceae (Morning-glory) Family.</unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">57</container>
+<unittitle>Cuscuta californica (dodder).</unittitle>
+</did>
+<note><p>no collection date; widely distributed in California; parasite, 
+most frequent in So. Calif. on erigonum and adenostoma 
+(fr.Jepson)</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 24.</unitid>
+<unittitle>Cornaceae (Dogwood) Family. 
+<unitdate>1942-1951</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">58</container>
+<unittitle>Cornus nuttallii (mountain dogwood).<unitdate>6/30/42, fall 
+1951</unitdate></unittitle>
+</did>
+<note><p>also slide #164; Madera County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 25.</unitid>
+<unittitle>Crassulaceae (Stonecrop) Family. 
+<unitdate>1941-1959</unitdate></unittitle>
+<physdesc><extent>5 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">59</container>
+<unittitle>Cotyledon laxa (rock 
+lettuce).<unitdate>6/3/41</unitdate></unittitle>
+</did>
+<note><p>Lake County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">322</container>
+<unittitle>Dudleya pulverulenta (chalk 
+dudleya).<unitdate>7/7/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Item ">60</container>
+<unittitle>Echeveria saxosa (rock 
+echeveria).<unitdate>5/12/54</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">61</container>
+<unittitle>Sedum species (no common 
+name).<unitdate>6/13/41</unitdate></unittitle>
+</did>
+<note><p>Hwy. #199, Patricks Creek, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">429</container>
+<unittitle>Stylophyllum hassei (Catalina 
+stylophyllum).<unitdate>11/10/57</unitdate></unittitle>
+</did>
+<note><p>Catalina Island</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 26.</unitid>
+<unittitle>Cucurbitaceae (Gourd) Family. 
+<unitdate>1959</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">323</container>
+<unittitle>Echinocystis macrocarpa 
+(chili-cojote).<unitdate>3/22/59</unitdate></unittitle>
+</did>
+<note><p>Mulholland Drive, Los Angeles County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 27.</unitid>
+<unittitle>Cupressaceae (Cypress) Family. 
+<unitdate>1942-1961</unitdate></unittitle>
+<physdesc><extent>17 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">62</container>
+<unittitle>Chamaecyparis lawsoniana (Port Oxford cedar; Lawson 
+cypress).<unitdate>4/15/43</unitdate></unittitle>
+</did>
+<note><p>also slide #165; Oregon</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">515</container>
+<unittitle>Chamaecyparis nootkatensis (Alaska yellow 
+cedar).<unitdate>9/6/61</unitdate></unittitle>
+</did>
+<note><p>Northern Forest Experiment Station, Juneau, Alaska; known in 
+Siskiyou County, north-east slope of Mt. Emily, and Little Grayback, CA, 
+near 5,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">514</container>
+<unittitle>Cupressus bakeri (Bakers 
+cypress).<unitdate>5/19/61</unitdate></unittitle>
+</did>
+<note><p>Burney Springs, Lassen National Park, Hat Creek</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">483</container>
+<unittitle>Cupressus forbesii (tecate cypress; Forbes 
+cypress)<unitdate>2/11/57</unitdate></unittitle>
+</did>
+<note><p>Guatay, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">63</container>
+<unittitle>Cupressus goveniana (Gowen 
+cypress).<unitdate>10/2/42</unitdate></unittitle>
+</did>
+<note><p>also slide #166; Descanso, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">64</container>
+<unittitle>Cupressus macnabiana (McNab 
+cypress).<unitdate>2/1/43</unitdate></unittitle>
+</did>
+<note><p>also slide #167; headwaters of Elder Creek, south-west Tehama 
+County, 3,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">65</container>
+<unittitle>Cupressus macnabiana var. (McNab cypress 
+var.).<unitdate>12/1/42</unitdate></unittitle>
+</did>
+<note><p>Siskiyou County, section 14, T.45 north, R.4 west, 
+M.D.M.</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">481</container>
+<unittitle>Cupressus macrocarpa (Monterey cypress).<unitdate>1/20/57, 
+4/10/57</unitdate></unittitle>
+</did>
+<note><p>Santa Cruz, Santa Cruz County; male &#x0026; female also 
+collected Point Lobos, Monterey County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">484</container>
+<unittitle>Cupressus pygmaea (pigmy cypress; Mendocino 
+cypress).<unitdate>1/10/57</unitdate></unittitle>
+</did>
+<note><p>Fort Bragg, Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">482</container>
+<unittitle>Cupressus sargentii (Sargent cypress).<unitdate>1/23/57, 
+3/16/57</unitdate></unittitle>
+</did>
+<note><p>Mt. Tamalpais, Marin County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">513</container>
+<unittitle>Cupressus stephensonii (Cuyamaca 
+cypress).<unitdate>1/27/61</unitdate></unittitle>
+</did>
+<note><p>Mt. Cuyamaca, San Diego County, 5,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">329</container>
+<unittitle>Juniperus californica (California 
+juniper).<unitdate>1/20/59</unitdate></unittitle>
+</did>
+<note><p>Hwy. #78 between Banner and Scissors crossing</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">66</container>
+<unittitle>Juniperus californica var. utahensis (California 
+juniper).<unitdate>10/7/42</unitdate></unittitle>
+</did>
+<note><p>also slide #168; Cedar Flat, Inyo National Forest</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">67</container>
+<unittitle>Juniperus communis var. montana (dwarf 
+juniper).<unitdate>10/30/42</unitdate></unittitle>
+</did>
+<note><p>also slide #169; Shasta National Forest, section 21, T.39 
+north, R.6 west, M.D.M., 6,200' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">512</container>
+<unittitle>Juniperus osteosperma (Utah 
+juniper).<unitdate>1/10/61</unitdate></unittitle>
+</did>
+<note><p>Mono County; Bryce Canyon, UT</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">230</container>
+<unittitle>Libocedrus decurrens (incense cedar).</unittitle>
+</did>
+<note><p>also slide #198; no collection date; Yosemite National Park; 
+plate indicates Family: Pinaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">68</container>
+<unittitle>Thuja plicata (canoe 
+cedar).<unitdate>4/15/43</unitdate></unittitle>
+</did>
+<note><p>also slide #170; Oregon</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 28.</unitid>
+<unittitle>Dipsacaceae (Teasel) Family. 
+<unitdate>1951</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">69</container>
+<unittitle>Dipsacus fullonum 
+(teasel).<unitdate>8/27/51</unitdate></unittitle>
+</did>
+<note><p>Marin County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 29.</unitid>
+<unittitle>Droseraceae (Sundew) Family.</unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">70</container>
+<unittitle>Drosera rotundifolia (roundleaved sundew).</unittitle>
+</did>
+<scopecontent><p>no collection date; marshy spots in the Sierra Nevada 
+from Tulare to Siskiyou Counties, and south, near the coast, to 
+Mendocino County (fr. Jepson)</p></scopecontent>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 30.</unitid>
+<unittitle>Elaeagnaceae (Oleaster [Loaster]) Family. 
+<unitdate>1958-1960</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">443</container>
+<unittitle>Shepherdia argentea (buffalo-berry).<unitdate>3/15/60, 
+1/6/58, 9/28/60</unitdate></unittitle>
+</did>
+<note><p>Cuyama River bed, Ozena, Santa Barbara County at 3,000'; Rancho 
+Santa Ana Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 31.</unitid>
+<unittitle>Ephedraceae (Mormon-tea) Family. 
+<unitdate>1957</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">433</container>
+<unittitle>Ephedra californica (California ephedra; desert 
+tea).<unitdate>5/31/57</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County; plate indicates 
+Family: Gnetaceae</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 32.</unitid>
+<unittitle>Ericaceae (Heath) Family. 
+<unitdate>1941-1957</unitdate></unittitle>
+<physdesc><extent>17 entries</extent></physdesc>
+</did>
+<scopecontent>
+<p>one entry has been moved to Family: Monotropaceae, according to IPNI 
+classification</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle></unittitle>
+</did>
+<note><p>one entry has been moved to Family: Monotropaceae, according to 
+IPNI classification</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">71</container>
+<unittitle>Arbutus menziesii (madrone).<unitdate>1/4/54, 
+4/20/54</unitdate></unittitle>
+</did>
+<note><p>Redding, Shasta County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">492</container>
+<unittitle>Arctostaphylos canescens (hoary 
+manzanita).<unitdate>3/7/57, 6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">72</container>
+<unittitle>Arctostaphylos glauca (bigberry 
+manzanita).<unitdate>1/2/52, 7/11/54</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">493</container>
+<unittitle>Arctostaphylos hookeri (Hooker's 
+manzanita)<unitdate>3/7/57, 6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">491</container>
+<unittitle>Arctostaphylos insularis (island 
+manzanita).<unitdate>6/11/55, 9/4/57</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">490</container>
+<unittitle>Arctostaphylos morroensis (Morro 
+manzanita).<unitdate>3/26/55, 6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">485</container>
+<unittitle>Cassiope mertensiana (western mountain 
+heather).<unitdate>7/16/57</unitdate></unittitle>
+</did>
+<note><p>north slope, Echo Ridge, Yosemite National Park, 10,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">489</container>
+<unittitle>Comarostaphylis diversifolia (summer holly; mock 
+arbute).<unitdate>6/3/57, 9/57</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">73</container>
+<unittitle>Gaultheria shallon 
+(salal).<unitdate>6/9/41</unitdate></unittitle>
+</did>
+<note><p>Trinidad, Humboldt County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">487</container>
+<unittitle>Kalmia polifolia (American 
+laurel).<unitdate>7/15/57</unitdate></unittitle>
+</did>
+<note><p>north slope, Echo Ridge, Yosemite National Park, 10,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">488</container>
+<unittitle>Ladum glandulosum (western labrador 
+tea).<unitdate>7/15/57</unitdate></unittitle>
+</did>
+<note><p>north slope, Echo Ridge, Yosemite National Park, 10,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">25</container>
+<container type="folder" label="Item ">486</container>
+<unittitle>Phyllodoce breweri (red 
+heather).<unitdate>7/15/57</unitdate></unittitle>
+</did>
+<note><p>north slope, Echo Ridge, Yosemite National Park, 10,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">74</container>
+<unittitle>Pirola aphylla (leafless 
+shin-leaf).<unitdate>6/13/41</unitdate></unittitle>
+</did>
+<note><p>Patrick Creek, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">75</container>
+<unittitle>Pterospora andromeda (pine drops).</unittitle>
+</did>
+<note><p>rich humus beneath pines, 4,000'-7,500' elevation; common, San 
+Jacinto, San Bernardino, and San Gabriel mountains; Sierra Nevada, etc.; 
+a saprophyte (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">76</container>
+<unittitle>Rhododendron californicum (California rose 
+bay).<unitdate>6/8/41</unitdate></unittitle>
+</did>
+<note><p>Trinidad, Humboldt County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">77</container>
+<unittitle>Rhododendron occidentale (western 
+azalea).<unitdate>6/8/41</unitdate></unittitle>
+</did>
+<note><p>Trinidad, Humboldt County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">78</container>
+<unittitle>A saprophyte.</unittitle>
+</did>
+<note><p>Sierra Nevada, North Coast ranges, north to Washington; 
+montane, under pines or firs, 6,000'-8,000' elevation; infrequent (fr. 
+Jepson); no other data</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 33.</unitid>
+<unittitle>Euphorbiaceae (Spurge) Family. 
+<unitdate>1957-1959</unitdate></unittitle>
+<physdesc><extent>3 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">339</container>
+<unittitle>Acalypha californica (California 
+copperleaf).<unitdate>1/6/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">431</container>
+<unittitle>Croton californicus (California or desert croton; el 
+barbasco).<unitdate>5/31/57</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">330</container>
+<unittitle>Tetracoccus didicus (San Diego 
+tetracoccus).<unitdate>1/6/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 34.</unitid>
+<unittitle>Fabaceae [Leguminosae] (Pea) Family. 
+<unitdate>1941-1961</unitdate></unittitle>
+<physdesc><extent>29 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">127</container>
+<unittitle>Acacia farnesiana (sweet acacia; 
+huisache).<unitdate>2/7/53</unitdate></unittitle>
+</did>
+<note><p>also slide #190; San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">126</container>
+<unittitle>Acacia greggii (cat's claw; una de 
+gato).<unitdate>7/11/54</unitdate></unittitle>
+</did>
+<note><p>Colorado Desert</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">377</container>
+<unittitle>Amorpha californica (false 
+indigo).<unitdate>6/30/61</unitdate></unittitle>
+</did>
+<note><p>Big Pine Mt., Santa Barbara County, 6,500' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">128</container>
+<unittitle>Astragalus menziesii (Menzies' rattle-weed; gray 
+loco).<unitdate>8/22/51</unitdate></unittitle>
+</did>
+<note><p>Pismo Beach, San Luis Obispo County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">129</container>
+<unittitle>Calliandra eriophylla 
+(calliandra).<unitdate>7/11/54</unitdate></unittitle>
+</did>
+<note><p>east Imperial County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">130</container>
+<unittitle>Cassia armata (desert 
+cassia).<unitdate>5/13/54</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">131</container>
+<unittitle>Cercidium floridum (palo verde).<unitdate>7/15/54, 
+9/15/54</unitdate></unittitle>
+</did>
+<note><p>Colorado Desert</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">501</container>
+<unittitle>Cercidium microphyllum (palo 
+verde).<unitdate>6/6/61</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden, Claremont</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">132</container>
+<unittitle>Cercis occidentalis (western 
+red-bud).<unitdate>4/3/54</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">434</container>
+<unittitle>Dalea californica (California 
+dalea).<unitdate>5/31/57</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">333</container>
+<unittitle>Dalea emoryi (white 
+dalea).<unitdate>1/19/59</unitdate></unittitle>
+</did>
+<note><p>Palm Springs, Riverside County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">347</container>
+<unittitle>Dalea schottii (Schott's 
+dalea).<unitdate>5/17/58</unitdate></unittitle>
+</did>
+<note><p>Coachella Valley, Riverside County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">502</container>
+<unittitle>Hoffmanseggia microphylla (small-leaved 
+hoffmanseggia).<unitdate>4/22/61</unitdate></unittitle>
+</did>
+<note><p>Painted Canyon near Mecca, Riverside County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">334</container>
+<unittitle>Lupinus albifrons (silver 
+lupine).<unitdate>4/11/59</unitdate></unittitle>
+</did>
+<note><p>Cuyama Valley near Venticopa, Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">133</container>
+<unittitle>Lupinus arboreus (tree lupine; yellow bush 
+lupine).<unitdate>8/22/51</unitdate></unittitle>
+</did>
+<note><p>Pismo Beach, San Luis Obispo County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">134</container>
+<unittitle>Lupinus excubitus var. johnstonii (Inyo 
+lupine).<unitdate>6/3/52</unitdate></unittitle>
+</did>
+<note><p>Angeles Crest, Los Angeles County, 6,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">135</container>
+<unittitle>Lupinus hirsutissimus 
+(lupine).<unitdate>3/23/41</unitdate></unittitle>
+</did>
+<note><p>Tujunga Canyon</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">335</container>
+<unittitle>Lupinus longifolius (Pauma 
+lupine).<unitdate>2/3/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">136</container>
+<unittitle>Lupinus nanus (blue-and-white 
+lupine).<unitdate>5/10/42</unitdate></unittitle>
+</did>
+<scopecontent><p>Los Angeles County</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">137</container>
+<unittitle>Lupinus stiversi (Stivers 
+lupine).<unitdate>6/1/42</unitdate></unittitle>
+</did>
+<note><p>Madera County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">138</container>
+<unittitle>Lupinus succulentus 
+(lupine).<unitdate>3/23/41</unitdate></unittitle>
+</did>
+<note><p>Tujunga Canyon, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">336</container>
+<unittitle>Olneya tesota (ironwood; palo de hierro).<unitdate>5/4/59, 
+7/17/59</unitdate></unittitle>
+</did>
+<note><p>Anza Borrego Desert State Park, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">337</container>
+<unittitle>Olneya tesota (ironwood; palo de 
+hierro).<unitdate>7/1/57</unitdate></unittitle>
+<physdesc>photograph by Dalton E. Merkel</physdesc>
+</did>
+<note><p>Yaqui Well, Anza Borrego Desert State Park, San Diego 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">435</container>
+<unittitle>Parosela spinosa (smoke 
+tree).<unitdate>6/15/57</unitdate></unittitle>
+<physdesc>photograph by Dalton E. Merkel</physdesc>
+</did>
+<note><p>San Felipe Wash, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">436</container>
+<unittitle>Parosela spinosa (smoke 
+tree).<unitdate>5/31/57</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">473</container>
+<unittitle>Pickeringia montana (chaparral 
+pea).<unitdate>5/26/55</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">139</container>
+<unittitle>Prosopis juliflora 
+(mesquite).<unitdate>5/13/54</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">140</container>
+<unittitle>Prosopis pubescens (screwbean; 
+tornilla).<unitdate>5/13/54</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">474</container>
+<unittitle>Vicia californica (California 
+vetch).<unitdate>5/26/55</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 35.</unitid>
+<unittitle>Fagaceae (Beech) Family. 
+<unitdate>1952-1954</unitdate></unittitle>
+<physdesc><extent>26 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">81</container>
+<unittitle>Castanopsis chrysophylla (giant 
+chinquapin).<unitdate>8/20/53</unitdate></unittitle>
+</did>
+<note><p>also slide #171; Cavce Juntion, Oregon</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">82</container>
+<unittitle>Castanopsis sempervirens (bush 
+chinquapin).<unitdate>8/10/53</unitdate></unittitle>
+</did>
+<note><p>also slide #172; Madera County, 7,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">83</container>
+<unittitle>Lithocarpus densiflora (tan oak).<unitdate>7 
+/23/53</unitdate></unittitle>
+</did>
+<note><p>also slide #173; also a Christmas card; Big Sur, Monterey 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">83a</container>
+<unittitle>Lithocarpus densiflora (tan 
+oak).<unitdate>6/23/53</unitdate></unittitle>
+</did>
+<note><p>also a Christmas card; Big Sur, Monterey County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">84</container>
+<unittitle>Quecus agrifolia (coast life oak).<unitdate>2/23/52, 
+3/25/52</unitdate></unittitle>
+</did>
+<note><p>also slide #174; also a Christmas card; Encino, Verdugo Hills, 
+Los Angeles County; Ojai, Ventura County; Mulholland Drive, Los Angeles 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">84a</container>
+<unittitle>Quercus agrifolia (coast live 
+oak).<unitdate>3/29/52</unitdate></unittitle>
+</did>
+<note><p>also a Christmas card; Mulholland Drive, Los Angeles 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">80</container>
+<unittitle>Quercus agrifolia; Quercus kelloggii; Quercus wislizenii; 
+Quercus morehus (black oaks).</unittitle>
+<physdesc>photographs of bark</physdesc>
+</did>
+<note><p>Jackson Lake, 6,000' elevation; Verdugo Hills; Fresno County; 
+Los Angeles County; no collection dates</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">85</container>
+<unittitle>Quercus chrysolepis (canyon oak; maul 
+oak).<unitdate>6/3/52, 9/15/52</unitdate></unittitle>
+</did>
+<note><p>also slide #175; Angeles Crest, Los Angeles County, 6,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">100</container>
+<unittitle>Quercus chrysolepis; Quercus douglasii; Quercus 
+engelmannii; Quercus lobata (white oaks).</unittitle>
+<physdesc>photographs of bark</physdesc>
+</did>
+<note><p>Angeles Crest, Oak Flat Public Camp, San Marino, Encino, Los 
+Angeles County; no collection date</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">86</container>
+<unittitle>Quercus douglasii (blue oak; roble).<unitdate>4/19/52, 
+9/3/52</unitdate></unittitle>
+</did>
+<note><p>also slide #187; Oak Flat Public Camp, Los Angeles County, 
+2,100' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">364</container>
+<unittitle>Quercus douglasii (blue 
+oak).<unitdate>9/1/52</unitdate></unittitle>
+<physdesc>photograph by Rosaleen M. Murman</physdesc>
+</did>
+<note><p>Oak Flat, Los Angeles County, 2,100' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">87</container>
+<unittitle>Quercus dumosa (scrub oak; chaparro).<unitdate>4/19/52, 
+9/20/52</unitdate></unittitle>
+</did>
+<note><p>also slide #176; Whitaker Summit, Los Angeles County, 2,950' 
+elevation; Mulholland Drive, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">88</container>
+<unittitle>Quercus durata (leather oak).<unitdate>5/17/53, 
+10/25/53</unitdate></unittitle>
+</did>
+<note><p>also slide #177; near Happy Canyon Camp Ground; Cachuma Camp 
+Ground; San Rafael Mountains, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">89</container>
+<unittitle>Quercus engelmannii (mesa oak).<unitdate>4/20/52, 
+9/15/52</unitdate></unittitle>
+</did>
+<note><p>also slide #178; Pasadena, Los Angeles County; Palomar, San 
+Diego County, 3,800' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">90</container>
+<unittitle>Quercus garryana (Oregon oak; Garry oak).<unitdate>5/4/53, 
+9/15/53</unitdate></unittitle>
+</did>
+<note><p>also slide #179; Willamette, Rogue River Valley, 
+Oregon</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">91</container>
+<unittitle>Quercus kellogii (California black oak).<unitdate>4/30/52, 
+9/4/52</unitdate></unittitle>
+</did>
+<note><p>also slide #180; Santa Isabel, San Diego County, 3,200' 
+elevation; Jackson Lake, Los Angeles County, 6,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">92</container>
+<unittitle>Quercus lobata (valley oak; roble)<unitdate>3/29/52, 
+9/3/52, 9/6/52</unitdate></unittitle>
+</did>
+<note><p>also slide #181; Calabasas, Los Angeles County; Oak Flat Public 
+Camp, Los Angeles County, 2,100' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">93</container>
+<unittitle>Quercus morehus (oracle oak).<unitdate>4/22/52, 
+9/12/52</unitdate></unittitle>
+</did>
+<note><p>also slide #182; Sonora, Tuolumne County, 2,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">94</container>
+<unittitle>Quercus palmeri (Palmer oak).<unitdate>5/14/54, 
+9/9/54</unitdate></unittitle>
+</did>
+<note><p>also a Christmas card; Boulevard, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">94a</container>
+<unittitle>Quercus palmeri (Palmer 
+oak).<unitdate>5/14/54</unitdate></unittitle>
+</did>
+<note><p>also a Christmas card; Boulevard, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">95</container>
+<unittitle>Quercus palmeri (Palmer 
+oak).<unitdate>9/9/54</unitdate></unittitle>
+<physdesc>photograph and a map</physdesc>
+</did>
+<note><p>Boulevard, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">96</container>
+<unittitle>Quercus sadleriana (deer oak; Sadler oak).<unitdate>7/8/53, 
+9/11/53</unitdate></unittitle>
+</did>
+<note><p>also slide #183; Cafe Junction, Siskiyou Mountains, 
+Oregon</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">97</container>
+<unittitle>Quercus tomentella (island oak).<unitdate>5/21/52, 
+11/1/52</unitdate></unittitle>
+</did>
+<note><p>also slide #184; Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">98</container>
+<unittitle>Quercus turbinella subsp. californica (turbinella 
+oak).<unitdate>4/11/54, 9/30/54</unitdate></unittitle>
+</did>
+<note><p>Mint Canyon, Los Angeles County; Joshua Tree National 
+Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Item ">99</container>
+<unittitle>Quercus vaccinifolia (huckleberry oak).<unitdate>7/1/52, 
+8/1/52</unitdate></unittitle>
+</did>
+<note><p>also slide #185; Camp Tamarack, Calaveras County, 6,700' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">101</container>
+<unittitle>Quercus wislizenii; Quercus wislizenii var. frutescens 
+(interior live oak).<unitdate>5/10/52, 9/10/52, 
+9/13/52</unitdate></unittitle>
+</did>
+<note><p>also slide #186; Isabella, Kern County; Angeles Crest, Los 
+Angeles County, 6,000' elevation</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 36.</unitid>
+<unittitle>Fouquieriaceae (Ocotillo [Candlewood]) Family. 
+<unitdate>1941</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">102</container>
+<unittitle>Fouquieria splendens (candlewood; 
+ocotillo).<unitdate>3/30/41</unitdate></unittitle>
+<physdesc>photograph</physdesc>
+</did>
+<note><p>Colorado Desert, Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">103</container>
+<unittitle>Fouquieria splendens (coach-whip; 
+ocotillo).<unitdate>3/30/41</unitdate></unittitle>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 37.</unitid>
+<unittitle>Fumariaceae (Fumitory) Family. 
+<unitdate>1957</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>two entries have been moved to Family: Papaveraceae, according to 
+IPNI classification</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle></unittitle>
+</did>
+<note><p>two entries have been moved to Family: Papaveraceae, according 
+to IPNI classification</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 38.</unitid>
+<unittitle>Garryaceae (Silk Tassel) Family. 
+<unitdate>1953-1957</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">104</container>
+<unittitle>Garrya elliptica (silk tassel bush).<unitdate>2/21/53, 
+6/15/53</unitdate></unittitle>
+</did>
+<note><p>Big Sur, Monterey County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">424</container>
+<unittitle>Garrya flavescens var. pallida (bacigalupi; ashi 
+silktassel).<unitdate>3/7/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 39.</unitid>
+<unittitle>Gnetaceae (Gnetum) Family. 
+<unitdate>1957</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>entry has been moved to Family: Ephedraceae, according to IPNI 
+classification</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle></unittitle>
+</did>
+<note><p>one entry has been moved to Family: Ephedraceae, according to 
+IPNI classification</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 40.</unitid>
+<unittitle>Grossulariaceae (Currant) Family. 
+<unitdate>1958</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">352</container>
+<unittitle>Ribes viburnifolium (Catalina 
+currant).<unitdate>2/3/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden; plate indicates Family: 
+Saxifragaceae</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 41.</unitid>
+<unittitle>Hippocastanaceae (Horse-chestnut) Family. 
+<unitdate>1955</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">408</container>
+<unittitle>Aesculus californica 
+(buckeye).<unitdate>5/21/55</unitdate></unittitle>
+</did>
+<note><p>Knight' Ferry, Stanislaus County; plate shows Family as 
+Sapindaceae (Buckeye Family)</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 42.</unitid>
+<unittitle>Hydrophyllaceae (Waterleaf [Phacelia]) Family. 
+<unitdate>1942-1952</unitdate></unittitle>
+<physdesc><extent>7 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">105</container>
+<unittitle>Eriodictyon crassifolium (yerba santa; mountain 
+bush).<unitdate>6/3/52</unitdate></unittitle>
+</did>
+<note><p>Angeles Crest, Los Angeles County, 6,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">106</container>
+<unittitle>Nemophila maculata (spotted nemophila; 
+five-spot).<unitdate>5/5/42</unitdate></unittitle>
+</did>
+<note><p>Kern County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">107</container>
+<unittitle>Nemophila menziesii (baby 
+blue-eyes).<unitdate>5/1/42</unitdate></unittitle>
+</did>
+<note><p>Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">108</container>
+<unittitle>Phacelia campanularia (California 
+blue-bell).<unitdate>5/8/42</unitdate></unittitle>
+</did>
+<note><p>Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">109</container>
+<unittitle>Phacelia parryi (Parry's Canterbury 
+bell).<unitdate>5/15/42</unitdate></unittitle>
+</did>
+<note><p>Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">110</container>
+<unittitle>Phacelia viscida (sticky 
+blue-bell).<unitdate>5/20/42</unitdate></unittitle>
+</did>
+<note><p>Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">111</container>
+<unittitle>Phacelia whitlavia (California blue-bell).</unittitle>
+</did>
+<note><p>Glendale, Los Angeles County; no collection date</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 43.</unitid>
+<unittitle>Iridaceae (Iris) Family. 
+<unitdate>1941</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">112</container>
+<unittitle>Iris douglasiana (mountain 
+iris).<unitdate>6/11/41</unitdate></unittitle>
+</did>
+<note><p>Smith River, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">113</container>
+<unittitle>Iris hartwegii (Sierra 
+iris).<unitdate>6/3/41</unitdate></unittitle>
+</did>
+<note><p>Loch Lomond, Lake County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 44.</unitid>
+<unittitle>Juglandaceae (Walnut )Family. 
+<unitdate>1956</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">374</container>
+<unittitle>Juglans californica (So. California black 
+walnut).<unitdate>3/18/56, 8/21/56</unitdate></unittitle>
+</did>
+<note><p>Woodland Hills, Los Angeles County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 45.</unitid>
+<unittitle>Krameriaceae (Krameria) Family. 
+<unitdate>1958</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">344</container>
+<unittitle>Krameria grayi (Gray krameria; white 
+ratany).<unitdate>5/17/58</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 46.</unitid>
+<unittitle>Lamiaceae [Labiatae] (Mint) Family. 
+<unitdate>1941-1959</unitdate></unittitle>
+<physdesc><extent>16 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">332</container>
+<unittitle>Hyptis emoryi (bee sage; desert 
+lavender).<unitdate>1/20/59</unitdate></unittitle>
+</did>
+<note><p>Anza Borrego Desert State Park, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">114</container>
+<unittitle>Mentha pulegium (pennyroyal; 
+poleo).<unitdate>8/26/51</unitdate></unittitle>
+</did>
+<note><p>Marin County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">115</container>
+<unittitle>Monardella lanceolata (mustang 
+mint).<unitdate>6/30/42</unitdate></unittitle>
+</did>
+<note><p>Santa Monica Mountains, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">472</container>
+<unittitle>Monardella linoides var. stricta (no common 
+name).<unitdate>6/11/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">345</container>
+<unittitle>Salazaria mexicana (bladder sage).<unitdate>3/20/58, 
+4/17/58</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">346</container>
+<unittitle>Salazaria mexicana (bladder 
+sage).<unitdate>5/17/58</unitdate></unittitle>
+<physdesc>color photograph by Rosaleen M. Murman</physdesc>
+</did>
+<note><p>Joshua Tree National Monument</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">116</container>
+<unittitle>Salvia carduacea (thistle 
+sage).<unitdate>5/1/41</unitdate></unittitle>
+</did>
+<note><p>Mojave Desert, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">117</container>
+<unittitle>Salvia carnosa (blue sage).</unittitle>
+</did>
+<note><p>San Bernardino Mountains; Mojave Desert, Inyo and Siskiyou 
+Counties; north to WA; found on arid mountain slopes &#x0026; plains; 
+2,500'-7,500' (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">118</container>
+<unittitle>Salvia clevelandi 
+(sage).<unitdate>8/31/51</unitdate></unittitle>
+</did>
+<note><p>San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">119</container>
+<unittitle>Salvia columbariae 
+(chia).<unitdate>5/10/42</unitdate></unittitle>
+</did>
+<note><p>Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Item ">120</container>
+<unittitle>Salvia leucophylla (purple 
+sage).<unitdate>5/14/43</unitdate></unittitle>
+</did>
+<note><p>Chatsworth Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">121</container>
+<unittitle>Salvia spathacea (crimson sage; hummingbird 
+sage).<unitdate>6/28/53</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">122</container>
+<unittitle>Scutellaria angustifolia (scull 
+cap).<unitdate>7/16/41</unitdate></unittitle>
+</did>
+<note><p>Chilao, Angeles National Forest</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">420</container>
+<unittitle>Sphacele calycina (pitcher 
+sage).<unitdate>6/28/53</unitdate></unittitle>
+</did>
+<note><p>Lompoc, Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">123</container>
+<unittitle>Trichostema lanatum 
+(romero).<unitdate>4/19/41</unitdate></unittitle>
+</did>
+<note><p>also slide #188; Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">124</container>
+<unittitle>Trichostema lanceolatum (vinegar weed; camphor 
+weed).<unitdate>8/30/51</unitdate></unittitle>
+</did>
+<note><p>Canoga Park, Los Angeles County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 47.</unitid>
+<unittitle>Lauraceae (Laurel) Family. 
+<unitdate>1952</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Item ">125</container>
+<unittitle>Umbellularia californica (California 
+laurel).<unitdate>2/18/52, 10/1/52</unitdate></unittitle>
+</did>
+<note><p>also slide #189; Verdugo Hills, Los Angeles County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 48.</unitid>
+<unittitle>Lennoaceae (Lennoa) Family. 
+<unitdate>1954</unitdate></unittitle>
+<physdesc><extent>3 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">141</container>
+<unittitle>Ammobroma sonorae (sand food; 
+biatatk)<unitdate>4/24/54</unitdate></unittitle>
+</did>
+<note><p>Sand hills west of Yuma, Imperial County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">142</container>
+<unittitle>Ammobroma sonorae (sand food; 
+biatatk).<unitdate>4/25/54</unitdate></unittitle>
+</did>
+<note><p>sand hills west of Yuma, Imperial County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">143</container>
+<unittitle>Pholisma arenarium (scaly-stemmed sand 
+plant).<unitdate>5/25/54</unitdate></unittitle>
+</did>
+<note><p>Joshua Tree National Monument, San Bernardino County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 49.</unitid>
+<unittitle>Lentibulariaceae (Bladderwort )Family. 
+<unitdate>1950</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">454</container>
+<unittitle>Pinguicula vulgaris (common 
+butterwort).<unitdate>5/19/50</unitdate></unittitle>
+</did>
+<note><p>French Flat 2 mi. south of Gasquet, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">144</container>
+<unittitle>Utricularia vulgaris (common bladderwort).</unittitle>
+</did>
+<note><p>no collection date; widely distributed in Calif. but rather 
+infrequent; Bear Valley, San Bernardino Mts.; Kern River; Bouldin 
+Island, Olema; Santa Rosa;...</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 50.</unitid>
+<unittitle>Liliaceae (Lily) Family. 
+<unitdate>1941-1960</unitdate></unittitle>
+<physdesc><extent>52 entries</extent></physdesc>
+</did>
+<scopecontent>
+<p>four entries have been moved to Family: Trilliaceae and seven entries 
+to Family: Agavaceae, according to IPNI classification</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle></unittitle>
+</did>
+<note><p>four entries have been moved to Family: Trilliacea, according 
+to IPNI classification, and seven entries have been moved to Family: 
+Agavaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">145</container>
+<unittitle>Brodiaea bridgesii (Bridges' 
+brodiaea).<unitdate>6/10/42</unitdate></unittitle>
+</did>
+<note><p>Butte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">146</container>
+<unittitle>Brodiaea capitata (blue 
+dicks).<unitdate>3/20/42</unitdate></unittitle>
+</did>
+<note><p>Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">147</container>
+<unittitle>Brodiaea coronaria (harvest 
+brodiaea).<unitdate>6/15/41</unitdate></unittitle>
+</did>
+<note><p>Darlington, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">148</container>
+<unittitle>Brodiaea hyacinthina (white 
+brodiaea).<unitdate>6/10/42</unitdate></unittitle>
+</did>
+<note><p>near Ukiah, Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">149</container>
+<unittitle>Brodiaea ida-maia (firecracker 
+plant).<unitdate>6/4/41</unitdate></unittitle>
+</did>
+<note><p>Cummings, Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">150</container>
+<unittitle>Brodiaea ixioides (golden 
+brodiaea).<unitdate>6/10/42</unitdate></unittitle>
+</did>
+<note><p>Madera County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">151</container>
+<unittitle>Brodiaea laxa (grass nut; Ithuriel's 
+spear).<unitdate>6/4/41</unitdate></unittitle>
+</did>
+<note><p>Cummings, Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">152</container>
+<unittitle>Brodiaea pulchella 
+(ookow).<unitdate>6/4/41</unitdate></unittitle>
+</did>
+<note><p>Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">153</container>
+<unittitle>Brodiaea stellaris (star-flowered 
+brodiaea).<unitdate>6/12/42</unitdate></unittitle>
+</did>
+<note><p>Humboldt County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">154</container>
+<unittitle>Brodiaea volubilis (twining 
+brodiaea).<unitdate>6/10/42</unitdate></unittitle>
+</did>
+<note><p>Butte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">155</container>
+<unittitle>Calochortus albus (white fairy 
+lantern).<unitdate>6/24/42</unitdate></unittitle>
+</did>
+<note><p>Madera County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">156</container>
+<unittitle>Calochortus amabilis (golden fairy 
+lantern).<unitdate>6/24/42</unitdate></unittitle>
+</did>
+<note><p>Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">157</container>
+<unittitle>Calochortus catalinae (Catalina 
+mariposa).<unitdate>3/24/42</unitdate></unittitle>
+</did>
+<note><p>Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">158</container>
+<unittitle>Calochortus clavatus (yellow mariposa).</unittitle>
+</did>
+<note><p>no collection date; Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">159</container>
+<unittitle>Calochortus kennedyi (desert mariposa).</unittitle>
+</did>
+<note><p>no collection date; frequently found in hard clay or gravely 
+soil; Mojave Desert west to Ventury County, north to southern Nevada and 
+Arizona; in May (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Item ">160</container>
+<unittitle>Calochortus luteus var. oculatus (yellow 
+mariposa).<unitdate>6/14/42</unitdate></unittitle>
+</did>
+<note><p>Madera County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">161</container>
+<unittitle>Calochortus luteus var. vestae (mariposa 
+lily).<unitdate>6/4/41</unitdate></unittitle>
+</did>
+<note><p>Tan Oak Park, Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">162</container>
+<unittitle>Calochortus maweanus major (hairy star 
+tulip).<unitdate>6/10/42</unitdate></unittitle>
+</did>
+<note><p>Butte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">163</container>
+<unittitle>Calochortus monophyllus (yellow star 
+tulip).<unitdate>6/10/42</unitdate></unittitle>
+</did>
+<note><p>Butte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">164</container>
+<unittitle>Calochortus monophyllus var. wallacei (yellow star tulip; 
+cat's ear).<unitdate>6/10/42</unitdate></unittitle>
+</did>
+<note><p>Butte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">165</container>
+<unittitle>Calochortus plummerae (Plummer's 
+mariposa).<unitdate>6/27/43</unitdate></unittitle>
+</did>
+<note><p>Chatsworth Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">166</container>
+<unittitle>Calochortus uniflorus (large-flowered star 
+tulip).<unitdate>6/10/42</unitdate></unittitle>
+</did>
+<note><p>Lake County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">167</container>
+<unittitle>Calochortus venustus eldorado (lovely 
+mariposa).<unitdate>6/24/42</unitdate></unittitle>
+</did>
+<note><p>Tuolumne County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">168</container>
+<unittitle>Calochortus venustus eldorado var. purp. (lovely 
+mariposa).<unitdate>6/24/42</unitdate></unittitle>
+</did>
+<note><p>Tuolumne County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">169</container>
+<unittitle>Camassia leichtlinii (blue form Leichtlin's 
+camass).<unitdate>4/29/42</unitdate></unittitle>
+</did>
+<note><p>Northern Coast Range, CA; type specimen from Winchester, 
+OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">170</container>
+<unittitle>Camassia leichtlinii (white form Leichtlin's 
+camass).<unitdate>4/30/42</unitdate></unittitle>
+</did>
+<note><p>Northern Coast Range, CA; type specimen from Winchester, 
+OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">171</container>
+<unittitle>Chlorogalum pomeridianum 
+(amole).<unitdate>5/14/43</unitdate></unittitle>
+</did>
+<note><p>Chatsworth Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">172</container>
+<unittitle>Erythronium californicum (California fawn 
+lily).<unitdate>4/15/42</unitdate></unittitle>
+</did>
+<note><p>near Ukiah, Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">173</container>
+<unittitle>Erythronium hartwegii (Sierra fawn 
+lily).<unitdate>4/18/42</unitdate></unittitle>
+</did>
+<note><p>Butte County foothills</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">174</container>
+<unittitle>Erythronium hendersonii (Henderson's fawn 
+lily).<unitdate>4/13/42</unitdate></unittitle>
+</did>
+<note><p>Siskiyou County; type specimen from Josephine County, 
+OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">175</container>
+<unittitle>Erythronium revolutum (coast fawn 
+lily).<unitdate>4/16/42</unitdate></unittitle>
+</did>
+<note><p>Navarro River 15 mi. inland, Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">176</container>
+<unittitle>Fritillaria lanceolata (checker lily; mission 
+bells).<unitdate>4/29/42</unitdate></unittitle>
+</did>
+<note><p>Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">177</container>
+<unittitle>Fritillaria pluriflora (adobe 
+lily).<unitdate>3/24/43</unitdate></unittitle>
+</did>
+<note><p>Butte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">178</container>
+<unittitle>Fritillaria pudica (yellow 
+fritillary).<unitdate>4/29/42</unitdate></unittitle>
+</did>
+<note><p>Sierra County to Siskiyou County; type specimen from southwest 
+Idaho</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">179</container>
+<unittitle>Fritillaria recurva (scarlet 
+fritillary).<unitdate>4/10/43</unitdate></unittitle>
+</did>
+<note><p>Butte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Item ">180</container>
+<unittitle>Fritillaria recurva (scarlet 
+fritillary).<unitdate>4/24/43</unitdate></unittitle>
+</did>
+<note><p>Butte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">181</container>
+<unittitle>Hesperocallis undulata (desert 
+lily).<unitdate>3/1/41</unitdate></unittitle>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">182</container>
+<unittitle>Lilium bolanderi (no common 
+name).<unitdate>6/13/41</unitdate></unittitle>
+</did>
+<note><p>Patricks Creek, Siskiyou County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">183</container>
+<unittitle>Lilium columbianum (Oregon 
+lily).<unitdate>6/8/41</unitdate></unittitle>
+</did>
+<note><p>Trinidad, Humboldt County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">184</container>
+<unittitle>Lilium humboldtii (Humboldt's 
+lily).<unitdate>7/3/41</unitdate></unittitle>
+</did>
+<note><p>Santa Anita Canyon</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">185</container>
+<unittitle>Lilium kellogii (Kellog's 
+lily).<unitdate>6/13/41</unitdate></unittitle>
+</did>
+<note><p>Patrick Creek, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">186</container>
+<unittitle>Lilium kellogii (Kellog's 
+lily).<unitdate>6/24/42</unitdate></unittitle>
+</did>
+<note><p>Humboldt County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">187</container>
+<unittitle>Lilium maritimum (coast 
+lily).<unitdate>7/11/42</unitdate></unittitle>
+</did>
+<note><p>Fort Bragg, Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">188</container>
+<unittitle>Lilium occidentale (Eureka 
+lily).<unitdate>8/25/42</unitdate></unittitle>
+</did>
+<note><p>near coast, Humboldt &#x0026; Del Norte Counties; type specimen 
+from Brookings, OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">189</container>
+<unittitle>Lilium pardalinum (leopard 
+lily).<unitdate>7/9/42</unitdate></unittitle>
+</did>
+<note><p>Medocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">190</container>
+<unittitle>Lilium pardalinum var. minor (Shasta leopard 
+lily).<unitdate>7/2/42</unitdate></unittitle>
+</did>
+<note><p>Butte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">192</container>
+<unittitle>Lilium parryi (lemon 
+lily).<unitdate>7/7/42</unitdate></unittitle>
+</did>
+<note><p>San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">192a</container>
+<unittitle>Lilium parryi (lemon lily).<unitdate>7/1/42, 
+(1959)</unitdate></unittitle>
+</did>
+<note><p>San Bernardino Mtns.; this painting is dated 1959</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">191</container>
+<unittitle>Lilium parvum (small tiger 
+lily).<unitdate>6/24/42</unitdate></unittitle>
+</did>
+<note><p>Placer County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">193</container>
+<unittitle>Lilium rubescens (chaparral 
+lily).<unitdate>7/2/42</unitdate></unittitle>
+</did>
+<note><p>Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">383</container>
+<unittitle>Nolina Parryi (Parry 
+nolina).<unitdate>5/18/58</unitdate></unittitle>
+<physdesc>photograph by Rosaleen M. Murman</physdesc>
+</did>
+<note><p>Pioneer Town, Morongo Valley, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">452</container>
+<unittitle>Nolina Parryi (Parry nolina).<unitdate>5/18/58, 
+4/21/60</unitdate></unittitle>
+</did>
+<note><p>Pioneer Town, Morongo Valley, San Bernardino County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 51.</unitid>
+<unittitle>Loasaceae (Loasa) Family. 
+<unitdate>1961</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">203</container>
+<unittitle>Mentzelia lindleyi (blazing star).</unittitle>
+</did>
+<note><p>no collection date; Mt. Hamilton Range; Sierra Nevada foothills 
+from Tuolumne to Tulare Counties; rocky canyon slopes, 500'-2,000' (fr. 
+Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">504</container>
+<unittitle>Petalonyx thurberi (sandpaper 
+plant).<unitdate>4/22/61</unitdate></unittitle>
+</did>
+<note><p>Painted Canyon near Mecca, Riverside County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 52.</unitid>
+<unittitle>Loranthaceae (Mistletoe) Family.</unittitle>
+</did>
+<scopecontent>
+<p>three entries have been moved to Family: Viscaceae, according to IPNI 
+classification</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle></unittitle>
+</did>
+<note><p>three entries have been moved to Family: Viscaceae, according 
+to IPNI classification</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 53.</unitid>
+<unittitle>Malvaceae (Mallow) Family. 
+<unitdate>1951-1961</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">205</container>
+<unittitle>Sphaeralcea ambigua (apricot 
+mallow).<unitdate>8/3/51</unitdate></unittitle>
+</did>
+<note><p>San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">506</container>
+<unittitle>Sphaeralcea emoryi (Emory's 
+mallow).<unitdate>7/30/61</unitdate></unittitle>
+</did>
+<note><p>Mulholland Drive, Los Angeles County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 54.</unitid>
+<unittitle>Monotropaceae (Indian Pipe) Family.</unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Item ">79</container>
+<unittitle>Sarcodes sanguinea (snowplant).</unittitle>
+</did>
+<scopecontent><p>pinewoods, 4,000'-8,000' elevation; common, Trinity and 
+Siskyou Counties; a saprophyte (fr. Jepson); plate indicates Family: 
+Ericaceae</p></scopecontent>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 55.</unitid>
+<unittitle>Myricaceae (Bayberry [Sweet-gale]) Family. 
+<unitdate>1954</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">206</container>
+<unittitle>Myrica californica (wax myrtle).<unitdate>4/3/54, 
+7/11/54</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 56.</unitid>
+<unittitle>Nyctaginaceae (Four-o'clock) Family.</unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">207</container>
+<unittitle>Abronia umbellata (common sand-verbena).</unittitle>
+</did>
+<note><p>no collection date; common along seashore from Los Angeles 
+County to San Francisco and Eureka, north to Washington (fr. 
+Jepson)</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 57.</unitid>
+<unittitle>Oleaceae (Olive [Ash]) Family. 
+<unitdate>1955</unitdate></unittitle>
+<physdesc><extent>4 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">475</container>
+<unittitle>Fraxinus anomala (dwarf ash; single-leaf 
+ash).<unitdate>8/27/55</unitdate></unittitle>
+</did>
+<note><p>Providence and Panamint Mountains; type specimen from Leeds, 
+UT</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">478</container>
+<unittitle>Fraxinus dipetala (foothill ash).<unitdate>3/19/55, 
+6/11/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">476</container>
+<unittitle>Fraxinus oregona (Oregon 
+ash).<unitdate>7/6/55</unitdate></unittitle>
+</did>
+<note><p>throughout cismontane California; type specimen from Salem, 
+OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">477</container>
+<unittitle>Fraxinus velutina (velvet ash).<unitdate>3/19/55, 
+6/11/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 58.</unitid>
+<unittitle>Onagraceae (Evening Primrose) Family. 
+<unitdate>1941-1961</unitdate></unittitle>
+<physdesc><extent>8 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">208</container>
+<unittitle>Clarkia elegans (no common 
+name).<unitdate>6/1/43</unitdate></unittitle>
+</did>
+<note><p>also slide #191; Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">209</container>
+<unittitle>Epilobium angustifolium (fire 
+weed).<unitdate>6/11/41</unitdate></unittitle>
+</did>
+<note><p>Trinidad, Humboldt County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">210</container>
+<unittitle>Godetia grandiflora (large flowered 
+godetia).<unitdate>6/10/42</unitdate></unittitle>
+</did>
+<note><p>Mendocino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">211</container>
+<unittitle>Godetia viminea (orchid-flowered 
+godetia).<unitdate>6/20/42</unitdate></unittitle>
+</did>
+<note><p>no collection place</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">212</container>
+<unittitle>Oenothera californica (evening 
+primrose).<unitdate>6/2/42</unitdate></unittitle>
+</did>
+<note><p>near Gorman, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">509</container>
+<unittitle>Oenothera cardiophylla var. splendens (heart-leaved 
+primrose).<unitdate>4/22/61</unitdate></unittitle>
+</did>
+<note><p>Painted Canyon near Mecca, Riverside County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">213</container>
+<unittitle>Oenothera hookerii (evening 
+primrose).<unitdate>6/14/42</unitdate></unittitle>
+</did>
+<note><p>Canoga Park, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">214</container>
+<unittitle>Zauschneria californica (Mexican balsamea).</unittitle>
+</did>
+<scopecontent><p>no collection date; cost ranges from Mendocino and Lake 
+Counties to coastal So. California; dry benches, rocky hillsides or 
+cliffs, 50'-4,000' (fr. Jepson)</p></scopecontent>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 59.</unitid>
+<unittitle>Orchidaceae (Orchid) Family. 
+<unitdate>1941-1942</unitdate></unittitle>
+<physdesc><extent>6 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">215</container>
+<unittitle>Calypso bulbosa (calypso).</unittitle>
+</did>
+<note><p>no collection date; Marin to Siskiyou and Del Norte Counties, 
+north to Alaska; bogs or in leaf-mold or pine forests (fr. 
+Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">216</container>
+<unittitle>Corallorrhiza striata (striped coral root).</unittitle>
+</did>
+<note><p>no collection date; woods along coast from Santa Cruz to 
+Humboldt Counties; Sierra Nevada from Fresno to Modoc to Siskiyou 
+Counties; north to British Columbia (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">217</container>
+<unittitle>Cypripedium californicum 
+(lady'slipper).<unitdate>6/13/41</unitdate></unittitle>
+</did>
+<note><p>Patrick Creek Lodge, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">218</container>
+<unittitle>Cypripedium montanum (mountain lady's 
+slipper).<unitdate>6/9/42</unitdate></unittitle>
+</did>
+<note><p>Siskiyou County at Oregon line</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">219</container>
+<unittitle>Epipactis gigantea (stream 
+orchis).<unitdate>6/13/41</unitdate></unittitle>
+</did>
+<note><p>Patrick Creek, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">220</container>
+<unittitle>Habenaria sparsiflora 
+(rein-orchis).<unitdate>6/15/41</unitdate></unittitle>
+</did>
+<note><p>Hwy #199 near Hiiochi Bridge, Del Norte County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 60.</unitid>
+<unittitle>Orobanchaceae (Broom-rape) Family. 
+<unitdate>1951</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">221</container>
+<unittitle>Orobanche comosa var. violacea (purple 
+broom-rape).<unitdate>8/2/51</unitdate></unittitle>
+</did>
+<note><p>Pigeon Point, San Mateo County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 61.</unitid>
+<unittitle>Papaveraceae (Poppy) Family. 
+<unitdate>1943-1955</unitdate></unittitle>
+<physdesc><extent>5 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">222</container>
+<unittitle>Argemone platyceras (prickly-poppy; 
+chicalote).<unitdate>6/3/52</unitdate></unittitle>
+</did>
+<note><p>Angeles Crest, Los Angeles County, 5,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">479</container>
+<unittitle>Dendromecon rigida (bush poppy).<unitdate>2/18/55, 
+6/11/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">417</container>
+<unittitle>Dicentra chrysantha (golden 
+ear-drops).<unitdate>5/11/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden; plate indicates Family: 
+Fumariaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">416</container>
+<unittitle>Dicentra formosa (bleeding 
+heart).<unitdate>6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden; plate indicates Family: 
+Fumariaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">223</container>
+<unittitle>Romneya coulteri (matilija 
+poppy).<unitdate>6/21/43</unitdate></unittitle>
+</did>
+<note><p>Chatsworth Hills, Los Angeles County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 62.</unitid>
+<unittitle>Pinaceae (Pine) Family. 
+<unitdate>1941-1961</unitdate></unittitle>
+<physdesc><extent>38 entries</extent></physdesc>
+</did>
+<scopecontent>
+<p>one entry has been moved to Family: Cupressaceae, according to IPNI 
+classification</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle></unittitle>
+</did>
+<note><p>one entry has been moved to Family: Cupressaceae, according to 
+IPNI classification</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">224</container>
+<unittitle>Abies amabilis (cascade fir; lovely 
+fir).<unitdate>9/12/53</unitdate></unittitle>
+</did>
+<note><p>also slide #192; Cascade Mountains, OR; found in Siskiyou 
+Mountains, CA, by James Roof of Tilden Park Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">224a</container>
+<unittitle>Abies amabilis (cascade fir; lovely fir).</unittitle>
+<physdesc>map</physdesc>
+</did>
+<note><p>no colledtion date; map from W. Metcalf, showing only know 
+location</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">225</container>
+<unittitle>Abies concolor (white 
+fir).<unitdate>9/18/41</unitdate></unittitle>
+</did>
+<note><p>also slide #193; Shasta National Forest</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">226</container>
+<unittitle>Abies grandis (lowland fir).</unittitle>
+</did>
+<note><p>also slide #194; no other data</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">227</container>
+<unittitle>Abies magnifica (red 
+fir).<unitdate>9/17/41</unitdate></unittitle>
+</did>
+<note><p>also slide #195; Stanislaus National Forest</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">228</container>
+<unittitle>Abies magnifica var. shastensis (Shasta red 
+fir).</unittitle>
+</did>
+<note><p>also slide #196; no other data</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">446</container>
+<unittitle>Abies procera (noble 
+fir).<unitdate>9/1/60</unitdate></unittitle>
+</did>
+<note><p>Siskiyou Mountains; Mount Hood, OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">516</container>
+<unittitle>Abies procera (noble fir).<unitdate>6/18/61, 
+7/5/61</unitdate></unittitle>
+</did>
+<note><p>Siskiyou Mountains, 3,000'-5,000' elevation; Oregon coast range 
+and Marys Peak, OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">229</container>
+<unittitle>Abies venusta (Santa Lucia 
+fir).<unitdate>9/2/42</unitdate></unittitle>
+</did>
+<note><p>also slide #197; Miller Canyon, Monterey County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">231</container>
+<unittitle>Picea breweriana (Brewer's spruce; weeping 
+spruce).<unitdate>12/12/41</unitdate></unittitle>
+</did>
+<note><p>also slide #199; Happy Camp, Klamath National Forest, Siskiyou 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">232</container>
+<unittitle>Picea engelmannii (Engelmann 
+spruce).<unitdate>10/2042</unitdate></unittitle>
+</did>
+<note><p>also slide #200; Sugar Pine Creek on Russian Mountain, Siskiyou 
+County Sections 29-32, T 40 N, R 9 W; Clarks Creek, Shasta County, 
+Sections 21 &#x0026; 28</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">233</container>
+<unittitle>Picea sitchensis (tideland spruce).</unittitle>
+</did>
+<note><p>Mendocino County north to Del Norte County, north to Alaska; 
+lowlands facing the ocean (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">234</container>
+<unittitle>Pinus albicaulis (white-bark 
+pine).<unitdate>9/18/41</unitdate></unittitle>
+</did>
+<note><p>also slide #202; Trinity National Forest, Yalla Bolly 
+Mountains</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">235</container>
+<unittitle>Pinus aristata (bristle-cone pine; hickory 
+pine).<unitdate>9/15/41</unitdate></unittitle>
+</did>
+<note><p>also slide #223; White Mountains, Inyo County, 11,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">445</container>
+<unittitle>Pinus aristata (bristle-cone pine; hickory 
+pine).<unitdate>6/24/60</unitdate></unittitle>
+</did>
+<note><p>White Mountains, Inyo County, 10,200' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">236</container>
+<unittitle>Pinus balfouriana (foxtail 
+pine).<unitdate>9/18/41</unitdate></unittitle>
+</did>
+<note><p>also slide #203; Trinity National Forest, Yolla Bolla 
+Mountains</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">237</container>
+<unittitle>Pinus cembroides var. monophylla (one-leaf 
+pinon).</unittitle>
+</did>
+<scopecontent><p>also slide #204; no collection date; local on west 
+slope, Sierra Nevada from Tuolumne to Kern Rivers; common on desert 
+slopes and ranges (fr. Jepson)</p></scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">238</container>
+<unittitle>Pinus cembroides var. parryana (Parry 
+pinon).<unitdate>8/18/41</unitdate></unittitle>
+</did>
+<note><p>also slide #205; Elysian Park, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">239</container>
+<unittitle>Pinus contorta (beach 
+pine).<unitdate>6/10/41</unitdate></unittitle>
+</did>
+<note><p>also slide #206; Trinidad, Humboldt County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">12</container>
+<container type="folder" label="Item ">240</container>
+<unittitle>Pinus contorta var. murrayana (tamarac pine).</unittitle>
+</did>
+<note><p>no collection date; Sierra Nevada; San Bernardino and San 
+Jacinto Mountains; dry slopes or swampy swales, 6,000'-10,000' (fr. 
+Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">241</container>
+<unittitle>Pinus coulteri (big cone pine).</unittitle>
+</did>
+<note><p>also slide #208; no collection date; Mt. Diablo (12,000' 
+elevation), Mt. Hamilton, San Carlos and Santa Lucia Ranges; dry, rocky 
+mountain slopes, 3,000'-6,500' elevation (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">242</container>
+<unittitle>Pinus flexilis (limber 
+pine).<unitdate>8/28/41</unitdate></unittitle>
+</did>
+<note><p>Tahquitz Peak, Riverside County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">243</container>
+<unittitle>Pinus flexilis (limber 
+pine).<unitdate>2/16/42</unitdate></unittitle>
+</did>
+<note><p>also slide #209; head of Rock Creek, Mono County, 11,300' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">244</container>
+<unittitle>Pinus lambertiana (sugar pine).</unittitle>
+</did>
+<note><p>also slide #210; no collection date; Sierra Nevada in main 
+timber belt; higher coast ranges, So. CA to OR; montane, 2,500'-7,000' 
+(fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">245</container>
+<unittitle>Pinus monticola (silver pine).</unittitle>
+</did>
+<note><p>also slide #211; no collection date; Sierra Nevada in main 
+timber belt, 6,000'-9,500'; Mt. Shasta to Marble Mountain and Siskiyou 
+Mountains, north to British Columbia (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">246</container>
+<unittitle>Pinus muricata (Bishop 
+pine).<unitdate>4/19/41</unitdate></unittitle>
+</did>
+<note><p>also slide #212; Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">247</container>
+<unittitle>Pinus ponderosa (yellow pine).</unittitle>
+</did>
+<note><p>also slide #213; no collection date; most abundant species in 
+Sierra Nevada, main timber belt; higher coast ranges; high mountains of 
+So. CA (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">248</container>
+<unittitle>Pinus ponderosa var. jeffreyi (Jeffrey pine).</unittitle>
+</did>
+<note><p>also slide #214; no collection date; Sierra Nevada; Mt. San 
+Jacinto and San Bernardino Mountains; Yollo to Siskiyou Mountains; high 
+montane, 6,000'-7,000' elevation (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">249</container>
+<unittitle>Pinus radiata (Monterey pine).</unittitle>
+</did>
+<note><p>also slide #215; no collection date; Ano Nuevo Pt., Santa Cruz 
+County; Monterey; Cambria, San Luis Obispo; seacoast only in a few, 
+small, scattered communities (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">480</container>
+<unittitle>Pinus remorata (island 
+pine).<unitdate>2/18/55</unitdate></unittitle>
+</did>
+<note><p>Santa Cruz Island</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">250</container>
+<unittitle>Pinus sabiniana (digger pine).</unittitle>
+</did>
+<note><p>also slide #216; no collection date; Sierra foothills; coast 
+ranges mostly toward the interior and foothils, forming a very thin 
+stand (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">251</container>
+<unittitle>Pinus torreyana (Torrey pine).</unittitle>
+</did>
+<note><p>also slide #217; no collection date; local to San Diego coast 
+about Del Mar; Soledad Canyon; Santa Rosa Island (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">252</container>
+<unittitle>Pinus tuberculata (knob cone pine).</unittitle>
+</did>
+<note><p>also slide #218; no collection date; Santa Lucia and Santa Cruz 
+Mountains; Moraga Ridge; Mt. St. Helena north; barren or rocky slopes at 
+median elevations (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">253</container>
+<unittitle>Pseudotsuga macrocarpa (big cone spruce).</unittitle>
+</did>
+<note><p>also slide #219; no collection date; San Emicdino Mountains, 
+west to San Rafael and Santa Inez ranges; canyons and north slopes, 
+2,500'-8,000' (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">444</container>
+<unittitle>Pseudotsuga macrocarpa (big cone 
+spruce).<unitdate>3/18/60</unitdate></unittitle>
+</did>
+<note><p>Arroyo Seco, Pasadena, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">254</container>
+<unittitle>Pseudotsuga taxifolia (Douglas fir; Douglas 
+spruce).<unitdate>10/20/42</unitdate></unittitle>
+</did>
+<note><p>also slide #220; outskirts of Portland, OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">255</container>
+<unittitle>Tsuga heterophylla (coast 
+hemlock).<unitdate>9/25/42</unitdate></unittitle>
+</did>
+<note><p>also slide #221; Wind River Valley, Columbia National Forest, 
+OR</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">256</container>
+<unittitle>Tsuga mertensiana (mountain 
+hemlock).<unitdate>9/25/42</unitdate></unittitle>
+</did>
+<note><p>also slide #222; type specimen from 4,000', Reed Mountain, 
+Columbia National Park, OR</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 63.</unitid>
+<unittitle>Platanaceae (Plane-tree) Family. 
+<unitdate>1955</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">461</container>
+<unittitle>Platanus racemosa (western sycamore).<unitdate>2/18/55, 
+3/19/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 64.</unitid>
+<unittitle>Plumbaginaceae (Leadwort [Thrift]) Family. 
+<unitdate>1951</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">257</container>
+<unittitle>Statice arctica var. californica (sea-pink; 
+thrift).<unitdate>8/24/51</unitdate></unittitle>
+</did>
+<note><p>Pigeon Point, San Mateo County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 65.</unitid>
+<unittitle>Polemoniaceae (Phlox) Family. 
+<unitdate>1942-1961</unitdate></unittitle>
+<physdesc><extent>4 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">456</container>
+<unittitle>Gilia achilleaefolia (blue 
+gilia).<unitdate>7/7/60</unitdate></unittitle>
+</did>
+<note><p>Woodland Hills, Los Angeles County; plate indicates English 
+family name: Gilia Family</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">24</container>
+<container type="folder" label="Item ">462</container>
+<unittitle>Gilia aggregata (scarlet gilia; sky 
+rocket).<unitdate>7/17/55</unitdate></unittitle>
+</did>
+<note><p>Mammoth, Mono County, 8,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">258</container>
+<unittitle>Gilia californica (prickly 
+phlox).<unitdate>5/24/42</unitdate></unittitle>
+</did>
+<note><p>also slide #224; Verdugo Hills, Los Angeles County; plate 
+indicates English family name: Gilia Family</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">503</container>
+<unittitle>Gilia latifolia (broad-leaved 
+gilia).<unitdate>4/22/61</unitdate></unittitle>
+</did>
+<note><p>Painted Canyon near Mecca, Riverside County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 66.</unitid>
+<unittitle>Polygonaceae (Buckwheat) Family. 
+<unitdate>1941-1957</unitdate></unittitle>
+<physdesc><extent>8 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">438</container>
+<unittitle>Eriogonum arborescens (Santa Cruz Island 
+buckwheat).<unitdate>5/11/57</unitdate></unittitle>
+</did>
+<note><p>Santa Cruz Island; also collected Santa Barbara Botanic 
+Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">439</container>
+<unittitle>Eriogonum crocatum (saffron 
+eriogonum).<unitdate>7/2/57</unitdate></unittitle>
+</did>
+<note><p>Conejo Grade, Ventura County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">259</container>
+<unittitle>Eriogonum elatum (no common 
+name).<unitdate>6/13/41</unitdate></unittitle>
+</did>
+<note><p>Patrick Creek, Del Norte County, Hwy. #199</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">13</container>
+<container type="folder" label="Item ">260</container>
+<unittitle>Eriogonum fasciculatum (California buckwheat; 
+flat-top).<unitdate>9/30/51</unitdate></unittitle>
+</did>
+<note><p>also slide #225; Vedugo Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">437</container>
+<unittitle>Eriogonum giganteum (Saint Catherine's 
+lace).<unitdate>7/12/57</unitdate></unittitle>
+</did>
+<note><p>Santa Catalina and San Clemente Islands; also collected at 
+Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">261</container>
+<unittitle>Eriogonum latifolium (coast eriogonum; 
+tibinagua).<unitdate>8/24/51</unitdate></unittitle>
+</did>
+<note><p>coast, San Mateo County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">262</container>
+<unittitle>Eriogonum parvifolium (dune 
+eriogonum).<unitdate>8/22//51</unitdate></unittitle>
+</did>
+<note><p>dunes of Monterey coast</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">263</container>
+<unittitle>Eriogonum umbellatum (sulphur 
+flower).<unitdate>8/23/52</unitdate></unittitle>
+</did>
+<note><p>Mammoth, Mono County, 8,500' elevation</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 67.</unitid>
+<unittitle>Primulaceae (Primrose) Family.</unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">264</container>
+<unittitle>Dodecatheon hendersonii (mosquito bills; sailor 
+caps).</unittitle>
+</did>
+<note><p>coast ranges from Monterey to Siskiyou Counties; south in 
+Sierra Nevada foothills to Tulare County; February to April (fr. 
+Jepson)</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 68.</unitid>
+<unittitle>Ranunculaceae (Buttercup) Family. 
+<unitdate>1941-1959</unitdate></unittitle>
+<physdesc><extent>6 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">265</container>
+<unittitle>Aconitum columbianum (western 
+monkshood).<unitdate>8/19/52</unitdate></unittitle>
+</did>
+<note><p>Mammoth, Mono County, 8,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">266</container>
+<unittitle>Aquilegia truncata 
+(columbine).<unitdate>6/3/41</unitdate></unittitle>
+</did>
+<note><p>Mt. Saint Helena, Napa County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">324</container>
+<unittitle>Clematis lasiantha (virgin's bower; pipe 
+stem).<unitdate>2/25/59; 4/29/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden; plate indicates English family 
+name: Crowfoot Family</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">267</container>
+<unittitle>Delpinium cardinale (scarlet 
+larkspur).<unitdate>7/3/41</unitdate></unittitle>
+</did>
+<note><p>Santa Anita Canyon</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">268</container>
+<unittitle>Delphinium parryi (Parry's 
+larkspur).<unitdate>5/14/43</unitdate></unittitle>
+</did>
+<note><p>Chatsworth Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">390</container>
+<unittitle>Paeonia brownii (western 
+peony).<unitdate>2/25/56</unitdate></unittitle>
+</did>
+<note><p>Big Tujunga Canyon, Los Angeles County; plate indicates English 
+family name: Crowfoot Family</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 69.</unitid>
+<unittitle>Rhamnaceae (Buckthorn) Family. 
+<unitdate>1952-1957</unitdate></unittitle>
+<physdesc><extent>9 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">269</container>
+<unittitle>Ceanothus arboreus (island 
+lilac).<unitdate>3/8/54</unitdate></unittitle>
+</did>
+<note><p>Vedugo Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">270</container>
+<unittitle>Ceanothus crassifolius (hoary-leaf 
+ceanothus).<unitdate>2/23/52</unitdate></unittitle>
+</did>
+<note><p>also slide #226; Verdugo Hills, Los Angeles County; also 
+colleced in May &#x0026; August</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">415</container>
+<unittitle>Ceanothus cynaeus (San Diego 
+ceanothus).<unitdate>2/18/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">422</container>
+<unittitle>Ceanothus impressus (Santa Barbara 
+ceanothus).<unitdate>4/3/54; 6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">271</container>
+<unittitle>Ceanothus papillosus var. roweanus (wart-leaf 
+ceanothus).<unitdate>2/7/53</unitdate></unittitle>
+</did>
+<note><p>Mt. Tranquillon, Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">402</container>
+<unittitle>Ceanothus thyrsiflorus var. griseus (no common 
+name).<unitdate>3/26/55</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">421</container>
+<unittitle>Rhamnus californica (coffee berry; pidgeon berry; yerba del 
+oso).<unitdate>9/15/57, 6/57</unitdate></unittitle>
+</did>
+<note><p>Verdugo Hills, Glendale, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">272</container>
+<unittitle>Rhamnus crocea var. ilicifolia (holly-leaf coffee; red 
+berry).<unitdate>2/1/53, 7/1/52</unitdate></unittitle>
+</did>
+<note><p>also slide #227; Chatsworth Hills, Los Angeles 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">403</container>
+<unittitle>Rhamnus purshiana (cascara sagrada).<unitdate>6/10/55, 
+8/1/55</unitdate></unittitle>
+</did>
+<note><p>Klamath, Del Norte County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 70.</unitid>
+<unittitle>Rosaceae (Rose) Family. 
+<unitdate>1952-1959</unitdate></unittitle>
+<physdesc><extent>18 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">273</container>
+<unittitle>Adenostoma fasciculatum (greasewood; 
+chamise).<unitdate>5/4/52</unitdate></unittitle>
+</did>
+<note><p>Verdugo Hills, Glendale, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">367</container>
+<unittitle>Adenostoma sparsifoium (ribbon wood; yerba del 
+pasmo).<unitdate>7/10/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">274</container>
+<unittitle>Cercocarpus betuloides (mountain mahogany; hardtack 
+).<unitdate>2/7/53, 6/53</unitdate></unittitle>
+</did>
+<note><p>also slide #228; Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">426</container>
+<unittitle>Chamaebatiaria millefolium (fern bush; desert 
+sweet).<unitdate>6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">275</container>
+<unittitle>Cowania stansburiana (rock 
+rose).<unitdate>4/3/54</unitdate></unittitle>
+</did>
+<note><p>eastern Mojave Desert</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">368</container>
+<unittitle>Crataegus douglasii (black hawthorn).<unitdate>5/20/58, 
+7/19/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">276</container>
+<unittitle>Fallugia paradoxa (Apache 
+plume).<unitdate>6/1/53</unitdate></unittitle>
+</did>
+<note><p>Providence Mountains, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">369</container>
+<unittitle>Holodiscus discolor 
+(creambush).<unitdate>6/20/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">277</container>
+<unittitle>Lyonothamnus asplenifolius (Catalina Island ironwood), part 
+a.<unitdate>11/24/53</unitdate></unittitle>
+</did>
+<note><p>Catalina Island; part b of plate illustrates L. 
+floribundus</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">351</container>
+<unittitle>Osmaronia cerasiformis (oso berry).<unitdate>3/14/58, 
+6/3/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">278</container>
+<unittitle>Photinia arbutifolia (toyon; California 
+holly).<unitdate>7/13/53, 11/2/53</unitdate></unittitle>
+</did>
+<note><p>also slide #229; Verdugo Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">370</container>
+<unittitle>Physocarpus capitatus 
+(ninebark).<unitdate>5/20/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">338</container>
+<unittitle>Prunus eriogyna (desert 
+apricot).<unitdate>1/20/59</unitdate></unittitle>
+</did>
+<note><p>Hwy. #78, between Banner and Scissors Crossing</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">279</container>
+<unittitle>Prunus ilicifolia (islay; holly-leaf 
+cherry).<unitdate>2/7/54, 8/30/54</unitdate></unittitle>
+</did>
+<note><p>Verdugo Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">427</container>
+<unittitle>Prunus lyonii (Catalina cherry).<unitdate>5/11/57, 
+9/57</unitdate></unittitle>
+</did>
+<note><p>Catalina, San Clemente and Santa Cruz Islands; Santa Barbara 
+Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">371</container>
+<unittitle>Purshia tridentata (antelope 
+brush).<unitdate>6/18/58</unitdate></unittitle>
+</did>
+<note><p>McBride Spring, Shasta County, 5,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">404</container>
+<unittitle>Sorbus sitchensis (western mountain 
+ash).<unitdate>10/24/55</unitdate></unittitle>
+</did>
+<note><p>Castle Lake, Siskiyou County, 5,600' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">428</container>
+<unittitle>Spiraea menziesii (Menzies' 
+spiraea).<unitdate>6/13/57</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 71.</unitid>
+<unittitle>Rubiaceae (Madder) Family. 
+<unitdate>1957</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">418</container>
+<unittitle>Cephalanthus occidentalis (button 
+bush).<unitdate>7/12/57</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 72.</unitid>
+<unittitle>Rutaceae (Rue) Family. 
+<unitdate>1957-1958</unitdate></unittitle>
+<physdesc><extent>3 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">349</container>
+<unittitle>Cneoridium dumosum (berry rue; bush 
+rue).<unitdate>1/6/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">350</container>
+<unittitle>Ptelea baldwinii (western hop-tree).<unitdate>4/15/58, 
+8/2/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden; Mt. Diablo, Contra Costa 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">22</container>
+<container type="folder" label="Item ">432</container>
+<unittitle>Thamnosma montana (turpentine 
+broom).<unitdate>5/31/57</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 73.</unitid>
+<unittitle>Salicaceae (Willow) Family. 
+<unitdate>1955-1961</unitdate></unittitle>
+<physdesc><extent>20 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">406</container>
+<unittitle>Populus fremontii (Fremont's 
+cottonwood).<unitdate>3/17/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">407</container>
+<unittitle>Populus tremuloides (quaking 
+aspen).<unitdate>5/1/55</unitdate></unittitle>
+</did>
+<note><p>Mammoth, Mono County, 7,500' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">405</container>
+<unittitle>Populus trichocarpa (black 
+cottonwood).<unitdate>3/17/55</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana, Orange County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">510</container>
+<unittitle>Salix coulteri (Coulter 
+willow).<unitdate>4/17/61</unitdate></unittitle>
+</did>
+<note><p>Dr. Tine Bridge, Smith River, Hwy #101, Del Norte 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">395</container>
+<unittitle>Salix eastwoodiae (Eastwood's 
+willow).<unitdate>8/20/56</unitdate></unittitle>
+</did>
+<note><p>moist meadow bordering Leevining Creek, Mono County, 1/2 mile 
+above Ellery Lake, 9,450' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">398</container>
+<unittitle>Salix geyeriana var. argentea (Geyer 
+willow).<unitdate>7/12/56</unitdate></unittitle>
+</did>
+<note><p>Wolverton Meadow, Sequoia National Park, 7,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">325</container>
+<unittitle>Salix gooddingii (black willow).<unitdate>2/24/59, 
+3/26/59</unitdate></unittitle>
+</did>
+<note><p>Twentynine Palms, San Bernardino County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">373</container>
+<unittitle>Salix hindsiana (valley willow; sandbar 
+willow).<unitdate>2/25/56</unitdate></unittitle>
+</did>
+<note><p>Tujunga Wash, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">399</container>
+<unittitle>Salix hookeriana (coast 
+willow).<unitdate>3/28/56</unitdate></unittitle>
+</did>
+<note><p>Klamath, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">401</container>
+<unittitle>Salix jepsoni (Jepson willow).<unitdate>7/9/56, 
+7/24/56</unitdate></unittitle>
+</did>
+<note><p>female: Wolverton Meadow, Sequoia National Park, 7,000' 
+elevation; male: Lassen National Park, 6,700' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">388</container>
+<unittitle>Salix laevigata var. araquipa (red 
+willow).<unitdate>3/10/56, 5/27/56</unitdate></unittitle>
+</did>
+<note><p>Mulholland Drive, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">385</container>
+<unittitle>Salix lasiandra (yellow 
+willow).<unitdate>7/9/56</unitdate></unittitle>
+</did>
+<note><p>Halstead Meadow, Sequoia National Park, 6,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">387</container>
+<unittitle>Salix lasiolepis (arroyo willow).<unitdate>2/20/56, 
+5/27/56</unitdate></unittitle>
+</did>
+<note><p>Oxnard, West 5th Street near ocean, Ventura County; Malibu and 
+Mulholland Drive, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">393</container>
+<unittitle>Salix lemmonii (Lemmon's 
+willow).<unitdate>7/9/56</unitdate></unittitle>
+</did>
+<note><p>Wolverton Meadow, Sequoia National Park, 7,000' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">391</container>
+<unittitle>Salix monica (Mono 
+willow).<unitdate>7/27/56</unitdate></unittitle>
+</did>
+<note><p>Glacier Canyon, east of Mt. Dana, Mono County, 10,550' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">397</container>
+<unittitle>Salix myrtillifolia (firm-leaf 
+willow).<unitdate>7/11/56</unitdate></unittitle>
+</did>
+<note><p>male: south end of Crescent Meadow, Sequoia National Park, 
+7,240' elevation; female: along Bow River, Calgary, Canada, 3,400' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">396</container>
+<unittitle>Salix orestera (Sierra 
+willow).<unitdate>8/20/56</unitdate></unittitle>
+</did>
+<note><p>moist borders of Tioga Lake, head of Leevining Canyon, Mono 
+County, 9,600' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">511</container>
+<unittitle>Salix parksiana (Parks 
+willow).<unitdate>4/17/61</unitdate></unittitle>
+</did>
+<note><p>Dr. Tine Bridge, Smith River, Hwy. #101, Del Norte 
+County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">392</container>
+<unittitle>Salix petrophila var. caespitosa (alpine 
+willow).<unitdate>7/19/56</unitdate></unittitle>
+</did>
+<note><p>shores of Gradisky Lake, Tioga Crest, Mono County, 10,650' 
+elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">394</container>
+<unittitle>Salix scouleriana (Scouler 
+willow).<unitdate>7/19/56</unitdate></unittitle>
+</did>
+<note><p>Shadley's Meadow behind service station, Grant Grove, 6,589' 
+elevation</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 74.</unitid>
+<unittitle>Sapindaceae (Buckeye) Family. 
+<unitdate>1958</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<scopecontent>
+<p>one entry has been moved to Family: Hippocastanaceae, according to 
+IPNI classification</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle></unittitle>
+</did>
+<note><p>one entry has been moved to Family: Hippocastanaceae, according 
+to IPNI classification</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">354</container>
+<unittitle>Staphylea bolanderi (California 
+bladdernut).<unitdate>3/29/58, 5/24/58</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 75.</unitid>
+<unittitle>Sarraceniaceae (Pitcher-plant) Family.</unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">14</container>
+<container type="folder" label="Item ">280</container>
+<unittitle>Darlingtonia californica (California pitcher plant; calf's 
+head).</unittitle>
+</did>
+<note><p>no collection date; Plumas, Shasta, Siskiyou, Del Norte 
+Counties; Oregon coast ranges; mostly meadow and along streams, 
+3,000'-6,000' elevation</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 76.</unitid>
+<unittitle>Saururaceae (Lizard's-tail) Family. 
+<unitdate>1951</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">281</container>
+<unittitle>Anemopsis californica (yerba 
+mansa).<unitdate>8/31/51</unitdate></unittitle>
+</did>
+<note><p>Santa Barbara County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 77.</unitid>
+<unittitle>Saxifragaceae (Saxifrage) Family. 
+<unitdate>1952-1959</unitdate></unittitle>
+<physdesc><extent>5 entries</extent></physdesc>
+</did>
+<scopecontent>
+<p>one entry has been moved to Family: Grossulariaceae, according to 
+IPNI classification</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">409</container>
+<unittitle>Carpenteria californica 
+(carpenteria).<unitdate>3/26/55</unitdate></unittitle>
+</did>
+<note><p>Lompoc, Santa Barbara County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">326</container>
+<unittitle>Heuchera maxima (island 
+heuchera).<unitdate>3/17/59</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">20</container>
+<container type="folder" label="Item ">400</container>
+<unittitle>Ribes aureum (golden 
+currant).<unitdate>2/25/56</unitdate></unittitle>
+</did>
+<note><p>Tujunga Canyon, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">282</container>
+<unittitle>Ribes malvaceum (chaparral flowering 
+currant).<unitdate>2/20/52</unitdate></unittitle>
+</did>
+<note><p>also slide #230; Hidden Valley, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">283</container>
+<unittitle>Ribes speciosum (fuchsia-flowered 
+gooseberry).<unitdate>2/3/52, 3/8/52</unitdate></unittitle>
+</did>
+<note><p>Verdugo Hills, Los Angeles County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 78.</unitid>
+<unittitle>Scrophulariaceae (Figwort) Family. 
+<unitdate>1941-1961</unitdate></unittitle>
+<physdesc><extent>23 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">284</container>
+<unittitle>Antirrhinum coulterianum (Coulter's 
+snapdragon).<unitdate>5/14/43</unitdate></unittitle>
+</did>
+<note><p>Chatsworth Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">285</container>
+<unittitle>Antirrhinum glandulosum (viscid 
+snapdragon).<unitdate>5/14/43</unitdate></unittitle>
+</did>
+<note><p>Chatsworth Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">286</container>
+<unittitle>Castilleja affinis var. linariaefolia (scarlet 
+cup).</unittitle>
+</did>
+<note><p>no collection date; Sierra Nevada from Modoc to Kern Counties; 
+south to Los Angeles County; montane, 4,000'-8,500' (fr. Jepson); plate 
+uses genus: Castilleia</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">287</container>
+<unittitle>Castilleja angustifolia 
+(paintbrush).<unitdate>3/16/41</unitdate></unittitle>
+</did>
+<note><p>Mint Canyon, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">288</container>
+<unittitle>Castilleja foliolosa 
+(paintbrush).<unitdate>3/2/41</unitdate></unittitle>
+</did>
+<note><p>Tujunga Canyon, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">289</container>
+<unittitle>Castilleja latifolia (seaside painted cup).</unittitle>
+</did>
+<note><p>no collection date; Monterey to Mendocino Counties; sea cliffs 
+and rocky headlands along the coast, 10,500' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">290</container>
+<unittitle>Castilleja parviflora var. douglasii (indian paint 
+brush).<unitdate>6/28/41</unitdate></unittitle>
+</did>
+<note><p>Big Bear Valley, San Bernardino County; plate uses genus: 
+Castilleia</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">291</container>
+<unittitle>Diplacus puniceus (brick-red 
+monkey-flower).<unitdate>7/17/42</unitdate></unittitle>
+</did>
+<note><p>Chatsworth Hills, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">292</container>
+<unittitle>Galvesia speciosa (island 
+snapdragon).<unitdate>4/3/54</unitdate></unittitle>
+</did>
+<note><p>Catalina Island</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">293</container>
+<unittitle>Mimulus bigelovii (monkey 
+flower).<unitdate>3/20/41</unitdate></unittitle>
+</did>
+<note><p>Borrego Valley, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">294</container>
+<unittitle>Mimulus cardinalis (scarlet moneky 
+flower).<unitdate>7/3/41</unitdate></unittitle>
+</did>
+<note><p>Santa Anita Canyon</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">295</container>
+<unittitle>Mimulus guttatus (common monkey 
+flower).<unitdate>6/11/41</unitdate></unittitle>
+</did>
+<note><p>Smith River, Del Norte County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">458</container>
+<unittitle>Mimulus longiflorus (bush monkey 
+flower).<unitdate>4/15/60</unitdate></unittitle>
+</did>
+<note><p>Rancho Santa Ana Botanic Garden</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">296</container>
+<unittitle>Orthocarpus purpurascens (owls-clover; 
+escobita).<unitdate>5/15/42</unitdate></unittitle>
+</did>
+<note><p>Kern County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">414</container>
+<unittitle>Pentstemon [Penstemon] antirrhinoides (snapdragon; 
+pentstemon).<unitdate>5/23/55</unitdate></unittitle>
+</did>
+<note><p>Regional Botanic Garden, Berkeley, CA</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">297</container>
+<unittitle>Pentstemon cordifolius 
+(beard-tongue).<unitdate>7/3/41</unitdate></unittitle>
+</did>
+<note><p>Santa Anita Canyon</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">298</container>
+<unittitle>Pentstemon grinnellii (Grinnell 
+pentstemon).<unitdate>6/3/52</unitdate></unittitle>
+</did>
+<note><p>Angeles Crest, Los Angeles County, 6,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">299</container>
+<unittitle>Pentstemon heterophyllus (violet beard-tongue).</unittitle>
+</did>
+<note><p>no collection date; Sierra Nevada foothills from Amador to 
+Mariposa Counties; coast ranges from Mendocino south to San Diego 
+Counties; 200'-5,500' elevation, May-June (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">375</container>
+<unittitle>Pentstemon heterophyllus (foothill 
+pentstemon).<unitdate>6/8/61</unitdate></unittitle>
+</did>
+<note><p>Mulholland Drive, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">15</container>
+<container type="folder" label="Item ">300</container>
+<unittitle>Pentstemon labrosus 
+(beard-tongue).<unitdate>7/16/41</unitdate></unittitle>
+</did>
+<note><p>Angeles National Forest</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">301</container>
+<unittitle>Pentstemon newberryi (mountain 
+pride).<unitdate>6/1/42</unitdate></unittitle>
+</did>
+<note><p>Yosemite National Park, 4,000' elevation</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">302</container>
+<unittitle>Pentstemon spectabilis (magnificent 
+pentstemon).<unitdate>5/10/42</unitdate></unittitle>
+</did>
+<note><p>Santa Monica Mountains, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">303</container>
+<unittitle>Pentstemon ternatus 
+(beard-tongue).<unitdate>7/16/41</unitdate></unittitle>
+</did>
+<note><p>Angeles National Forest</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 79.</unitid>
+<unittitle>Solanaceae (Potato [Nightshade]) Family. 
+<unitdate>1942-1961</unitdate></unittitle>
+<physdesc><extent>7 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">304</container>
+<unittitle>Datura meteloides (tolguacha).</unittitle>
+</did>
+<note><p>no collection date; Sacramento and San Joaquin Valleys to 
+coastal So. California; Inyo County; Colorado Desert; sandy valley 
+lands, 10'-4,000' elevation, July-Sept. (fr. Jepson)</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">353</container>
+<unittitle>Lycium brevipes (desert thorn; 
+frutilla).<unitdate>5/3/58</unitdate></unittitle>
+</did>
+<note><p>Yaqui Well, Anza Borrego Desert, San Diego County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">23</container>
+<container type="folder" label="Item ">442</container>
+<unittitle>Lycium fremontii (Fremont 
+thornbush).<unitdate>4/11/60</unitdate></unittitle>
+</did>
+<note><p>Salton Sea State Park</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">372</container>
+<unittitle>Nicotiana glauca (tree 
+tobacco).<unitdate>9/25/55</unitdate></unittitle>
+</did>
+<note><p>Malibu, Los Angeles County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">26</container>
+<container type="folder" label="Item ">505</container>
+<unittitle>Physalis crassifolia (thick-leaved 
+ground-cherry).<unitdate>4/22/61</unitdate></unittitle>
+</did>
+<note><p>Painted Canyon near Mecca, Riverside County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">305</container>
+<unittitle>Solanum douglasii (black 
+nightshade).<unitdate>8/25/51</unitdate></unittitle>
+</did>
+<note><p>Pismo Beach, San Luis Obispo County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">306</container>
+<unittitle>Solanum xanti (purple 
+nightshade).<unitdate>5/15/42</unitdate></unittitle>
+</did>
+<note><p>Santa Monica Mountains, Los Angeles County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 80.</unitid>
+<unittitle>Staphyleaceae (Bladdernut )Family.</unittitle>
+</did>
+<scopecontent>
+<p>entry has been moved to Family: Sapindaceae, according to IPNI 
+classification</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle></unittitle>
+</did>
+<note><p>one entry has been moved to Family: Sapindaceae, according to 
+IPNI classification</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 81.</unitid>
+<unittitle>Sterculiaceae (Cacao) Family. 
+<unitdate>1958</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">355</container>
+<unittitle>Fremontia californica (California fremontia; flannel 
+bush).<unitdate>3/29/58, 6/9/58</unitdate></unittitle>
+</did>
+<note><p>also slide #231; Rancho Santa Ana Botanic Garden; common family 
+name on plate: Sterculia family</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">216</container>
+<container type="folder" label="Item ">307</container>
+<unittitle>Fremontia californica var. mexicana (California slippery 
+elm).</unittitle>
+</did>
+<note><p>no collection date or place</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 82.</unitid>
+<unittitle>Styracaceae (Storax) Family. 
+<unitdate>1955</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">21</container>
+<container type="folder" label="Item ">413</container>
+<unittitle>Styrax officinalis var. californica (California 
+styrax).<unitdate>5/21/55</unitdate></unittitle>
+</did>
+<note><p>El Dorado County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 83.</unitid>
+<unittitle>Taxaceae (Yew) Family. <unitdate>1942</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">308</container>
+<unittitle>Taxus brevifolia (western 
+yew).<unitdate>9/15/42</unitdate></unittitle>
+</did>
+<note><p>also slide #232; middle fork of Mokelumne Rivers, Calaveras 
+County, Sect. 10, T. 6 N, R. 15 E</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">309</container>
+<unittitle>Torreya californica (California 
+nutmeg).<unitdate>9/15/42</unitdate></unittitle>
+</did>
+<note><p>also slide #233; small gulch, Calaveras County, Sect. 12, T. 5 
+N, R 12 E</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 84.</unitid>
+<unittitle>Taxodiaceae [Conifera] (Redwood) Family. 
+<unitdate>1942</unitdate></unittitle>
+<physdesc><extent>2 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">310</container>
+<unittitle>Sequoia gigantea (giant sequoia; big 
+tree).<unitdate>12/1/42</unitdate></unittitle>
+</did>
+<note><p>also slide #234; Sierra Nevada, Calaveras County</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">311</container>
+<unittitle>Sequoia sempervirens 
+(redwood).<unitdate>11/15/42</unitdate></unittitle>
+</did>
+<note><p>also slide #235; Arcata, Humboldt County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 85.</unitid>
+<unittitle>Thymelaeaceae (Mezereum) Family. 
+<unitdate>1959</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">17</container>
+<container type="folder" label="Item ">327</container>
+<unittitle>Dirca occidentalis (western leatherwood).<unitdate>2/5/59, 
+4/2/59</unitdate></unittitle>
+</did>
+<note><p>Oakland Hills, Contra Costa County</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 86.</unitid>
+<unittitle>Trilliaceae Family. <unitdate>1943</unitdate></unittitle>
+<physdesc><extent>4 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">194</container>
+<unittitle>Trillium ovatum (western 
+wakerobin).<unitdate>3/30/43</unitdate></unittitle>
+</did>
+<note><p>Mendocino County; plate indicates Family: Liliaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">195</container>
+<unittitle>Trillium rivale (brook 
+trillium).<unitdate>4/10/43</unitdate></unittitle>
+</did>
+<note><p>Josephine County, OR; plate indicates Family: 
+Liliaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">196</container>
+<unittitle>Trillium sessile californicum (common trillium; wake 
+robin).<unitdate>3/30/43</unitdate></unittitle>
+</did>
+<note><p>Mendocino County; plate indicates Family: Liliaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">10</container>
+<container type="folder" label="Item ">197</container>
+<unittitle>Trillium sessile rubra (common trillium; 
+wakerobin).<unitdate>3/30/43</unitdate></unittitle>
+</did>
+<note><p>Mendocino County; plate indicates Family: Liliaceae</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 87.</unitid>
+<unittitle>Ulmaceae (Elm) Family. <unitdate>1958</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">18</container>
+<container type="folder" label="Item ">356</container>
+<unittitle>Celtis reticulata (western hackberry).<unitdate>3/17/58, 
+8/26/58</unitdate></unittitle>
+</did>
+<note><p>University Arboretum, Davis</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 88.</unitid>
+<unittitle>Viscaceae [Loranthaceae] (Christmas Mistletoe) Family. 
+<unitdate>1958</unitdate></unittitle>
+<physdesc><extent>3 entries</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">11</container>
+<container type="folder" label="Item ">204</container>
+<unittitle>Arceuthobium campylopodum (pine mistletoe).</unittitle>
+</did>
+<note><p>no collection date; throughout California foothills and 
+mountains, chiefly on pine species, occationally on Abies. congolor (fr. 
+Jepson); plate indicates Family: Loranthaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">365</container>
+<unittitle>Phoradendron californicum (California 
+mistletoe).<unitdate>4/12/58</unitdate></unittitle>
+<physdesc>photograph by Arvid L. Murman</physdesc>
+</did>
+<note><p>Morongo Valley, San Bernardino County; found on Larrea; plate 
+indicates Family: Loranthaceae</p></note>
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">19</container>
+<container type="folder" label="Item ">366</container>
+<unittitle>Phoradendron californicum (California 
+mistletoe).<unitdate>5/17/58</unitdate></unittitle>
+</did>
+<note><p>Morongo Valley, San Bernardino County; plate indicates Family: 
+Loranthaceae</p></note>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>Series 89.</unitid>
+<unittitle>Zygophyllaceae (Creosote-bush [Caltrops]) Family. 
+<unitdate>1954</unitdate></unittitle>
+<physdesc><extent>1 entry</extent></physdesc>
+</did>
+<c02 level="file">
+<did>
+<container type="box" label="Box ">16</container>
+<container type="folder" label="Item ">312</container>
+<unittitle>Larrea divaricata (creosote bush; 
+hediondilla).<unitdate>2/20/54</unitdate></unittitle>
+</did>
+<note><p>Death Valley, Inyo County</p></note>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
