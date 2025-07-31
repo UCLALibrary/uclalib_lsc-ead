@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/kt9779q7sn">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::PASC 195::Collection of Motion Picture Stills)//EN" "mpsti195.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Collection of Motion Picture Stills, 1903-</titleproper>
+<titleproper type="filing">Motion Picture Stills Collection</titleproper>
+<author>Processed by Arts Special Collections staff; machine-readable finding aid created by Caroline Cub&#x00E9;</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2004</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Processed by Arts Special Collections staff, 2004; machine-readable finding aid created by Caroline Cub&#x00E9;.</creation>
+<langusage>Description is in <language langcode="eng" 
+scriptcode="Latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Collection of Motion Picture Stills</unittitle>
+<unitdate type="inclusive" normal="1903">1903-</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">PASC 195</unitid>
+<physdesc label="Extent">
+<extent>165 linear ft.</extent>
+</physdesc>
+<abstract label="Abstract">Collection primarily consists of American motion picture stills, which includes black and white photographs, as well as some color prints, slides, and publicity stills from various studios.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+<dao role="http://oac.cdlib.org/arcrole/link/search/"  href="http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0015w23z" title="Online items">
+<daodesc>
+<p>Selected digitized images from this collection.</p>
+</daodesc></dao>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Collection of Motion Picture Stills (Collection PASC 195). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+</descgrp>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>Collection primarily consists of American motion picture stills. Includes black and white photographs, as well as some color prints and slides. Also includes publicity stills from various studios. The bulk of the collection dates from the early 1920s to the present.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="gmgpc" encodinganalog="655">Motion picture stills.</genreform>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref actuate="onrequest" show="new"  href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232828">4232828</extref></p>
+</odd>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 level="series">
+<did>
+<unittitle>
+<extref actuate="onrequest" show="new" href="https://unitproj.library.ucla.edu/arts/mpstills/mpstills.cfm">Search for Stills in this Collection.</extref></unittitle>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>
