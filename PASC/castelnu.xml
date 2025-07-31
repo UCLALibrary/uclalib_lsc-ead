@@ -1,0 +1,4538 @@
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  
+  
+  
+  
+  
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid countrycode="us" identifier="ark:/13030/tf1b69n758" mainagencycode="CLU" publicid="PUBLIC &quot;-//University of California, Los Angeles::Performing Arts Special Collections//TEXT (US::CLU::117::Mario Castelnuovo-Tedesco Collection of Musical Works)//EN&quot; &quot;castelnu.sgm&quot;">castelnu.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Finding Aid for the Mario Castelnuovo-Tedesco Collection of Musical Works
+, <date calendar="gregorian" era="ce">ca.1920-ca.1980</date></titleproper><titleproper type="filing">Castelnuovo-Tedesco (Mario) Collection of Musical Works</titleproper>
+        <author>Collection processed and machine-readable finding aid created by UCLA Performing Arts Special Collections staff.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>UCLA Library, Performing Arts Special Collections</publisher>
+        <address><addressline>University of California, Los Angeles, Library</addressline><addressline>Performing Arts Special Collections, Room A1713</addressline><addressline>Charles E. Young Research Library, Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Phone: (310) 825-4988</addressline><addressline>Fax: (310) 206-1864</addressline><addressline>Email: speccoll-paging@library.ucla.edu</addressline><addressline>http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</addressline></address><date calendar="gregorian" era="ce">&#169;  2002</date>
+        <p>The Regents of the University of California. All rights reserved.</p>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>
+            <subject source="cdl">Arts and Humanities--Music</subject>
+          </p>
+        </note>
+      </notestmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid automatically generated from relational database.</creation>
+      <langusage>Description is in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//University of California, Los Angeles::Performing Arts Special Collections//TEXT (US::CLU::117::Mario Castelnuovo-Tedesco Collection of Musical Works)//EN" "castelnu.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Finding Aid of the Mario Castelnuovo-Tedesco Collection of Musical Works, <date calendar="gregorian" era="ce">ca.1920-ca.1980</date></titleproper>
+      <num>Collection number: 117</num>
+      <publisher>UCLA Library, Performing Arts Special Collections
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>University of California, Los Angeles
+<lb/>Los Angeles, CA</publisher>
+      <list type="simple"><head>Contact Information</head><item>University of California, Los Angeles, Library</item><item>Performing Arts Special Collections, Room A1713</item><item>Charles E. Young Research Library, Box 951575</item><item>Los Angeles, CA 90095-1575</item><item>Phone: (310) 825-4988</item><item>Fax: (310) 206-1864</item><item>Email: speccoll-paging@library.ucla.edu</item><item>URL: http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</item></list><list type="deflist">
+        <defitem>
+          <label>Processed by:</label>
+          <item>UCLA Performing Arts Special Collections staff</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>Bryan Griest</item>
+        </defitem>
+      </list>
+      <p>&#169;  2002 The Regents of the University of California. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Mario Castelnuovo-Tedesco Collection of Musical Works, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">ca.1920-ca.1980</unitdate>
+      <unitid label="Collection number" countrycode="US" repositorycode="CLUS">117</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf" encodinganalog="600">Castelnuovo-Tedesco, Mario</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>26 boxes</extent>
+        <extent>(13 linear ft.)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname>University of California, Los Angeles. Library. <subarea>Performing Arts Special Collections</subarea></corpname>
+        <address>
+          <addressline>Los Angeles, California 90095-1575</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">This collection consists of published scores and reproductions of manuscripts</abstract>
+      <physloc label="Physical location">Stored off-site at SRLF.
+Advance notice is required for access to the collection.
+Please contact the UCLA Performing Arts Special Collections for paging information.</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp type="admininfo" id="descgrp-1.8.2">
+      <head>Administrative Information</head>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Copyright has not been assigned to the UCLA Performing Arts Special Collections. All requests
+for permission to publish or quote from manuscripts must be submitted in
+writing to the Librarian for Performing Arts Special Collections. Permission for
+publication is given on behalf of the Performing Arts Special Collectionsas the owner of the
+physical items and is not intended to include or imply permission of the
+copyright holder(s), which must also be obtained.</p>
+      </userestrict>
+      <accessrestrict>
+        <head>Restrictions on Access</head>
+        <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+      </accessrestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item],
+Mario Castelnuovo-Tedesco Collection of Musical Works, 117, Performing Arts Special Collections, University of California, Los Angeles.</p>
+      </prefercite>
+    </descgrp>
+    <scopecontent id="scopecontent-1.8.3">
+      <head>Scope and Content</head>
+      <p>Collection consists of published scores and reproductions of manuscripts.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.4">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this
+collection in the library's online public access catalog.</p>
+      <subject source="lcsh" encodinganalog="650">Music--Italy--20th century--Scores.</subject>
+    </controlaccess>
+    <dsc type="in-depth" id="dsc-1.8.5">
+      <head>Collection Contents</head>
+      <c01 level="series" id="c01-1.8.5.2">
+        <did>
+          <unittitle/>
+        </did>
+        <c02 level="file" id="c02-1.8.5.2.2">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">24 caprichos de Goya : para la guitarra.</emph>
+Ancona : Edizioni Musicali B&#232;rben, 1970.
+4 vols. (26, 30, 34, 31p.).</unittitle>
+          </did>
+          <scopecontent>
+            <p>Revisione e diteggiatura di Angelo Gilardino. For
+guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.3">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">24 caprichos de Goya : para la guitarra, op. 195. VII. Estan calientes.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 14 Febbraio [February] 1961.
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.4">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">24 caprichos de Goya : para la guitarra, op. 195. XIII. Quien mas rendido?</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 24 Febbraio [February] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.5">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">24 caprichos de Goya : para la guitarra, op. 195. XIX. Hilan delgado.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 12 Marzo [March] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.6">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">II. Tal para qual.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 28 Gennaio [January] 1961).
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.7">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">III. Nadia de conoce.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 29 Gennaio [January] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.8">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">IV. Ni asi la distingue.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 4 Febbraio [February] 1961.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.9">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">IX. Bien tirada esta.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 18 Febbraio [February] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.10">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">V. Muchalchos al avio.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 5 Febbraio [February] 1961).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.11">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">VI. El amor y la mueate.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 7 Febbraio [February] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.12">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">VIII. Dios la perdone  y era su madre.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 17 Febbraio [February] 1961).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.13">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">X. Al conde palatino.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 18 Febbraio [February] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.14">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XI. Y se le quema la casa.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 19 Febbraio [February] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.15">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XII. No hubo remedio.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 20 Febbraio [February] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.16">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XIV. Porque fue sensible.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 22 Febbraio [February] 1961).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.17">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XV. Si sabra mas el discipulo?</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 26 Febbraio [February] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.18">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XVI. Brabisimo!</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 28 Febbraio [February] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.19">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XVII. De que mal morira?</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 2 Marzo [March] 1961).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.20">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XVIII. El sue&#241;o de la razon produce monstruos.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 4 Marzo [March] 1961).
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.21">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XX. Obsequio a el maestro.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 7 Marzo [March] 1961).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.22">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XXI. Que pico de oro!</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 8 Marzo [March] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.23">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XXII. Volaverunt.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 14 Marzo [March] 1961).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.24">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XXIII. Linda maestra!</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 15 Marzo [March] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.25">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">XXIV. Sue&#241;o de la mentira y inconstancia.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 18 Marzo [March] 1961).
+7p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From: 24 Caprichos de Goya. For guitar. ".. and
+here ends the second "Spanish journey"--ink, p.1.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.26">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle><emph render="bold">Aria da Chiesa (sul nome di Ruggero Chiesa).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 12 Marzo [March] 1967).
+3p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From Greeting Cards, op. 170. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.27">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle><emph render="bold">Ballatella (on the name of Christopher Parkening).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Nov. 10, 1963).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From Greeting Cards, op. 170. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.28">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle><emph render="bold">Brasileira (sul nome di Laurindo Almeida).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., March 14, 1967).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From Greeting Cards, op. 170. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.29">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle><emph render="bold">Cancion Cubana (on the name of Hector Garcia).</emph>
+Ozalid copy of autograph ms. (15-16 Ott. [Oct.] 1965).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From Greeting Cards, op. 170. For guitar. 2
+copies.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.30">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle><emph render="bold">Cancion Venzuelana.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 2 Giugno [June] 1966).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From Greeting Cards, op. 170. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.31">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle><emph render="bold">Canzone Calabrese (sul nome di Ernest Calabria).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., March 25, 1967).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From Greeting Cards, op. 170. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.32">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle><emph render="bold">Canzone Siciliano (sul nome"Gangi").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 30 Dicembre [December] 1962).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From Greeting Cards, op. 170. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.33">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle><emph render="bold">Les guitares bien temp&#233;r&#233;es : 24 pr&#233;ludes et fugues pour 2 guitares, op. 199.</emph>
+Florence : Bruzzichelli, 1974.
+4 vols. (42p, 41p, 41p, 36p).</unittitle>
+          </did>
+          <scopecontent>
+            <p>Incl. second copies of vols. 1 and 2.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.34">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle><emph render="bold">Sonatina canonica.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Luglio [July] 1961).
+23p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For two guitars.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.35">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle><emph render="bold">Sonatina canonica.</emph>
+Paris : Eschig, 1971.
+17p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For two guitars.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.36">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Variations plaisantes : sur un petit air populaire (J'ai du bon tabac).</emph>
+Ancona, Milan : B&#232;rben, 1969.
+12p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.37">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle><emph render="bold">Volo d'angeli.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 24 Marzo [March] 1967).
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From Greeting Cards, op. 170. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.38">
+          <did>
+            <container label="Box" type="Box">1</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle><emph render="bold">Volo d'angeli : sul nome di Angelo Gilardino.</emph>
+Ancona, Milan: B&#232;rben, 1967.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From Greeting Cards, op. 170. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.39">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">24 Caprichos de Goya, op. 195 : I. Francisco Goya y Lucientes, pintor.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 25 Gennaio [January] 1961).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>"..starting another journey through
+Spain.."--p.1. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.40">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">3 Preludi Mediterranei, op. 176.</emph>
+Florence : Forlivesi, 1956.
+13p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.41">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle><emph render="bold">Appunti, op. 210 : Quaderno secondo: i ritmi. Parte III: Danze del Novecento.</emph>
+Milan : Suvini Zerboni, 1971.
+36p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Subtitle: Preludi e studi per chitarra.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.42">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle><emph render="bold">Aranci in fiore.</emph>
+Milan : Ricordi, 1939.
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.43">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle><emph render="bold">Aria da chiesa : sul nome di Ruggero Chiesa, Op. 170, N. 43.</emph>
+Ancona, Milan : B&#232;rben, 1967.
+2p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.44">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle><emph render="bold">Ballatella : sul nome di Christopher Parkening, Op. 170, N. 34.</emph>
+Ancona, Milan : Farfisa, 1965.
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.45">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle><emph render="bold">Brasileira : sul nome di Laurindo Almeida, Op. 170, N. 44.</emph>
+Ancona, Milan : B&#232;rben, 1967.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.46">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle><emph render="bold">Cancion Cubana : sul nome di Hector Garcia, Op. 170, N. 39.</emph>
+Ancona, Milan : B&#232;rben, 1966.
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.47">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle><emph render="bold">Cancion Venzuelana : sul nome di Alirio Diaz, Op. 170, N. 40.</emph>
+Ancona, Milan : B&#232;rben, 1966.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar. Two copies.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.48">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle><emph render="bold">Canzone Calabrese : sul nome di Ernest Calabria, Op. 170, N. 48.</emph>
+Ancona, Milan : B&#232;rben, 1967.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.49">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle><emph render="bold">Canzone Siciliana : sul nome di Mario Gangi, Op. 170, N. 33.</emph>
+Ancona, Milan : B&#232;rben, 1967.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.50">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Escarraman. No. III. El Villano (The country bumpkin).</emph>
+New York : Ricordi, 1959.
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Series subtitle: A suite of Spanish dances from
+the XVI century. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.51">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle><emph render="bold">1o Concerto (in Re) per chitarra e orchestra, opus 99.</emph>
+Mainz : B. Schott's S&#246;hne, 1954.
+14p, 27p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Solo part and piano reduction.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.52">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Japanese Print : sul nome di Jiro Matsuda, Op. 170, N. 46.</emph>
+Ancona, Milan : B&#232;rben, 1967.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.53">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle><emph render="bold">Homage to Purcell, Op. 170, N. 38.</emph>
+Ancona, Milan : B&#232;rben, 1966.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Subtitle: Fantasia sui nomi di Ronald (1932) e
+Henry (1659-1695) Purcell. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.54">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle><emph render="bold">Ninna Nanna : a lullaby for Eugene, Op. 170, N. 14.</emph>
+Florence : Forlivesi, 1959.
+3p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar. 2 copies.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.55">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle><emph render="bold">Passacaglia : omaggio a Roncalli, op. 180.</emph>
+Ancona, Milan : B&#232;rben, 1970.
+11p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.56">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle><emph render="bold">Platero y yo (Platero and I), op. 190.</emph>
+Ancona, Milan : B&#232;rben, 1972-73.
+4 vols. (38p, 33p, 37p, 40p).</unittitle>
+          </did>
+          <scopecontent>
+            <p>Para Narrador y Guitarra/for Narrator and guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.57">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle><emph render="bold">Preludio in forma di Habanera : sul nome di Bruno Tonarri, op. 170, no. 7.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 24 Marzo [March] 1954).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar. 2 copies.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.58">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle><emph render="bold">Rondel : on the name of Siegfried Behrend.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., March 20-21, 1954).
+8p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar. 2 copies.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.59">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle><emph render="bold">Rondo, op. 129.</emph>
+Mainz : B. Schott's S&#246;hne, 1958.
+7p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Edition Andr&#233;s Segovia. For solo guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.60">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle><emph render="bold">Serenade pour guitare et orchestra de chambre, opus 118.</emph>
+Mainz : B. Schott's S&#246;hne, 1956.
+16p (part), 36p (piano).</unittitle>
+          </did>
+          <scopecontent>
+            <p>Edition Andr&#233;s Segovia. Arrangement for guitar and
+piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.61">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle><emph render="bold">Sonata : pour guitare seule.</emph>
+Mainz : B. Schott's S&#246;hne, 1935.
+15p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Edition Andr&#233;s Segovia.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.62">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">24</container>
+            <unittitle><emph render="bold">Suite : pour guitare seule, opus 133.</emph>
+London : Schott, 1954.
+12p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Edition Andr&#233;s Segovia.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.63">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">25</container>
+            <unittitle><emph render="bold">Tarantella : per chitarra.</emph>
+Milan : Ricordi, 1939.
+9p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For solo guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.64">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">26</container>
+            <unittitle><emph render="bold">"Tonadilla" (on the name of Andr&#233;s Segovia).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., March 13, 1954).
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Greeting cards, op. 170, Nr. 5.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.65">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">26</container>
+            <unittitle><emph render="bold">Tonadilla sur le nom de Andr&#233;s Segovia pour guitare seule, opus 170, no. 5.</emph>
+Mainz : B. Schott's S&#246;hne, 1956.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Edition Andr&#233;s Segovia. For solo guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.66">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">27</container>
+            <unittitle><emph render="bold">Tre Preludi a Cicero, op. 194.</emph>
+Ancona, Milan : Farfisa, 1966.
+8p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>I. La grotta di Circe; II. Il porto di Ulissa;
+III. La tomba di Elpenore. For solo guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.67">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">28</container>
+            <unittitle><emph render="bold">Variations &#224; travers les si&#232;cles.</emph>
+Mainz : B. Schott's S&#246;hne, 1933, 1961.
+10p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Edition Andr&#233;s Segovia. For solo guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.68">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">28</container>
+            <unittitle><emph render="bold">Variazioni (attraverso i secoli..) = Variations &#224; travers les si&#232;cles.</emph>
+Mainz : B. Schott's S&#246;hne, 1933.
+10p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Edition Andr&#233;s Segovia. For solo guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.69">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">29</container>
+            <unittitle><emph render="bold">Estudio : per Chitarra (sul nome di Manuel Lopez Ramos).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., June 6, 1966).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Greeting Cards, op. 170, Nr. 42.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.70">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">29</container>
+            <unittitle><emph render="bold">Estudio : sul nome di Manuel Lopez Ramos, op. 170, n. 42.</emph>
+Ancona, Milan : B&#232;rben, 1966.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For solo guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.71">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">30</container>
+            <unittitle><emph render="bold">Homage to Purcell (Greeting cards, op. 170, Nr. 38).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., June 20, 1966).
+7p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Subtitle: Fantasie on the names of Ronald (1932)
+and Henry (1659-1695). For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.72">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">31</container>
+            <unittitle><emph render="bold">Japanese Print (on the name of Jiro Metsudo).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., March 23, 1967).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Greeting cards, op. 170, Nr. 46. For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.73">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">32</container>
+            <unittitle><emph render="bold">Passacaglia (omaggio a Roncalli), op. 180.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., April 16, 1956).
+10p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.74">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">33</container>
+            <unittitle><emph render="bold">Platero y yo, para narrador y guitarra, op. 190.</emph>
+Ozalid copy of autograph ms.
+28 compositions in 4 series.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Poem by Juan Ramon Jimenes. Various dates, from
+June 12, 1960 to July 21, 1960. First series: 1.
+Platero; 2. Angelus; 3. Retorno; 4. La Primavera;
+5. El Pozo; 6. Gorriones; 7. Melancolia. Second
+series: 1. Amistad; 2. La Luna; 3. Juegos del
+Anochecer; 4. Ronsard; 5. El Loco; 6. La Tisica;
+7. Nostalgia. Third series: 1. Mariposa Blancas;
+2. Idilio de Abril; 3. El Canario Vuela; 4. La
+Arrulladora; 5. El Canario se Muere; 6. Idilio de
+Noviembre; 7. La Muerte. Fourth series: 1.
+Convalecencia; 2. Golondrinas; 3. La Flor del
+Camino; 4. Domingo; 5. Los Gitanos; 6. Carnaval;
+7. A Platero en Cielo de Moguer. For solo guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.75">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">34</container>
+            <unittitle><emph render="bold">Romanza (sul nome di Oscar Ghiglia) : Greeting cards, op. 170, nr. 37.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., 31 Agosto [August] 1964).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.76">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">34</container>
+            <unittitle><emph render="bold">Romanza sul nome di Oscar Ghiglia, op. 170, n. 37.</emph>
+Ancona, Milan : Farfisa, 1965.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From "Greeting cards." For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.77">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">35</container>
+            <unittitle><emph render="bold">Sarabande (on the name of Rey de la Torre) : Greeting cards, op. 170, nr. 36.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., September 4, 1946).
+3p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.78">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">35</container>
+            <unittitle><emph render="bold">Sarabande sul nome di Rey de la Torre, op. 170, n. 36.</emph>
+Ancona, Milan : Farfisa, 1965.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From "Greeting cards." For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.79">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">36</container>
+            <unittitle><emph render="bold">Tanka (Japanese song) on the name of Isao Takahashi.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., July 8, 1955).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>"Greeting cards, op. 170, Nr. 10." For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.80">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">36</container>
+            <unittitle><emph render="bold">Tanka sul nome di Isao Takahashi, op. 170, n. 10.</emph>
+Ancona, Milan : Farfisa, 1965.
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From "Greeting cards." For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.81">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">37</container>
+            <unittitle><emph render="bold">Tarantella Campana : sul nome di Eugene di Novi, op. 170, n. 50.</emph>
+Ancona, Milan : B&#232;rben, 1967.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From "Greeting cards." For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.82">
+          <did>
+            <container label="Box" type="Box">2</container>
+            <container label="Folder" type="Folder">37</container>
+            <unittitle><emph render="bold">Tarantella Campana (sul nome di Eugene Di Novi).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., March 30, 1967).
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>"Greeting cards, op. 170, Nr. 50." For guitar.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.83">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Alghe (2).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.84">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Angelus.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.85">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Alt Wien (Walzer, Notturno (2), and Memento Mori).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.86">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Calma.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.87">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">Candide.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.88">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">A Canon for Robin.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.89">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">Cipressi (2).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.90">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">Crinoline.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.91">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">Epigrafe.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.92">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>
+              <emph render="bold">Etude.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.93">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>
+              <emph render="bold">Evangelicon (II - The Life, III - The Words, and IV - The Passion).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.94">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>
+              <emph render="bold">Le Danze del re David.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.95">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>
+              <emph render="bold">Le Stagioni.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.96">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>
+              <emph render="bold">b - a - b - a.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.97">
+          <did>
+            <container label="Box" type="Box">3</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>
+              <emph render="bold">Cantico.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.98">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Lucertolina (3).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.99">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">Fandango.</emph>
+Published edition &amp; Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.100">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Fur Erna.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.101">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Homage to Paderewski.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.102">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">I Navaganti.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.103">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">La Sirenetta e il Pesce Turchino (2).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.104">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">La Torre del Diavolo.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.105">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">Media Difficolta (2).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.106">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">Melodia.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.107">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle><emph render="bold">Mirages.</emph>
+Published edition &amp; Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.108">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>
+              <emph render="bold">Ninna Nanna del Dopoguerra.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.109">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>
+              <emph render="bold">Onde.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.110">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>
+              <emph render="bold">Passatempi.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.111">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Tango.</emph>
+Published edition &amp; Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.112">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>
+              <emph render="bold">Tre Poemi Campestri.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.113">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>
+              <emph render="bold">Vitalba e Biancospino.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.114">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>
+              <emph render="bold">A Fandango for Escovado.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.115">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>
+              <emph render="bold">The Stories of Joseph.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.116">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>
+              <emph render="bold">Toccata.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.117">
+          <did>
+            <container label="Box" type="Box">4</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>
+              <emph render="bold">Two Film Studies.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.118">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Balow.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.119">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Bridal Song.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.120">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Cherry Ripe.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.121">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">The Day Is Done.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.122">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">The Dove.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.123">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Endymion.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.124">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">Happy Is England.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.125">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">I Sing of a Maiden.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>3 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.126">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">The Knight of the Grail.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.127">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>
+              <emph render="bold">Nature.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.128">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>
+              <emph render="bold">The Nightingale.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.129">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>
+              <emph render="bold">Old Meg.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.130">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>
+              <emph render="bold">Processional Song.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.131">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>
+              <emph render="bold">That Ever I Saw.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.132">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>
+              <emph render="bold">To One Who Has Been Long in City Pent.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.133">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>
+              <emph render="bold">Two or Three.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.134">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>
+              <emph render="bold">Amours de Ronsard, Books 1 and 2.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.135">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>
+              <emph render="bold">Bitter Lemons.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.136">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>
+              <emph render="bold">Children's Song.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.137">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle><emph render="bold">Epilogue.</emph>
+Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.138">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>
+              <emph render="bold">Liberty, Mother of Exiles.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.139">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle><emph render="bold">The Mermaid Tavern.</emph>
+Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.140">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle>
+              <emph render="bold">Proverbs of Solomon.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.141">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">24</container>
+            <unittitle>
+              <emph render="bold">The Seventh Day.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.142">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">25</container>
+            <unittitle>
+              <emph render="bold">Sonnet CXXIX.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.143">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">26</container>
+            <unittitle>
+              <emph render="bold">Sonnet CLIV.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.144">
+          <did>
+            <container label="Box" type="Box">5</container>
+            <container label="Folder" type="Folder">27</container>
+            <unittitle>
+              <emph render="bold">Two Elegies, Il Cipresso and Le Armi del Valoroso.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.145">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">A Seranade.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.146">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Boruch Habo.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.147">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">The Fountains Mingle with the River.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.148">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Homer.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.149">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">Jock of Hazeldean.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.150">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Lament.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.151">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">The Light.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.152">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">Lo, the Messiah (SATB, SSA, and TTBB).</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies of each version</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.153">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">Mary, Star of the Sea.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.154">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>
+              <emph render="bold">Memorial Service for the Departed.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.155">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>
+              <emph render="bold">Mi Adir.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.156">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>
+              <emph render="bold">The Moon.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.157">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>
+              <emph render="bold">My Heart is Like a Singing Bird.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.158">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>
+              <emph render="bold">The Nightingale.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.159">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>
+              <emph render="bold">On the Grasshopper and the Cricket (3 copies).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.160">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>
+              <emph render="bold">One Word Too Often Profaned.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.161">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>
+              <emph render="bold">The Owl.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.162">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>
+              <emph render="bold">Pibroch of Donuil Dhu.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.163">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>
+              <emph render="bold">Psyche.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.164">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>
+              <emph render="bold">The Queen of Sheba.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.165">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>
+              <emph render="bold">Remember Me.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.166">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle>
+              <emph render="bold">Sing No Sad Songs for Me.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.167">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle>
+              <emph render="bold">Songs of the Oceansides.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.168">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">24</container>
+            <unittitle>
+              <emph render="bold">To Sleep.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.169">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">25</container>
+            <unittitle>
+              <emph render="bold">Two Songs of Praise.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.170">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">26</container>
+            <unittitle>
+              <emph render="bold">Uphill.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.171">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">27</container>
+            <unittitle>
+              <emph render="bold">Upon Westminster Bridge.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.172">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">28</container>
+            <unittitle>
+              <emph render="bold">When the Lamp is Shatter'd.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.173">
+          <did>
+            <container label="Box" type="Box">6</container>
+            <container label="Folder" type="Folder">29</container>
+            <unittitle>
+              <emph render="bold">The Word.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.174">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">2 Sonatas for Trumpet and Piano (Trumpet parts only).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.175">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Concertino for Harp.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.176">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Concerto Italiano.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>copyist's ozalid master of violin part, copy of
+copyist's violin part, and printed full score</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.177">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Larchmont Woods.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.178">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">Sonata for Clarinet and Piano.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies of both piano and clarinet parts</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.179">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Sonatina for Bassoon and Piano.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies piano score, I copy bassoon part</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.180">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">Sonatina for Flute and Guitar.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.181">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">Variazioni Sinfoniche.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.182">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">Violin Concerto No. 2.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.183">
+          <did>
+            <container label="Box" type="Box">7</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>
+              <emph render="bold">Sonatina for Flute and Guitar.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.184">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Quintet for Guitar and Strings (Full Score).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.185">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">2nd Trio (Violin).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.186">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Capitan Fracassa.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.187">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Concerto Italiano.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.188">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">The Lark.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.189">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Notturno Adriatico.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.190">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">Piano Quaintet No. 2 (Violin 1, Violin 2, Viola, Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.191">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">Sea Murmurs.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.192">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">String Quartet No. 2 (Violin 1, Violin 2, Viola, and Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.193">
+          <did>
+            <container label="Box" type="Box">8</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>
+              <emph render="bold">String Quartet No. 3 (Full Score, Violin 1, Violin 2, Viola, and Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.194">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">1st Arabesque.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.195">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">2nd Arabesque.</emph>
+Published edition &amp; Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.196">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Figaro (vln &amp; pf).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.197">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Figaro (cello &amp; pf).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.198">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle><emph render="bold">Humoresque.</emph>
+Published edition &amp; Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.199">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Hungarian Serenade.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.200">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">Intermezzo.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.201">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">Jeaux d'eau.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.202">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">Meditation.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.203">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>
+              <emph render="bold">Rhapsody for Harp.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.204">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>
+              <emph render="bold">Sonata for Cello and Piano.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.205">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>
+              <emph render="bold">Suite 508.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.206">
+          <did>
+            <container label="Box" type="Box">9</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle><emph render="bold">Valse.</emph>
+Published edition &amp; Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.207">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Quintet for Guitar and Strings (Score).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.208">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">2nd Trio in G (Violin and Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.209">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Piano Quintet No. 1 (Violin 1, Violin 2, Viola, and Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.210">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Sonata for Viola and Cello (Viola).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.211">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">String Quartet No. 1 (Violin 1).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.212">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">String Quartet No. 2 (Violin 2 and Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.213">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">String Quartet No. 2 (Violin 1, Violin 2, Viola, and Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.214">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">String Trio Opus 147 (Violin, Viola, and Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.215">
+          <did>
+            <container label="Box" type="Box">10</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">Trio in G (Violin and Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.216">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Il Bestiario : dodici poesie di Arturo Loria per canto e pianoforte, op. 188.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., April 20, 1960).
+45p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by Arturo Loria. For voice and piano. 1. Le
+Columbe; 2. Il Gufo; 3. Il Lombrico; 4. Il Moscon
+d'oro; 5. Il Muscoli; 6. Il Pipistrello; 7. Il
+Tarlo; 8. La Cicak; 9. La Marmotta; 10. Le Rane;
+11. Le Rondini; 12. La Lucciola.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.217">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">Leaves of Grass.</emph>
+Ozalid copy of autograph ms. (15-30 Giugno [June], 1936).
+35p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. What think you I take my pen in hand?; 2. I
+dream'd in a dream; 3. Sometimes with one I love;
+4. We two boys together clinging; 5. Are you the
+new person drawn toward me?; 6. When I peruse the
+conquer'd fame; 7. A glimpse; 8. This moment,
+yearning and thoughtful; 9. Trickle, drops!; 10.
+The base of all metaphysics. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.218">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle><emph render="bold">1830 : trois chansons par Alfred de Musset : Mises en musique sur des fragments.</emph>
+Milan : Ricordi, 1925.
+13p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.219">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle><emph render="bold">Aria of Ruth.</emph>
+New York: Mills Music, 1950.
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>From the cantata Naomi and Ruth. For voice and
+piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.220">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle><emph render="bold">Ballata (Messer Agnolo Ambrogini, detto il Poliziano).</emph>
+Naples : Curci, 1927.
+7p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano. 2 copies.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.221">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle><emph render="bold">Briciole.</emph>
+Florence : Forlivesi, [1916].
+12p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by Aldo Palazzeschi. 1. Rio bo; 2.
+Mezzogiorno; 3. Il passo delle Nazarene. For voice
+and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.222">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle><emph render="bold">Cinque poesie romanesche.</emph>
+Florence : Forlivesi, 1948.
+13p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by Mario dell'Arco. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.223">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle><emph render="bold">Girotondo dei geloso : per la lega dei gologsi del Giornalino della Domenica.</emph>
+Florence : Forlivesi, 1920.
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by Renzo Simi. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.224">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle><emph render="bold">Indian serenade.</emph>
+Florence : Forlivesi, 1925.
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by P. B. Shelley. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.225">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle><emph render="bold">La Barba Bianca.</emph>
+Florence : Forlivesi, 1924.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by Vamba (Luigi Bertelli). For voice and
+piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.226">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle><emph render="bold">4 Sonetti da "La Vita Nova".</emph>
+Florence : Forlivesi, 1927.
+16p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. Cavalcando l'altr'ier per un cammino ; 2. Negli
+occhi porta la mia donna amore ; 3. Tanto gentile
+e tanto onesta pare ; 4. Deh, peregrini che
+pensosi andate. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.227">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Le Roi Loys : ballata cavalleresca.</emph>
+Florence : Forlivesi, 1922.
+13p.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.228">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle><emph render="bold">Le Voyage.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Dec. 20, 1959).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by Joachim du Bellay. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.229">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">The Mermaid Tavern.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., May 1942).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by John Keats. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.230">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle><emph render="bold">My Betrothed : from Songs and processionals for a Jewish wedding.</emph>
+New York : Mills, 1951.
+3p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text: Hosea, Chapter II, verses 21-22. For voice
+and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.231">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle><emph render="bold">Ozymandias.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., June 8, 1944).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano. "To Nick from Mario (who read
+this poem the day of the downfall of
+Mussolini..)"--ink, p. 1.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.232">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle><emph render="bold">Sera.</emph>
+Naples : Curci, 1927.
+2p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by Dante. For voice and piano. 2 copies.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.233">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle><emph render="bold">Recuerdo.</emph>
+New York : Carl Fischer, 1941.
+7p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Text by Edna St. Vincent Millay. For voice and
+piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.234">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle><emph render="bold">The Shadow.</emph>
+New York : Carl Fischer, 1945.
+7p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Poem by Ben Jonson. For voice and piano. 2 copies.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.235">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. XVIII ("Shall I compare thee..").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., July 25th, 1944).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.236">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. XXIX ("When in disgrace..").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., July 31th, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.237">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle><emph render="bold">Sonnet Nr. CIX (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 17th, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.238">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle><emph render="bold">Sonnet Nr. VIII (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., July 22th, 1944).
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.239">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. XCVIII ("In the spring").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 2nd, 1945).
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.240">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle><emph render="bold">Sonnet LXXI (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Oct. 16-17, 1963).
+3p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.241">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle><emph render="bold">Sonnet Nr. XXXV (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Oct. 19th, 1963).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.242">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. CXXVIII.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Oct. 13, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.243">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. CXLVI ("Soul and Death").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 4, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.244">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle><emph render="bold">Sonnet CVI (Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Aug. 20, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.245">
+          <did>
+            <container label="Box" type="Box">11</container>
+            <container label="Folder" type="Folder">23</container>
+            <unittitle><emph render="bold">Sonnet Nr. CXVI (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 8th, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.246">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Alghe.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.247">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Alt Wein.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.248">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Chorale-Prelude.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.249">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Due Preludi per Organo.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.250">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">El Encanto.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.251">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Evangelicon.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.252">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">Fugue.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.253">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">Il Raggio Verde.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.254">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">Introduction, Aria and Fugue.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.255">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle><emph render="bold">Introitus.</emph>
+Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.256">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle><emph render="bold">Notturno.</emph>
+Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.257">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>
+              <emph render="bold">Prayers My Grandfather Wrote.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.258">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle><emph render="bold">Prelude.</emph>
+Published edition.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.259">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Prelude &amp; Fugue.</emph>
+Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.260">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>
+              <emph render="bold">Primavera Fiorentino.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.261">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>
+              <emph render="bold">Questo fu il Carro Morte.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.262">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle><emph render="bold">Ricecare.</emph>
+Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.263">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>
+              <emph render="bold">Six Canons for Piano.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.264">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>
+              <emph render="bold">Slow - with variations.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.265">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>
+              <emph render="bold">Sonatina Zoologica.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.266">
+          <did>
+            <container label="Box" type="Box">12</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>
+              <emph render="bold">Stars.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.267">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. XC ("Hate").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 7, 1945).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.268">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. XXX.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., July 3rd, 1944).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.269">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. CII ("My love is strengthen'd").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Oct. 10, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.270">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. LXXIII ("Yellow Leaves").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 10, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.271">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. LIII ("The Mirror").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 22, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.272">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. CV ("Fair, kind and true").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 18, 1945).
+6p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.273">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Sonnet Nr. LVII (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 15, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.274">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Sonnet Nr. LXIV (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Oct. 8, 1945).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.275">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Sonnet Nr. LXV (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 13, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.276">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Sonnet Nr. XCIV (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Oct. 11, 1945).
+12p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.277">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Sonnet Nr. XXVII (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Apr. 17, 1947).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.278">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Sonnet Nr. XXXII (William Shakespeare).</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Oct. 12, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.279">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">Stelle cadente.</emph>
+Rome : Forlivesi, 1919.
+32p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.280">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle><emph render="bold">Three sonnets from the Portuguese.</emph>
+London : Chester, 1928.
+15p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. The sweet sad years; 2. Letters; 3. Poems and
+flowers For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.281">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle><emph render="bold">Two Byron songs.</emph>
+Photocopy of autograph ms. (1941).
+2p, 4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. Music on the waters (pp.1-2 only); 2. With
+silence and tears. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.282">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle><emph render="bold">V'erastich (Eternal love) : from Songs and processionals for a Jewish wedding.</emph>
+New York : Mills, 1951.
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Hebrew and English texts; Hosea, Chapter II,
+21-22. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.283">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle><emph render="bold">Vocalise-&#233;tude : pour voix moyennes.</emph>
+Paris : Leduc, 1929.
+7p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Series title: Repertoire moderne de
+vocalises-&#233;tudes. For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.284">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle><emph render="bold">Vos toig mir.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Feb. 9, 1964).
+3p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano. "A silly Jewish song, which I
+was commissioned to harmonize by the Cantors
+Assembly of America."--ink, p. 1.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.285">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle><emph render="bold">2 preghiere per i bimbi d'Ialia : poesie di Vamba (Luigi Bertelli).</emph>
+Florence : Forlivesi, 1925.
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. Preghiera del mattino; 2. Preghiera della sera.
+For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.286">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle><emph render="bold">Coplas : 11 liriche brevi.</emph>
+Florence : Forlivesi, 1919.
+37p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.287">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle><emph render="bold">Die drei Konige (Die drei Magi).</emph>
+Florence : Forlivesi, 1933.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>"Poesia di H. Heine." For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.288">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle><emph render="bold">Ninna nanna (per l'album di una bimba).</emph>
+Florence : Forlivesi, 1919.
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>"Parole di U. C. T."</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.289">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Five Shakespeare songs.</emph>
+London : Chester, 1924.
+25p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. Sigh no more, ladies; 2. How should I your true
+love know?; 3. Fear no more the heat O the sun; 4.
+Get you hence, for I must go; 5. Pardon, goddess
+of the Night.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.290">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Five Shakespeare songs : for contralto or baritone (Set 1).</emph>
+London : Chester, 1926.
+26p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. When daisies pied, and When icicles hang by the
+wall; 2. Tell me where is fancy bred; It was a
+lover and his lass; The poor soul sat sighing; 5.
+Hark! Hark! the lark.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.291">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Four Shakespeare songs: for baritone and piano.</emph>
+London : Chester, 1925.
+14p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. Immortal gods, I crave no pelf; 2. Come away,
+come away death; 3. Under the green-wood tree; 4.
+Blow, blow, thou winter wind.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.292">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Four Shakespeare songs : for tenor and piano (Set I).</emph>
+London : Chester, 1926.
+18.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. Come unto these yellow sands, and Full fathom
+five; 2. Lawn as white as driven snow; 3. Take, O,
+take those lips away; 4. Who is Sylvia?</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.293">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Four Shakespeare songs : for tenor and piano (Set II).</emph>
+London : Chester, 1925.
+19p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. When daffodils begin to peer; 2. What shall he
+have the kill'd the deer; 3. O mistress mine; 4.
+When that I was a little tiny boy.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.294">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Four Shakespeare songs : for soprano and piano.</emph>
+London : Chester, 1923.
+20p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>1. You spotted snakes with double tongue; 2. Fie
+on sinful fantasy; 3. Orpheus with his lute; 4.
+Where the bee sucks. "To Nick-my first
+Shakespearean adventure, with all best wishes for
+his 41st birthday-from Mario, Nov. 14, 1965"--ink,
+title page.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.295">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle><emph render="bold">Shakespeare songs : Book X.</emph>
+London : Chester, 1926.
+12p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Six short songs from King Lear. For voice and
+piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.296">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Shakespeare Sonnets Nr. XXXI ("All hearts").</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif. Sept. 9, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.297">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Sonnet Nr. CIV.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif. July 18, 1944).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>""This is one of my favorites."--pencil, p1. For
+voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.298">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Sonnet Nr. LXXXVII.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif. Aug. 17, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.299">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Sonnet Nr. XCVII.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif. Aug. 29, 1945).
+5p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.300">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Sonnet Nr. XL.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif. Oct. 13-14, 1963).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>For voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.301">
+          <did>
+            <container label="Box" type="Box">13</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Sonnet Nr. XLVII.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif. Oct. 21-22, 1963).
+4p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>"An extra bonus for Nov. 18, 1963"--ink, p1. For
+voice and piano.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.302">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">1st Trio (Full Score).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.303">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">2nd String Quartet (Full Score).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.304">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">2nd Trio (Full Score).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.305">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Capitan Fracassa.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.306">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">Ein Quartet-Satz.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.307">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Notturno Adriatico.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.308">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">Ritmi.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.309">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle><emph render="bold">Serentella.</emph>
+Published edition &amp; Manuscript.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.310">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">Signorine.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.311">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>
+              <emph render="bold">Sonata for Violin and Cello (Violin and Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.312">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>
+              <emph render="bold">Sonata for Violin and Viola (Violin and Viola).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.313">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>
+              <emph render="bold">Sonata for Viola and Cello (Cello).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.314">
+          <did>
+            <container label="Box" type="Box">14</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>
+              <emph render="bold">String Trio No. 1 (Full Score).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.315">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">The Divan of Moses-ibn-Ezra.</emph>
+Published edition.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.316">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Fanfare.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.317">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Fantasia for Guitar.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.318">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Five Shakespeare Songs - Baritone.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.319">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle><emph render="bold">Ecologues.</emph>
+Published edition.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.320">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">The Fiery Furnace.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.321">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle><emph render="bold">The Merchant of Venice.</emph>
+Libretto.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.322">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">Naomi and Ruth.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.323">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle><emph render="bold">Overture "La Bisbetica Domata".</emph>
+Published miniature score.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.324">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>
+              <emph render="bold">Birthday of the Infanta.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.325">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>
+              <emph render="bold">Capriccio Diabolico.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.326">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>
+              <emph render="bold">Concerto for 2 Guitars and Orchestra (piano score).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.327">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>
+              <emph render="bold">The Divan of Moses-ibn-Ezra (duplicate copy).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.328">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>
+              <emph render="bold">English Suite.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.329">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>
+              <emph render="bold">Valse Bluette (2).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.330">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>
+              <emph render="bold">Vogelweide (duplicate Copy).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.331">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>
+              <emph render="bold">Aira.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.332">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>
+              <emph render="bold">Canzonetta.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.333">
+          <did>
+            <container label="Box" type="Box">15</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>
+              <emph render="bold">Nocturne.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.334">
+          <did>
+            <container label="Box" type="Box">16</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Birthday of the Infanta.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.335">
+          <did>
+            <container label="Box" type="Box">16</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Book of Ruth.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.336">
+          <did>
+            <container label="Box" type="Box">16</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Pastorale and Rondo, score (full) and parts: clarinet / violin / cello.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.337">
+          <did>
+            <container label="Box" type="Box">16</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Ecologue.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.338">
+          <did>
+            <container label="Box" type="Box">16</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">Suite Nel Stile Italiano.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.339">
+          <did>
+            <container label="Box" type="Box">16</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Vogelweide.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.340">
+          <did>
+            <container label="Box" type="Box">17</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Bacco in Toscana.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.341">
+          <did>
+            <container label="Box" type="Box">17</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">La Mandragola.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.342">
+          <did>
+            <container label="Box" type="Box">17</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Savonarola.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.343">
+          <did>
+            <container label="Box" type="Box">17</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">6 Pieces in the Form of Canon.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.344">
+          <did>
+            <container label="Box" type="Box">17</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">Aucassin et Nicolette.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.345">
+          <did>
+            <container label="Box" type="Box">18</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">The book of Jonah : a biblical oratorio, op. 151.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., May 10, 1951).
+84p.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.346">
+          <did>
+            <container label="Box" type="Box">18</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">Concerto in Sol : per pianoforte e orchestra.</emph>
+Vienna, Leipzig : Universal, 1929. Piano reduction.
+104p.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.347">
+          <did>
+            <container label="Box" type="Box">18</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle><emph render="bold">Divertimento for 2 Flutes, op. 119.</emph>
+New York : Weaner-Levant, 1945.
+16p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Photocopy of the published score.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.348">
+          <did>
+            <container label="Box" type="Box">18</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle><emph render="bold">The Importance of Being Earnest : three acts from Oscar Wilde's comedy.</emph>
+Ozalid copy of autograph ms. (Beverly Hills, Calif., Sept. 1st-Nov. 1st, 1961).
+115p.</unittitle>
+          </did>
+          <scopecontent>
+            <p>A chamber opera for 8 singers, 2 pianos and
+percussion. Dedicated to Nino Rota. Pencil
+annotations.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.349">
+          <did>
+            <container label="Box" type="Box">19</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">The Merchant of Venice.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.350">
+          <did>
+            <container label="Box" type="Box">19</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Nocturne in Hollywood.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.351">
+          <did>
+            <container label="Box" type="Box">19</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">The Octoroon Ball.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.352">
+          <did>
+            <container label="Box" type="Box">19</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Piano Sonata.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.353">
+          <did>
+            <container label="Box" type="Box">19</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">Poesia Svedese.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.354">
+          <did>
+            <container label="Box" type="Box">20</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">5 Humoresques on Themes of Stephen Foster.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.355">
+          <did>
+            <container label="Box" type="Box">20</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">All's Well That Ends Well.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.356">
+          <did>
+            <container label="Box" type="Box">20</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">An American Rhapsody.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.357">
+          <did>
+            <container label="Box" type="Box">20</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Saul.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.358">
+          <did>
+            <container label="Box" type="Box">21</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Rapsodia Napoletana.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.359">
+          <did>
+            <container label="Box" type="Box">21</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Sacred Service for the Sabbath Eve.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.360">
+          <did>
+            <container label="Box" type="Box">21</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">The Song of Songs.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.361">
+          <did>
+            <container label="Box" type="Box">21</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Terrazze.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.362">
+          <did>
+            <container label="Box" type="Box">21</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">Tobias and the Angel, (formerly "The Book of Tobit", Part I, Part II, Part III).</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.363">
+          <did>
+            <container label="Box" type="Box">21</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Tre Preludi Alpresti.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.364">
+          <did>
+            <container label="Box" type="Box">21</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">Violin Concerto No. 3.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.365">
+          <did>
+            <container label="Box" type="Box">22</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">Grand Street, Autumn 1989.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.2.366">
+          <did>
+            <container label="Box" type="Box">22</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">A Tribute to Mario Castelnuovo-Tedesco, April 30, 1995.</emph>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.3">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02 level="file" id="c02-1.8.5.3.2">
+          <did>
+            <container label="Box" type="Box">23</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle/>
+          </did>
+          <scopecontent>
+            <p>Castelnuovo-Tedesco at a performance of the
+Florence Orchestra, Mascagni conducting (ca.
+1903).</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.3">
+          <did>
+            <container label="Box" type="Box">23</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle/>
+          </did>
+          <scopecontent>
+            <p>Castelnuovo-Tedesco in Usigliano, a favorite
+summer house and studio (1933 or 1934).</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.4">
+          <did>
+            <container label="Box" type="Box">23</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle/>
+          </did>
+          <scopecontent>
+            <p>Castelnuovo-Tedesco in Briol with Gregor
+Piatigorsky, at the time they were reviewing the
+Cello Concerto (1934).</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.5">
+          <did>
+            <container label="Box" type="Box">23</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle/>
+          </did>
+          <scopecontent>
+            <p>Castelnuovo-Tedesco in Florence (ca. 1935).</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.6">
+          <did>
+            <container label="Box" type="Box">23</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle/>
+          </did>
+          <scopecontent>
+            <p>Castelnuovo-Tedesco in Hollywood, on the set at
+MGM for filming of "The Big Store" (1941).</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.7">
+          <did>
+            <container label="Box" type="Box">23</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle/>
+          </did>
+          <scopecontent>
+            <p>Castelnuovo-Tedesco and Igor Stravinsky in Los
+Angeles (photo: James Arkatov).</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.8">
+          <did>
+            <container label="Box" type="Box">23</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle/>
+          </did>
+          <scopecontent>
+            <p>Castelnuovo-Tedesco with Walter Gieseking (Los
+Angeles, 1955).</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.9">
+          <did>
+            <container label="Box" type="Box">23</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle/>
+          </did>
+          <scopecontent>
+            <p>Castelnuovo-Tedesco at home in Beverly Hills.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.4">
+        <did>
+          <unittitle/>
+        </did>
+        <c02 level="file" id="c02-1.8.5.4.2">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle>
+              <emph render="bold">The Clock.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Andantino"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.3">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle>
+              <emph render="bold">Crime Doctor.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Intrigue"</p>
+            <p>"Knockout Drops"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.4">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Dubarry Was A Lady.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"The Duel"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.5">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle>
+              <emph render="bold">Journey for Margaret.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Brave Margaret"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.6">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle>
+              <emph render="bold">Keeping of the Flame.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Burning Papers"</p>
+            <p>"Typewriting Montage"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.7">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle>
+              <emph render="bold">Mask of the Avenger.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>1-B "Money Barrel"</p>
+            <p>1-C "Count Killed"</p>
+            <p>1-D "Captain Renaldo"</p>
+            <p>1-E "Rinaldo Snubbed"</p>
+            <p>6-D "Off They Trot"</p>
+            <p>8-B "Avenger Unmasked"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.8">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle>
+              <emph render="bold">Once Upon a Thursday.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Divorce"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.9">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle>
+              <emph render="bold">Plan for Destruction.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Treachery"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.10">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle>
+              <emph render="bold">Reunion.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Meeting Pat - Part 2"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.11">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle>
+              <emph render="bold">Somewhere I'll Find You.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Chronicle"</p>
+            <p>"Hanoi"</p>
+            <p>"Paper Marriage"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.12">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle>
+              <emph render="bold">Son of Lassie.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Skiing"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.13">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle>
+              <emph render="bold">Tortilla Flat.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"A New Deal"</p>
+            <p>"The Pirate's Hut"</p>
+            <p>"The Pirate's Money"</p>
+            <p>"The Sweepers"</p>
+            <p>"Vision in the Woods"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.14">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle>
+              <emph render="bold">Vendetta Against a Dictator.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"Burning Moscow"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.15">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle>
+              <emph render="bold">White Cargo.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"May Be One Day"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.16">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle>
+              <emph render="bold">A Yank at Eton.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>"The Race"</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.17">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle>
+              <emph render="bold">In Modo Russo.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.18">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle>
+              <emph render="bold">Ballata dall' Esilio.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>includes letter</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.19">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle>
+              <emph render="bold">Naomi and Ruth.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>A small cantata for Women [sic] Voices
+from 'The Book of Ruth' (Chapter I)</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.20">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle>
+              <emph render="bold">Aria of Naomi.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>(from the cantata "Naomi and Ruth") (1949)</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.21">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle>
+              <emph render="bold">The Queen of Sheba.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>A small cantata for women's voices
+op: 161</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.22">
+          <did>
+            <container label="Box" type="Box">24</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle>
+              <emph render="bold">Three Sephardi Songs.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>I. Montanas Altas; II. Ven y veras; III. Una noche
+alunar</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.23">
+          <did>
+            <container label="Box" type="Box">25</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">Catalogue of Works - chronological.</emph>
+111 pages.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Catalogue: 1910-1939 (pp. 1-87)</p>
+            <p>Works without opus 1940-1968 (pp. 88-100)</p>
+            <p>Transcriptions (pp. 101-111)</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.24">
+          <did>
+            <container label="Box" type="Box">25</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">Catalogue of Works - by type of works.</emph>
+87 pages.</unittitle>
+          </did>
+          <scopecontent>
+            <p>Works for solo instruments and orchestra (8 pgs.)</p>
+            <p>Works for narrator and orchestra (1 pg.)</p>
+            <p>Works for narrator and instruments (1 pg.)</p>
+            <p>Works written for orchestra (11 pgs.)</p>
+            <p>Works adapted for orchestra (2 pgs.)</p>
+            <p>Chamber music (10 pgs.)</p>
+            <p>Music for solo guitar (14 pgs.)</p>
+            <p>Works for guitar(s) and orchestra (3 pgs.)</p>
+            <p>Chamber works with guitar (3 pgs.)</p>
+            <p>Music for guitar and voice(s) or narrator (5 pgs.)</p>
+            <p>Transcriptions for solo guitar (1 pg.)</p>
+            <p>Transcription for guitar and harpsichord (1 pg.)</p>
+            <p>Works for two guitars (2 pgs.)</p>
+            <p>Overtures to Shakespeare's plays (4 pgs.)</p>
+            <p>Piano music (20 pgs.)</p>
+            <p>Music for violin (7 pgs.)</p>
+            <p>Music with Jewish themes (12 pgs.)</p>
+            <p>Piano concertos (2 pgs.)</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.25">
+          <did>
+            <container label="Box" type="Box">25</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle>
+              <emph render="bold">Catalogue of guitar works.</emph>
+            </unittitle>
+          </did>
+          <scopecontent>
+            <p>in alphabetical order</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.26">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">1</container>
+            <unittitle><emph render="bold">La Vita Nova.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.27">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">2</container>
+            <unittitle><emph render="bold">Sonnet Nr. XL.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.28">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">3</container>
+            <unittitle><emph render="bold">Come away, come away death.</emph>
+photocopy of published score.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.29">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">4</container>
+            <unittitle><emph render="bold">"piccino, piccio..".</emph>
+published score.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.30">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">5</container>
+            <unittitle><emph render="bold">Sonnet Nr. XCVIII.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.31">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">6</container>
+            <unittitle><emph render="bold">Sonnet Nr. XL.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.32">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">7</container>
+            <unittitle><emph render="bold">Sonnet Nr. XXVII.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.33">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">8</container>
+            <unittitle><emph render="bold">Sonnet Nr. LVII.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.34">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">9</container>
+            <unittitle><emph render="bold">Sonnet Nr. XCVIII.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.35">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">10</container>
+            <unittitle><emph render="bold">Sonnet Nr. XXIX.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+          <scopecontent>
+            <p>2 copies</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.36">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">11</container>
+            <unittitle><emph render="bold">Sonnet Nr. LXIV.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.37">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">12</container>
+            <unittitle><emph render="bold">Sonnet Nr. XXXI.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.38">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">13</container>
+            <unittitle><emph render="bold">Sonnet Nr. LXXIII.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.39">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">14</container>
+            <unittitle><emph render="bold">Sonnet Nr. LX.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.40">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">15</container>
+            <unittitle><emph render="bold">Sonnet Nr. XXIX.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.41">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">16</container>
+            <unittitle><emph render="bold">Sonnet Nr. XLVII.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.42">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">17</container>
+            <unittitle><emph render="bold">When that I was a little tiny boy.</emph>
+Ozalid copy.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.43">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">18</container>
+            <unittitle><emph render="bold">Take O, take those lips away.</emph>
+Ozalid copy.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.44">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">19</container>
+            <unittitle><emph render="bold">Sonnet Nr. VIII.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.45">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">20</container>
+            <unittitle><emph render="bold">Sonnet Nr. XCVII.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.46">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">21</container>
+            <unittitle><emph render="bold">Sonnet Nr. CIX.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.4.47">
+          <did>
+            <container label="Box" type="Box">26</container>
+            <container label="Folder" type="Folder">22</container>
+            <unittitle><emph render="bold">Girotolido Dei Golosi.</emph>
+photocopy of autograph ms.</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
