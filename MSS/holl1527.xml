@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD)
+Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier="ARK:/13030/kt800018s2">PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::1527::Collection of Material about Hollywoodland and Dana Point, California)//EN" "holl1527.xml"
+</eadid><filedesc><titlestmt>
+<titleproper>Finding Aid for the Collection of Material about Hollywoodland and Dana Point, California, 1929</titleproper>
+<titleproper type="filing">Hollywoodland and Dana Point, Calif. - Collection of Material about</titleproper>
+<author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cub&#x00E9; and edited by Josh Fiala.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library, Department of Special Collections</publisher>
+<address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2003</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Text rekeyed by Caroline Cub&#x00E9; from in-house paper finding aid, <date>November 2003</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date>unknown</date>.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Collection of Material about Hollywoodland and Dana Point, California, </unittitle>
+<unitdate type="inclusive" normal="1929">1929</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1527</unitid>
+<physdesc label="Extent"><extent>1 box (0.5 linear ft.)</extent>
+<extent>1 oversize box</extent></physdesc>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library.
+Department of Special Collections.</corpname>
+<address>
+<addressline>Los Angeles, California 90095-1575</addressline>
+</address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Polly Thomson, purchase, 1986.</p>
+</acqinfo>
+<prefercite encodinganalog="544">
+<head>Preferred Citation</head>
+<p>[Identification of item], Collection of Material about Hollywoodland and Dana Point, California (Collection 1527). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232764">4232764</extref></p>
+</odd>
+</descgrp>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>Collection consists of material relating to the development of Hollywoodland, including albums containing approximately 225 photographs of Hollywoodland and Dana Point, California dwellings and business buildings. </p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<subject source="lcsh" encodinganalog="650">Real estate development--California, Southern--Archival resources.</subject>
+<geogname source="lcnaf" encodinganalog="651">Hollywoodland (Calif.).</geogname>
+<geogname source="lcnaf" encodinganalog="651">Dana Point (Calif.).</geogname>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Photographs.</genreform>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<dsc type="analyticover">
+<head>Container List</head>
+<note><p><emph render="italic">Description derived from in-house card file.</emph></p></note>
+<c01 level="collection">
+<did>
+<unittitle>A Collection of Material about Hollywoodland, California and Dana Point, California </unittitle>
+<unitdate>1929 </unitdate> 
+<physdesc> (1 box and 1 oversize box)</physdesc>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>
