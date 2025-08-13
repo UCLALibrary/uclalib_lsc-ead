@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid countrycode="us" identifier="ark:/13030/kt5b69p70q" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::1160::Monday Evening Concerts of Los Angeles Programs)//EN&quot; &quot;mond1160.xml&quot;&#10;">mond1160.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Monday Evening Concerts of Los Angeles Programs, 1971- </titleproper><titleproper type="filing">Monday Evening Concerts of Los Angeles Programs</titleproper>
+ <author>Processed by Dan Luckenbill; machine-readable finding aid created by Caroline Cub&#xE9;</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">&#xA9; 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text rekeyed by Caroline Cub&#xE9; from in-house card file, <date calendar="gregorian" era="ce">November 2003</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date calendar="gregorian" era="ce">June 1975</date>.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::1160::Monday Evening Concerts of Los Angeles Programs)//EN" "mond1160.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Monday Evening Concerts of Los Angeles Programs, 1971- </titleproper>
+ <num>Collection number: 1160</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Dan Luckenbill, June 1975</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cub&#xE9;</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, November 2003</item>
+ </defitem>
+ </list>
+ <p>&#xA9; 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Monday Evening Concerts of Los Angeles Programs, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1971- </unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1160</unitid>
+ <origination label="Creator">
+ <corpname role="subject" source="lcnaf">Monday Evening Concerts of Los Angeles</corpname>
+ </origination>
+ <physdesc label="Extent">
+ <extent>2 boxes (1.0 linear ft.)</extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. 
+<subarea>Dept. of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">The Monday Evening Concerts, first known as Evenings on the Roof, began in 1939 under the direction of Peter Yates. The concerts featured chamber music and experimental works. The collection consists of programs for the Monday Evening Concerts of Los Angeles presented at the Los Angeles Museum of Art (1971/72-1982/83 seasons).</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of Monday Evening Concerts.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Monday Evening Concerts of Los Angeles Programs (Collection 1160). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233444">4233444</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>The Monday Evening Concerts, first known as Evenings on the Roof, began in 1939 under the direction of Peter Yates; concerts featured his wife Frances Mullen, among others, playing chamber music and other experimental works; Yates retired from the series, but the concerts continued under the direction of Lawrence Morton (1954-71) and Dorrance Stalvey (1971- ).</p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of programs for the Monday Evening Concerts of Los Angeles presented at the Los Angeles Museum of Art (1971/72-1982/83 seasons).</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <corpname source="lcnaf" role="subject" encodinganalog="610">Monday Evening Concerts of Los Angeles.</corpname>
+ <subject source="lcsh" encodinganalog="650">Concerts--California--Los Angeles.</subject>
+ <genreform source="aat" encodinganalog="655">Programs.</genreform>
+ </controlaccess>
+ <dsc type="analyticover" id="dsc-1.8.6">
+ <head>Container List</head>
+ <note>
+ <p>
+ <emph render="italic">Description derived from in-house card file.</emph>
+ </p>
+ </note>
+ <c01 level="collection" id="c01-1.8.6.3">
+ <did>
+ <origination>Monday Evening Concerts 
+</origination>
+ <unittitle>Programs. Los Angeles, <unitdate calendar="gregorian" era="ce">ca. 1971- </unitdate></unittitle>
+ <physdesc> (1 box)</physdesc>
+ </did>
+ <scopecontent>
+ <p>Monday Evening Concerts of chamber and experimental works began in 1939 as Evenings on the Roof. In 1954 the present series began. For materials prior to 1971, see Collectoin 965. Moton, Lawrence, 1904- . Materials relating to Monday Evening Concerts, Los Angeles, ca. 1950-1971.</p>
+ <p>
+ <list type="simple">
+ <item>1. Music - California - Los Angeles</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c01>
+ </dsc>
+ <relatedmaterial id="relatedmaterial-1.8.7">
+ <head>Related Material</head>
+ <p>
+ <list type="marked">
+ <item><title linktype="simple">Monday evening concerts</title> [oral history transcript] / Lawrence Morton, interviewee. UCLA Oral History Dept. interview, 1966. Available at the Department of Special Collections, UCLA.</item>
+ <item><title linktype="simple">Evenings on the roof, 1939-1954</title> [oral history transcript] / Peter Yates, interviewee. UCLA Oral History Department interview, 1967. Available at the Department of Special Collections, UCLA.</item>
+ <item>Lawrence Morton Collection of Materials Relating to the Monday Evening Concerts (Collection 965). Available at the Department of Special Collections, UCLA.</item>
+ </list>
+ </p>
+ </relatedmaterial>
+ </archdesc>
+</ead>
