@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader findaidstatus="Unprocessed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid countrycode="US" mainagencycode="US-CLU-SC">seeds838.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Corinne Seeds papers, ca. 1945-1956
+</titleproper>
+<titleproper type="filing">Seeds (Corinne) papers</titleproper>
+<author>Finding aid prepared by Library Special Collections staff, 1966; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©2014 The Regents of the University of California. All rights reserved.</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2014-10-24T10:18-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
+</creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle>Corinne Seeds papers</unittitle>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">838</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>0.5 linear ft.</extent>
+<extent>(1 box)</extent>
+</physdesc>
+<unitdate>ca. 1945-1956</unitdate>
+<abstract id="ref1" label="Abstract">Manuscript reports, correspondence, photographs, clippings, and related printed matter concerning the University Elementary School, University of California, Los Angeles.</abstract>
+<physloc id="ref2" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+</did>
+<accessrestrict id="ref3">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict id="ref4">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo id="ref5">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Corinne Aldine Seeds, August, 1962.</p>
+</acqinfo>
+<prefercite id="ref6">
+<head>Preferred Citation</head>
+<p>[Identification of item], Corinne A. Seeds Papers (Collection 838). Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<bioghist id="ref7">
+<head>Biography/History</head>
+<p>Seeds was born in 1889; in 1925, she became principal of the Training School of the the fledgling University of California, Southern Branch, located on North Vermont Ave. in Los Angeles; in 1929, Seeds and the Training School moved to its first Westwood location on Warner Ave., and the school was renamed the University Elementary School (UES); in the late 1940s the school moved to the UCLA campus, and the first permanent UES buildings opened in 1950; Seeds retired as principal of UES in 1957; she died in 1969; in 1982, the school was renamed the Corinne A. Seeds University Elementary School in her honor.</p>
+</bioghist>
+<relatedmaterial id="ref10">
+<head>Related Material</head>
+<p>The following oral history is available through the UCLA Library Center for Oral History Research: 
+<list type="marked">
+<item>
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://oralhistory.library.ucla.edu/viewItem.do?ark=21198/zz00175s41">Corinne Aldine Seeds </extref> </item>
+</list></p>
+</relatedmaterial>
+<scopecontent id="ref8">
+<head>Scope and Content</head>
+<p>Collection consists of manuscript reports, correspondence, photographs, clippings, and printed material related to the career of Corinne A. Seeds and the University Elementary School at UCLA.</p>
+</scopecontent>
+<odd id="ref9">
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=2976816">2976816</extref></p>
+</odd>
+<controlaccess>
+<persname role="subject" source="lcnaf" encodinganalog="600">Seeds, Corinne, 1889-1969--Archives.</persname>
+<occupation source="lcsh">Elementary school principals--California--Los Angeles--Archival resources.</occupation>
+<subject source="lcnaf">University of California, Los Angeles. University Elementary School.</subject>
+</controlaccess>
+<dsc type="in-depth">
+<head>Container List</head>
+<c01 id="ref11" level="collection">
+<did>
+<unittitle>Manuscript reports, correspondence, photographs, clippings, and related printed matter concerning the University Elementary School, University of California, Los Angeles.</unittitle>
+<container id="cid8817001" type="Box">1</container>
+</did>
+<scopecontent id="ref12">
+<head>Scope and Content</head>
+<p>A transcript of a tape recorded interview with Corinne Aldine Seeds, 
+<title>UES; the history of the creative elementary school,</title> 300/7, supplements the papers.</p>
+</scopecontent>
+<note>
+<p>Description derived from card files.</p>
+</note>
+</c01>
+</dsc>
+</archdesc>
+</ead>
