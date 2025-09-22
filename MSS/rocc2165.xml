@@ -1,224 +1,56 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-<eadid countrycode="US" mainagencycode="US-CLU-SC">rocc2165.xml</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Francesca Roccaforte papers 
-<date calendar="gregorian" normal="1977/1994" era="ce">1977-1994</date>
-</titleproper>
-<titleproper type="filing">Roccaforte (Francesca) papers</titleproper>
-<author>Finding aid prepared by Stacy Wood, 2013; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA, 90095-1575</addressline>
-<addressline>(310) 825-4988</addressline>
-<addressline>spec-coll@library.ucla.edu</addressline>
-</address>
-<date>©2014 The Regents of the University of California. All rights reserved.</date>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>This finding aid was produced using the Archivists' Toolkit
-<date>2014-03-26T14:32-0700</date>. Supplementary encoding and revision by Caroline Cub&#x00E9; using Notetab Pro.
-</creation>
-<langusage>Finding aid written in: 
-<language>English.</language></langusage>
-<descrules>Describing Archives: A Content Standard</descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection">
-<did>
-<unittitle>Francesca Roccaforte papers</unittitle>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2165</unitid>
-<repository>
-<corpname>UCLA Library Special Collections</corpname>
-</repository>
-<langmaterial>
-<language langcode="eng"/>
-</langmaterial>
-<physdesc>
-<extent>0.25 linear ft.</extent>
-<extent>(1 box)</extent>
-</physdesc>
-<unitdate normal="1977/1994" type="inclusive">1977-1994</unitdate>
-<abstract id="ref2" label="Abstract">Francesca Roccaforte is a photographer and teacher living in San Francisco, California. This collection contains photographic prints from several of her projects ranging from documenting horse races to Italian historical sites.</abstract>
-<langmaterial id="ref41" label="Language of Materials">Materials are in English.</langmaterial>
-<physloc id="ref3" label="Physical location">COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-<origination label="Creator">
-<persname source="ingest">Roccaforte, Francesca</persname>
-</origination>
-</did>
-<accessrestrict id="ref4">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict id="ref5">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<prefercite id="ref6">
-<head>Preferred Citation</head>
-<p>[Identification of item], Francesca Roccaforte papers (Collection 2165). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
-</prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7384781">7384781</extref></p>
-</odd>
-<acqinfo id="ref7">
-<head>Acquisition Information</head>
-<p>Provenance unknown. This collection is part of an outreach and collection-building partnership between the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
-</acqinfo>
-<processinfo id="ref8">
-<head>Processing History</head>
-<p>Processed by Stacy Wood, 2013.</p>
-<p>The 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
-<extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
-</processinfo>
-<bioghist id="ref9">
-<head>Biography</head>
-<p>Francesca Roccaforte was born and raised in New York City, where her early love of photography and aesthetics was nurtured and developed by her parents and environment. Her first solo show was at an organization called the "Door" in the West Village in the 1970s. The "Door" nurtured her creative teenage energy and enabled her to prepare for both intense photographic studies at the School of Visual Arts and Creative Writing at Hunter College in New York. She spent four years immersed in photo studies, and working part time as a documentary photographer, performing arts photographer and darkroom technician. She has taken workshops and classes with W. Eugene Smith, Ansel Adams, Eve Sonneman, Cora Wright Kennedy, Dena, and Alice Beck at the School of Visual Arts.</p>
-<p>Roccaforte relocated to the San Francisco area at the age of 23 after a photography trip documenting spirituality and religious customs in Italy, Israel and the United States. She was employed in several photography labs and camera stores and completed her visual arts education in California by earning degrees and/or certificates from The California College of Arts, Berkeley City College and Cal State East Bay. Her thesis project, which focused on portraits and accompanying oral herstories of Italian women was both exhibited and published in the 1990s. She has worked as a freelance photographer, worked in educational and medical institutions and assisted with production and operational aspects of film festivals and accompanying events. Currently, she teaches beginning and advanced digital photography to adult learners. She also exhibits her photographic art in the San Francisco Bay Area.</p>
-</bioghist>
-<scopecontent id="ref10">
-<head>Scope and Content</head>
-<p>This collection consists primarily of photographs taken by Francesca Roccaforte. The photographs that make up the collection are assembled from different series and focus on disparate subjects including gay and lesbian pride events, horse racing, cultural events and self-portraits. Also included in the collection are poems written by Francesca Roccaforte as well as documents related to her professional and academic achievement.</p>
-</scopecontent>
-<controlaccess>
-<subject source="lcsh">Lesbian photographers -- Archival resources.</subject>
-</controlaccess>
-<dsc type="in-depth">
-<head>Container List</head>
-<c01 id="ref11" level="file">
-<did>
-<unittitle>"The Races" Photo Series.</unittitle>
-<container id="cid8017047" type="Box">1</container>
-<container parent="cid8017047" type="Folder">1</container>
-<unitdate>1977.</unitdate>
-<physdesc id="ref12">black and white photographs, mostly 8x10</physdesc>
-</did>
-<scopecontent id="ref13">
-<p>Photo series taken at a horse racing track in 1977 at Belmont Park in New York City, NY. The subjects of the photos include spectators, jockeys and horses.</p>
-</scopecontent>
-</c01>
-<c01 id="ref14" level="file">
-<did>
-<unittitle>Miscellaneous Photos.</unittitle>
-<container id="cid8017046" type="Box">1</container>
-<container parent="cid8017046" type="Folder">2</container>
-<unitdate>1979-1994.</unitdate>
-<physdesc id="ref15">black and white photos of various sizes</physdesc>
-</did>
-<scopecontent id="ref16">
-<p>A mix of photographs depicting sporting events, social gatherings, marches, candids and posed nude portraits.</p>
-</scopecontent>
-</c01>
-<c01 id="ref17" level="file">
-<did>
-<unittitle>Gay Games Photos.</unittitle>
-<container id="cid8017045" type="Box">1</container>
-<container parent="cid8017045" type="Folder">3</container>
-<unitdate>1976-1992.</unitdate>
-<physdesc id="ref18">color photographs of various sizes</physdesc>
-</did>
-<scopecontent id="ref19">
-<p>Photos from several years of Gay Games. Includes both sporting and social events.</p>
-</scopecontent>
-</c01>
-<c01 id="ref20" level="file">
-<did>
-<unittitle>Miscellaneous Photos.</unittitle>
-<container id="cid8017044" type="Box">1</container>
-<container parent="cid8017044" type="Folder">4</container>
-<unitdate>1977-1992.</unitdate>
-<physdesc id="ref21">black and white and color photographs of various sizes</physdesc>
-</did>
-<scopecontent id="ref22">
-<p>Various photographs from several different series including: The Water Series 1992 Rocky's Book Series 1976 North Beach Italian 1994 Behind the Door 1994 "Stella" Cafe 1994 2 Budapest 1988</p>
-</scopecontent>
-</c01>
-<c01 id="ref23" level="file">
-<did>
-<unittitle>Padua, Italy Photographs.</unittitle>
-<container id="cid8017043" type="Box">1</container>
-<container parent="cid8017043" type="Folder">5</container>
-<unitdate>1978.</unitdate>
-<physdesc id="ref24">black and white photos</physdesc>
-</did>
-<scopecontent id="ref25">
-<p>Photos from a series taken in Padua, Italy.</p>
-</scopecontent>
-</c01>
-<c01 id="ref26" level="file">
-<did>
-<unittitle>Miscellaneous Parade Photos.</unittitle>
-<container id="cid8017042" type="Box">1</container>
-<container parent="cid8017042" type="Folder">6</container>
-<unitdate>1978-1991.</unitdate>
-<physdesc id="ref27">black and white and color photographs of various sizes</physdesc>
-</did>
-<scopecontent id="ref28">
-<p>Photographs taken at various gay and lesbian pride events, predominantly in the San Francisco, CA and Oakland, CA areas.</p>
-</scopecontent>
-</c01>
-<c01 id="ref29" level="file">
-<did>
-<unittitle>Miscellaneous Photos on Matte.</unittitle>
-<container id="cid8017041" type="Box">1</container>
-<container parent="cid8017041" type="Folder">7</container>
-<unitdate>1978-1989.</unitdate>
-<physdesc id="ref30">color photographs of various sizes</physdesc>
-</did>
-<scopecontent id="ref31">
-<p>Miscellaneous photos, including gay and lesbian pride parade photos, landscapes, and various musical or cultural events.</p>
-</scopecontent>
-</c01>
-<c01 id="ref32" level="file">
-<did>
-<unittitle>Professional and Academic Documents.</unittitle>
-<container id="cid8017040" type="Box">1</container>
-<container parent="cid8017040" type="Folder">8</container>
-<unitdate>1983-1994.</unitdate>
-<physdesc id="ref33">photocopies and printed paper</physdesc>
-</did>
-<scopecontent id="ref34">
-<p>Contains resumes, certificates, diplomas and other paperwork related to academic and professional achievement.</p>
-</scopecontent>
-</c01>
-<c01 id="ref35" level="file">
-<did>
-<unittitle>Self Portraits.</unittitle>
-<container id="cid8017039" type="Box">1</container>
-<container parent="cid8017039" type="Folder">9</container>
-<unitdate>1986-1987.</unitdate>
-<physdesc id="ref36">black and white photographs of various sizes</physdesc>
-</did>
-<scopecontent id="ref37">
-<p>Self portraits in black and white.</p>
-</scopecontent>
-</c01>
-<c01 id="ref38" level="file">
-<did>
-<unittitle>Poetry.</unittitle>
-<container id="cid8017038" type="Box">1</container>
-<container parent="cid8017038" type="Folder">10</container>
-<unitdate>1993-1994.</unitdate>
-<physdesc id="ref39">photocopies and printed paper</physdesc>
-</did>
-<scopecontent id="ref40">
-<p>Various poems written by Francesca Roccaforte.</p>
-</scopecontent>
-</c01>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c8n018p2/">rocc2165.xml</eadid><filedesc><titlestmt><titleproper type="filing">Roccaforte (Francesca) papers</titleproper><titleproper>Finding aid for the Francesca Roccaforte papers <num>LSC.2165</num></titleproper><author>Finding aid prepared by Stacy Wood, 2013; updated by Sabrina Ponce, 2017; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>©2014 The Regents of the University of California. All rights reserved.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-09-22 13:55:55 -0700</date>.</creation><langusage>Finding aid written in: <language>English.</language></langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Francesca Roccaforte papers</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Roccaforte, Francesca</persname>
+    </origination>
+    <unitid>LSC.2165</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 linear feet</extent>
+      <extent altrender="carrier">(1 half document box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1977/1994" type="inclusive">1977-1994</unitdate>
+    <abstract id="aspace_e3f053882b13e0abf31163c34706338f" label="Abstract">Francesca Roccaforte is a photographer and teacher living in San Francisco, California. This collection contains photographic prints from several of her projects ranging from documenting horse races to Italian historical sites.</abstract>
+    <physloc id="aspace_e335c96536e431268864ad9654c02c3e" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_42790a470c00e00e994ad18be58f5297">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_53314af9f54345048a675229e3cdcc23">
+    <head>Conditions Governing Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_abb157b0f09a8299a0eca6d3a37db7b0">
+    <head>Conditions Governing Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_4c4b92d6b1062b4e8b3132b8f6bde940">
+    <head>Acquisition Information</head>
+<p>Gift of Francesca Roccaforte, 2013.</p><p>This collection is part of an outreach and collection-building partnership between the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/">UCLA Library</extref>.</p>  </acqinfo>
+  <odd id="aspace_efe959145d0df266f4630864d42778c4">
+    <head>Sponsor</head>
+<p>The <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://digital.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the  <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>  </odd>
+  <odd id="aspace_f6084bfe7b0c55d319ec3fa70306bfdd">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9973847813606533">9973847813606533</extref></p>  </odd>
+  <prefercite id="aspace_dcb9d7f0241f81d5e384f6dbf3b5a007">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Francesca Roccaforte papers (Collection 2165). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_64dabebda21b2540d6a3394bf3a69db9">
+    <head>Processing History</head>
+<p>Processed by Stacy Wood, 2013. Description enhanced and further physical processing completed by Sarah Johnson and Sabrina Ponce in 2017.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special Collections.</extref></p>  </processinfo>
+  <bioghist id="aspace_20795311cdfa3d1ad56b64929c07f56f">
+    <head>Biography</head>
+<p>Francesca Roccaforte was born and raised in New York City, where her early love of photography and aesthetics was nurtured and developed by her parents and environment. Her first solo show was at an organization called the "Door" in the West Village in the 1970s. The "Door" nurtured her creative teenage energy and enabled her to prepare for both intense photographic studies at the School of Visual Arts and Creative Writing at Hunter College in New York. She spent four years immersed in photo studies, and working part time as a documentary photographer, performing arts photographer and darkroom technician. She has taken workshops and classes with W. Eugene Smith, Ansel Adams, Eve Sonneman, Cora Wright Kennedy, Dena, and Alice Beck at the School of Visual Arts.</p><p>Roccaforte relocated to the San Francisco area at the age of twenty-three after a photography trip documenting spirituality and religious customs in Italy, Israel and the United States. She was employed in several photography labs and camera stores and completed her visual arts education in California by earning degrees and/or certificates from The California College of Arts, Berkeley City College and Cal State East Bay. Her thesis project, which focused on portraits and accompanying oral herstories of Italian women was both exhibited and published in the 1990s. She has worked as a freelance photographer, worked in educational and medical institutions and assisted with production and operational aspects of film festivals and accompanying events. Currently, she teaches beginning and advanced digital photography to adult learners. She also exhibits her photographic art in the San Francisco Bay Area.</p>  </bioghist>
+  <scopecontent id="aspace_0f06ee877cd7c0d7357dadf446c958d0">
+    <head>Scope and Content</head>
+<p>This collection consists primarily of photographs taken by Francesca Roccaforte. The photographs are assembled from different series and focus on disparate subjects including gay and lesbian pride events, horse racing, cultural events, and self-portraits. Also included in the collection are poems written by Francesca Roccaforte as well as documents related to her professional and academic achievement.</p>  </scopecontent>
+  <arrangement id="aspace_f1fd8ad9b885fbbc81d1b9e4d698e59b">
+    <head>Organization and Arrangement</head>
+<p>Materials arranged by type and subject.</p>  </arrangement>
+  <controlaccess>
+    <occupation source="lcsh">Lesbian photographers -- Archives.</occupation>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_6l4" level="file"><did><unittitle>"The Races" photograph series</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_728f837ac7262bf5fef60f71c4284726" label="Mixed Materials" type="box">1</container><container id="aspace_737603698b47d69265e90611f7598452" parent="aspace_728f837ac7262bf5fef60f71c4284726" type="folder">1</container></did><scopecontent id="aspace_d66b5bb7d56340870148c1ba22b122b4"><head>Scope and Contents note</head><p>Photograph series taken at a horse racing track in 1977 at Belmont Park in New York City, NY. The subjects of the photographs include spectators, jockeys, and horses.</p></scopecontent></c01><c01 id="aspace_ref14_3gh" level="file"><did><unittitle>Assorted photographs</unittitle><unitdate datechar="creation" normal="1979/1994" type="inclusive">1979-1994</unitdate><container id="aspace_80a9f5e3511a33632deff0e401af0dd7" label="Mixed Materials" type="box">1</container><container id="aspace_e16cf93d5d5974073dfd47c9610c4e81" parent="aspace_80a9f5e3511a33632deff0e401af0dd7" type="folder">2</container></did><scopecontent id="aspace_a0262fe72fc89fbe608c929cdf8a788d"><head>Scope and Contents note</head><p>A mix of photographs depicting sporting events, social gatherings, marches, candids, and posed nude portraits.</p></scopecontent></c01><c01 id="aspace_ref17_xgw" level="file"><did><unittitle>Gay Games photographs</unittitle><unitdate datechar="creation" normal="1976/1992" type="inclusive">1976-1992</unitdate><container id="aspace_42867e8c70830a7b3356953682934b8c" label="Mixed Materials" type="box">1</container><container id="aspace_1b3407f6f71b6e204f14d9bef9eb4a49" parent="aspace_42867e8c70830a7b3356953682934b8c" type="folder">3</container></did><scopecontent id="aspace_2f1d5079594304b9b648518b00833e25"><head>Scope and Contents note</head><p>Photographs from several years of Gay Games. Includes both sporting and social events.</p></scopecontent></c01><c01 id="aspace_ref20_isu" level="file"><did><unittitle>Assorted series photographs</unittitle><unitdate datechar="creation" normal="1977/1992" type="inclusive">1977-1992</unitdate><container id="aspace_27cec7c78e9462903a062b0b86a0b976" label="Mixed Materials" type="box">1</container><container id="aspace_d9048a6c9f0e003d553e443974aacaf7" parent="aspace_27cec7c78e9462903a062b0b86a0b976" type="folder">4</container></did><scopecontent id="aspace_ffee203c774f8133efc40df24d229716"><head>Scope and Contents note</head><p>Various photographs from several different series including: The Water Series 1992, Rocky's Book Series 1976, North Beach Italian 1994, Behind the Door 1994, "Stella" Cafe 1994, 2 Budapest 1988.</p></scopecontent></c01><c01 id="aspace_ref23_5fx" level="file"><did><unittitle>Padua, Italy photographs</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container id="aspace_c0f14a30f85927e6ed8fc07341cacd8f" label="Mixed Materials" type="box">1</container><container id="aspace_b9f9988b53192b13be91c79e9c75fd91" parent="aspace_c0f14a30f85927e6ed8fc07341cacd8f" type="folder">5</container></did><scopecontent id="aspace_2f938c2c2407b4b468182dd2ce4a3f4d"><head>Scope and Contents note</head><p>Photographs from a series taken in Padua, Italy.</p></scopecontent></c01><c01 id="aspace_ref26_o99" level="file"><did><unittitle>Parade photographs</unittitle><unitdate datechar="creation" normal="1978/1991" type="inclusive">1978-1991</unitdate><container id="aspace_08a8f076a90ae0f67a368b7a80af9699" label="Mixed Materials" type="box">1</container><container id="aspace_f6b057005a8317b6e29eff09b079b5c4" parent="aspace_08a8f076a90ae0f67a368b7a80af9699" type="folder">6</container></did><scopecontent id="aspace_feb5169dc9f75792230178b3cdd882b9"><head>Scope and Contents note</head><p>Photographs taken at various gay and lesbian pride events, predominantly in the San Francisco, CA and Oakland, CA areas.</p></scopecontent></c01><c01 id="aspace_ref29_s77" level="file"><did><unittitle>Parades, landscapes, cultural events</unittitle><unitdate datechar="creation" normal="1978/1989" type="inclusive">1978-1989</unitdate><container id="aspace_a15a7814a5e54d20bb01761f8732e99b" label="Mixed Materials" type="box">1</container><container id="aspace_2de152cca1d9baea04a2902f6ad436df" parent="aspace_a15a7814a5e54d20bb01761f8732e99b" type="folder">7</container></did><scopecontent id="aspace_6349e4b7b60f6139e9f35b19aa0baf2d"><head>Scope and Contents note</head><p>Assorted photographs of gay and lesbian pride parades, landscapes, and various musical or cultural events.</p></scopecontent></c01><c01 id="aspace_ref32_wq8" level="file"><did><unittitle>Professional and academic documents</unittitle><unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1994</unitdate><container id="aspace_644a9c3667173848c3a1419cd7e6f816" label="Mixed Materials" type="box">1</container><container id="aspace_4d09b4fe074e17a4d9707eee4ff7f1b7" parent="aspace_644a9c3667173848c3a1419cd7e6f816" type="folder">8</container></did><scopecontent id="aspace_0e9520d2df73da498aeba1c78afa402c"><head>Scope and Contents note</head><p>Contains resumes, certificates, diplomas, and other paperwork related to Roccaforte's academic and professional achievement.</p></scopecontent></c01><c01 id="aspace_ref35_lme" level="file"><did><unittitle>Self-portraits</unittitle><unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate><container id="aspace_1fd3dea09be88209cd9e8d9c5d9b983a" label="Mixed Materials" type="box">1</container><container id="aspace_2f593babd6b247fa47a320b962bc1c75" parent="aspace_1fd3dea09be88209cd9e8d9c5d9b983a" type="folder">9</container></did><scopecontent id="aspace_28f75faee9eeb20963e813b3b8dcc85d"><head>Scope and Contents note</head><p>Self-portraits in black and white.</p></scopecontent></c01><c01 id="aspace_ref38_lwh" level="file"><did><unittitle>Poetry</unittitle><unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate><container id="aspace_54c03d9ba611b8cd06532b18aca52751" label="Mixed Materials" type="box">1</container><container id="aspace_8c29d0b04edff9c85aa309ccadd2333f" parent="aspace_54c03d9ba611b8cd06532b18aca52751" type="folder">10</container></did><scopecontent id="aspace_70e358a28f0377ceb24a7b193683b243"><head>Scope and Contents note</head><p>Various poems written by Francesca Roccaforte.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
