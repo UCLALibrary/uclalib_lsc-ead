@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier=" http://www.oac.cdlib.org/findaid/ark:/13030/c8kp83cw">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::94/58::J.E. Middlebrook South African souvenir)//EN" "midd9458.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>J.E. Middlebrook South African souvenir, 1898</titleproper>
+<titleproper type="filing">Middlebrook (J.E.) South African souvenir</titleproper>
+<author>Processed by Jane Carpenter with assistance from Simon Elliott; machine-readable finding aid created by Caroline Cub&#x00E9;.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2013</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from MARC record, encoding added via  Notetab Pro. Date of source: <date>DATE</date>. Supplementary encoding and revision by Caroline Cub&#x00E9;.</creation>
+<langusage>Description is in <language langcode="eng" 
+scriptcode="Latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">J.E. Middlebrook South African souvenir</unittitle>
+<unitdate type="inclusive" normal="1898">1898</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">94/58</unitid>
+<origination label="Creator">
+<persname rules="aacr2">Middlebrook, J.E., photographer.</persname></origination>
+<origination label="Publisher">D'Urban &#x0026; Kimberley [South Africa] : The Premier Studio, [1898].</origination>
+<physdesc label="Physical Description">
+<extent>1 album ([26] leaves) : 52 platinum photoprints ; 20 x 26 cm (album)</extent>
+<physfacet><lb/>Title, photographer, and place of publication from upper cover.</physfacet>
+<physfacet><lb/>Edition statement from Middlebrook's introduction preceding photographs.</physfacet>
+<physfacet><lb/>Photographs are mounted on rectos and versos of leaves of stiff white card stock, with some foxing on most leaves; interleaved with leaves of glassine; printed caption below each photo.</physfacet>
+<physfacet><lb/>Bound in remnants of original grained roan morocco padded leather covers, with gold-stamped title "South African Souvenir" on upper cover; inner gilt dentelles; all edges gilt; blue, gold, and brown marbled endpapers.</physfacet>
+<physfacet><lb/>Spec. Coll. copy: date, Dec. 23, 1898, added in pencil in upper margin of Middlebrook's introduction to the second ed. Last two photographs dated in pencil Jan. 28, 1899 and June 11, 1898 respectively. In modern beige cloth clamshell box.</physfacet>
+</physdesc>
+<abstract label="Abstract">Souvenir album from 1898 of platinum photoprints, or platinotypes, by J.E. Middlebrook, documenting South African cities and towns at the turn-of-the-century. </abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<langmaterial label="Language of the Material">
+Materials are in English.
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], J.E. Middlebrook South African souvenir (Collection 94/58). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233582">4233582</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography/History</head>
+<p>Late 19th-century South African photographer. The flourishing diamond mines in Kimberley brought hundreds of workers and photographers to the area beginning in 1867. J.E. Middlebrook followed soon thereafter in the early 1870s, and set up his photography studio, The Premier Studio, on West Street West ; he had a second studio in Durban, "Opposite the Club." Middlebrook photographed the landscape, farms, cities, and people of South Africa. His photographs of the Zulu people are considered to be theatrical, deliberating portraying the native people in an idyllic, romantic, and exotic light.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>The fifty-two platinotypes--prints made from a photographic process using ferric oxalate in combination with platinum salts deposited directly on the paper (rather than in an emulsion like the silver print process)--are arranged by the photographer following the itinerary of a route proceeding clockwise from Capetown up the eastern coast of South Africa, through Port Elizabeth, Grahamstown, and East London, to Durban, and Pietermaritzburg, and provide views of the churches, parks, harbors, and main streets of these cities. Also included is a portrait of a local "cabby," a Zulu boy, wearing animal horns on his head, with his rickshaw. Continuing up the coast into what is now Mozambique, Middlebrook photographs Delagoa Bay, and the towns of Inhambane, Beira, Chinde, at the mouth of the Zambezi River, and Quelimane. As he crosses west into the Matoppo Hills towards Bulawayo, he records "Mr. Rhodes' Farm Buildings," with a photo of "C.J.R."--Cecil Rhodes--in the entrance of one of his conical "huts". Shots of Kimberley include a bird's eye view of the city from the De Beers Floors, and the Kimberley Sanitorium built by Rhodes. In Johannesburg, Middlebrook records a bird's eye view of the city, the imposing new post office, Commissioner and Pritchard Streets, Joubert Park, the vast produce market, and processing buildings of the Randt Gold Mining Companies. There are also views of Pretoria--including a scene of "Naachtmaal," when Boer farmers and families come to town for church services, and camp out in the town square--and the hills near Barberton, where Sheba G.M. Company mines quartz. Seven of the photographs portray native people, such as Chief Khama of the Batlapins, well-known for his friendship with Livingstone; Zulu men wearing head gear of rickshaw pullers in Durban; Zulu families in front of their homes in Natal, Zululand; an Amaxosa family in Cape Colony (Cape of Good Hope); a Matabele cane seller; a woman from Swaziland in native garb; and an east coast man, known as a Zanzibaree. The final two photographs are steamships: U[nion] S[steam] S[hip] Company's "Briton"; and C[astle] M[ail] P[ackets] Company's "Carisbrook Castle."</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Rhodes, Cecil, 1853-1902 --Photographs.</persname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Briton (Ship : 1898) --Photographs.</corpname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Carisbrook Castle (Ship : 1898) --Photographs.</corpname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Union Steam Ship Company.</corpname>
+<corpname role="subject" source="lcnaf" encodinganalog="610">Castle Line (Firm)</corpname>
+<subject source="lcsh" encodinganalog="650">Zulu (African people) --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Indigenous peoples --South Africa --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Colonists --South Africa --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Harbors --South Africa --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Paddle steamers --Zambezi River --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Steamboats --South Africa --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Rickshaws --South Africa --Durban --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Gold and gold mining --South Africa --Johannesburg --Photographs.</subject>
+<subject source="lcsh" encodinganalog="650">Quartz mines and mining --South Africa --Johannesburg --Photographs.</subject>
+<geogname source="lcnaf" encodinganalog="651">South Africa --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Mozambique --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Port Elizabeth (South Africa) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Cape Town (South Africa) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Grahamstown (South Africa) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">East London (South Africa) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Durban (South Africa)</geogname>
+<geogname source="lcnaf" encodinganalog="651">Pietermaritzburg (South Africa)</geogname>
+<geogname source="lcnaf" encodinganalog="651">Beira (Mozambique) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Chinde (Mozambique) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Quelimane (Mozambique) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Bulawayo (Zimbabwe) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Kimberley (South Africa) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Johannesburg (South Africa) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Pretoria (South Africa) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Barberton (South Africa : Region) --Photographs.</geogname>
+<geogname source="lcnaf" encodinganalog="651">Zambezi River --Photographs.</geogname>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="gmgpc" encodinganalog="655">Platinum photoprints --South Africa --1898.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Photographic prints --South Africa --1898.</genreform>
+<genreform source="gmgpc" encodinganalog="655">Photograph albums --South Africa --1898.</genreform>
+<controlaccess>
+<head>Other Index Terms Related to this Collection</head>
+<corpname source="lcnaf" encodinganalog="710">Premier Studios (Durban and Kimberley, South Africa)</corpname>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<relatedmaterial encodinganalog="544">
+<head>Related Material</head>
+<p>Part of the
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt6489s0cc/" actuate="onrequest" show="new">Photograph Album Collection (Collection 94)
+</extref> in UCLA Library Special Collections.</p>
+<p>For historical background on the development of photography in Africa, and a brief mention of J.E. Middlebrook, cf. Silver images: history of photography in Africa / A.D. Bensusan. Capetown: H. Timmins, 1966. For information on Middlebrook's Zulu photography, cf. Virginia-Lee Webb, "Fact and fiction: nineteenth-century photographs of the Zulu," African Arts 25, no. 1 (Jan. 1992), p. 50-59, 98-99, available online through JStor.</p>
+</relatedmaterial>
+</archdesc>
+</ead>
