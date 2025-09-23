@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CLU-SC">niel2162.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Sass Nielson papers 
+                    <date calendar="gregorian" normal="1974/1975" era="ce">1974-1976</date>
+                    <num>LSC.2162</num>
+                </titleproper>
+                <titleproper type="filing">Nielson (Sass) papers</titleproper>
+                <author>Finding aid prepared by Stacy Wood, 2013; Sabrina Ponce, 2017; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 29 November 2017.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-11-29T11:28-0800</date>
+            </creation>
+            <langusage>Finding aid written in: 
+                <language>English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sass Nielsen papers</unittitle>
+            <unitid>LSC.2162</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.4 linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate normal="1974/1976" type="inclusive">1974-1976</unitdate>
+            <abstract id="ref2" label="Abstract">Sass Nielsen worked at Disney Studios in Burbank, California throughout the 1990s. Her advocacy work, growing out of the group Hollywood Supports (a nonprofit organization promoting awareness of AIDS and gay issues) concerned the extension of health benefits for same sex partners as well as organizing around lesbian and gay issues in the workplace. In 1992, she successfully organized to form the Lesbian and Gay United Employees (LEAGUE). This collection includes research, correspondence, and collected materials related to gay and lesbian issues including information from activist organizations as well as publications treating the issue historically.</abstract>
+            <langmaterial id="ref43" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref44" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="rda" source="local">Nielsen, Sass</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref45">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref46">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref47">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Sass Nielsen papers (Collection 2162). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Gift of Sandra (Sass) P. Nielsen, 2013.</p>
+            <p>This collection is part of an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing History</head>
+            <p>Processed by Stacy Wood, 2012. Description enhanced and further physical processing completed by Sabrina Ponce in 2017.</p>
+        </processinfo>
+        <odd id="ref49">
+            <head>Sponsor</head>
+            <p>The 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+        </odd>
+        <odd id="ref48">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7384778">7384778</extref></p>
+        </odd>
+        <bioghist id="ref9">
+            <head>Biography</head>
+            <p>Sass Nielsen worked at Disney Studios in Burbank, California throughout the 1990s. Her advocacy work, growing out of the group Hollywood Supports (a nonprofit organization promoting awareness of AIDS and gay issues) concerned the extension of health benefits for same sex partners as well as organizing around lesbian and gay issues in the workplace. In 1992, she successfully organized to form the Lesbian and Gay United Employees (LEAGUE). As a young woman she was kicked out of the armed forces for being a lesbian. She also wrote fiction.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content</head>
+            <p>This collection includes research, correspondence, and collected materials related to gay and lesbian issues including information from activist organizations as well as publications treating the issue historically.</p>
+        </scopecontent>
+        <arrangement id="ref50">
+            <head>Organization and Arrangement</head>
+            <p>Materials arranged by type.</p>
+        </arrangement>
+        <controlaccess>
+            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
+            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
+            <persname rules="rda" source="local">Nielsen, Sass -- Archives.</persname>
+            <subject source="lcsh">Gay rights--United States.</subject>
+            <subject source="lcsh">Lesbian activists--United States--Archives.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="file">
+                <did>
+                    <unittitle>Lambda Legal Defense and Education Fund</unittitle>
+                    <container id="cid11425001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425001" type="Folder">1</container>
+                    <unitdate normal="1973/1975" type="inclusive">circa 1974</unitdate>
+                </did>
+                <scopecontent id="ref13">
+                    <head>Scope and Content</head>
+                    <p>Brochures, flyers and letters from the Lambda Legal Defense Fund.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref14" level="file">
+                <did>
+                    <unittitle>Newsletters and newspaper clippings</unittitle>
+                    <container id="cid11425002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425002" type="Folder">2</container>
+                    <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+                </did>
+                <scopecontent id="ref16">
+                    <head>Scope and Content</head>
+                    <p>Clippings and publications including 
+                        <title render="italic">It's Time: Monthly Newsletter of the National Gay Task Force</title> and 
+                        <title render="italic">Gayzette: The Weekly Philadelphia Gayzette</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref17" level="file">
+                <did>
+                    <unittitle>The Gay Academic Union</unittitle>
+                    <container id="cid11425003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425003" type="Folder">3</container>
+                    <unitdate normal="1974/1974">1974</unitdate>
+                </did>
+                <scopecontent id="ref19">
+                    <head>Scope and Content</head>
+                    <p>Conference schedules, biographies and abstracts of participants of the 1974 Gay Academic Union Conference.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref20" level="file">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <container id="cid11425004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425004" type="Folder">4</container>
+                    <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+                </did>
+                <scopecontent id="ref22">
+                    <head>Scope and Content</head>
+                    <p>Collected letters from individuals and organizations concerning various issues related to gay and lesbian feminist activism.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref23" level="file">
+                <did>
+                    <unittitle>Flyers</unittitle>
+                    <container id="cid11425005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425005" type="Folder">5</container>
+                    <unitdate normal="1975/1975">1975</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>Collected writings</unittitle>
+                    <container id="cid11425007" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425007" type="Folder">6</container>
+                    <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+                </did>
+                <scopecontent id="ref27">
+                    <head>Scope and Content</head>
+                    <p>Feminist and activist works published by other authors and collected by Sass Nielsen.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref28" level="file">
+                <did>
+                    <unittitle>Consciousness raising materials</unittitle>
+                    <container id="cid11425006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425006" type="Folder">7</container>
+                    <unitdate normal="1975/1975">1975</unitdate>
+                </did>
+                <scopecontent id="ref30">
+                    <head>Scope and Content</head>
+                    <p>How-to guides, samples of consciousness raising techniques.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref31" level="file">
+                <did>
+                    <unittitle>YWCA materials</unittitle>
+                    <container id="cid11425009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425009" type="Folder">8</container>
+                    <unitdate normal="1975/1975">1975</unitdate>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Content</head>
+                    <p>Information about women's programming including conferences, series and activities.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>Assorted materials</unittitle>
+                    <container id="cid11425008" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425008" type="Folder">9</container>
+                    <unitdate normal="1973/1974" type="inclusive">circa 1974</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref37" level="file">
+                <did>
+                    <unittitle>Resources</unittitle>
+                    <container id="cid11425010" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425010" type="Folder">10</container>
+                    <unitdate normal="1973/1977" type="inclusive">circa 1974-1976</unitdate>
+                </did>
+                <scopecontent id="ref39">
+                    <head>Scope and Content</head>
+                    <p>Resources including catalogs, contact information, brochures and pamphlets about available resources and group opportunities from gay and lesbian activist organizations.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref40" level="file">
+                <did>
+                    <unittitle>Surveys</unittitle>
+                    <container id="cid11425011" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid11425011" type="Folder">11</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <scopecontent id="ref42">
+                    <head>Scope and Content</head>
+                    <p>Surveys about sexual experience and relationships.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
