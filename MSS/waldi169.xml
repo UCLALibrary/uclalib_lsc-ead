@@ -1,0 +1,2105 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid countrycode="us" identifier="ark:/13030/tf2r29n94n" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::169::John Waldie Papers)//EN&quot; &quot;waldi169.sgm&quot;">waldi169.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the John Waldie Papers, 1793-1862</titleproper><titleproper type="filing">Waldie (John) Papers</titleproper>
+ <author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cub&#xE9;</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">&#xA9; 2001</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">May 1999</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::169::John Waldie Papers)//EN" "waldi169.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the John Waldie Papers, 1793-1862</titleproper>
+ <num>Collection number: 169</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Manuscripts Division staff</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cub&#xE9;</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, December 2002</item>
+ </defitem>
+ </list>
+ <p>&#xA9; 2001 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">John Waldie Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1793-1862</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">169</unitid>
+ <origination label="Creator">
+ <persname source="aacr2" role="subject">Waldie, John, 1781-1862</persname>
+ </origination>
+ <physdesc label="Extent">
+ <extent>7 cartons (7 linear ft.)</extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">John Waldie (1781-1862) was the administrator of Hendersyde Park at Kelso, Roxburghshire, Scotland. The collection consists of 7 volumes of letters to John Waldie (1793-1841), 74 journal volumes, 11 volumes on travels transcribed from the journals, and 1 volume of passports (1827-1837). </abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Robert D. Steedman, purchase, 1957.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], John Waldie Papers (Collection 169). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233947">4233947</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Waldie was born in 1781; attended University of Edinburgh; awarded D.Lit; assumed the administration of Hendersyde Park at Kelso, Roxburghshire, Scotland, shortly before the death of his father, George Waldie, in 1826; traveled extensively in Europe; he died in 1862. </p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of 7 volumes of letters to John Waldie (1793-1841), 74 journal volumes, 11 volumes on travels transcribed from the journals, and 1 volume of passports (1827-1837). Includes an eyewitness narrative of the Battle of Waterloo in 1815. Journals provide commentary on the music, art, and theater of the period in Britain and Europe.</p>
+ </scopecontent>
+ <arrangement id="arrangement-1.8.5">
+ <head>Organization and Arrangement</head>
+ <p>Arranged in the following series: <list type="ordered"><item>Collection is arranged chronologically.</item></list></p>
+ </arrangement>
+ <controlaccess id="controlaccess-1.8.6">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname source="aacr2" encodinganalog="600" role="subject">Waldie, John, 1781-1862--Archives.</persname>
+ <persname source="aacr2" encodinganalog="600" role="subject">Waldie, John, 1781-1862--Diaries.</persname>
+ <geogname source="lcnaf" encodinganalog="651">Europe--Description and travel.</geogname>
+ <geogname source="lcnaf" encodinganalog="651">Europe--Social life and customs--19th century.</geogname>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.7">
+ <head>Container List</head>
+ <c01 id="c01-1.3.7.2" level="series">
+ <did>
+ <unittitle>Letters Addressed to John Waldie Esquire</unittitle>
+ </did>
+ <c02 level="item" id="c02-1.3.7.2.2">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Volume" type="Volume">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">August 28, 1793-March 11, 1808.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.2.3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Volume" type="Volume">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 30, 1809-August 28, 1811.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.2.4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Volume" type="Volume">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">March 20, 1824-November 21, 1828.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.2.5">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Volume" type="Volume">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 14, 1833-October 14, 1835.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.2.6">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Volume" type="Volume">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 1, 1836-August 3, 1837.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.2.7">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Volume" type="Volume">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">October 1, 1839-December 31, 1840.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.2.8">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Volume" type="Volume">7</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 3, 1841-December 31, 1841.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.7.3" level="series">
+ <did>
+ <unittitle>Journals, <unitdate calendar="gregorian" era="ce">1799-1862</unitdate></unittitle>
+ </did>
+ <c02 level="item" id="c02-1.3.7.3.2">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.8</unitid>
+ <container label="Journal" type="Volume">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1799-1800 &#x0026; 1801.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>John Waldie. Newcastle.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.3">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.9</unitid>
+ <container label="Journal" type="Volume">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 23-August 31, 1802.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Containing travels in Holland, Flanders, &#x0026; France in 1802.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.4">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.10</unitid>
+ <container label="Journal" type="Volume">7</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">March 24-May 19, 1803.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.5">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.11</unitid>
+ <container label="Journal" type="Volume">8</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 20, 1803-August 8, 1803.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.6">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.12</unitid>
+ <container label="Journal" type="Volume">9</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">August 9, 1803-May 14, 1804.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.7">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.13</unitid>
+ <container label="Journal" type="Volume">10</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 14, 1804-March 12, 1805.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.8">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.14</unitid>
+ <container label="Journal" type="Volume">11</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">March 12, 1805-September 27, 1805.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.9">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.15</unitid>
+ <container label="Journal" type="Volume">12</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 28, 1805-May 31, 1806.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.10">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.16</unitid>
+ <container label="Journal" type="Volume">13</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 1-July 31, 1806.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Includes Cornish Adventures.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.11">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.17</unitid>
+ <container label="Journal" type="Volume">15</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 5-August 10, 1807.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.12">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.18</unitid>
+ <container label="Journal" type="Volume">17</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 1-June 15, 1808.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.13">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.19</unitid>
+ <container label="Journal" type="Volume">19</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 1-July 3, 1809.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.14">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.20</unitid>
+ <container label="Journal" type="Volume">20</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 4-September 16, 1809.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.15">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.21</unitid>
+ <container label="Journal" type="Volume">28</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 5-August 31, 1813.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Irish travels.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.16">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.22</unitid>
+ <container label="Journal" type="Volume">31</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 3, 1814-May 3, 1815.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.17">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.23</unitid>
+ <container label="Journal" type="Volume">32</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 4-July 31, 1815.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.18">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.24</unitid>
+ <container label="Journal" type="Volume">35</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 15-September 15, 1816.</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>Travels in Falnders, Germany, Switzerland, Italy, France.</item>
+ <item>Part 1 of Continental travels (July 15, 1816-August 31, 1817) in 6 vol.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.19">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.25</unitid>
+ <container label="Journal" type="Volume">36</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 16-December 8, 1816.</unitdate> Part 2.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.20">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unitid>no.26</unitid>
+ <container label="Journal" type="Volume">37</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">December 9, 1816-February 16, 1817.</unitdate> Part 3.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.21">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.27</unitid>
+ <container label="Journal" type="Volume">38</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 17-May 2, 1817.</unitdate> Part 4.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.22">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.28</unitid>
+ <container label="Journal" type="Volume">40</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 1-August 31, 1817.</unitdate> Part 6 (Includes itinerary of travels).</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.23">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.29</unitid>
+ <container label="Journal" type="Volume">42</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 17, 1818-April 19, 1819.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Journals of travels to France, Spain, Italy &#x0026; Germany in 1818, 1819, 1820 (vol.1).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.24">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.30</unitid>
+ <container label="Journal" type="Volume">43</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 20-July 30, 1819.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels in France, Spain, Italy &#x0026; Germany, 1818-1820 (vol.2).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.25">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.31</unitid>
+ <container label="Journal" type="Volume">44</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 31-November 1819.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels in France, Spain, Germany, 1818-1820 (vol.3).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.26">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.32</unitid>
+ <container label="Journal" type="Volume">45</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">December 1, 1819-May 23, 1820.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels in France, Spain, Germany, 1818-1820 (vol.4).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.27">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.33</unitid>
+ <container label="Journal" type="Volume">46</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 24-July 9, 1820.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels in France, Spain, Germany, 1818-1820 (vol.5).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.28">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.34</unitid>
+ <container label="Journal" type="Volume">47</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 10, 1820-March 24, 1821.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>London.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.29">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.35</unitid>
+ <container label="Journal" type="Volume">48</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">March 26, 1821-April 9, 1822.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.30">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.36</unitid>
+ <container label="Journal" type="Volume">49</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 10, 1822-August 31, 1823.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.31">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.37</unitid>
+ <container label="Journal" type="Volume">53</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 25-September 26, 1827.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.1 begins July 14, p.49.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.32">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.38</unitid>
+ <container label="Journal" type="Volume">54</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 27-December 29, 1827.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.2; Germany, Italy, Switzerland, France, 1827 &#x0026; 1828.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.33">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.39</unitid>
+ <container label="Journal" type="Volume">55</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">December 30, 1827-June 11, 1828.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.3; Germany, Styria, Carniola, Italy, Switzerland, France in 1827 &#x0026; 1828.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.34">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.40</unitid>
+ <container label="Journal" type="Volume">56</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 12, 1828-July 28, 1829.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.4.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.35">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.41</unitid>
+ <container label="Journal" type="Volume">57</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 29, 1829-June 9, 1830.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Including five months residence in Paris.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.36">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.42</unitid>
+ <container label="Journal" type="Volume">58</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 10, 1830-September 5, 1831.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>London.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.37">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.43</unitid>
+ <container label="Journal" type="Volume">59</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 6, 1831-August 31, 1832.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.38">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.44</unitid>
+ <container label="Journal" type="Volume">60</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 1, 1832-January 10, 1833.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.1 begins October 1832, p.69.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.39">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.45</unitid>
+ <container label="Journal" type="Volume">61</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 11-May 31, 1833.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.2; France, Savoy, Italy, Sicily, Malta, Part of Switzerland.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.40">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.46</unitid>
+ <container label="Journal" type="Volume">62</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 1-September 30, 1833.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.3.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.41">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.47</unitid>
+ <container label="Journal" type="Volume">63</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">October 1, 1833-February 28, 1834.</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>Travels, vol.4.</item>
+ <item>Includes itinerary of vol.3.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.42">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unitid>no.48</unitid>
+ <container label="Journal" type="Volume">64</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">March 1-June 20, 1834.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.5.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.43">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.49</unitid>
+ <container label="Journal" type="Volume">65</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 21, 1834-July 15, 1835.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>London.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.44">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.50</unitid>
+ <container label="Journal" type="Volume">66</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 15, 1835-January 10, 1836.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.1 begins August 13, after p.45.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.45">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.51</unitid>
+ <container label="Journal" type="Volume">67</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 11, 1836-June 18, 1836.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.2; France, Switzerland, Savoy, Italy, Ionian islands, Greece, Asia Minor, Turkey, Hungary, Austria, etc.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.46">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.52</unitid>
+ <container label="Journal" type="Volume">68</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 18-October 31, 1836.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.3.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.47">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.53</unitid>
+ <container label="Journal" type="Volume">69</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">November 1, 1836-May 23, 1837.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.4; begins with Vienna.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.48">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.54</unitid>
+ <container label="Journal" type="Volume">70</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 24, 1837-June 17, 1838.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.5; begins Clermont, ends London.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.49">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.55</unitid>
+ <container label="Journal" type="Volume">71</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 18, 1838-July 8, 1839.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>London to Torquay.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.50">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.56</unitid>
+ <container label="Journal" type="Volume">72</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 9, 1839-December 6, 1839.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Torquay to Hendersyde Park.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.51">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.57</unitid>
+ <container label="Journal" type="Volume">73</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">December 7, 1839-September 4, 1840.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Hendersyde Park to Buxton.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.52">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.58</unitid>
+ <container label="Journal" type="Volume">74</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 15, 1840-July 31, 1841.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Buxton to Hendersyde Park.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.53">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.59</unitid>
+ <container label="Journal" type="Volume">75</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">August 1, 1841-May 16, 1842.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Hendersyde Park to London.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.54">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.60</unitid>
+ <container label="Journal" type="Volume">76</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 16, 1842-October 7, 1842.</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>Travels, 6 weeks in Belgium, Rhenish Prussia &#x0026; Nassau, 1842. vol. ends in London.</item>
+ <item>London portion begins July 1842.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.55">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.61</unitid>
+ <container label="Journal" type="Volume">77</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">October 8, 1842-May 4, 1843.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>A winter in Paris, being nearly 7 months absence from Paris.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.56">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.62</unitid>
+ <container label="Journal" type="Volume">78</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 5, 1843-January 5, 1844.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Barnes to Hendersyde Park.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.57">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.63</unitid>
+ <container label="Journal" type="Volume">79</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 6-October 21, 1844.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.1 begins October 1, p.397. Journey to Lyons.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.58">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.64</unitid>
+ <container label="Journal" type="Volume">80</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">October 21, 1844-April 29, 1845.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.2; Switzerland, Italy, winter in Rome.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.59">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.65</unitid>
+ <container label="Journal" type="Volume">81</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 29-September 1, 1845.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Travels, vol.3.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.60">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unitid>no.66</unitid>
+ <container label="Journal" type="Volume">82</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 2, 1845-August 24, 1846.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Hendersyde Park.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.61">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.67</unitid>
+ <container label="Journal" type="Volume">83</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">August 25, 1846-July 31, 1847.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Hendersyde Park to York.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.62">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.68</unitid>
+ <container label="Journal" type="Volume">84</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">August 1, 1847-July 4, 1848.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>York to Malvern Wells.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.63">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.69</unitid>
+ <container label="Journal" type="Volume">85</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 4, 1848-June 12, 1849.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Malvern Wells to London.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.64">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.70</unitid>
+ <container label="Journal" type="Volume">86</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 13, 1849-July 3, 1850.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>London to Hendersyde Park.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.65">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.71</unitid>
+ <container label="Journal" type="Volume">87</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">July 3, 1850-June 28, 1851.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Newcastle to London.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.66">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.72</unitid>
+ <container label="Journal" type="Volume">88</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 29, 1851-September 21, 1852.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>London to Hendersyde Park.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.67">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.73</unitid>
+ <container label="Journal" type="Volume">89</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 22, 1852-September 29, 1853.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Hendersyde Park to Duddon Hall.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.68">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.74</unitid>
+ <container label="Journal" type="Volume">90</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 30, 1853-December 1, 1854.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Duddon Hall to Hendersyde Park.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.69">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.75</unitid>
+ <container label="Journal" type="Volume">91</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">December 1, 1854-February 1, 1856.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Hendersyde Park, 74 years, 9 months age-February 1, 1856. Has a 1600 volume library.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.70">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.76</unitid>
+ <container label="Journal" type="Volume">92</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 2-December 3, 1856.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Hendersyde Park to Rome.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.71">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.77</unitid>
+ <container label="Journal" type="Volume">93</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">December 4, 1856-September 15, 1857.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Rome to Hendersyde Park.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.72">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.78</unitid>
+ <container label="Journal" type="Volume">94</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 16, 1857-October 14, 1858.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Hendersyde Park.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.73">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.79</unitid>
+ <container label="Journal" type="Volume">95</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">October 15, 1858-October 19, 1859.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Hendersyde Park to Penraig Anglesey.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.74">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.80</unitid>
+ <container label="Journal" type="Volume">98</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 22, 1862- .</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>last entry, October 28.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.75">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.81</unitid>
+ <unittitle>Journal of a tour in Holland, Flanders, and France in the year <unitdate calendar="gregorian" era="ce">1802.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Including itinerary.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.76">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.82</unitid>
+ <unittitle>Journal of travels in Flanders, Holland, and France in the year <unitdate calendar="gregorian" era="ce">1815.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.77">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unitid>no.83</unitid>
+ <unittitle>Journals of travels in Flanders, Germany, Switzerland, Italy, and France in the years <unitdate calendar="gregorian" era="ce">1816 and 1817.</unitdate></unittitle>
+ <physdesc> (6 vol.)</physdesc>
+ </did>
+ <note>
+ <p>[vol.3 and 4, bound together]</p>
+ </note>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.78">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.84</unitid>
+ <unittitle>Journal of travels in France, Spain, Italy, and Germany in the years <unitdate calendar="gregorian" era="ce">1818, 1819 and 1820.</unitdate></unittitle>
+ <physdesc> (5 vol.)</physdesc>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.79">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.85</unitid>
+ <unittitle>Above, vol.2.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.80">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.86</unitid>
+ <unittitle>Above, vol.3.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.81">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.87</unitid>
+ <unittitle>Above, vol.4.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.82">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.88</unitid>
+ <unittitle>Above, vol.5.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.83">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.89</unitid>
+ <unittitle>Travels in Germany, Styria, Carniola &#x0026; Istria, Italy, Switzerland, and France in <unitdate calendar="gregorian" era="ce">1827 and 1828.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.84">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.90</unitid>
+ <unittitle>Above, vol.2, no title page.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.85">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.91</unitid>
+ <unittitle>Above, vol.3, no title page.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.86">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.92</unitid>
+ <unittitle>Above, vol.4.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.87">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.93</unitid>
+ <unittitle>Passports, <unitdate calendar="gregorian" era="ce">1827 to 1837.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.3.7.3.88">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unitid>no.94</unitid>
+ <unittitle>Journal of a four month absence from England in the <unitdate calendar="gregorian" era="ce">summer of 1815.</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>
+<list type="simple">
+<item>Including a tour in Flanders, Holland, and France and a short residence at Brussels and Paris.</item>
+ <item>[A manuscript transcription of <title linktype="simple">Waterloo Days</title> by Jane Waldie Watts]</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c02>
+ </c01>
+ </dsc>
+ <index id="index-1.8.8">
+ <head>Index of Correspondents</head>
+ <note>
+ <p>(This is an alphabetical list of correspondents in Volumes 1-7 (Boxes 1 and 2)</p>
+ </note>
+ <indexentry>
+ <name>Achenhausen, <emph render="italic">Baroness d'</emph> n&#xE9;e Acton</name>
+ <ref linktype="simple">vol.5: 34</ref>
+ </indexentry>
+ <indexentry>
+ <name>Aglionby, Henry Aglionby (1790-1854)</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.2: 54, 57, 62-3, 94</ref>
+ <ref linktype="simple">vol.3: 38</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Aldam, William</name>
+ <ref linktype="simple">vol.6: 47, 104, 106</ref>
+ </indexentry>
+ <indexentry>
+ <name>Aldam, William <emph render="italic">Jr.?</emph></name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 74, 118</ref>
+ <ref linktype="simple">vol.7: 63</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Aretin, <emph render="italic">Baroness d</emph></name>
+ <ref linktype="simple">vol.4: 84</ref>
+ </indexentry>
+ <indexentry>
+ <name>D'Aroambal, Philippe</name>
+ <ref linktype="simple">vol.4: 24</ref>
+ </indexentry>
+ <indexentry>
+ <name>Barrett, Edward</name>
+ <ref linktype="simple">vol.6: 16</ref>
+ </indexentry>
+ <indexentry>
+ <name>Baruzzi, Giustiniano</name>
+ <ref linktype="simple">vol.3: 89</ref>
+ </indexentry>
+ <indexentry>
+ <name>Bewicke, Calverley</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 89</ref>
+ <ref linktype="simple">vol.7: 38, 80, 108</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Bewicke, <emph render="italic">Mrs.</emph> Margaret</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 123</ref>
+ <ref linktype="simple">vol.7: 124</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Blackburn, Edward</name>
+ <ref linktype="simple">vol.1: 53-7, 63-4, 67</ref>
+ </indexentry>
+ <indexentry>
+ <name>Blackburn, John, <emph render="italic">M.P.</emph></name>
+ <ref linktype="simple">vol.1: 47-8, 74</ref>
+ </indexentry>
+ <indexentry>
+ <name>J.W. letter to Blackburn</name>
+ <ref linktype="simple">vol.1: 51</ref>
+ </indexentry>
+ <indexentry>
+ <name>Blackburn, John <emph render="italic">Sr.</emph></name>
+ <ref linktype="simple">vol.1: 10</ref>
+ </indexentry>
+ <indexentry>
+ <name>Blackett, Charles</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 78, 90, 93, 98-9, 107</ref>
+ <ref linktype="simple">vol.2: 15, 22, 27, 30, 58-9, 83, 92</ref>
+ <ref linktype="simple">vol.3: 62</ref>
+ <ref linktype="simple">vol.6: 57</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Braddyll, <emph render="italic">Colonel</emph></name>
+ <ref linktype="simple">vol.7: 128</ref>
+ </indexentry>
+ <indexentry>
+ <name>Brisbane, <emph render="italic">Sir</emph> Thomas (MacDougall) (1773-1860)</name>
+ <ref linktype="simple">vol.3: 67</ref>
+ </indexentry>
+ <indexentry>
+ <name>Bucceuch, <emph render="italic">Duke of</emph> see also Scott (1806-1884) (?)</name>
+ <ref linktype="simple">vol.7: 112</ref>
+ </indexentry>
+ <indexentry>
+ <name>Bulman, Arelia Elizabeth</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 34</ref>
+ <ref linktype="simple">vol.5: 43, 62, 89</ref>
+ <ref linktype="simple">vol.6: 51;</ref>
+ <ref linktype="simple">vol.7: 43, 71, 84</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Bulman, Lt. Arch'd, R.N.</name>
+ <ref linktype="simple">vol.6: 41</ref>
+ </indexentry>
+ <indexentry>
+ <name>Burdett, <emph render="italic">Miss</emph></name>
+ <ref linktype="simple">vol.6: 98</ref>
+ </indexentry>
+ <indexentry>
+ <name>Butler, <emph render="italic">Lady</emph> Eleanor (1745?-1829)</name>
+ <ref linktype="simple">vol.5: 85</ref>
+ </indexentry>
+ <indexentry>
+ <name>Butler, <emph render="italic">Sir</emph> Thomas (1783-1861)</name>
+ <ref linktype="simple">vol.4: 118</ref>
+ </indexentry>
+ <indexentry>
+ <name>Caldwell, <emph render="italic">Mrs.</emph> Ann</name>
+ <ref linktype="simple">vol.6: 6</ref>
+ </indexentry>
+ <indexentry>
+ <name>Caldwell, <emph render="italic">Capt.</emph> Charles</name>
+ <ref linktype="simple">vol.7: 62</ref>
+ </indexentry>
+ <indexentry>
+ <name>Cartwright, J.</name>
+ <ref linktype="simple">vol.5: 27</ref>
+ </indexentry>
+ <indexentry>
+ <name>Case, Caroline</name>
+ <ref linktype="simple">vol.4: 53</ref>
+ </indexentry>
+ <indexentry>
+ <name>Case, J. Ashton</name>
+ <ref linktype="simple">vol.4: 53</ref>
+ </indexentry>
+ <indexentry>
+ <name>Catalani, Guglielmo</name>
+ <ref linktype="simple">vol.2: 36</ref>
+ </indexentry>
+ <indexentry>
+ <name>Charlewood, <emph render="italic">Colonel</emph></name>
+ <ref linktype="simple">vol.7: 130</ref>
+ </indexentry>
+ <indexentry>
+ <name>Chatto, Elizabeth <emph render="italic">see also</emph> Potts, Elizabeth Chatto</name>
+ <ref linktype="simple">vol.1: 82, 89, 91</ref>
+ </indexentry>
+ <indexentry>
+ <name>Chatto, John</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 34, 85, 88</ref>
+ <ref linktype="simple">vol.3: 25, 36, 51, 53</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Chiaveri, Luigi</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 25</ref>
+ <ref linktype="simple">vol.5: 20</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Christie, Langham</name>
+ <ref linktype="simple">vol.3: 9, 40, 49, 59, 81</ref>
+ </indexentry>
+ <indexentry>
+ <name>Clark, <emph render="italic">Mrs.</emph> T.</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 35-6, 83, 94, 96, 103, 112-13</ref>
+ <ref linktype="simple">vol.2: 4, 6</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Clark, <emph render="italic">Prof.</emph> William (1788-1869)</name>
+ <ref linktype="simple">vol.2: 45</ref>
+ </indexentry>
+ <indexentry>
+ <name>Collingwood, <emph render="italic">Mrs.</emph> Newnham</name>
+ <ref linktype="simple">vol.6: 126</ref>
+ </indexentry>
+ <indexentry>
+ <name>Collins-wood, William G.</name>
+ <ref linktype="simple">vol.5: 31</ref>
+ </indexentry>
+ <indexentry>
+ <name>Conway, William Augustus (1789-1828)</name>
+ <ref linktype="simple">vol.2: 8, 11, 14, 17, 56, 72</ref>
+ </indexentry>
+ <indexentry>
+ <name>Cookburn, William</name>
+ <ref linktype="simple">vol.6: 83</ref>
+ </indexentry>
+ <indexentry>
+ <name>Cookson, Elizabeth</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 6, 11, 15, 28, 35, 55, 78, 80, 84, 92, 96</ref>
+ <ref linktype="simple">vol.4: 1, 8, 36, 40, 42, 49, 55, 61, 66, 84, 97, 107, 114</ref>
+ <ref linktype="simple">vol.5: 4, 22, 38, 63, 69, 82</ref>
+ <ref linktype="simple">vol.6: 7, 13, 34, 65, 72, 78, 91, 116, 137</ref>
+ <ref linktype="simple">vol.7: 15, 34, 76, 99, 103</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Cookson, Isaac J. (1776-1851)</name>
+ <ref linktype="simple">vol.7: 64</ref>
+ </indexentry>
+ <indexentry>
+ <name>Coventry, Nancy</name>
+ <ref linktype="simple">vol.4: 110</ref>
+ </indexentry>
+ <indexentry>
+ <name>Cuthbert, Robert</name>
+ <ref linktype="simple">vol.5: 32, 49</ref>
+ </indexentry>
+ <indexentry>
+ <name>Cuthbert, William</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 15, 86, 89, 96, 104-05</ref>
+ <ref linktype="simple">vol.5: 3, 7, 14, 19</ref>
+ <ref linktype="simple">vol.6: 2</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Cuthbert, William <emph render="italic">Jr.</emph></name>
+ <ref linktype="simple">vol.4: 15, 60, 70, 75, 96, 98</ref>
+ </indexentry>
+ <indexentry>
+ <name>Darwin, <emph render="italic">Dr.</emph> Erasmus (1731-1802)</name>
+ <ref linktype="simple">vol.1: 38</ref>
+ </indexentry>
+ <indexentry>
+ <name>Davevae, T.</name>
+ <ref linktype="simple">vol.4: 23, 26</ref>
+ </indexentry>
+ <indexentry>
+ <name>Denman, Benjamin William</name>
+ <ref linktype="simple">vol.3: 10, 48</ref>
+ </indexentry>
+ <indexentry>
+ <name>Dickson, <emph render="italic">Mrs.</emph> Jane</name>
+ <ref linktype="simple">vol.7: 10, 18, 78, 95</ref>
+ </indexentry>
+ <indexentry>
+ <name>Dickson, <emph render="italic">Sir</emph> William</name>
+ <ref linktype="simple">vol.6: 59</ref>
+ </indexentry>
+ <indexentry>
+ <name>Donkin, <emph render="italic">Lady</emph> Anna Maria</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 22, 139</ref>
+ <ref linktype="simple">vol.7: 123</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Douglas, George</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 68, 97</ref>
+ <ref linktype="simple">vol.2: 68-9, 71, 87</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Drake, <emph render="italic">Lady</emph></name>
+ <ref linktype="simple">vol.2: 24</ref>
+ </indexentry>
+ <indexentry>
+ <name>Dunbar, <emph render="italic">Sir</emph> William R.</name>
+ <ref linktype="simple">vol.1: 84</ref>
+ </indexentry>
+ <indexentry>
+ <name>Dundras, <emph render="italic">Miss</emph></name>
+ <ptrgrp>
+ <ref linktype="simple">vol.5: 45</ref>
+ <ref linktype="simple">vol.6: 90, 96</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Dundras, Isabella</name>
+ <ref linktype="simple">vol.7: 45</ref>
+ </indexentry>
+ <indexentry>
+ <name>Earle, Charles</name>
+ <ref linktype="simple">vol.4: 83, 87</ref>
+ </indexentry>
+ <indexentry>
+ <name>Earle, W. [of Everton]</name>
+ <ref linktype="simple">vol.5: 23</ref>
+ </indexentry>
+ <indexentry>
+ <name>Earle, William</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 94</ref>
+ <ref linktype="simple">vol.4: 12, 47, 56, 72</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Earle - <emph render="italic">see also</emph> Everton</name>
+ </indexentry>
+ <indexentry>
+ <name>Eaton, Charles Ormston</name>
+ <ref linktype="simple">vol.6: 141</ref>
+ </indexentry>
+ <indexentry>
+ <name>Eaton, Charlotte Ann Waldie <emph render="italic">see also</emph> Waldie, Charlotte Ann</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 74-5</ref>
+ <ref linktype="simple">vol.5: 40, 47, 52, 74, 81</ref>
+ <ref linktype="simple">vol.6: 3, 29, 38, 46, 54, 85, 112</ref>
+ <ref linktype="simple">vol.7: 1, 28, 105, 116, 124</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Eaton, John R. (Dicky)</name>
+ <ref linktype="simple">vol.7: 121</ref>
+ </indexentry>
+ <indexentry>
+ <name>Egremont, Sara</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 58</ref>
+ <ref linktype="simple">vol.5: 91</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Elliot, Elizabeth</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 58</ref>
+ <ref linktype="simple">vol.5: 91</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Elliot, Admiral George</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 9</ref>
+ <ref linktype="simple">vol.5: 1</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Elliot, John</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 23</ref>
+ <ref linktype="simple">vol.7: 47</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Elliot - <emph render="italic">see also</emph> under Minto</name>
+ </indexentry>
+ <indexentry>
+ <name>Ellison, N[athanial]?</name>
+ <ref linktype="simple">vol.2: 46, 60-1</ref>
+ </indexentry>
+ <indexentry>
+ <name>Ende, <emph render="italic">Baron d'avon</emph> of Prussia</name>
+ <ref linktype="simple">vol.4: 26, 37</ref>
+ </indexentry>
+ <indexentry>
+ <name>Everton, William Earle</name>
+ <ref linktype="simple">vol.5: 86</ref>
+ </indexentry>
+ <indexentry>
+ <name><emph render="italic">see also</emph> Earle, William of Everton</name>
+ </indexentry>
+ <indexentry>
+ <name>Farren, Mary</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 101</ref>
+ <ref linktype="simple">vol.2: 74</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Farren, Percival</name>
+ <ref linktype="simple">vol.1: 105</ref>
+ </indexentry>
+ <indexentry>
+ <name>Forbes, <emph render="italic">Capt.</emph> James</name>
+ <ref linktype="simple">vol.3: 46, 52</ref>
+ </indexentry>
+ <indexentry>
+ <name>Fraisenet, <emph render="italic">Mr.</emph> A.</name>
+ <ref linktype="simple">vol.4: 18</ref>
+ </indexentry>
+ <indexentry>
+ <name>Grey, <emph render="italic">Earl</emph></name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 61</ref>
+ <ref linktype="simple">vol.7: 69, 97</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Griffith, Elizabeth Charlotte</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.5: 65</ref>
+ <ref linktype="simple">vol.6: 100?</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Griffith, Richard</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 81, 86, 92, 104</ref>
+ <ref linktype="simple">vol.2: 26, 73</ref>
+ <ref linktype="simple">vol.5: 71</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Griffith, Trygarn</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 28, 57, 64, 76, 92</ref>
+ <ref linktype="simple">vol.7: 15, 60, 102, 123</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Hart, <emph render="italic">Miss</emph> S.C.</name>
+ <ref linktype="simple">vol.1: 102</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hassels, <emph render="italic">Mr.</emph> C.S.</name>
+ <ref linktype="simple">vol.5: 60</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hassells, Sophia</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 95</ref>
+ <ref linktype="simple">vol.4: 6, 10, 19, 28, 41, 54, 94, 100, 121</ref>
+ <ref linktype="simple">vol.5: 28, 44, 55, 66, 79, 88</ref>
+ <ref linktype="simple">vol.6: 15, 37, 75, 101, 110, 125, 139</ref>
+ <ref linktype="simple">vol.7: 6, 52, 101, 127</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Hawke, <emph render="italic">Mrs.</emph></name>
+ <ref linktype="simple">vol.6: 45</ref>
+ </indexentry>
+ <indexentry>
+ <name>Headley, <emph render="italic">Lady</emph> Ann</name>
+ <ref linktype="simple">vol.7: 32</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hervey, <emph render="italic">Colonel</emph></name>
+ <ref linktype="simple">vol.4: 48</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hewitson, Henry</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 39, 41, 56, 63, 71-3</ref>
+ <ref linktype="simple">vol.5: 68</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Hinde, <emph render="italic">Mrs.</emph> H.</name>
+ <ref linktype="simple">vol.6: 32, 140</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hinde, Isabella H</name>
+ <ref linktype="simple">vol.7: 25</ref>
+ </indexentry>
+ <indexentry>
+ <name>Hinde-Hodgson, John <emph render="italic">see also</emph> Hodgson, John</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 109</ref>
+ <ref linktype="simple">vol.7: 31, 90, 100?</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Hingant, <emph render="italic">Mr.</emph></name>
+ <ref linktype="simple">vol.1: 16</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lamb, Warren</name>
+ <ref linktype="simple">vol.1: 9</ref>
+ </indexentry>
+ <indexentry>
+ <name>Langhorne, Thomas</name>
+ <ref linktype="simple">vol.1: 12, 19, 20</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lauder, <emph render="italic">Sir</emph> Thomas Dick (1784-1848)</name>
+ <ref linktype="simple">vol.3: 61</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lewis, James (1786-1853) (?)</name>
+ <ref linktype="simple">vol.1: 31, 37</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lluellyn, R.</name>
+ <ref linktype="simple">vol.2: 20, 23, 25, 31, 33, 35, 37-9, 43, 49, 52, 55, 67, 70, 75-8, 81</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lowe, <emph render="italic">Mrs.</emph></name>
+ <ref linktype="simple">vol.6: 102</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lundie, Jane</name>
+ <ref linktype="simple">vol.4: 71</ref>
+ </indexentry>
+ <indexentry>
+ <name>Lundie, <emph render="italic">Rev.</emph> Robert</name>
+ <ref linktype="simple">vol.2: 29</ref>
+ </indexentry>
+ <indexentry>
+ <name>MacDonald, <emph render="italic">Capt.</emph> G.G. <emph render="italic">RN</emph></name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 109</ref>
+ <ref linktype="simple">vol.7: 12, 42, 51</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Mathews, <emph render="italic">Mr.</emph> C.</name>
+ <ref linktype="simple">vol.3: 12, 19</ref>
+ </indexentry>
+ <indexentry>
+ <name>Maude, <emph render="italic">Rev.</emph> John B.</name>
+ <ref linktype="simple">vol.3: 91</ref>
+ </indexentry>
+ <indexentry>
+ <name>Maude, <emph render="italic">Mrs.</emph> R.</name>
+ <ref linktype="simple">vol.4: 80</ref>
+ </indexentry>
+ <indexentry>
+ <name>Maude, T.M.</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 37, 87</ref>
+ <ref linktype="simple">vol.4: 69</ref>
+ <ref linktype="simple">vol.5: 84</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Maude, William</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 57</ref>
+ <ref linktype="simple">vol.6: 14</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Melgund, <emph render="italic">Lord</emph></name>
+ <ref linktype="simple">vol.6: 49, 63</ref>
+ </indexentry>
+ <indexentry>
+ <name>Mengden, <emph render="italic">Countess</emph></name>
+ <ref linktype="simple">vol.6: 115</ref>
+ </indexentry>
+ <indexentry>
+ <name>Minto - <emph render="italic">see also</emph> Elliott</name>
+ </indexentry>
+ <indexentry>
+ <name>Minto, <emph render="italic">Lady</emph></name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 73; V: 87</ref>
+ <ref linktype="simple">vol.5: 87</ref>
+ <ref linktype="simple">vol.7: 25, 40, 56, 89, 98, 113</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Minto, <emph render="italic">Lord</emph></name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 24</ref>
+ <ref linktype="simple">vol.4: 13, 68, 108, 120</ref>
+ <ref linktype="simple">vol.6: 21, 63, 99</ref>
+ <ref linktype="simple">vol.7: 125</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Minton, <emph render="italic">Earl of</emph></name>
+ <ref linktype="simple">vol.5: 45</ref>
+ </indexentry>
+ <indexentry>
+ <name>Monck, <emph render="italic">Sir</emph> Charles (1779-1867)</name>
+ <ref linktype="simple">vol.1: 115</ref>
+ </indexentry>
+ <indexentry>
+ <name>Okell, <emph render="italic">Miss</emph> Elizabeth</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 40</ref>
+ <ref linktype="simple">vol.7: 91</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Ormonde, <emph render="italic">Lady</emph></name>
+ <ref linktype="simple">vol.5: 30</ref>
+ </indexentry>
+ <indexentry>
+ <name>Ormston, Barbara</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 6, 13, 15, 27, 39, 72-3</ref>
+ <ref linktype="simple">vol.2: 12, 48, 82</ref>
+ <ref linktype="simple">vol.3: 21, 27</ref>
+ <ref linktype="simple">vol.4: 11, 44, 50, 76, 90, 93, 112</ref>
+ <ref linktype="simple">vol.5: 16, 24, 44, 53, 67</ref>
+ <ref linktype="simple">vol.6: 10, 27, 66, 71, 82, 93, 95, 108, 122, 132, 136</ref>
+ <ref linktype="simple">vol.7: 37, 41, 48, 55, 70, 79, 106, 114,</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Ormston, M.A.</name>
+ <ref linktype="simple">vol.5: 75</ref>
+ </indexentry>
+ <indexentry>
+ <name>Ormston MaryAnn(?)</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 3, 7, 8</ref>
+ <ref linktype="simple">vol.6: 84</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Ormston, Robert</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.5: 75</ref>
+ <ref linktype="simple">vol.6: 131</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Palm, <emph render="italic">Baron</emph> (W&#xFC;rttemberg)</name>
+ <ref linktype="simple">vol.4: 27</ref>
+ </indexentry>
+ <indexentry>
+ <name>Pantaleo, <emph render="italic">Baron</emph> Francesco</name>
+ <ref linktype="simple">vol.5: 12, 15, 18, 25, 42, 59</ref>
+ </indexentry>
+ <indexentry>
+ <name>Peltrani, <emph render="italic">Count</emph> Francesco</name>
+ <ref linktype="simple">vol.5: 64</ref>
+ </indexentry>
+ <indexentry>
+ <name>Plunkett, Barnewell</name>
+ <ref linktype="simple">vol.1: 60</ref>
+ </indexentry>
+ <indexentry>
+ <name>Poliganno, <emph render="italic">Duke de</emph></name>
+ <ref linktype="simple">vol.4: 16</ref>
+ </indexentry>
+ <indexentry>
+ <name>Politi, C</name>
+ <ref linktype="simple">vol.4: 20, 37</ref>
+ </indexentry>
+ <indexentry>
+ <name>Polworth, <emph render="italic">Lady</emph> Harriet</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.5: 33</ref>
+ <ref linktype="simple">vol.6: 1, 44, 60, 77</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Potts, Elizabeth Chatto <emph render="italic">see also</emph> Chatto, Elizabeth</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 17, 34</ref>
+ <ref linktype="simple">vol.5: 6, 10, 13, 46</ref>
+ <ref linktype="simple">vol.3: 93</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Potts, Thomas (1778-1842)</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 18</ref>
+ <ref linktype="simple">vol.4: 34</ref>
+ <ref linktype="simple">vol.5: 78</ref>
+ <ref linktype="simple">vol.7: 59, 72, 81</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Prendergart, Thomas</name>
+ <ref linktype="simple">vol.7: 128</ref>
+ </indexentry>
+ <indexentry>
+ <name>Pringle, Alexander (1791-1857)</name>
+ <ref linktype="simple">vol.4: 59</ref>
+ </indexentry>
+ <indexentry>
+ <name>Pringle, <emph render="italic">Lady</emph> Elizabeth</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 119</ref>
+ <ref linktype="simple">vol.5: 93</ref>
+ <ref linktype="simple">vol.6: 39, 41</ref>
+ <ref linktype="simple">vol.7: 122</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Pringle, <emph render="italic">Sir</emph> John (1784-1869)</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.2: 65</ref>
+ <ref linktype="simple">vol.3: 8</ref>
+ <ref linktype="simple">vol.4: 31, 52, 65, 119</ref>
+ <ref linktype="simple">vol.5: 17</ref>
+ <ref linktype="simple">vol.6: 35-6, 55, 140</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Pringle, Robert</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 117</ref>
+ <ref linktype="simple">vol.7: 44, 51</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Pringle, William</name>
+ <ref linktype="simple">vol.3: 3, 29</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rawlinson, Catherine Waldie</name>
+ <ref linktype="simple">vol.1: 46</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rawlinson, John</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 78, 102</ref>
+ <ref linktype="simple">vol.5: 73</ref>
+ <ref linktype="simple">vol.7: 74</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Rawlinson, <emph render="italic">Mrs.</emph></name>
+ <ref linktype="simple">vol.7: 120</ref>
+ </indexentry>
+ <indexentry>
+ <name>Richardson, <emph render="italic">Mrs.</emph> C.E.</name>
+ <ref linktype="simple">vol.5: 35</ref>
+ </indexentry>
+ <indexentry>
+ <name>Robertson, <emph render="italic">Mrs.</emph> M.J.</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.5: 50-1</ref>
+ <ref linktype="simple">vol.6: 52, 94</ref>
+ <ref linktype="simple">vol.7: 49, 82</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Robson, James (1733-1806?)</name>
+ <ref linktype="simple">vol.2: 1</ref>
+ </indexentry>
+ <indexentry>
+ <name>Robson, <emph render="italic">Dr.</emph> W.</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 16</ref>
+ <ref linktype="simple">vol.5: 8, 56, 77</ref>
+ <ref linktype="simple">vol.7: 65, 126</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Robyns, <emph render="italic">Miss</emph> Anne</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 100, 106, 109, 116</ref>
+ <ref linktype="simple">vol.6: 28, 40, 44, 64, 88, 91, 93</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Roxburghe, Harriet, <emph render="italic">Duchess of</emph></name>
+ <ptrgrp>
+ <ref linktype="simple">vol.5: 11, 37</ref>
+ <ref linktype="simple">vol.7: 86, 119, 129</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Russell, <emph render="italic">Miss, Countess of Mulgrave</emph></name>
+ <ref linktype="simple">vol.7: 24</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rutherford, <emph render="italic">Mrs.</emph> A.O.</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 51</ref>
+ <ref linktype="simple">vol.6: 31, 48, 53, 73, 80, 97, 114, 121, 128, 134, 144</ref>
+ <ref linktype="simple">vol.7: 5, 54, 66, 72, 87</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Rutherford, <emph render="italic">Mrs.</emph> M.A.</name>
+ <ref linktype="simple">vol.1: 95</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rutherford, Nancy</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 33, 57, 82</ref>
+ <ref linktype="simple">vol.4: 38, 92</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Rutherford, W.O.</name>
+ <ref linktype="simple">vol.7: 118</ref>
+ </indexentry>
+ <indexentry>
+ <name>Rutherford, William Oliver (1798-1871)</name>
+ <ref linktype="simple">vol.3: 22</ref>
+ </indexentry>
+ <indexentry>
+ <name>Saint Clair - <emph render="italic">see also</emph> Sinclair</name>
+ </indexentry>
+ <indexentry>
+ <name>Saint Clair, Charles</name>
+ <ref linktype="simple">vol.7: 46</ref>
+ </indexentry>
+ <indexentry>
+ <name>Saint Clair, James</name>
+ <ref linktype="simple">vol.6: 24</ref>
+ </indexentry>
+ <indexentry>
+ <name>Scott, Harriet, Lady Polworth</name>
+ <ref linktype="simple">vol.3: 14</ref>
+ </indexentry>
+ <indexentry>
+ <name>Scott, <emph render="italic">Lord</emph> John</name>
+ <ref linktype="simple">vol.6: 19</ref>
+ </indexentry>
+ <indexentry>
+ <name>Sererino, <emph render="italic">Prince</emph> Santa</name>
+ <ref linktype="simple">vol.4: 27</ref>
+ </indexentry>
+ <indexentry>
+ <name>Sforza, <emph render="italic">Cardinal</emph> Riario</name>
+ <ref linktype="simple">vol.4: 2</ref>
+ </indexentry>
+ <indexentry>
+ <name>Sinclair, <emph render="italic">Sir</emph> John</name>
+ <ref linktype="simple">vol.3: 30, 68, 76</ref>
+ </indexentry>
+ <indexentry>
+ <name>Sinclair, <emph render="italic">Lady</emph></name>
+ <ptrgrp>
+ <ref linktype="simple">vol.3: 1, 79, 93</ref>
+ <ref linktype="simple">vol.4: 17, 22, 33, 35, 45, 58, 63, 77, 82, 111, 117</ref>
+ <ref linktype="simple">vol.5: 5, 21, 36, 48, 54, 70, 93</ref>
+ <ref linktype="simple">vol.6: 12, 39, 50, 81, 92, 98, 102, 111, 124, 134, 138</ref>
+ <ref linktype="simple">vol.7: 16, 21, 29, 32, 47, 53, 60, 85, 96, 107, 110</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Sinclair, <emph render="italic">Lady</emph> Camilla</name>
+ <ref linktype="simple">vol.7: 115</ref>
+ </indexentry>
+ <indexentry>
+ <name>Sinclair, <emph render="italic">Lord</emph></name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 43</ref>
+ <ref linktype="simple">vol.5: 58, 72, 94</ref>
+ <ref linktype="simple">vol.6: 9, 23</ref>
+ <ref linktype="simple">vol.7: 43</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Smail, <emph render="italic">Capt.</emph> J.</name>
+ <ref linktype="simple">vol.7: 35, 50</ref>
+ </indexentry>
+ <indexentry>
+ <name>Smith, <emph render="italic">Lt.</emph> Bedford</name>
+ <ref linktype="simple">vol.2: 51, 53</ref>
+ </indexentry>
+ <indexentry>
+ <name>Smith, Elizabeth Charlotte Griffith Bramston</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.6: 100</ref>
+ <ref linktype="simple">vol.7: 4, 8, 36, 58-9, 67, 73, 77, 85, 94, 103</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Smith, Giacomo</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.5: 83, 95</ref>
+ <ref linktype="simple">vol.6: 20</ref>
+ <ref linktype="simple">vol.7: 22, 109</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Smith, Robert</name>
+ <ref linktype="simple">vol.6: 51</ref>
+ </indexentry>
+ <indexentry>
+ <name>Starke, <emph render="italic">Mrs.</emph> M.</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 38</ref>
+ <ref linktype="simple">vol.5: 90</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Stelling, <emph render="italic">Mrs.</emph> Hodgson</name>
+ <ref linktype="simple">vol.6: 138</ref>
+ </indexentry>
+ <indexentry>
+ <name>Stevenson, <emph render="italic">Mr.</emph></name>
+ <ref linktype="simple">vol.6: 42</ref>
+ </indexentry>
+ <indexentry>
+ <name>Stewart, <emph render="italic">Mrs.</emph> Mary E. (?)</name>
+ <ref linktype="simple">vol.7: 129</ref>
+ </indexentry>
+ <indexentry>
+ <name>Talbot de Malahide, <emph render="italic">Lady</emph></name>
+ <ref linktype="simple">vol.7: 27, 30</ref>
+ </indexentry>
+ <indexentry>
+ <name>Trevelyan, Julia</name>
+ <ref linktype="simple">vol.1: 108</ref>
+ </indexentry>
+ <indexentry>
+ <name>Turner, <emph render="italic">Rev.</emph> William</name>
+ <ref linktype="simple">vol.7: 110</ref>
+ </indexentry>
+ <indexentry>
+ <name>Vane, <emph render="italic">Sir</emph> Henry T.</name>
+ <ref linktype="simple">vol.1: 76</ref>
+ </indexentry>
+ <indexentry>
+ <name>Vyvyan, <emph render="italic">Sir</emph> Vyell</name>
+ <ref linktype="simple">vol.2: 9</ref>
+ </indexentry>
+ <indexentry>
+ <name>Waldie, Ann</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 1, 2, 4, 11, 17, 22, 23, 26, 28-30, 32, 41, 50, 52, 62, 75, 117-8</ref>
+ <ref linktype="simple">vol.3: 54</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Waldie, Charlotte Ann <emph render="italic">see also</emph> Eaton, Charlotte Ann Waldie (1788-1859)</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 70, 79, 85, 87</ref>
+ <ref linktype="simple">vol.2: 5, 7, 13, 16, 21, 32, 34</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Waldie, George</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 22, 23, 26, 28-30, 41, 42, 44-5, 53, 62, 75, 117-8</ref>
+ <ref linktype="simple">vol.2: 19</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Waldie, Jane Ormston <emph render="italic">see also</emph> Watts, Jane O. Waldie (1793-1826)</name>
+ <ref linktype="simple">vol.1: 5</ref>
+ </indexentry>
+ <indexentry>
+ <name>Waldie, John</name>
+ <ref linktype="simple">vol.3: 86</ref>
+ </indexentry>
+ <indexentry>
+ <name>Waldie, Maria Jane Griffith</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 25, 33, 40, 43, 49, 117-8</ref>
+ <ref linktype="simple">vol.2: 18-19, 41, 90</ref>
+ <ref linktype="simple">vol.3: 65</ref>
+ <ref linktype="simple">vol.5: 9, 26, 41, 57, 61, 65</ref>
+ <ref linktype="simple">vol.6: 11</ref>
+ <ref linktype="simple">vol.7: 20, 33, 56, 58, 75, 88, 104</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Waldie, William Jonathan</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.1: 71</ref>
+ <ref linktype="simple">vol.2: 3</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Walker, Henry,</name>
+ <ref linktype="simple">vol.3: 85, 88</ref>
+ </indexentry>
+ <indexentry>
+ <name>Walker, <emph render="italic">Mrs.</emph> Joe</name>
+ <ref linktype="simple">vol.7: 84</ref>
+ </indexentry>
+ <indexentry>
+ <name>Walton, Lewis</name>
+ <ref linktype="simple">vol.1: 21</ref>
+ </indexentry>
+ <indexentry>
+ <name>Watson, John Selby (?) (1804-1884)</name>
+ <ref linktype="simple">vol.3: 60, 66, 69</ref>
+ </indexentry>
+ <indexentry>
+ <name>Watts, <emph render="italic">Capt.</emph> George Edward (1785-1860)</name>
+ <ref linktype="simple">vol.3: 50, 113</ref>
+ </indexentry>
+ <indexentry>
+ <name>Watts, Jane Waldie <emph render="italic">see also</emph> Waldie, Jane O</name>
+ <ref linktype="simple">vol.3: 2, 4-5, 7, 13, 20, 26, 43-4</ref>
+ </indexentry>
+ <indexentry>
+ <name>Watts, William</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 106</ref>
+ <ref linktype="simple">vol.5: 2</ref>
+ <ref linktype="simple">vol.6: 103</ref>
+ <ref linktype="simple">vol.7: 39</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Wichelo, <emph render="italic">Lt.</emph> M. dragooms</name>
+ <ref linktype="simple">vol.1: 24</ref>
+ </indexentry>
+ <indexentry>
+ <name>Woodburn, William Paul</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.4: 39, 88</ref>
+ <ref linktype="simple">vol.7: 76, 83, 97</ref>
+ </ptrgrp>
+ </indexentry>
+ <indexentry>
+ <name>Wylde, <emph render="italic">Colonel</emph></name>
+ <ref linktype="simple">vol.7: 46</ref>
+ </indexentry>
+ <indexentry>
+ <name>Yates, <emph render="italic">Miss</emph> M.</name>
+ <ptrgrp>
+ <ref linktype="simple">vol.2: 47, 79, 86, 89</ref>
+ <ref linktype="simple">vol.3: 70</ref>
+ <ref linktype="simple">vol.6: 21</ref>
+ </ptrgrp>
+ </indexentry>
+ </index>
+ </archdesc>
+</ead>
