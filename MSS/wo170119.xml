@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier=" http://www.oac.cdlib.org/findaid/ark:/13030/kt1j49r2s5">PUBLIC "-//University of California, Los Angeles::Library Special Collections//TEXT(US::CLU-SC::170/119::Edward Worrell A journal of a campaign through the south western and western prairies in the months of May and June, 1833)//EN" "wo170119.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for Edward Worrell : A journal of a campaign through the south western and western prairies in the months of May and June 1833</titleproper>
+<titleproper type="filing">Worrell (Edward) A journal of a campaign through the south western and western prairies in the months of May and June, 1833</titleproper>
+<author>Cataloged  by Jonathan Naito with assistance from Jain Fletcher; finding aid with assistance from Laurel McPhee, September 2004; machine-readable finding aid created by Caroline Cub&#x00E9;.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>UCLA Library Special Collections staff</addressline>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2009</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce"> 2004-2007;</date> frontmatter gathered MARC Record. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.</creation>
+<langusage>Description is in <language langcode="eng" 
+scriptcode="Latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Edward Worrell <title>A journal of a campaign through the south western and western prairies in the months of May and June 1833</title></unittitle>
+<unitdate type="inclusive" normal="1833">1833</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">170/119</unitid>
+<origination label="Creator">
+<persname rules="aacr2">Worrell, Edward, ? -1877</persname></origination>
+<physdesc label="Extent">
+<extent>68 leaves : paper ; 250 x 205 mm.</extent>
+</physdesc>
+<abstract label="Abstract">Two copies (one full, one partial) of a daily journal kept by U.S. Army surgeon Edward Worrell. The journal is noteworthy for its insights into the day-to-day life of a solider in the American West, as well as the attitudes of such soldiers on Native American culture.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Purchase, Zeitlin Books, ca. 1930s</p>
+</acqinfo>
+<processinfo>
+<head>Processing Note</head>
+<p>Cataloged  by Jonathan Naito with assistance from Jain Fletcher; finding aid with assistance from Laurel McPhee, September 2004, in the Center For Primary Research and Training (CFPRT).</p>
+</processinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Edward Worrell : A journal of a campaign through the south western and western prairies in the months of May and June, 1833 (Collection 170/119). UCLA Library Special Collections, Charles E. Young Research Library.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4230403">4230403</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography</head>
+<p>Edward Worrell was born in Delaware; he left civilian life to serve as an assistant surgeon at Fort Gibson, a post he held from 1832-1833. He was honorably discharged in 1842 and died in 1877.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>This bound manuscript includes the full text of a daily journal kept by Edward Worrell, an assistant surgeon who was part of an 1833 U.S. Army expedition to confront and contain the Pawnees in present day Oklahoma, and what appears to be a partial second draft of the same journal. Located in the Three Forks Region of present day Oklahoma (then Arkansas), Fort Gibson was actively engaged in attempts to diplomatically and forcibly convince local tribes and those relocated from the East to recognize the sovereignty of the United States government. The 1833 expedition led by Lieutenant Colonel James Many was the second such expedition to originate from Fort Gibson, and like the 1832 campaign, ended in failure. The detachment consisting of two select companies of the Seventh Infantry and three companies of Rangers traveled 513 miles in 55 days, however, the soldiers were slowed by their heavy equipment, lack of sufficient provisions, disease, and extreme weather conditions. On June 30, 1833 they returned to Fort Gibson having had only indirect interactions with members of the Pawnee tribe. Throughout his journal, Worrell comments on the day-to-day life of a member of the U.S. Army and the beauty of the prairie, while also recording events of potential military importance. It seems as if he later attempted to produce a version of his journal for public or private circulation; the partial second draft is divided into chapters with brief summaries at the head of each chapter.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
+</controlaccess>
+</controlaccess>
+<relatedmaterial encodinganalog="544">
+<head>Related Material</head>
+<p>A copy of this manuscript is in the Negative Microfilm Collection, no. 02493.</p>
+<p>
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt538nb916" actuate="onrequest" show="new">Bound Manuscripts Collection (Collection 170)
+</extref>. Available at UCLA Library Special Collections, Charles E. Young Research Library.</p>
+</relatedmaterial>
+<dsc type="in-depth">
+<head>Container List</head>
+<note>
+<p>Layout: Average of 25 lines of writing per page.</p>
+<p>Script: Cursive.</p>
+<p>Binding: Paper boards.</p>
+</note>
+<c01 level="item"><did>
+<unittitle>ff. 1r-1v: introduction</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 1v: list of officers associated with the campaign</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 2r-52r: journal of the campaign arranged in daily entries </unittitle>
+<unitdate>May 6-June 30,
+1833</unitdate>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 53r: blank</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 54r-68r: partial draft of the journal; divided into chapters with summary descriptions at the head of each chapter </unittitle>
+<unitdate>May 6-May 15, 1833</unitdate>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>
