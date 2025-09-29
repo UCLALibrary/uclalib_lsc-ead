@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier=" http://www.oac.cdlib.org/findaid/ark:/13030/kt2779r3jc">PUBLIC "-//University of California, Los Angeles::Library Special Collections//TEXT(US::CLU-SC::170/103::Villa (Simeon A.) Flight and wanderings of Emilio Aguinaldo: from his abandonment of Bayambong until his capture in Palahan)//EN" "vi170103.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Villa (Simeon A.) Flight and wanderings of Emilio Aguinaldo: from his abandonment of Bayambong until his capture in Palahan, 1899-1901</titleproper>
+<titleproper type="filing">Villa (Simeon A.) Flight and wanderings of Emilio Aguinaldo</titleproper>
+<author>Cataloged by Jonathan Naito, with assistance from Jain Fletcher and Laurel McPhee, August 2004; machine-readable finding aid created by Caroline Cub&#x00E9;.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>UCLA Library Special Collections staff</addressline>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2009</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce"> 2004-2007;</date> frontmatter gathered MARC Record. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.</creation>
+<langusage>Description is in <language langcode="eng" 
+scriptcode="Latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Villa (Simeon A.) <title>Flight and wanderings of Emilio Aguinaldo: from his abandonment of Bayambong until his capture in Palahan</title></unittitle>
+<unitdate type="inclusive" normal="1899/1901">1899-1901 </unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">170/103</unitid>
+<origination label="Creator">
+<persname rules="aacr2">Villa, Simeon A., 18??-1945</persname></origination>
+<physdesc label="Extent">
+<extent>129 leaves : paper ; 200 x 303 mm. bound to 201 x 335 mm.</extent>
+</physdesc>
+<abstract label="Abstract">Typewritten English translation of Colonel Simeon A. Villa's diary, which records the flight of the Philippine revolutionary leader Emilio Aguinaldo from American forces from 1899 to 1901. While most of the diary consists of observations on the hardships experienced by the party, attention is also given to Igorot culture, interactions between various Philippine ethnic groups, and American and Philippine politics.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<processinfo>
+<head>Processing Note</head>
+<p>Cataloged by Jonathan Naito, with assistance from Jain Fletcher and Laurel McPhee, August 2004,in the Center For Primary Research and Training (CFPRT).</p>
+</processinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Villa (Simeon A.) <title>Flight and wanderings of Emilio Aguinaldo: from his abandonment of Bayambong until his capture in Palahan</title> (Collection 170/103). UCLA Library Special Collections, Charles E. Young Research Library.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4230403">4230403</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography</head>
+<p>Simeon A. Villa was born in Beata, Pandacan. He studied medicine at the University of Santo Tomas in the Philippines and ophthalmology in Japan before becoming involved in revolutionary activities. He served under General Daniel Tirona in 1898, and was accused of committing atrocities against the Spaniards, accusations he did little to deny. During the next year, he was on the personal staff of Lieutenant-General Antonio Luna. During Aguinaldo's flight from U.S. forces, Villa was part of the revolutionary leader's inner circle. After the capture of Aguinaldo, Villa fled to Japan to avoid imprisonment; he returned to the Philippines in 1902. Villa died in 1945. [Source: Aguinaldo's Odyssey; as told in the diaries of Col. Simeon Villa and Dr. Santiago Barcelona Manila: Publications of the Bureau of Public Libraries, 1963.]</p>
+<p>Emilio Aguinaldo was born in Kawit, Cavite in 1869. He first came to national prominence by playing a central role in the 1896 Philippine uprising against Spain. After a short exile to Hong Kong in 1897, Aguinaldo returned to the Philippines, leading a Philippine insurrection that worked in concert with American forces during the Spanish-American War. During this time, he established the first Philippine Republic with its capital at Malolos and was elected president. At the conclusion of the Spanish-American War, Aguinaldo led a rebellion against the American occupying forces. The American pursuit in response to these actions is the cause of the flight described in Villa's diary. After his capture in 1901, Aguinaldo signed an oath of allegiance to the United States and served a short prison term. Aguinaldo died in 1964. (Source: Artemio R. Guillermo and May Kyi Win. <title>Historical Dictionary of the Philippines</title>. Lanham, MD: Scarecrow Press, 1997).</p>
+<p>Nothing is known about the translator of the diary, identified only as J.C.H.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>This typewritten manuscript is a carbon copy of an English translation of the diary of Simeon A. Villa, one of the men who accompanied the Philippine revolutionary leader Emilio Aguinaldo as he attempted to flee from American soldiers in 1899-1901. Aguinaldo and his allies find themselves on the move almost constantly, as they travel from the western coast to the eastern coast of Northern Luzon. Much of the diary focuses on the climate, the topography, the lack of food, and rumors about American forces or hostile natives; however, Villa also discusses the dynamics of the Philippine Revolutionary Government and Igorot culture, with particular attention to the ka&#x00F1;ao. It also includes a short biography of Aguinaldo and many references to Villa, Tanio, and other key figures in the revolutionary movement. The diary includes a discussion of the Philippine understanding of American politics, especially as they concern President McKinley. The translator, "J.C.H." has added a number of explanatory notes that seem directed to those unfamiliar with the history and culture of the Philippines, as well as commentary on the original manuscript. The diary ends on March 22, 1901, the day before Aguinaldo, Villa, and the rest of their party were captured by American forces in Palanan.</p>
+<p>A certificate has been bound with the typescript. This document, written in both Tagalog and Spanish, appears to be an official document produced by the Revolutionary Government of the Philippines (Gobierno Revolucionario de Filipinas) that confers upon Mr. Canuto Aritao the rank of First Lieutenant of the Infantry Reserve. It is dated December 13, 1898, eleven months before Villa's diary begins. The name "Canuto Aritao" does not appear in Villa's diary. The certificate appears in front of the typescript.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
+</controlaccess>
+</controlaccess>
+<relatedmaterial encodinganalog="544">
+<head>Related Material</head>
+<p>A different English-language translation of Villa's diary was published in Aguinaldo's <title>Odyssey; As Told in the Diaries of Col. Simeon Villa and Dr. Santiago Barcelona</title> (Manila: Publications of the Bureau of Public Libraries, 1963).</p>
+<p>
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt538nb916" actuate="onrequest" show="new">Bound Manuscripts Collection (Collection 170)
+</extref>. Available at UCLA Library Special Collections, Charles E. Young Research Library.</p>
+</relatedmaterial>
+<dsc type="in-depth">
+<head>Container List</head>
+<note>
+<p>Layout: According to the translator's notes, the original was written in three volumes; the typescript includes all three with a short note indicating the transition from one volume to the next (51r, 94r).</p>
+<p>Script: Typescript</p>
+<p>Binding: Library binding.</p>
+</note>
+<c01 level="item"><did>
+<unittitle>ff. 1r: portion of this leaf missing</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 5r: Villa's work in service of the president</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 9r-10r: description of the "Kanio" (i.e., ka&#x00F1;ao) or head-dance and Igorrote [Igorot] culture</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 21r-22r: list of those accompanying the president</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 23r-25r: trouble with Igorots</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 29r-30r: encounter with the Americans</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 32r-33r: description of the Kanio, continued; translator's note</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 35r-6r: political scandal involving General Tirona</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 68r-72r: biography of Aguinaldo on the occasion of his birthday; discussion of his
+involvement with the Masons and Katipunan Society</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 72r-74r: account of Aguinaldo's birthday celebration, including a menu with translator's note</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 77r-82r: problems with spies and deserters</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 83r: diplomatic activity involving the United States and the Philippines</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 115r-129r: Palanan</unittitle>
+</did>
+</c01>
+<c01 level="item"><did>
+<unittitle>ff. 129r: discussion of McKinley's attempt to get Aguinaldo to surrender.</unittitle>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>
