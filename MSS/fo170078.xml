@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid countrycode="US" mainagencycode="CLU-SC" identifier=" http://www.oac.cdlib.org/findaid/ark:/13030/kt7m3nf1tg">PUBLIC "-//University of California, Los Angeles::Library Special Collections//TEXT(US::CLU-SC::170/78::John Forster Pioneer data from 1832)//EN" "fo170078.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the John Forster Pioneer data from 1832, 1878</titleproper>
+<titleproper type="filing">Forster (John) Pioneer data from 1832</titleproper>
+<author>Cataloged by Citlali Sosa-Riddell, with assistance from Laurel McPhee; machine-readable finding aid created by Caroline Cub&#x00E9;.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>UCLA Library Special Collections staff</addressline>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">&#x00A9; 2008</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce"> 2004;</date> frontmatter gathered MARC Record. Supplementary encoding and revision supplied by Caroline Cub&#xE9;.</creation>
+<langusage>Description is in <language langcode="eng" 
+scriptcode="latn" >English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">John Forster Pioneer data from 1832</unittitle>
+<unitdate type="inclusive" normal="1878">1878 </unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">170/078</unitid>
+<origination label="Creator">
+<persname rules="aacr2">Forster, John, 1814-1882</persname></origination>
+<physdesc label="Extent">
+<extent>39 leaves : paper, 2 ports. ; 23 x 17 cm.</extent>
+</physdesc>
+<abstract label="Abstract">John Forster was an Englishman who moved to Los Angeles in the 1830s, and become a Mexican citizen with substantial property. This manuscript contains reminiscences of his experiences in California, with an emphasis on the battles between American and Californio forces in Southern California during the Mexican War. Dictated to Thomas Savage.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Ex libris Joseph Gregg Layne.</p>
+</acqinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], John Forster Pioneer data from 1832 (Collection 170/078). UCLA Library Special Collections, Charles E. Young Research Library.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=5358601">5358601</extref></p>
+</odd>
+<processinfo>
+<head>Processing Note</head>
+<p>Cataloged by Citlali Sosa-Riddell, with assistance from Laurel McPhee, in the Center For Primary Research and Training (CFPRT).</p>
+</processinfo>
+</descgrp>
+<bioghist encodinganalog="545">
+<head>Biography</head>
+<p>Born in 1815, in Liverpool, England, John Forster grew up to become one of the largest landowners in all of California. At the age of 17, Forster was working for his uncle, James Johnson, in Guaymas, Mexico. He became the captain of one of his uncle's ships, and in 1836, became a Mexican citizen. Forster moved to Los Angeles, where he worked as a shipping agent at San Pedro. He was also Captain of the Port of San Pedro. In 1837 he married Dona Ysidora Pico, sister of Pio Pico, governor of California.</p>
+ <p>Forster began acquiring land in the 1840s. Governor Pico granted him the lands of Rancho Trabuco and Rancho Mission Viejo, in addition to his holdings of Rancho San Felipe and Rancho de la Nacion, in what is now San Diego County. In 1844 Forster purchased the old Mission San Juan Capistrano for $710, where he made his home until Mission was given back to the Catholic Church in 1864.</p>
+<p>In 1846 the United States and Mexico were at war, and Governor Pico fled to Mexico, leaving Forster in charge of Pico's rancho, Santa Margarita y las Flores (the area which is now Camp Pendleton). On his return to California, Pico borrowed large sums of money from Forster to cover his gambling debts. In 1864 Forster offered to pay $14,000 and assume all of Pico's debts, in return for the deed to Rancho Santa Margarita y las Flores. The Picos agreed and Forster became the largest landowner in California, eventually holding over 200,000 acres. Forster's capital was drained through subsequent efforts to fence his estates, attract settlers, and maintain his livestock through a severe drought. When Forster died in 1882, his estate was in shambles, and his sons were forced to sell the properties.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>At the end of the 19th century, Hubert Bancroft and his close associates engaged in an oral history project to record the experiences of Californios who had inhabited California prior to the American annexation. As part of this project, Thomas Savage interviewed John Forster at his home in San Juan Capistrano in early 1878. After an explanatory note by Savage, Forster's dictation begins with a short description of his early life in England and Mexico. He then describes the political scene in Los Angeles in the 1830s, and the activities of contemporaries such as Manuel Micheltorena, Pio Pico, Juan Bautista Alvarado, Jose Castro, and Carlos Antonio Carrillo. Then, the content shifts almost entirely to the skirmishes between American and Mexican forces during the Mexican War, 1846-1848.  Forster describes the battles of Los Angeles, San Diego, San Pascual, Rancho Dominguez, and Chino. The interview ends abruptly with the Treaty of Cahuenga and the surrender of Pio Pico.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
+</controlaccess>
+</controlaccess>
+<relatedmaterial encodinganalog="544">
+<head>Related Material</head>
+<p>
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt538nb916" actuate="onrequest" show="new">Bound Manuscripts Collection (Collection 170)
+</extref>. Available at UCLA Library Special Collections, Charles E. Young Research Library.</p>
+</relatedmaterial>
+<dsc type="in-depth">
+<head>Container List</head>
+<note>
+<p>Layout: Average of 38 lines per page.</p>
+<p>Script: Typescript.</p>
+<p>Binding: Brown quarter cloth binding with leather spine; spine stamped in gilt.</p>
+</note>
+</dsc>
+</archdesc>
+</ead>
