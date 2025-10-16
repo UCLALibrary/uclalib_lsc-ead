@@ -1,0 +1,1439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="unverified-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt6199q5qd" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT (US::CLU-SC::1344::Neumann Family Papers)//EN&quot; &quot;neum1344.xml&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">neum1344.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid of the Neumann Family Papers</titleproper><titleproper type="filing">Neumann Family Papers</titleproper>
+ <author>Processed by Dan Luckenbill</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">© 2004</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Machine-readable finding aid created by ByteManagers using OAC finding aid conversion service specifications.
+Machine-readable finding aid derived from in-house paper finding aid.
+Date of source: <date calendar="gregorian" era="ce">September 1991</date></creation>
+ <langusage>
+ <language>English</language>
+ </langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT (US::CLU-SC::1344::Neumann Family Papers)//EN" "neum1344.xml" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid of the Neumann Family Papers</titleproper>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Dan Luckenbill, September 1991</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>ByteManagers using OAC finding aid conversion service specifications</item>
+ </defitem>
+ <defitem>
+ <label>Encoding supervision and revision by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Edited by:</label>
+ <item>Josh Fiala, September 2004</item>
+ </defitem>
+ </list>
+ <p>© 2004 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Neumann Family Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1920/1990">1920-1990</unitdate>
+ <unitid label="Collection number" repositorycode="CLUSC" countrycode="US">1344</unitid>
+ <origination label="Creator" encodinganalog="100">
+ <famname source="lcnaf">Newman family</famname>
+ </origination>
+ <physdesc encodinganalog="300" label="Extent"><extent>225 boxes (112.5 linear ft.)</extent>
+<extent>4 cartons (4 linear ft.) </extent>
+<extent>33 oversize boxes</extent></physdesc>
+ <repository label="Repository">
+ <corpname source="lcnaf">University of California, Los Angeles. Library.
+Department of Special Collections.</corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Robert Gerhard Neumann (b.1916) was a professor (1947- ), director of the Institute of International and Foreign Studies (1959-65), and chairman of the Atlantic and West European Program (1965-66) at UCLA. He was also a member of the central committee of the California Republican Party (1954-60), U.S. Ambassador to Afghanistan (1966-73) and U.S. Ambassador to Morocco (1973-76). In 1976, he served as senior associate at the Center for Strategic and International Studies, Georgetown University. Marlen E. Neumann (1915-1997) served as president of the Los Angeles League of Women Voters (1957-59), was a member of the board of directors of the United Nations Association of Los Angeles (1959- ), and was a member of the McCone Commission that investigated the Watts riots of 1965. The collection consists of correspondence, diaries, manuscripts, clippings, books, published material and Ph.D dissertation by Dr. Neumann, photographs and photograph albums, clippings, research materials and notes, notecards, videocassettes, audiocassettes, speeches, college yearbooks, tax files, scrapbooks, memorabilia, and miscellaneous ephemera.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <accessrestrict encodinganalog="506">
+ <head>Restrictions on Access</head>
+ <p>PARTIALLY PROCESSED COLLECTION UNAVAILABLE FOR USE: Inquiries regarding these materials should be directed, in writing, to the Manuscripts Librarian, UCLA Department of Special Collections.</p>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <userestrict encodinganalog="540">
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Copyright to portions of this collection has been assigned to the UCLA Library, Department of Special Collections. The library can grant permission to publish for materials to which it holds the copyright. All requests for permission to publish or quote must be submitted in writing to the Manuscripts Librarian, Department of Special Collections.] Credit shall be given as follows: © The Regents of the University of California on behalf of the UCLA Library, Department of Special Collections.</p>
+ </userestrict>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Neumann Family Papers (Collection 1344). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233493">4233493</extref></p>
+</odd>
+ </descgrp>
+ <bioghist encodinganalog="545" id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Robert Gerhard Neumann was born on January 2, 1916 in Vienna, Austria; diplome superieur, University of Rennes, 1936; diploma, Consular Academy, 1937 and Geneva School of International Studies, 1937; attended University of Vienna, 1938; MA, Amherst College, 1940; Ph.D, University of Minnesota, 1946; married Marlen Eldredge, July 27, 1941; he became an instructor, State Teachers College, Oshkosh, Wisconsin, 1941-42; lecturer, University of Wisconsin, 1946-47; assistant professor (1947-52), associate professor (1952-58), in 1958, professor, director of the Institute of International and Foreign Studies (1959-65), and chairman of the Atlantic and West European Program (1965-66), UCLA; member of the central committee of the California Republican Party, 1954-60; became U.S. Ambassador to Afghanistan (1966-73) and U.S. Ambassador to Morocco (1973-76); served as senior associate at the Center for Strategic and International Studies, Georgetown University, beginning. in 1976; publications include <title linktype="simple">The government of the German Federal Republic</title> (1966) and <title linktype="simple">European and comparative government</title> (4th ed., 1968); Marlen E. Neumann was born on December 20, 1915 in Miraj, India; BA, Rollins College, 1936; MA in international relations, Yale University, 1941; served as president of the Los Angeles League of Women Voters, 1957-59, as a member of the board of directors of the United Nations Association of Los Angeles beginning in 1959, and as a member of the McCone Commission that investigated the Watts riots of 1965; she died in July 1997 in Washington, D.C.</p>
+ </bioghist>
+ <scopecontent encodinganalog="520" id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of correspondence, diaries, manuscripts, clippings, books, published material and Ph.D dissertation by Dr. Neumann, photographs and photograph albums, clippings, research materials and notes, notecards, videocassettes, audiocassettes, speeches, college yearbooks, tax files, scrapbooks, memorabilia, and miscellaneous ephemera.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
+ <controlaccess>
+ <head>Subjects</head>
+ <famname source="lcnaf" encodinganalog="600">Newman family--Archives.</famname>
+ <persname source="lcnaf" encodinganalog="600">Neumann, Robert G., 1916- --Archives.</persname>
+ <persname source="lcnaf" encodinganalog="600">Neumann, Marlen E.--Archives.</persname>
+ <corpname source="lcnaf" encodinganalog="610">University of California, Los Angeles. Department of Political Science--Faculty--Archival resources.</corpname>
+ <occupation source="lcsh" encodinganalog="650">Ambassadors--United States--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Political science teachers--California--Los Angeles--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Women civic leaders--California--Los Angeles--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Ambassadors' spouses--United States--Archival resources.</occupation>
+ </controlaccess>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6" score="1" C-ORDER="1" MAX-C-ORDER="233">
+ <head>Container List</head>
+ <c01 id="c01-1.3.6.2" level="series" score="1" C-ORDER="2">
+ <did>
+ <unittitle>Robert Neumann</unittitle>
+ </did>
+ <c02 id="c02-1.3.6.2.2" level="subseries" score="1" C-ORDER="3">
+ <did>
+ <unittitle>Afghanistan</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.2.2" score="1" C-ORDER="4">
+ <did>
+ <container type="Box" label="Boxes">1-5</container>
+ <unittitle>Personal Files</unittitle>
+ </did>
+ <c04 level="file" id="c04-1.3.6.2.2.2.2" score="1" C-ORDER="5">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <unittitle>A - C.</unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.2.2.3" score="1" C-ORDER="6">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <unittitle>D - H.</unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.2.2.4" score="1" C-ORDER="7">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <unittitle>I - M (no.1).</unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.2.2.5" score="1" C-ORDER="8">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <unittitle>M (no.2) - S (no.1).</unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.2.2.6" score="1" C-ORDER="9">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <unittitle>S (no.2) - Z.</unittitle>
+ </did>
+ </c04>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.2.3" score="1" C-ORDER="10">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <unittitle>Kabul representation, various reports and booklets.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.2.4" score="1" C-ORDER="11">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <unittitle>State / USIA recreation association, Miscellaneous correspondence, Christmas card list, books.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.2.5" score="1" C-ORDER="12">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <unittitle>Speeches.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.2.6" score="1" C-ORDER="13">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <unittitle>Tapes of music, photographs.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.2.7" score="1" C-ORDER="14">
+ <did>
+ <container type="Box" label="Box">10</container>
+ <unittitle>Office logs, photographs.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.2.8" score="1" C-ORDER="15">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <unittitle>Miscellaneous, including information on Afghanistan.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.2.9" score="1" C-ORDER="16">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <unittitle>Miscellaneous information, appointment diaries (<unitdate calendar="gregorian" era="ce">1970-1971</unitdate>), and files: miscellaneous correspondence, personnel, travel, White House.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.3" score="1" C-ORDER="17">
+ <did>
+ <unittitle>Afghanistan / Morocco</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.3.2" score="1" C-ORDER="18">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <unittitle>Correspondence and oddments <emph render="italic">re</emph> Afghanistan and Morocco.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.2.4" level="subseries" score="1" C-ORDER="19">
+ <did>
+ <unittitle>Morocco</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.4.2" score="1" C-ORDER="20">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unittitle>Personal files (2) <unitdate calendar="gregorian" era="ce">1975-1976</unitdate>, alphabetical files A - H.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.4.3" score="1" C-ORDER="21">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <unittitle>Alphabetical files, I - U.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.4.4" score="1" C-ORDER="22">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <unittitle>Alphabetical files, V - Z, desk diary (<unitdate calendar="gregorian" era="ce">1975</unitdate>), photographs, and lecture material.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.4.5" score="1" C-ORDER="23">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1980</unitdate> campaign.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.5" score="1" C-ORDER="24">
+ <did>
+ <unittitle>Afghanistan / Morocco / Saudi Arabia</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.5.2" score="1" C-ORDER="25">
+ <did>
+ <container type="Box" label="Boxes">17-19</container>
+ <unittitle>Tapes of speeches and other events, papers <emph render="italic">re</emph><unitdate calendar="gregorian" era="ce">1981</unitdate> Saudi Arabia story.</unittitle>
+ <physdesc> (3 tapes)</physdesc>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.6" score="1" C-ORDER="26">
+ <did>
+ <unittitle>Reagan Campaign</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.6.2" score="1" C-ORDER="27">
+ <did>
+ <container type="Box" label="Boxes">21-23</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1980.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.7" score="1" C-ORDER="28">
+ <did>
+ <unittitle>Personal Career</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.7.2" score="1" C-ORDER="29">
+ <did>
+ <container type="Box" label="Boxes">24-26</container>
+ <unittitle>Clippings, correspondence, photographs and memorabilia. <unitdate calendar="gregorian" era="ce">1930s-1950s.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.7.3" score="1" C-ORDER="30">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <unittitle>Memorabilia, photographs and correspondence, A - K. <unitdate calendar="gregorian" era="ce">1950s.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.7.4" score="2" C-ORDER="31">
+ <did>
+ <container type="Box" label="Box">28</container>
+ <unittitle>Clippings, correspondence, photographs and memorabilia. <unitdate calendar="gregorian" era="ce">1930s-1970s.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Includes Dulles letters, State Department.</p>
+ </scopecontent>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.8" score="1" C-ORDER="33">
+ <did>
+ <unittitle>Personal Files</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.8.2" score="1" C-ORDER="34">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unittitle>Memorabilia, photographs, correspondence mostly from family (<unitdate calendar="gregorian" era="ce">1940-1959</unitdate>), War diary (<unitdate calendar="gregorian" era="ce">1944</unitdate>), unidentified tape.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.8.3" score="1" C-ORDER="35">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unittitle>Income tax, early career, military and emigration history, etc. <unitdate calendar="gregorian" era="ce">1940s-1950s.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.8.4" score="1" C-ORDER="36">
+ <did>
+ <container type="Box" label="Boxes">40-41</container>
+ <unittitle>From NARS.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.2.9" level="subseries" score="1" C-ORDER="37">
+ <did>
+ <unittitle>Professional</unittitle>
+ </did>
+ <c03 id="c03-1.3.6.2.9.2" level="file" score="1" C-ORDER="38">
+ <did>
+ <container type="Box" label="Boxes">31-37</container>
+ <unittitle>Correspondence. <unitdate calendar="gregorian" era="ce">1957-1966</unitdate></unittitle>
+ </did>
+ <c04 level="file" id="c04-1.3.6.2.9.2.2" score="1" C-ORDER="39">
+ <did>
+ <container type="Box" label="Box">31</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1957-1966.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.9.2.3" score="1" C-ORDER="40">
+ <did>
+ <container type="Box" label="Box">32</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1956-1964.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.9.2.4" score="1" C-ORDER="41">
+ <did>
+ <container type="Box" label="Box">33</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1957-1959.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.9.2.5" score="1" C-ORDER="42">
+ <did>
+ <container type="Box" label="Box">34</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1959-1964.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.9.2.6" score="1" C-ORDER="43">
+ <did>
+ <container type="Box" label="Box">35</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1960-1964.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.9.2.7" score="1" C-ORDER="44">
+ <did>
+ <container type="Box" label="Box">36</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1962-1967.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.9.2.8" score="1" C-ORDER="45">
+ <did>
+ <container type="Box" label="Box">37</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1964-1965.</unitdate></unittitle>
+ </did>
+ </c04>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.9.3" score="1" C-ORDER="46">
+ <did>
+ <container type="Box" label="Box">36</container>
+ <unittitle><title linktype="simple">European government</title> (book).</unittitle>
+ <physdesc> (Copy)</physdesc>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.9.4" score="1" C-ORDER="47">
+ <did>
+ <container type="Box" label="Box">38</container>
+ <unittitle>Publications, proceedings of meetings of Committee on international and Comparative Studies. <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.9.5" score="1" C-ORDER="48">
+ <did>
+ <container type="Box" label="Box">39</container>
+ <unittitle>UC correspondence, A - Z. “Think File,” bio bib, etc. <unitdate calendar="gregorian" era="ce">1960s-1970s.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.9.6" score="1" C-ORDER="49">
+ <did>
+ <container type="Box" label="Box">132</container>
+ <unittitle>Speeches, conference and seminar material. <unitdate calendar="gregorian" era="ce">1978-1985.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.9.7" score="1" C-ORDER="50">
+ <did>
+ <container type="Box" label="Box">134</container>
+ <unittitle>Speeches, newspaper and magazine articles. <unitdate calendar="gregorian" era="ce">1981-1984.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.9.8" score="1" C-ORDER="51">
+ <did>
+ <container type="Box" label="Box">130</container>
+ <unittitle>Ambassadorial correspondence and autobiography (typed draft) <unitdate calendar="gregorian" era="ce">1978-1986.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.9.9" score="2" C-ORDER="52">
+ <did>
+ <container type="Box" label="Box">48</container>
+ <unittitle>Correspondence.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Including with Nixon and Eisenhower (<unitdate calendar="gregorian" era="ce">1950</unitdate>).</p>
+ </scopecontent>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.10" score="1" C-ORDER="54">
+ <did>
+ <unittitle>Personal, Professional</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.10.2" score="1" C-ORDER="55">
+ <did>
+ <container type="Box" label="Box">42</container>
+ <unittitle>Research material, correspondence, memorabilia.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.2.11" level="subseries" score="1" C-ORDER="56">
+ <did>
+ <unittitle>Personal, Professional[?]</unittitle>
+ </did>
+ <c03 id="c03-1.3.6.2.11.2" level="file" score="1" C-ORDER="57">
+ <did>
+ <container type="Box" label="Boxes">43-45</container>
+ <unittitle>Correspondence. <unitdate calendar="gregorian" era="ce">1938-1946</unitdate></unittitle>
+ </did>
+ <c04 level="file" id="c04-1.3.6.2.11.2.2" score="1" C-ORDER="58">
+ <did>
+ <container type="Box" label="Box">43</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1938-1942.</unitdate></unittitle>
+ </did>
+ </c04>
+ <c04 level="file" id="c04-1.3.6.2.11.2.3" score="1" C-ORDER="59">
+ <did>
+ <container type="Box" label="Boxes">44-45</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+ </did>
+ </c04>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.11.3" score="1" C-ORDER="60">
+ <did>
+ <container type="Box" label="Box">46</container>
+ <unittitle>Political contributions, Bologna center.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.2.12" level="subseries" score="1" C-ORDER="61">
+ <did>
+ <unittitle>Professional[?]</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.12.2" score="2" C-ORDER="62">
+ <did>
+ <container type="Box" label="Box">47</container>
+ <unittitle>Correspondence. <unitdate calendar="gregorian" era="ce">1950s.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Including Nixon letters (“N”).</p>
+ </scopecontent>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.12.3" score="1" C-ORDER="64">
+ <did>
+ <container type="Box" label="Boxes">53-54</container>
+ <unittitle>Printed research material.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.12.4" score="1" C-ORDER="65">
+ <did>
+ <container type="Box" label="Boxes">55-56</container>
+ <unittitle>Research material, Nuremburg trial transcripts.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.12.5" score="1" C-ORDER="66">
+ <did>
+ <container type="Box" label="Boxes">57-58</container>
+ <unittitle>Books.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.12.6" score="1" C-ORDER="67">
+ <did>
+ <container type="Box" label="Box">59</container>
+ <unittitle>Research notes and papers and news clippings. <unitdate calendar="gregorian" era="ce">1950s.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.12.7" score="1" C-ORDER="68">
+ <did>
+ <container type="Box" label="Boxes">60-61</container>
+ <unittitle>Notes on cards.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.12.8" score="2" C-ORDER="69">
+ <did>
+ <container type="Box" label="Box">119</container>
+ <unittitle>Research material. Dissertation.</unittitle>
+ </did>
+ <note>
+ <p>Donated 1984 May.</p>
+ </note>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.12.9" score="2" C-ORDER="71">
+ <did>
+ <container type="Box" label="Boxes">120-121</container>
+ <unittitle>Research material.</unittitle>
+ </did>
+ <note>
+ <p>Donated 1984 May.</p>
+ </note>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.13" score="1" C-ORDER="73">
+ <did>
+ <unittitle>Algeria</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.13.2" score="1" C-ORDER="74">
+ <did>
+ <container type="Box" label="Boxes">49-50</container>
+ <unittitle>Research material. <unitdate calendar="gregorian" era="ce">1950s.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.14" score="1" C-ORDER="75">
+ <did>
+ <unittitle>Germany</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.14.2" score="1" C-ORDER="76">
+ <did>
+ <container type="Box" label="Boxes">51-52</container>
+ <unittitle>Research material and notes. <unitdate calendar="gregorian" era="ce">ca. 1945-1958.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.2.15" score="1" C-ORDER="77">
+ <did>
+ <unittitle>Middle East</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.15.2" score="1" C-ORDER="78">
+ <did>
+ <container type="Box" label="Box">131</container>
+ <unittitle>Manuscripts and printed research material. <unitdate calendar="gregorian" era="ce">1980s.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.16" score="1" C-ORDER="79">
+ <did>
+ <container type="Box" label="Box">154</container>
+ <unittitle>Letters, memos, etc. <unitdate calendar="gregorian" era="ce">early 1990s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.17" score="2" C-ORDER="80">
+ <did>
+ <container type="Box" label="Box">155</container>
+ <unittitle>Notes, clippings, etc.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Some on L.A. riots. <unitdate calendar="gregorian" era="ce">1992.</unitdate></p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.18" score="1" C-ORDER="82">
+ <did>
+ <container type="Box" label="Box">156</container>
+ <unittitle>Notes, primarily on Germany. <unitdate calendar="gregorian" era="ce">1980s-1990s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.19" score="1" C-ORDER="83">
+ <did>
+ <container type="Box" label="Box">166</container>
+ <unittitle>Note cards on various topics. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.20" score="1" C-ORDER="84">
+ <did>
+ <container type="Box" label="Box">183</container>
+ <unittitle>Alphabetical files, A - L. <unitdate calendar="gregorian" era="ce">1996-1997.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 id="c02-1.3.6.2.21" level="file" score="1" C-ORDER="85">
+ <did>
+ <container type="Box" label="Boxes">189-190</container>
+ <unittitle>Pocket diaries. <unitdate calendar="gregorian" era="ce">1950s-1970s[?]</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.2.21.2" score="1" C-ORDER="86">
+ <did>
+ <container type="Box" label="Box">189</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1950s-1960s[?].</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.2.21.3" score="1" C-ORDER="87">
+ <did>
+ <container type="Box" label="Box">190</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1960s-1970s[?].</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.22" score="1" C-ORDER="88">
+ <did>
+ <container type="Box" label="Boxes">191-192</container>
+ <unittitle>Speeches and recordings. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.23" score="1" C-ORDER="89">
+ <did>
+ <container type="Box" label="Box">193</container>
+ <unittitle>Council of American Ambassadors. <unitdate calendar="gregorian" era="ce">primarily 1990s[?].</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.24" score="2" C-ORDER="90">
+ <did>
+ <container type="Box" label="Box">194</container>
+ <unittitle>Ambassadorial items. <unitdate calendar="gregorian" era="ce">primarily 1990s.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Including Morocco.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.25" score="1" C-ORDER="92">
+ <did>
+ <container type="Box" label="Box">195</container>
+ <unittitle>Position papers from others, etc. <unitdate calendar="gregorian" era="ce">primarily 1990s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.26" score="2" C-ORDER="93">
+ <did>
+ <container type="Box" label="Box">197</container>
+ <unittitle>Miscellaneous publications. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>[Also], manuscript of <title linktype="simple">Recollections Out of My Life</title> (typescript, 59 leaves), n.d.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.27" score="2" C-ORDER="95">
+ <did>
+ <container type="Box" label="Box">201</container>
+ <unittitle>Day books, letters, etc. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>[Also], Family album. <unitdate calendar="gregorian" era="ce">1950s.</unitdate></p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.28" score="1" C-ORDER="97">
+ <did>
+ <container type="Box" label="Box">202</container>
+ <unittitle>Research publications, German and Arab (<unitdate calendar="gregorian" era="ce">ca. 1990s</unitdate>), Marlen in Rabat, UNE. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.29" score="1" C-ORDER="98">
+ <did>
+ <container type="Box" label="Boxes">205-206</container>
+ <unittitle>Who's who, household shipments. <unitdate calendar="gregorian" era="ce">1970s.</unitdate> Kabul.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.30" score="1" C-ORDER="99">
+ <did>
+ <container type="Box" label="Box">224</container>
+ <unittitle>SVCA Board, CSIS expenses, writings and clippings. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.31" score="1" C-ORDER="100">
+ <did>
+ <container type="Box" label="Box">230</container>
+ <unittitle>Afghanistan materials, photographs, etc. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.32" score="1" C-ORDER="101">
+ <did>
+ <container type="Box" label="Box">231</container>
+ <unittitle>Afghanistan, Morocco materials. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.33" score="1" C-ORDER="102">
+ <did>
+ <container type="Box" label="Box">250</container>
+ <unittitle>Research notes, Germany, Arabia, D.I.S. consultant, 
+<unitdate calendar="gregorian" era="ce">1980</unitdate>, etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.34" score="1" C-ORDER="103">
+ <did>
+ <container type="Box" label="Box">251</container>
+ <unittitle>Publications and clippings, diplomatic corps. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.35" score="2" C-ORDER="104">
+ <did>
+ <container type="Box" label="Box">252</container>
+ <unittitle>Video tapes and audio tape. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Not all videos are of RN.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.2.36" score="1" C-ORDER="106">
+ <did>
+ <container type="Box" label="Box">258</container>
+ <unittitle>Alphabetical files, M - Z. <unitdate calendar="gregorian" era="ce">1990s.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.3" score="1" C-ORDER="107">
+ <did>
+ <unittitle>Robert Neumann[?]</unittitle>
+ </did>
+ <c02 level="subseries" id="c02-1.3.6.3.2" score="1" C-ORDER="108">
+ <did>
+ <unittitle>Afghanistan</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.3.2.2" score="1" C-ORDER="109">
+ <did>
+ <container type="Box" label="Box">142</container>
+ <unittitle>Photograph albums, guest book.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.3.3" level="subseries" score="1" C-ORDER="110">
+ <did>
+ <unittitle>Professional[?]</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.3.3.2" score="1" C-ORDER="111">
+ <did>
+ <container type="Box" label="Box">133</container>
+ <unittitle>Newspaper and magazine articles <unitdate calendar="gregorian" era="ce">1974-1986.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.3.3.3" score="1" C-ORDER="112">
+ <did>
+ <container type="Box" label="Box">143</container>
+ <unittitle>Tape recording (unidentified).</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.3.4" level="subseries" score="1" C-ORDER="113">
+ <did>
+ <unittitle>Morocco</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.3.4.2" score="1" C-ORDER="114">
+ <did>
+ <container type="Box" label="Box">144</container>
+ <unittitle>Photograph album.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.3.4.3" score="1" C-ORDER="115">
+ <did>
+ <container type="Box" label="Box">145</container>
+ <unittitle>Publications AND journals. <unitdate calendar="gregorian" era="ce">1980s[?].</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.3.4.4" score="2" C-ORDER="116">
+ <did>
+ <container type="Box" label="Box">146</container>
+ <unittitle>Photo album. Morocco. <unitdate calendar="gregorian" era="ce">1975.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>[Also], 10.5“ audio tape.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.3.4.5" score="1" C-ORDER="118">
+ <did>
+ <container type="Box" label="BoxES">147-148, 149</container>
+ <unittitle>Video and audio recordings of in those in which RN major participant.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.3.6.3.5" level="file" score="1" C-ORDER="119">
+ <did>
+ <container type="Box" label="Boxes">225-226</container>
+ <unittitle>Alphabetical files. <unitdate calendar="gregorian" era="ce">1977.</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.3.5.2" score="1" C-ORDER="120">
+ <did>
+ <container type="Box" label="Box">225</container>
+ <unittitle>A - F. <unitdate calendar="gregorian" era="ce">1977.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.3.5.3" score="1" C-ORDER="121">
+ <did>
+ <container type="Box" label="Box">226</container>
+ <unittitle>G - R. <unitdate calendar="gregorian" era="ce">1977.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.3.6" score="1" C-ORDER="122">
+ <did>
+ <container type="Box" label="Box">244</container>
+ <unittitle>Notecards. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.4" level="series" score="1" C-ORDER="123">
+ <did>
+ <unittitle>Marlen Neumann</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.4.2" score="1" C-ORDER="124">
+ <did>
+ <container type="Box" label="Box">153</container>
+ <unittitle>Conference notebooks. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.3" score="1" C-ORDER="125">
+ <did>
+ <container type="Box" label="Box">165</container>
+ <unittitle>Daily appointment books. <unitdate calendar="gregorian" era="ce">1950s- .</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.4" score="1" C-ORDER="126">
+ <did>
+ <container type="Box" label="Box">180</container>
+ <unittitle>Cards, letters from RN, etc. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.5" score="1" C-ORDER="127">
+ <did>
+ <container type="Box" label="Box">181</container>
+ <unittitle>Genealogy notes. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.6" score="1" C-ORDER="128">
+ <did>
+ <container type="Box" label="Box">182</container>
+ <unittitle>Geneaology and Afghanistan materials. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.7" score="2" C-ORDER="129">
+ <did>
+ <container type="Box" label="Box">184</container>
+ <unittitle>Plays directed. <unitdate calendar="gregorian" era="ce">1946, 1968.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p><title linktype="simple">Angel Street</title>, <title linktype="simple">The Barrets of Wimpole Street</title>.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.8" score="1" C-ORDER="131">
+ <did>
+ <container type="Box" label="Box">185</container>
+ <unittitle>Weekly pocket diaries. <unitdate calendar="gregorian" era="ce">1980s-1990s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 id="c02-1.3.6.4.9" level="file" score="1" C-ORDER="132">
+ <did>
+ <container type="Box" label="Boxes">186-188</container>
+ <unittitle>Notes on letters received</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.4.9.2" score="1" C-ORDER="133">
+ <did>
+ <container type="Box" label="Boxes">186-187</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1980s[?].</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.4.9.3" score="1" C-ORDER="134">
+ <did>
+ <container type="Box" label="Box">188</container>
+ <unittitle>A - D. <unitdate calendar="gregorian" era="ce">1980s[?].</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.10" score="1" C-ORDER="135">
+ <did>
+ <container type="Box" label="Box">198</container>
+ <unittitle>Genealogy and commonplace notes. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.11" score="1" C-ORDER="136">
+ <did>
+ <container type="Box" label="Boxes">207-208</container>
+ <unittitle>Early writings, ideas, playbooks and address books. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 id="c02-1.3.6.4.12" level="file" score="1" C-ORDER="137">
+ <did>
+ <container type="Box" label="Boxes">218-219</container>
+ <unittitle>Correspondence. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.4.12.2" score="1" C-ORDER="138">
+ <did>
+ <container type="Box" label="Box">218</container>
+ <unittitle>A - B and out of order. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.4.12.3" score="1" C-ORDER="139">
+ <did>
+ <container type="Box" label="Box">219</container>
+ <unittitle>C - H and unfoldered. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.13" score="1" C-ORDER="140">
+ <did>
+ <container type="Box" label="Box">220</container>
+ <unittitle>Conference notebooks, writing group and statements on Morocco. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.14" score="1" C-ORDER="141">
+ <did>
+ <container type="Box" label="Box">227</container>
+ <unittitle>Early school, Christmas, commonplace notes, Jidda and PARSA. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.15" score="1" C-ORDER="142">
+ <did>
+ <container type="Box" label="Box">228</container>
+ <unittitle>Notebooks, Institute of Children's Literature, Welcome to Afghanistan[?]. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.16" score="1" C-ORDER="143">
+ <did>
+ <container type="Box" label="Box">229</container>
+ <unittitle>Kabul info for service wives, Moroccan ephemera, Foreign Service. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.17" score="1" C-ORDER="144">
+ <did>
+ <container type="Box" label="Box">238</container>
+ <unittitle>Anne Smith materials and photos. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.18" score="1" C-ORDER="145">
+ <did>
+ <container type="Box" label="Box">239</container>
+ <unittitle>Anne Smith and Smith family. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.19" score="1" C-ORDER="146">
+ <did>
+ <container type="Box" label="Box">240</container>
+ <unittitle>Anne Smith and Pauline Smith. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.20" score="1" C-ORDER="147">
+ <did>
+ <container type="Box" label="Box">243</container>
+ <unittitle>Anne Smith materials. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.21" score="1" C-ORDER="148">
+ <did>
+ <container type="Box" label="Box">245</container>
+ <unittitle>Women in the Middle East, Foreign Service, etc. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.22" score="1" C-ORDER="149">
+ <did>
+ <container type="Box" label="Box">249</container>
+ <unittitle>Household effects, guest lists, etc. <unitdate calendar="gregorian" era="ce">1980s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.23" score="1" C-ORDER="150">
+ <did>
+ <container type="Box" label="Box">253</container>
+ <unittitle>Personal and family items. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.24" score="1" C-ORDER="151">
+ <did>
+ <container type="Box" label="Box">254</container>
+ <unittitle>Appointments, photos, etc. <unitdate calendar="gregorian" era="ce">v.d., 1950s-1960s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.25" score="1" C-ORDER="152">
+ <did>
+ <container type="Box" label="Box">255</container>
+ <unittitle>Eldrege daybooks (<unitdate calendar="gregorian" era="ce">1920s</unitdate>) and McCone report items. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.26" score="2" C-ORDER="153">
+ <did>
+ <container type="Box" label="Boxes">256-257</container>
+ <unittitle>Alphabetical files.</unittitle>
+ </did>
+ <note>
+ <p>(Received in disorder)</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.27" score="1" C-ORDER="155">
+ <did>
+ <container type="Box" label="Box">259</container>
+ <unittitle>Family pictures, notes and cards, early notes and lectures. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.28" score="1" C-ORDER="156">
+ <did>
+ <container type="Box" label="Box">260</container>
+ <unittitle>Condo lawsuit and personal. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.4.29" score="1" C-ORDER="157">
+ <did>
+ <container type="Box" label="Box">261</container>
+ <unittitle>Publications and texts. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.5" score="1" C-ORDER="158">
+ <did>
+ <unittitle>Marlen Neumann[?]</unittitle>
+ </did>
+ <c02 level="subseries" id="c02-1.3.6.5.2" score="1" C-ORDER="159">
+ <did>
+ <unittitle>India</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.5.2.2" score="1" C-ORDER="160">
+ <did>
+ <container type="Box" label="Boxes">135-138, 140</container>
+ <unittitle>Clippings and ephemera.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.6" level="series" score="1" C-ORDER="161">
+ <did>
+ <unittitle>Marlen and Robert Neumann</unittitle>
+ </did>
+ <c02 id="c02-1.3.6.6.2" level="subseries" score="1" C-ORDER="162">
+ <did>
+ <unittitle>Personal</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.6.2.2" score="2" C-ORDER="163">
+ <did>
+ <container type="Box" label="Box">112</container>
+ <unittitle>Family letters. <unitdate calendar="gregorian" era="ce">1939-1941.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Also correspondence from Eisenhower, Nixon, Nasser to Mr. Neumann. <unitdate calendar="gregorian" era="ce">1960s.</unitdate></p>
+ </scopecontent>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.6.2.3" score="1" C-ORDER="165">
+ <did>
+ <container type="Box" label="Box">113</container>
+ <unittitle>Tax files.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.6.2.4" score="1" C-ORDER="166">
+ <did>
+ <container type="Box" label="Box">114</container>
+ <unittitle>Family correspondence. <unitdate calendar="gregorian" era="ce">1977-1980.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.6.2.5" score="1" C-ORDER="167">
+ <did>
+ <container type="Box" label="Box">115</container>
+ <unittitle>Scrapbooks, photographs, correspondence.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.6.2.6" score="1" C-ORDER="168">
+ <did>
+ <container type="Box" label="Box">116</container>
+ <unittitle>Family correspondence, etc.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.6.2.7" score="1" C-ORDER="169">
+ <did>
+ <container type="Box" label="Box">124</container>
+ <unittitle>Correspondence with each other.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.6.2.8" score="1" C-ORDER="170">
+ <did>
+ <container type="Box" label="Box">125</container>
+ <unittitle>Letters. <unitdate calendar="gregorian" era="ce">1942-1945.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.6.2.9" score="1" C-ORDER="171">
+ <did>
+ <container type="Box" label="Box">127</container>
+ <unittitle>Letters. <unitdate calendar="gregorian" era="ce">1947-1963.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.6.3" score="1" C-ORDER="172">
+ <did>
+ <unittitle>Personal[?]</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.6.3.2" score="1" C-ORDER="173">
+ <did>
+ <container type="Box" label="Box">117</container>
+ <unittitle>Memorabilia, miscellaneous ephemera, clippings, photographs, etc.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.4" score="1" C-ORDER="174">
+ <did>
+ <container type="Box" label="Box">199</container>
+ <unittitle>Certificates and signed photographs. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.5" score="1" C-ORDER="175">
+ <did>
+ <container type="Box" label="Box">200</container>
+ <unittitle>Portrait of Marlen, college pennants, maps, etc. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.6" score="1" C-ORDER="176">
+ <did>
+ <container type="Box" label="Box">203</container>
+ <unittitle>General Electric (Tempo), Faxes, Photos, Marlen correspondence (<unitdate calendar="gregorian" era="ce">1972- </unitdate>). <unitdate calendar="gregorian" era="ce">1970s-1990s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.7" score="1" C-ORDER="177">
+ <did>
+ <container type="Box" label="Box">209</container>
+ <unittitle>Bicenntenial inaugural, cards, photos, certificates. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.8" score="1" C-ORDER="178">
+ <did>
+ <container type="Box" label="Box">210</container>
+ <unittitle>Hostess books with menus, RN Dartmouth conference notes. <unitdate calendar="gregorian" era="ce">v.d., 1997.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.9" score="1" C-ORDER="179">
+ <did>
+ <container type="Box" label="Box">211</container>
+ <unittitle>Memorabilia, including menus. <unitdate calendar="gregorian" era="ce">1930s- .</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.10" score="1" C-ORDER="180">
+ <did>
+ <container type="Box" label="Box">212</container>
+ <unittitle>Sketch books, photo albums, etc. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.11" score="1" C-ORDER="181">
+ <did>
+ <container type="Box" label="Box">213</container>
+ <unittitle>Anne Smith items and photos (<unitdate calendar="gregorian" era="ce">1920s</unitdate>), Marlen early scrapbooks. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.12" score="1" C-ORDER="182">
+ <did>
+ <container type="Box" label="Box">214</container>
+ <unittitle>Marlen business correspondence, dolls, resumes, Robert resumes. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.13" score="1" C-ORDER="183">
+ <did>
+ <container type="Box" label="Box">221</container>
+ <unittitle>Letters R to M to / from Rabat, tape letters. <unitdate calendar="gregorian" era="ce">primarily 1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.14" score="1" C-ORDER="184">
+ <did>
+ <container type="Box" label="Box">222</container>
+ <unittitle>Letters to / from, to / from Rabat, Jidda, Cairo, etc. <unitdate calendar="gregorian" era="ce">1970s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.15" score="2" C-ORDER="185">
+ <did>
+ <container type="Box" label="Box">223</container>
+ <unittitle>Saud Arabia materials. <unitdate calendar="gregorian" era="ce">1977- .</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Includes Women in foreign service, etc.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.16" score="1" C-ORDER="187">
+ <did>
+ <container type="Box" label="Box">232</container>
+ <unittitle>Morocco scrapbook. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.17" score="1" C-ORDER="188">
+ <did>
+ <container type="Box" label="Boxes">233-234</container>
+ <unittitle>Afghanistan scrapbook. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.18" score="1" C-ORDER="189">
+ <did>
+ <container type="Box" label="Box">235</container>
+ <unittitle>Kabul scrapbook. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.19" score="1" C-ORDER="190">
+ <did>
+ <container type="Box" label="Box">236</container>
+ <unittitle>Afghanistan. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.20" score="1" C-ORDER="191">
+ <did>
+ <container type="Box" label="Box">237</container>
+ <unittitle>Alphabetical files, S - Z. <unitdate calendar="gregorian" era="ce">1990s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.21" score="1" C-ORDER="192">
+ <did>
+ <container type="Box" label="Boxes">246-247</container>
+ <unittitle>Marlen to Robert, Kabul. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.22" score="1" C-ORDER="193">
+ <did>
+ <container type="Box" label="Box">248</container>
+ <unittitle>Household effects, travel clips, notes in Arabic (<unitdate calendar="gregorian" era="ce">1981</unitdate>), etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.6.23" score="1" C-ORDER="194">
+ <did>
+ <container type="Box" label="Box">262</container>
+ <unittitle>Travel ephemera, theatre programs. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.7" score="1" C-ORDER="195">
+ <did>
+ <unittitle>Marlen and Robert Neumann[?]</unittitle>
+ </did>
+ <c02 level="subseries" id="c02-1.3.6.7.2" score="1" C-ORDER="196">
+ <did>
+ <unittitle>Personal</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.7.2.2" score="1" C-ORDER="197">
+ <did>
+ <container type="Box" label="Box">122</container>
+ <unittitle>Correspondence.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="subseries" id="c02-1.3.6.7.3" score="1" C-ORDER="198">
+ <did>
+ <unittitle>Personal, Professional[?]</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.7.3.2" score="1" C-ORDER="199">
+ <did>
+ <container type="Box" label="Box">129</container>
+ <unittitle>Correspondence and photographs, invitations to ceremonies. <unitdate calendar="gregorian" era="ce">1965-1981.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.7.4" score="1" C-ORDER="200">
+ <did>
+ <container type="Box" label="Box">215</container>
+ <unittitle>Library catalog cards. <unitdate calendar="gregorian" era="ce">1940s[?].</unitdate></unittitle>
+ <physdesc> (Box not full)</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.8" level="series" score="1" C-ORDER="201">
+ <did>
+ <unittitle>Neumann Family</unittitle>
+ </did>
+ <c02 level="subseries" id="c02-1.3.6.8.2" score="1" C-ORDER="202">
+ <did>
+ <unittitle>General</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.8.2.2" score="2" C-ORDER="203">
+ <did>
+ <container type="Box" label="Boxes">151-152</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1987-1991.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Mid East Travel in Box 152.</p>
+ </scopecontent>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.3" score="1" C-ORDER="205">
+ <did>
+ <container type="Box" label="Boxes">157-158</container>
+ <unittitle>Books. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.4" score="1" C-ORDER="206">
+ <did>
+ <container type="Box" label="Boxes">167-168</container>
+ <unittitle>Letters and cards. <unitdate calendar="gregorian" era="ce">1980s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 id="c02-1.3.6.8.5" level="file" score="1" C-ORDER="207">
+ <did>
+ <container type="Box" label="Boxes">169-170</container>
+ <unittitle>Photographs. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.8.5.2" score="1" C-ORDER="208">
+ <did>
+ <container type="Box" label="Box">169</container>
+ <unittitle>
+ <unitdate calendar="gregorian" era="ce">v.d.</unitdate>
+ </unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.3.6.8.5.3" score="1" C-ORDER="209">
+ <did>
+ <container type="Box" label="Box">170</container>
+ <unittitle>Primarily official. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.6" score="1" C-ORDER="210">
+ <did>
+ <container type="Box" label="Box">171</container>
+ <unittitle>Negatives, primarily <unitdate calendar="gregorian" era="ce">v.d., 1920s-1930s[?].</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.7" score="1" C-ORDER="211">
+ <did>
+ <container type="Box" label="Box">172</container>
+ <unittitle>Photographs, primarily official, datebook, etc. <unitdate calendar="gregorian" era="ce">v.d., 1986.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.8" score="1" C-ORDER="212">
+ <did>
+ <container type="Box" label="Box">173</container>
+ <unittitle>Primarily negatives. <unitdate calendar="gregorian" era="ce">v.d., 1920s-1930s</unitdate>[?].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.9" score="2" C-ORDER="213">
+ <did>
+ <container type="Box" label="Box">174</container>
+ <unittitle>Christmas cards. <unitdate calendar="gregorian" era="ce">1980s.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Includes cards from the Bush family, King of Jordan, etc.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.10" score="1" C-ORDER="215">
+ <did>
+ <container type="Box" label="Box">175</container>
+ <unittitle>Clippings. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.11" score="1" C-ORDER="216">
+ <did>
+ <container type="Box" label="Box">176</container>
+ <unittitle>Army cap, academic robes, etc. (Both Newmans?).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.12" score="1" C-ORDER="217">
+ <did>
+ <container type="Box" label="Box">177</container>
+ <unittitle>Plaques. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.13" score="2" C-ORDER="218">
+ <did>
+ <container type="Box" label="Box">178</container>
+ <unittitle>Marlen letters to parents (<unitdate calendar="gregorian" era="ce">1966-1969</unitdate>), Robert National Politics[?]. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Includes letter from Brent Scowcroft, The White House, etc.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.14" score="1" C-ORDER="220">
+ <did>
+ <container type="Box" label="Box">179</container>
+ <unittitle>Appointment books, etc. <unitdate calendar="gregorian" era="ce">1960[?].</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.15" score="1" C-ORDER="221">
+ <did>
+ <container type="Box" label="Box">196</container>
+ <unittitle>Passports and Moroccan albums. <unitdate calendar="gregorian" era="ce">1950s-1970s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.16" score="1" C-ORDER="222">
+ <did>
+ <container type="Box" label="Box">216</container>
+ <unittitle>Eldredge family sketches. Neumann parents anniversary. <unitdate calendar="gregorian" era="ce">1930s, 1960s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.17" score="1" C-ORDER="223">
+ <did>
+ <container type="Box" label="Box">217</container>
+ <unittitle>Scrapbooks. <unitdate calendar="gregorian" era="ce">1982</unitdate> (Marlen in hospital), event scrapbook. <unitdate calendar="gregorian" era="ce">1980s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.18" score="1" C-ORDER="224">
+ <did>
+ <container type="Box" label="Box">241</container>
+ <unittitle>Faxes and cards. <unitdate calendar="gregorian" era="ce">1990s.</unitdate> AAFSW (<unitdate calendar="gregorian" era="ce">1987</unitdate>), etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.8.19" score="1" C-ORDER="225">
+ <did>
+ <container type="Box" label="Box">242</container>
+ <unittitle>Faxes and cards. <unitdate calendar="gregorian" era="ce">1990s.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 id="c01-1.3.6.9" level="series" score="1" C-ORDER="226">
+ <did>
+ <unittitle>Neumann Family[?]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.9.2" score="1" C-ORDER="227">
+ <did>
+ <container type="Box" label="Boxes">159-161</container>
+ <unittitle>Note cards on various topics. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.3.6.9.3" score="1" C-ORDER="228">
+ <did>
+ <container type="Box" label="Boxes">162-164</container>
+ <unittitle>Note cards on correspondents. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.10" score="1" C-ORDER="229">
+ <did>
+ <unittitle>Marlen / Anne Smith[?]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.3.6.10.2" score="1" C-ORDER="230">
+ <did>
+ <container type="Box" label="Box">150</container>
+ <unittitle>Correspondence and notes. <unitdate calendar="gregorian" era="ce">1930s.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.3.6.11" score="1" C-ORDER="231">
+ <did>
+ <unittitle>Marlen Neumann / Anne Smith / Robert Neumann</unittitle>
+ </did>
+ <c02 level="subseries" id="c02-1.3.6.11.2" score="1" C-ORDER="232">
+ <did>
+ <unittitle>Snapshots, Address Books</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.3.6.11.2.2" score="1" C-ORDER="233">
+ <did>
+ <container type="Box" label="Box">204</container>
+ <unittitle>RN Dartmouth notes, photo Grandmother Smith, etc.</unittitle>
+<unitdate calendar="gregorian" era="ce">1986 and n.d.</unitdate>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
