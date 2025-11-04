@@ -1,174 +1,55 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
-<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/kt2g50264k" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library Special Collections//TEXT(US::CLU-SC::170/135::Frances Long Holt Journal)//EN" "ho170135.xml"</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Finding Aid for the Frances Long Holt Journal, 1872</titleproper>
-<titleproper type="filing">Holt (Frances L.) Journal</titleproper>
-<author>Cataloged by Jonathan Naito, with assistance from Jain Fletcher and Laurel McPhee, August 2004; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>UCLA Library Special Collections staff</addressline>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA 90095-1575</addressline>
-<addressline>Email: spec-coll@library.ucla.edu</addressline>
-<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
-</address>
-<date calendar="gregorian" era="ce">© 2008</date>
-<p>The Regents of the University of California. All rights reserved.</p>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce"> 2009;</date> frontmatter gathered MARC Record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
-<langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
-<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection" id="archdesc-1.2">
-<did id="did-1.2.1">
-<head>Descriptive Summary</head>
-<unittitle label="Title">Frances Long Holt Journal</unittitle>
-<unitdate type="inclusive" normal="1872">1872 </unitdate>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">170/135</unitid>
-<origination label="Creator">
-<persname rules="aacr2">Holt, Frances Long</persname></origination>
-<physdesc label="Extent">
-<extent>88 leaves : ruled paper ; 155 x 100 mm. bound to 162 x 109 mm.</extent>
-</physdesc>
-<abstract label="Abstract">Journal documenting Frances Long Holt's pleasure trip to North America in 1872. The author also describes a weeklong stay in Havana, Cuba and a brief stop in Quebec.</abstract>
-<langmaterial label="Language">Finding aid is written in 
-<language langcode="eng">English.</language>
-</langmaterial>
-<repository label="Repository">
-<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
-<address><addressline>Los Angeles, California 90095-1575</addressline></address>
-</repository>
-<physloc label="Physical location">Stored at YRL Special Collections Stacks. Advance notice is required for access to the material. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-</did>
-<descgrp type="admininfo" id="descgrp-1.2.2">
-<head>Administrative Information</head>
-<accessrestrict encodinganalog="506">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict encodinganalog="540">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<acqinfo encodinganalog="541">
-<head>Provenance/Source of Acquisition</head>
-<p>Ex libris C. K. Ogden, his bookplate on upper pastedown.</p>
-</acqinfo>
-<prefercite encodinganalog="524">
-<head>Preferred Citation</head>
-<p>[Identification of item], Frances Long Holt Journal (Collection 170/135). UCLA Library Special Collections, Charles E. Young Research Library.</p>
-</prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=5358567">5358567</extref></p>
-</odd>
-<processinfo>
-<head>Processing Note</head>
-<p>Cataloged by Jonathan Naito, with assistance from Jain Fletcher and Laurel McPhee, August 2004,in the Center For Primary Research and Training (CFPRT).</p>
-</processinfo>
-</descgrp>
-<bioghist encodinganalog="545" id="bioghist-1.2.3">
-<head>Biography</head>
-<p>Little is known about Frances (Long) Holt other than that she was the second wife of Alfred Holt (1829-1911), an entrepreneur and engineer who helped to introduce and advance steamship technology in the late nineteenth century. The company that he founded, Ocean Steam Ship Company (later Alfred Holt &amp; Co.), first rose to prominence by sending steam-powered ships on Asian trade routes. The Holts resided in Liverpool, England.</p>
-</bioghist>
-<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
-<head>Scope and Content</head>
-<p>Frances Long Holt's journal entries describe tourist spots such as New Orleans, San Francisco's Chinatown, Yosemite Valley, Niagara Falls, and New York's Central Park, as well as a number of less prominent tourist destinations including the growing cities of Denver, Colorado Springs, and the Mormon community in Salt Lake City.  Daily events within her family, as well as her personal impressions, are also recorded. She discusses the manufacture of cigars in Cuba, a journey up the Mississippi on a riverboat, a Chinese opera in San Francisco's Chinatown, and a trip on horseback through Yosemite Valley. Then, traveling east, she observes Niagara Falls and tours New York City's Central Park, happening upon Fredrick Law Olmstead in the park that he designed. Other notable experiences include a brief visit with Brigham Young during a stopover in Salt Lake City, a trip to the mills in Lowell, Massachusetts (which gives her the opportunity to compare working conditions in America with those in England), and a short stay in Quebec. The journal ends upon the family's return to Liverpool. Throughout the journal, she offers the perspective of a wealthy woman from Victorian England.</p>
-</scopecontent>
-<controlaccess id="controlaccess-1.2.5">
-<head>Indexing Terms</head>
-<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
-<controlaccess>
-<head>Subjects</head>
-<persname role="subject" source="lcnaf" encodinganalog="600">Holt, Frances Long --Travel --North America --Diaries.</persname>
-<subject source="lcsh" encodinganalog="650">Transatlantic voyages --Diaries.</subject>
-</controlaccess>
-</controlaccess>
-<relatedmaterial encodinganalog="544" id="relatedmaterial-1.2.6">
-<head>Related Material</head>
-<p>
-<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt538nb916" actuate="onrequest" show="new">Bound Manuscripts Collection (Collection 170)
-</extref>. Available at UCLA Library Special Collections, Charles E. Young Research Library.</p>
-</relatedmaterial>
-<dsc type="in-depth" id="dsc-1.2.7" score="2" C-ORDER="1" MAX-C-ORDER="18">
-<head>Container List</head>
-<note>
-<p>Binding: Half leather binding, decorative paper-covered boards and endpapers; exposed spine. Brown leather slipcase with gold stamping on spine.</p>
-</note>
-<c01 level="item" id="c01-1.2.7.3" score="1" C-ORDER="3"><did>
-<unittitle>ff. 2r-2v: list of hotels visited</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.4" score="1" C-ORDER="4"><did>
-<unittitle>ff. 3r-3v: blank</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.5" score="1" C-ORDER="5"><did>
-<unittitle>ff. 5v-7v: St. Thomas</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.6" score="1" C-ORDER="6"><did>
-<unittitle>ff. 8r-16r: Havana, Cuba</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.7" score="1" C-ORDER="7"><did>
-<unittitle>ff. 16v-23r: New Orleans</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.8" score="1" C-ORDER="8"><did>
-<unittitle>ff. 23r-25r: traveling up the Mississippi River</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.9" score="1" C-ORDER="9"><did>
-<unittitle>ff. 25r-30v: St. Louis, Kansas City, Denver, Colorado Springs</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.10" score="1" C-ORDER="10"><did>
-<unittitle>ff. 30v-33v: by train from Denver to California</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.11" score="1" C-ORDER="11"><did>
-<unittitle>ff. 33v-39r: San Francisco; Chinatown and Chinese Opera; geysers outside of
-Calistoga</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.12" score="1" C-ORDER="12"><did>
-<unittitle>ff. 39r-49r: Yosemite Valley</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.13" score="1" C-ORDER="13"><did>
-<unittitle>ff. 49v-53r: Salt Lake City</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.14" score="1" C-ORDER="14"><did>
-<unittitle>ff. 53r-56r: Chicago</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.15" score="1" C-ORDER="15"><did>
-<unittitle>ff. 56r-57v: Niagara Falls</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.16" score="1" C-ORDER="16"><did>
-<unittitle>ff. 58r-63v: New York City, Brooklyn</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.17" score="1" C-ORDER="17"><did>
-<unittitle>ff. 64r-70r: Boston, Lowell</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.18" score="1" C-ORDER="18"><did>
-<unittitle>ff. 70v-75v: Montreal, Kingston, Quebec City.</unittitle>
-</did>
-</c01>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/kt2g50264k/">ho170135.xml</eadid><filedesc><titlestmt><titleproper type="filing">Holt (Frances L.) Journal</titleproper><titleproper>Finding Aid for the Frances Long Holt Journal <num>LSC.170/135</num></titleproper><author>Finding aid prepared by Jonathan Naito, with assistance from Jain Fletcher and Laurel McPhee, August 2004; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>© 2008</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-03 16:05:36 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Frances Long Holt Journal</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="local">Holt, Frances Long</persname>
+    </origination>
+    <unitid>LSC.170/135</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 linear feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1872/1872" type="inclusive">1872</unitdate>
+    <abstract id="aspace_d656fd28777534c65fe30dd17a61f7b3" label="Abstract">Journal documenting Frances Long Holt's pleasure trip to North America in 1872. The author also describes a weeklong stay in Havana, Cuba and a brief stop in Quebec.</abstract>
+    <physdesc id="aspace_72d3e08bae7a49c4e0f975cbbca8e26a" label="General Physical Description note">88 leaves : ruled paper ; 155 x 100 mm. bound to 162 x 109 mm. Binding: Half leather binding, decorative paper-covered boards and endpapers; exposed spine. Brown leather slipcase with gold stamping on spine.</physdesc>
+    <physloc id="aspace_73b24cba3c8ede3d164421a667a36857" label="Physical location">Held at UCLA Library Special Collections. Advance notice is required for access to the collection. All requests to access special collections materials must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_37c03aa88a7e7c5a41ab2ac5b1d307ac">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_ce5815f1c5adcf521148ac648fcb7ed4">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_52598971c6cb05bbbaf78ca751c588bc">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_3274220fbdbcd6cf20ecd118db2714a2">
+    <head>Provenance/Source of Acquisition</head>
+<p>Ex libris C. K. Ogden, his bookplate on upper pastedown.</p>  </acqinfo>
+  <odd id="aspace_369ada69be941514741d64328fc39006">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/trta7g/alma9953585673606533">9953585673606533</extref></p>  </odd>
+  <prefercite id="aspace_323bc7b0a988d829c43cdedc85e2ff7a">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Frances Long Holt Journal (Collection 170/135). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_b61684b4936442c9e518746b9c50b725">
+    <head>Processing Note</head>
+<p>Processed by Jonathan Naito, with assistance from Jain Fletcher and Laurel McPhee, August 2004,in the Center For Primary Research and Training (CFPRT).</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special Collections.</extref></p>  </processinfo>
+  <bioghist id="aspace_8e81db3b166325f78c542b9a190532a5">
+    <head>Biography</head>
+<p>Little is known about Frances (Long) Holt other than that she was the second wife of Alfred Holt (1829-1911), an entrepreneur and engineer who helped to introduce and advance steamship technology in the late nineteenth century. The company that he founded, Ocean Steam Ship Company (later Alfred Holt &amp; Co.), first rose to prominence by sending steam-powered ships on Asian trade routes. The Holts resided in Liverpool, England.</p>  </bioghist>
+  <scopecontent id="aspace_7673ae28e997f18dfb01e9f7727436b7">
+    <head>Scope and Content</head>
+<p>Frances Long Holt's journal entries describe tourist spots such as New Orleans, San Francisco's Chinatown, Yosemite Valley, Niagara Falls, and New York's Central Park, as well as a number of less prominent tourist destinations including the growing cities of Denver, Colorado Springs, and the Mormon community in Salt Lake City. Daily events within her family, as well as her personal impressions, are also recorded. She discusses the manufacture of cigars in Cuba, a journey up the Mississippi on a riverboat, a Chinese opera in San Francisco's Chinatown, and a trip on horseback through Yosemite Valley. Then, traveling east, she observes Niagara Falls and tours New York City's Central Park, happening upon Fredrick Law Olmstead in the park that he designed. Other notable experiences include a brief visit with Brigham Young during a stopover in Salt Lake City, a trip to the mills in Lowell, Massachusetts (which gives her the opportunity to compare working conditions in America with those in England), and a short stay in Quebec. The journal ends upon the family's return to Liverpool. Throughout the journal, she offers the perspective of a wealthy woman from Victorian England.</p>  </scopecontent>
+  <relatedmaterial id="aspace_0a6558527b3e8bbfe7acbe0240baa738">
+    <head>Related Material</head>
+<p><extref xlink:href="https://www.oac.cdlib.org/findaid/ark:/13030/kt538nb916">Bound Manuscripts Collection (Collection 170) </extref>. Available at the Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Transatlantic voyages -- Diaries.</subject>
+    <persname source="local">Holt, Frances Long--Travel--North America--Diaries.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref13_y5g" level="item"><did><unittitle>ff. 2r-2v: list of hotels visited</unittitle></did></c01><c01 id="aspace_ref14_ilm" level="item"><did><unittitle>ff. 3r-3v: blank</unittitle></did></c01><c01 id="aspace_ref15_6od" level="item"><did><unittitle>ff. 5v-7v: St. Thomas</unittitle></did></c01><c01 id="aspace_ref16_ihi" level="item"><did><unittitle>ff. 8r-16r: Havana, Cuba</unittitle></did></c01><c01 id="aspace_ref17_8pl" level="item"><did><unittitle>ff. 16v-23r: New Orleans</unittitle></did></c01><c01 id="aspace_ref18_7dc" level="item"><did><unittitle>ff. 23r-25r: traveling up the Mississippi River</unittitle></did></c01><c01 id="aspace_ref19_jbs" level="item"><did><unittitle>ff. 25r-30v: St. Louis, Kansas City, Denver, Colorado Springs</unittitle></did></c01><c01 id="aspace_ref20_xsn" level="item"><did><unittitle>ff. 30v-33v: by train from Denver to California</unittitle></did></c01><c01 id="aspace_ref21_qeb" level="item"><did><unittitle>ff. 33v-39r: San Francisco; Chinatown and Chinese Opera; geysers outside of Calistoga</unittitle></did></c01><c01 id="aspace_ref22_894" level="item"><did><unittitle>ff. 39r-49r: Yosemite Valley</unittitle></did></c01><c01 id="aspace_ref23_mg9" level="item"><did><unittitle>ff. 49v-53r: Salt Lake City</unittitle></did></c01><c01 id="aspace_ref24_9uq" level="item"><did><unittitle>ff. 53r-56r: Chicago</unittitle></did></c01><c01 id="aspace_ref25_mzo" level="item"><did><unittitle>ff. 56r-57v: Niagara Falls</unittitle></did></c01><c01 id="aspace_ref26_6ys" level="item"><did><unittitle>ff. 58r-63v: New York City, Brooklyn</unittitle></did></c01><c01 id="aspace_ref27_52y" level="item"><did><unittitle>ff. 64r-70r: Boston, Lowell</unittitle></did></c01><c01 id="aspace_ref28_a14" level="item"><did><unittitle>ff. 70v-75v: Montreal, Kingston, Quebec City.</unittitle></did></c01></dsc>
 </archdesc>
 </ead>
