@@ -1,165 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
-<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/kt0j49r4xw" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library Special Collections//TEXT(US::CLU-SC::170/454::Alberto Muller Schaertlin's The yellow count)//EN" "sc170454.xml"</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Finding Aid for the Alberto Muller Schaertlin's The yellow count, 1935-1939</titleproper>
-<titleproper type="filing">Schaertlin (Alberto M.) The yellow count</titleproper>
-<author>Cataloged by Jonathan Naito with assistance from Jain Fletcher and Laurel McPhee, September 2004; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>UCLA Library Special Collections staff</addressline>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA 90095-1575</addressline>
-<addressline>Email: spec-coll@library.ucla.edu</addressline>
-<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
-</address>
-<date calendar="gregorian" era="ce">© 2009</date>
-<p>The Regents of the University of California. All rights reserved.</p>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce"> 2004-2007;</date> frontmatter gathered MARC Record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
-<langusage>Description is in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
-<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection" id="archdesc-1.2">
-<did id="did-1.2.1">
-<head>Descriptive Summary</head>
-<unittitle label="Title">Alberto Muller Schaertlin <title>The yellow count</title></unittitle>
-<unitdate type="inclusive" normal="1935/1939">1935-1939 </unitdate>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">170/454</unitid>
-<origination label="Creator">
-<persname rules="aacr2">Schaertlin, Alberto Muller</persname></origination>
-<physdesc label="Extent">
-<extent>335 leaves : paper, ill. ; 274 x 215 mm. bound to 281 x 227 mm.</extent>
-</physdesc>
-<abstract label="Abstract">Typescript of an unpublished account of a international swindle, <title>The Yellow Count</title>, with extensive appendices of material relating to the fictional events.</abstract>
-<langmaterial label="Language">Finding aid is written in 
-<language langcode="eng">English.</language>
-</langmaterial>
-<repository label="Repository">
-<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
-<address><addressline>Los Angeles, California 90095-1575</addressline></address>
-</repository>
-<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-</did>
-<descgrp type="admininfo" id="descgrp-1.2.2">
-<head>Administrative Information</head>
-<accessrestrict encodinganalog="506">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict encodinganalog="540">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<acqinfo encodinganalog="541">
-<head>Provenance/Source of Acquisition</head>
-<p>Purchased from J. G. Stanoff, Booksellers, 1970.</p>
-</acqinfo>
-<processinfo>
-<head>Processing Note</head>
-<p>Cataloged by Jonathan Naito with assistance from Jain Fletcher and Laurel McPhee, September 2004,  in the Center For Primary Research and Training (CFPRT).</p>
-</processinfo>
-<prefercite encodinganalog="524">
-<head>Preferred Citation</head>
-<p>[Identification of item], Alberto Muller Schaertlin The yellow count (Collection 170/454). UCLA Library Special Collections, Charles E. Young Research Library.</p>
-</prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4230403">4230403</extref></p>
-</odd>
-</descgrp>
-<bioghist encodinganalog="545" id="bioghist-1.2.3">
-<head>Biography</head>
-<p>Little is known about Alberto Muller Schaertlin, other than that he seems to have been a man with unfulfilled literary aspirations. Notes inside the front cover indicate he lived in New York City during the 1930s before moving to Los Angeles in the second half of the decade. The second page of material tipped in between the front endpapers claims that the author spent two years in Europe doing research after the manuscript was completed. He registered <title>The Yellow Count</title> with the Author's League of America in 1934, and the Screen Writers Guild in 1940. He may have been of Swiss origin or heritage (Schaertlin enclosed a copy of a letter by Max Graf, the chancellor of the Consulate of Switzerland in Los Angeles, in which the chancellor praises the manuscript, suggesting that it will be popular as a novel and a film in both the United States and Europe.) The materials in the appendix also suggest that Schaertlin was very interested in Japanese imperialism.</p>
-</bioghist>
-<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
-<head>Scope and Content</head>
-<p>The typescript is the fictional account (with supporting documentation) for the story of Igor de Tilinsky, a Russian who had served in the army during the Russo-Japanese War. Tilinsky claimed to possess a contract drawn up by the Japanese during the war promising 138 million yen in exchange for Russian military secrets. However, the contract stipulated that the sum was to be paid on March 22, 1915; in the years leading up to 1915, Tilinsky and two associates traveled from Odessa to Zurich to London, attempting to make lavish purchases in exchange for future payments from this windfall. Approximately one quarter of the manuscript is devoted to appendices with background material gathered by Schaertlin, apparently during a two-year stay in Europe. The appendices include material on the historical background of Japanese imperialism, typed transcriptions of newspaper articles and legal documents, and photostats of documents from the British Museum. The articles emphasize that the Japanese contract was a hoax, though it is clear that the story also had its believers, especially among those who doubted that the Japanese could have defeated the Russians at Port Arthur without inside information.</p>
-</scopecontent><controlaccess id="controlaccess-1.2.5">
-<head>Indexing Terms</head>
-<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
-<controlaccess>
-<head>Genres and Forms of Material</head>
-<genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
-</controlaccess>
-</controlaccess>
-<relatedmaterial encodinganalog="544" id="relatedmaterial-1.2.6">
-<head>Related Material</head>
-<p>
-<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt538nb916" actuate="onrequest" show="new">Bound Manuscripts Collection (Collection 170)
-</extref>. Available at UCLA Library Special Collections, Charles E. Young Research Library.</p>
-</relatedmaterial>
-<dsc type="in-depth" id="dsc-1.2.7" score="2" C-ORDER="1" MAX-C-ORDER="14">
-<head>Container List</head>
-<note>
-<p>Layout: Text averages 26 lines per page, with 1-inch top and bottom margins; .5 inch edge margins, and a 1.5 inch gutter.</p>
-<p>Script: Typescript</p>
-<p>Binding: Burgundy </p>
-</note>
-<c01 level="item" id="c01-1.2.7.3" score="1" C-ORDER="3"><did>
-<unittitle>Tipped in page: carbon copy letter from Max Graf</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.4" score="1" C-ORDER="4"><did>
-<unittitle>Tipped in page: note by author about appendices and supplemental research</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.5" score="1" C-ORDER="5"><did>
-<unittitle>ff. 1r: holographic note with author's address</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.6" score="1" C-ORDER="6"><did>
-<unittitle>ff. 2r: illustrated title page</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.7" score="1" C-ORDER="7"><did>
-<unittitle>ff. 3r: typed title page</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.8" score="1" C-ORDER="8"><did>
-<unittitle>ff. 4r: table of contents</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.9" score="1" C-ORDER="9"><did>
-<unittitle>ff. 5r-6r: author's preface</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.10" score="1" C-ORDER="10"><did>
-<unittitle>ff. 7r-251r: typescript of The Yellow Count with  holograph corrections and one illustration
- (28r)</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.11" score="1" C-ORDER="11"><did>
-<unittitle>ff. 252r-261r: Appendix I: Japanese Imperialism: an essay and timeline, 2 maps</unittitle>
-</did>
-</c01>
-<c01 level="item" id="c01-1.2.7.12" score="2" C-ORDER="12"><did>
-<unittitle>ff. 262r-311r: Appendix II: Comments of the Press</unittitle>
-</did>
-<scopecontent>
- <p>typescripts of articles related to the
- Tilinsky affair, including articles from <title>The Whitehall Gazette</title> and English translations of articles
- from Scheinwerfer, <title>L'Intransigeant</title>, Neue Zurcher Zeitung, and Neues Wiener Tagblatt</p>
- </scopecontent>
-</c01>
-<c01 level="item" id="c01-1.2.7.13" score="2" C-ORDER="14"><did>
-<unittitle>ff. 312r-335r: Appendix III. Copies of Documents</unittitle>
-</did>
-<scopecontent>
-<p>English translations of two contracts between the Japanese government and Tilinsky,  typescripts of letters between Gyr-Guyer and
- Tilinsky, typescript of the indictment of General Stössel from <title>The Whitehall Gazette</title>, photostats of
- pages from <title>The Whitehall Gazette</title> (including one in Japanese), and typescripts of letters from H.
- Schaufelberger to Schaertlin.</p>
-</scopecontent>
-</c01>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://www.oac.cdlib.org/findaid/ark:/13030/kt0j49r4xw/">sc170454.xml</eadid><filedesc><titlestmt><titleproper type="filing">Schaertlin (Alberto M.) - The yellow count</titleproper><titleproper>Finding Aid for the Alberto Muller Schaertlin's The yellow count, 1935-1939 <num>LSC.170/454</num></titleproper><author>Finding aid prepared by Jonathan Naito with assistance from Jain Fletcher and Laurel McPhee, September 2004; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>© 2009</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-05 14:45:54 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Alberto Muller Schaertlin <title>The yellow count</title></unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Schaertlin, Alberto Muller</persname>
+    </origination>
+    <unitid>LSC.170/454</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 volume</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1935/1939" type="inclusive">1935-1939</unitdate>
+    <abstract id="aspace_135d77d127d90dc37408e61d4505ad03" label="Abstract">Typescript of an unpublished account of a international swindle, <title>The Yellow Count</title>, with extensive appendices of material relating to the fictional events.</abstract>
+    <physdesc id="aspace_95dcd346382f49d7dd4e8b1108e3e8e1" label="Physical Description">335 leaves : paper, ill. ; 274 x 215 mm. bound to 281 x 227 mm. Layout: Text averages 26 lines per page, with 1-inch top and bottom margins; .5 inch edge margins, and a 1.5 inch gutter. Script: Typescript Binding: Burgundy</physdesc>
+    <physloc id="aspace_301e70a4d357f575ebe5643c13d56c27" label="Physical location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_d8b6c30a004cdd6fab40cc512c6cf384">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_12ff9bf17bb544316c8ebea29991076c">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_b245509eec3057e31269ecef31fc9ab1">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_9923f55772bff7d39ce3628214400872">
+    <head>Provenance/Source of Acquisition</head>
+<p>Purchased from J. G. Stanoff, Booksellers, 1970.</p>  </acqinfo>
+  <odd id="aspace_f5779b26ef2d2dc4c5d33ebe53692036">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9942304033606533">9942304033606533</extref></p>  </odd>
+  <prefercite id="aspace_959d2416be7776ce1f0ce0f29810fd1b">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Alberto Muller Schaertlin The yellow count (Collection  170/454). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_d5bb645afba3efabf17763b9f04558ed">
+    <head>Processing Note</head>
+<p>Processed by Jonathan Naito with assistance from Jain Fletcher and Laurel McPhee, September 2004, in the Center For Primary Research and Training (CFPRT).</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_1a17ae022e9b3b09f9c6ab687be6d584">
+    <head>Biography</head>
+<p>Little is known about Alberto Muller Schaertlin, other than that he seems to have been a man with unfulfilled literary aspirations. Notes inside the front cover indicate he lived in New York City during the 1930s before moving to Los Angeles in the second half of the decade. The second page of material tipped in between the front endpapers claims that the author spent two years in Europe doing research after the manuscript was completed. He registered <title>The Yellow Count</title> with the Author's League of America in 1934, and the Screen Writers Guild in 1940. He may have been of Swiss origin or heritage (Schaertlin enclosed a copy of a letter by Max Graf, the chancellor of the Consulate of Switzerland in Los Angeles, in which the chancellor praises the manuscript, suggesting that it will be popular as a novel and a film in both the United States and Europe.) The materials in the appendix also suggest that Schaertlin was very interested in Japanese imperialism.</p>  </bioghist>
+  <scopecontent id="aspace_a9c4a3a4ee5a95debeb60d53567b9ef1">
+    <head>Scope and Content</head>
+<p>The typescript is the fictional account (with supporting documentation) for the story of Igor de Tilinsky, a Russian who had served in the army during the Russo-Japanese War. Tilinsky claimed to possess a contract drawn up by the Japanese during the war promising 138 million yen in exchange for Russian military secrets. However, the contract stipulated that the sum was to be paid on March 22, 1915; in the years leading up to 1915, Tilinsky and two associates traveled from Odessa to Zurich to London, attempting to make lavish purchases in exchange for future payments from this windfall. Approximately one quarter of the manuscript is devoted to appendices with background material gathered by Schaertlin, apparently during a two-year stay in Europe. The appendices include material on the historical background of Japanese imperialism, typed transcriptions of newspaper articles and legal documents, and photostats of documents from the British Museum. The articles emphasize that the Japanese contract was a hoax, though it is clear that the story also had its believers, especially among those who doubted that the Japanese could have defeated the Russians at Port Arthur without inside information.</p>  </scopecontent>
+  <relatedmaterial id="aspace_2e5a457ab0ce4a889cfeb5d9c58f6235">
+    <head>Related Material</head>
+<p><extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.oac.cdlib.org/findaid/ark:/13030/kt538nb916">Bound Manuscripts Collection (Collection 170) </extref>. Available at the Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Manuscripts.</genreform>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref13_32g" level="item"><did><unittitle>Tipped in page: carbon copy letter from Max Graf</unittitle></did></c01><c01 id="aspace_ref14_of5" level="item"><did><unittitle>Tipped in page: note by author about appendices and supplemental research</unittitle></did></c01><c01 id="aspace_ref15_sp9" level="item"><did><unittitle>ff. 1r: holographic note with author's address</unittitle></did></c01><c01 id="aspace_ref16_7b6" level="item"><did><unittitle>ff. 2r: illustrated title page</unittitle></did></c01><c01 id="aspace_ref17_emg" level="item"><did><unittitle>ff. 3r: typed title page</unittitle></did></c01><c01 id="aspace_ref18_edw" level="item"><did><unittitle>ff. 4r: table of contents</unittitle></did></c01><c01 id="aspace_ref19_rql" level="item"><did><unittitle>ff. 5r-6r: author's preface</unittitle></did></c01><c01 id="aspace_ref20_rtm" level="item"><did><unittitle>ff. 7r-251r: typescript of The Yellow Count with holograph corrections and one illustration (28r)</unittitle></did></c01><c01 id="aspace_ref21_h2k" level="item"><did><unittitle>ff. 252r-261r: Appendix I: Japanese Imperialism: an essay and timeline, 2 maps</unittitle></did></c01><c01 id="aspace_ref22_pvs" level="item"><did><unittitle>ff. 262r-311r: Appendix II: Comments of the Press</unittitle></did><scopecontent id="aspace_be546c81dc908da67c847141ff14bb31"><head>Scope and Contents note</head><p>typescripts of articles related to the Tilinsky affair, including articles from <title>The Whitehall Gazette</title> and English translations of articles from Scheinwerfer, <title>L'Intransigeant</title>, Neue Zurcher Zeitung, and Neues Wiener Tagblatt</p></scopecontent></c01><c01 id="aspace_ref24_4ic" level="item"><did><unittitle>ff. 312r-335r: Appendix III. Copies of Documents</unittitle></did><scopecontent id="aspace_18e4072407c7d14aa996e4a844b532c9"><head>Scope and Contents note</head><p>English translations of two contracts between the Japanese government and Tilinsky, typescripts of letters between Gyr-Guyer and Tilinsky, typescript of the indictment of General Stössel from <title>The Whitehall Gazette</title>, photostats of pages from <title>The Whitehall Gazette</title> (including one in Japanese), and typescripts of letters from H. Schaufelberger to Schaertlin.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
