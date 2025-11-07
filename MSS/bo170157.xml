@@ -1,111 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
-<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/kt787034k1" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library Special Collections//TEXT(US::CLU-SC::170/157::Minutes of meetings Board of State and Territorial Commissioners of the North, Central and South American Exposition)//EN" "bo170157.xml"</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Finding Aid for the Minutes of meetings : Board of State and Territorial Commissioners of the North, Central and South American Exposition, [1885-1886]</titleproper>
-<titleproper type="filing">Board of State and Territorial Commissioners of the North, Central and South American Exposition - Minutes of meetings</titleproper>
-<author>Cataloged by Citlali Sosa-Riddell, with assistance from Laurel McPhee; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>UCLA Library Special Collections staff</addressline>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA 90095-1575</addressline>
-<addressline>Email: spec-coll@library.ucla.edu</addressline>
-<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
-</address>
-<date calendar="gregorian" era="ce">© 2009</date>
-<p>The Regents of the University of California. All rights reserved.</p>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce"> 2004-2007;</date> frontmatter gathered MARC Record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
-<langusage>Description is in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
-<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection" id="archdesc-1.2">
-<did id="did-1.2.1">
-<head>Descriptive Summary</head>
-<unittitle label="Title">Minutes of meetings : Board of State and Territorial Commissioners of the North, Central and South American Exposition</unittitle>
-<unitdate type="inclusive" normal="1885/1886">[1885-1886] </unitdate>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">170/157</unitid>
-<origination label="Creator">
-<corpname rules="aacr2">Board of State and Territorial Commissioners of the North, Central, and South American Exposition</corpname></origination>
-<physdesc label="Extent">
-<extent>2 v. (206, 94 leaves) : paper ; 20.5 x 13 cm.</extent>
-</physdesc>
-<abstract label="Abstract">In 1885, a board of state and territorial commissioners was created to develop the North, Central, and South American Exposition in New Orleans. These two manuscripts are the minutes of the board's meetings, as taken by secretary Charles B. Turrill, commissioner for California, and agent in charge of the Southern Pacific exhibit. The minutes describe the logistical planning and development of the exposition.</abstract>
-<langmaterial label="Language">Finding aid is written in 
-<language langcode="eng">English.</language>
-</langmaterial>
-<repository label="Repository">
-<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
-<address><addressline>Los Angeles, California 90095-1575</addressline></address>
-</repository>
-<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-</did>
-<descgrp type="admininfo" id="descgrp-1.2.2">
-<head>Administrative Information</head>
-<accessrestrict encodinganalog="506">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict encodinganalog="540">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<processinfo>
-<head>Processing Note</head>
-<p>Cataloged by Citlali Sosa-Riddell, with assistance from Laurel McPhee, in the Center For Primary Research and Training (CFPRT).</p>
-</processinfo>
-<prefercite encodinganalog="524">
-<head>Preferred Citation</head>
-<p>[Identification of item], Minutes of meetings : Board of State and Territorial Commissioners of the North, Central and South American Exposition (Collection 170/157). UCLA Library Special Collections, Charles E. Young Research Library.</p>
-</prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4230403">4230403</extref></p>
-</odd>
-</descgrp>
-<bioghist encodinganalog="545" id="bioghist-1.2.3">
-<head>Biography</head>
-<p>The 1884 exposition in New Orleans was deemed a commercial failure and thus, seeking a way to recoup losses, the Board of State and Territorial Commissioners of the North, Central, and South American Exposition was formed on November 10th, 1885. The Board purchased the buildings from the original fair and attempted to re-open the exposition as a way to highlight New Orleans and the United States as a nexus of trade between the Americas. The second exposition also proved to be a financial failure, and it was disbanded as an organization on May 17th, 1886. All the buildings, except Horticultural Hall, were dismantled, and the site was developed into Audubon Park in the 1890s.</p>
-</bioghist>
-<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
-<head>Scope and Content</head>
-<p>The minutes for the North, Central, and South American Exposition document the efforts of the Board of State and Territorial Commissioners to make the second New Orleans exposition a success. Among other activities, the Commissioners sought to secure inexpensive public transit, display the newest commercial goods, and promote advertising that would attract people to the fair. The minutes document the work of the executive committee, finance committee, reception committee, printing committee, excursion committee, and committee on ceremonies. The record includes roll calls for commissioners, reports on railroad prices from various cities in the United States and its territories, discussions about the costs of printing and advertising, and lists of awards that would be presented at the exposition.</p>
-</scopecontent>
-<controlaccess id="controlaccess-1.2.5">
-<head>Indexing Terms</head>
-<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
-<controlaccess>
-<head>Subjects</head>
-<persname role="subject" source="lcnaf" encodinganalog="600">Turrill, Charles B. (Charles Beebe), 1854-1927.</persname>
-<corpname role="subject" source="lcnaf" encodinganalog="610">North, Central and South American Exposition (1885-1886 : New Orleans, La.)</corpname>
-<controlaccess>
-<head>Genres and Forms of Material</head>
-<genreform source="aat" encodinganalog="655">Manuscripts.</genreform>
-</controlaccess>
-</controlaccess>
-</controlaccess>
-<relatedmaterial encodinganalog="544" id="relatedmaterial-1.2.6">
-<head>Related Material</head>
-<p>
-<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt538nb916" actuate="onrequest" show="new">Bound Manuscripts Collection (Collection 170)
-</extref>. Available at the UCLA Library Special Collections, Charles E. Young Research Library.</p>
-</relatedmaterial>
-<dsc type="in-depth" id="dsc-1.2.7" score="2" C-ORDER="1" MAX-C-ORDER="1">
-<head>Container List</head>
-<note>
-<p>Layout: Average of 30 ruled lines of text per page.</p>
-<p>Script: Cursive.</p>
-<p>Binding: Bound in leather composition books.</p>
-</note>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/kt787034k1/">bo170157.xml</eadid><filedesc><titlestmt><titleproper type="filing">Minutes of Meetings for the Board of State and Territorial Commissioners of the North, Central and South American Exposition</titleproper><titleproper>Finding Aid for the Minutes of meetings: Board of State and Territorial Commissioners of the North, Central and South American Exposition, [1885-1886] <num>LSC.170/157</num></titleproper><author>Finding aid prepared by Citlali Sosa-Riddell, with assistance from Laurel McPhee; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>© 2009</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-11-07 13:37:05 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Minutes of meetings : Board of State and Territorial Commissioners of the North, Central and South American Exposition</unittitle>
+    <origination label="Creator">
+      <corpname rules="aacr" source="local">Board of State and Territorial Commissioners of the North, Central, and South American Exposition</corpname>
+    </origination>
+    <unitid>LSC.170/157</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 linear feet</extent>
+      <extent altrender="carrier">1 box, 2 v. (206, 94 leaves) : paper ; 20.5 x 13 cm. </extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1885/1886" type="inclusive">[1885-1886]</unitdate>
+    <abstract id="aspace_273c651ce22c7fbd4aea42fa18048b20" label="Abstract">In 1885, a board of state and territorial commissioners was created to develop the North, Central, and South American Exposition in New Orleans. These two manuscripts are the minutes of the board's meetings, as taken by secretary Charles B. Turrill, commissioner for California, and agent in charge of the Southern Pacific exhibit. The minutes describe the logistical planning and development of the exposition.</abstract>
+    <physdesc id="aspace_98022d9aee124777d3411d71503874f7" label="General Physical Description note">2 v. (206, 94 leaves) : paper ; 20.5 x 13 cm. Layout: Average of 30 ruled lines of text per page.
+ Script: Cursive. Binding: Bound in leather composition books.</physdesc>
+    <physloc id="aspace_b53273d0bb19510f2be76c1d6815fbd6" label="Physical location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_b4b4b5f029f46ba58d3d53b7c0ebfd77">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_a2f6385bbb033c3781e4c7a9a5965ad2">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_aa66901308df6fe9d4826d49fbedef34">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <odd id="aspace_45c0caea0f30e4d91d342fcb06103eeb">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9942304033606533">9942304033606533</extref></p>  </odd>
+  <prefercite id="aspace_1df891b2aed447061d6755400e736a56">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Minutes of meetings : Board of State and Territorial Commissioners of the North, Central and South American Exposition (Collection 170/157). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_f00b3c065b65b670bc3ce30a95bd4c53">
+    <head>Processing Note</head>
+<p>Processed by Citlali Sosa-Riddell, with assistance from Laurel McPhee, in the Center For Primary Research and Training (CFPRT).</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_44cbf67a2895aa99a8374632118a5079">
+    <head>Biography</head>
+<p>The 1884 exposition in New Orleans was deemed a commercial failure and thus, seeking a way to recoup losses, the Board of State and Territorial Commissioners of the North, Central, and South American Exposition was formed on November 10th, 1885. The Board purchased the buildings from the original fair and attempted to re-open the exposition as a way to highlight New Orleans and the United States as a nexus of trade between the Americas. The second exposition also proved to be a financial failure, and it was disbanded as an organization on May 17th, 1886. All the buildings, except Horticultural Hall, were dismantled, and the site was developed into Audubon Park in the 1890s.</p>  </bioghist>
+  <relatedmaterial id="aspace_7e7947bc4124c0f39c4757c861dd65a0">
+    <head>Related Material</head>
+<p><extref xlink:actuate="onRequest" xlink:show="new" xlink:href="http:s//www.oac.cdlib.org/findaid/ark:/13030/kt538nb916">Bound Manuscripts Collection (Collection 170) </extref>. Available at UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </relatedmaterial>
+  <controlaccess>
+    <genreform source="aat">Manuscripts.</genreform>
+    <corpname rules="rda" source="naf">North, Central and South American Exposition (1885-1886 : New Orleans, La.)</corpname>
+    <persname source="ingest">Turrill, Charles B. (Charles Beebe), 1854-1927.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_a9b99add27f4abb6a9d6a27bbb23e040" level="series"><did><unittitle>[Minutes for the North, Central, and South American Exposition]</unittitle></did><scopecontent id="aspace_d70935e4c3c94234a70565bbe234eb8b"><head>Scope and Content</head><p>The minutes for the North, Central, and South American Exposition document the efforts of the Board of State and Territorial Commissioners to make the second New Orleans exposition a success. Among other activities, the Commissioners sought to secure inexpensive public transit, display the newest commercial goods, and promote advertising that would attract people to the fair. </p><p>The minutes document the work of the executive committee, finance committee, reception committee, printing committee, excursion committee, and committee on ceremonies. </p><p>The record includes roll calls for commissioners, reports on railroad prices from various cities in the United States and its territories, discussions about the costs of printing and advertising, and lists of awards that would be presented at the exposition.</p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
