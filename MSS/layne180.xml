@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/tf4000059b" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT (US::CLU-SC::180::J. Gregg Layne Articles Submitted to the Historical Society of Southern California Quarterly)//EN" "layne180.xml"
+</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the J. Gregg Layne Articles Submitted to the <emph render="italic">Historical Society of Southern California Quarterly</emph>, 1945-1952</titleproper>
+<titleproper type="filing">Layne (J. Gregg) Articles Submitted to the Historical Society of Southern California Quarterly</titleproper>
+<author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cubé and edited by Josh Fiala.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library, Department of Special Collections</publisher>
+<address>
+  <addressline>Manuscripts Division</addressline>
+  <addressline>Room A1713, Charles E. Young Research Library</addressline>
+  <addressline>Box 951575</addressline>
+  <addressline>Los Angeles, CA 90095-1575</addressline>
+  <addressline>Email: spec-coll@library.ucla.edu</addressline>
+  <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">© 1999</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from card-file by rekeying, <date>May 1999</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cubé. Online finding aid edited by Josh Fiala. Date of source: <date>unknown</date>.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" id="archdesc-1.2">
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">J. Gregg Layne Articles Submitted to the <emph render="italic">Historical Society of Southern California Quarterly</emph>, </unittitle>
+<unitdate type="inclusive" normal="1945/1952">1945-1952</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">180</unitid>
+<origination label="Creator">
+<persname role="subject" source="lcnaf">Layne, J. Gregg (Joseph Gregg), 1885-1952</persname>
+</origination>
+<physdesc label="Extent"><extent>2 boxes (1 linear ft.)</extent></physdesc>
+<abstract label="Abstract">Joseph Gregg Layne (1885-1952) was a leading authority and bibliographer of Californiana as well as president, member of the board of directors and editor of the <title>Quarterly for the Historical Society of Southern California</title>. The collection consists of about 40 original typescripts of articles by various persons, submitted to Joseph Gregg Layne while editor of the <title>Historical Society of Southern California Quarterly</title>.</abstract>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library. Department of Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo" id="descgrp-1.2.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Joseph Gregg Layne, 1951.</p>
+</acqinfo>
+<prefercite encodinganalog="544">
+<head>Preferred Citation</head>
+<p>[Identification of item], J. Gregg Layne Articles Submitted to the <emph render="italic">Historical Society of Southern California Quarterly</emph> (Collection 180). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233283">4233283</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545" id="bioghist-1.2.3">
+<head>Biography</head>
+<p>Layne was born on June 13, 1885, in Huntington, West Virginia; moved to Pomona, California at age of four; graduated, Los Angeles High School, 1903; manager, Los Angeles office, Keuffel &amp; Esser Company of New York, 1904-19; manager, Southwest division, Taylor Instruments Company, 1919-35; representative, Southwest division, Charles Bruning Comapny of New York, 1939-47; historian, Department of Water and Power, Los Angeles, 1947-52; research staff, Huntington Library, 1945-47; consultant in Western Americana, UCLA Library, 1952; as a leading authority and bibliographer of Californiana, he wrote books, articles and reviews mostly about California history; president, member of board of directors, Historical Society of Southern California, and editor of its <title>Quarterly</title>, 1935-52; organizer, E Clampus Vitus; member, Zamorano Club, The Scribes; died on August 16, 1952; The Historical Society of Southern California was created on November 1, 1883 and officially incorporated on February 13, 1891; the <title>Historical Society of Southern California Quarterly</title> was first published in 1935.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
+<head>Scope and Content</head>
+<p>Collection consists of about 40 original typescripts of articles by various persons, submitted to Joseph Gregg Layne, editor of the <title>Historical Society of Southern California Quarterly</title>, and later published in the Quarterly.</p>
+</scopecontent>
+<controlaccess id="controlaccess-1.2.5">
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Layne, J. Gregg (Joseph Gregg), 1885-1952--Archives.</persname>
+<corpname source="lcnaf" role="subject" encodinganalog="610">Historical Society of Southern California--Quarterly. </corpname>
+<occupation source="lcsh" encodinganalog="650">Periodical editors--California, Southern--Archival resources.</occupation>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Manuscripts for publication. </genreform>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+
+<dsc type="in-depth" id="dsc-1.2.6" score="2" C-ORDER="1" MAX-C-ORDER="3">
+<head>Container List</head>
+<note><p><emph render="italic">Description derived from in-house card file.</emph></p></note>
+<c01 level="collection" id="c01-1.2.6.3" score="2" C-ORDER="3">
+<did>
+<unittitle>Collection of Original Typescripts of Articles by Various Persons on California history. v.p., <unitdate>v.d.</unitdate></unittitle>
+<physdesc> (2 boxes)</physdesc>
+</did>
+<scopecontent><p>
+These articles were submitted to Joseph Gregg Layne, editor of the <emph render="italic">Historical Society of Sothern California Quarterly</emph>, and were published in the <emph render="italic">Quarterly</emph>.
+</p></scopecontent>
+</c01>
+</dsc>
+<relatedmaterial id="relatedmaterial-1.2.7">
+<head>Related Material</head>
+<p>J. Gregg Layne Papers (Collection 188). Available at Department of Special Collections, UCLA.</p>
+</relatedmaterial>
+</archdesc>
+</ead>
