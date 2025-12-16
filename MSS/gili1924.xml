@@ -1,86 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
-<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/c82f7p0j" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::1924::Ted Gilien Photographs of postwar Japan and the Philippines)//EN" "gili1924.xml"</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Finding Aid for the Ted Gilien Photographs of postwar Japan and the Philippines, ca. 1945-1946</titleproper>
-<titleproper type="filing">Gilien (Ted) Photographs of postwar Japan and the Philippines</titleproper>
-<author>Processed by Lesley Ragsdale, with assistance from Kelley Wolfe Bachli and Lilace Hatayama, March 2012; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA 90095-1575</addressline>
-<addressline>Email: spec-coll@library.ucla.edu</addressline>
-<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
-</address>
-<date calendar="gregorian" era="ce">© 2012</date>
-<p>The Regents of the University of California. All rights reserved.</p>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>Machine-readable finding aid derived from finding aid processed using the Archivists' Toolkit, encoding added via Archivists' Toolkit, Notetab Pro, and Oxygen. Date of source: <date>3/2012</date>. Supplementary encoding and revision by Caroline Cubé.</creation>
-<langusage>Description is in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
-<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection" id="archdesc-1.2">
-<did id="did-1.2.1">
-<head>Descriptive Summary</head>
-<unittitle label="Title">Ted Gilien Photographs of postwar Japan and the Philippines</unittitle>
-<unitdate type="inclusive" normal="1945/1946">ca. 1945-1946</unitdate>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1924</unitid>
-<origination label="Creator">
-<persname rules="aacr2">Gilien, Ted.</persname></origination>
-<physdesc label="Extent">
-<extent>2 boxes (0.8 linear ft.)</extent>
-</physdesc>
-<abstract label="Abstract">This collection contains approximately 500 photographs taken by combat artist and painter Ted Gilian ca. 1945-1946 documenting war destruction in Japan and the Philippines. He later used many of the photographs as source materials for his paintings.</abstract>
-<langmaterial label="Language">Finding aid is written in 
-<language langcode="eng">English.</language>
-</langmaterial>
-<langmaterial label="Language of the Material">
-Materials are in English.
-</langmaterial>
-<repository label="Repository">
-<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
-<address><addressline>Los Angeles, California 90095-1575</addressline></address>
-</repository>
-<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
-</did>
-<descgrp type="admininfo" id="descgrp-1.2.2">
-<head>Administrative Information</head>
-<accessrestrict encodinganalog="506">
-<head>Restrictions on Access</head>
-<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
-</accessrestrict>
-<userestrict encodinganalog="540">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<acqinfo encodinganalog="541">
-<head>Provenance/Source of Acquisition</head>
-<p>Gift of Jeremy Gilien, Ted Gilien's son, 2010.</p>
-</acqinfo>
-<processinfo>
-<head>Processing Note</head>
-<p>Processed by Lesley Ragsdale March 2012, with assistance from Kelley Bachli and Lilace Hatayama.</p>
-</processinfo>
-<prefercite encodinganalog="524">
-<head>Preferred Citation</head>
-<p>[Identification of item], Ted Gilien Photographs of postwar Japan and the Philippines (Collection 1924). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
-</prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p>UCLA Catalog Record ID: 
- <extref href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=" actuate="onrequest" show="new">7047179</extref></p>
-</odd>
-</descgrp>
-<bioghist encodinganalog="545" id="bioghist-1.2.3">
-<head>Chronology</head>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c82f7p0j/">gili1924.xml</eadid><filedesc><titlestmt><titleproper type="filing">Gilien (Ted) photographs</titleproper><titleproper>Finding aid for the Ted Gilien photographs <num>LSC.1924</num></titleproper><author>Finding aid prepared by Lesley Ragsdale, with assistance from Kelley Wolfe Bachli, 2012.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>3/2012</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-12-16 14:05:40 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+        <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Ted Gilien photographs of postwar Japan and the Philippines</unittitle>
+    <origination label="Creator">
+      <persname source="ingest">Ted Gilien, 1914-1967</persname>
+    </origination>
+    <unitid>LSC.1924</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.8 linear feet</extent>
+      <extent altrender="carrier">(2 oversize shoe boxes)</extent>
+    </physdesc>
+    <unitdate certainty="approximate" datechar="creation" normal="1945/1946" type="inclusive">circa 1945-1946</unitdate>
+    <abstract id="aspace_9104914dca74ed2a4f0853a0e4095bcf" label="Abstract">This collection contains approximately 500 photographs taken by combat artist and painter Ted Gilien ca. 1945-1946 documenting war destruction in Japan and the Philippines. He later used many of the photographs as source materials for his paintings.</abstract>
+    <langmaterial id="aspace_4180c15ce592ef752a4a0b1b630e5c48">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_cf10a9aadb32d43efb141de8a8469c58">
+    <head>Conditions Governing Access note</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_cb43e74634a283dedd3a51c4ac38e067">
+    <head>Conditions Governing Use note</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_7e1bd51db98627a05522a3566a43136b">
+    <head>Immediate Source of Acquisition note</head>
+<p>The collection was donated to Special Collections by Jeremy Gilien, Ted Gilien's son, in September 2010.</p>  </acqinfo>
+  <odd id="aspace_9ae27118e5bde8f4ee7fbf5782937974">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/trta7g/alma9970471793606533">9970471793606533</extref></p>  </odd>
+  <prefercite id="aspace_76156cda35666aaa1c3842c4071e26f5">
+    <head>Preferred Citation note</head>
+<p>[Identification of Item], Ted Gilien photographs (Collection 1858). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_74e0e67cfd6b0900a10806e732dcd176">
+    <head>Processing Information</head>
+<p>Processed by Lesley Ragsdale March 2012, with assistance from Kelley Bachli and Lilace Hatayama.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_077c260de58f0d6edcf3257134f9e795">
+    <head>Chronology</head>
 <p><chronlist>
 <chronitem><date>1914 March 17</date> <event>Ted Gilien born in Brooklyn, New York</event></chronitem>
 <chronitem><date>1932-1933</date> <event>Attended the Art Students League and the National Academy of Art in New York City</event></chronitem>
@@ -98,152 +54,33 @@ Materials are in English.
 <chronitem><date>1965-? </date><event>Exhibited one man shows at the International Design Center in LA, the LA Sports Arena, the Inheritance Gallery, and the Renaissance Gallery in Beverly Hills</event></chronitem>
 <chronitem><date>1965</date> <event>Awarded first prize at the California State Fair</event></chronitem>
 <chronitem><date>1967 March 11</date> <event>Died in Los Angeles</event></chronitem>
-</chronlist></p>
-</bioghist>
-<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
-<head>Scope and Content</head>
-<p>The collection contains approximately 500 black and white photographs taken ca. 1945-1946 in Japan and the Philippines. The photographs document the destruction caused by the atomic bomb in Nagasaki including the ruins of the Urakami Cathedral. Along with significant photographs depicting building destruction, many images depict Japanese citizens clearing rubble, living in the streets in makeshift camps, or moving bundled belongings by any means available. The photographs also include images of ruined Japanese boats, ships, and military planes. A few photographs depict crowds at the Imperial Palace in Tokyo as well as kabuki theatre. The collection also contains photographs of US GIs serving in Japan. Photographs from the Philippines focus on images of citizens living in rough and meager conditions.</p>
-</scopecontent>
-<arrangement id="arrangement-1.2.5">
-<head>Organization and Arrangement</head>
+</chronlist></p>  </bioghist>
+  <scopecontent id="aspace_ebeacc42cacf3a9247f5d1afdc0bae74">
+    <head>Scope and Content</head>
+<p>The collection contains approximately 500 black and white photographs taken ca. 1945-1946 in Japan and the Philippines. The photographs document the destruction caused by the atomic bomb in Nagasaki including the ruins of the Urakami Cathedral. Along with significant photographs depicting building destruction, many images depict Japanese citizens clearing rubble, living in the streets in makeshift camps, or moving bundled belongings by any means available. The photographs also include images of ruined Japanese boats, ships, and military planes. A few photographs depict crowds at the Imperial Palace in Tokyo as well as kabuki theatre. The collection also contains photographs of US GIs serving in Japan. Photographs from the Philippines focus on images of citizens living in rough and meager conditions.</p>  </scopecontent>
+  <arrangement id="aspace_6f3a1fd55f4d27fea8d158a90bad476b">
+    <head>Arrangement note</head>
 <p>The collection is arranged into the following series:
-<list type="ordered" numeration="arabic">
+<list type="ordered">
 <item>Nagasaki destruction</item>
 <item>Urakami Cathedral destruction</item>
 <item>Planes and ships</item>
 <item>Street scenes</item>
 <item>Clearing rubble</item>
-<item>Men and crowds</item>
+<item>Men and crowds</item> 
 <item>Children</item>
 <item>Girls</item>
 <item>Kabuki</item>
 <item>Tokyo Imperial Palace</item>
 <item>US GIs</item>
 <item>Philippines</item>
-</list></p>
-</arrangement>
-<controlaccess id="controlaccess-1.2.6">
-<head>Indexing Terms</head>
-<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
-<controlaccess>
-<head>Subjects</head>
-<persname role="subject" source="lcnaf" encodinganalog="600">Gilien, Ted, 1914-1967 --Archives.</persname>
-<occupation source="lcsh" encodinganalog="650">Photographers --United States --Archival resources.</occupation>
-</controlaccess>
-</controlaccess>
-<dsc type="in-depth" id="dsc-1.2.7" score="1" C-ORDER="1" MAX-C-ORDER="21">
-<head>Container List</head>
-<c01 id="ref10" level="file" score="2" C-ORDER="2">
-<did>
-<unittitle>Nagasaki destruction</unittitle>
-<physdesc id="ref11">
-<extent>(164 photographs)</extent></physdesc>
-</did>
-<scopecontent id="ref12">
-<p>Contains images of building destruction as well as some images of fire</p>
-</scopecontent>
-</c01>
-<c01 id="ref13" level="file" score="2" C-ORDER="4">
-<did>
-<unittitle>Urakami Cathedral destruction</unittitle>
-<physdesc id="ref14">
-<extent>(51 photographs)</extent></physdesc>
-</did>
-<bioghist id="ref15">
-<p>St. Mary's Cathedral, also called Urakami Cathedral due to its location in Urakami in the northern region of the city of Nagasaki, was originally constructed in 1895. The brick Romanesque Catholic Church was destroyed when an atomic bomb was dropped on Nagasaki on August 9, 1945 and a replacement building was constructed in 1959.</p>
-</bioghist>
-</c01>
-<c01 id="ref16" level="file" score="2" C-ORDER="6">
-<did>
-<unittitle>Planes and ships</unittitle>
-<physdesc id="ref17">
-<extent>(85 photographs)</extent></physdesc>
-</did>
-<scopecontent id="ref18">
-<p>This file contains images of wrecked Japanese military planes, some photographs taken during flight, and images of wrecked military and civilian boats and vessels.</p>
-</scopecontent>
-</c01>
-<c01 id="ref19" level="file" score="2" C-ORDER="8">
-<did>
-<unittitle>Street scenes</unittitle>
-<physdesc id="ref20">
-<extent>(123 photographs)</extent></physdesc>
-</did>
-<scopecontent id="ref21">
-<p>The file contains images of vehicles, bicycles, and carts used to move bundled belongings along with images of citizens living in makeshift camps amidst war destruction. The file also contains some images of intact buildings and monuments.</p>
-</scopecontent>
-</c01>
-<c01 id="ref22" level="file" score="2" C-ORDER="10">
-<did>
-<unittitle>Clearing rubble</unittitle>
-<physdesc id="ref23">
-<extent>(26 photographs)</extent></physdesc>
-</did>
-<scopecontent id="ref24">
-<p>The file contains images of Japanese men and soldiers clearing rubble.</p>
-</scopecontent>
-</c01>
-<c01 id="ref25" level="file" score="2" C-ORDER="12">
-<did>
-<unittitle>Men and crowds</unittitle>
-<physdesc id="ref26">
-<extent>(141 photographs)</extent></physdesc>
-</did>
-<scopecontent id="ref27">
-<p>The file contains images of men and crowds in the streets or living in makeshift camps. Some images depict possible delousing.</p>
-</scopecontent>
-</c01>
-<c01 id="ref28" level="file" score="1" C-ORDER="14">
-<did>
-<unittitle>Children</unittitle>
-<physdesc id="ref29">
-<extent>(69 photographs)</extent></physdesc>
-</did>
-</c01>
-<c01 id="ref30" level="file" score="1" C-ORDER="15">
-<did>
-<unittitle>Girls</unittitle>
-<physdesc id="ref31">
-<extent>(78 photographs)</extent></physdesc>
-</did>
-</c01>
-<c01 id="ref32" level="file" score="3" C-ORDER="16">
-<did>
-<unittitle>Kabuki</unittitle>
-<physdesc id="ref33">
-<extent>(19 photographs)</extent></physdesc>
-</did>
-<bioghist id="ref34">
-<p>Kabuki is a traditional Japanese dance-drama known for the stylization of its drama and the elaborate makeup worn by its performers.</p>
-</bioghist>
-<controlaccess>
-<subject source="lcsh">Kabuki</subject>
-</controlaccess>
-</c01>
-<c01 id="ref35" level="file" score="1" C-ORDER="19">
-<did>
-<unittitle>Tokyo Imperial Palace</unittitle>
-<physdesc id="ref36">
-<extent>(34 photographs)</extent></physdesc>
-</did>
-</c01>
-<c01 id="ref37" level="file" score="1" C-ORDER="20">
-<did>
-<unittitle>US GIs</unittitle>
-<physdesc id="ref38">
-<extent>(62 photographs)</extent></physdesc>
-</did>
-</c01>
-<c01 id="ref39" level="file" score="2" C-ORDER="21">
-<did>
-<unittitle>Philippines</unittitle>
-<physdesc id="ref40">
-<extent>(154 photographs)</extent></physdesc>
-</did>
-<controlaccess>
-<geogname source="lcsh">Philippines</geogname>
-</controlaccess>
-</c01>
-</dsc>
+</list></p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">World War II.</subject>
+    <geogname source="lcsh">Nagasaki-shi (Japan).</geogname>
+    <geogname source="lcsh">Japan.</geogname>
+    <subject source="lcsh">Atomic bomb -- Japan-Nagasaki-shi.</subject>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref10_ww2" level="file"><did><unittitle>Nagasaki destruction</unittitle><physdesc id="aspace_91e44a85feef1d73e8933e0f4ef1d43a" label="General Physical Description note"><extent>(164 photographs)</extent></physdesc></did><scopecontent id="aspace_2c8a307ebe1a8a5f9295844fd65c3441"><head>Scope and Contents note</head><p>Contains images of building destruction as well as some images of fire</p></scopecontent></c01><c01 id="aspace_ref13_mxf" level="file"><did><unittitle>Urakami Cathedral destruction</unittitle><physdesc id="aspace_1893f7f2b5d6e2c18d55623a9b596c6d" label="General Physical Description note"><extent>(51 photographs)</extent></physdesc></did><bioghist id="aspace_29b8ff02fcf1b265a28848991109030c"><head>Biographical/Historical note</head><p>St. Mary's Cathedral, also called Urakami Cathedral due to its location in Urakami in the northern region of the city of Nagasaki, was originally constructed in 1895. The brick Romanesque Catholic Church was destroyed when an atomic bomb was dropped on Nagasaki on August 9, 1945 and a replacement building was constructed in 1959.</p></bioghist></c01><c01 id="aspace_ref16_u37" level="file"><did><unittitle>Planes and ships</unittitle><physdesc id="aspace_eca728a5399d1bf8a5a49271d95cd0d9" label="General Physical Description note"><extent>(85 photographs)</extent></physdesc></did><scopecontent id="aspace_f52db958148c2e9ded26c2491d554820"><head>Scope and Contents note</head><p>This file contains images of wrecked Japanese military planes, some photographs taken during flight, and images of wrecked military and civilian boats and vessels.</p></scopecontent></c01><c01 id="aspace_ref19_7jc" level="file"><did><unittitle>Street scenes</unittitle><physdesc id="aspace_c647198221bbfe4409a81a7ab87a325e" label="General Physical Description note"><extent>(123 photographs)</extent></physdesc></did><scopecontent id="aspace_fd05add85ed2bfc01fe5ccc95b2682b5"><head>Scope and Contents note</head><p>The file contains images of vehicles, bicycles, and carts used to move bundled belongings along with images of citizens living in makeshift camps amidst war destruction. The file also contains some images of intact buildings and monuments.</p></scopecontent></c01><c01 id="aspace_ref22_83k" level="file"><did><unittitle>Clearing rubble</unittitle><physdesc id="aspace_2d2483ce5cd300dd0ab4cf54ea1d12a8" label="General Physical Description note"><extent>(26 photographs)</extent></physdesc></did><scopecontent id="aspace_3355f1b8ad088b940af4684b00dcb871"><head>Scope and Contents note</head><p>The file contains images of Japanese men and soldiers clearing rubble.</p></scopecontent></c01><c01 id="aspace_ref25_820" level="file"><did><unittitle>Men and crowds</unittitle><physdesc id="aspace_e36d8375f0885da3ed7e11e841a5394b" label="General Physical Description note"><extent>(141 photographs)</extent></physdesc></did><scopecontent id="aspace_320a851164b0abc210e14b97c9d7cc74"><head>Scope and Contents note</head><p>The file contains images of men and crowds in the streets or living in makeshift camps. Some images depict possible delousing.</p></scopecontent></c01><c01 id="aspace_ref28_7o0" level="file"><did><unittitle>Children</unittitle><physdesc id="aspace_48b5ae92aa5eb0474258f7c0a43847b8" label="General Physical Description note"><extent>(69 photographs)</extent></physdesc></did></c01><c01 id="aspace_ref30_58r" level="file"><did><unittitle>Girls</unittitle><physdesc id="aspace_80502f502e4c2a0fa7f2d0314a8ac66f" label="General Physical Description note"><extent>(78 photographs)</extent></physdesc></did></c01><c01 id="aspace_ref32_a1f" level="file"><did><unittitle>Kabuki</unittitle><physdesc id="aspace_9ee7cbcc3a1192976897f8ee871235a8" label="General Physical Description note"><extent>(19 photographs)</extent></physdesc></did><bioghist id="aspace_d67887d8250fc8fa13f844dd019691a4"><head>Biographical/Historical note</head><p>Kabuki is a traditional Japanese dance-drama known for the stylization of its drama and the elaborate makeup worn by its performers.</p></bioghist><controlaccess><subject source="lcsh">Kabuki.</subject></controlaccess></c01><c01 id="aspace_ref35_7xe" level="file"><did><unittitle>Tokyo Imperial Palace</unittitle><physdesc id="aspace_239be431b541e9ebb84f1cbefd1d06bd" label="General Physical Description note"><extent>(34 photographs)</extent></physdesc></did></c01><c01 id="aspace_ref37_y00" level="file"><did><unittitle>US GIs</unittitle><physdesc id="aspace_9a67bd9b4bfe730f969c299acc7ada68" label="General Physical Description note"><extent>(62 photographs)</extent></physdesc></did></c01><c01 id="aspace_ref39_oj6" level="file"><did><unittitle>Philippines</unittitle><physdesc id="aspace_3840ace589049cba6ce5542b9aa2364a" label="General Physical Description note"><extent>(154 photographs)</extent></physdesc></did><controlaccess><geogname source="lcsh">Philippines.</geogname></controlaccess></c01></dsc>
 </archdesc>
 </ead>
