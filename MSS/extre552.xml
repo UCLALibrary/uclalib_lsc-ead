@@ -1,0 +1,736 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt8j49p1qx" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::552::Extremist Book Collection)//EN&quot; &quot;extre552.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">extre552.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Extremist Book Collection, </titleproper><titleproper type="filing">Extremist Book Collection</titleproper>
+ <author>Processed by K. Landesman; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 2002</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">March 2000</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::552::Extremist Book Collection)//EN" "extre552.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Extremist Book Collection, </titleproper>
+ <num>Collection number: 552</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>K. Landesman, February 1982</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Text converted and initial container list EAD tagging by:</label>
+ <item>Apex Data Services</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, March 2002</item>
+ </defitem>
+ </list>
+ <p>© 2002 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Extremist Book Collection, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive"/>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">552</unitid>
+ <physdesc label="Extent">
+ <extent>4 boxes (2.0 linear ft.)</extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">This collection contains a variety of extremist literature predominantly from the 1930s to the 1960s. The collection consists of books espousing political viewpoints of the extreme left and right, extremist periodicals, and bookdealer catalogs.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Extremist Book Collection (Collection 552). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232998">4232998</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>This collection contains a variety of extremist literature predominantly from the 1930s to the 1960s including writings by Che Guevara, Karl Marx, V.M. Molotov, and Joseph Stalin. </p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of books espousing political viewpoints of the extreme left and right, extremist periodicals, and bookdealer catalogs. Includes the periodicals The communist, Dialectics, and Political affairs. Left wing books include writings by Che Guevara, Karl Marx, V.M. Molotov, and Joseph Stalin. Right wing books include Marilyn R. Allen's <title linktype="simple">Alien Minorities and Mongrelization</title>, Elizabeth Dilling's <title linktype="simple">The Roosevelt Red Record and its Background</title>, and Phyllis Schlafly's <title linktype="simple">The Gravediggers</title>. </p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <genreform source="rbgenr" encodinganalog="655">Alternative publications.</genreform>
+ <genreform source="rbgenr" encodinganalog="655">Literature of prejudice.</genreform>
+ <genreform source="rbgenr" encodinganalog="655">Propaganda.</genreform>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6" score="1" C-ORDER="1" MAX-C-ORDER="91">
+ <head>Container List</head>
+ <c01 level="series" id="c01-1.8.6.2" score="1" C-ORDER="2">
+ <did>
+ <unittitle>Books</unittitle>
+ </did>
+ <c02 level="item" id="c02-1.8.6.2.2" score="1" C-ORDER="3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Capell, Frank A. </persname><title linktype="simple">The Threat From Within</title>. 
+<imprint>New Port Beach (California): Herald of Freedom </imprint></bibref><unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.3" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Carpenter, John. </persname><title linktype="simple">Extremism U.S.A.</title><imprint>Phoenix: Associated Professional Services </imprint></bibref><unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.4" score="1" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Cincinnatus. </persname><title linktype="simple">Veritas Vincit. War! War! War!</title><imprint>n.p. </imprint></bibref><unitdate calendar="gregorian" era="ce">1940.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.5" score="1" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Crane, Philip. </persname><title linktype="simple">The Democrats Dilemma</title>. 
+<imprint>Chicago: Henry Regnery </imprint></bibref><unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.6" score="1" C-ORDER="7">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Fortas, Abe. </persname><title linktype="simple">Concerning Dissent and Civil Disobedience</title>. 
+<imprint>New York: New American Library. Another copy, varient.</imprint></bibref><unitdate calendar="gregorian" era="ce">1968.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.7" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Frommer, Arthur. </persname><title linktype="simple">Goldwater From A to Z. A Critical Handbook</title>. 
+<imprint>New York: Pocket Books </imprint></bibref><unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.8" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Green, G.F. </persname><title linktype="simple">The International Jew The World's Foremost Problem.</title><imprint>Herts (England): Green </imprint></bibref><unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.9" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Guevara, Che. </persname><title linktype="simple">Che Guevara on Vietnam and World Revolution</title>. 
+<imprint>New York: Merit </imprint></bibref><unitdate calendar="gregorian" era="ce">1967.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.10" score="1" C-ORDER="11">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Haley, J. Evetts. </persname><title linktype="simple">A Texan Looks at Lyndon. A Study in Illegimate Power</title>. 
+<imprint>Canyon (Texas): Palo Duro Press </imprint></bibref><unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.11" score="1" C-ORDER="12">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Huberman, Leo. </persname><title linktype="simple">The Labor Spy Racket</title>. 
+<imprint>New York: Modern Age Books </imprint></bibref><unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.12" score="1" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Johnson, Frank Woodruff. </persname><title linktype="simple">The Octopus</title>. 
+<imprint>Omaha: Author </imprint></bibref><unitdate calendar="gregorian" era="ce">1940.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.13" score="1" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Johnson, John J. </persname><title linktype="simple">The United States and the Latin American Left Wings</title>. 
+<imprint>Stanford (California): Center for Research in International Studies </imprint></bibref><unitdate calendar="gregorian" era="ce">1967.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.14" score="1" C-ORDER="15">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Lasell, Helen P. </persname><title linktype="simple">Power Behind Government Today</title>. 
+<imprint>New York: Liberty Publications </imprint></bibref><unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.15" score="1" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Lippman, Walter. </persname><title linktype="simple">The Stakes of Diplomacy</title>. 
+<imprint>New York: Henry Holt &amp; Company </imprint></bibref><unitdate calendar="gregorian" era="ce">1915.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.16" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Luce, Phillip Abbott. </persname><title linktype="simple">Road to Revolution: Communist Guerilla Warfare in the U.S.A.</title><imprint>San Diego: Viewpoint Books </imprint></bibref><unitdate calendar="gregorian" era="ce">1967.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.17" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Manking United. </persname><title linktype="simple">A Challenge to Mad Ambition and The Money Changers.</title><imprint>n.p.: The International Registration Bureau </imprint></bibref><unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.18" score="1" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Moravec, Charles. </persname><title linktype="simple">Logos</title>. 
+<imprint>Arlington (Texas): Moasic Press, (vol.1: But Man Proud Man)</imprint></bibref><unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.19" score="1" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Morris, Robert. </persname><title linktype="simple">No Wonder We Are Losing</title>. 
+<imprint>New York: The Bookmailer </imprint></bibref><unitdate calendar="gregorian" era="ce">1958.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.20" score="1" C-ORDER="21">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Nock, Albert Jay. </persname><title linktype="simple">The Myth of a Guilty Nation</title>. 
+<imprint>New York: Huebsch Incorporated </imprint></bibref><unitdate calendar="gregorian" era="ce">1922.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.21" score="1" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Peck, James. </persname><title linktype="simple">Underdogs vs Upperdogs</title>. 
+<imprint>Canterbury (New Hampshire): Greenleaf </imprint></bibref><unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.22" score="1" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Pritt, D.N. </persname><title linktype="simple">Star Spangled Shadow</title>. 
+<imprint>London (England): Frederick Muller </imprint></bibref><unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.23" score="1" C-ORDER="24">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Storm, Wayne. </persname><title linktype="simple">International Money Power Behind World Revolution</title>. 
+<imprint>Shreveport (Louisiana): Storm Publishing </imprint></bibref><unitdate calendar="gregorian" era="ce">1966.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.24" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Stormer, John A. </persname><title linktype="simple">None Dare Call It Treason</title>. 
+<imprint>Florissant (Missouri): Liberty Bell Press </imprint></bibref><unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.25" score="1" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><bibref linktype="simple"><persname>Thompson, Dorothy. </persname><title linktype="simple">The Truth About Communism</title>. 
+<imprint>Washington, D.C.: Public Affairs Press </imprint></bibref><unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.26" score="1" C-ORDER="27">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Allen, Charles R., Jr. </persname><title linktype="simple">Concentration Camps U.S.A.</title><imprint>New York: Marzani &amp; Munsell </imprint></bibref><unitdate calendar="gregorian" era="ce">1966.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.27" score="1" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Allen, Marilyn R. </persname><title linktype="simple">Alien Minorities and Mongrelization</title>. 
+<imprint>Boston: Meador </imprint></bibref><unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.28" score="1" C-ORDER="29">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Artune, Frederick. </persname><title linktype="simple">The Grapes of Madness. The Racial Crisis in Perspective</title>. 
+<imprint>n.p. </imprint></bibref><unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.29" score="1" C-ORDER="30">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Byfield, Robert S. </persname><title linktype="simple">The Fifth Weapon</title>. 
+<imprint>New York: The Bookmailer </imprint></bibref><unitdate calendar="gregorian" era="ce">1954.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.30" score="1" C-ORDER="31">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Beaty, John. </persname><title linktype="simple">The Iron Curtain Over America</title>. 
+<imprint>Dallas: Wildenson, 1952. Another copy, Varient.</imprint></bibref><unitdate calendar="gregorian" era="ce">1962.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.31" score="1" C-ORDER="32">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Chodorov, Frank. </persname><title linktype="simple">The Income Tax: Root of all Evil</title>. 
+<imprint>Portland (Indiana): Independence Foundation </imprint></bibref><unitdate calendar="gregorian" era="ce">1957.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.32" score="2" C-ORDER="33">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Macdonald, Andrew. </persname><title linktype="simple">The Turner Diaries</title>. 
+<imprint>Arlington (Virginia): National Vanguard Books </imprint></bibref><unitdate calendar="gregorian" era="ce">1980.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Removed for cataloging, 1996.</p>
+ </note>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.33" score="1" C-ORDER="35">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Dilling, Elizabeth. </persname><title linktype="simple">The Red Network; A Who's Who and Handbook of Rdaicalism for Patriots</title>. 
+<imprint>Chicago: Author </imprint></bibref><unitdate calendar="gregorian" era="ce">1934.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.34" score="1" C-ORDER="36">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Dilling, Elizabeth. </persname><title linktype="simple">The Roosevelt Red Record and Its Background</title>. 
+<imprint>Chicago: Author </imprint></bibref><unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.35" score="1" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>
+ <bibref linktype="simple"><persname>McBirnie, W.S. </persname><title linktype="simple">How to Predict What Our Enemies Will Do</title>. 
+<imprint>Glendale (California): Author </imprint></bibref>
+ <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+ </unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.36" score="1" C-ORDER="38">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Meeker, C.A. </persname><imprint>Shysterism U.S.A. Albuquerque, Fox </imprint></bibref><unitdate calendar="gregorian" era="ce">1967.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.37" score="1" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Schlafly, Phyllis. </persname><title linktype="simple">The Gravediggers</title>. 
+<imprint>Alton (Illinois): Pere Marquette Press </imprint></bibref><unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.38" score="1" C-ORDER="40">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Shafer, Paul W. </persname><title linktype="simple">The Turning of the Tides</title>. 
+<imprint>New Canaan (Connecticut): The Long House </imprint></bibref><unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.39" score="1" C-ORDER="41">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>
+ <bibref linktype="simple"><corpname>U.S. Government House of Representitives. Committee on Un-American Activities. </corpname><title linktype="simple">Guide to Subversive Organizations and Publications</title>. </bibref>
+ <unitdate calendar="gregorian" era="ce">1961</unitdate>
+ </unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.40" score="1" C-ORDER="42">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><corpname>U.S. Government House of Representitives. Committee on Un-American Activities. </corpname><title linktype="simple">Supplement to Cumulative Index to Publications of The Committee on Un-American Activities 1955 through 1960</title>. </bibref><unitdate calendar="gregorian" era="ce">1961.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.41" score="1" C-ORDER="43">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>We Accuse. </persname><title linktype="simple">A Powerful Statement of the New Political Anger in America</title>. 
+<imprint>Berkeley (California): Diablo Press </imprint></bibref><unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.42" score="1" C-ORDER="44">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><bibref linktype="simple"><persname>Wynn, Milton J. </persname><title linktype="simple">Why I Hate the Nazis</title>. 
+<imprint>New York: ACA Gallery </imprint></bibref><unitdate calendar="gregorian" era="ce">1945.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.43" score="1" C-ORDER="45">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><persname>Considine, Bob. </persname><title linktype="simple">How Russia Stole America's Atomic Secrets</title>. 
+<imprint>n.p.: International News Services </imprint></bibref><unitdate calendar="gregorian" era="ce">1951.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.44" score="1" C-ORDER="46">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><persname>Dewey, John. </persname><title linktype="simple">Impressions of Soviet Russia and the Revolutionary World</title>. 
+<imprint>New York: New Republic </imprint></bibref><unitdate calendar="gregorian" era="ce">1929.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.45" score="1" C-ORDER="47">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><persname>Hamilton, Mary. </persname><title linktype="simple">Freedom Riders Speak For Themselves</title>. 
+<imprint>Detroit: News &amp; Letters </imprint></bibref><unitdate calendar="gregorian" era="ce">1961.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.46" score="1" C-ORDER="48">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><persname>Lowry, Edith. </persname><title linktype="simple">Migrants of the Crops: They Starve That We May Eat</title>. 
+<imprint>New York: Council of Women For Home Missions and Missionary Education Movement </imprint></bibref><unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.47" score="1" C-ORDER="49">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><persname>Marx, Karl. </persname><title linktype="simple">Wage-Labor and Capital</title>. 
+<imprint>New York: International Publishers </imprint></bibref><unitdate calendar="gregorian" era="ce">1932.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.48" score="1" C-ORDER="50">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><persname>Molotov, V. </persname><title linktype="simple">The Soviet Union in 1942. The Third Five-Year Plan</title>. 
+<imprint>New York: Workers Library Publishers </imprint></bibref><unitdate calendar="gregorian" era="ce">1939.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.49" score="1" C-ORDER="51">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><title linktype="simple">Program of the Communist International Together With Its Constitution</title>. 
+<imprint>New York: Workers Library Publishers </imprint></bibref><unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.50" score="1" C-ORDER="52">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><persname>Stalin, Joseph. </persname><title linktype="simple">Foundations of Leninism</title>. 
+<imprint>New York: International Publishers </imprint></bibref><unitdate calendar="gregorian" era="ce">1934.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.51" score="1" C-ORDER="53">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><persname>Stalin, Joseph. </persname><title linktype="simple">Mastering Bolshevism</title>. 
+<imprint>New York: Workers Library Publishers </imprint></bibref><unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.2.52" score="1" C-ORDER="54">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><bibref linktype="simple"><title linktype="simple">Voices From Russia</title>. 
+<imprint>St. Louis: The Melting Pot </imprint></bibref>ca.<unitdate calendar="gregorian" era="ce">1918.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.3" score="1" C-ORDER="55">
+ <did>
+ <unittitle>Periodicals</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.3.2" score="1" C-ORDER="56">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>
+ <bibref linktype="simple"><title linktype="simple">The Communist</title>. 
+<imprint>New York: Workers Library Publishers.</imprint></bibref>
+ </unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.3.2.2" score="1" C-ORDER="57">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 1938.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.3" score="1" C-ORDER="58">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">November 1938.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.4" score="1" C-ORDER="59">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">March 1939.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.5" score="1" C-ORDER="60">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 1940.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.6" score="1" C-ORDER="61">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 1940.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.7" score="1" C-ORDER="62">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 1942.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.8" score="1" C-ORDER="63">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">March 1943.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.9" score="1" C-ORDER="64">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 1943.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.10" score="1" C-ORDER="65">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">November 1943.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.11" score="1" C-ORDER="66">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 1944.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.12" score="1" C-ORDER="67">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 1944.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.13" score="1" C-ORDER="68">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">October 1944.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.3" score="1" C-ORDER="69">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>
+ <bibref linktype="simple"><title linktype="simple">Dialectics</title>. 
+<imprint>New York: Critics Group.</imprint></bibref>
+ </unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.3.3.2" score="1" C-ORDER="70">
+ <did>
+ <unittitle>no.1-8</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.4" score="1" C-ORDER="71">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>
+ <bibref linktype="simple"><title linktype="simple">Political Affairs</title>.
+<imprint>New York: New Century Publishers.</imprint></bibref>
+ </unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.3.4.2" score="1" C-ORDER="72">
+ <did>
+ <unittitle>
+ <unitdate calendar="gregorian" era="ce">July 1945</unitdate>
+ </unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.4.3" score="1" C-ORDER="73">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">October 1945.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.4.4" score="1" C-ORDER="74">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 1946.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.4.5" score="1" C-ORDER="75">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">October 1946.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.4.6" score="1" C-ORDER="76">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 1947.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.4.7" score="1" C-ORDER="77">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">February 1947.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.4.8" score="1" C-ORDER="78">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 1947.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.4.9" score="1" C-ORDER="79">
+ <did>
+ <unittitle>
+ <unitdate calendar="gregorian" era="ce">June 1948</unitdate>
+ </unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.4.10" score="1" C-ORDER="80">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">November 1948.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.4.11" score="1" C-ORDER="81">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">December 1948.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 id="c02-1.8.6.3.5" score="1" C-ORDER="82">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><bibref linktype="simple"><title linktype="simple">The New Mythology of Racial Equality</title>.
+<imprint>New York: The Truth Seeker Company, Incorporated </imprint></bibref><unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.3.6" score="1" C-ORDER="83">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><bibref linktype="simple"><persname>Howard, Peter.</persname><title linktype="simple">Design for Dedication</title>.
+<imprint>Chicago: Henry Regnery Company </imprint></bibref><unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.3.7" score="1" C-ORDER="84">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><bibref linktype="simple"><persname>Kluckhohn, Frank L.</persname><title linktype="simple">America: Listen!</title><imprint>Derby (Connecticut): Monarch Books, Incorporated </imprint></bibref><unitdate calendar="gregorian" era="ce">1961.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.3.8" score="1" C-ORDER="85">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><bibref linktype="simple"><persname>Lane, Lieutenant-Colonel A.H.</persname><title linktype="simple">The Alien Menace</title>.
+<imprint>London: H.A. Kings and Sons, Limited </imprint></bibref><unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.3.9" score="1" C-ORDER="86">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><bibref linktype="simple"><persname>Schafly, Phyllis.</persname><title linktype="simple">A Choice not an Echo</title>.
+<imprint>Alton(Illinois): Pere Marquette Press </imprint></bibref><unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.3.10" score="1" C-ORDER="87">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><bibref linktype="simple"><persname>Schafly, Phyllis and Chester Ward.</persname><title linktype="simple">Strike from Space</title>.
+<imprint>Alton (Illinois): Pere Marquette Press </imprint></bibref><unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.3.11" score="1" C-ORDER="88">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><bibref linktype="simple"><persname>Stormer, John A.</persname><title linktype="simple">None Dare Call It Treason</title>.
+<imprint>Florissant (Missouri): Liberty Bell Press </imprint></bibref><unitdate calendar="gregorian" era="ce">1964.</unitdate> 
+(Copy 2).</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.4" score="1" C-ORDER="89">
+ <did>
+ <unittitle>Bibliographies</unittitle>
+ </did>
+ <c02 level="item" id="c02-1.8.6.4.2" score="1" C-ORDER="90">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle>
+ <bibref linktype="simple"><title linktype="simple">The Radical Right, Catalog #15</title>.
+<imprint>Burbank: Book Castle Incorporated.</imprint></bibref>
+ </unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.4.3" score="1" C-ORDER="91">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Miscellaneous ephemera: includes bookdealer catalogs.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
