@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt3v19p51x" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::636::Ezra Pound Papers)//EN&quot; &quot;pound636.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">pound636.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Ezra Pound Papers, 1911-1949</titleproper><titleproper type="filing">Pound (Ezra) Papers</titleproper>
+ <author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 1999</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access or other database program, <date calendar="gregorian" era="ce">unknown year</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::636::Ezra Pound Papers)//EN" "pound636.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Ezra Pound Papers, 1911-1949</titleproper>
+ <num>Collection number: 636</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Manuscripts Division staff</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, February 2003</item>
+ </defitem>
+ </list>
+ <p>© 1999 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Ezra Pound Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1911-1949</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">636</unitid>
+ <origination label="Creator">
+ <persname source="lcnaf" role="subject">Pound, Ezra, 1885-1972</persname>
+ </origination>
+ <physdesc label="Extent">
+ <extent>2 boxes (1.0 linear ft.) </extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Ezra Pound (1885-1972) was a poet, translator, and a representative for <title linktype="simple">Poetry</title> magazine, and <title linktype="simple">The little review</title>. His published works include <title linktype="simple">A lume spento</title> (1908), <title linktype="simple">Homage to Sextus Propertius</title> (1917), and <title linktype="simple">Hugh Selwyn Mauberly</title> (1920). The collection contains Pound's correspondence with E.W. Titus, letters to various persons, corrected proofs of poems, typescripts, and issues of <title linktype="simple">The Pound newsletter</title>.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ <p>Portions of this collection are restricted from copying. Consult finding aid for additional information. </p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Ezra Pound Papers (Collection 636). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233609">4233609</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Pound was born in Hailey, Idaho on October 30, 1885; attended the University of Pennsylvania and Hamilton College; taught romance philology at Wabash College; left for Europe; in 1908 his first book of verse, <title linktype="simple">A lume spento</title>, was published; lived in London from 1908-20, where he published translations of Italian and Provençal poetry and adaptations from Chinese poems; published <title linktype="simple">Homage to Sextus Propertius</title> (1917) and <title linktype="simple">Hugh Selwyn Mauberly</title> (1920); served as London representative for <title linktype="simple">Poetry</title> magazine, and for <title linktype="simple">The little review</title>; began to write <title linktype="simple">The cantos</title>, the first of which was published in 1925; moved to Paris in 1920, and to Rapallo, Italy five years later; made pro-Fascist broadcasts from Italy after the U.S. declared war; was indicted for treason, held at a detention center in Pisa in 1945, and was transferred to St. Elizabeth's Hospital for the criminally insane in Washington, D.C. in 1946; awarded the Bollingen Prize for poetry in 1949; returned to Italy after his release in 1958; he died in Venice on November 1, 1972.</p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection contains Pound correspondence with E.W. Titus, letters to various persons, corrected proofs of poems published in <title linktype="simple">The little review</title>, proofs of <title linktype="simple">Certain noble plays of Japan</title> with holograph corrections, typescript drafts of cantos xii and xiii, typescripts of the <title linktype="simple">Noh stories</title>, <title linktype="simple">Moon madness</title> and <title linktype="simple">The rabbit's house</title>, and ephemera. Also contains numbers 1-10 of <title linktype="simple">The Pound newsletter</title> and two reels of microfilm containing If this be treason... [n.p., c.1948] and <title linktype="simple">The cantos of Ezra Pound</title>.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname source="lcnaf" encodinganalog="600" role="subject">Pound, Ezra, 1885-1972--Archives.</persname>
+ <occupation source="lcsh" encodinganalog="650">Poets, American--20th century--Archival resources.</occupation>
+ <genreform source="aat" encodinganalog="655">Microfilms.</genreform>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6" score="1" C-ORDER="1" MAX-C-ORDER="28">
+ <head>Container List</head>
+ <c01 level="item" id="c01-1.8.6.2" score="2" C-ORDER="2">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Pound, Ezra. <title linktype="simple">A Lume Spento</title>.</unittitle>
+ <physdesc> Bound in green morocco.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Proofs revised by the author. Given to D.H. Lawrence about 1911.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.3" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>----. <title linktype="simple">Cantos XII and XIII</title>.</unittitle>
+ <physdesc> 10 leaves. Typescript with holograph corrections. In a black cloth case.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.4" score="2" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>----. Demarcations and The Revolution Betrayed. in the <title linktype="simple">British Union Quarterly</title>, vol.1 no.1 and vol.2 no.1. <unitdate calendar="gregorian" era="ce">January-April 1937 and January-March 1938.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>E. Pound's contributions.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.5" score="1" C-ORDER="7">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>----. <title linktype="simple">Certain Noble Plays of Japan</title>. Churchtown, Dundrum: The Cuala Press. <unitdate calendar="gregorian" era="ce">1916.</unitdate></unittitle>
+ <physdesc> Proof sheets with copious holograph corrections. In a blue morocco slipcase.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.6" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>----. <title linktype="simple">Certain Noble Plays of Japan</title>. Churchtown, Dundrum: The Cuala Press. <unitdate calendar="gregorian" era="ce">1916.</unitdate></unittitle>
+ <physdesc> Photocopy.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.7" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>---- Letters to E.W. Titus. Rapallo. <unitdate calendar="gregorian" era="ce">1927-1930.</unitdate></unittitle>
+ <physdesc> 11 items (21 leaves). Typescript and holograph.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.8" score="2" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>---- Miscellaneous letters to various persons:</unittitle>
+ </did>
+ <scopecontent>
+ <p>
+ <list type="simple">
+ <item>4 letters to Alfred Fowler, Editory of <emph render="italic">The Miscellany</emph>, Kansas City. London, ca. 1915 (9 leaves. Typescript and holograph).</item>
+ <item>1 letter to George S. Fraser. [Washington?] ca. 1949 (3 leaves. Typescript and holograph).</item>
+ <item>1 letter to Donald Pearce. Washington, December 6, 1953 (1 leaf. Typescript).</item>
+ <item>1 letter to Derek Stanford. Washington, January 15, 1949 (1 leaf. Holograph).</item>
+ <item>1 letter to Dear Sir. Venice, June 26, 1927 (2 leaves. Holograph).</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.9" score="1" C-ORDER="12">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>----. <title linktype="simple">The Little Review</title>. <unitdate calendar="gregorian" era="ce">May 1918.</unitdate> vol.6 no.1.</unittitle>
+ <physdesc> Holograph corrections, pp.19-30.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.10" score="3" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>----. <title linktype="simple">Moon Madness</title>. Translation. n.p. <unitdate calendar="gregorian" era="ce">n.d</unitdate></unittitle>
+ <physdesc> 2 leaves. 31 × 21cm. Typescript with holograph corrections in pencil.</physdesc>
+ </did>
+ <scopecontent>
+ <p>A Noh story translated from the Japanese. Original title: The Moon Faun. Printed in <emph render="italic">Miscellany</emph>, ca. 1915, published by the American Book Plate Society, 1914-1916.</p>
+ </scopecontent>
+ <note>
+ <p>Gift of Willard Hougland, August 1958.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.11" score="3" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>----. <title linktype="simple">The Rabbits' House</title>. Translation. n.p. <unitdate calendar="gregorian" era="ce">n.d</unitdate></unittitle>
+ <physdesc> 2 leaves. 31 × 21cm. Typescript with holograph corrections in pencil.</physdesc>
+ </did>
+ <scopecontent>
+ <p>A Noh story translated from the Japanese. Printed in <emph render="italic">Miscellany</emph>, ca. 1915, published by the American Book Plate Society, 1914-1916.</p>
+ </scopecontent>
+ <note>
+ <p>Gift of Willard Hougland, August 1958.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.12" score="3" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Fraser, George Sutherland, 1915- . <title linktype="simple">News from South America</title>. London: Harvill Press. <unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Presentation copy from George S. Fraser[?] to John Gawsworth [pseudonym for Terence Ian Fytton Armstrong] with Ezra Pound's comments, taken from an original letter from Pound to Fraser, copied on relevant pages by Fraser[?].</p>
+ </scopecontent>
+ <note>
+ <p>For this letter, SEE: Letters, signed, to various persons.</p>
+ <p>Ex libris: C.K. Ogden.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.13" score="2" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Letters, signed, to various persons, v.p. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ <physdesc> 7 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p>
+ <list type="simple">
+ <item>1 letter to Derek Stanford, January 17, 1949.</item>
+ <item>1 letter to Donald Pearce, December 6, 1953.</item>
+ <item>4 letters to Alfred Fowler, ca. 1915.</item>
+ <item>1 letter to George S. Fraser, ca. 1949.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.14" score="1" C-ORDER="24">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Ephemera. v.p. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ <physdesc> 6 items.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.15" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><title linktype="simple">The Pound Newsletter</title>, no.1-10.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.16" score="2" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>If this be treason..., n.p., c. <unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+ <physdesc> 33pp. 1 reel of microfilm.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Contents: E.E. Cummings/examined. - James Joyce: to his memory. - A french accent. - Canto 45. - Blast. Limited edition, copy no.21.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.17" score="2" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><title linktype="simple">The Cantos of Ezra Pound</title>. New York: Farrar and Rinehart, c. <unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+ <physdesc> 22, [1]p. 1 reel of microfilm.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Some testimonies by Ernest Hemingway, Ford Madox Ford, T.S. Eliot, Hugh Walpole, Archibald MacLeish, James Joyce, and others.</p>
+ </scopecontent>
+ </c01>
+ </dsc>
+ <relatedmaterial id="relatedmaterial-1.8.7">
+ <head>Related Material</head>
+ <p>
+ <list type="marked">
+ <item>Jaime de Angulo Papers (Collection 160). Available at Department of Special Collections, UCLA.<note><p>(Letters to de Angulo in Box 2).</p></note></item>
+ <item>Earl Roy Miner Papers (Collection 821). Available at Department of Special Collections, UCLA.<note><p>(Letters to Miner in Box 1).</p></note></item>
+ <item>Harold Monro Papers (Collection 745). Available at Department of Special Collections, UCLA.<note><p>(Letters to Monro in Box 2).</p></note></item>
+ <item>Miscellaneous Manuscripts Collection (Collection 100). Available at Department of Special Collections, UCLA.<note><p>(Letters to Frederic Manning in Box 101). </p><p>(Letter to Cyril M. Schneider about Nathaniel West in Box 36).</p></note></item>
+ <item>Peter Russell Papers (Collection 921). Available at Department of Special Collections, UCLA.<note><p>(Letters to Edgar Jepson, and E. Pound ephemera in Box 1).</p></note></item>
+ </list>
+ </p>
+ </relatedmaterial>
+ </archdesc>
+</ead>
