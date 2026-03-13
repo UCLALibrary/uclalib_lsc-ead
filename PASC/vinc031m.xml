@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+  
+  
+  
+  
+  
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/ft18700114" mainagencycode="CLU" publicid="PUBLIC &quot;-//University of California, Los Angeles::Performing Arts Special Collections//TEXT (US::CLU::31::John Vincent Collection)//EN&quot; &quot;Vincent.sgm&quot;" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">vincent.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Finding Aid for the John Vincent Collection
+, <date calendar="gregorian" era="ce">1940-1976</date></titleproper><titleproper type="filing">Vincent (John) Collection</titleproper>
+        <author>Collection processed and machine-readable finding aid created by Performing Arts Special Collections staff.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>UCLA Library, Performing Arts Special Collections</publisher>
+        <address><addressline>University of California, Los Angeles, Library</addressline><addressline>Performing Arts Special Collections, Room A1713</addressline><addressline>Charles E. Young Research Library, Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Phone: (310) 825-4988</addressline><addressline>Fax: (310) 206-1864</addressline><addressline>Email: speccoll-paging@library.ucla.edu</addressline><addressline>http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</addressline></address><date calendar="gregorian" era="ce">©  2002</date>
+        <p>The Regents of the University of California. All rights reserved.</p>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>
+            <subject source="cdl">Arts and Humanities--Music</subject>
+          </p>
+        </note>
+      </notestmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid automatically generated from relational database.
+Date of source: <date calendar="gregorian" era="ce">1976</date></creation>
+      <langusage>Description is in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//University of California, Los Angeles::Performing Arts Special Collections//TEXT (US::CLU::31::John Vincent Collection)//EN" "Vincent.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Finding Aid of the John Vincent Collection, <date calendar="gregorian" era="ce">1940-1976</date></titleproper>
+      <num>Collection number: 31</num>
+      <publisher>UCLA Library, Performing Arts Special Collections
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>University of California, Los Angeles
+<lb/>Los Angeles, CA</publisher>
+      <list type="simple"><head>Contact Information</head><item>University of California, Los Angeles, Library</item><item>Performing Arts Special Collections, Room A1713</item><item>Charles E. Young Research Library, Box 951575</item><item>Los Angeles, CA 90095-1575</item><item>Phone: (310) 825-4988</item><item>Fax: (310) 206-1864</item><item>Email: speccoll-paging@library.ucla.edu</item><item>URL: http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</item></list><list type="deflist">
+        <defitem>
+          <label>Processed by:</label>
+          <item>UCLA Library, Performing Arts Special Collections staff</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>1976</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>UCLA Library, Performing Arts Special Collections staff</item>
+        </defitem>
+      </list>
+      <p>©  2002 The Regents of the University of California. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" id="archdesc-1.3">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">John Vincent Collection, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1940-1976</unitdate>
+      <unitid label="Collection number" countrycode="US" repositorycode="CLUS">31</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf" encodinganalog="600">Vincent, John</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>122 boxes (61 linear ft.)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname>University of California, Los Angeles. Library. <subarea>Performing Arts Special Collections</subarea></corpname>
+        <address>
+          <addressline>Los Angeles, California 90095-1575</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">This collection consists of sketches, holographs and transparencies of musical works</abstract>
+      <physloc label="Physical location">Stored off-site at SRLF.
+Advance notice is required for access to the collection.
+Please contact the UCLA Performing Arts Special Collections for paging information.</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp type="admininfo" id="descgrp-1.8.2">
+      <head>Administrative Information</head>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Copyright has not been assigned to the Performing Arts Special Collections. All requests
+for permission to publish or quote from manuscripts must be submitted in
+writing to the Librarian for Performing Arts Special Collections. Permission for
+publication is given on behalf of the Performing Arts Special Collections as the owner of the
+physical items and is not intended to include or imply permission of the
+copyright holder(s), which must also be obtained.</p>
+      </userestrict>
+      <accessrestrict>
+        <head>Restrictions on Access</head>
+        <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+      </accessrestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item],
+John Vincent Collection, 31, Performing Arts Special Collections, University of California, Los Angeles.</p>
+      </prefercite>
+    </descgrp>
+    <bioghist id="bioghist-1.8.3">
+      <head>Biography</head>
+      <p>Vincent was born on May 17, 1902 in Birmingham,
+AL; diploma from New England Conservatory of
+Music; BS and MA from George Peabody College;
+studied with Walter Piston at Harvard Univ.,
+1933-35, where he received the John Knowles Paine
+Travelling Fellowship for two years' study with
+Nadia Boulanger; Ph.D, Cornell Univ., 1942; head
+of music dept. at Western Kentucky State Univ.,
+1937-45, then succeeded Arnold Schoenberg as
+professor of composition at UCLA, 1946-69;
+conducted orchestras throughout the US and South
+America; director, Huntington Hartford Foundation,
+1952-65; wrote The diatonic modes in modern music
+(1951); composed many works, including: Three
+jacks ballet (1941), Primeval void (opera buffa,
+1969-71), Symphony in D (1954), Stabat mater
+(1970), Three Grecian songs, and two string
+quartets; he died on Jan. 21, 1977 in Santa
+Monica, CA.</p>
+    </bioghist>
+    <scopecontent id="scopecontent-1.8.4">
+      <head>Scope and Content</head>
+      <p>Collection consists of sketches, holographs and
+   transparencies of musical works by John Nathaniel
+   Vincent. Also includes correspondence, class
+   lecture notes, research materials and notes,
+   programs, UCLA Music Dept. documents, financial
+   and personal records, photographs, commercial and
+   non-commercial disc recordings of music by
+   Vincent, and miscellaneous memorabilia.</p>
+    </scopecontent>
+    <arrangement id="arrangement-1.8.5">
+      <head>Organization and Arrangement</head>
+      <p>Arranged in the following series: <list type="ordered"><item>Biographical materials (boxes 1-3)</item><item>Documents relating to musical works (boxes
+4,8-10)</item><item>Programs, reviews, notes (boxes 5-7)</item><item>Articles, speeches, papers (boxes
+11-13)</item><item>International travels (boxes 14-16)</item><item>Correspondence (boxes 17-31,44-47)</item><item>Music festivals and performing organizations
+(boxes 32-43)</item><item>UCLA and other academic institutions (boxes
+48-56)</item><item>Radio broadcast records (boxes 57-59)</item><item>Libretti and musical notes (boxes
+60-61)</item><item>Musical sketches and holographs (boxes
+62-72)</item><item>Transparent masters of musical works (boxes
+73-77)</item><item>Notes for the counterpoint and harmony books
+(boxes 78-80)</item><item>The diatonic modes (boxes 81-86)</item><item>Financial and personal records (boxes
+90-92)</item><item>Program books, scrapbooks (boxes
+93-95)</item><item>Tape recordings of Vincent's music
+performances, interviews (boxes 96-97)</item><item>Memorabilia (boxes 98,101,105)</item><item>Miscellaneous (boxes 99-100)</item><item>Disc recordings of Vincent's works (boxes
+102,104)</item><item>Vincent's lectures (box 103)</item><item>Music manuscripts (boxes 106-122)</item><item>Posters (packages 1-5)</item></list></p>
+    </arrangement>
+    <controlaccess id="controlaccess-1.8.6">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this
+collection in the library's online public access catalog.</p>
+      <persname source="lcnaf" encodinganalog="600">Vincent, John Nathaniel, 1902- --Archives.</persname>
+      <corpname source="lcnaf" encodinganalog="610">University of California, Los Angeles--Dept. of Music--Faculty--Archival resources.</corpname>
+      <subject source="lcsh" encodinganalog="650">Composers--California--Los Angeles--Archival resources.</subject>
+    </controlaccess>
+    <dsc type="in-depth" id="dsc-1.8.7" score="2" C-ORDER="1" MAX-C-ORDER="1">
+      <head>Collection Contents</head>
+      <p>A container list for this collection is not yet available online. For
+detailed information about the contents of this collection contact
+UCLA Performing Arts Special Collections at the addresses listed on the
+title page of the finding aid.</p>
+    </dsc>
+    <relatedmaterial id="relatedmaterial-1.8.8">
+      <head>Related Material</head>
+      <p>Flautist, composer, teacher [oral
+history transcript] / John Vincent, interviewee.
+UCLA Oral History Department interview, c1985.
+Available at Dept. of Special Collections, UCLA.</p>
+    </relatedmaterial>
+  </archdesc>
+</ead>
