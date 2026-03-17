@@ -1,0 +1,808 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU" identifier="ark:/13030/kt5w1021qh" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::Performing Arts Special Collections//TEXT
+(US::CLU::152::Hub Braden Papers)//EN" "brade152.xml"
+</eadid>
+
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Hub Braden Papers, 1976-1985</titleproper>
+<titleproper type="filing">Braden (Hub) Papers</titleproper>
+<author>Processed by Performing Arts Special Collections staff; machine-readable finding aid created by C. Clayton, Julie Graham, and Caroline Cubé</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library, Performing Arts Special Collections</publisher>
+<address><addressline>University of California, Los Angeles, Library</addressline><addressline>Performing Arts Special Collections, Room A1713</addressline><addressline>Charles E. Young Research Library, Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Phone: (310) 825-4988</addressline><addressline>Fax: (310) 206-1864</addressline><addressline>Email: speccoll-paging@library.ucla.edu</addressline><addressline>http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</addressline></address><date calendar="gregorian" era="ce">© 2005</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from database containing
+container list structure and data, encoding added via MS Access and Notetab Pro; frontmatter gathered from MARC Record. Date of source: <date>February 2005.</date></creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" langmaterial="eng" id="archdesc-1.2">
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">Hub Braden Papers</unittitle>
+<unitdate type="inclusive" normal="1976/1985">1976-1985</unitdate>
+<unitid label="Collection number" repositorycode="CLU" countrycode="US">152</unitid>
+<origination label="Creator"><persname role="subject" source="lcnaf">Braden, Hub</persname></origination>
+<physdesc label="Extent"><extent>9 boxes (4.5 linear ft.)</extent></physdesc>
+<abstract label="Abstract">Hub Braden was an art director and production designer.  The collection consists of script and production material, sketches, notes, and photographs related to his career.</abstract>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library.
+Performing Arts Special Collections.</corpname>
+<address>
+<addressline>Los Angeles, California 90095-1575</addressline>
+</address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Performing Arts Special Collections Reference Desk for paging information.</physloc>
+</did>
+<admininfo id="admininfo-1.2.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library,
+Performing Arts Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Donation, 1983.</p>
+</acqinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Hub Braden Papers (Collection 152). Performing Arts Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+</admininfo>
+<bioghist encodinganalog="545" id="bioghist-1.2.3">
+<head>Biography</head>
+<p>Hub Braden was an art director and production designer.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
+<head>Scope and Content</head>
+<p>Collection consists of script and production material, story boards (photocopies and originals), sketches, notes, and photographs related to the career of art director and production designer, Hub Braden. Includes materials from various television projects including <emph render="italic">All That Glitters</emph>, <emph render="italic">Baby I'm Back</emph>, <emph render="italic">Love American Style</emph>, <emph render="italic">Once Is Not Enough</emph>, and Irwin Allen's production of <emph render="italic">Alice in Wonderland</emph>. Also includes a small collection of NBC television wardrobe sketches (1970-1976) collected by Braden.</p>
+</scopecontent>
+
+<controlaccess id="controlaccess-1.2.5">
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" encodinganalog="600">Braden, Hub--Archives.</persname>
+<subject source="lcsh" encodinganalog="650">Television--Art direction--Archival resources.</subject><controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Television scripts.</genreform>
+<genreform source="aat" encodinganalog="655">Sketches.</genreform>
+<genreform source="aat" encodinganalog="655">Storyboards.</genreform>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+
+<dsc type="in-depth" id="dsc-1.2.6" score="1" C-ORDER="1" MAX-C-ORDER="145">
+<head>Container List</head>
+
+<c01 level="series" id="c01-1.2.6.2" score="1" C-ORDER="2"><did><unittitle>ALICE IN WONDERLAND </unittitle></did>
+<c02 level="file" id="c02-1.2.6.2.2" score="1" C-ORDER="3"><did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder "> 1 </container>
+<unittitle>-Storyboards. Complete run-through (sc. 1-839). Irwin Allen's production.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.3" score="1" C-ORDER="4"><did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder "> 2 </container>
+<unittitle>-Photographic effects sequences. Irwin Allen's production.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.4" score="1" C-ORDER="5"><did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder "> 3 </container>
+<unittitle>-Days 1-12. Ext riverbank-ext Garden of Hearts. (Scenes 1-291c)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.5" score="1" C-ORDER="6"><did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder "> 4 </container>
+<unittitle>-Days 13-20. Ext croquet field-Int banquet hall alcove. (Scenes 292-825c)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.6" score="1" C-ORDER="7"><did>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder "> 5 </container>
+<unittitle>-Day 19. Int. Banquet party room. (Scenes 789-99)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.7" score="1" C-ORDER="8"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder "> 1 </container>
+<unittitle>-Day 21-30. Int banquet hall - Ext woods with caterpillar. (Scenes 838-
+213)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.8" score="1" C-ORDER="9"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder "> 2 </container>
+<unittitle>-Day 25. Ext woods and tree-owl. (Scenes 619-824)</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.2.9" score="1" C-ORDER="10"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder "> 3 </container>
+<unittitle>-Day 27-37. Ext woods - Ext woods and tree-owl. (Scenes 696-824a)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.10" score="1" C-ORDER="11"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder "> 4 </container>
+<unittitle>-Day 36. Alice in Chessboard land. (Scenes 648-649)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.11" score="1" C-ORDER="12"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder "> 5 </container>
+<unittitle>-Day 38. Int. White Rabbit house - Ext.  White Rabbit house. (Scenes 150-
+193)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.12" score="1" C-ORDER="13"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder "> 6 </container>
+<unittitle>-Day 39. Ext. edge of forest - Ext. clearing of castle wall. (Scenes 659-
+789)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.13" score="1" C-ORDER="14"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder "> 7 </container>
+<unittitle>-Day 40-41. Ext. Alice's garden - Ext. woods and clearing (Scenes 627-308)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.14" score="1" C-ORDER="15"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder "> 8 </container>
+<unittitle>-Day 42-43. (Ext. woods and Mock Turtle - Ext. Checkerboard land and train. (Scenes 
+309-658)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.15" score="1" C-ORDER="16"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder "> 9 </container>
+<unittitle>-Day 44-45. Ext. woods - Ext. path in woods and cave. (Scenes 679-695)</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.2.16" score="1" C-ORDER="17"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">10 </container>
+<unittitle>-Day 46-48. Ext. path in woods - Ext. forest. (Scenes 241-374)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.17" score="1" C-ORDER="18"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">11 </container>
+<unittitle>-Day 49. Additional scenes. (Scenes 213-215)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.18" score="1" C-ORDER="19"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">12 </container>
+<unittitle>-Day 49-50. Ext. forest with Lion and Unicorn - Ext. woods and path. (Scenes 734-
+733)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.19" score="1" C-ORDER="20"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">13 </container>
+<unittitle>-Day 51-52. Ext. Forest with Red and White Knight - Ext. countryside. (Scenes 746-
+764)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.20" score="1" C-ORDER="21"><did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">14 </container>
+<unittitle>-Day 53. Int Train compartment. (Scenes 649-658)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.21" score="1" C-ORDER="22"><did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder "> 1 </container>
+<unittitle>-Day 54-60. Ext. hilltop - End. (Scenes 637-370e)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.22" score="1" C-ORDER="23"><did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder "> 2 </container>
+<unittitle>-Additional scenes of Anteater and Frog. (Scenes 783-789). Includes blue 
+prints.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.2.23" score="1" C-ORDER="24"><did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder "> 3 </container>
+<unittitle>-Script. (Part one) Written by Paul Zindel. Third draft, February 1985.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.24" score="1" C-ORDER="25"><did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder "> 4 </container>
+<unittitle>-Script (part 2 - Through the Looking Glass). Written by Paul Zindel. Third draft, 
+February 1985. Annotated.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.25" score="1" C-ORDER="26"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder "> 1 </container>
+<unittitle>-Research and publicity.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.26" score="1" C-ORDER="27"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder "> 2 </container>
+<unittitle>-Preliminary sketches, notes and storyboards.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.2.27" score="1" C-ORDER="28"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder "> 3 </container>
+<unittitle>-Production notes, correspondence, set lists, cast, staff and crew lists.</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.3" score="1" C-ORDER="29"><did><unittitle>ALL THAT GLITTERS </unittitle></did>
+<c02 level="file" id="c02-1.2.6.3.2" score="1" C-ORDER="30"><did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder ">6 </container>
+<unittitle>-Outlines for shows #41 - #55. May 1977.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.3" score="1" C-ORDER="31"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder "> 1 </container>
+<unittitle>-#26. Written by Harry Cauley. 04/04/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.4" score="1" C-ORDER="32"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder "> 2 </container>
+<unittitle>-#27. Written by Richard M. Powell. 04/01/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.5" score="1" C-ORDER="33"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder "> 3 </container>
+<unittitle>-#28. Written by Kathryn Montgomery. 04/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.6" score="1" C-ORDER="34"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder "> 4 </container>
+<unittitle>-#29. Written by Harry Cauley. 03/23/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.7" score="1" C-ORDER="35"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder "> 5 </container>
+<unittitle>-#30. Written by Richard M. Powell. 04/01/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.8" score="1" C-ORDER="36"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder "> 6 </container>
+<unittitle>-#31. Written by Kathryn Montgomery. 04/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.9" score="1" C-ORDER="37"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder "> 7 </container>
+<unittitle>-#32. Written by Richard M. Powell. 04/04/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.10" score="1" C-ORDER="38"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder "> 8 </container>
+<unittitle>-#33. Written by Harry Cauley. 04/02/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.11" score="1" C-ORDER="39"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder "> 9 </container>
+<unittitle>-#34. Written by Richard M. Powell. 04/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.12" score="1" C-ORDER="40"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">10 </container>
+<unittitle>-#35. Written by Martin Rips and Joseph Staretski. 04/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.13" score="1" C-ORDER="41"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">11 </container>
+<unittitle>-#36. Written by Roberta Edgar and Mary Thompson. 04/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.14" score="1" C-ORDER="42"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">12 </container>
+<unittitle>-#37. Written by Richard M. Powell. 04/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.15" score="1" C-ORDER="43"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">13 </container>
+<unittitle>-#38. Written by Kathryn Montgomery and Harry Cauley. 04/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.16" score="1" C-ORDER="44"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">14 </container>
+<unittitle>-#39. Written by Martin Rips and Joseph Staretski. 04/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.17" score="1" C-ORDER="45"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">15 </container>
+<unittitle>-#40. Written by Richard M. Powell. 04/19/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.18" score="1" C-ORDER="46"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">16 </container>
+<unittitle>-#41. Written by Martin Rips and Joseph Staretski. 04/27/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.19" score="1" C-ORDER="47"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">17 </container>
+<unittitle>-#42. Written by Martin Rips and Richard Staretski. 04/25/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.20" score="1" C-ORDER="48"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">18 </container>
+<unittitle>-#43. Written by Richard M. Powell. 04/25/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.21" score="1" C-ORDER="49"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">19 </container>
+<unittitle>-#44. Written by Mary Thompson, Roberta Edgar and Harry Cauley. 04/28/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.22" score="1" C-ORDER="50"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">20 </container>
+<unittitle>-#45. Written by Richard M. Powell. 04/25/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.23" score="1" C-ORDER="51"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">21 </container>
+<unittitle>-#46. Written by Martin Rips and Joseph Staretski. 05/03/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.24" score="1" C-ORDER="52"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">22 </container>
+<unittitle>-#47. Written by Kathryn Montgomery. 05/03/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.25" score="1" C-ORDER="53"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">23 </container>
+<unittitle>-#48. Written by Richard M. Powell. 05/04/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.26" score="1" C-ORDER="54"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">24 </container>
+<unittitle>-#49. Written by Kathryn Montgomery. 05/03/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.27" score="1" C-ORDER="55"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">25 </container>
+<unittitle>-#50. Written by Richard M. Powell. 05/03/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.28" score="1" C-ORDER="56"><did>
+<container type="box" label="Box ">7</container>
+<container type="folder" label="Folder ">25 </container>
+<unittitle>-#10. Written by Mark Morrison. 03/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.29" score="1" C-ORDER="57"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder "> 1 </container>
+<unittitle>-#51. Written by Kathryn Montgomery. 05/12/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.30" score="1" C-ORDER="58"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder "> 2 </container>
+<unittitle>-#52. Written by Richard M. Powell. 05/11/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.31" score="1" C-ORDER="59"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder "> 3 </container>
+<unittitle>-#53. Written by Kathryn Montgomery. 05/11/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.32" score="1" C-ORDER="60"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder "> 4 </container>
+<unittitle>-#54. Written by Martin Rips and Joseph Staretski. 05/11/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.33" score="1" C-ORDER="61"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder "> 5 </container>
+<unittitle>-#55. Written by Richard M. Powell. 05/11/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.34" score="1" C-ORDER="62"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder "> 6 </container>
+<unittitle>-#56. Written by Kathryn Montgomery.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.35" score="1" C-ORDER="63"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder "> 7 </container>
+<unittitle>-#57. Written by Kathryn Montgomery. 05/20/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.36" score="1" C-ORDER="64"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder "> 9 </container>
+<unittitle>-#59. Written by Martin Rips and Joseph Staretski. 05/20/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.37" score="1" C-ORDER="65"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">10 </container>
+<unittitle>-#60. Written by Richard M. Powell. 05/19/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.38" score="1" C-ORDER="66"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">11 </container>
+<unittitle>-#61. Written by Martin Rips and Joseph Staretski. 05/20/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.39" score="1" C-ORDER="67"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">12 </container>
+<unittitle>-#62. Written by Kathryn Montgomery. 06/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.40" score="1" C-ORDER="68"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">13 </container>
+<unittitle>-#63. Written by Kathryn Montgomery. 06/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.41" score="1" C-ORDER="69"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">14 </container>
+<unittitle>-#64. Written by Kathryn Montgomery. 06/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.42" score="1" C-ORDER="70"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">15 </container>
+<unittitle>-#65. Written by Richard M. Powell. 06/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.43" score="1" C-ORDER="71"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">16 </container>
+<unittitle>-#1. Written by Harry Cauley. 02/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.44" score="1" C-ORDER="72"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">17 </container>
+<unittitle>-#2. Written by Richard M. Powell. 02/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.45" score="1" C-ORDER="73"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">18 </container>
+<unittitle>-#3. Written by Harry Cauley. 02/15/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.46" score="1" C-ORDER="74"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">19 </container>
+<unittitle>-#4. Written by Richard M. Powell.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.47" score="1" C-ORDER="75"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">20 </container>
+<unittitle>-#5. Written by Richard M. Powell and Harry Cauley. 02/24/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.48" score="1" C-ORDER="76"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">22 </container>
+<unittitle>-#6. Written by Harry Cauley. 02/24/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.49" score="1" C-ORDER="77"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">22 </container>
+<unittitle>-#7. Written by Kathryn Montgomery. 02/24/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.50" score="1" C-ORDER="78"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">23 </container>
+<unittitle>-#8. Written by Kathryn Montgomery. 02/24/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.51" score="1" C-ORDER="79"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">24 </container>
+<unittitle>-#9. Written by Richard M. Powell. 02/24/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.52" score="1" C-ORDER="80"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">26 </container>
+<unittitle>-#11. Written by Kathryn Montgomery. 02/25/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.53" score="1" C-ORDER="81"><did>
+<container type="box" label="Box ">8</container>
+<container type="folder" label="Folder ">8 </container>
+<unittitle>-#58. Written by Richard M. Powell. 05/09/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.54" score="1" C-ORDER="82"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder "> 1 </container>
+<unittitle>-#12. Written by Richard M. Powell. 02/25/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.55" score="1" C-ORDER="83"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder "> 2 </container>
+<unittitle>-#13. Written by Harry Cauley. 03/02/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.56" score="1" C-ORDER="84"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder "> 3 </container>
+<unittitle>-#14. Written by Kathryn Montgomery. 02/25/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.57" score="1" C-ORDER="85"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder "> 4 </container>
+<unittitle>-#15. Written by Richard M. Powell.  02/28/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.58" score="1" C-ORDER="86"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder "> 5 </container>
+<unittitle>-#16. Written by Kathryn Montgomery and Mark Morrison. 03/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.59" score="1" C-ORDER="87"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder "> 6 </container>
+<unittitle>-#17. Written by Richard M. Powell. 03/08/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.60" score="1" C-ORDER="88"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder "> 7 </container>
+<unittitle>-#18. Written by Harry Cauley. 03/08/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.61" score="1" C-ORDER="89"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder "> 8 </container>
+<unittitle>-#20. Written by Kathryn Montgomery. 03/08/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.62" score="1" C-ORDER="90"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder "> 9 </container>
+<unittitle>-#21. Written by Kathryn Montgomery and Richard M. Powell. 03/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.63" score="1" C-ORDER="91"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">10 </container>
+<unittitle>-#22. Written by Richard M. Powell. 03/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.64" score="1" C-ORDER="92"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">11 </container>
+<unittitle>-#23. Written by Harry Cauley. 03/15/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.65" score="1" C-ORDER="93"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">12 </container>
+<unittitle>-#24. Written by Kathryn Montgomery, Michael Walker and Melodie Hollander. 
+04/01/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.66" score="1" C-ORDER="94"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">13 </container>
+<unittitle>-#25. Written by Richard M. Powell. 04/01/77.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.3.67" score="1" C-ORDER="95"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">14 </container>
+<unittitle>-Outlines for shows #1 - #15. January 1977.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.68" score="1" C-ORDER="96"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">15 </container>
+<unittitle>-Outlines for shows #16 - #31. April 1977.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.3.69" score="1" C-ORDER="97"><did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">16 </container>
+<unittitle>-Outlines for shows #31 - #40. March 1977.</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.4" score="1" C-ORDER="98"><did><unittitle>BABY I'M BACK </unittitle></did>
+<c02 level="file" id="c02-1.2.6.4.2" score="1" C-ORDER="99"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder "> 2 </container>
+<unittitle>-"Gospel According to Angie, The." #56. Written by Sandy Krinski and Chet Dowling. 
+02/10/78.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.4.3" score="1" C-ORDER="100"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder "> 3 </container>
+<unittitle>-"Day at the Races." #58. Written by April Kelly and George Geiger. 
+03/03/78.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.4.4" score="1" C-ORDER="101"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder "> 4 </container>
+<unittitle>-"Survival of the Fittest." #59. 03/19/78.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.4.5" score="1" C-ORDER="102"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder "> 5 </container>
+<unittitle>-"Odd Couple." #60. Written by Gary Jacobs. 03/24/78.</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.4.6" score="1" C-ORDER="103"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder "> 6 </container>
+<unittitle>-"Olivia's Job Offer." #62. Written by Harry Cauley, April Kelly and George Geiger. 
+03/17/78.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.4.7" score="1" C-ORDER="104"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder "> 7 </container>
+<unittitle>-"You Bet Your Wife." #63. Written by April Kelly and George Geiger. 
+04/07/78.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.4.8" score="1" C-ORDER="105"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder "> 8 </container>
+<unittitle>-"Pay or Die." 01/03/78.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.4.9" score="1" C-ORDER="106"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder "> 9 </container>
+<unittitle>-"Beat by a Drum." #51. Written By Martin Rips and Joseph Staretski. 
+12/19/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.4.10" score="1" C-ORDER="107"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">10 </container>
+<unittitle>-"Living Proof." #52. Written by April Kelly and George Geiger. 12/22/77.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.4.11" score="1" C-ORDER="108"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">11 </container>
+<unittitle>-"Farwell to Boyish Charm." #54. Written by Richard M. Powell. 01/20/78.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.4.12" score="1" C-ORDER="109"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">12 </container>
+<unittitle>-"Loneliest Night of the Week." #55. Shelly Sellman and Wally Dalton. 
+01/27/78.</unittitle>
+</did></c02>
+ 
+</c01>
+<c01 level="series" id="c01-1.2.6.5" score="1" C-ORDER="110"><did><unittitle>BUTTERFLIES (NBC TV Pilot 1979 Season) </unittitle></did>
+<c02 level="file" id="c02-1.2.6.5.2" score="1" C-ORDER="111"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder "> 8 </container>
+<unittitle>-Photographs for 1979 pilot. Includes Alice Cooper, Frank Sinatra, Sammy Davis 
+Jr.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.5.3" score="1" C-ORDER="112"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">8 </container>
+<unittitle>Negatives for 1979 pilot.</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.6" score="1" C-ORDER="113"><did><unittitle>COVER-UP </unittitle></did>
+<c02 level="file" id="c02-1.2.6.6.2" score="1" C-ORDER="114"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">10 </container>
+<unittitle>-Logo sign. Painted on cardboard.</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.7" score="1" C-ORDER="115"><did><unittitle>DAYS OF OUR LIVES </unittitle></did>
+<c02 level="file" id="c02-1.2.6.7.2" score="1" C-ORDER="116"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder "> 7 </container>
+<unittitle>-Set and model photography. Includes Horton house and hospital.</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.8" score="1" C-ORDER="117"><did><unittitle>DESPERATE LIVES </unittitle></did>
+<c02 level="file" id="c02-1.2.6.8.2" score="1" C-ORDER="118"><did>
+<container type="box" label="Box ">3</container>
+<container type="folder" label="Folder "> 5 </container>
+<unittitle>-Starring Carol Burnett. Revised script 10/19/81. Annotated.</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.9" score="1" C-ORDER="119"><did><unittitle>EXECUTIONER'S SONG </unittitle></did>
+<c02 level="file" id="c02-1.2.6.9.2" score="1" C-ORDER="120"><did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder "> 1 </container>
+<unittitle>-Script. 09/09/81.</unittitle>
+</did></c02>
+</c01>
+ 
+<c01 level="series" id="c01-1.2.6.10" score="1" C-ORDER="121"><did><unittitle>LORENZO AND HENRIETTA MUSIC SHOW </unittitle></did>
+<c02 level="file" id="c02-1.2.6.10.2" score="1" C-ORDER="122"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder "> 1 </container>
+<unittitle>-Shows #31 - #36. Scripts. Annotated.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.10.3" score="1" C-ORDER="123"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">11 </container>
+<unittitle>-Shows #2 - #6. Scripts. Annotated.</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.11" score="1" C-ORDER="124"><did><unittitle>LOVE AMERICAN STYLE </unittitle></did>
+<c02 level="file" id="c02-1.2.6.11.2" score="1" C-ORDER="125"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder "> 4 </container>
+<unittitle>-"Unfinished Business." By Margaret G. Oberman. Table draft, 04/25/85.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.11.3" score="1" C-ORDER="126"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder "> 5 </container>
+<unittitle>-"Long Way Down, The." By John McNamara. Table draft, 04/26/85</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.11.4" score="1" C-ORDER="127"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder "> 6 </container>
+<unittitle>-"Love and the Class Reunion." By Richard Albrecht and Casey Keller. Table draft, 
+04/25/85. (2 copies)</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.11.5" score="1" C-ORDER="128"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder "> 7 </container>
+<unittitle>-"Plain Truth, The." By Arthur Sellers. First draft, 04/09/85.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.11.6" score="1" C-ORDER="129"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder "> 8 </container>
+<unittitle>-"Much Too Personal." No author, no date.</unittitle>
+</did></c02>
+</c01>
+ 
+<c01 level="series" id="c01-1.2.6.12" score="1" C-ORDER="130"><did><unittitle>ONCE IS NOT ENOUGH </unittitle></did>
+<c02 level="file" id="c02-1.2.6.12.2" score="1" C-ORDER="131"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder "> 2 </container>
+<unittitle>-Clarke's restaurant photographs. Front section.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.12.3" score="1" C-ORDER="132"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder "> 3 </container>
+<unittitle>-Clarke's restaurant photographs. Exteriors. Includes other building 
+facades.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.12.4" score="1" C-ORDER="133"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder "> 4 </container>
+<unittitle>-Clarke's Restaurant photographs. Middle section.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.12.5" score="1" C-ORDER="134"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder "> 5 </container>
+<unittitle>-Clarke's Restaurant photographs. Rear section.</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.12.6" score="1" C-ORDER="135"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder "> 6 </container>
+<unittitle>-Clarke's Restaurant photographs. Bar.</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.13" score="1" C-ORDER="136"><did><unittitle>PAJAMA GAME, THE </unittitle></did>
+<c02 level="file" id="c02-1.2.6.13.2" score="1" C-ORDER="137"><did>
+<container type="box" label="Box ">4</container>
+<container type="folder" label="Folder ">10 </container>
+<unittitle>-Set and location photographs.</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.14" score="1" C-ORDER="138"><did><unittitle>SKETCHES AND ARTWORK </unittitle></did>
+<c02 level="file" id="c02-1.2.6.14.2" score="1" C-ORDER="139"><did>
+<container type="box" label="Box ">10</container>
+<unittitle>flat box 17 x 21 x 3</unittitle>
+</did></c02>
+ 
+<c02 level="file" id="c02-1.2.6.14.3" score="1" C-ORDER="140"><did>
+<container type="box" label="Box ">11</container>
+<unittitle>flat box 17 x 21 x 3</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.14.4" score="1" C-ORDER="141"><did>
+<container type="box" label="Box ">12</container>
+<unittitle>flat box 17 x 21 x 3</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.14.5" score="1" C-ORDER="142"><did>
+<container type="box" label="Box ">13</container>
+<unittitle>flat box 17 x 21 x 3</unittitle>
+</did></c02>
+<c02 level="file" id="c02-1.2.6.14.6" score="1" C-ORDER="143"><did>
+<container type="box" label="Box ">14</container>
+<unittitle>flat box 21 x 25 x 3</unittitle>
+</did></c02>
+</c01>
+<c01 level="series" id="c01-1.2.6.15" score="1" C-ORDER="144"><did><unittitle>STORYBOARD SKETCHES </unittitle></did>
+<c02 level="file" id="c02-1.2.6.15.2" score="1" C-ORDER="145"><did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder "> 9 </container>
+<unittitle>-Original storyboard sketches. Unidentified feature. 219 leaves.</unittitle>
+</did></c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
