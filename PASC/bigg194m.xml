@@ -1,495 +1,73 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/tf3r29n892/?query=John%2520Biggs%2520Collection%2520of%2520Musical%2520Scores" identifier="ark:/13030/tf3r29n892" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">biggs.xml</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Finding Aid for the John Biggs papers, 1967-2012
-                    <num>PASC-M.0194</num>
-                </titleproper>
-                <titleproper type="filing">Biggs (John) papers</titleproper>
-                <author>Finding aid prepared by UCLA Performing Arts Special Collections staff; reprocessed by Kelly Kress, 2016; machine-readable finding aid created by Caroline Cubé.</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>UCLA Library Special Collections</publisher>
-                <address>
-                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
-                    <addressline>Box 951575</addressline>
-                    <addressline>Los Angeles, CA, 90095-1575</addressline>
-                    <addressline>(310) 825-4988</addressline>
-                    <addressline>spec-coll@library.ucla.edu</addressline>
-                </address>
-                <date>Finding aid last updated 30 August 2017.</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2017-08-30T11:15-0700</date>
-            </creation>
-            <langusage>Description is in 
-                <language>English.</language></langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection" id="archdesc-1.2">
-        <did id="did-1.2.1">
-            <unittitle>John Biggs papers</unittitle>
-            <unitid repositorycode="US-CLU-SC" countrycode="US">PASC-M.0194</unitid>
-            <repository>
-                <corpname>UCLA Library Special Collections</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>4.4 linear feet</extent>
-                <extent>(7 boxes)</extent>
-            </physdesc>
-            <unitdate normal="1967/2012" type="inclusive">1967-2012</unitdate>
-            <abstract id="ref2" label="Abstract">Compositions by John Biggs, including printed and manuscript scores and commercial recordings.</abstract>
-            <langmaterial id="ref97" label="Language of Materials">Materials are in English.</langmaterial>
-            <physloc id="ref14" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-            <origination label="Creator">
-                <persname rules="aacr" source="naf">Biggs, John, 1932-</persname>
-            </origination>
-        </did>
-        <accessrestrict id="ref15">
-            <head>Restrictions on Access</head>
-            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-        </accessrestrict>
-        <userestrict id="ref16">
-            <head>Restrictions on Use and Reproduction</head>
-            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-        </userestrict>
-        <prefercite id="ref17">
-            <head>Preferred Citation</head>
-            <p>[Identification of item], John Biggs papers (PASC-M 194). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
-        </prefercite>
-        <odd id="ref106">
-            <head>UCLA Catalog Record ID</head>
-            <p>UCLA Catalog Record ID: 
-                <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=">4432664</extref></p>
-        </odd>
-        <acqinfo id="ref6">
-            <head>Provenance/Source of Acquisition</head>
-            <p>John Biggs; gift; 2001.</p>
-        </acqinfo>
-        <bioghist id="ref8">
-            <head>Biography</head>
-            <p>John Biggs was born in Los Angeles on October 18, 1932. He received his master's degree in composition from the University of California, Los Angeles, and also studied at the University of Southern California and the Royal Flemish Conservatory in Antwerp, Belgium. His teachers included Roy Harris, Lukas Foss, Ingolf Dahl, Flor Peeters, Halsey Stevens, and Leonard Stein. Biggs taught at Los Angeles City College, UCLA, UC Berkeley, and served as composer-in-residence to six colleges in Kansas. He founded the John Biggs Consort, which toured internationally under Columbia Artists Management, specializing in medieval, renaissance, and 20th century music. Awards for his compositions include a Rockefeller Grant, Fulbright Grant, Atwater-Kent Award, ASCAP Serious Music Awards, and Meet the Composer grants. Biggs' works have been performed by the Ventura County Master Chorale, the Ventura County Symphony, and the Santa Barbara Chamber Orchestra, among other groups.</p>
-        </bioghist>
-        <scopecontent id="ref9">
-            <head>Scope and Content</head>
-            <p>Musical compositions by John Biggs, including orchestral music, chamber music, choral music, and the operas Hobson's Choice and Ernest Worthing. Primarily full printed scores, many with parts, as well as several manuscript scores. Also included are seven CDs of Biggs' music.</p>
-        </scopecontent>
-        <arrangement id="ref98">
-            <head>Organization and Arrangement</head>
-            <p>The collection is organized into the following series: 
-                <list type="simple">
-                    <item>Series 1. Compositions</item>
-                    <item>Series 2. Commercial Recordings</item>
-                </list></p>
-        </arrangement>
-        <phystech id="ref99">
-            <head>Physical Characteristics and Technical Requirements</head>
-            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
-        </phystech>
-        <controlaccess id="controlaccess-1.2.11">
-            <persname source="local">Biggs, John, 1932- --Archives.</persname>
-            <occupation source="lcsh">Composers--Archives.</occupation>
-        </controlaccess>
-        <dsc type="combined" id="dsc-1.2.12" score="0" C-ORDER="1" MAX-C-ORDER="81">
-            <c01 id="ref19" level="series" score="4" C-ORDER="1"><did>
-                    <unittitle>Series 1: Compositions</unittitle>
-                    <unitdate normal="1967/2012" type="inclusive">1967-2012</unitdate>
-                </did><scopecontent id="ref100">
-                    <head>Scope and Content</head>
-                    <p>Compositions for orchestral music, chamber music, chorale music, and the two operas Hobson's Choice and Ernest Worthing. Handwritten lyrics and DVDs are included for both operas. Primarily printed scores, some with parts, as well as several manuscript scores and a few in pdf form. Full scores unless otherwise noted.</p>
-                </scopecontent><arrangement id="ref101">
-                    <head>Organization and Arrangement</head>
-                    <p>Arranged alphabetically.</p>
-                </arrangement><phystech id="ref105">
-                    <head>Physical Characteristics and Technical Requirements</head>
-                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
-                </phystech><c02 id="ref23" level="file" score="1" C-ORDER="5"><did>
-                        <unittitle>American Folk Songs (incl. pdf on CD-R)</unittitle>
-                        <container id="cid10590001" type="Box">4</container>
-                        <container parent="cid10590001" type="Folder">1</container>
-                        <unitdate>1967</unitdate>
-                    </did></c02><c02 id="ref90" level="file" score="1" C-ORDER="6"><did>
-                        <unittitle>Bethlehem Down - manuscript score</unittitle>
-                        <container id="cid10590067" type="Box">3</container>
-                        <container parent="cid10590067" type="Folder">1</container>
-                        <unitdate>undated</unitdate>
-                    </did></c02><c02 id="ref24" level="file" score="1" C-ORDER="7"><did>
-                        <unittitle>Birds</unittitle>
-                        <container id="cid10590002" type="Box">4</container>
-                        <container parent="cid10590002" type="Folder">2</container>
-                        <unitdate>1967</unitdate>
-                    </did></c02><c02 id="ref25" level="file" score="1" C-ORDER="8"><did>
-                        <unittitle>Black Waltz of a Gossiping Diva</unittitle>
-                        <container id="cid10590003" type="Box">4</container>
-                        <container parent="cid10590003" type="Folder">3</container>
-                        <unitdate>2001</unitdate>
-                    </did></c02><c02 id="ref91" level="file" score="1" C-ORDER="9"><did>
-                        <unittitle>Black Waltz of a Gossiping Diva - manuscript score</unittitle>
-                        <container id="cid10590068" type="Box">3</container>
-                        <container parent="cid10590068" type="Folder">2</container>
-                        <unitdate>2001</unitdate>
-                    </did></c02><c02 id="ref26" level="file" score="1" C-ORDER="10"><did>
-                        <unittitle>Cantata Rustica - full score with CD</unittitle>
-                        <container id="cid10590004" type="Box">4</container>
-                        <container parent="cid10590004" type="Folder">4</container>
-                        <unitdate>1991</unitdate>
-                    </did></c02><c02 id="ref27" level="file" score="1" C-ORDER="11"><did>
-                        <unittitle>Cantata Rustica - choral score and parts</unittitle>
-                        <container id="cid10590005" type="Box">4</container>
-                        <container parent="cid10590005" type="Folder">5</container>
-                        <unitdate>1991</unitdate>
-                    </did></c02><c02 id="ref28" level="file" score="1" C-ORDER="12"><did>
-                        <unittitle>Canto Sobre La Muerte de Silvestre</unittitle>
-                        <container id="cid10590006" type="Box">4</container>
-                        <container parent="cid10590006" type="Folder">5</container>
-                        <unitdate>1991</unitdate>
-                    </did></c02><c02 id="ref73" level="file" score="1" C-ORDER="13"><did>
-                        <unittitle>Canto Sobre La Muerte de Silvestre - manuscript score</unittitle>
-                        <container id="cid10590050" type="Box">1</container>
-                        <container parent="cid10590050" type="Folder">1</container>
-                        <unitdate>1991</unitdate>
-                    </did></c02><c02 id="ref92" level="file" score="1" C-ORDER="14"><did>
-                        <unittitle>Cello Concerto - manuscript score</unittitle>
-                        <container id="cid10590069" type="Box">3</container>
-                        <container parent="cid10590069" type="Folder">3</container>
-                        <unitdate>1988</unitdate>
-                    </did></c02><c02 id="ref29" level="file" score="1" C-ORDER="15"><did>
-                        <unittitle>A Christmas Canticle</unittitle>
-                        <container id="cid10590007" type="Box">4</container>
-                        <container parent="cid10590007" type="Folder">6</container>
-                        <unitdate>1971</unitdate>
-                    </did></c02><c02 id="ref30" level="file" score="1" C-ORDER="16"><did>
-                        <unittitle>Concert Suite - full score and parts</unittitle>
-                        <container id="cid10590008" type="Box">4</container>
-                        <container parent="cid10590008" type="Folder">7</container>
-                        <unitdate>1986</unitdate>
-                    </did></c02><c02 id="ref84" level="file" score="1" C-ORDER="17"><did>
-                        <unittitle>Concerto for Cello and Chamber Orchestra</unittitle>
-                        <container id="cid10590061" type="Box">2</container>
-                        <container parent="cid10590061" type="Folder">1</container>
-                        <unitdate>1996</unitdate>
-                    </did></c02><c02 id="ref85" level="file" score="1" C-ORDER="18"><did>
-                        <unittitle>Concerto for Oboe and String Orchestra</unittitle>
-                        <container id="cid10590062" type="Box">2</container>
-                        <container parent="cid10590062" type="Folder">2</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref74" level="file" score="1" C-ORDER="19"><did>
-                        <unittitle>Concerto for Orchestra - manuscript score</unittitle>
-                        <container id="cid10590051" type="Box">1</container>
-                        <container parent="cid10590051" type="Folder">2</container>
-                        <unitdate>1988</unitdate>
-                    </did></c02><c02 id="ref93" level="file" score="1" C-ORDER="20"><did>
-                        <unittitle>Concerto for Orchestra</unittitle>
-                        <container id="cid10590070" type="Box">3</container>
-                        <container parent="cid10590070" type="Folder">4</container>
-                        <unitdate>1988</unitdate>
-                    </did></c02><c02 id="ref31" level="file" score="1" C-ORDER="21"><did>
-                        <unittitle>Concerto for Viola, Woodwinds and Percussion - full score and parts</unittitle>
-                        <container id="cid10590009" type="Box">4</container>
-                        <container parent="cid10590009" type="Folder">8</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref75" level="file" score="1" C-ORDER="22"><did>
-                        <unittitle>Concerto for Violin and Chamber Orchestra - manuscript score</unittitle>
-                        <container id="cid10590052" type="Box">1</container>
-                        <container parent="cid10590052" type="Folder">3</container>
-                        <unitdate>1987</unitdate>
-                    </did></c02><c02 id="ref86" level="file" score="1" C-ORDER="23"><did>
-                        <unittitle>Concerto for Violin and Classical Orchestra</unittitle>
-                        <container id="cid10590063" type="Box">2</container>
-                        <container parent="cid10590063" type="Folder">3</container>
-                        <unitdate>1988</unitdate>
-                    </did></c02><c02 id="ref32" level="file" score="1" C-ORDER="24"><did>
-                        <unittitle>Cowboy Miniatures</unittitle>
-                        <container id="cid10590010" type="Box">4</container>
-                        <container parent="cid10590010" type="Folder">9</container>
-                        <unitdate>2008</unitdate>
-                    </did></c02><c02 id="ref78" level="file" score="1" C-ORDER="25"><did>
-                        <unittitle>Cowboy Miniatures - manuscript score</unittitle>
-                        <container id="cid10590055" type="Box">1</container>
-                        <container parent="cid10590055" type="Folder">6</container>
-                        <unitdate>2007</unitdate>
-                    </did></c02><c02 id="ref94" level="file" score="1" C-ORDER="26"><did>
-                        <unittitle>Dance Suite - manuscript score</unittitle>
-                        <container id="cid10590071" type="Box">3</container>
-                        <container parent="cid10590071" type="Folder">5</container>
-                        <unitdate>1999</unitdate>
-                    </did></c02><c02 id="ref33" level="file" score="1" C-ORDER="27"><did>
-                        <unittitle>Dialog for Violin and Piano</unittitle>
-                        <container id="cid10590011" type="Box">4</container>
-                        <container parent="cid10590011" type="Folder">10</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref34" level="file" score="1" C-ORDER="28"><did>
-                        <unittitle>Double Reed Concerto (incl. pdf on CD-R)</unittitle>
-                        <container id="cid10590012" type="Box">4</container>
-                        <container parent="cid10590012" type="Folder">11</container>
-                        <unitdate>2011</unitdate>
-                    </did></c02><c02 id="ref35" level="file" score="1" C-ORDER="29"><did>
-                        <unittitle>Eccentricities</unittitle>
-                        <container id="cid10590013" type="Box">4</container>
-                        <container parent="cid10590013" type="Folder">12</container>
-                        <unitdate>1986</unitdate>
-                    </did></c02><c02 id="ref36" level="file" score="1" C-ORDER="30"><did>
-                        <unittitle>Ernest Worthing: A Musical Play in Three Acts (incl. music and DVD)</unittitle>
-                        <container id="cid10590014" type="Box">4</container>
-                        <container parent="cid10590014" type="Folder">13</container>
-                        <unitdate>1997</unitdate>
-                    </did></c02><c02 id="ref37" level="file" score="1" C-ORDER="31"><did>
-                        <unittitle>Fantasy on a Theme of Rameau</unittitle>
-                        <container id="cid10590015" type="Box">4</container>
-                        <container parent="cid10590015" type="Folder">14</container>
-                        <unitdate>1996</unitdate>
-                    </did></c02><c02 id="ref38" level="file" score="1" C-ORDER="32"><did>
-                        <unittitle>A Garland of Southern Song</unittitle>
-                        <container id="cid10590016" type="Box">4</container>
-                        <container parent="cid10590016" type="Folder">15</container>
-                        <unitdate>1990</unitdate>
-                    </did></c02><c02 id="ref87" level="file" score="1" C-ORDER="33"><did>
-                        <unittitle>Hobson's Choice - full score</unittitle>
-                        <container id="cid10590064" type="Box">2</container>
-                        <container parent="cid10590064" type="Folder">4</container>
-                        <unitdate>2000</unitdate>
-                    </did></c02><c02 id="ref39" level="file" score="1" C-ORDER="34"><did>
-                        <unittitle>Hobson's Choice - vocal score (incl. CDs, DVD)</unittitle>
-                        <container id="cid10590017" type="Box">5</container>
-                        <container parent="cid10590017" type="Folder">1</container>
-                        <unitdate>2000</unitdate>
-                    </did></c02><c02 id="ref40" level="file" score="1" C-ORDER="35"><did>
-                        <unittitle>Hobson's Choice - parts</unittitle>
-                        <container id="cid10590018" type="Box">5</container>
-                        <container parent="cid10590018" type="Folder">2</container>
-                        <unitdate>2000</unitdate>
-                    </did></c02><c02 id="ref41" level="file" score="1" C-ORDER="36"><did>
-                        <unittitle>Hobson's Choice - parts and libretto</unittitle>
-                        <container id="cid10590019" type="Box">5</container>
-                        <container parent="cid10590019" type="Folder">3</container>
-                        <unitdate>2000</unitdate>
-                    </did></c02><c02 id="ref42" level="file" score="1" C-ORDER="37"><did>
-                        <unittitle>Hobson's Choice - lyrics (also incl. lyrics for Ernest Worthing)</unittitle>
-                        <container id="cid10590020" type="Box">5</container>
-                        <container parent="cid10590020" type="Folder">4</container>
-                        <unitdate>2000</unitdate>
-                    </did></c02><c02 id="ref95" level="file" score="1" C-ORDER="38"><did>
-                        <unittitle>Hobson's Choice - manuscript score</unittitle>
-                        <container id="cid10590072" type="Box">3</container>
-                        <container parent="cid10590072" type="Folder">6</container>
-                        <unitdate>2000</unitdate>
-                    </did></c02><c02 id="ref79" level="file" score="1" C-ORDER="39"><did>
-                        <unittitle>March of the Krumhorns - manuscript score</unittitle>
-                        <container id="cid10590056" type="Box">1</container>
-                        <container parent="cid10590056" type="Folder">6</container>
-                        <unitdate>2006</unitdate>
-                    </did></c02><c02 id="ref43" level="file" score="1" C-ORDER="40"><did>
-                        <unittitle>Mass for Our Time - full score and parts</unittitle>
-                        <container id="cid10590021" type="Box">5</container>
-                        <container parent="cid10590021" type="Folder">5</container>
-                        <unitdate>2003</unitdate>
-                    </did></c02><c02 id="ref44" level="file" score="1" C-ORDER="41"><did>
-                        <unittitle>Medieval Dance Suite</unittitle>
-                        <container id="cid10590022" type="Box">5</container>
-                        <container parent="cid10590022" type="Folder">6</container>
-                        <unitdate>1993</unitdate>
-                    </did></c02><c02 id="ref45" level="file" score="1" C-ORDER="42"><did>
-                        <unittitle>Meditations and Digressions</unittitle>
-                        <container id="cid10590023" type="Box">5</container>
-                        <container parent="cid10590023" type="Folder">7</container>
-                        <unitdate>2005</unitdate>
-                    </did></c02><c02 id="ref80" level="file" score="1" C-ORDER="43"><did>
-                        <unittitle>Meditations and Digressions - manuscript score</unittitle>
-                        <container id="cid10590057" type="Box">1</container>
-                        <container parent="cid10590057" type="Folder">6</container>
-                        <unitdate>2005</unitdate>
-                    </did></c02><c02 id="ref96" level="file" score="1" C-ORDER="44"><did>
-                        <unittitle>Pater Noster - manuscript score</unittitle>
-                        <container id="cid10590073" type="Box">3</container>
-                        <container parent="cid10590073" type="Folder">7</container>
-                        <unitdate>1997</unitdate>
-                    </did></c02><c02 id="ref46" level="file" score="1" C-ORDER="45"><did>
-                        <unittitle>Paul Revere's Ride</unittitle>
-                        <container id="cid10590024" type="Box">5</container>
-                        <container parent="cid10590024" type="Folder">8</container>
-                        <unitdate>1975</unitdate>
-                    </did></c02><c02 id="ref47" level="file" score="1" C-ORDER="46"><did>
-                        <unittitle>Please Don't Rain on My Tuba</unittitle>
-                        <container id="cid10590025" type="Box">5</container>
-                        <container parent="cid10590025" type="Folder">9</container>
-                        <unitdate>2003</unitdate>
-                    </did></c02><c02 id="ref81" level="file" score="1" C-ORDER="47"><did>
-                        <unittitle>Please Don't Rain on My Tuba - manuscript score</unittitle>
-                        <container id="cid10590058" type="Box">1</container>
-                        <container parent="cid10590058" type="Folder">6</container>
-                        <unitdate>2003</unitdate>
-                    </did></c02><c02 id="ref48" level="file" score="1" C-ORDER="48"><did>
-                        <unittitle>A Renaissance Bouquet</unittitle>
-                        <container id="cid10590026" type="Box">5</container>
-                        <container parent="cid10590026" type="Folder">10</container>
-                        <unitdate>1994</unitdate>
-                    </did></c02><c02 id="ref49" level="file" score="1" C-ORDER="49"><did>
-                        <unittitle>Soft Shoe</unittitle>
-                        <container id="cid10590027" type="Box">5</container>
-                        <container parent="cid10590027" type="Folder">11</container>
-                        <unitdate>2003</unitdate>
-                    </did></c02><c02 id="ref50" level="file" score="1" C-ORDER="50"><did>
-                        <unittitle>Soliloquy from Planet Earth (inc. CD-R accompaniment)</unittitle>
-                        <container id="cid10590028" type="Box">5</container>
-                        <container parent="cid10590028" type="Folder">12</container>
-                        <unitdate>1979</unitdate>
-                    </did></c02><c02 id="ref51" level="file" score="1" C-ORDER="51"><did>
-                        <unittitle>A Song, a Prayer, a Voyage</unittitle>
-                        <container id="cid10590029" type="Box">6</container>
-                        <container parent="cid10590029" type="Folder">1</container>
-                        <unitdate>2006</unitdate>
-                    </did></c02><c02 id="ref82" level="file" score="1" C-ORDER="52"><did>
-                        <unittitle>A Song, a Prayer, a Voyage - manuscript score</unittitle>
-                        <container id="cid10590059" type="Box">1</container>
-                        <container parent="cid10590059" type="Folder">6</container>
-                        <unitdate>2006</unitdate>
-                    </did></c02><c02 id="ref52" level="file" score="1" C-ORDER="53"><did>
-                        <unittitle>Songs for Baritone and Cello</unittitle>
-                        <container id="cid10590030" type="Box">6</container>
-                        <container parent="cid10590030" type="Folder">2</container>
-                        <unitdate>1997</unitdate>
-                    </did></c02><c02 id="ref76" level="file" score="1" C-ORDER="54"><did>
-                        <unittitle>Songs of Laughter, Love of Tears - manuscript score</unittitle>
-                        <container id="cid10590053" type="Box">1</container>
-                        <container parent="cid10590053" type="Folder">4</container>
-                        <unitdate>1985</unitdate>
-                    </did></c02><c02 id="ref53" level="file" score="1" C-ORDER="55"><did>
-                        <unittitle>State of Mind</unittitle>
-                        <container id="cid10590031" type="Box">6</container>
-                        <container parent="cid10590031" type="Folder">3</container>
-                        <unitdate>2002</unitdate>
-                    </did></c02><c02 id="ref54" level="file" score="1" C-ORDER="56"><did>
-                        <unittitle>Summer's End</unittitle>
-                        <container id="cid10590032" type="Box">6</container>
-                        <container parent="cid10590032" type="Folder">4</container>
-                        <unitdate>2012</unitdate>
-                    </did></c02><c02 id="ref55" level="file" score="1" C-ORDER="57"><did>
-                        <unittitle>Symphony No. 1 - parts</unittitle>
-                        <container id="cid10590033" type="Box">6</container>
-                        <container parent="cid10590033" type="Folder">5</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref56" level="file" score="1" C-ORDER="58"><did>
-                        <unittitle>Symphony No. 1 - parts</unittitle>
-                        <container id="cid10590034" type="Box">6</container>
-                        <container parent="cid10590034" type="Folder">6</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref77" level="file" score="1" C-ORDER="59"><did>
-                        <unittitle>Symphony II - manuscript score</unittitle>
-                        <container id="cid10590054" type="Box">1</container>
-                        <container parent="cid10590054" type="Folder">5</container>
-                        <unitdate>undated</unitdate>
-                    </did></c02><c02 id="ref83" level="file" score="1" C-ORDER="60"><did>
-                        <unittitle>This Tiny King - manuscript score</unittitle>
-                        <container id="cid10590060" type="Box">1</container>
-                        <container parent="cid10590060" type="Folder">6</container>
-                        <unitdate>undated</unitdate>
-                    </did></c02><c02 id="ref57" level="file" score="1" C-ORDER="61"><did>
-                        <unittitle>Three Preludes</unittitle>
-                        <container id="cid10590035" type="Box">6</container>
-                        <container parent="cid10590035" type="Folder">7</container>
-                        <unitdate>1992</unitdate>
-                    </did></c02><c02 id="ref58" level="file" score="1" C-ORDER="62"><did>
-                        <unittitle>Three Sonatinas</unittitle>
-                        <container id="cid10590036" type="Box">6</container>
-                        <container parent="cid10590036" type="Folder">8</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref59" level="file" score="1" C-ORDER="63"><did>
-                        <unittitle>Three Songs From Catullus</unittitle>
-                        <container id="cid10590037" type="Box">6</container>
-                        <container parent="cid10590037" type="Folder">9</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref88" level="file" score="1" C-ORDER="64"><did>
-                        <unittitle>Triple Concerto</unittitle>
-                        <container id="cid10590065" type="Box">2</container>
-                        <container parent="cid10590065" type="Folder">5</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref60" level="file" score="1" C-ORDER="65"><did>
-                        <unittitle>Two Chorales on Poems of Oscar Wilde</unittitle>
-                        <container id="cid10590038" type="Box">6</container>
-                        <container parent="cid10590038" type="Folder">10</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref89" level="file" score="1" C-ORDER="66"><did>
-                        <unittitle>Variations on a Theme of Shostakovich</unittitle>
-                        <container id="cid10590066" type="Box">2</container>
-                        <container parent="cid10590066" type="Folder">6</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref61" level="file" score="1" C-ORDER="67"><did>
-                        <unittitle>With Rue My Heart is Laden</unittitle>
-                        <container id="cid10590039" type="Box">6</container>
-                        <container parent="cid10590039" type="Folder">11</container>
-                        <unitdate>1978</unitdate>
-                    </did></c02><c02 id="ref62" level="file" score="1" C-ORDER="68"><did>
-                        <unittitle>Web of Life - full score</unittitle>
-                        <container id="cid10590040" type="Box">6</container>
-                        <container parent="cid10590040" type="Folder">12</container>
-                        <unitdate>1994</unitdate>
-                    </did></c02><c02 id="ref63" level="file" score="1" C-ORDER="69"><did>
-                        <unittitle>Web of Life - parts</unittitle>
-                        <container id="cid10590041" type="Box">6</container>
-                        <container parent="cid10590041" type="Folder">13</container>
-                        <unitdate>1994</unitdate>
-                    </did></c02><c02 id="ref64" level="file" score="1" C-ORDER="70"><did>
-                        <unittitle>Web of Life - chorale score/youth score</unittitle>
-                        <container id="cid10590042" type="Box">6</container>
-                        <container parent="cid10590042" type="Folder">14</container>
-                        <unitdate>1994</unitdate>
-                    </did></c02></c01>
-            <c01 id="ref20" level="series" score="4" C-ORDER="71"><did>
-                    <unittitle>Series 2: Commerical recordings</unittitle>
-                    <unitdate normal="1991/2004" type="inclusive">1991-2004</unitdate>
-                </did><scopecontent id="ref102">
-                    <head>Scope and Content</head>
-                    <p>Commercial CDs of Biggs' works, recorded by a variety of orchestras and vocalists.</p>
-                </scopecontent><arrangement id="ref103">
-                    <head>Organization and Arrangement</head>
-                    <p>Arranged alphabetically.</p>
-                </arrangement><phystech id="ref104">
-                    <head>Physical Characteristics and Technical Requirements</head>
-                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
-                </phystech><c02 id="ref66" level="file" score="1" C-ORDER="75"><did>
-                        <unittitle>Chamber Music of John Biggs - Barkezian Ensemble</unittitle>
-                        <container id="cid10590043" type="Box">6</container>
-                        <container parent="cid10590043" type="Folder">15</container>
-                        <unitdate>1999</unitdate>
-                    </did></c02><c02 id="ref67" level="file" score="1" C-ORDER="76"><did>
-                        <unittitle>John Biggs - A Choral Bouquet</unittitle>
-                        <container id="cid10590044" type="Box">6</container>
-                        <container parent="cid10590044" type="Folder">16</container>
-                        <unitdate>2001</unitdate>
-                    </did></c02><c02 id="ref68" level="file" score="1" C-ORDER="77"><did>
-                        <unittitle>John Biggs - A Vocal Bouquet</unittitle>
-                        <container id="cid10590045" type="Box">7</container>
-                        <container parent="cid10590045" type="Folder">1</container>
-                        <unitdate>2001</unitdate>
-                    </did></c02><c02 id="ref69" level="file" score="1" C-ORDER="78"><did>
-                        <unittitle>Music of John Biggs - Czech National Symphony</unittitle>
-                        <container id="cid10590046" type="Box">7</container>
-                        <container parent="cid10590046" type="Folder">2</container>
-                        <unitdate>2004</unitdate>
-                    </did></c02><c02 id="ref70" level="file" score="1" C-ORDER="79"><did>
-                        <unittitle>The Music of John Biggs - Moravska Filharmonie Olomouc</unittitle>
-                        <container id="cid10590047" type="Box">7</container>
-                        <container parent="cid10590047" type="Folder">3</container>
-                        <unitdate>1997</unitdate>
-                    </did></c02><c02 id="ref71" level="file" score="1" C-ORDER="80"><did>
-                        <unittitle>Paul Freeman Introduces John Biggs</unittitle>
-                        <container id="cid10590048" type="Box">7</container>
-                        <container parent="cid10590048" type="Folder">4</container>
-                        <unitdate>2000</unitdate>
-                    </did></c02><c02 id="ref72" level="file" score="1" C-ORDER="81"><did>
-                        <unittitle>Music From Six Continents: Biggs, Dembski, Jazwinski, Wolfe - Polish Radio and TV Symphony Orchestra of Krakow</unittitle>
-                        <container id="cid10590049" type="Box">7</container>
-                        <container parent="cid10590049" type="Folder">5</container>
-                        <unitdate>1991</unitdate>
-                    </did></c02></c01>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/tf3r29n892/">bigg194m.xml</eadid><filedesc><titlestmt><titleproper type="filing">Biggs (John) papers</titleproper><titleproper>Finding Aid for the John Biggs papers <num>PASC-M.0194</num></titleproper><author>Finding aid prepared by UCLA Performing Arts Special Collections staff, updated by Kelly Kress, 2016; machine-readable finding aid created by Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Finding aid last updated 2026 March 30 by Catherine Falls.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-03-30 14:59:59 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>John Biggs papers</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Biggs, John</persname>
+    </origination>
+    <origination label="source">
+      <persname rules="aacr" source="naf">Biggs, John</persname>
+    </origination>
+    <unitid>PASC-M.0194</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">4.4 linear feet</extent>
+      <extent altrender="carrier">(7 boxes)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">7 born-digital carriers</extent>
+      <extent altrender="carrier">(7 optical discs)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1.75 linear feet</extent>
+      <extent altrender="carrier">(1 unprocessed flat box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1967/2012" type="inclusive">1967-2012</unitdate>
+    <abstract id="aspace_8553844cd0593de5499da31bfb156040" label="Abstract">Compositions by John Biggs, including printed and manuscript scores and commercial recordings.</abstract>
+    <physloc id="aspace_88f9d9e4ee39b0224d02eec2994104fa" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_f1f7afb146e1e52760a740ffca847602">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_f2c126295889ad19e95920c9a94d234c">
+    <head>Restrictions on Access</head>
+<p>Portions of collection unprocessed. Material in the Accession LSC-2001-002 backlog material series is unavailable for access. Please see <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/access-unprocessed-collections-policy">LSC's Access to Unprocessed Collections Policy</extref> for more information about levels of discovery and access of special collections materials and registering interest in unprocessed collections.</p>  </accessrestrict>
+  <phystech id="aspace_38f3f51668bfc6d18b6366892e6dd8ef">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>CONTAINS UNPROCESSED DIGITAL MATERIALS: Digital materials are not currently available for access and will require further processing and assessment. If you have questions about this material please email AskLSC@library.ucla.edu.</p>  </phystech>
+  <userestrict id="aspace_fb786b3fbc17dc1e41af97ac14f9d38f">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_61078a3eb00f1acf411f1c10367c6ff0">
+    <head>Provenance/Source of Acquisition</head>
+<p>Gift of John Biggs, 2001. Additions to the collection, gift of John Biggs, 2003 and 2004.</p>  </acqinfo>
+  <odd id="aspace_588bf8bfc2d598ddf716b312e5d26c33">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/tk6osu/alma9944326643606533">9944326643606533</extref></p>  </odd>
+  <prefercite id="aspace_0923de6d205987a5172e898f41e4715d">
+    <head>Preferred Citation</head>
+<p>[Identification of item], John Biggs papers (PASC-M 194). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_b8db1b38933eb5fc5ced17acbacea89b">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>Processed by UCLA Performing Arts Special Collections staff. Reprocessed by Kelly Kress, 2016.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Potentially Offensive Description in Library Special Collections.</extref></p>  </processinfo>
+  <bioghist id="aspace_824f4f8a959ca86e99f21bb2a9f74035">
+    <head>Biography</head>
+<p>John Biggs was born in Los Angeles on October 18, 1932. He received his master's degree in composition from the University of California, Los Angeles, and also studied at the University of Southern California and the Royal Flemish Conservatory in Antwerp, Belgium. His teachers included Roy Harris, Lukas Foss, Ingolf Dahl, Flor Peeters, Halsey Stevens, and Leonard Stein. Biggs taught at Los Angeles City College, UCLA, UC Berkeley, and served as composer-in-residence to six colleges in Kansas. He founded the John Biggs Consort, which toured internationally under Columbia Artists Management, specializing in medieval, renaissance, and 20th century music. Awards for his compositions include a Rockefeller Grant, Fulbright Grant, Atwater-Kent Award, ASCAP Serious Music Awards, and Meet the Composer grants. Biggs's works have been performed by the Ventura County Master Chorale, the Ventura County Symphony, and the Santa Barbara Chamber Orchestra, among other groups.</p>  </bioghist>
+  <scopecontent id="aspace_ec3caed3ae6d6a9ec80a7f2403b9ff2d">
+    <head>Scope and Content</head>
+<p>Musical compositions by John Biggs, including orchestral music, chamber music, choral music, and the operas Hobson's Choice and Ernest Worthing. Primarily full printed scores, many with parts, as well as several manuscript scores. Also included are sound recordings of Biggs's music.</p>  </scopecontent>
+  <arrangement id="aspace_d0e9564f23722012800c670780e436b3">
+    <head>Organization and Arrangement</head>
+<p>The collection is organized into the following series: 
+<list type="simple">
+<item>Series 1. Compositions</item>
+<item>Series 2. Commercial Recordings</item>
+</list></p>  </arrangement>
+  <controlaccess>
+    <occupation source="lcsh">Composers -- Archives.</occupation>
+    <persname rules="aacr" source="naf">Biggs, John -- Archives</persname>
+    <persname role="fmo" rules="aacr" source="naf">Biggs, John</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref19_gqn" level="series"><did><unittitle>Series 1: Compositions</unittitle><unitdate datechar="creation" normal="1967/2012" type="inclusive">1967-2012</unitdate></did><scopecontent id="aspace_305a64ddf3f666d67344e3f158991869"><head>Scope and Content</head><p>Compositions for orchestral music, chamber music, chorale music, and the two operas Hobson's Choice and Ernest Worthing. Handwritten lyrics and DVDs are included for both operas. Primarily printed scores, some with parts, as well as several manuscript scores and a few in pdf form. Full scores unless otherwise noted.</p></scopecontent><arrangement id="aspace_e88f135e23842fbaf69b8fbd34425f5f"><head>Organization and Arrangement</head><p>Arranged alphabetically.</p></arrangement><phystech id="aspace_c0e05103cac8a6646712a4ed54f43782"><head>Physical Characteristics and Technical Requirements</head><p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p></phystech><c02 id="aspace_ref23_2jj" level="file"><did><unittitle>American Folk Songs (incl. pdf on CD-R)</unittitle><unitdate datechar="creation">1967</unitdate><container id="aspace_c61d715f72cf8278ec46b4dc6eb2beca" label="Mixed Materials" type="box">4</container><container id="aspace_f355b1b0e8ff13d2032bf3c0aad187e4" parent="aspace_c61d715f72cf8278ec46b4dc6eb2beca" type="folder">1</container></did></c02><c02 id="aspace_ref90_c9u" level="file"><did><unittitle>Bethlehem Down - manuscript score</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_08a55655eea344a71286f594b5047a39" label="Mixed Materials" type="box">3</container><container id="aspace_ecd95c43dcfd931e931e7fd1fa0e2a04" parent="aspace_08a55655eea344a71286f594b5047a39" type="folder">1</container></did></c02><c02 id="aspace_ref24_rfb" level="file"><did><unittitle>Birds</unittitle><unitdate datechar="creation">1967</unitdate><container id="aspace_ffeca5a25b1bc5e09d0a74c4d4ec1ab7" label="Mixed Materials" type="box">4</container><container id="aspace_3f2f66a13ed97e4d86a5765fa9a31424" parent="aspace_ffeca5a25b1bc5e09d0a74c4d4ec1ab7" type="folder">2</container></did></c02><c02 id="aspace_ref25_r9u" level="file"><did><unittitle>Black Waltz of a Gossiping Diva</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_82e1c9e6e93e1e2f3653785b9a8b048a" label="Mixed Materials" type="box">4</container><container id="aspace_c83f31113772ce750ab2754597168563" parent="aspace_82e1c9e6e93e1e2f3653785b9a8b048a" type="folder">3</container></did></c02><c02 id="aspace_ref91_kws" level="file"><did><unittitle>Black Waltz of a Gossiping Diva - manuscript score</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_d6d1922dfdf6d178b4411378ba482af7" label="Mixed Materials" type="box">3</container><container id="aspace_391343d9dd0305d3317e75ca1c304fd2" parent="aspace_d6d1922dfdf6d178b4411378ba482af7" type="folder">2</container></did></c02><c02 id="aspace_ref26_z10" level="file"><did><unittitle>Cantata Rustica - full score with CD</unittitle><unitdate datechar="creation">1991</unitdate><container id="aspace_3b99a8a65900a6b403ead8708c59fd21" label="Mixed Materials" type="box">4</container><container id="aspace_2ecca95a08585c125072e174d7bc3a67" parent="aspace_3b99a8a65900a6b403ead8708c59fd21" type="folder">4</container></did></c02><c02 id="aspace_ref27_hwh" level="file"><did><unittitle>Cantata Rustica - choral score and parts</unittitle><unitdate datechar="creation">1991</unitdate><container id="aspace_9bc505d12326d6344f0e784d51d0b1ba" label="Mixed Materials" type="box">4</container><container id="aspace_e5cc833d3042e947add60f4af1ba5daa" parent="aspace_9bc505d12326d6344f0e784d51d0b1ba" type="folder">5</container></did></c02><c02 id="aspace_ref28_wwy" level="file"><did><unittitle>Canto Sobre La Muerte de Silvestre</unittitle><unitdate datechar="creation">1991</unitdate><container id="aspace_6679707f9f658d5428ca7d02cee38c47" label="Mixed Materials" type="box">4</container><container id="aspace_4322ff8f9782f3a7025e4d0478c875bb" parent="aspace_6679707f9f658d5428ca7d02cee38c47" type="folder">5</container></did></c02><c02 id="aspace_ref73_ey7" level="file"><did><unittitle>Canto Sobre La Muerte de Silvestre - manuscript score</unittitle><unitdate datechar="creation">1991</unitdate><container id="aspace_0229887f8347f21069e27bb856a30a40" label="Mixed Materials" type="box">1</container><container id="aspace_ceb7d729f0319f4cc3d1907c99d518e0" parent="aspace_0229887f8347f21069e27bb856a30a40" type="folder">1</container></did></c02><c02 id="aspace_ref92_j17" level="file"><did><unittitle>Cello Concerto - manuscript score</unittitle><unitdate datechar="creation">1988</unitdate><container id="aspace_55e44b61781045158217ee918f76e73e" label="Mixed Materials" type="box">3</container><container id="aspace_51032365216dda5890fe1f3e2bfc8bf7" parent="aspace_55e44b61781045158217ee918f76e73e" type="folder">3</container></did></c02><c02 id="aspace_ref29_gne" level="file"><did><unittitle>A Christmas Canticle</unittitle><unitdate datechar="creation">1971</unitdate><container id="aspace_d600993ea5f001ae82e9a608439d33d8" label="Mixed Materials" type="box">4</container><container id="aspace_1ff54f1842af6db0bf2e9d72e122310a" parent="aspace_d600993ea5f001ae82e9a608439d33d8" type="folder">6</container></did></c02><c02 id="aspace_ref30_tmq" level="file"><did><unittitle>Concert Suite - full score and parts</unittitle><unitdate datechar="creation">1986</unitdate><container id="aspace_19380c9f35f496bedd602503919defc5" label="Mixed Materials" type="box">4</container><container id="aspace_daa647d7a5826d91d580c4d8d281cac3" parent="aspace_19380c9f35f496bedd602503919defc5" type="folder">7</container></did></c02><c02 id="aspace_ref84_11a" level="file"><did><unittitle>Concerto for Cello and Chamber Orchestra</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_0e16a5f623b14ee035c7075773195478" label="Mixed Materials" type="box">2</container><container id="aspace_49b1ebfdb05af773e25ad2fb5f5d1d33" parent="aspace_0e16a5f623b14ee035c7075773195478" type="folder">1</container></did></c02><c02 id="aspace_ref85_hsn" level="file"><did><unittitle>Concerto for Oboe and String Orchestra</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_148fbe07a9141123053ab9383bdecb68" label="Mixed Materials" type="box">2</container><container id="aspace_86fe5423813227de5b1252dab4855ecb" parent="aspace_148fbe07a9141123053ab9383bdecb68" type="folder">2</container></did></c02><c02 id="aspace_ref74_5ia" level="file"><did><unittitle>Concerto for Orchestra - manuscript score</unittitle><unitdate datechar="creation">1988</unitdate><container id="aspace_af02844fd6105323d834ed343dc66b1f" label="Mixed Materials" type="box">1</container><container id="aspace_7e7fcbe7f75012210fc4384fb99a0a73" parent="aspace_af02844fd6105323d834ed343dc66b1f" type="folder">2</container></did></c02><c02 id="aspace_ref93_fyx" level="file"><did><unittitle>Concerto for Orchestra</unittitle><unitdate datechar="creation">1988</unitdate><container id="aspace_35db9a3dd73c88d68e3ebbedc5f3ff24" label="Mixed Materials" type="box">3</container><container id="aspace_5230037d36dff5e076f2828f46b12cb6" parent="aspace_35db9a3dd73c88d68e3ebbedc5f3ff24" type="folder">4</container></did></c02><c02 id="aspace_ref31_uhr" level="file"><did><unittitle>Concerto for Viola, Woodwinds and Percussion - full score and parts</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_55709f93a53e62717b5f7ef20ed8750a" label="Mixed Materials" type="box">4</container><container id="aspace_312af5d56d82a8b777c4ea3e9848aee3" parent="aspace_55709f93a53e62717b5f7ef20ed8750a" type="folder">8</container></did></c02><c02 id="aspace_ref75_5uo" level="file"><did><unittitle>Concerto for Violin and Chamber Orchestra - manuscript score</unittitle><unitdate datechar="creation">1987</unitdate><container id="aspace_e2717aae949d36414607a2c61bf1cf64" label="Mixed Materials" type="box">1</container><container id="aspace_a0a6b2ba7546437edac602394fad08f7" parent="aspace_e2717aae949d36414607a2c61bf1cf64" type="folder">3</container></did></c02><c02 id="aspace_ref86_8d9" level="file"><did><unittitle>Concerto for Violin and Classical Orchestra</unittitle><unitdate datechar="creation">1988</unitdate><container id="aspace_b9f375509b086698d436bf1242758bee" label="Mixed Materials" type="box">2</container><container id="aspace_682af0ec083681b54e42b00ffa0ca507" parent="aspace_b9f375509b086698d436bf1242758bee" type="folder">3</container></did></c02><c02 id="aspace_ref32_0uh" level="file"><did><unittitle>Cowboy Miniatures</unittitle><unitdate datechar="creation">2008</unitdate><container id="aspace_dd5035118c647e1ce4bd8dbd6e8afb33" label="Mixed Materials" type="box">4</container><container id="aspace_f48f94bf17b7a6fc2691eb1554f53ea8" parent="aspace_dd5035118c647e1ce4bd8dbd6e8afb33" type="folder">9</container></did></c02><c02 id="aspace_ref78_4an" level="file"><did><unittitle>Cowboy Miniatures - manuscript score</unittitle><unitdate datechar="creation">2007</unitdate><container id="aspace_d098690112f77cbba17b512921f7ee62" label="Mixed Materials" type="box">1</container><container id="aspace_0795c09ed528e23302c580d542a96b0b" parent="aspace_d098690112f77cbba17b512921f7ee62" type="folder">6</container></did></c02><c02 id="aspace_ref94_xs9" level="file"><did><unittitle>Dance Suite - manuscript score</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_007a23486af552fbb3091487754113ff" label="Mixed Materials" type="box">3</container><container id="aspace_e271d188d87a0a624b00fe231f5c142d" parent="aspace_007a23486af552fbb3091487754113ff" type="folder">5</container></did></c02><c02 id="aspace_ref33_40s" level="file"><did><unittitle>Dialog for Violin and Piano</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_5199fce9c3b543987d859df49f80c87a" label="Mixed Materials" type="box">4</container><container id="aspace_3a717e094eeb03cdf3eddc225a1320f8" parent="aspace_5199fce9c3b543987d859df49f80c87a" type="folder">10</container></did></c02><c02 id="aspace_ref34_gdp" level="file"><did><unittitle>Double Reed Concerto (incl. pdf on CD-R)</unittitle><unitdate datechar="creation">2011</unitdate><container id="aspace_828693f3623d86288b04a2b08cce7754" label="Mixed Materials" type="box">4</container><container id="aspace_8a19c40d4b84ddb7c8cf1c69777341c5" parent="aspace_828693f3623d86288b04a2b08cce7754" type="folder">11</container></did></c02><c02 id="aspace_ref35_lgk" level="file"><did><unittitle>Eccentricities</unittitle><unitdate datechar="creation">1986</unitdate><container id="aspace_736477d3f1679ef84320e3adf053b894" label="Mixed Materials" type="box">4</container><container id="aspace_4154ecfec18df0ddc1f44554877a2c3b" parent="aspace_736477d3f1679ef84320e3adf053b894" type="folder">12</container></did></c02><c02 id="aspace_ref36_rbv" level="file"><did><unittitle>Ernest Worthing: A Musical Play in Three Acts (incl. music and DVD)</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_35621633c39b892fc4f561d0f76e053b" label="Mixed Materials" type="box">4</container><container id="aspace_1a874b39b64c91925f6443746b36ec59" parent="aspace_35621633c39b892fc4f561d0f76e053b" type="folder">13</container></did></c02><c02 id="aspace_ref37_kkg" level="file"><did><unittitle>Fantasy on a Theme of Rameau</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_70650faf59cc9e3943cf323cc1e9af58" label="Mixed Materials" type="box">4</container><container id="aspace_e130b22b20ac6323dc6735206b224705" parent="aspace_70650faf59cc9e3943cf323cc1e9af58" type="folder">14</container></did></c02><c02 id="aspace_ref38_yht" level="file"><did><unittitle>A Garland of Southern Song</unittitle><unitdate datechar="creation">1990</unitdate><container id="aspace_65f21c67854eb058fad87be96e7cc7fb" label="Mixed Materials" type="box">4</container><container id="aspace_59c7ea3c257eabbf45ca46f2bc6feb80" parent="aspace_65f21c67854eb058fad87be96e7cc7fb" type="folder">15</container></did></c02><c02 id="aspace_ref87_lfl" level="file"><did><unittitle>Hobson's Choice - full score</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_e909f5ba008c0416b9774063df474210" label="Mixed Materials" type="box">2</container><container id="aspace_de1eb34696a3023b20f4b1c3b9b875b4" parent="aspace_e909f5ba008c0416b9774063df474210" type="folder">4</container></did></c02><c02 id="aspace_ref39_c1c" level="file"><did><unittitle>Hobson's Choice - vocal score (incl. CDs, DVD)</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_5165eac93da6c7a63246cad7fe2048a6" label="Mixed Materials" type="box">5</container><container id="aspace_7a5f420333aab1de840af5d4c862d2bf" parent="aspace_5165eac93da6c7a63246cad7fe2048a6" type="folder">1</container></did></c02><c02 id="aspace_ref40_nvh" level="file"><did><unittitle>Hobson's Choice - parts</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_65b3ee0d61f95a26cc3632a113b184c1" label="Mixed Materials" type="box">5</container><container id="aspace_741e416eee34e5aa15da26990f28f749" parent="aspace_65b3ee0d61f95a26cc3632a113b184c1" type="folder">2</container></did></c02><c02 id="aspace_ref41_1ol" level="file"><did><unittitle>Hobson's Choice - parts and libretto</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_603ae8ec6c28cd52f3c0de0ec90a0ca7" label="Mixed Materials" type="box">5</container><container id="aspace_9f67f9a49cf38f6673869fc0c7e07cf7" parent="aspace_603ae8ec6c28cd52f3c0de0ec90a0ca7" type="folder">3</container></did></c02><c02 id="aspace_ref42_mwv" level="file"><did><unittitle>Hobson's Choice - lyrics (also incl. lyrics for Ernest Worthing)</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_e0d753fa61649ee5c4c37f75a5d1516b" label="Mixed Materials" type="box">5</container><container id="aspace_0925f86eb9947fa43534fbc5b63b124e" parent="aspace_e0d753fa61649ee5c4c37f75a5d1516b" type="folder">4</container></did></c02><c02 id="aspace_ref95_3bk" level="file"><did><unittitle>Hobson's Choice - manuscript score</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_4ed944d12a61db53ee9830b167e17378" label="Mixed Materials" type="box">3</container><container id="aspace_6a418b29068736de8a4bc2f6ed368bd3" parent="aspace_4ed944d12a61db53ee9830b167e17378" type="folder">6</container></did></c02><c02 id="aspace_ref79_mdi" level="file"><did><unittitle>March of the Krumhorns - manuscript score</unittitle><unitdate datechar="creation">2006</unitdate><container id="aspace_29bae86e1a8bf724506d78f30a8768e2" label="Mixed Materials" type="box">1</container><container id="aspace_e9418178236fd948f910f0c79af36590" parent="aspace_29bae86e1a8bf724506d78f30a8768e2" type="folder">6</container></did></c02><c02 id="aspace_ref43_nfq" level="file"><did><unittitle>Mass for Our Time - full score and parts</unittitle><unitdate datechar="creation">2003</unitdate><container id="aspace_2765f9ae7b9142b0cb10488e1bd85c59" label="Mixed Materials" type="box">5</container><container id="aspace_69b6d0571448a61526ad5bcf657163e2" parent="aspace_2765f9ae7b9142b0cb10488e1bd85c59" type="folder">5</container></did></c02><c02 id="aspace_ref44_y6d" level="file"><did><unittitle>Medieval Dance Suite</unittitle><unitdate datechar="creation">1993</unitdate><container id="aspace_36d422b4fe2795cf8eb77ddeee8fda6a" label="Mixed Materials" type="box">5</container><container id="aspace_8e5548c889a922329fa7146f2bf50f4b" parent="aspace_36d422b4fe2795cf8eb77ddeee8fda6a" type="folder">6</container></did></c02><c02 id="aspace_ref45_q3n" level="file"><did><unittitle>Meditations and Digressions</unittitle><unitdate datechar="creation">2005</unitdate><container id="aspace_175058673b0b4613727e138c765ef8ba" label="Mixed Materials" type="box">5</container><container id="aspace_15d9e1159145e9c58459577924932365" parent="aspace_175058673b0b4613727e138c765ef8ba" type="folder">7</container></did></c02><c02 id="aspace_ref80_vkd" level="file"><did><unittitle>Meditations and Digressions - manuscript score</unittitle><unitdate datechar="creation">2005</unitdate><container id="aspace_8311000f935ed54007d58ceee3642b77" label="Mixed Materials" type="box">1</container><container id="aspace_549c3fbb725b55c60f341a1080220380" parent="aspace_8311000f935ed54007d58ceee3642b77" type="folder">6</container></did></c02><c02 id="aspace_ref96_9rp" level="file"><did><unittitle>Pater Noster - manuscript score</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_7ae56b91e7b764dc472e360002369937" label="Mixed Materials" type="box">3</container><container id="aspace_16d69c296720dc6234b04b9acc89ee2f" parent="aspace_7ae56b91e7b764dc472e360002369937" type="folder">7</container></did></c02><c02 id="aspace_ref46_o11" level="file"><did><unittitle>Paul Revere's Ride</unittitle><unitdate datechar="creation">1975</unitdate><container id="aspace_6152c198b117bc3b46455442568e0c23" label="Mixed Materials" type="box">5</container><container id="aspace_f50e300661c2c6c84072bbf119b8ff50" parent="aspace_6152c198b117bc3b46455442568e0c23" type="folder">8</container></did></c02><c02 id="aspace_ref47_k50" level="file"><did><unittitle>Please Don't Rain on My Tuba</unittitle><unitdate datechar="creation">2003</unitdate><container id="aspace_5406a41c8947162ec765c4beb81b61e3" label="Mixed Materials" type="box">5</container><container id="aspace_e9ad6325ea2eb569bf49db9f6f84eb73" parent="aspace_5406a41c8947162ec765c4beb81b61e3" type="folder">9</container></did></c02><c02 id="aspace_ref81_37f" level="file"><did><unittitle>Please Don't Rain on My Tuba - manuscript score</unittitle><unitdate datechar="creation">2003</unitdate><container id="aspace_0f3889b7323fac8de1767cba9652eb79" label="Mixed Materials" type="box">1</container><container id="aspace_4a80058e86b2791f6fbeda71fb165679" parent="aspace_0f3889b7323fac8de1767cba9652eb79" type="folder">6</container></did></c02><c02 id="aspace_ref48_m5v" level="file"><did><unittitle>A Renaissance Bouquet</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_14cb6fcd91ea19f58ae2c5fe4dbee49f" label="Mixed Materials" type="box">5</container><container id="aspace_b5b210c1fcd9544c8ecad73f4e04dd60" parent="aspace_14cb6fcd91ea19f58ae2c5fe4dbee49f" type="folder">10</container></did></c02><c02 id="aspace_ref49_lxu" level="file"><did><unittitle>Soft Shoe</unittitle><unitdate datechar="creation">2003</unitdate><container id="aspace_aead26730f708e9251f2bd1cf9299f73" label="Mixed Materials" type="box">5</container><container id="aspace_5b1cce3a32ed6b2d7cf76975ae21f1e7" parent="aspace_aead26730f708e9251f2bd1cf9299f73" type="folder">11</container></did></c02><c02 id="aspace_ref50_04v" level="file"><did><unittitle>Soliloquy from Planet Earth (inc. CD-R accompaniment)</unittitle><unitdate datechar="creation">1979</unitdate><container id="aspace_ce790c76a75c00899229268b47df7056" label="Mixed Materials" type="box">5</container><container id="aspace_85848274784a9682fe7670e695b27ea0" parent="aspace_ce790c76a75c00899229268b47df7056" type="folder">12</container></did></c02><c02 id="aspace_ref51_97x" level="file"><did><unittitle>A Song, a Prayer, a Voyage</unittitle><unitdate datechar="creation">2006</unitdate><container id="aspace_be4aeeaada589cd38161d28b8036eea1" label="Mixed Materials" type="box">6</container><container id="aspace_cced875ac76120d00ad36981a676865d" parent="aspace_be4aeeaada589cd38161d28b8036eea1" type="folder">1</container></did></c02><c02 id="aspace_ref82_ef5" level="file"><did><unittitle>A Song, a Prayer, a Voyage - manuscript score</unittitle><unitdate datechar="creation">2006</unitdate><container id="aspace_4d6dfcf00233e524f09daa1cf039c097" label="Mixed Materials" type="box">1</container><container id="aspace_841449db4e087e12a2ee179022c6e816" parent="aspace_4d6dfcf00233e524f09daa1cf039c097" type="folder">6</container></did></c02><c02 id="aspace_ref52_je6" level="file"><did><unittitle>Songs for Baritone and Cello</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_a74e3391e564180f43262a9b9b7b045e" label="Mixed Materials" type="box">6</container><container id="aspace_c2d800054239d8360c9677e44477dafa" parent="aspace_a74e3391e564180f43262a9b9b7b045e" type="folder">2</container></did></c02><c02 id="aspace_ref76_trq" level="file"><did><unittitle>Songs of Laughter, Love of Tears - manuscript score</unittitle><unitdate datechar="creation">1985</unitdate><container id="aspace_bb93233fbe464637a59df7435b14a603" label="Mixed Materials" type="box">1</container><container id="aspace_21e2f44dbcab63cd20f34fa4fd4e6917" parent="aspace_bb93233fbe464637a59df7435b14a603" type="folder">4</container></did></c02><c02 id="aspace_ref53_af1" level="file"><did><unittitle>State of Mind</unittitle><unitdate datechar="creation">2002</unitdate><container id="aspace_41401b46f9e8eb866ff8c0f2ab690583" label="Mixed Materials" type="box">6</container><container id="aspace_2ffade39a36d2c836bbc06cee9a66ea2" parent="aspace_41401b46f9e8eb866ff8c0f2ab690583" type="folder">3</container></did></c02><c02 id="aspace_ref54_3om" level="file"><did><unittitle>Summer's End</unittitle><unitdate datechar="creation">2012</unitdate><container id="aspace_5c603933c86d0564590b7ba60d56e363" label="Mixed Materials" type="box">6</container><container id="aspace_7a56db45c4fc1090038c2ccc1fe84945" parent="aspace_5c603933c86d0564590b7ba60d56e363" type="folder">4</container></did></c02><c02 id="aspace_ref55_03g" level="file"><did><unittitle>Symphony No. 1 - parts</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_72905110cd034fbe611a5301b62262ca" label="Mixed Materials" type="box">6</container><container id="aspace_f5013b88dc31e1ecbcef1cac608ac1d3" parent="aspace_72905110cd034fbe611a5301b62262ca" type="folder">5</container></did></c02><c02 id="aspace_ref56_3v9" level="file"><did><unittitle>Symphony No. 1 - parts</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_9efaebd5102a9a54f4ec612b28f1ef60" label="Mixed Materials" type="box">6</container><container id="aspace_66fc1bfe2948242dcd34befcae0a271e" parent="aspace_9efaebd5102a9a54f4ec612b28f1ef60" type="folder">6</container></did></c02><c02 id="aspace_ref77_tz3" level="file"><did><unittitle>Symphony II - manuscript score</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_8325e76cb03f9fd105a3604b9c62d6f0" label="Mixed Materials" type="box">1</container><container id="aspace_8869568eda4d122cd341e5c2d73925bd" parent="aspace_8325e76cb03f9fd105a3604b9c62d6f0" type="folder">5</container></did></c02><c02 id="aspace_ref83_bd6" level="file"><did><unittitle>This Tiny King - manuscript score</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_95f5cc52dc999c9c86c616c529cbc654" label="Mixed Materials" type="box">1</container><container id="aspace_9c5cd7206ff687450d886952d91dfdde" parent="aspace_95f5cc52dc999c9c86c616c529cbc654" type="folder">6</container></did></c02><c02 id="aspace_ref57_hlf" level="file"><did><unittitle>Three Preludes</unittitle><unitdate datechar="creation">1992</unitdate><container id="aspace_3ea3a7f0c998c0dd8738277c1d73c605" label="Mixed Materials" type="box">6</container><container id="aspace_6f5420a43f810a44ebda82ab90ca99e2" parent="aspace_3ea3a7f0c998c0dd8738277c1d73c605" type="folder">7</container></did></c02><c02 id="aspace_ref58_m85" level="file"><did><unittitle>Three Sonatinas</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_98c5e4dae8130efbbe76a81f35e33c16" label="Mixed Materials" type="box">6</container><container id="aspace_2cc8d67b7bd7e18dbd0cd9901470f995" parent="aspace_98c5e4dae8130efbbe76a81f35e33c16" type="folder">8</container></did></c02><c02 id="aspace_ref59_ckk" level="file"><did><unittitle>Three Songs From Catullus</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_c838bf7e5d57af58855fcae95635983a" label="Mixed Materials" type="box">6</container><container id="aspace_f1ec7c8c3038eec9e6874d7f7aa8cb43" parent="aspace_c838bf7e5d57af58855fcae95635983a" type="folder">9</container></did></c02><c02 id="aspace_ref88_g8y" level="file"><did><unittitle>Triple Concerto</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_e088712be43b450001528132d7842ad7" label="Mixed Materials" type="box">2</container><container id="aspace_0946d3d57d490f905035bf733bb3f445" parent="aspace_e088712be43b450001528132d7842ad7" type="folder">5</container></did></c02><c02 id="aspace_ref60_qqa" level="file"><did><unittitle>Two Chorales on Poems of Oscar Wilde</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_099d69d1e52d4d20e4a758cff3b86b39" label="Mixed Materials" type="box">6</container><container id="aspace_35feee84a4791019bdda086a7c7597d2" parent="aspace_099d69d1e52d4d20e4a758cff3b86b39" type="folder">10</container></did></c02><c02 id="aspace_ref89_6sz" level="file"><did><unittitle>Variations on a Theme of Shostakovich</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_fd0dfdacc1f7d45af3fc5ad68251a65b" label="Mixed Materials" type="box">2</container><container id="aspace_1d8350f8b83660a20bdda30a88a512b4" parent="aspace_fd0dfdacc1f7d45af3fc5ad68251a65b" type="folder">6</container></did></c02><c02 id="aspace_ref61_tvt" level="file"><did><unittitle>With Rue My Heart is Laden</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_5999b4e354923a4645599bcc43d86be3" label="Mixed Materials" type="box">6</container><container id="aspace_a251b2f366eb7d5bea7837ccbd20cb7e" parent="aspace_5999b4e354923a4645599bcc43d86be3" type="folder">11</container></did></c02><c02 id="aspace_ref62_22y" level="file"><did><unittitle>Web of Life - full score</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_b88bffaf5ff754bdc00300bf1b47bc90" label="Mixed Materials" type="box">6</container><container id="aspace_38f5c90917ff7e430034d555e22372e9" parent="aspace_b88bffaf5ff754bdc00300bf1b47bc90" type="folder">12</container></did></c02><c02 id="aspace_ref63_u84" level="file"><did><unittitle>Web of Life - parts</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_fae529d361d102d610d1fd2c56dc8399" label="Mixed Materials" type="box">6</container><container id="aspace_343e583d34b43b8264c38644fd9e733a" parent="aspace_fae529d361d102d610d1fd2c56dc8399" type="folder">13</container></did></c02><c02 id="aspace_ref64_swy" level="file"><did><unittitle>Web of Life - chorale score/youth score</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_5916292f73742c85d0cea4b04a4cb35f" label="Mixed Materials" type="box">6</container><container id="aspace_3e1c376260f9e34f779ef6e800947c9f" parent="aspace_5916292f73742c85d0cea4b04a4cb35f" type="folder">14</container></did></c02></c01><c01 id="aspace_ref20_anq" level="series"><did><unittitle>Series 2: Commerical recordings</unittitle><unitdate datechar="creation" normal="1991/2004" type="inclusive">1991-2004</unitdate></did><scopecontent id="aspace_115b8e322aa7f333ed1bd0ba3a02c55d"><head>Scope and Content</head><p>Commercial CDs of Biggs' works, recorded by a variety of orchestras and vocalists.</p></scopecontent><arrangement id="aspace_72fcab9822d07fb0b7a988552beb79db"><head>Organization and Arrangement</head><p>Arranged alphabetically.</p></arrangement><phystech id="aspace_210a6fef361cd2717516c1c2af3d9870"><head>Physical Characteristics and Technical Requirements</head><p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p></phystech><c02 id="aspace_ref66_jru" level="file"><did><unittitle>Chamber Music of John Biggs - Barkezian Ensemble</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_618d397380c2393db8c33e43672babc1" label="Mixed Materials" type="box">6</container><container id="aspace_152ba7b535474db44cc4c618f4e564ca" parent="aspace_618d397380c2393db8c33e43672babc1" type="folder">15</container></did></c02><c02 id="aspace_ref67_8dx" level="file"><did><unittitle>John Biggs - A Choral Bouquet</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_d3b0b6a72e8f36443724fe92b5e7ea56" label="Mixed Materials" type="box">6</container><container id="aspace_3ded6cfc0257ec4991a89bf518b9f610" parent="aspace_d3b0b6a72e8f36443724fe92b5e7ea56" type="folder">16</container></did></c02><c02 id="aspace_ref68_riv" level="file"><did><unittitle>John Biggs - A Vocal Bouquet</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_57e661cf88afafeb8e2a837913497313" label="Mixed Materials" type="box">7</container><container id="aspace_35f2cd347233a7f08a7a818d6085668f" parent="aspace_57e661cf88afafeb8e2a837913497313" type="folder">1</container></did></c02><c02 id="aspace_ref69_bov" level="file"><did><unittitle>Music of John Biggs - Czech National Symphony</unittitle><unitdate datechar="creation">2004</unitdate><container id="aspace_b28c68807d53cd5a3967a70d2fb1b5dc" label="Mixed Materials" type="box">7</container><container id="aspace_41fbcce8b35185f4cfd1239e31a8948b" parent="aspace_b28c68807d53cd5a3967a70d2fb1b5dc" type="folder">2</container></did></c02><c02 id="aspace_ref70_dqq" level="file"><did><unittitle>The Music of John Biggs - Moravska Filharmonie Olomouc</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_21bb1b05e7a9da122ee7eca654b89c08" label="Mixed Materials" type="box">7</container><container id="aspace_b0cff041c4d652b80a1686629fa3529e" parent="aspace_21bb1b05e7a9da122ee7eca654b89c08" type="folder">3</container></did></c02><c02 id="aspace_ref71_po6" level="file"><did><unittitle>Paul Freeman Introduces John Biggs</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_07367102ea0e7c260c55deb1f65fa9ed" label="Mixed Materials" type="box">7</container><container id="aspace_5fbc28cb4f466228a00e150b847221b1" parent="aspace_07367102ea0e7c260c55deb1f65fa9ed" type="folder">4</container></did></c02><c02 id="aspace_ref72_v1l" level="file"><did><unittitle>Music From Six Continents: Biggs, Dembski, Jazwinski, Wolfe - Polish Radio and TV Symphony Orchestra of Krakow</unittitle><unitdate datechar="creation">1991</unitdate><container id="aspace_354d7101ef3aeb22803fbdb2eb98fd4f" label="Mixed Materials" type="box">7</container><container id="aspace_9a0c3471785988e41b4a009be9e70f97" parent="aspace_354d7101ef3aeb22803fbdb2eb98fd4f" type="folder">5</container></did></c02></c01><c01 id="aspace_cb879f1fd5b55105439fa2fbada0d2a2" level="series"><did><unittitle>Accession LSC-2001-002 backlog material</unittitle><unitid>LSC-2001-002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.75 linear feet</extent><extent altrender="carrier">(1 unprocessed flat box)</extent></physdesc><container altrender="flat box (15.25d 2h 22.25w)" id="aspace_2bdbdfff657728235655d1c20030c14d" label="Mixed Materials" type="box">8</container></did></c01></dsc>
+</archdesc>
 </ead>
