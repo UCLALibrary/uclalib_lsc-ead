@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead audience="internal" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c8f19723">sond2446.xml</eadid><filedesc><titlestmt><titleproper type="filing">Sondergaard (Gale) and Biberman (Herbert) papers</titleproper><titleproper>Gale Sondergaard and Herbert Biberman papers <num>LSC.2446</num></titleproper></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Finding aid created April 2026.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-04-22 13:27:15 -0700</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Gale Sondergaard and Herbert Biberman papers</unittitle>
+    <unitid>LSC.2446</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6.7 linear feet</extent>
+      <extent altrender="carrier">(1 unprocessed record carton, 3 unprocessed document boxes, 4 unprocessed flat boxes)</extent>
+    </physdesc>
+    <unitdate certainty="approximate" datechar="creation" normal="1919/1985" type="inclusive">1919-1985</unitdate>
+    <langmaterial id="aspace_99f0154ae6dcae9970a8548a67c01382">Materials are in English.</langmaterial>
+  </did>
+  <odd id="aspace_9519fa079dced67e32145f0fba8cd4b9">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href=
+"https://search.library.ucla.edu/permalink/01UCS_LAL/tk6osu/alma9997294070706533">9997294070706533</extref></p>  </odd>
+  <prefercite id="aspace_0e0859a8fbdd02bc49fdc5a811c0e840">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Gale Sondergaard and Herbert Biberman papers (Collection 2446). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_5f484c407573cd9d8b53845e62f9ee43">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. [Once processed], these materials [will] have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <scopecontent id="aspace_69cff694fa023f9396ed69150eabde7b">
+    <head>Content Description</head>
+<p>Materials consist of correspondence, planners, pamphlets and HUAC-related ephemera. Additional materials include a typescript of Sondegaard's autobiography, scripts by Biberman, and promotional photography from their respective careers.</p>  </scopecontent>
+  <controlaccess>
+    <geogname authfilenumber="sh 85014667 " source="lcsh">Blacklisting of entertainers -- United States.</geogname>
+    <occupation source="lcsh">Actresses -- United States -- Archives.</occupation>
+    <subject source="lcsh">Screenwriters -- United States -- Archives.</subject>
+    <occupation source="lcsh">Motion picture directors and producers -- Archives.</occupation>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>
