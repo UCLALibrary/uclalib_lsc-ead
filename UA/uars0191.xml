@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" identifier="ark:/13030/c8w66n51" cdlpath:parent="ark:/13030/tf1d5nb4kf" cdlpath:grandparent="ark:/13030/tf8z09p95s">uars0191.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>School of Dentistry. Publications. 
+<date calendar="gregorian" era="ce">1964-1989.</date>
+</titleproper>
+<titleproper type="filing">Dentistry (School of). Publications.</titleproper>
+<author>Finding aid prepared by University Archives staff, 1990 April; finding aid revised by Katharine A. Lawrie, 2013 July; machine-readable finding aid created by Katharine A. Lawrie, 2013 July.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA, 90095-1575</addressline>
+<addressline>(310) 825-4988</addressline>
+<addressline>spec-coll@library.ucla.edu</addressline>
+</address>
+<date>©1990 April</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was produced using the Archivists' Toolkit
+<date>2013-07-17T09:56-0700</date>
+</creation>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" id="archdesc-1.2">
+<did id="did-1.2.1">
+<unittitle>School of Dentistry. Publications.</unittitle>
+<unitid repositorycode="US-CLU-SC" countrycode="US">University Archives Record Series 191</unitid>
+<repository>
+<corpname>UCLA Library Special Collections</corpname>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc>
+<extent>0.4 linear ft.</extent>
+<extent>(1 box)</extent>
+</physdesc>
+<unitdate>1964-1989</unitdate>
+<abstract id="ref2" label="Abstract">Record Series 191 contains publications of UCLA's School of Dentistry.</abstract>
+<origination label="Creator">
+<corpname source="local">University of California, Los Angeles. School of Dentistry.</corpname>
+</origination>
+</did>
+<accessrestrict id="ref3">
+<head>Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict id="ref4">
+<head>Publication Rights</head>
+<p>Copyright of portions of this collection has been assigned to The Regents of the University of California. The UCLA University Archives can grant permission to publish for materials to which it holds the copyright. All requests for permission to publish or quote must be submitted in writing to the UCLA University Archivist.</p>
+</userestrict>
+<prefercite id="ref5">
+<head>Preferred Citation</head>
+<p>[Identification of item], School of Dentistry. Publications (University Archives Record Series 191). UCLA Library Special Collections, University Archives.</p>
+</prefercite>
+<scopecontent id="ref6">
+<head>Scope and Content</head>
+<p>Record Series 191 contains publications of UCLA's School of Dentistry. Files include announcements, journals, magazines, yearbooks, and history of the school.</p>
+<p>This is an inactive record series; no additional University records are expected to be added.</p>
+</scopecontent>
+<odd id="odd-1.2.6">
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=3467025">3467025</extref></p>
+</odd>
+<dsc type="combined" id="dsc-1.2.7" score="0" C-ORDER="1" MAX-C-ORDER="5">
+<c01 id="ref7" level="file" score="1" C-ORDER="1">
+<did>
+<unittitle>Annual Announcement - School of Dentistry.</unittitle>
+<container id="cid6525097" type="Box">1</container>
+<physdesc label="Extent"><extent>2 folders</extent>
+</physdesc>
+<unitdate>1964-1980.</unitdate>
+</did>
+</c01>
+<c01 id="ref8" level="file" score="1" C-ORDER="2">
+<did>
+<unittitle>Impressions (School of Dentistry Yearbook).</unittitle>
+<container id="cid6525096" type="Box">1</container>
+<unitdate>1968.</unitdate>
+</did>
+</c01>
+<c01 id="ref9" level="file" score="1" C-ORDER="3">
+<did>
+<unittitle>Mentalis (School of Dentistry Journal).</unittitle>
+<container id="cid6525095" type="Box">1</container>
+<unitdate>1971-1972.</unitdate>
+</did>
+</c01>
+<c01 id="ref10" level="file" score="1" C-ORDER="4">
+<did>
+<unittitle>UCLA Dentistry (Magazine).</unittitle>
+<container id="cid6525094" type="Box">1</container>
+<physdesc label="Extent"><extent>2 folders</extent>
+</physdesc>
+<unitdate>1980-1989.</unitdate>
+</did>
+</c01>
+<c01 id="ref11" level="file" score="1" C-ORDER="5">
+<did>
+<unittitle>UCLA School of Dentistry: The Planning Years.</unittitle>
+<container id="cid6525093" type="Box">1</container>
+<unitdate>ca. 1966.</unitdate>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>
