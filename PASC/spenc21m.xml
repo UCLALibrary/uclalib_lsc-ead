@@ -1,86 +1,47 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/[ark]" identifier="ark:/13030/c87s7vz5" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">spen0021.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Spencer (Lester) musical arrangements collection</titleproper>
-        <titleproper>Finding Aid for the Lester Spencer Collection of Musical Arrangements
-            <num>PASC-M.0021</num></titleproper>
-        <author>Finding aid prepared by Shira Peltzman, 2020.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>UCLA Library Special Collections</publisher>
-        <p><date>Online finding aid last updated 2020 December 8.</date></p>
-        <address>
-          <addressline>Room A1713, Charles E. Young Research Library</addressline>
-          <addressline>Box 951575</addressline>
-          <addressline>Los Angeles, CA 90095-1575</addressline>
-          <addressline>spec-coll@library.ucla.edu</addressline>
-          <addressline>URL: <extptr href="https://www.library.ucla.edu/special-collections" show="new" title="https://www.library.ucla.edu/special-collections" linktype="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2020-12-08 07:32:04
-          -0800</date>.</creation>
-      <langusage>Finding aid is in English.</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection" id="archdesc-1.2">
-    <did id="did-1.2.1">
-      <repository>
-        <corpname>UCLA Library Special Collections</corpname>
-      </repository>
-      <unittitle>Lester Spencer collection of musical arrangements</unittitle>
-      <origination label="Creator">
-        <persname rules="rda" source="local">Spencer, Lester</persname>
-      </origination>
-      <unitid repositorycode="US-CLU-SC" countrycode="US">PASC-M.0021</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">7.5 Linear Feet</extent>
-        <extent altrender="carrier">(15 boxes)</extent>
-      </physdesc>
-      <unitdate calendar="gregorian" certainty="approximate" datechar="creation" normal="1925/1965" type="inclusive">circa 1925-1965</unitdate>
-      <physloc id="aspace_1bdc1a182f045451289cc6306b227637">Stored off-site. All requests to access
-        special collections material must be made in advance using the request button located on
-        this page.</physloc>
-      <langmaterial id="aspace_1866c9dd6e401beb0f9d2ce0e6b6b6aa">Materials are in
-        English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_245ca5d2776ba9a1cfcbc1689a3b6346">
-      <head>Conditions Governing Access</head>
-      <p>Open for research. All requests to access special collections materials must be made in
-        advance using the request button located on this page.</p>
-    </accessrestrict>
-    <userestrict id="aspace_b98d486c5b50bc61934e8a4429cb1988">
-      <head>Conditions Governing Reproduction and Use</head>
-      <p>Property rights to the physical objects belong to the UCLA Library Special Collections. All
-        other rights, including copyright, are retained by the creators and their heirs. It is the
-        responsibility of the researcher to determine who holds the copyright and pursue the
-        copyright owner or his or her heir for permission to publish where The UC Regents do not
-        hold the copyright.</p>
-    </userestrict>
-    <processinfo id="aspace_b8085f2ed427fb20ce8af6f6559ed7ce">
-      <head>Processing Information</head>
-      <p>Collections are processed to a variety of levels depending on the work necessary to make
-        them usable, their perceived user interest and research value, availability of staff and
-        resources, and competing priorities. Library Special Collections provides a standard level
-        of preservation and access for all collections and, when time and resources permit, conducts
-        more intensive processing. These materials have been arranged and described according to
-        national and local standards and best practices.</p>
-    </processinfo>
-    <odd id="aspace_7aeb31be383e6cffdc4f9ed366cce747">
-      <head>UCLA Catalog Record ID</head>
-      <p>UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=3222228">3222228</extref></p>
-    </odd>
-    <scopecontent id="aspace_f37ac8018ed48919e7b7374adabc71a8">
-      <head>Scope and Contents</head>
-      <p>Collection consists of manuscript and ozalid copy sketches, scores, and/or parts of popular
-        titles and television show music composed by Spencer; typescript lyrics; miscellaneous
-        documents and correspondence.</p>
-    </scopecontent>
-    <dsc type="combined" id="dsc-1.2.7" score="0" C-ORDER="1" MAX-C-ORDER="1"/>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c87s7vz5/">spenc21m.xml</eadid><filedesc><titlestmt><titleproper type="filing">Spencer (Lester) musical arrangements collection</titleproper><titleproper>Finding Aid for the Lester Spencer Collection of Musical Arrangements <num>PASC-M.0021</num></titleproper><author>Finding aid prepared by Shira Peltzman, 2020.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2026 July.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-07-06 14:18:04 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Lester Spencer collection of musical arrangements</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Spencer, Lester</persname>
+    </origination>
+    <unitid>PASC-M.0021</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">10.5 linear feet</extent>
+      <extent altrender="carrier">(18 unprocessed boxes)</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" certainty="approximate" datechar="creation" normal="1925/1965" type="inclusive">circa 1925-1965</unitdate>
+    <langmaterial id="aspace_1866c9dd6e401beb0f9d2ce0e6b6b6aa">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_245ca5d2776ba9a1cfcbc1689a3b6346">
+    <head>Conditions Governing Access</head>
+<p>Unprocessed collection. Material is unavailable for access. Please see <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/access-unprocessed-collections-policy">LSC's Access to Unprocessed Collections Policy</extref> for more information about levels of discovery and access of special collections materials and registering interest in unprocessed collections.</p>  </accessrestrict>
+  <userestrict id="aspace_b98d486c5b50bc61934e8a4429cb1988">
+    <head>Conditions Governing Reproduction and Use</head>
+<p>Property rights to the physical objects belong to the UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_ea76ceb3c4feaeb68c6868fdd012c8ae">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Mrs. Lester Spencer, 1969.</p>  </acqinfo>
+  <odd id="aspace_7aeb31be383e6cffdc4f9ed366cce747">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9932222283606533">9932222283606533</extref></p>  </odd>
+  <prefercite id="aspace_51b961f491bf1bd0428a5be024377350">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Lester Spencer collection of musical arrangements (Collection PASC-M 21). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_b8085f2ed427fb20ce8af6f6559ed7ce">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's library collections and archives.</extref></p>  </processinfo>
+  <scopecontent id="aspace_f37ac8018ed48919e7b7374adabc71a8">
+    <head>Scope and Contents</head>
+<p>Collection consists of manuscript and ozalid copy sketches, scores, and/or parts of popular titles and television show music composed by Spencer; typescript lyrics; miscellaneous documents and correspondence.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Television music -- Archives.</subject>
+    <subject source="lcsh">Musicals—Scores</subject>
+    <geogname authfilenumber="sh 89002763" source="lcsh">Revues</geogname>
+  </controlaccess>
+  <dsc><c01 id="aspace_03cacc4f53a8afa851f35995c3307290" level="series"><did><unittitle>Accession LSC-9999-0837 backlog material</unittitle><unitid>LSC-9999-0837</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3.00 linear feet</extent><extent altrender="carrier">(3 unprocessed boxes)</extent></physdesc><container altrender="record carton (16d 10.5h 13w)" id="aspace_531ddba34d58fe9a27e0cc1966fef24a" label="Mixed Materials" type="box">1</container><container altrender="record carton (16d 10.5h 13w)" id="aspace_2943f566631daebc94105e5dddebb839" label="Mixed Materials" type="box">2</container><container altrender="record carton (16d 10.5h 13w)" id="aspace_64618c8ede16e3034860d5f1218e0a2e" label="Mixed Materials" type="box">3</container></did></c01><c01 id="aspace_e000a55bd8d439d53ca0af33ae08c833" level="series"><did><unittitle>SLF-S unprocessed material</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">7.5 linear feet</extent><extent altrender="carrier">(15 unprocessed boxes)</extent></physdesc><container id="aspace_64b6d09a4410b9530f5e9b83bd65b63f" label="Mixed Materials" type="box">1</container><container id="aspace_0108a961d616277018cc95ccd879ae49" label="Mixed Materials" type="box">2</container><container id="aspace_f89bf6ba3a14de313384353f6ca892ff" label="Mixed Materials" type="box">3</container><container id="aspace_b1b22fcd7fcfbecd91acce25965618f6" label="Mixed Materials" type="box">4</container><container id="aspace_5ff0e63ab0e8828f121fbeced352491a" label="Mixed Materials" type="box">5</container><container id="aspace_574915b4d31bfe910b8a5e7a30cc3cb7" label="Mixed Materials" type="box">6</container><container id="aspace_ef34a4dd97d7aad08bcd4d019da09728" label="Mixed Materials" type="box">7</container><container id="aspace_4ca6e0962cba0f29b4d284050f265e21" label="Mixed Materials" type="box">8</container><container id="aspace_dc00e9e5d48b61b92838530ff731dd77" label="Mixed Materials" type="box">9</container><container id="aspace_527bfcd4cd758ed8d5a56762b71e3350" label="Mixed Materials" type="box">10</container><container id="aspace_84a9e2efb132d2f88529eca5831fc8df" label="Mixed Materials" type="box">11</container><container id="aspace_bc001da6af0c74a976289de2796ea451" label="Mixed Materials" type="box">12</container><container id="aspace_3828ad2cc5ae8f27a30c48283b146897" label="Mixed Materials" type="box">13</container><container id="aspace_73c03d730135c67bc60f726c7696351a" label="Mixed Materials" type="box">14</container><container id="aspace_f834ff198244c352a80e577689d6a9c4" label="Mixed Materials" type="box">15</container></did></c01></dsc>
+</archdesc>
 </ead>
