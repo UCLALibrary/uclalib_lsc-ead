@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/[ark]" identifier="ark:/13030/c87s7vz5" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">spen0021.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Spencer (Lester) musical arrangements collection</titleproper>
+        <titleproper>Finding Aid for the Lester Spencer Collection of Musical Arrangements
+            <num>PASC-M.0021</num></titleproper>
+        <author>Finding aid prepared by Shira Peltzman, 2020.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>UCLA Library Special Collections</publisher>
+        <p><date>Online finding aid last updated 2020 December 8.</date></p>
+        <address>
+          <addressline>Room A1713, Charles E. Young Research Library</addressline>
+          <addressline>Box 951575</addressline>
+          <addressline>Los Angeles, CA 90095-1575</addressline>
+          <addressline>spec-coll@library.ucla.edu</addressline>
+          <addressline>URL: <extptr href="https://www.library.ucla.edu/special-collections" show="new" title="https://www.library.ucla.edu/special-collections" linktype="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-12-08 07:32:04
+          -0800</date>.</creation>
+      <langusage>Finding aid is in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" id="archdesc-1.2">
+    <did id="did-1.2.1">
+      <repository>
+        <corpname>UCLA Library Special Collections</corpname>
+      </repository>
+      <unittitle>Lester Spencer collection of musical arrangements</unittitle>
+      <origination label="Creator">
+        <persname rules="rda" source="local">Spencer, Lester</persname>
+      </origination>
+      <unitid repositorycode="US-CLU-SC" countrycode="US">PASC-M.0021</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7.5 Linear Feet</extent>
+        <extent altrender="carrier">(15 boxes)</extent>
+      </physdesc>
+      <unitdate calendar="gregorian" certainty="approximate" datechar="creation" normal="1925/1965" type="inclusive">circa 1925-1965</unitdate>
+      <physloc id="aspace_1bdc1a182f045451289cc6306b227637">Stored off-site. All requests to access
+        special collections material must be made in advance using the request button located on
+        this page.</physloc>
+      <langmaterial id="aspace_1866c9dd6e401beb0f9d2ce0e6b6b6aa">Materials are in
+        English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_245ca5d2776ba9a1cfcbc1689a3b6346">
+      <head>Conditions Governing Access</head>
+      <p>Open for research. All requests to access special collections materials must be made in
+        advance using the request button located on this page.</p>
+    </accessrestrict>
+    <userestrict id="aspace_b98d486c5b50bc61934e8a4429cb1988">
+      <head>Conditions Governing Reproduction and Use</head>
+      <p>Property rights to the physical objects belong to the UCLA Library Special Collections. All
+        other rights, including copyright, are retained by the creators and their heirs. It is the
+        responsibility of the researcher to determine who holds the copyright and pursue the
+        copyright owner or his or her heir for permission to publish where The UC Regents do not
+        hold the copyright.</p>
+    </userestrict>
+    <processinfo id="aspace_b8085f2ed427fb20ce8af6f6559ed7ce">
+      <head>Processing Information</head>
+      <p>Collections are processed to a variety of levels depending on the work necessary to make
+        them usable, their perceived user interest and research value, availability of staff and
+        resources, and competing priorities. Library Special Collections provides a standard level
+        of preservation and access for all collections and, when time and resources permit, conducts
+        more intensive processing. These materials have been arranged and described according to
+        national and local standards and best practices.</p>
+    </processinfo>
+    <odd id="aspace_7aeb31be383e6cffdc4f9ed366cce747">
+      <head>UCLA Catalog Record ID</head>
+      <p>UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=3222228">3222228</extref></p>
+    </odd>
+    <scopecontent id="aspace_f37ac8018ed48919e7b7374adabc71a8">
+      <head>Scope and Contents</head>
+      <p>Collection consists of manuscript and ozalid copy sketches, scores, and/or parts of popular
+        titles and television show music composed by Spencer; typescript lyrics; miscellaneous
+        documents and correspondence.</p>
+    </scopecontent>
+    <dsc type="combined" id="dsc-1.2.7" score="0" C-ORDER="1" MAX-C-ORDER="1"/>
+  </archdesc>
+</ead>
