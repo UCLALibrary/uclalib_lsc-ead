@@ -1,0 +1,1137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU" identifier="ark:/13030/kt609nc9qn" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::Performing Arts Special Collections//TEXT
+(US::CLU::287::Harvey Lembeck Papers)//EN" "lembe287.xml"
+</eadid>
+
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Harvey Lembeck Papers, 1946-1982</titleproper>
+<titleproper type="filing">Lembeck (Harvey) Papers</titleproper>
+<author>Processed by Norma M. Vega and Julie L. Graham; machine-readable finding aid created by Norma M. Vega and Julie Graham</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library, Performing Arts Special Collections</publisher>
+<address><addressline>University of California, Los Angeles, Library</addressline><addressline>Performing Arts Special Collections, Room A1713</addressline><addressline>Charles E. Young Research Library, Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Phone: (310) 825-4988</addressline><addressline>Fax: (310) 206-1864</addressline><addressline>Email: speccoll-paging@library.ucla.edu</addressline><addressline>http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</addressline></address><date calendar="gregorian" era="ce">© 2005</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from database containing
+container list structure and data, encoding added via MS Access and Notetab Pro; frontmatter gathered from MARC Record. Date of source: <date>July 2005.</date></creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" langmaterial="eng" id="archdesc-1.2">
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">Harvey Lembeck Papers </unittitle>
+<unitdate type="inclusive" normal="1946/1982">1946-1982</unitdate>
+<unitid label="Collection number" repositorycode="CLU" countrycode="US">287</unitid>
+<origination label="Creator"><persname role="subject" source="lcnaf">Lembeck, Harvey </persname></origination>
+<physdesc label="Extent"><extent>4 boxes </extent><extent>(2 linear ft.)
+</extent>and <extent>1 carton</extent><extent> (1.5 linear ft.)  </extent></physdesc>
+
+<abstract label="Abstract">Harvey Lembeck made his acting debut in the Broadway production of <emph render="italic">Mr. Roberts </emph>(1948) and went on to establish himself in film, television, and on stage. The collection consists of photographs, clippings, ephemera and a small number of scripts related to his career.</abstract>
+
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library.
+Performing Arts Special Collections.</corpname>
+<address>
+<addressline>Los Angeles, California 90095-1575</addressline>
+</address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Performing Arts Special Collections Reference Desk for paging information.</physloc>
+</did>
+<admininfo id="admininfo-1.2.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library,
+Performing Arts Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Mrs. C. Lembeck, 2004.</p>
+</acqinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Harvey Lembeck Papers (Collection 287). Performing Arts Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+</admininfo>
+<bioghist encodinganalog="545" id="bioghist-1.2.3">
+<head>Biography</head>
+<p>Harvey Lembeck was born in Brooklyn, NY, on April 15, 1923. His numerous credits include roles in film, television, and theater. He made his acting debut in the Broadway production of <title>Mr. Roberts</title> with Henry Fonda (1948). His film work includes <title>Stalag 17</title> (1953), <title>Love with the Proper Stranger</title> (1963), T<title>he Unsinkable Molly Brown</title> (1964), and he is well known for his recurring role as Erich Von Zipper in a string of 1960s beach party films. He established his television career as Rocco Barbella on <title>The Phil Silvers Show: You'll Never Get Rich</title> (1955-1959).  He founded the Harvey Lembeck Comedy Workshop (1964) to train performers in the art of comedy. Lembeck died in Beverly Hills, CA, on January 5, 1982.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
+<head>Scope and Content</head>
+<p>The bulk of the collection consists of photographs, clippings, and/or printed ephemera for a variety of motion picture, television, and stage projects related to the career of actor Harvey Lembeck. Additionally, there are a small number of scripts for selected projects including, <title>Anytown USA</title>, <title>Hotel or Why Do You Need Such Big Potatoes</title>, <title>Mother Juggs and Speed</title>, <title>Nice People</title>, <title>Man of La Mancha</title>, and a project titled Von Zipper, among others. It is important to mention that there are no scripts for number of other projects in which Lembeck was involved, such as beach party films, <title>Ensign O'Toole</title>, <title>Love with a Proper Stranger</title>, <title>Mr. Roberts</title>, Sergeant Bilko, <title>Stalag 17</title>, or The <title>Unsinkable Molly Brown</title>.  Additional materials in the collection include a small number of fan letters (1950s, 1970s, and 1980s); a small amount of clippings and printed ephemera related to the Harvey Lembeck Comedy Workshop; and a small sampling of photographs documenting in a small  way Lembeck's philanthropic associations.  File titles were supplied by the processor.</p>
+</scopecontent>
+<organization encodinganalaog="351" id="organization-1.2.5">
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: <list type="ordered">
+<item>Series 1. Awards (Box 1)</item>
+<item>Series 2. Baseball Team (Box 1)</item>
+<item>Series 3. Business Files (Box 1)</item>
+<item>Series 4. Education (Box 4)</item>
+<item>Series 5. Fan Mail (Box 1)</item>
+<item>Series 6. Harvey Lembeck Comedy Workshop (Box 1)</item>
+<item>Series 7. Material related to the Death of Harvey Lembeck (Box 1)</item>
+<item>Series 8. Philanthropic Work (Box 1).</item>
+<item>Series 9. Projects (Boxes 1-5)</item>
+<item>Series 10. Resumes (Box 1)</item>
+</list></p>
+</organization>
+
+
+<controlaccess id="controlaccess-1.2.6">
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Lembeck, Harvey--1982--Archives.</persname>
+<occupation source="lcsh" encodinganalog="650">Actors--United States--Archival resources.</occupation>
+</controlaccess>
+</controlaccess>
+
+<dsc type="in-depth" id="dsc-1.2.7" score="1" C-ORDER="1" MAX-C-ORDER="144">
+<head>Container List</head>
+
+
+
+<c01 level="series" id="c01-1.2.7.2" score="2" C-ORDER="2"><did><unittitle>Series 1. Awards (1975, 1980; Box 1)</unittitle></did>
+<scopecontent><p>The series includes award certificates from the Actors Fund and National Society of Literature and the Arts.
+</p></scopecontent>
+
+
+<c02 level="file" id="c02-1.2.7.2.3" score="1" C-ORDER="4"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">23 </container>
+
+<unittitle>Certificates from Actors Fund and National Society of Literature and the
+Arts</unittitle>
+<unitdate>1975, 1980 </unitdate>
+</did></c02>
+
+
+</c01>
+
+
+<c01 level="series" id="c01-1.2.7.3" score="2" C-ORDER="5"><did><unittitle>Series 2. Baseball Team (no date; Box 1)</unittitle></did>
+<scopecontent>
+<p>The series consists of one file containing seven photographs of baseball teams organized by Lembeck.  There was no background information available about the teams, but it appears they  include individuals from the entertainment industry.   The photographs are not dated or labeled, and are not arranged in a particular order.
+</p>
+</scopecontent>
+
+
+
+<c02 level="file" id="c02-1.2.7.3.3" score="1" C-ORDER="7"><did>
+<container type="box" label="Box">1</container>
+
+<container type="folder" label="Folder">10 </container>
+<unittitle>Baseball team photographs (teams organized by HL) (7 items)</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c02>
+
+
+</c01>
+
+
+<c01 level="series" id="c01-1.2.7.4" score="2" C-ORDER="8"><did><unittitle>Series 3. Business Files (1950s-1990s; Box 1)</unittitle></did>
+<scopecontent>
+<p>The series consists of one file of contracts and agreements for various television and commercials appearances.  The file is arranged chronologically.</p>
+</scopecontent>
+
+<c02 level="file" id="c02-1.2.7.4.3" score="1" C-ORDER="10"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Contracts and agreements for various projects</unittitle>
+
+<unitdate>1950s-1990s </unitdate>
+<note><p>Mostly for television appearances and commercials ads. </p></note>
+</did></c02>
+
+
+</c01>
+
+
+<c01 level="series" id="c01-1.2.7.5" score="2" C-ORDER="11"><did><unittitle>Series 4. Education (ca. 1946-1947; Box 4)</unittitle></did>
+<scopecontent>
+<p>This series contains a copy of student transcripts from New York University Washington Square College of Arts and Science, ca.1946-47.
+</p>
+</scopecontent>
+
+<c02 level="file" id="c02-1.2.7.5.3" score="1" C-ORDER="13"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">21 </container>
+
+<unittitle>New York University Washington Square College of Arts and Science student copy
+of transcripts (2 copies)</unittitle>
+<unitdate>ca. 1946-47 </unitdate>
+
+</did></c02>
+
+</c01>
+
+<c01 level="series" id="c01-1.2.7.6" score="2" C-ORDER="14"><did><unittitle>Series 5. Fan Mail (1946-1980s; Box 1)</unittitle></did>
+<scopecontent>
+<p>This series is one folder of fan letters written to Lembeck and includes notes from Lembeck's parents. The letters are arranged chronologically.</p>
+</scopecontent>
+
+<c02 level="file" id="c02-1.2.7.6.3" score="1" C-ORDER="16"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Note cards from parents (2)</unittitle>
+
+<unitdate>1946, 1968, 1980 </unitdate>
+</did></c02>
+
+<c02 level="file" id="c02-1.2.7.6.4" score="1" C-ORDER="17"><did>
+<container type="box" label="Box">1</container>
+
+<container type="folder" label="Folder">7 </container>
+<unittitle>Fan letters to Lembeck</unittitle>
+<unitdate>1950s, 1970s, 1980s </unitdate>
+
+</did></c02>
+
+
+</c01>
+
+<c01 level="series" id="c01-1.2.7.7" score="2" C-ORDER="18"><did><unittitle>Series 6. Harvey Lembeck Comedy Workshop (1975, 1978-1986, 1999; Box 1)</unittitle></did>
+<scopecontent>
+<p>The Harvey Lembeck Comedy Workshop started in 1964, and was born out of Lembeck's desire to create an environment where professionals could grow and hone their comedic talents. The series includes two folders.  One folder contains a small mixture of press clippings, printed ephemera, and thank you notes (believed to be from students).  The other folder contains a drawing by [Lisa] Leeman titled <title>A Comedy Class</title>, which is believed to be related to the workshop.  The material is arranged chronologically.
+</p>
+</scopecontent>
+
+<c02 level="file" id="c02-1.2.7.7.3" score="1" C-ORDER="20"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>A Comedy Class - drawing by [Lisa] Leeman</unittitle>
+
+<unitdate>1975 </unitdate>
+<note><p>Believed to be related to Harvey Lembeck Comedy Workshop. </p></note>
+</did></c02>
+
+<c02 level="file" id="c02-1.2.7.7.4" score="1" C-ORDER="21"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Harvey Lembeck Comedy Workshop file</unittitle>
+<unitdate>1978-1986; 1999 </unitdate>
+
+<note><p>Clippings, thank you notes from [students], and printed ephemera. </p></note>
+</did></c02>
+
+
+</c01>
+
+<c01 level="series" id="c01-1.2.7.8" score="2" C-ORDER="22"><did><unittitle>Series 7. Material related to the Death of Harvey Lembeck (1940s-1980s; Box 1)</unittitle></did>
+<scopecontent>
+<p>This series includes two files.  One file contains a small number of documents compiled by Mrs. Lembeck regarding Equity/Pension benefits. The other consists of obituaries written about Lembeck.  The documents and obituaries are arranged chronologically.
+</p>
+</scopecontent>
+
+<c02 level="file" id="c02-1.2.7.8.3" score="1" C-ORDER="24"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">5 </container>
+
+<unittitle>Equity/Pension</unittitle>
+<unitdate>1940s-1980s </unitdate>
+<note><p>Appears to be Receipts, contracts, statements, and photocopies of Playbills and
+clippings compiled by Mrs. Lembeck regarding survivor benefits following Harvey Lemeck's
+death. </p></note>
+
+</did></c02>
+
+
+
+
+
+<c02 level="file" id="c02-1.2.7.8.4" score="1" C-ORDER="25"><did>
+<container type="box" label="Box">1</container>
+
+<container type="folder" label="Folder">6 </container>
+<unittitle>Obituaries written about HL</unittitle>
+<unitdate>1982 </unitdate>
+
+</did></c02>
+
+
+</c01>
+
+
+<c01 level="series" id="c01-1.2.7.9" score="2" C-ORDER="26"><did><unittitle>Series 8. Philanthropic Work (1954; ca. 1960s, ca. 1970s; Box 1).</unittitle></did>
+<scopecontent>
+<p>The series includes a small number of photographs and printed ephemera documenting in a small way Lembeck's association with Eddie Cantor Loge B'nai B'rith, the American Veterans of World War II (AMVET), and a Columbia Hospital charitable event.  The files are arranged alphabetically by organization name.</p></scopecontent>
+
+
+<c02 level="file" id="c02-1.2.7.9.3" score="1" C-ORDER="28"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Columbia Hospital Fashion Show luncheon photograph with HL</unittitle>
+
+<unitdate>no date </unitdate>
+</did></c02>
+
+<c02 level="file" id="c02-1.2.7.9.4" score="1" C-ORDER="29"><did>
+<container type="box" label="Box">1</container>
+
+<container type="folder" label="Folder">9 </container>
+<unittitle>Eddie Cantor Loge, B'nai B'rith</unittitle>
+<unitdate>1960s, 1970s </unitdate>
+
+<note><p>Certificate, photographs, unsigned speech and other printed ephemera recognizing
+ Lembeck's service to the organization. </p></note>
+</did></c02>
+
+<c02 level="file" id="c02-1.2.7.9.5" score="1" C-ORDER="30"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">11 </container>
+
+<unittitle>AMVET (American Veterans of World War II) - photographs and press release
+featuring HL</unittitle>
+<unitdate>1954 </unitdate>
+
+</did></c02>
+
+</c01>
+
+<c01 level="series" id="c01-1.2.7.10" score="2" C-ORDER="31"><did><unittitle>Series 9. Projects (ca. 1940s-1980s; Boxes 1-5)</unittitle></did>
+<scopecontent>
+<p>The series is comprised of photographs, clippings, and/or printed ephemera for a variety career related projects in which Lembeck was involved. Also included is a small number of scripts for selected projects including <title>Anytown USA</title>, <title>Hotel or Why Do You Need Such Big Potatoes</title>, <title>Mother Juggs and Speed</title>, <title>Nice People</title>,  <title>Man of La Mancha</title>, and a project titled Von Zipper, among others. There are no scripts for beach party films, <title>Love with a Proper Stranger</title>, <title>Mr. Roberts</title>, Sergeant Bilko, or <title>Stalag 17</title>.  The series is arranged alphabetically into sub-series by project title.
+</p>
+</scopecontent>
+
+
+
+<c02 level="file" id="c02-1.2.7.10.3" score="1" C-ORDER="33"><did>
+<container type="box" label="Box">5</container>
+
+<unittitle>Binders for scripts</unittitle>
+<unitdate>no date</unitdate>
+
+<note><p>Binders/covers are from scripts in the collection except for Captain Kangaroo binder.  Binders were removed as preservation measure.</p></note>
+</did></c02>
+
+
+<c02 level="subseries" id="c02-1.2.7.10.4" score="1" C-ORDER="34"><did><unittitle>Additional Press Clippings </unittitle></did>
+
+
+
+
+
+<c03 level="file" id="c03-1.2.7.10.4.2" score="1" C-ORDER="35"><did>
+<container type="box" label="Box">2</container>
+
+<container type="folder" label="Folder">14 </container>
+<unittitle>Assorted press clippings</unittitle>
+<unitdate>1953; 1959; 1963; 1967; 1970; 1974; 1984 </unitdate>
+
+<note><p>Reviews and promotional or publicity write ups for Lembeck and/or the various
+projects for which he was associated </p></note>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.5" score="1" C-ORDER="36"><did><unittitle>Anytown, U.S.A. </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.5.2" score="1" C-ORDER="37"><did>
+
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Anytown, U.S.A. - 2nd draft script</unittitle>
+
+<unitdate>1979 Jun 17 </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.6" score="1" C-ORDER="38"><did><unittitle>Anytown, USA </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.6.2" score="1" C-ORDER="39"><did>
+
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Anytown, U.S.A. - revised first draft script</unittitle>
+
+<unitdate>1979 Jun 25 </unitdate>
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.6.3" score="1" C-ORDER="40"><did>
+
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Anytown, U.S.A. - script</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.7" score="1" C-ORDER="41"><did><unittitle>Beach Party </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.7.2" score="1" C-ORDER="42"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>Beach Party - clippings</unittitle>
+
+<unitdate>1964 </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.8" score="1" C-ORDER="43"><did><unittitle>Bell Are Ringing </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.8.2" score="1" C-ORDER="44"><did>
+
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Bells Are Ringing - program (Jun 29 - Jul 4)</unittitle>
+
+<unitdate>no date </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.9" score="1" C-ORDER="45"><did><unittitle>Clorox Liquid Plumber </unittitle></did>
+
+
+
+<c03 level="file" id="c03-1.2.7.10.9.2" score="1" C-ORDER="46"><did>
+<container type="box" label="Box">1</container>
+
+<container type="folder" label="Folder">1 </container>
+<unittitle>Advertisement for Clorox Liquid Plumber ad - audiotape</unittitle>
+<unitdate>no date </unitdate>
+
+<note><p>RESTRICTED FROM ACCESS: Use of audio materials may require production of
+listening or viewing copies. </p></note>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.10" score="1" C-ORDER="47"><did><unittitle>Command (The) </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.10.2" score="1" C-ORDER="48"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">17 </container>
+<unittitle>Command (The) - clippings</unittitle>
+
+<unitdate>1954 </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.11" score="1" C-ORDER="49"><did><unittitle>Command Decision </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.11.2" score="1" C-ORDER="50"><did>
+
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Command Decision - script material and program</unittitle>
+
+<unitdate>no date </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.12" score="1" C-ORDER="51"><did><unittitle>Ensign O'Toole </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.12.2" score="1" C-ORDER="52"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">18 </container>
+
+<unittitle>Ensign O'Toole - clippings, photographs, and press release</unittitle>
+<unitdate>1962-963 </unitdate>
+
+</did></c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.13" score="1" C-ORDER="53"><did><unittitle>Fiorello </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.13.2" score="1" C-ORDER="54"><did>
+<container type="box" label="Box">3</container>
+
+<container type="folder" label="Folder">8 </container>
+<unittitle>Fiorello - playbill and clippings</unittitle>
+<unitdate>1959 </unitdate>
+
+</did></c03>
+</c02>
+
+<c02 level="subseries" id="c02-1.2.7.10.14" score="1" C-ORDER="55"><did><unittitle>Frogman </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.14.2" score="1" C-ORDER="56"><did>
+<container type="box" label="Box">3</container>
+
+<container type="folder" label="Folder">9 </container>
+<unittitle>Frogman - photographs (8 items)</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.15" score="1" C-ORDER="57"><did><unittitle>George and Alana Show </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.15.2" score="1" C-ORDER="58"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">10 </container>
+
+<unittitle>George and Alana - revised first draft script</unittitle>
+<unitdate>1978 May-June </unitdate>
+<note><p>Pilot script for half-hour daily comedy-talk show serial.  With Hollywood Reporter
+(6/2/1978).  Script binder in box 5. </p></note>
+
+</did></c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.16" score="1" C-ORDER="59"><did><unittitle>Girls In The Night </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.16.2" score="1" C-ORDER="60"><did>
+<container type="box" label="Box">1</container>
+
+<container type="folder" label="Folder">19 </container>
+<unittitle>Girls In The Night - photographs (18 items)</unittitle>
+<unitdate>1953 </unitdate>
+
+</did></c03>
+<c03 level="file" id="c03-1.2.7.10.16.3" score="1" C-ORDER="61"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">20 </container>
+<unittitle>Girls In The Night - clippings</unittitle>
+
+<unitdate>1953 </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.17" score="1" C-ORDER="62"><did><unittitle>Harrison and Tyler Show </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.17.2" score="1" C-ORDER="63"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">11 </container>
+
+<unittitle>Harrison and Tyler Show (The) - script</unittitle>
+<unitdate>1976 Aug 23 </unitdate>
+<note><p>Script binder in box 5. </p></note>
+
+</did></c03>
+</c02>
+
+<c02 level="subseries" id="c02-1.2.7.10.18" score="1" C-ORDER="64"><did><unittitle>Horowitz of Dublin Castle </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.18.2" score="1" C-ORDER="65"><did>
+<container type="box" label="Box">4</container>
+
+<container type="folder" label="Folder">1 </container>
+<unittitle>Horowitz of Dublin Castle - script</unittitle>
+<unitdate>1974 Jan 14 </unitdate>
+
+<note><p>With photographs and clipping </p></note>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.19" score="1" C-ORDER="66"><did><unittitle>Hotel (The) - or -  Why Do You Need Such Big
+Potatoes? </unittitle></did>
+
+
+
+
+
+
+
+
+<c03 level="file" id="c03-1.2.7.10.19.2" score="1" C-ORDER="67"><did>
+<container type="box" label="Box">3</container>
+
+<container type="folder" label="Folder">13 </container>
+<unittitle>Hotel (The) - or -  Why Do You Need Such Big Potatoes? - script</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.19.3" score="1" C-ORDER="68"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">14 </container>
+
+<unittitle>Hotel (The)  - or -  Why Do You Need Such Big Potatoes? - carbon copy of a
+script</unittitle>
+<unitdate>1969 Mar 10 </unitdate>
+
+</did></c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.20" score="1" C-ORDER="69"><did><unittitle>How To Succeed In The Tuna Business Without
+Really Trying </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.20.2" score="1" C-ORDER="70"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">2 </container>
+
+<unittitle>How To Succeed In The Tuna Business Without Really Trying - script and
+program</unittitle>
+<unitdate>1978-1979 </unitdate>
+<note><p>Script binder in box 5. </p></note>
+
+</did></c03>
+</c02>
+
+<c02 level="subseries" id="c02-1.2.7.10.21" score="1" C-ORDER="71"><did><unittitle>I Was A Carnival Confidence Girl </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.21.2" score="1" C-ORDER="72"><did>
+<container type="box" label="Box">4</container>
+
+<container type="folder" label="Folder">3 </container>
+<unittitle>I Was A Carnival Confidence Girl</unittitle>
+<unitdate>no date </unitdate>
+
+<note><p>Magazine pages where Harvey Lembeck's image was used for story </p></note>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.22" score="1" C-ORDER="73"><did><unittitle>Kaluna Tropical Drinks </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.22.2" score="1" C-ORDER="74"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Advertisement for Kaluna Tropical Drinks ad - audiotape</unittitle>
+
+<unitdate>no date </unitdate>
+<note><p>RESTRICTED FROM ACCESS: Use of audio materials may require production of
+listening or viewing copies. </p></note>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.23" score="1" C-ORDER="75"><did><unittitle>Lopez </unittitle></did>
+
+
+
+
+
+
+
+
+
+
+
+<c03 level="file" id="c03-1.2.7.10.23.2" score="1" C-ORDER="76"><did>
+<container type="box" label="Box">4</container>
+
+<container type="folder" label="Folder">4 </container>
+<unittitle>Lopez - script</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.24" score="1" C-ORDER="77"><did><unittitle>Man of La Mancha </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.24.2" score="1" C-ORDER="78"><did>
+
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Man of La Mancha - script</unittitle>
+<unitdate>1965 </unitdate>
+
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.24.3" score="1" C-ORDER="79"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+
+<unittitle>Man of La Mancha - photographs and ephemera</unittitle>
+<unitdate>1966-1967 </unitdate>
+
+<note><p>Includes piece of cloth with [cast members?] signatures . </p></note>
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.24.4" score="1" C-ORDER="80"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">3 </container>
+
+<unittitle>Man of La Mancha - sheet music</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+<c03 level="file" id="c03-1.2.7.10.24.5" score="1" C-ORDER="81"><did>
+
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Man of La Mancha - clippings</unittitle>
+<unitdate>1967 </unitdate>
+
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.24.6" score="1" C-ORDER="82"><did>
+<container type="box" label="Box">5</container>
+
+<unittitle>Man of La Mancha - David Atkinson photograph inscribed to HL</unittitle>
+<unitdate>no date </unitdate>
+<note><p>Appears to be cast member from production of Man of La Mancha. </p></note>
+
+</did></c03>
+</c02>
+
+<c02 level="subseries" id="c02-1.2.7.10.25" score="1" C-ORDER="83"><did><unittitle>Mission Over Korea </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.25.2" score="1" C-ORDER="84"><did>
+<container type="box" label="Box">4</container>
+
+<container type="folder" label="Folder">5 </container>
+<unittitle>Mission Over Korea - clippings</unittitle>
+<unitdate>1953 </unitdate>
+
+</did></c03>
+
+</c02>
+
+
+
+<c02 level="subseries" id="c02-1.2.7.10.26" score="1" C-ORDER="85"><did><unittitle>Mister Roberts (stage) </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.26.2" score="1" C-ORDER="86"><did>
+
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Mister Roberts (stage) - photographs, programs, and telegrams</unittitle>
+
+<unitdate>1948 </unitdate>
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.26.3" score="1" C-ORDER="87"><did>
+<container type="box" label="Box">2</container>
+
+<container type="folder" label="Folder">6 </container>
+<unittitle>Mister Roberts (stage) - clippings</unittitle>
+<unitdate>1948-1949 </unitdate>
+
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.27" score="1" C-ORDER="88"><did><unittitle>Mother, Juggs and Speed </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.27.2" score="1" C-ORDER="89"><did>
+
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Mother, Juggs and Speed - script and shooting schedule</unittitle>
+
+<unitdate>1978 </unitdate>
+<note><p>Script binder in box 5. </p></note>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.28" score="1" C-ORDER="90"><did><unittitle>Nice People </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.28.2" score="1" C-ORDER="91"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">7 </container>
+
+<unittitle>Nice People - script</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+<c03 level="file" id="c03-1.2.7.10.28.3" score="1" C-ORDER="92"><did>
+
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Nice People - script and photograph</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.29" score="1" C-ORDER="93"><did><unittitle>Oklahoma </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.29.2" score="1" C-ORDER="94"><did>
+
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Oklahoma - theater programs and photocopies of clippings</unittitle>
+
+<unitdate>1958 - 1959 </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.30" score="1" C-ORDER="95"><did><unittitle>Oliver </unittitle></did>
+
+
+
+
+
+<c03 level="file" id="c03-1.2.7.10.30.2" score="1" C-ORDER="96"><did>
+<container type="box" label="Box">2</container>
+
+<container type="folder" label="Folder">7 </container>
+<unittitle>Oliver - script and ephemera</unittitle>
+<unitdate>1966 </unitdate>
+
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.31" score="1" C-ORDER="97"><did><unittitle>Phoenix '55 </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.31.2" score="1" C-ORDER="98"><did>
+
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Phoenix '55 - theater program and playbill</unittitle>
+<unitdate>1955 </unitdate>
+
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.31.3" score="1" C-ORDER="99"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">9 </container>
+
+<unittitle>Phoenix '55 - clippings for theater production</unittitle>
+<unitdate>1955 </unitdate>
+
+</did></c03>
+</c02>
+
+<c02 level="subseries" id="c02-1.2.7.10.32" score="1" C-ORDER="100"><did><unittitle>Photographs </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.32.2" score="1" C-ORDER="101"><did>
+<container type="box" label="Box">3</container>
+
+<container type="folder" label="Folder">2 </container>
+<unittitle>HL photograph negatives</unittitle>
+<unitdate>no date </unitdate>
+
+<note><p>Photographic prints for selected negatives may be found in Box 3, folder 1.
+</p></note>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.33" score="1" C-ORDER="102"><did><unittitle>Sergeant Bilko </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.33.2" score="1" C-ORDER="103"><did>
+
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Sergeant Bilko - photographs and clipping</unittitle>
+
+<unitdate>1955, 1973 </unitdate>
+<note><p>With one slide and an original drawing of Harvey Lembeck and Allan Melvin in
+their Bilko roles by Joe E. O'Connell (1955). </p></note>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.34" score="1" C-ORDER="104"><did><unittitle>Singles Bar </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.34.2" score="1" C-ORDER="105"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">11 </container>
+
+<unittitle>Singles Bar - shooting setup</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+</c02>
+
+
+<c02 level="subseries" id="c02-1.2.7.10.35" score="1" C-ORDER="106"><did><unittitle>Something Old Or Something New </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.35.2" score="1" C-ORDER="107"><did>
+
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Something Old Or Something New - notes</unittitle>
+
+<unitdate>no date </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.36" score="1" C-ORDER="108"><did><unittitle>Stalag 17 (motion picture) </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.36.2" score="1" C-ORDER="109"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">11 </container>
+
+<unittitle>Stalag 17 (motion picture) - clippings</unittitle>
+<unitdate>1953 </unitdate>
+
+</did></c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.37" score="1" C-ORDER="110"><did><unittitle>Stalag 17 (stage) </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.37.2" score="1" C-ORDER="111"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">12 </container>
+
+<unittitle>Stalag 17 (stage) - photographs and playbill</unittitle>
+<unitdate>1951 </unitdate>
+
+</did></c03>
+<c03 level="file" id="c03-1.2.7.10.37.3" score="1" C-ORDER="112"><did>
+
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Stalag 17 (stage) - clippings</unittitle>
+
+<unitdate>1951 </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.38" score="1" C-ORDER="113"><did><unittitle>There Is No 13 </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.38.2" score="1" C-ORDER="114"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">14 </container>
+
+<unittitle>There Is No 13 - printed ephemera for 24th Berlin International Film
+Festival</unittitle>
+<unitdate>ca. 1980s </unitdate>
+
+</did></c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.39" score="1" C-ORDER="115"><did><unittitle>Thieves (The) </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.39.2" score="1" C-ORDER="116"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">12 </container>
+
+<unittitle>Thieves (The) - notes</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+</c02>
+
+
+
+<c02 level="subseries" id="c02-1.2.7.10.40" score="1" C-ORDER="117"><did><unittitle>U.S.S. Teakettle </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.40.2" score="1" C-ORDER="118"><did>
+
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">15 </container>
+<unittitle>U.S.S. Teakettle - photographs and cast sheet</unittitle>
+
+<unitdate>no date </unitdate>
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.40.3" score="1" C-ORDER="119"><did>
+<container type="box" label="Box">4</container>
+
+<container type="folder" label="Folder">16 </container>
+<unittitle>U.S.S. Teakettle - clippings</unittitle>
+<unitdate>1951 </unitdate>
+
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.41" score="1" C-ORDER="120"><did><unittitle>Unidentified Projects</unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.41.2" score="1" C-ORDER="121"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">24 </container>
+<unittitle>Frank Sinatra jokes - notes for bit (unknown event)</unittitle>
+
+<unitdate>no date </unitdate>
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.41.3" score="1" C-ORDER="122"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">17 </container>
+<unittitle>Unidentified photographs for [television project?]</unittitle>
+
+<unitdate>no date </unitdate>
+<note><p>Appears to be publicity photographs for television project. </p></note>
+
+</did></c03>
+<c03 level="file" id="c03-1.2.7.10.41.4" score="1" C-ORDER="123"><did>
+
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">18 </container>
+<unittitle>Unidentified projects notes</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.41.5" score="1" C-ORDER="124"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">12 </container>
+
+<unittitle>Here Comes Diana Pechefsky (The Huntress) - [continuity script?]</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+<c03 level="file" id="c03-1.2.7.10.41.6" score="1" C-ORDER="125"><did>
+
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Uncle Frank - or - Services Unlimited - treatment</unittitle>
+
+<unitdate>1978 </unitdate>
+</did></c03>
+
+
+
+<c03 level="file" id="c03-1.2.7.10.41.7" score="1" C-ORDER="126"><did>
+<container type="box" label="Box">4</container>
+
+<container type="folder" label="Folder">14 </container>
+<unittitle>Untitled script pages</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.41.8" score="1" C-ORDER="127"><did>
+
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>HL photographs (45 items)</unittitle>
+<unitdate>[1940s-1980s] </unitdate>
+
+<note><p>Mostly head shots with some candid shots of Harvey Lembeck.  Negatives
+for selected items may be found in Box 3, folder 2. </p></note>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.42" score="1" C-ORDER="128"><did><unittitle>Von Zipper </unittitle></did>
+
+<c03 level="file" id="c03-1.2.7.10.42.2" score="1" C-ORDER="129"><did>
+
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">16 </container>
+<unittitle>Von Zipper - script and notes</unittitle>
+
+<unitdate>1964 </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.43" score="1" C-ORDER="130"><did><unittitle>We Open In New Haven </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.43.2" score="1" C-ORDER="131"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">2 </container>
+
+<unittitle>We Open In New Haven - photograph</unittitle>
+<unitdate>no date </unitdate>
+<note><p>Photograph of TAV Celebrity Theater marquee mounted on wood plaque.</p></note>
+
+</did></c03>
+<c03 level="file" id="c03-1.2.7.10.43.3" score="1" C-ORDER="132"><did>
+
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">19 </container>
+<unittitle>We Open In New Haven - script</unittitle>
+
+<unitdate>no date </unitdate>
+<note><p>Script binder in box 5. </p></note>
+
+</did></c03>
+<c03 level="file" id="c03-1.2.7.10.43.4" score="1" C-ORDER="133"><did>
+
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">20 </container>
+<unittitle>We Open In New Haven - photographs of cast and crew (66 items)</unittitle>
+
+<unitdate>no date </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.44" score="1" C-ORDER="134"><did><unittitle>Wedding Breakfast </unittitle></did>
+
+
+
+
+<c03 level="file" id="c03-1.2.7.10.44.2" score="1" C-ORDER="135"><did>
+<container type="box" label="Box">4</container>
+
+<container type="folder" label="Folder">17 </container>
+<unittitle>Wedding Breakfast - printed ephemera</unittitle>
+<unitdate>1954 </unitdate>
+
+</did></c03>
+
+<c03 level="file" id="c03-1.2.7.10.44.3" score="1" C-ORDER="136"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">18 </container>
+
+<unittitle>Wedding Breakfast - clippings</unittitle>
+<unitdate>1954 </unitdate>
+
+</did></c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.45" score="1" C-ORDER="137"><did><unittitle>Willie and Joe Back At The Front </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.45.2" score="1" C-ORDER="138"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">15 </container>
+
+<unittitle>Willie and Joe Back At The Front - photographs (20 items)</unittitle>
+<unitdate>no date </unitdate>
+
+</did></c03>
+<c03 level="file" id="c03-1.2.7.10.45.3" score="1" C-ORDER="139"><did>
+
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">16 </container>
+<unittitle>Willie and Joe Back At The Front - clippings and press book</unittitle>
+
+<unitdate>1952-1953 </unitdate>
+</did></c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.2.7.10.46" score="1" C-ORDER="140"><did><unittitle>You'll Never Get Rich </unittitle></did>
+
+
+<c03 level="file" id="c03-1.2.7.10.46.2" score="1" C-ORDER="141"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">21 </container>
+
+<unittitle>You'll Never Get Rich - clippings</unittitle>
+<unitdate>1955 </unitdate>
+
+</did></c03>
+</c02>
+</c01>
+
+
+<c01 level="series" id="c01-1.2.7.11" score="2" C-ORDER="142"><did><unittitle>Series 10. Resumes ([pre-1980s; Box 1)</unittitle></did>
+<scopecontent>
+<p>The series consists of two resumes and a printed image of Lembeck.</p>
+</scopecontent>
+
+<c02 level="file" id="c02-1.2.7.11.3" score="1" C-ORDER="144"><did>
+<container type="box" label="Box">1</container>
+
+<container type="folder" label="Folder">22 </container>
+<unittitle>Harvey Lembeck Resumes</unittitle>
+<unitdate>[pre-1980s?] </unitdate>
+
+<note><p>Two resumes and printed image of Lembeck on cardstock. </p></note>
+</did></c02>
+
+
+</c01>
+
+</dsc>
+</archdesc>
+</ead>
