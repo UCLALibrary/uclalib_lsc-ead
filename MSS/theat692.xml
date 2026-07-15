@@ -1,0 +1,560 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt2q2nb1j3" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::692::Collection of Theater Playbills)//EN&quot; &quot;theat692.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">theat692.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Collection of Theater Playbills, 1805-1900</titleproper><titleproper type="filing">Theater Playbills Collection</titleproper>
+ <author>Processed by George Chacon; machine-readable finding aid created by Alight Tsai</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">September 2001</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Alight Tsai and Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::692::Collection of Theater Playbills)//EN" "theat692.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Collection of Theater Playbills, 1805-1900</titleproper>
+ <num>Collection number: 692</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>George Chacon, May 1985</item>
+ </defitem>
+ <defitem>
+ <label>Revised by:</label>
+ <item>K.S. and K. Landesman</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Alight Tsai</item>
+ </defitem>
+ <defitem>
+ <label>Encoding supervision by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Text converted and initial container list EAD tagging by:</label>
+ <item>Apex Data Services</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, May 2003</item>
+ </defitem>
+ </list>
+ <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Collection of Theater Playbills, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1805-1900</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">692</unitid>
+ <physdesc label="Extent"><extent>2 boxes (1.0 linear ft.) </extent>
+<extent>3 oversize boxes</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Collection of Theater Playbills (Collection 692). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232882">4232882</extref></p>
+</odd>
+ </descgrp>
+ <scopecontent id="scopecontent-1.8.3">
+ <head>Scope and Content</head>
+ <p>Collection consists of playbills from Britain, Europe, and the U.S. Includes playbills from various London theaters, some from Glasgow, and one from Dublin. Also includes playbills from California, mostly San Francisco and Los Angeles, and from other states, primarily New York, St. Louis, and Detroit.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.4">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <genreform source="rbgenr" encodinganalog="655">Playbills--United States.</genreform>
+ <genreform source="rbgenr" encodinganalog="655">Playbills--Europe.</genreform>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.5" score="1" C-ORDER="1" MAX-C-ORDER="56">
+ <head>Container List</head>
+ <c01 level="file" id="c01-1.8.5.2" score="1" C-ORDER="2">
+ <did>
+ <unittitle>California, Los Angeles</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.2.2" score="1" C-ORDER="3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>The Auditorium Theater.</unittitle>
+ <physdesc> (18 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.3" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Belasco Theater.</unittitle>
+ <physdesc> (30 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.4" score="1" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Grand Opera House.</unittitle>
+ <physdesc> (10 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.5" score="1" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Mason Opera House.</unittitle>
+ <physdesc> (56 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.6" score="1" C-ORDER="7">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Miscellaneous.</unittitle>
+ <physdesc> (7 items).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.3" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>California, Fresno, Palo Alto, San Francisco.</unittitle>
+ <physdesc> (29 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.4" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Illinois.</unittitle>
+ <physdesc> (5 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.5" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Iowa.</unittitle>
+ <physdesc> (4 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.6" score="1" C-ORDER="11">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Massachussetts.</unittitle>
+ <physdesc> (16 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.7" score="1" C-ORDER="12">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Michigan.</unittitle>
+ <physdesc> (29 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.5.8" score="1" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Minnesota.</unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.9" score="1" C-ORDER="14">
+ <did>
+ <unittitle>Missouri, St. Louis</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.9.2" score="1" C-ORDER="15">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Century Theater, and miscellaneous.</unittitle>
+ <physdesc> (31 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.9.3" score="1" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Grand Opera Company.</unittitle>
+ <physdesc> (11 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.9.4" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>McCasland Opera House.</unittitle>
+ <physdesc> (41 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.9.5" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Olympic Theater.</unittitle>
+ <physdesc> (37 items).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.10" score="1" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>New York. Includes New York City.</unittitle>
+ <physdesc> (99 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.11" score="1" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Pennsylvania.</unittitle>
+ <physdesc> (8 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.5.12" score="1" C-ORDER="21">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Rhode Island.</unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.13" score="1" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Washington.</unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.14" score="1" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Unidentified.</unittitle>
+ <physdesc> (27 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.15" score="1" C-ORDER="24">
+ <did>
+ <unittitle>Great Britain, London</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.15.2" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>[No further description available].</unittitle>
+ <physdesc> (87pp. in bound volume).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.3" score="1" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Covent Gardens.</unittitle>
+ <physdesc> (26 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.4" score="1" C-ORDER="27">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Drury Lane Theater.</unittitle>
+ <physdesc> (19 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.5" score="1" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Haymarket Theater, Lyceum Theater, and miscellaneous.</unittitle>
+ <physdesc> (34 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.6" score="1" C-ORDER="29">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>Lyceum Theater.</unittitle>
+ <physdesc> (6 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.7" score="1" C-ORDER="30">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>New Strand Theater.</unittitle>
+ <physdesc> (5 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.8" score="1" C-ORDER="31">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>Royal Olympic Theater.</unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.9" score="1" C-ORDER="32">
+ <did>
+ <container label="Oversize Box" type="Box">5</container>
+ <unittitle>Royal St. James Theater.</unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.10" score="1" C-ORDER="33">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>Theater Royal Adelphi.</unittitle>
+ <physdesc> (5 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.11" score="1" C-ORDER="34">
+ <did>
+ <container label="Oversize Box" type="Box">3</container>
+ <unittitle>Theater Royal Covent Garden.</unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.12" score="1" C-ORDER="35">
+ <did>
+ <container label="Oversize Box" type="Box">5</container>
+ <unittitle>Haymarket Theater.</unittitle>
+ <physdesc> (12 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.13" score="1" C-ORDER="36">
+ <did>
+ <container label="Oversize Box" type="Box">5</container>
+ <unittitle>Theater Royal, Marlebone.</unittitle>
+ <physdesc> (4 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.14" score="1" C-ORDER="37">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>Miscellaneous.</unittitle>
+ <physdesc> (9 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.15" score="1" C-ORDER="38">
+ <did>
+ <container label="Oversize Box" type="Box">3</container>
+ <unittitle>St. James Theatre.</unittitle>
+ <physdesc> (7 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.15.16" score="1" C-ORDER="39">
+ <did>
+ <container label="Oversize Box" type="Box">5</container>
+ <unittitle>Theatre Royal, Drury Lane.</unittitle>
+ <physdesc> (15 items).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.16" score="1" C-ORDER="40">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Europe. Miscellaneous and unidentified.</unittitle>
+ <physdesc> (5 items).</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.17" score="1" C-ORDER="41">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Playbills, silk[?].</unittitle>
+ </did>
+ </c01>
+ <c01 level="series" id="c01-1.8.5.18" score="1" C-ORDER="42">
+ <did>
+ <unittitle>Oversize Material:</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.18.2" score="1" C-ORDER="43">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>California, Los Angeles, San Francisco, Sacramento, Stockton.</unittitle>
+ <physdesc> (19 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.3" score="1" C-ORDER="44">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>Louisiana, New Orleans.</unittitle>
+ <physdesc> (3 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.4" score="1" C-ORDER="45">
+ <did>
+ <container label="Oversize Box" type="Box">3</container>
+ <unittitle>Maryland, Baltimore.</unittitle>
+ <physdesc> (5 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.5" score="1" C-ORDER="46">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>Massachusetts, Boston.</unittitle>
+ <physdesc> (14 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.6" score="1" C-ORDER="47">
+ <did>
+ <container label="Oversize Box" type="Box">3</container>
+ <unittitle>Michigan, Detroit, Kalamazoo.</unittitle>
+ <physdesc> (6 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.7" score="1" C-ORDER="48">
+ <did>
+ <container label="Oversize Box" type="Box">3</container>
+ <unittitle>Missouri.</unittitle>
+ <physdesc> (6 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.8" score="1" C-ORDER="49">
+ <did>
+ <container label="Oversize Box" type="Box">3&amp;5</container>
+ <unittitle>New York, New York City.</unittitle>
+ <physdesc> (31 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.5.18.9" score="1" C-ORDER="50">
+ <did>
+ <container label="Oversize Box" type="Box">3</container>
+ <unittitle>Oregon.</unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.10" score="1" C-ORDER="51">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>Pennsylvania.</unittitle>
+ <physdesc> (9 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.5.18.11" score="1" C-ORDER="52">
+ <did>
+ <container label="Oversize Box" type="Box">3</container>
+ <unittitle>Washington, D.C.</unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.12" score="1" C-ORDER="53">
+ <did>
+ <container label="Oversize Box" type="Box">4</container>
+ <unittitle>Unidentified and miscellaneous.</unittitle>
+ <physdesc> (12 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.5.18.13" score="1" C-ORDER="54">
+ <did>
+ <container label="Oversize Box" type="Box">3</container>
+ <unittitle>Ireland, Dublin.</unittitle>
+ <physdesc> (1 item).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.14" score="1" C-ORDER="55">
+ <did>
+ <container label="Oversize Box" type="Box">5</container>
+ <unittitle>Scotland, Edinburgh. Prince of Wales Theater, Royal Princess Theater, Theater Royal.</unittitle>
+ <physdesc> (30 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.18.15" score="1" C-ORDER="56">
+ <did>
+ <container label="Oversize Box" type="Box">5</container>
+ <unittitle>Scotland, Glasgow. Theater Royal.</unittitle>
+ <physdesc> (9 items).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ </dsc>
+ <relatedmaterial id="relatedmaterial-1.8.6">
+ <head>Related Material</head>
+ <p>Theater Arts Ephemera Collection (Collection 975). Available at Department of Special Collections, UCLA.</p>
+ </relatedmaterial>
+ </archdesc>
+</ead>
