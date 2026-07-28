@@ -1,239 +1,44 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-  
-  
-  
-  
-  
-  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf109nb01m" mainagencycode="CLU" publicid="PUBLIC &quot;-//University of California, Los Angeles::Performing Arts Special Collections//TEXT (US::CLU::187::Collection of Librettos)//EN&quot; &quot;libretti.sgm&quot;" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">libretti.xml</eadid><filedesc>
-      <titlestmt>
-        <titleproper>Finding Aid for the Collection of Librettos</titleproper><titleproper type="filing">Collection of Librettos</titleproper>
-        <author>Collection processed and machine-readable finding aid created by UCLA Performing Arts Special Collections staff.</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>UCLA Library, Performing Arts Special Collections</publisher>
-        <address><addressline>University of California, Los Angeles, Library</addressline><addressline>Performing Arts Special Collections, Room A1713</addressline><addressline>Charles E. Young Research Library, Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Phone: (310) 825-4988</addressline><addressline>Fax: (310) 206-1864</addressline><addressline>Email: speccoll-paging@library.ucla.edu</addressline><addressline>http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</addressline></address><date calendar="gregorian" era="ce">©  2002</date>
-        <p>The Regents of the University of California. All rights reserved.</p>
-      </publicationstmt>
-      <notestmt>
-        <note>
-          <p>
-            <subject source="cdl">Arts and Humanities--Music</subject>
-          </p>
-        </note>
-      </notestmt>
-    </filedesc><profiledesc>
-      <creation>Machine-readable finding aid automatically generated from relational database.
-Date of source: <date calendar="gregorian" era="ce">7/27/00</date></creation>
-      <langusage>Description is in <language>English.</language></langusage>
-    </profiledesc><revisiondesc>
-      <change>
-        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
-        <item>PUBLIC "-//University of California, Los Angeles::Performing Arts Special Collections//TEXT (US::CLU::187::Collection of Librettos)//EN" "libretti.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
-      </change>
-    </revisiondesc></eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Finding Aid of the Collection of Librettos</titleproper>
-      <num>Collection number: 187</num>
-      <publisher>UCLA Library, Performing Arts Special Collections
-<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>University of California, Los Angeles
-<lb/>Los Angeles, CA</publisher>
-      <list type="simple"><head>Contact Information</head><item>University of California, Los Angeles, Library</item><item>Performing Arts Special Collections, Room A1713</item><item>Charles E. Young Research Library, Box 951575</item><item>Los Angeles, CA 90095-1575</item><item>Phone: (310) 825-4988</item><item>Fax: (310) 206-1864</item><item>Email: speccoll-paging@library.ucla.edu</item><item>URL: http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</item></list><list type="deflist">
-        <defitem>
-          <label>Processed by:</label>
-          <item>UCLA Performing Arts Special Collections staff</item>
-        </defitem>
-        <defitem>
-          <label>Date Completed:</label>
-          <item>7/27/00</item>
-        </defitem>
-        <defitem>
-          <label>Encoded by:</label>
-          <item>Bryan Griest</item>
-        </defitem>
-      </list>
-      <p>©  2002 The Regents of the University of California. All rights reserved.</p>
-    </titlepage>
-  </frontmatter>
-  <archdesc level="collection" id="archdesc-1.3">
-    <did id="did-1.8.1">
-      <head>Descriptive Summary</head>
-      <unittitle label="Title">Collection of Librettos</unittitle>
-      <unitid label="Collection number" countrycode="US" repositorycode="CLUS">187</unitid>
-      <origination label="Creator"/>
-      <physdesc label="Extent">
-        <extent>1 box (0.5 linear ft.)</extent>
-      </physdesc>
-      <repository label="Repository">
-        <corpname>University of California, Los Angeles. Library. <subarea>Performing Arts Special Collections</subarea></corpname>
-        <address>
-          <addressline>Los Angeles, California 90095-1575</addressline>
-        </address>
-      </repository>
-      <abstract label="Abstract">This collection consists of published librettos from various sources</abstract>
-      <physloc label="Physical location">Stored off-site at SRLF.
-Advance notice is required for access to the collection.
-Please contact the UCLA Performing Arts Special Collections for paging information.</physloc>
-      <langmaterial label="Language">
-        <language langcode="eng">English.</language>
-      </langmaterial>
-    </did>
-    <descgrp type="admininfo" id="descgrp-1.8.2">
-      <head>Administrative Information</head>
-      <userestrict>
-        <head>Publication Rights</head>
-        <p>Copyright has not been assigned to the Performing Arts Special Collections. All requests
-for permission to publish or quote from manuscripts must be submitted in
-writing to Performing Arts Special Collections Librarian. Permission for
-publication is given on behalf of Performing Arts Special Collections as the owner of the
-physical items and is not intended to include or imply permission of the
-copyright holder(s), which must also be obtained.</p>
-      </userestrict>
-      <accessrestrict>
-        <head>Restrictions on Access</head>
-        <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
-      </accessrestrict>
-      <prefercite>
-        <head>Preferred Citation</head>
-        <p>[Identification of item],
-Collection of Librettos, 187, Performing Arts Special Collections, University of California, Los Angeles.</p>
-      </prefercite>
-    </descgrp>
-    <scopecontent id="scopecontent-1.8.3">
-      <head>Scope and Content</head>
-      <p>A collection of published librettos from various sources, either published separately or in conjunction with a sound recording.</p>
-    </scopecontent>
-    <dsc type="in-depth" id="dsc-1.8.4" score="1" C-ORDER="1" MAX-C-ORDER="22">
-      <head>Collection Contents</head>
-      <c01 level="file" id="c01-1.8.4.2" score="2" C-ORDER="2">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">1</container>
-          <unittitle>Verdi, Giuseppe.
-Aida.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with Decca recording.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.3" score="2" C-ORDER="4">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">2</container>
-          <unittitle>Puccini, Giacomo.
-Turandot.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with RCA recording.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.4" score="2" C-ORDER="6">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">3</container>
-          <unittitle>Saint-Saëns, Camille.
-Samson et Dalila.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with Angel recording.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.5" score="2" C-ORDER="8">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">4</container>
-          <unittitle>Beethoven, Ludwig van.
-Fidelio.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with Angel recording.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.6" score="2" C-ORDER="10">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">5</container>
-          <unittitle>Verdi, Giuseppe.
-Otello.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with RCA recording. Illustrated with set and
-costume designs from the first production.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.7" score="2" C-ORDER="12">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">6</container>
-          <unittitle>Command performance.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Booklet accompanying a Joan Sutherland. Includes
-aria and song texts. Illustrations from the
-Sutherland/Bonynge collections.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.8" score="2" C-ORDER="14">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">7</container>
-          <unittitle>Wagner, Richard.
-Die Walküre.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with RCA recording. Illustrated with
-costume sketches from the 1896 Bayreuth Festival
-Ring cycle.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.9" score="2" C-ORDER="16">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">8</container>
-          <unittitle>Bellini, Vincenzo.
-La Sonnambula.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with Decca recording.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.10" score="2" C-ORDER="18">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">9</container>
-          <unittitle>Bizet, Georges.
-Carmen.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with Angel recording.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.11" score="2" C-ORDER="20">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">10</container>
-          <unittitle>Puccini, Giacomo.
-La Bohème.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with Angel recording.</p>
-        </scopecontent>
-      </c01>
-      <c01 level="file" id="c01-1.8.4.12" score="2" C-ORDER="22">
-        <did>
-          <container label="Box" type="Box">1</container>
-          <container label="Folder" type="Folder">11</container>
-          <unittitle>Berlioz, Hector.
-Requiem.</unittitle>
-        </did>
-        <scopecontent>
-          <p>Issued with RCA recording. Limited first edition
-of 200 copies. Designed by Albert Skira. Includes
-fine color illustrations of painting with
-religious themes. 2 copies.</p>
-        </scopecontent>
-      </c01>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://www.oac.cdlib.org/findaid/ark:/13030/tf109nb01m/">libr187m.xml</eadid><filedesc><titlestmt><titleproper type="filing">Librettos collection</titleproper><titleproper>Finding Aid for the Collection of Librettos <num>PASC-M.0187</num></titleproper><author>Finding aid prepared by  UCLA Performing Arts Special Collections staff.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2036.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-07-28 15:19:56 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Collection of librettos</unittitle>
+    <unitid>PASC-M.0187</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 linear feet</extent>
+      <extent altrender="carrier">(2 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation">undated</unitdate>
+    <abstract id="aspace_6095c45e5974b387e2a1f817c124d6b0" label="Abstract">This collection consists of published librettos from various sources.</abstract>
+    <physloc id="aspace_27faa8c39cfbc644cf956b960b72c28f" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_c2e3e58fef8e3efa35ff9b0454a1fcb1">Materials are in English, Italian, French and German.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_1a63782cd93c20bacac5fdf2a429be6d">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_6bf0928c8b671f554227e13534a46291">
+    <head>Conditions Governing Reproduction and Use</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_59b81faace99954070f449067f6963e1">
+    <head>Provenance/Source of Acquisition</head>
+<p>Received 2000.</p>  </acqinfo>
+  <odd id="aspace_a6433d04c380058f71d344f040dbd41f">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9942378463606533">9942378463606533</extref></p>  </odd>
+  <prefercite id="aspace_ce23af97020d11595859f3358cfa2475">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Collection of Librettos (Collection PASC-M 187). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_8c4296f56f83e054e26cfa7f8487fcf9">
+    <head>Processing Information</head>
+<p>Processed by UCLA Performing Arts Special Collections staff.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's Library Collections and Archives.</extref></p>  </processinfo>
+  <scopecontent id="aspace_9d8768814ee6df8bfdc1d6ac54cf800d">
+    <head>Scope and Content</head>
+<p>A collection of published librettos from various sources, either published separately or in conjunction with a sound recording.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="rbgenr">Librettos</genreform>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref8_s20" level="file"><did><unittitle>Verdi, Giuseppe. Aida.</unittitle><container id="aspace_53971f6dde688a42bd51853462d8ca30" label="Mixed Materials" type="box">1</container><container id="aspace_f6f01437852d5a52b1e5a26a92db397b" parent="aspace_53971f6dde688a42bd51853462d8ca30" type="folder">1</container></did><scopecontent id="aspace_35f614a0d0b1d05abed478f4aa5134a0"><head>Scope and Contents note</head><p>Issued with Decca recording.</p></scopecontent></c01><c01 id="aspace_ref10_nb5" level="file"><did><unittitle>Puccini, Giacomo. Turandot.</unittitle><container id="aspace_9ae61dab228f8e87115cd16559d87419" label="Mixed Materials" type="box">1</container><container id="aspace_f1a02f629c6791a6a11068ab583d5b8b" parent="aspace_9ae61dab228f8e87115cd16559d87419" type="folder">2</container></did><scopecontent id="aspace_3aeb2631315241a4dc2663f7770c2b15"><head>Scope and Contents note</head><p>Issued with RCA recording.</p></scopecontent></c01><c01 id="aspace_ref12_3qi" level="file"><did><unittitle>Saint-Saëns, Camille. Samson et Dalila.</unittitle><container id="aspace_f4e4fe6f55a471503fe12847788d56b3" label="Mixed Materials" type="box">1</container><container id="aspace_bf95861082d220e66082d6164e4ba95c" parent="aspace_f4e4fe6f55a471503fe12847788d56b3" type="folder">3</container></did><scopecontent id="aspace_00a7cfcd992b2e212714c6ce88e86523"><head>Scope and Contents note</head><p>Issued with Angel recording.</p></scopecontent></c01><c01 id="aspace_ref14_wk7" level="file"><did><unittitle>Beethoven, Ludwig van. Fidelio.</unittitle><container id="aspace_46c61a70b3b613d50cc7672186254177" label="Mixed Materials" type="box">1</container><container id="aspace_82b2862f84e35673f71f4e163012f822" parent="aspace_46c61a70b3b613d50cc7672186254177" type="folder">4</container></did><scopecontent id="aspace_f91c5a83583845705156b5c2bdeae514"><head>Scope and Contents note</head><p>Issued with Angel recording.</p></scopecontent></c01><c01 id="aspace_ref16_kmk" level="file"><did><unittitle>Verdi, Giuseppe. Otello.</unittitle><container id="aspace_831c43d91e29e010e1682afc0e4f1ab1" label="Mixed Materials" type="box">1</container><container id="aspace_7d46da2f4253687e03c9a3d19c7c3dc9" parent="aspace_831c43d91e29e010e1682afc0e4f1ab1" type="folder">5</container></did><scopecontent id="aspace_b6e33eabe7b1f0186a082ab5734dcf2a"><head>Scope and Contents note</head><p>Issued with RCA recording. Illustrated with set and costume designs from the first production.</p></scopecontent></c01><c01 id="aspace_ref18_2ff" level="file"><did><unittitle>Command performance.</unittitle><container id="aspace_85ac61df1330870719d8e47f40252642" label="Mixed Materials" type="box">1</container><container id="aspace_55188aaf134b1c53c4ce2fe6a6e5da70" parent="aspace_85ac61df1330870719d8e47f40252642" type="folder">6</container></did><scopecontent id="aspace_b5ceaea6be8e9db60c53c6a8571ed082"><head>Scope and Contents note</head><p>Booklet accompanying a Joan Sutherland. Includes aria and song texts. Illustrations from the Sutherland/Bonynge collections.</p></scopecontent></c01><c01 id="aspace_ref20_nff" level="file"><did><unittitle>Wagner, Richard. Die Walküre.</unittitle><container id="aspace_4041b7c6972c14452d2e1fc3696b3521" label="Mixed Materials" type="box">1</container><container id="aspace_191cd998c5568128249236a2ebdd0630" parent="aspace_4041b7c6972c14452d2e1fc3696b3521" type="folder">7</container></did><scopecontent id="aspace_93ff3c99fc593d3c34857cbddd2efe8f"><head>Scope and Contents note</head><p>Issued with RCA recording. Illustrated with costume sketches from the 1896 Bayreuth Festival Ring cycle.</p></scopecontent></c01><c01 id="aspace_ref22_f5f" level="file"><did><unittitle>Bellini, Vincenzo. La Sonnambula.</unittitle><container id="aspace_9a5c537c4778d6516a906ffa07f5e282" label="Mixed Materials" type="box">1</container><container id="aspace_b718407a672ccfe256b48e631dea2eb6" parent="aspace_9a5c537c4778d6516a906ffa07f5e282" type="folder">8</container></did><scopecontent id="aspace_5c531ca6f773c6647e0d295d0d44414f"><head>Scope and Contents note</head><p>Issued with Decca recording.</p></scopecontent></c01><c01 id="aspace_ref24_c6w" level="file"><did><unittitle>Bizet, Georges. Carmen.</unittitle><container id="aspace_37dcb0c8488ec3c8d60624e9a6a1f672" label="Mixed Materials" type="box">1</container><container id="aspace_4c0e21fd32db99f40be560419df6f9af" parent="aspace_37dcb0c8488ec3c8d60624e9a6a1f672" type="folder">9</container></did><scopecontent id="aspace_3bbcc58c0bd6cb829be6131d4598fd61"><head>Scope and Contents note</head><p>Issued with Angel recording.</p></scopecontent></c01><c01 id="aspace_ref26_jyj" level="file"><did><unittitle>Puccini, Giacomo. La Bohème.</unittitle><container id="aspace_a019905680b60b14587968e28c306c7c" label="Mixed Materials" type="box">1</container><container id="aspace_48967438c70da2645f0ea13f1f12138c" parent="aspace_a019905680b60b14587968e28c306c7c" type="folder">10</container></did><scopecontent id="aspace_f523b2c81f7bd1ffe4ac50b946f1c1fb"><head>Scope and Contents note</head><p>Issued with Angel recording.</p></scopecontent></c01><c01 id="aspace_ref28_hab" level="file"><did><unittitle>Berlioz, Hector. Requiem.</unittitle><container id="aspace_2f31e769e310730b8332893140a2e806" label="Mixed Materials" type="box">1</container><container id="aspace_d00a2f545205bddc283032c51a16e581" parent="aspace_2f31e769e310730b8332893140a2e806" type="folder">11</container></did><scopecontent id="aspace_34e2321438cb632969d754a880ff8697"><head>Scope and Contents note</head><p>Issued with RCA recording. Limited first edition of 200 copies. Designed by Albert Skira. Includes fine color illustrations of painting with religious themes. 2 copies.</p></scopecontent></c01><c01 id="aspace_ref35_r08" level="file"><did><unittitle>Aida</unittitle><container id="aspace_7c34b461882348975889b57791205e85" label="Mixed Materials" type="box">1</container><container id="aspace_798eac0e927a9cf8b63f37e8b27b839b" parent="aspace_7c34b461882348975889b57791205e85" type="folder">1</container></did><scopecontent id="aspace_24e16b4f92ec2d61dde201302097ccd7"><head>Scope and Contents note</head><p>Issued with Decca recording.</p></scopecontent></c01><c01 id="aspace_ref37_4x3" level="file"><did><unittitle>Turandot</unittitle><container id="aspace_699ac8f8c20437ab61d5c3f640c3d174" label="Mixed Materials" type="box">1</container><container id="aspace_908039fa452624b52d8813133b4a50d0" parent="aspace_699ac8f8c20437ab61d5c3f640c3d174" type="folder">2</container></did><scopecontent id="aspace_ac34401c43110cc5d0279ff58fe4ba7c"><head>Scope and Contents note</head><p>Issued with RCA recording.</p></scopecontent></c01><c01 id="aspace_ref39_1dh" level="file"><did><unittitle>Samson et Dalila</unittitle><container id="aspace_92f6a013329f50c03b94d363c108e083" label="Mixed Materials" type="box">1</container><container id="aspace_c0f6662b425243d8edc295817fb46d06" parent="aspace_92f6a013329f50c03b94d363c108e083" type="folder">3</container></did><scopecontent id="aspace_00bf512ee2c346255b4d6f6f4077b9be"><head>Scope and Contents note</head><p>Issued with Angel recording.</p></scopecontent></c01><c01 id="aspace_ref41_cu3" level="file"><did><unittitle>Fidelio</unittitle><container id="aspace_816ca647f0936aad9136d233da602c8c" label="Mixed Materials" type="box">1</container><container id="aspace_f2480befd6fd048a3acac89190533bac" parent="aspace_816ca647f0936aad9136d233da602c8c" type="folder">4</container></did><scopecontent id="aspace_18b5e29553decd73f370c4e313ad6af2"><head>Scope and Contents note</head><p>Issued with Angel recording.</p></scopecontent></c01><c01 id="aspace_ref43_e38" level="file"><did><unittitle>Otello</unittitle><container id="aspace_389a207fadea99785d2b782f53432e6b" label="Mixed Materials" type="box">1</container><container id="aspace_62de6ba32e464a497da675507154164b" parent="aspace_389a207fadea99785d2b782f53432e6b" type="folder">5</container></did><scopecontent id="aspace_36c7fac89f1eb1fd131d78e9902a9da4"><head>Scope and Contents note</head><p>Issed with RCA recording. Illustrated with set and costume designs from the first production.</p></scopecontent></c01><c01 id="aspace_ref45_p52" level="file"><did><unittitle>Command performance</unittitle><container id="aspace_63a4bb4e67d515642e61bc99b13dc055" label="Mixed Materials" type="box">1</container><container id="aspace_6c10a784db2bdd8796e16525d3a150e7" parent="aspace_63a4bb4e67d515642e61bc99b13dc055" type="folder">6</container></did><scopecontent id="aspace_0883969aa356116a87bf4c3f797a4049"><head>Scope and Contents note</head><p>Booklet accompanying a Joan Sutherland. Includes aria and song texts. Illustrations from the Sutherland/Bonynge collections.</p></scopecontent></c01><c01 id="aspace_ref47_gnk" level="file"><did><unittitle>Die Walknre</unittitle><container id="aspace_6b218f65704803fc2e3f3fa85c2f152e" label="Mixed Materials" type="box">1</container><container id="aspace_be60765f1d433789b9807cb08982a80e" parent="aspace_6b218f65704803fc2e3f3fa85c2f152e" type="folder">7</container></did><scopecontent id="aspace_100df79ddefd73823d2079b6ef482202"><head>Scope and Contents note</head><p>Issued with RCA recording. Illustrated with costume sketches from the 1896 Bayreuth Festival Ring cycle.</p></scopecontent></c01><c01 id="aspace_ref49_e8n" level="file"><did><unittitle>La Sonnambula</unittitle><container id="aspace_70205a8b110fd42ee6beca1791f63bae" label="Mixed Materials" type="box">1</container><container id="aspace_0878bb00c8455a7506033085d9698d62" parent="aspace_70205a8b110fd42ee6beca1791f63bae" type="folder">8</container></did><scopecontent id="aspace_fff7fb2972d4d46ba062cf273e22a4a1"><head>Scope and Contents note</head><p>Issued with Decca recording.</p></scopecontent></c01><c01 id="aspace_ref51_nrd" level="file"><did><unittitle>Carmen</unittitle><container id="aspace_f320e68d899ea57b347aecee2f9fb6c3" label="Mixed Materials" type="box">1</container><container id="aspace_287cee98ecc473134fb263bb731e9ecc" parent="aspace_f320e68d899ea57b347aecee2f9fb6c3" type="folder">9</container></did><scopecontent id="aspace_4286d915b596438b54e52b8cf1c39f2f"><head>Scope and Contents note</head><p>Issued with Angel recording.</p></scopecontent></c01><c01 id="aspace_ref53_5ep" level="file"><did><unittitle>La BohFme</unittitle><container id="aspace_c0b5dc69392f20e27e67d5912d52ba50" label="Mixed Materials" type="box">1</container><container id="aspace_8e7fc1ecd010ba578d78510c9f9fbf7b" parent="aspace_c0b5dc69392f20e27e67d5912d52ba50" type="folder">10</container></did><scopecontent id="aspace_b8689b9d8087d97120e96e0b05c0639e"><head>Scope and Contents note</head><p>Issued with Angel recording.</p></scopecontent></c01><c01 id="aspace_ref55_kd0" level="file"><did><unittitle>Requiem</unittitle><container id="aspace_d6d2090ee87bfa4e9a01f58066738c8f" label="Mixed Materials" type="box">1</container><container id="aspace_f34d0cfaed42cb9583fa1be77bd3b5ca" parent="aspace_d6d2090ee87bfa4e9a01f58066738c8f" type="folder">11</container></did><scopecontent id="aspace_440145e6fef3575f26df3b2c298c7374"><head>Scope and Contents note</head><p>Issued with RCA recording. Limited first edition of 200 copies. Designed by Albert Skira. Includes fine color illustrations of painting with religious themes. 2 copies.</p></scopecontent></c01><c01 id="aspace_ref57_vuo" level="file"><did><unittitle>Don Pasquale/Nabucco/La Fille du regiment/Carmen</unittitle><unitdate datechar="creation">1983-1984</unitdate><container id="aspace_feac06e4fb28ebee41a5525d1bfb8e9d" label="Mixed Materials" type="box">2</container><container id="aspace_efb0eca7f40f20051fe76541dddc6651" parent="aspace_feac06e4fb28ebee41a5525d1bfb8e9d" type="folder">1</container></did><odd id="aspace_267cf498f354bb5048e46e3c3aa45fdd"><head>General note</head><p>Boxed set of four librettos</p></odd></c01><c01 id="aspace_ref59_ge0" level="file"><did><unittitle>Atilla</unittitle><container id="aspace_8c68951fe03685320e2fd8be74c5d260" label="Mixed Materials" type="box">2</container><container id="aspace_f090ccb6c220e41b2dd8c039d2507d18" parent="aspace_8c68951fe03685320e2fd8be74c5d260" type="folder">2</container></did><odd id="aspace_ac943741742efe3935e101efe267da52"><head>General note</head><p>with English translations</p></odd></c01><c01 id="aspace_ref61_4bm" level="file"><did><unittitle>Guglielmo Tell</unittitle><container id="aspace_cd02359ce301cae9176db11a37be739b" label="Mixed Materials" type="box">2</container><container id="aspace_810fecd0842a797cd7f672ec89e8814a" parent="aspace_cd02359ce301cae9176db11a37be739b" type="folder">3</container></did></c01><c01 id="aspace_ref62_lr6" level="file"><did><unittitle>Robinson Crosue</unittitle><unitdate datechar="creation">1906</unitdate><container id="aspace_330d7c7b6e794e2184933ab86a492056" label="Mixed Materials" type="box">2</container><container id="aspace_750737443b7246d38f62315562caee06" parent="aspace_330d7c7b6e794e2184933ab86a492056" type="folder">4</container></did></c01><c01 id="aspace_ref63_k83" level="file"><did><unittitle>Maria di Rohan</unittitle><unitdate datechar="creation">1911</unitdate><container id="aspace_71a14102c5740025432d27432c107382" label="Mixed Materials" type="box">2</container><container id="aspace_20a5dbaec2ca83c68ba8ac9f1ea949f7" parent="aspace_71a14102c5740025432d27432c107382" type="folder">5</container></did></c01><c01 id="aspace_ref64_t8l" level="file"><did><unittitle>Chopin</unittitle><unitdate datechar="creation">1901</unitdate><container id="aspace_20e02f082950c290177ad884a0f650ae" label="Mixed Materials" type="box">2</container><container id="aspace_d55baa402ea7b6c6b10c1a261cf68fea" parent="aspace_20e02f082950c290177ad884a0f650ae" type="folder">6</container></did></c01><c01 id="aspace_ref65_cd4" level="file"><did><unittitle>Werther</unittitle><unitdate datechar="creation">1903</unitdate><container id="aspace_07156f93ec7ac9c163031be3b8bc8031" label="Mixed Materials" type="box">2</container><container id="aspace_80b14bd786973cda2107f850614ad8e5" parent="aspace_07156f93ec7ac9c163031be3b8bc8031" type="folder">7</container></did></c01><c01 id="aspace_ref66_z3n" level="file"><did><unittitle>Luisa</unittitle><unitdate datechar="creation">1947</unitdate><container id="aspace_9d50063c4ff4ae59c436cfec3c15cb29" label="Mixed Materials" type="box">2</container><container id="aspace_6d3ad4b8450fb2ad261c0f1c2868277c" parent="aspace_9d50063c4ff4ae59c436cfec3c15cb29" type="folder">8</container></did></c01><c01 id="aspace_ref67_u0y" level="file"><did><unittitle>Poliuto</unittitle><unitdate datechar="creation">1912</unitdate><container id="aspace_0eac9b78a704b42454eedfacee6f07b2" label="Mixed Materials" type="box">2</container><container id="aspace_90277f2d26e16ae8daad6ef973a42c7f" parent="aspace_0eac9b78a704b42454eedfacee6f07b2" type="folder">9</container></did></c01><c01 id="aspace_ref68_76z" level="file"><did><unittitle>Linda Di Chamounix</unittitle><unitdate datechar="creation">1931</unitdate><container id="aspace_122662e71f81220e458ce5abc886296e" label="Mixed Materials" type="box">2</container><container id="aspace_a3a310ee667922a16afb391214affe25" parent="aspace_122662e71f81220e458ce5abc886296e" type="folder">10</container></did></c01><c01 id="aspace_ref69_po7" level="file"><did><unittitle>Pirata</unittitle><unitdate datechar="creation">1911</unitdate><container id="aspace_6b54f702522e1eb45ecc6288402578b8" label="Mixed Materials" type="box">2</container><container id="aspace_bba49645b709a54b9fcafaef4f0a6099" parent="aspace_6b54f702522e1eb45ecc6288402578b8" type="folder">11</container></did></c01><c01 id="aspace_ref70_jrt" level="file"><did><unittitle>Mose</unittitle><container id="aspace_7c2cae46c79d207ae73db6ef17161cd8" label="Mixed Materials" type="box">2</container><container id="aspace_a42898b8f2a73e40c55280311be990d8" parent="aspace_7c2cae46c79d207ae73db6ef17161cd8" type="folder">12</container></did></c01><c01 id="aspace_ref71_zkb" level="file"><did><unittitle>La Gazza Ladra</unittitle><unitdate datechar="creation">1932</unitdate><container id="aspace_12a8a237226cce2da93831d3fed9bdcb" label="Mixed Materials" type="box">2</container><container id="aspace_8fae3ee5a0dc34c4bce3bf4d132854a4" parent="aspace_12a8a237226cce2da93831d3fed9bdcb" type="folder">13</container></did></c01><c01 id="aspace_ref72_5fm" level="file"><did><unittitle>Aroldo</unittitle><unitdate datechar="creation">1866-1867</unitdate><container id="aspace_c4b148b1d666caf166b7724757d68576" label="Mixed Materials" type="box">2</container><container id="aspace_4d787462452cf0d428d6b110a649a558" parent="aspace_c4b148b1d666caf166b7724757d68576" type="folder">14</container></did></c01><c01 id="aspace_ref73_yoi" level="file"><did><unittitle>Thais</unittitle><container id="aspace_3dd1be5e3410ef5697912923da69567a" label="Mixed Materials" type="box">2</container><container id="aspace_2c25c71c685c8656d070d932d26062df" parent="aspace_3dd1be5e3410ef5697912923da69567a" type="folder">15</container></did></c01><c01 id="aspace_ref74_uqj" level="file"><did><unittitle>Sadko</unittitle><container id="aspace_2baacab42477be04ec8d53724258006d" label="Mixed Materials" type="box">2</container><container id="aspace_079d3a67d620441b1745f758b5920fc1" parent="aspace_2baacab42477be04ec8d53724258006d" type="folder">16</container></did></c01><c01 id="aspace_ref75_rru" level="file"><did><unittitle>L'Africana</unittitle><unitdate datechar="creation">1911</unitdate><container id="aspace_6369e51dce43f2349b542a16f26158c4" label="Mixed Materials" type="box">2</container><container id="aspace_5d95cc78f2daf941054d4406f501cab1" parent="aspace_6369e51dce43f2349b542a16f26158c4" type="folder">17</container></did></c01><c01 id="aspace_ref76_zp6" level="file"><did><unittitle>L'Ebrea</unittitle><container id="aspace_78a540948111667f4cbd3d955356916f" label="Mixed Materials" type="box">2</container><container id="aspace_6f7f5b63a163796c3b898d7e623a2db9" parent="aspace_78a540948111667f4cbd3d955356916f" type="folder">18</container></did></c01><c01 id="aspace_ref77_d12" level="file"><did><unittitle>L'Italiana In Algeri</unittitle><container id="aspace_ec5b215a3a57c78c72dfe65552c99249" label="Mixed Materials" type="box">2</container><container id="aspace_fdbd40fd91341ca16eff6bdf58025df4" parent="aspace_ec5b215a3a57c78c72dfe65552c99249" type="folder">19</container></did></c01><c01 id="aspace_ref78_xl1" level="file"><did><unittitle>Fra Diavolo</unittitle><container id="aspace_fda61c773caef5d63e18fe6ffde843ae" label="Mixed Materials" type="box">2</container><container id="aspace_db166f036b500810921b5beb6b6d5ea7" parent="aspace_fda61c773caef5d63e18fe6ffde843ae" type="folder">20</container></did></c01><c01 id="aspace_ref79_k43" level="file"><did><unittitle>Il Re Di Lahore</unittitle><unitdate datechar="creation">1878</unitdate><container id="aspace_9b3a04a8d8352fa2abb8d9a3a09f86a2" label="Mixed Materials" type="box">2</container><container id="aspace_0d0bdfab9fec51496c0596e294ca851e" parent="aspace_9b3a04a8d8352fa2abb8d9a3a09f86a2" type="folder">21</container></did></c01><c01 id="aspace_ref80_dwe" level="file"><did><unittitle>L'Angelo Di Fuoco</unittitle><unitdate datechar="creation">1956</unitdate><container id="aspace_225a53c5556cd171e9875ec829c9fc3d" label="Mixed Materials" type="box">2</container><container id="aspace_1137879472d248de29896f1b6813fe20" parent="aspace_225a53c5556cd171e9875ec829c9fc3d" type="folder">22</container></did></c01><c01 id="aspace_ref81_xk2" level="file"><did><unittitle>Gli Ebrei Al Mar Rosso</unittitle><unitdate datechar="creation">1873</unitdate><container id="aspace_f6ff7728da509711d1d8065715db610b" label="Mixed Materials" type="box">2</container><container id="aspace_ab259fdf0b0d8a42456983df15279e5c" parent="aspace_f6ff7728da509711d1d8065715db610b" type="folder">23</container></did></c01><c01 id="aspace_ref82_55x" level="file"><did><unittitle>Sansone E Dalila</unittitle><unitdate datechar="creation">1946</unitdate><container id="aspace_ef2d5dfe0a9b4395ba4009216fef4428" label="Mixed Materials" type="box">2</container><container id="aspace_7a61a9ef20f6e6901cdb0c362f8cd218" parent="aspace_ef2d5dfe0a9b4395ba4009216fef4428" type="folder">24</container></did></c01><c01 id="aspace_ref83_jrq" level="file"><did><unittitle>Faust</unittitle><container id="aspace_f54e5a210f37c978b949d5613ff5b902" label="Mixed Materials" type="box">2</container><container id="aspace_e7c629c3025a37d815850fe26ba60cbc" parent="aspace_f54e5a210f37c978b949d5613ff5b902" type="folder">25</container></did></c01><c01 id="aspace_ref84_2mh" level="file"><did><unittitle>Le Coq D'Or</unittitle><unitdate datechar="creation">1918</unitdate><container id="aspace_65a74af629587628b483e3820d47445d" label="Mixed Materials" type="box">2</container><container id="aspace_58b4d17da448ef2e0ad80cbae8775bc2" parent="aspace_65a74af629587628b483e3820d47445d" type="folder">26</container></did></c01><c01 id="aspace_ref85_ub1" level="file"><did><unittitle>Schwanda</unittitle><unitdate datechar="creation">1931</unitdate><container id="aspace_dacacb3c2a68af634741a90495523919" label="Mixed Materials" type="box">2</container><container id="aspace_6f0a568ecbae1f155a122b54e0affc28" parent="aspace_dacacb3c2a68af634741a90495523919" type="folder">27</container></did><odd id="aspace_5810bd2099e2ca084112df484aad5c09"><head>General note</head><p>English version by Frederick H. Martens</p></odd></c01><c01 id="aspace_ref87_cxp" level="file"><did><unittitle>Simon Boccanegra</unittitle><unitdate datechar="creation">1931</unitdate><container id="aspace_bf8356ffbf8a9c24a793946846fcbd88" label="Mixed Materials" type="box">2</container><container id="aspace_ded56ecb84b0c8540a5de376f8e59dda" parent="aspace_bf8356ffbf8a9c24a793946846fcbd88" type="folder">28</container></did><odd id="aspace_a6d494feeae3fb2490c7722e757d1879"><head>General note</head><p>English translation by Frances Winwar</p></odd></c01><c01 id="aspace_ref89_za8" level="file"><did><unittitle>Cavallerio Rusticana</unittitle><container id="aspace_4d4488d188128ffde82947b0f3ae8cc6" label="Mixed Materials" type="box">2</container><container id="aspace_ddbffba089055968c548f60dff6592a4" parent="aspace_4d4488d188128ffde82947b0f3ae8cc6" type="folder">29</container></did></c01><c01 id="aspace_ref90_7b7" level="file"><did><unittitle>La Boheme</unittitle><unitdate datechar="creation">1898</unitdate><container id="aspace_f73f500c5e2ad667baeb6927f3212424" label="Mixed Materials" type="box">2</container><container id="aspace_fa0058111ebaba524f13eb4f56f87d69" parent="aspace_f73f500c5e2ad667baeb6927f3212424" type="folder">30</container></did></c01><c01 id="aspace_ref91_i0w" level="file"><did><unittitle>Tannhaeuser</unittitle><container id="aspace_6a208c9c22c9d3383a3baebf5c591e76" label="Mixed Materials" type="box">2</container><container id="aspace_25cceef94e2cbfadebba39415b8452f4" parent="aspace_6a208c9c22c9d3383a3baebf5c591e76" type="folder">31</container></did></c01><c01 id="aspace_ref92_yxh" level="file"><did><unittitle>Pelleas and Melisande</unittitle><unitdate datechar="creation">1907</unitdate><container id="aspace_02c74265ce7ac3334932ef461b23429f" label="Mixed Materials" type="box">2</container><container id="aspace_ff530ef71fd97a26374b5a13bf894a60" parent="aspace_02c74265ce7ac3334932ef461b23429f" type="folder">32</container></did><odd id="aspace_98c725f3b6dc827315d363101f4f755e"><head>General note</head><p>taken from the play by Maurice Maeterlinck</p></odd></c01><c01 id="aspace_ref94_sjy" level="file"><did><unittitle>Mefistofele</unittitle><unitdate datechar="creation">1920</unitdate><container id="aspace_d2e48e809f05523784d714f5e80da488" label="Mixed Materials" type="box">2</container><container id="aspace_135a5d8bffff137fb9d376f0d84f6222" parent="aspace_d2e48e809f05523784d714f5e80da488" type="folder">33</container></did></c01><c01 id="aspace_ref95_603" level="file"><did><unittitle>Il Trovatore</unittitle><container id="aspace_aa973a8f62a8271fee9aa02c41acbfa4" label="Mixed Materials" type="box">2</container><container id="aspace_492c046442dc9817893fce7aa3a4f260" parent="aspace_aa973a8f62a8271fee9aa02c41acbfa4" type="folder">34</container></did><odd id="aspace_d6de46a92114fb06b32e08722c38e098"><head>General note</head><p>Book by S. Commarano</p></odd></c01><c01 id="aspace_ref97_2xy" level="file"><did><unittitle>The Flying Dutchman</unittitle><container id="aspace_1cffb4e8f238855d2214c9da1ef7d022" label="Mixed Materials" type="box">2</container><container id="aspace_0541af7dd458b8c3e8fde5247b309665" parent="aspace_1cffb4e8f238855d2214c9da1ef7d022" type="folder">35</container></did></c01><c01 id="aspace_ref98_r1s" level="file"><did><unittitle>Ginevra</unittitle><unitdate datechar="creation">1891</unitdate><container id="aspace_6d1a822a7766d6326cc9fc704a41b1f9" label="Mixed Materials" type="box">2</container><container id="aspace_d6a243b84a6f0b2a72d063b6f0828854" parent="aspace_6d1a822a7766d6326cc9fc704a41b1f9" type="folder">36</container></did></c01></dsc>
+</archdesc>
 </ead>
