@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+  
+  
+  
+  
+  
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf109nb01m" mainagencycode="CLU" publicid="PUBLIC &quot;-//University of California, Los Angeles::Performing Arts Special Collections//TEXT (US::CLU::187::Collection of Librettos)//EN&quot; &quot;libretti.sgm&quot;" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">libretti.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Finding Aid for the Collection of Librettos</titleproper><titleproper type="filing">Collection of Librettos</titleproper>
+        <author>Collection processed and machine-readable finding aid created by UCLA Performing Arts Special Collections staff.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>UCLA Library, Performing Arts Special Collections</publisher>
+        <address><addressline>University of California, Los Angeles, Library</addressline><addressline>Performing Arts Special Collections, Room A1713</addressline><addressline>Charles E. Young Research Library, Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Phone: (310) 825-4988</addressline><addressline>Fax: (310) 206-1864</addressline><addressline>Email: speccoll-paging@library.ucla.edu</addressline><addressline>http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</addressline></address><date calendar="gregorian" era="ce">©  2002</date>
+        <p>The Regents of the University of California. All rights reserved.</p>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>
+            <subject source="cdl">Arts and Humanities--Music</subject>
+          </p>
+        </note>
+      </notestmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid automatically generated from relational database.
+Date of source: <date calendar="gregorian" era="ce">7/27/00</date></creation>
+      <langusage>Description is in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//University of California, Los Angeles::Performing Arts Special Collections//TEXT (US::CLU::187::Collection of Librettos)//EN" "libretti.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Finding Aid of the Collection of Librettos</titleproper>
+      <num>Collection number: 187</num>
+      <publisher>UCLA Library, Performing Arts Special Collections
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>University of California, Los Angeles
+<lb/>Los Angeles, CA</publisher>
+      <list type="simple"><head>Contact Information</head><item>University of California, Los Angeles, Library</item><item>Performing Arts Special Collections, Room A1713</item><item>Charles E. Young Research Library, Box 951575</item><item>Los Angeles, CA 90095-1575</item><item>Phone: (310) 825-4988</item><item>Fax: (310) 206-1864</item><item>Email: speccoll-paging@library.ucla.edu</item><item>URL: http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</item></list><list type="deflist">
+        <defitem>
+          <label>Processed by:</label>
+          <item>UCLA Performing Arts Special Collections staff</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>7/27/00</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>Bryan Griest</item>
+        </defitem>
+      </list>
+      <p>©  2002 The Regents of the University of California. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" id="archdesc-1.3">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Collection of Librettos</unittitle>
+      <unitid label="Collection number" countrycode="US" repositorycode="CLUS">187</unitid>
+      <origination label="Creator"/>
+      <physdesc label="Extent">
+        <extent>1 box (0.5 linear ft.)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname>University of California, Los Angeles. Library. <subarea>Performing Arts Special Collections</subarea></corpname>
+        <address>
+          <addressline>Los Angeles, California 90095-1575</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">This collection consists of published librettos from various sources</abstract>
+      <physloc label="Physical location">Stored off-site at SRLF.
+Advance notice is required for access to the collection.
+Please contact the UCLA Performing Arts Special Collections for paging information.</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp type="admininfo" id="descgrp-1.8.2">
+      <head>Administrative Information</head>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Copyright has not been assigned to the Performing Arts Special Collections. All requests
+for permission to publish or quote from manuscripts must be submitted in
+writing to Performing Arts Special Collections Librarian. Permission for
+publication is given on behalf of Performing Arts Special Collections as the owner of the
+physical items and is not intended to include or imply permission of the
+copyright holder(s), which must also be obtained.</p>
+      </userestrict>
+      <accessrestrict>
+        <head>Restrictions on Access</head>
+        <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+      </accessrestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item],
+Collection of Librettos, 187, Performing Arts Special Collections, University of California, Los Angeles.</p>
+      </prefercite>
+    </descgrp>
+    <scopecontent id="scopecontent-1.8.3">
+      <head>Scope and Content</head>
+      <p>A collection of published librettos from various sources, either published separately or in conjunction with a sound recording.</p>
+    </scopecontent>
+    <dsc type="in-depth" id="dsc-1.8.4" score="1" C-ORDER="1" MAX-C-ORDER="22">
+      <head>Collection Contents</head>
+      <c01 level="file" id="c01-1.8.4.2" score="2" C-ORDER="2">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">1</container>
+          <unittitle>Verdi, Giuseppe.
+Aida.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with Decca recording.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.3" score="2" C-ORDER="4">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">2</container>
+          <unittitle>Puccini, Giacomo.
+Turandot.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with RCA recording.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.4" score="2" C-ORDER="6">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">3</container>
+          <unittitle>Saint-Saëns, Camille.
+Samson et Dalila.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with Angel recording.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.5" score="2" C-ORDER="8">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">4</container>
+          <unittitle>Beethoven, Ludwig van.
+Fidelio.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with Angel recording.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.6" score="2" C-ORDER="10">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">5</container>
+          <unittitle>Verdi, Giuseppe.
+Otello.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with RCA recording. Illustrated with set and
+costume designs from the first production.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.7" score="2" C-ORDER="12">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">6</container>
+          <unittitle>Command performance.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Booklet accompanying a Joan Sutherland. Includes
+aria and song texts. Illustrations from the
+Sutherland/Bonynge collections.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.8" score="2" C-ORDER="14">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">7</container>
+          <unittitle>Wagner, Richard.
+Die Walküre.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with RCA recording. Illustrated with
+costume sketches from the 1896 Bayreuth Festival
+Ring cycle.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.9" score="2" C-ORDER="16">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">8</container>
+          <unittitle>Bellini, Vincenzo.
+La Sonnambula.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with Decca recording.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.10" score="2" C-ORDER="18">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">9</container>
+          <unittitle>Bizet, Georges.
+Carmen.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with Angel recording.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.11" score="2" C-ORDER="20">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">10</container>
+          <unittitle>Puccini, Giacomo.
+La Bohème.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with Angel recording.</p>
+        </scopecontent>
+      </c01>
+      <c01 level="file" id="c01-1.8.4.12" score="2" C-ORDER="22">
+        <did>
+          <container label="Box" type="Box">1</container>
+          <container label="Folder" type="Folder">11</container>
+          <unittitle>Berlioz, Hector.
+Requiem.</unittitle>
+        </did>
+        <scopecontent>
+          <p>Issued with RCA recording. Limited first edition
+of 200 copies. Designed by Albert Skira. Includes
+fine color illustrations of painting with
+religious themes. 2 copies.</p>
+        </scopecontent>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
