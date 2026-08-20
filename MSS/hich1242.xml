@@ -1,0 +1,2921 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="unverified-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt558020sg" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT (US::CLU-SC::1242::Franklin Hichborn Papers)//EN&quot; &quot;hich1242.xml&quot;&#10;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">hich1242.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Franklin Hichborn Papers</titleproper><titleproper type="filing">Hichborn (Franklin) Papers</titleproper>
+ <author>Processed by Manuscripts Division staff</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">© 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Machine-readable finding aid created by ByteManagers using OAC finding aid conversion service specifications.
+Machine-readable finding aid derived from MS Word.
+Date of source: <date calendar="gregorian" era="ce"/></creation>
+ <langusage>
+ <language>English</language>
+ </langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT (US::CLU-SC::1242::Franklin Hichborn Papers)//EN" "hich1242.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Franklin Hichborn Papers</titleproper>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Manuscripts Division staff</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>ByteManagers using OAC finding aid conversion service specifications</item>
+ </defitem>
+ <defitem>
+ <label>Encoding supervision and revision by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Edited by:</label>
+ <item>Josh Fiala, March 2004</item>
+ </defitem>
+ </list>
+ <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Franklin Hichborn Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1869/1964">1869-1964, </unitdate><unitdate calendar="gregorian" era="ce" type="bulk" normal="1890/1940">1890-1940</unitdate>
+ <unitid label="Collection number" repositorycode="CLUSC" countrycode="US">1242</unitid>
+ <origination label="Creator">
+ <persname role="subject" source="aacr2">Hichborn, Franklin, 1868-1964</persname>
+ </origination>
+ <physdesc label="Extent" encodinganalog="300"><extent>332 boxes (166 linear ft.)</extent>
+<extent>13 oversize boxes</extent>
+</physdesc>
+ <repository label="Repository">
+ <corpname source="lcnaf">University of California, Los Angeles. Library.
+Department of Special Collections.</corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Franklin Hichborn (1868-1964) was a legislative reporter in Sacramento for the <title linktype="simple">San Francisco Examiner</title> (1897-1951), a advocate for public ownership of public utilities, and a trustee for the John Randolph Haynes and Dora Haynes Foundation. Boxes 1-184 include correspondence, articles, speeches, reports, financial records, legal records, and clippings related to California politics and the activities of journalist Franklin Hichborn, including the Francisco Graft prosecutions, the Francis J. Heny campaign (1909) and Heney League, the Progressive and Reform movements, Rudolph Spreckles, and the water and power campaign (1924).</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>PARTIALLY PROCESSED COLLECTION UNAVAILABLE FOR USE: except for boxes 1-184. Inquiries regarding these materials should be directed, in writing, to the Manuscripts Librarian, UCLA Department of Special Collections.</p>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <userestrict encodinganalog="540">
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Franklin Hichborn Papers (Collection 1242). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233142">4233142</extref></p>
+</odd>
+ </descgrp>
+ <bioghist encodinganalog="545" id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Hichborn was born in Eureka, California, 1868; legislative reporter, <title linktype="simple">San Francisco Examiner</title>, 1897; covered Sacramento for <title linktype="simple">Examiner</title> until 1951; wrote <title linktype="simple">The story of the California Legislature of 1909</title> as well as subsequent editions in 1911, 1913, 1915, 1921; published <title linktype="simple">The system</title> (1915); advocate for public ownership of public utilities; trustee, John Randolph Haynes and Dora Haynes Foundation; married Mabel Houlton and had three daughters; died December 29, 1963.</p>
+ </bioghist>
+ <scopecontent encodinganalog="520" id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Boxes 1-184 include correspondence, articles, speeches, reports, financial records, legal records, and clippings related to California politics and the activities of journalist Franklin Hichborn, including the Francisco Graft prosecutions, the Francis J. Heny campaign (1909) and Heney League, the Progressive and Reform movements, Rudolph Spreckles, and the water and power campaign (1924).</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the repository's online public access catalog.</p>
+ <persname role="subject" source="aacr2" encodinganalog="600">Hichborn, Franklin, 1868-1964--Archives.</persname>
+ <persname role="subject" source="aacr2" encodinganalog="600">Heney, Francis J. (Francis Joseph), 1859-1937.</persname>
+ <persname role="subject" source="aacr2" encodinganalog="600">Spreckles, Rudolph.</persname>
+ <occupation source="lcsh" encodinganalog="650">Journalists--California--Archival resources.</occupation>
+ <subject source="lcsh" encodinganalog="650">Law--Cases--Archival resources.</subject>
+ <subject source="lcsh" encodinganalog="650">Progressivism (United States politics).</subject>
+ <subject source="lcsh" encodinganalog="650">Public utilities--California.</subject>
+ <geogname source="lcsh" encodinganalog="651">California--Politics and government.</geogname>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6" score="1" C-ORDER="1" MAX-C-ORDER="431">
+ <head>Container List</head>
+ <c01 level="file" id="c01-1.8.6.2" score="1" C-ORDER="2">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <unitid label="Class No.">103/1/6/1</unitid>
+ <unittitle>Miscellaneous; Tax Bill and Budget Hearing, <unitdate calendar="gregorian" era="ce">January 18, 1921.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.3" score="1" C-ORDER="3">
+ <did>
+ <unittitle>Taxation</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.3.2" score="1" C-ORDER="4">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <unitid label="Class No.">103/1/6/2</unitid>
+ <unittitle>California, <unitdate calendar="gregorian" era="ce">1937-1938.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.3" score="1" C-ORDER="5">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <unitid label="Class No.">103/1/6/2</unitid>
+ <unittitle>California.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.4" score="1" C-ORDER="6">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <unitid label="Class No.">103/1/6/2</unitid>
+ <unittitle>New York Tax Exemption Report.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.5" score="1" C-ORDER="7">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <unitid label="Class No.">103/1/6/2</unitid>
+ <unittitle>Power Companies.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.6" score="1" C-ORDER="8">
+ <did>
+ <container type="Box" label="Box">3</container>
+ <unitid label="Class No.">103/1/6/2</unitid>
+ <unittitle>Tax Relief.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.7" score="1" C-ORDER="9">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <unitid label="Class No.">103/1/6/2</unitid>
+ <unittitle>Taxpayers and Property Owners Protective Association.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.4" score="1" C-ORDER="10">
+ <did>
+ <container type="Box" label="Box">2</container>
+ <unittitle>Grant, Harry E. - “The Tax Situation in California.”</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.5" score="1" C-ORDER="11">
+ <did>
+ <unittitle>Miscellaneous California Legislature, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.5.2" score="1" C-ORDER="12">
+ <did>
+ <container type="Box" label="Box">4</container>
+ <unitid label="Class No.">103/1/6/10/11</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1933-34.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.3" score="1" C-ORDER="13">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <unitid label="Class No.">103/1/10/12</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1935.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.6" score="1" C-ORDER="14">
+ <did>
+ <unittitle>San Francisco Graft Prosecution</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.6.2" score="1" C-ORDER="15">
+ <did>
+ <container type="Box" label="Box">5</container>
+ <unitid label="Class No.">103/2/2/3</unitid>
+ <unittitle>San Francisco graft prosecution before the Grand Jury fixing of gas rates.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.3" score="1" C-ORDER="16">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <unitid label="Class No.">103/2/2/4</unitid>
+ <unittitle>San Francisco graft prosecution before the Grand Jury Home telephone (vol.1).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.4" score="1" C-ORDER="17">
+ <did>
+ <container type="Box" label="Box">6</container>
+ <unitid label="Class No.">103/2/3</unitid>
+ <unittitle>State of California <emph render="italic">vs.</emph> Eugene Schmitz.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.5" score="1" C-ORDER="18">
+ <did>
+ <unittitle>State of California <emph render="italic">vs.</emph> Abraham Ruef</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.6.5.2" score="1" C-ORDER="19">
+ <did>
+ <container type="Box" label="Box">7</container>
+ <unitid label="Class No.">103/2/4</unitid>
+ <unittitle>Rueff trial report on Alex Lathan and newspapers.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.6" score="1" C-ORDER="20">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <unitid label="Class No.">103/2/4</unitid>
+ <unittitle>Newspapers, <unitdate calendar="gregorian" era="ce">1906-1907.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.7" score="1" C-ORDER="21">
+ <did>
+ <container type="Box" label="Box">9</container>
+ <unitid label="Class No.">103/2/4</unitid>
+ <unittitle>2 newspapers and clippings.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.8" score="1" C-ORDER="22">
+ <did>
+ <unittitle>[Calhoun Case/Trial]</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.6.8.2" score="1" C-ORDER="23">
+ <did>
+ <container type="Box" label="Box">10</container>
+ <unitid label="Class No.">103/2/5</unitid>
+ <unittitle>Calhoun case.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.3" score="1" C-ORDER="24">
+ <did>
+ <container type="Box" label="Box">10</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 22, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.4" score="1" C-ORDER="25">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <unitid label="Class No.">103/2/5</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">April 23, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.5" score="1" C-ORDER="26">
+ <did>
+ <container type="Box" label="Box">11</container>
+ <unitid label="Class No.">103/2/5</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 4, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.6" score="1" C-ORDER="27">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <unitid label="Class No.">103/2/5</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 13, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.7" score="1" C-ORDER="28">
+ <did>
+ <container type="Box" label="Box">12</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 11, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.8" score="1" C-ORDER="29">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <unitid label="Class No.">103/2/5</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 12, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.9" score="1" C-ORDER="30">
+ <did>
+ <container type="Box" label="Box">13</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 4, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.10" score="1" C-ORDER="31">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unitid label="Class No.">103/2/5</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 7, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.11" score="1" C-ORDER="32">
+ <did>
+ <container type="Box" label="Box">14</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">June 18, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.8.12" score="1" C-ORDER="33">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <unitid label="Class No.">103/2/5</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">November 15, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.9" score="1" C-ORDER="34">
+ <did>
+ <container type="Box" label="Box">15</container>
+ <unitid label="Class No.">103/2/8</unitid>
+ <unittitle>William J. Burns, Chief Investigator.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.10" score="1" C-ORDER="35">
+ <did>
+ <container type="Box" label="Box">16</container>
+ <unitid label="Class No.">103/2/8</unitid>
+ <unittitle>Card files of official letters and correspondence of W.J. Burns.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.11" score="1" C-ORDER="36">
+ <did>
+ <container type="Box" label="Box">17</container>
+ <unitid label="Class No.">103/2/8</unitid>
+ <unittitle>Financial Information (Check stubs, expense account statements).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.12" score="1" C-ORDER="37">
+ <did>
+ <container type="Box" label="Box">18</container>
+ <unitid label="Class No.">103/2/5</unitid>
+ <unittitle>Vote books.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.13" score="1" C-ORDER="38">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <unitid label="Class No.">103/2/9</unitid>
+ <unittitle>Ford case.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.14" score="1" C-ORDER="39">
+ <did>
+ <container type="Box" label="Box">19</container>
+ <unittitle>Ford trial, <unitdate calendar="gregorian" era="ce">October 22, 1907.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.15" score="1" C-ORDER="40">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <unitid label="Class No.">103/2/9</unitid>
+ <unittitle>Ford trial, <unitdate calendar="gregorian" era="ce">October 18, 1907.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.16" score="1" C-ORDER="41">
+ <did>
+ <container type="Box" label="Box">20</container>
+ <unitid label="Class No.">103/2/10</unitid>
+ <unittitle>Glass case, <unitdate calendar="gregorian" era="ce">July 15-16, 1907.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.17" score="1" C-ORDER="42">
+ <did>
+ <container type="Box" label="Box">21</container>
+ <unitid label="Class No.">103/2/10</unitid>
+ <unittitle>Glass case, <unitdate calendar="gregorian" era="ce">July 17-19, 1907.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.18" score="1" C-ORDER="43">
+ <did>
+ <container type="Box" label="Box">21</container>
+ <unitid label="Class No.">103/2/13</unitid>
+ <unittitle>Murphy Name Plate Scandal.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.19" score="1" C-ORDER="44">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <unitid label="Class No.">103/2/15</unitid>
+ <unittitle>Investigation expense accounts, etc., <unitdate calendar="gregorian" era="ce">January-December 1909.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.20" score="1" C-ORDER="45">
+ <did>
+ <unittitle>Names</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.6.20.2" score="1" C-ORDER="46">
+ <did>
+ <container type="Box" label="Box">22</container>
+ <unitid label="Class No.">103/2/14</unitid>
+ <unittitle>Assembly Districts, <unitdate calendar="gregorian" era="ce">1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.21" score="1" C-ORDER="47">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <unittitle>List of investigators.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.22" score="1" C-ORDER="48">
+ <did>
+ <unittitle>Investigators Reports</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.6.22.2" score="1" C-ORDER="49">
+ <did>
+ <container type="Box" label="Box">23</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>William Bottrill, <unitdate calendar="gregorian" era="ce">May 1-April 15, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.3" score="1" C-ORDER="50">
+ <did>
+ <container type="Box" label="Box">24</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>William Bottrill.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.4" score="1" C-ORDER="51">
+ <did>
+ <container type="Box" label="Box">24</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>D.F. Cecil, <unitdate calendar="gregorian" era="ce">June 30, 1906-March 31, 1907.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.5" score="1" C-ORDER="52">
+ <did>
+ <container type="Box" label="Box">25</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>D.F. Cecil, <unitdate calendar="gregorian" era="ce">April 1, 1907-July 23, 1908.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.6" score="1" C-ORDER="53">
+ <did>
+ <container type="Box" label="Box">25</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>Edwin Emerson</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.7" score="1" C-ORDER="54">
+ <did>
+ <container type="Box" label="Box">26</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>William M. Farrell, <unitdate calendar="gregorian" era="ce">November 7-June 7, 1907.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.8" score="1" C-ORDER="55">
+ <did>
+ <container type="Box" label="Box">26</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>E.C. Lange, <unitdate calendar="gregorian" era="ce">March 18-31, 1908.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.9" score="1" C-ORDER="56">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>J.G. Lawlor, <unitdate calendar="gregorian" era="ce">December 6, 1906-October 31, 1907.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.10" score="1" C-ORDER="57">
+ <did>
+ <container type="Box" label="Box">27</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>John McCarthy, <unitdate calendar="gregorian" era="ce">January 4, 1907-December 3, 1908.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.11" score="1" C-ORDER="58">
+ <did>
+ <container type="Box" label="Box">28</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>Peter M. McGee, <unitdate calendar="gregorian" era="ce">October 22-November 25, 1908.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.12" score="1" C-ORDER="59">
+ <did>
+ <container type="Box" label="Box">28</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>R.H. Perry, <unitdate calendar="gregorian" era="ce">May 31-November 30, 1906.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.13" score="1" C-ORDER="60">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>R.H. Perry, <unitdate calendar="gregorian" era="ce">December 1, 1906-August 31, 1907.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.14" score="1" C-ORDER="61">
+ <did>
+ <container type="Box" label="Box">29</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>R.C. Schindler, <unitdate calendar="gregorian" era="ce">June 28, 1907-May 26, 1908.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.15" score="1" C-ORDER="62">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>W.S. Schindler, <unitdate calendar="gregorian" era="ce">August 13, 1907-May 23, 1908.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.16" score="1" C-ORDER="63">
+ <did>
+ <container type="Box" label="Box">30</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>G.S. Spaulding, <unitdate calendar="gregorian" era="ce">October 28, 1906-March 31, 1907.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.17" score="1" C-ORDER="64">
+ <did>
+ <container type="Box" label="Box">31</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>G.S. Spaulding, <unitdate calendar="gregorian" era="ce">April 1-July 31, 1907.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.18" score="1" C-ORDER="65">
+ <did>
+ <container type="Box" label="Box">31</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>E.J. Wiskotchill, <unitdate calendar="gregorian" era="ce">March 1-July 31, 1908.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.22.19" score="1" C-ORDER="66">
+ <did>
+ <container type="Box" label="Box">32</container>
+ <unitid label="Class No.">103/2/16</unitid>
+ <unittitle>E.J. Wiskotchill, <unitdate calendar="gregorian" era="ce">August 1, 1908-August 27, 1909.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.23" score="1" C-ORDER="67">
+ <did>
+ <container type="Box" label="Box">32</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>Trial jurors, <unitdate calendar="gregorian" era="ce">1909.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.24" score="1" C-ORDER="68">
+ <did>
+ <unittitle>Jury Panel</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.6.24.2" score="1" C-ORDER="69">
+ <did>
+ <container type="Box" label="Box">33</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>A.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.24.3" score="1" C-ORDER="70">
+ <did>
+ <container type="Box" label="Box">33</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>B.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.24.4" score="1" C-ORDER="71">
+ <did>
+ <container type="Box" label="Box">34</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>C.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.24.5" score="1" C-ORDER="72">
+ <did>
+ <container type="Box" label="Box">34</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>J.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.24.6" score="1" C-ORDER="73">
+ <did>
+ <container type="Box" label="Box">35</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>K.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.24.7" score="1" C-ORDER="74">
+ <did>
+ <container type="Box" label="Box">35</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>N.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.24.8" score="1" C-ORDER="75">
+ <did>
+ <container type="Box" label="Box">36</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>O.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.24.9" score="1" C-ORDER="76">
+ <did>
+ <container type="Box" label="Box">36</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>W.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.6.24.10" score="1" C-ORDER="77">
+ <did>
+ <container type="Box" label="Box">37</container>
+ <unitid label="Class No.">103/2/17</unitid>
+ <unittitle>Y.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.25" score="1" C-ORDER="78">
+ <did>
+ <container type="Box" label="Box">37</container>
+ <unitid label="Class No.">103/2/18/5</unitid>
+ <unittitle>Graft in Bars, Houses of Prostitution, Dope Rings, and Alms Houses.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.26" score="1" C-ORDER="79">
+ <did>
+ <container type="Box" label="Box">38</container>
+ <unitid label="Class No.">103/2/18/6</unitid>
+ <unittitle>Golden and Sullivan, “The Bunko Kings.”</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.27" score="1" C-ORDER="80">
+ <did>
+ <container type="Box" label="Box">38</container>
+ <unitid label="Class No.">103/2/19</unitid>
+ <unittitle>Chief of Police photographs.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.28" score="1" C-ORDER="81">
+ <did>
+ <container type="Box" label="Box">39</container>
+ <unitid label="Class No.">103/2/19</unitid>
+ <unittitle>Board of Supervisors.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.29" score="1" C-ORDER="82">
+ <did>
+ <container type="Box" label="Box">39</container>
+ <unitid label="Class No.">103/2/19</unitid>
+ <unittitle>Felix Paduvaris Case.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.30" score="1" C-ORDER="83">
+ <did>
+ <container type="Box" label="Box">40</container>
+ <unitid label="Class No.">103/2/19</unitid>
+ <unittitle>Personal statements.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.31" score="1" C-ORDER="84">
+ <did>
+ <container type="Box" label="Box">40</container>
+ <unitid label="Class No.">103/2/19</unitid>
+ <unittitle>Testimony of Fred P. Nicholas.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.32" score="1" C-ORDER="85">
+ <did>
+ <container type="Box" label="Box">41</container>
+ <unitid label="Class No.">103/2/19</unitid>
+ <unittitle>Tracings.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.6.33" score="1" C-ORDER="86">
+ <did>
+ <container type="Box" label="Box">42</container>
+ <unittitle>Heney's campaign speech for Langdon.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.7" score="1" C-ORDER="87">
+ <did>
+ <unittitle>Heney Campaign, <unitdate calendar="gregorian" era="ce">1909</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.7.2" score="1" C-ORDER="88">
+ <did>
+ <container type="Box" label="Box">41</container>
+ <unitid label="Class No.">103/3/2</unitid>
+ <unittitle>Verification blanks.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.3" score="1" C-ORDER="89">
+ <did>
+ <container type="Box" label="Box">42</container>
+ <unitid label="Class No.">103/3/3</unitid>
+ <unittitle>Expense accounts.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.4" score="1" C-ORDER="90">
+ <did>
+ <container type="Box" label="Box">43</container>
+ <unitid label="Class No.">103/3/5</unitid>
+ <unittitle>Checkbook.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.5" score="1" C-ORDER="91">
+ <did>
+ <container type="Box" label="Box">43</container>
+ <unitid label="Class No.">103/3/3</unitid>
+ <unittitle>Account book.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.6" score="1" C-ORDER="92">
+ <did>
+ <container type="Box" label="Box">44</container>
+ <unitid label="Class No.">103/3/7</unitid>
+ <unittitle>Receipts.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.7" score="1" C-ORDER="93">
+ <did>
+ <container type="Box" label="Box">44</container>
+ <unitid label="Class No.">103/3/10</unitid>
+ <unittitle>Membership cards.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.8" score="1" C-ORDER="94">
+ <did>
+ <unittitle>Miscellaneous Agriculture</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.8.2" score="1" C-ORDER="95">
+ <did>
+ <container type="Box" label="Box">45</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.9" score="1" C-ORDER="96">
+ <did>
+ <unittitle>Building Laws</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.9.2" score="1" C-ORDER="97">
+ <did>
+ <container type="Box" label="Box">45</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>San Francisco.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.10" score="1" C-ORDER="98">
+ <did>
+ <unittitle>Miscellaneous</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.10.2" score="1" C-ORDER="99">
+ <did>
+ <container type="Box" label="Box">46</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California Alcoholic Beverage Control Act.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.3" score="1" C-ORDER="100">
+ <did>
+ <container type="Box" label="Box">46</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California Producers and Shippers Association.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.4" score="1" C-ORDER="101">
+ <did>
+ <container type="Box" label="Box">47</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California State Board of Health.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.5" score="1" C-ORDER="102">
+ <did>
+ <unittitle>California Railroad Commission</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.10.5.2" score="1" C-ORDER="103">
+ <did>
+ <container type="Box" label="Box">47</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Press releases, <unitdate calendar="gregorian" era="ce">March 30-May 9, 1922.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.5.3" score="1" C-ORDER="104">
+ <did>
+ <container type="Box" label="Box">48</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Press releases, <unitdate calendar="gregorian" era="ce">May 10-June 23, 1922.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.6" score="1" C-ORDER="105">
+ <did>
+ <container type="Box" label="Box">48</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California Single Tax League.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.7" score="1" C-ORDER="106">
+ <did>
+ <container type="Box" label="Box">49</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California State Budget, <unitdate calendar="gregorian" era="ce">1923-1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.8" score="1" C-ORDER="107">
+ <did>
+ <container type="Box" label="Box">49</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Committee of 48, <unitdate calendar="gregorian" era="ce">1923-1924.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.9" score="1" C-ORDER="108">
+ <did>
+ <container type="Box" label="Box">50</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Committee on Civil Liberties.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.10" score="1" C-ORDER="109">
+ <did>
+ <unittitle>Direct Legislation</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.10.10.2" score="1" C-ORDER="110">
+ <did>
+ <container type="Box" label="Box">50</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>[No further description available].</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.10.3" score="1" C-ORDER="111">
+ <did>
+ <container type="Box" label="Box">51</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Attack on the initiative “People's Anti-Single Tax League.”</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.10.4" score="1" C-ORDER="112">
+ <did>
+ <container type="Box" label="Box">51</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Commonwealth Club.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.11" score="1" C-ORDER="113">
+ <did>
+ <container type="Box" label="Box">52</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Direct Legislation League of California.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.12" score="1" C-ORDER="114">
+ <did>
+ <container type="Box" label="Box">52</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Economic Conditions, California.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.13" score="1" C-ORDER="115">
+ <did>
+ <unittitle>Education</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.10.13.2" score="1" C-ORDER="116">
+ <did>
+ <container type="Box" label="Box">53</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.14" score="1" C-ORDER="117">
+ <did>
+ <unittitle>Elections</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.10.14.2" score="1" C-ORDER="118">
+ <did>
+ <container type="Box" label="Box">53</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California, <unitdate calendar="gregorian" era="ce">1920.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.14.3" score="1" C-ORDER="119">
+ <did>
+ <container type="Box" label="Box">54</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California, <unitdate calendar="gregorian" era="ce">1922.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.14.4" score="1" C-ORDER="120">
+ <did>
+ <container type="Box" label="Box">54</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California, <unitdate calendar="gregorian" era="ce">1934</unitdate> (Progressive Party).</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.14.5" score="1" C-ORDER="121">
+ <did>
+ <container type="Box" label="Box">55</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>California, <unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.14.6" score="1" C-ORDER="122">
+ <did>
+ <container type="Box" label="Box">55</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Massachusetts.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.14.7" score="1" C-ORDER="123">
+ <did>
+ <container type="Box" label="Box">56</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>National, <unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.14.8" score="1" C-ORDER="124">
+ <did>
+ <container type="Box" label="Box">56</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>San Francisco, <unitdate calendar="gregorian" era="ce">1920.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.10.14.9" score="1" C-ORDER="125">
+ <did>
+ <container type="Box" label="Box">57</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>San Francisco, <unitdate calendar="gregorian" era="ce">1921.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.15" score="1" C-ORDER="126">
+ <did>
+ <container type="Box" label="Box">57</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Free Jury League, <unitdate calendar="gregorian" era="ce">1923-24.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.16" score="1" C-ORDER="127">
+ <did>
+ <container type="Box" label="Box">58</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Garrison, J.C.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.17" score="1" C-ORDER="128">
+ <did>
+ <container type="Box" label="Box">58</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Jones, Herbert C.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.18" score="1" C-ORDER="129">
+ <did>
+ <container type="Box" label="Box">59</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle><title linktype="simple">Journal of Electrical Workers</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.19" score="1" C-ORDER="130">
+ <did>
+ <container type="Box" label="Box">59</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>League to Protect the Initiative, <unitdate calendar="gregorian" era="ce">1923-1924.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.20" score="1" C-ORDER="131">
+ <did>
+ <unittitle>Legislation</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.10.20.2" score="1" C-ORDER="132">
+ <did>
+ <container type="Box" label="Box">60</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Revenue Bill, <unitdate calendar="gregorian" era="ce">1921.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.21" score="1" C-ORDER="133">
+ <did>
+ <container type="Box" label="Box">60</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Migrants.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.22" score="1" C-ORDER="134">
+ <did>
+ <container type="Box" label="Box">61</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Milk.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.23" score="1" C-ORDER="135">
+ <did>
+ <container type="Box" label="Box">61</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>National Electric Light Association, <unitdate calendar="gregorian" era="ce">1923.</unitdate> [2].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.24" score="1" C-ORDER="136">
+ <did>
+ <container type="Box" label="Box">62</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>National Electric Light Association, <unitdate calendar="gregorian" era="ce">1923.</unitdate> [3].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.25" score="1" C-ORDER="137">
+ <did>
+ <unittitle>Pacific Gas and Electric</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.10.25.2" score="1" C-ORDER="138">
+ <did>
+ <container type="Box" label="Box">62</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>“Progress,” <unitdate calendar="gregorian" era="ce">1923-1930.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.11" score="1" C-ORDER="139">
+ <did>
+ <unittitle>Panama</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.11.2" score="1" C-ORDER="140">
+ <did>
+ <container type="Box" label="Box">63</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Pacific Exposition [1].</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.12" score="1" C-ORDER="141">
+ <did>
+ <unittitle>Miscellaneous</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.12.2" score="1" C-ORDER="142">
+ <did>
+ <container type="Box" label="Box">63</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Racing Initiative Measure.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.3" score="1" C-ORDER="143">
+ <did>
+ <container type="Box" label="Box">64</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Railroads.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.4" score="1" C-ORDER="144">
+ <did>
+ <unittitle>San Francisco</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.12.4.2" score="1" C-ORDER="145">
+ <did>
+ <container type="Box" label="Box">64</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Bonded Indebtedness, <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.12.4.3" score="1" C-ORDER="146">
+ <did>
+ <container type="Box" label="Box">65</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>City Charter, <unitdate calendar="gregorian" era="ce">1908 and 1928.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.12.4.4" score="1" C-ORDER="147">
+ <did>
+ <container type="Box" label="Box">65</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Pacific Gas and Electric Rates, <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.5" score="1" C-ORDER="148">
+ <did>
+ <container type="Box" label="Box">66</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>San Francisco Port and Harbor.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.6" score="1" C-ORDER="149">
+ <did>
+ <container type="Box" label="Box">66</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Southern Pacific.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.7" score="1" C-ORDER="150">
+ <did>
+ <container type="Box" label="Box">67</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Speech of Charles F. Dole. Subject: Lincoln.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.8" score="1" C-ORDER="151">
+ <did>
+ <container type="Box" label="Box">67</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Transcripts of Trial, McCarty <emph render="italic">vs.</emph> Murphy.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.9" score="1" C-ORDER="152">
+ <did>
+ <container type="Box" label="Box">68</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Uncle Sam's Voters.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.10" score="1" C-ORDER="153">
+ <did>
+ <container type="Box" label="Box">68</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Charlotte Anita Whitney.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.12.11" score="1" C-ORDER="154">
+ <did>
+ <container type="Box" label="Box">69</container>
+ <unitid label="Class No.">103/4</unitid>
+ <unittitle>Edward I. Wolfe.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.13" score="1" C-ORDER="155">
+ <did>
+ <unittitle>Water &amp; Power</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.13.2" score="1" C-ORDER="156">
+ <did>
+ <unittitle>Central Valley</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.13.2.2" score="1" C-ORDER="157">
+ <did>
+ <container type="Box" label="Box">69</container>
+ <unitid label="Class No.">103/5/1/3/1</unitid>
+ <unittitle>Fulsom Dam, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.3" score="1" C-ORDER="158">
+ <did>
+ <container type="Box" label="Box">70</container>
+ <unitid label="Class No.">103/5/1/3/2</unitid>
+ <unittitle>California Fall River Irrigation District.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.4" score="1" C-ORDER="159">
+ <did>
+ <container type="Box" label="Box">70</container>
+ <unitid label="Class No.">103/5/1/4</unitid>
+ <unittitle>Klamath River.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.5" score="1" C-ORDER="160">
+ <did>
+ <container type="Box" label="Box">71</container>
+ <unitid label="Class No.">103/5/1/5</unitid>
+ <unittitle>San Francis Dam.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.6" score="1" C-ORDER="161">
+ <did>
+ <container type="Box" label="Box">71</container>
+ <unitid label="Class No.">103/5/1/7</unitid>
+ <unittitle>Nova Scotia.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.7" score="1" C-ORDER="162">
+ <did>
+ <container type="Box" label="Box">72</container>
+ <unitid label="Class No.">103/5/1/7</unitid>
+ <unittitle>Ontario.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.8" score="1" C-ORDER="163">
+ <did>
+ <container type="Box" label="Box">72</container>
+ <unitid label="Class No.">103/5/1/8</unitid>
+ <unittitle>Public Ownership.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.9" score="1" C-ORDER="164">
+ <did>
+ <container type="Box" label="Box">73</container>
+ <unitid label="Class No.">103/5/1/8</unitid>
+ <unittitle>Public Ownership, <unitdate calendar="gregorian" era="ce">1923-1924.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.10" score="1" C-ORDER="165">
+ <did>
+ <container type="Box" label="Boxes">73-74</container>
+ <unitid label="Class No.">103/5/1/9</unitid>
+ <unittitle>Tennessee Valley Authority.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.11" score="1" C-ORDER="166">
+ <did>
+ <unittitle>California</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.13.11.2" score="1" C-ORDER="167">
+ <did>
+ <container type="Box" label="Box">74</container>
+ <unitid label="Class No.">103/5/1/10</unitid>
+ <unittitle>Metropolitan Water District.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.12" score="1" C-ORDER="168">
+ <did>
+ <container type="Box" label="Box">75</container>
+ <unitid label="Class No.">103/5/1/10</unitid>
+ <unittitle>California State Irrigation Association.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.13" score="1" C-ORDER="169">
+ <did>
+ <unittitle>Giant Power</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.13.13.2" score="1" C-ORDER="170">
+ <did>
+ <container type="Box" label="Box">75</container>
+ <unitid label="Class No.">103/5/1/10</unitid>
+ <unittitle>Pennsylvania.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.14" score="1" C-ORDER="171">
+ <did>
+ <container type="Box" label="Box">76</container>
+ <unitid label="Class No.">103/5/1/10</unitid>
+ <unittitle>Hydro-Electric Company of California.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.15" score="1" C-ORDER="172">
+ <did>
+ <container type="Box" label="Box">76</container>
+ <unitid label="Class No.">103/5/1/10</unitid>
+ <unittitle>Nova Scotia.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.16" score="1" C-ORDER="173">
+ <did>
+ <container type="Box" label="Box">77</container>
+ <unitid label="Class No.">103/5/1/10</unitid>
+ <unittitle>Pacific Coast.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.17" score="1" C-ORDER="174">
+ <did>
+ <container type="Box" label="Box">77</container>
+ <unitid label="Class No.">103/5/1/10</unitid>
+ <unittitle>Rates.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.18" score="1" C-ORDER="175">
+ <did>
+ <container type="Box" label="Box">78</container>
+ <unitid label="Class No.">103/5/1/10</unitid>
+ <unittitle>Rates, Southern California.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.14" score="1" C-ORDER="176">
+ <did>
+ <unittitle>Hetch-Hetchy Power Project</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.14.2" score="1" C-ORDER="177">
+ <did>
+ <container type="Box" label="Box">78</container>
+ <unitid label="Class No.">103/5/2/1/3</unitid>
+ <unittitle>Commonwealth Club of California.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.3" score="1" C-ORDER="178">
+ <did>
+ <container type="Box" label="Box">79</container>
+ <unitid label="Class No.">103/5/2/1/3</unitid>
+ <unittitle>[No further description available].</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.15" score="1" C-ORDER="179">
+ <did>
+ <unittitle>Spring Valley Water Company <emph render="italic">vs.</emph> San Francisco</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.15.2" score="1" C-ORDER="180">
+ <did>
+ <container type="Box" label="Box">79</container>
+ <unitid label="Class No.">103/5/2/2</unitid>
+ <unittitle>Rate Suits, <unitdate calendar="gregorian" era="ce">1903-1906.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.16" score="1" C-ORDER="181">
+ <did>
+ <container type="Box" label="Box">80</container>
+ <unitid label="Class No.">103/5/2/3</unitid>
+ <unittitle>India Basin &amp; Islais Creek Project.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.17" score="1" C-ORDER="182">
+ <did>
+ <container type="Box" label="Box">80</container>
+ <unitid label="Class No.">103/5/2/5</unitid>
+ <unittitle>Clippings on India Creek Basin, <unitdate calendar="gregorian" era="ce">1910</unitdate> [2].</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.18" score="1" C-ORDER="183">
+ <did>
+ <container type="Box" label="Box">81</container>
+ <unitid label="Class No.">103/5/3/1</unitid>
+ <unittitle>Water &amp; Power Campaign Mailing Lists, <unitdate calendar="gregorian" era="ce">1922.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.19" score="1" C-ORDER="184">
+ <did>
+ <container type="Box" label="Box">81</container>
+ <unitid label="Class No.">103/5/3/2</unitid>
+ <unittitle>Water &amp; Power Campaign , Federal Power Commission, <unitdate calendar="gregorian" era="ce">1922.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.20" score="1" C-ORDER="185">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate> Water &amp; Power Campaign</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.20.2" score="1" C-ORDER="186">
+ <did>
+ <container type="Box" label="Box">82</container>
+ <unitid label="Class No.">103/5/3/2</unitid>
+ <unittitle>Financial Statements (rough draft).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.3" score="1" C-ORDER="187">
+ <did>
+ <unittitle>Before Senate Judiciary Committee, <unitdate calendar="gregorian" era="ce">January 30-31, 1923</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.20.3.2" score="1" C-ORDER="188">
+ <did>
+ <container type="Box" label="Box">82</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 30, 1923.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.20.3.3" score="1" C-ORDER="189">
+ <did>
+ <container type="Box" label="Box">83</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">January 31, 1923.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.4" score="1" C-ORDER="190">
+ <did>
+ <container type="Box" label="Box">83</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle>Canada.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.5" score="1" C-ORDER="191">
+ <did>
+ <container type="Box" label="Box">84</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle>Special Senate Committee Investigating Expenditures.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.6" score="1" C-ORDER="192">
+ <did>
+ <container type="Box" label="Box">84</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle>New York State.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.7" score="1" C-ORDER="193">
+ <did>
+ <container type="Box" label="Box">85</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle>News releases for California daily papers.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.8" score="1" C-ORDER="194">
+ <did>
+ <unittitle>Publicity Releases, <unitdate calendar="gregorian" era="ce">1922</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.20.8.2" score="1" C-ORDER="195">
+ <did>
+ <container type="Box" label="Box">85</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">January-March 1922.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.20.8.3" score="1" C-ORDER="196">
+ <did>
+ <container type="Box" label="Box">86</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">March-May 1922.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.9" score="1" C-ORDER="197">
+ <did>
+ <container type="Box" label="Box">87</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle>Views of prominent people on the power question.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.10" score="1" C-ORDER="198">
+ <did>
+ <container type="Box" label="Box">87</container>
+ <unitid label="Class No.">103/5/3/5</unitid>
+ <unittitle>Boulder Canyon Proj ect.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.11" score="1" C-ORDER="199">
+ <did>
+ <container type="Box" label="Box">88</container>
+ <unitid label="Class No.">103/5/3/5</unitid>
+ <unittitle>Colorado River Project.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.20.12" score="1" C-ORDER="200">
+ <did>
+ <container type="Box" label="Box">88</container>
+ <unitid label="Class No.">103/5/4/1</unitid>
+ <unittitle>Financial statements of California cities, rates, etc.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.21" score="1" C-ORDER="201">
+ <did>
+ <unittitle>Water &amp; Power Act, <unitdate calendar="gregorian" era="ce">1922</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.21.2" score="1" C-ORDER="202">
+ <did>
+ <container type="Box" label="Box">86</container>
+ <unitid label="Class No.">103/5/3/3</unitid>
+ <unittitle>Statistical data for Special Senate Committee Investigation.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.22" score="1" C-ORDER="203">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924</unitdate> Water and Power Campaign</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.22.2" score="1" C-ORDER="204">
+ <did>
+ <container type="Box" label="Box">89</container>
+ <unitid label="Class No.">103/5/4/4</unitid>
+ <unittitle>Ledger.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.22.3" score="1" C-ORDER="205">
+ <did>
+ <container type="Box" label="Box">89</container>
+ <unitid label="Class No.">103/5/4/3</unitid>
+ <unittitle>Articles on water and power.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.22.4" score="1" C-ORDER="206">
+ <did>
+ <container type="Box" label="Box">90</container>
+ <unitid label="Class No.">103/5/4/3</unitid>
+ <unittitle>Articles on water and power, author unknown.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.22.5" score="1" C-ORDER="207">
+ <did>
+ <unittitle>Los Angeles</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.22.5.2" score="1" C-ORDER="208">
+ <did>
+ <container type="Box" label="Box">90</container>
+ <unitid label="Class No.">103/5/4/3</unitid>
+ <unittitle>Bureau of Power and Light.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.22.6" score="1" C-ORDER="209">
+ <did>
+ <container type="Box" label="Box">92</container>
+ <unitid label="Class No.">103/5/4/3</unitid>
+ <unittitle>Water power in the province of Ontario, Canada.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.23" score="1" C-ORDER="210">
+ <did>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924</unitdate> Water and Power</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.23.2" score="1" C-ORDER="211">
+ <did>
+ <container type="Box" label="Box">91</container>
+ <unitid label="Class No.">103/5/4/3</unitid>
+ <unittitle>Marshall Plan <unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.23.3" score="1" C-ORDER="212">
+ <did>
+ <container type="Box" label="Box">91</container>
+ <unitid label="Class No.">103/5/4/3</unitid>
+ <unittitle>Water and Power Act Reports <unitdate calendar="gregorian" era="ce">(June 28-October 28, 1924).</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.24" score="1" C-ORDER="213">
+ <did>
+ <unittitle>La Follette Campaign, <unitdate calendar="gregorian" era="ce">1912</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.24.2" score="1" C-ORDER="214">
+ <did>
+ <container type="Box" label="Box">92</container>
+ <unitid label="Class No.">103/6/1</unitid>
+ <unittitle>Nominations campaign [2].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.24.3" score="1" C-ORDER="215">
+ <did>
+ <container type="Box" label="Box">93</container>
+ <unitid label="Class No.">103/6/1</unitid>
+ <unittitle>Nominations campaign [3].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.24.4" score="1" C-ORDER="216">
+ <did>
+ <container type="Box" label="Box">93</container>
+ <unitid label="Class No.">103/6/1</unitid>
+ <unittitle>Miscellaneous Expenditure Sheets.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.24.5" score="1" C-ORDER="217">
+ <did>
+ <container type="Box" label="Box">94</container>
+ <unitid label="Class No.">103/6/2/1</unitid>
+ <unittitle>Vouchers Paid.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.24.6" score="1" C-ORDER="218">
+ <did>
+ <container type="Box" label="Box">94</container>
+ <unitid label="Class No.">103/6/2/1</unitid>
+ <unittitle>Bills for Campaign Literature.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.24.7" score="1" C-ORDER="219">
+ <did>
+ <container type="Box" label="Box">95</container>
+ <unitid label="Class No.">103/6/2/2</unitid>
+ <unittitle>Contribution Letters.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.24.8" score="1" C-ORDER="220">
+ <did>
+ <container type="Box" label="Box">95</container>
+ <unitid label="Class No.">103/6/2/2</unitid>
+ <unittitle>Publicity.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.24.9" score="1" C-ORDER="221">
+ <did>
+ <container type="Box" label="Box">96</container>
+ <unitid label="Class No.">103/6/2/5</unitid>
+ <unittitle>Circulars from National Headquarters.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.25" score="1" C-ORDER="222">
+ <did>
+ <container type="Box" label="Box">96</container>
+ <unitid label="Class No.">103/6/2/6</unitid>
+ <unittitle>La Follette Correspondence, G-I, <unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.26" score="1" C-ORDER="223">
+ <did>
+ <container type="Box" label="Box">97</container>
+ <unitid label="Class No.">103/6/2/6</unitid>
+ <unittitle>La Follette Correspondence, N-R, <unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.27" score="1" C-ORDER="224">
+ <did>
+ <unittitle>La Follette Campaign, <unitdate calendar="gregorian" era="ce">1924</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.27.2" score="1" C-ORDER="225">
+ <did>
+ <container type="Box" label="Box">97</container>
+ <unitid label="Class No.">103/6/2/7</unitid>
+ <unittitle>Women's Division.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.27.3" score="1" C-ORDER="226">
+ <did>
+ <container type="Box" label="Box">98</container>
+ <unitid label="Class No.">103/6/2/7</unitid>
+ <unittitle>Women's Division correspondence.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.27.4" score="1" C-ORDER="227">
+ <did>
+ <container type="Box" label="Box">98</container>
+ <unitid label="Class No.">103/6/2/13</unitid>
+ <unittitle>Miscellaneous [1].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.27.5" score="1" C-ORDER="228">
+ <did>
+ <container type="Box" label="Box">99</container>
+ <unitid label="Class No.">103/6/2/3</unitid>
+ <unittitle>Counties (Card File).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.27.6" score="1" C-ORDER="229">
+ <did>
+ <container type="Box" label="Box">99</container>
+ <unitid label="Class No.">103/6/2/9</unitid>
+ <unittitle>Cancelled checks, old letters.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.28" score="1" C-ORDER="230">
+ <did>
+ <unittitle>La Follette State Finance Committee</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.28.2" score="1" C-ORDER="231">
+ <did>
+ <container type="Box" label="Box">100</container>
+ <unitid label="Class No.">103/6/2/9</unitid>
+ <unittitle>Checkbook.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.29" score="1" C-ORDER="232">
+ <did>
+ <unittitle>La Follette</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.29.2" score="1" C-ORDER="233">
+ <did>
+ <container type="Box" label="Box">100</container>
+ <unitid label="Class No.">103/6/2/10</unitid>
+ <unittitle>Cancelled checks.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.29.3" score="1" C-ORDER="234">
+ <did>
+ <container type="Box" label="Box">101</container>
+ <unittitle>Clubs (Card file).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.29.4" score="1" C-ORDER="235">
+ <did>
+ <container type="Box" label="Box">102</container>
+ <unittitle>Executive and workers (card file).</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.30" score="1" C-ORDER="236">
+ <did>
+ <unittitle>Citizens' League of Justice</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.30.2" score="1" C-ORDER="237">
+ <did>
+ <container type="Box" label="Box">103</container>
+ <unitid label="Class No.">103/6/4</unitid>
+ <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1908.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.30.3" score="1" C-ORDER="238">
+ <did>
+ <container type="Box" label="Box">103</container>
+ <unitid label="Class No.">103/6/4</unitid>
+ <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1908-1909.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.31" score="1" C-ORDER="239">
+ <did>
+ <unittitle>League of Justice</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.31.2" score="1" C-ORDER="240">
+ <did>
+ <container type="Box" label="Box">104</container>
+ <unitid label="Class No.">103/6/4</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1910.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.32" score="1" C-ORDER="241">
+ <did>
+ <unittitle>Miscellaneous</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.32.2" score="1" C-ORDER="242">
+ <did>
+ <container type="Box" label="Box">104</container>
+ <unitid label="Class No.">103/6/4</unitid>
+ <unittitle>Citizens' League of Justice.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.33" score="1" C-ORDER="243">
+ <did>
+ <unittitle>Progressive Movement</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.33.2" score="1" C-ORDER="244">
+ <did>
+ <container type="Box" label="Box">105</container>
+ <unitid label="Class No.">103/6/3</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.34" score="1" C-ORDER="245">
+ <did>
+ <unittitle>Progressive Voters' League</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.34.2" score="1" C-ORDER="246">
+ <did>
+ <container type="Box" label="Box">105</container>
+ <unitid label="Class No.">103/6/3</unitid>
+ <unittitle>Correspondence, I - Z.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.34.3" score="1" C-ORDER="247">
+ <did>
+ <container type="Box" label="Box">106</container>
+ <unitid label="Class No.">103/6/3</unitid>
+ <unittitle>Financial Reports.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.34.4" score="1" C-ORDER="248">
+ <did>
+ <container type="Box" label="Box">106</container>
+ <unitid label="Class No.">103/6/3</unitid>
+ <unittitle>Young, C.C.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.35" score="1" C-ORDER="249">
+ <did>
+ <container type="Box" label="Box">107</container>
+ <unittitle>Official records of the National Commission on Law Observance and Enforcement (5 vols.).</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.36" score="1" C-ORDER="250">
+ <did>
+ <unittitle>Prohibition</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.36.2" score="1" C-ORDER="251">
+ <did>
+ <container type="Box" label="Box">107</container>
+ <unitid label="Class No.">103/6/5/1</unitid>
+ <unittitle>Amendment.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.36.3" score="1" C-ORDER="252">
+ <did>
+ <container type="Box" label="Box">108</container>
+ <unitid label="Class No.">103/6/5/1</unitid>
+ <unittitle>Anti-Saloon League.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.36.4" score="1" C-ORDER="253">
+ <did>
+ <container type="Box" label="Box">108</container>
+ <unitid label="Class No.">103/6/5/1</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1918</unitdate> campaign.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.36.5" score="1" C-ORDER="254">
+ <did>
+ <container type="Box" label="Box">109</container>
+ <unitid label="Class No.">103/6/5/1</unitid>
+ <unittitle>Catholic.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.36.6" score="1" C-ORDER="255">
+ <did>
+ <container type="Box" label="Box">109</container>
+ <unitid label="Class No.">103/6/5/1</unitid>
+ <unittitle>Labor.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.36.7" score="1" C-ORDER="256">
+ <did>
+ <container type="Box" label="Box">110</container>
+ <unitid label="Class No.">103/6/5/1</unitid>
+ <unittitle>Legislative Session, <unitdate calendar="gregorian" era="ce">1919.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.36.8" score="1" C-ORDER="257">
+ <did>
+ <container type="Box" label="Box">110</container>
+ <unitid label="Class No.">103/6/5/1</unitid>
+ <unittitle>Pemberton/Hichborn correspondence.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.36.9" score="1" C-ORDER="258">
+ <did>
+ <container type="Box" label="Box">111</container>
+ <unitid label="Class No.">103/6/5/1</unitid>
+ <unittitle>Petitions.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.36.10" score="1" C-ORDER="259">
+ <did>
+ <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.36.10.2" score="1" C-ORDER="260">
+ <did>
+ <container type="Box" label="Box">111</container>
+ <unitid label="Class No.">103/6/5/2</unitid>
+ <unittitle>B.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.36.10.3" score="1" C-ORDER="261">
+ <did>
+ <container type="Box" label="Box">112</container>
+ <unitid label="Class No.">103/6/5/2</unitid>
+ <unittitle>C.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.36.10.4" score="1" C-ORDER="262">
+ <did>
+ <container type="Box" label="Box">112</container>
+ <unitid label="Class No.">103/6/5/2</unitid>
+ <unittitle>D - E.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.36.10.5" score="1" C-ORDER="263">
+ <did>
+ <container type="Box" label="Box">113</container>
+ <unitid label="Class No.">103/6/5/2</unitid>
+ <unittitle>H.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.36.10.6" score="1" C-ORDER="264">
+ <did>
+ <container type="Box" label="Box">113</container>
+ <unitid label="Class No.">103/6/5/2</unitid>
+ <unittitle>M.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.36.10.7" score="1" C-ORDER="265">
+ <did>
+ <container type="Box" label="Box">114</container>
+ <unitid label="Class No.">103/6/5/2</unitid>
+ <unittitle>N - P.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.36.10.8" score="1" C-ORDER="266">
+ <did>
+ <container type="Box" label="Box">114</container>
+ <unitid label="Class No.">103/6/5/2</unitid>
+ <unittitle>T - V.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.36.10.9" score="1" C-ORDER="267">
+ <did>
+ <container type="Box" label="Box">115</container>
+ <unitid label="Class No.">103/6/5/2</unitid>
+ <unittitle>W - Z.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.37" score="1" C-ORDER="268">
+ <did>
+ <unittitle>Paul Smith</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.37.2" score="1" C-ORDER="269">
+ <did>
+ <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.37.2.2" score="1" C-ORDER="270">
+ <did>
+ <container type="Box" label="Box">115</container>
+ <unitid label="Class No.">103/6/6/1</unitid>
+ <unittitle>A - K, <unitdate calendar="gregorian" era="ce">1917</unitdate> [5].</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.37.2.3" score="1" C-ORDER="271">
+ <did>
+ <container type="Box" label="Box">116</container>
+ <unitid label="Class No.">103/6/6/1</unitid>
+ <unittitle>A - K, <unitdate calendar="gregorian" era="ce">1917</unitdate> [6].</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.37.2.4" score="1" C-ORDER="272">
+ <did>
+ <container type="Box" label="Box">116</container>
+ <unitid label="Class No.">103/6/6/1</unitid>
+ <unittitle>No signature, <unitdate calendar="gregorian" era="ce">1917</unitdate> [7]</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.37.2.5" score="1" C-ORDER="273">
+ <did>
+ <container type="Box" label="Box">117</container>
+ <unitid label="Class No.">103/6/6/1</unitid>
+ <unittitle>No signature, <unitdate calendar="gregorian" era="ce">1917</unitdate> [8]</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.37.3" score="1" C-ORDER="274">
+ <did>
+ <container type="Box" label="Box">117</container>
+ <unitid label="Class No.">103/6/6/2</unitid>
+ <unittitle>Investigators' Reports [11].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.37.4" score="1" C-ORDER="275">
+ <did>
+ <container type="Box" label="Box">118</container>
+ <unitid label="Class No.">103/6/6/2</unitid>
+ <unittitle>Investigators' Reports [12].</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.38" score="1" C-ORDER="276">
+ <did>
+ <unittitle>Redlight Abatement</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.38.2" score="1" C-ORDER="277">
+ <did>
+ <container type="Box" label="Box">118</container>
+ <unitid label="Class No.">103/6/7/1</unitid>
+ <unittitle>American Social Hygiene Association.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.38.3" score="1" C-ORDER="278">
+ <did>
+ <container type="Box" label="Box">119</container>
+ <unitid label="Class No.">103/6/7/1</unitid>
+ <unittitle>American Vigilance Association.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.38.4" score="1" C-ORDER="279">
+ <did>
+ <container type="Box" label="Box">119</container>
+ <unitid label="Class No.">103/6/7/2/1</unitid>
+ <unittitle>Investigation, San Francisco.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.38.5" score="1" C-ORDER="280">
+ <did>
+ <container type="Box" label="Box">120</container>
+ <unitid label="Class No.">103/6/7/2/1</unitid>
+ <unittitle>California.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.38.6" score="1" C-ORDER="281">
+ <did>
+ <container type="Box" label="Box">120</container>
+ <unitid label="Class No.">103/6/7/4</unitid>
+ <unittitle>Correspondence, K - Z, <unitdate calendar="gregorian" era="ce">1914</unitdate> [1].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.38.7" score="1" C-ORDER="282">
+ <did>
+ <container type="Box" label="Box">121</container>
+ <unitid label="Class No.">103/6/7/4</unitid>
+ <unittitle>Correspondence, K - Z, <unitdate calendar="gregorian" era="ce">1914</unitdate> [2].</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.39" score="1" C-ORDER="283">
+ <did>
+ <container type="Box" label="Box">121</container>
+ <unittitle>Congressional Records <unitdate calendar="gregorian" era="ce">1919.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.40" score="1" C-ORDER="284">
+ <did>
+ <unittitle>Heney Club Correspondence, <unitdate calendar="gregorian" era="ce">1909</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.40.2" score="1" C-ORDER="285">
+ <did>
+ <container type="Box" label="Box">122</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle>E, <unitdate calendar="gregorian" era="ce">1909.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.40.3" score="1" C-ORDER="286">
+ <did>
+ <container type="Box" label="Box">123</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle>F, <unitdate calendar="gregorian" era="ce">1909.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.41" score="1" C-ORDER="287">
+ <did>
+ <unittitle>Correspondence, <unitdate calendar="gregorian" era="ce">1909-1938</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.41.2" score="1" C-ORDER="288">
+ <did>
+ <container type="Box" label="Box">123</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1909</unitdate>, I - O [1].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.3" score="1" C-ORDER="289">
+ <did>
+ <container type="Box" label="Box">124</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1909</unitdate>, I - O [2].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.4" score="1" C-ORDER="290">
+ <did>
+ <container type="Box" label="Box">124</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1910</unitdate>, R.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.5" score="1" C-ORDER="291">
+ <did>
+ <container type="Box" label="Box">125</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1910</unitdate>, S.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.6" score="1" C-ORDER="292">
+ <did>
+ <container type="Box" label="Box">125</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1911</unitdate>, O - Z [7].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.7" score="1" C-ORDER="293">
+ <did>
+ <container type="Box" label="Box">126</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1911</unitdate>, O - Z [8].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.8" score="1" C-ORDER="294">
+ <did>
+ <container type="Box" label="Box">126</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1912</unitdate>, M - Z [6].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.9" score="1" C-ORDER="295">
+ <did>
+ <container type="Box" label="Box">127</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1912</unitdate>, M - Z [7].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.10" score="1" C-ORDER="296">
+ <did>
+ <container type="Box" label="Box">127</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1914</unitdate>, G - Ha.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.11" score="1" C-ORDER="297">
+ <did>
+ <container type="Box" label="Box">128</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1914</unitdate>, He - K.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.12" score="1" C-ORDER="298">
+ <did>
+ <container type="Box" label="Box">128</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1915</unitdate>, D.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.13" score="1" C-ORDER="299">
+ <did>
+ <container type="Box" label="Box">129</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1915</unitdate>, E - F.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.14" score="1" C-ORDER="300">
+ <did>
+ <container type="Box" label="Box">129</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1915</unitdate>, R.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.15" score="1" C-ORDER="301">
+ <did>
+ <container type="Box" label="Box">130</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1915</unitdate>, S.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.16" score="1" C-ORDER="302">
+ <did>
+ <container type="Box" label="Box">130</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1916</unitdate>, G - K.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.17" score="1" C-ORDER="303">
+ <did>
+ <container type="Box" label="Box">131</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1916</unitdate>, L - R.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.18" score="1" C-ORDER="304">
+ <did>
+ <container type="Box" label="Box">131</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1917</unitdate>, J - M.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.19" score="1" C-ORDER="305">
+ <did>
+ <container type="Box" label="Box">132</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1917</unitdate>, N - S.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.20" score="1" C-ORDER="306">
+ <did>
+ <container type="Box" label="Box">132</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1918</unitdate>, I - K.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.21" score="1" C-ORDER="307">
+ <did>
+ <container type="Box" label="Box">133</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1918</unitdate>, L.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.22" score="1" C-ORDER="308">
+ <did>
+ <container type="Box" label="Box">133</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1919</unitdate>, M.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.23" score="1" C-ORDER="309">
+ <did>
+ <container type="Box" label="Box">134</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1919</unitdate>, N - R.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.24" score="1" C-ORDER="310">
+ <did>
+ <container type="Box" label="Box">134</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1920</unitdate>, G.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.25" score="1" C-ORDER="311">
+ <did>
+ <container type="Box" label="Box">135</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1920</unitdate>, H.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.26" score="1" C-ORDER="312">
+ <did>
+ <container type="Box" label="Box">135</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1921</unitdate>, B.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.27" score="1" C-ORDER="313">
+ <did>
+ <container type="Box" label="Box">136</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1921</unitdate>, C.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.28" score="1" C-ORDER="314">
+ <did>
+ <container type="Box" label="Box">136</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1921</unitdate>, G [1].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.29" score="1" C-ORDER="315">
+ <did>
+ <container type="Box" label="Box">137</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1921</unitdate>, G [2].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.30" score="1" C-ORDER="316">
+ <did>
+ <container type="Box" label="Box">137</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1921</unitdate>, M - O.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.31" score="1" C-ORDER="317">
+ <did>
+ <container type="Box" label="Box">138</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1921</unitdate>, P - R.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.32" score="1" C-ORDER="318">
+ <did>
+ <container type="Box" label="Box">138</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1921</unitdate>, T - Z.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.33" score="1" C-ORDER="319">
+ <did>
+ <container type="Box" label="Box">139</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, A.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.34" score="1" C-ORDER="320">
+ <did>
+ <container type="Box" label="Box">139</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, B [3].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.35" score="1" C-ORDER="321">
+ <did>
+ <container type="Box" label="Box">140</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, C [1].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.36" score="1" C-ORDER="322">
+ <did>
+ <container type="Box" label="Box">140</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, D [2].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.37" score="1" C-ORDER="323">
+ <did>
+ <container type="Box" label="Box">141</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, D [3].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.38" score="1" C-ORDER="324">
+ <did>
+ <container type="Box" label="Box">141</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, E - F.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.39" score="1" C-ORDER="325">
+ <did>
+ <container type="Box" label="Box">142</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, G.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.40" score="1" C-ORDER="326">
+ <did>
+ <container type="Box" label="Box">142</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, H [3].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.41" score="1" C-ORDER="327">
+ <did>
+ <container type="Box" label="Box">143</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, I - J.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.42" score="1" C-ORDER="328">
+ <did>
+ <container type="Box" label="Box">143</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, M [1].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.43" score="1" C-ORDER="329">
+ <did>
+ <container type="Box" label="Box">144</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, M [2].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.44" score="1" C-ORDER="330">
+ <did>
+ <container type="Box" label="Box">144</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, R.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.45" score="1" C-ORDER="331">
+ <did>
+ <container type="Box" label="Box">145</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, S [1].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.46" score="1" C-ORDER="332">
+ <did>
+ <container type="Box" label="Box">145</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, S [4].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.47" score="1" C-ORDER="333">
+ <did>
+ <container type="Box" label="Box">146</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1922</unitdate>, T - V.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.48" score="1" C-ORDER="334">
+ <did>
+ <container type="Box" label="Box">146</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1923</unitdate>, A - C.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.49" score="1" C-ORDER="335">
+ <did>
+ <container type="Box" label="Box">147</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1923</unitdate>, D - G.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.50" score="1" C-ORDER="336">
+ <did>
+ <container type="Box" label="Box">147</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1923</unitdate>, M - Q.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.51" score="1" C-ORDER="337">
+ <did>
+ <container type="Box" label="Box">148</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1923</unitdate>, R - S.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.52" score="1" C-ORDER="338">
+ <did>
+ <container type="Box" label="Box">148</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924</unitdate>, C.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.53" score="1" C-ORDER="339">
+ <did>
+ <container type="Box" label="Box">149</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924</unitdate>, D.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.54" score="1" C-ORDER="340">
+ <did>
+ <container type="Box" label="Box">149</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924</unitdate>, K.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.55" score="1" C-ORDER="341">
+ <did>
+ <container type="Box" label="Box">150</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924</unitdate>, L - M.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.56" score="1" C-ORDER="342">
+ <did>
+ <container type="Box" label="Box">150</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924</unitdate>, O - R.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.57" score="1" C-ORDER="343">
+ <did>
+ <container type="Box" label="Box">151</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924</unitdate>, S.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.58" score="1" C-ORDER="344">
+ <did>
+ <container type="Box" label="Box">151</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1925</unitdate>, A - F.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.59" score="1" C-ORDER="345">
+ <did>
+ <container type="Box" label="Box">152</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1925</unitdate>, G - H.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.60" score="1" C-ORDER="346">
+ <did>
+ <container type="Box" label="Box">152</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1926</unitdate>, D - G.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.61" score="1" C-ORDER="347">
+ <did>
+ <container type="Box" label="Box">153</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1926</unitdate>, H.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.62" score="1" C-ORDER="348">
+ <did>
+ <container type="Box" label="Box">153</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1927</unitdate>, A - G.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.63" score="1" C-ORDER="349">
+ <did>
+ <container type="Box" label="Box">154</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1927</unitdate>, H - M.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.64" score="1" C-ORDER="350">
+ <did>
+ <container type="Box" label="Box">154</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1928</unitdate>, L - O.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.65" score="1" C-ORDER="351">
+ <did>
+ <container type="Box" label="Box">155</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1928</unitdate>, P - Z.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.66" score="1" C-ORDER="352">
+ <did>
+ <container type="Box" label="Box">155</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1929</unitdate>, R - Z.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.67" score="1" C-ORDER="353">
+ <did>
+ <container type="Box" label="Box">156</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1930</unitdate>, A - G.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.68" score="1" C-ORDER="354">
+ <did>
+ <container type="Box" label="Box">156</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1931</unitdate>, A - J.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.69" score="1" C-ORDER="355">
+ <did>
+ <container type="Box" label="Box">157</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1931</unitdate>, K - R.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.70" score="1" C-ORDER="356">
+ <did>
+ <container type="Box" label="Box">157</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1938</unitdate> [3].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.71" score="1" C-ORDER="357">
+ <did>
+ <container type="Box" label="Box">158</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1938</unitdate> [4].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.72" score="1" C-ORDER="358">
+ <did>
+ <unittitle>Thomas D. Eliot, <unitdate calendar="gregorian" era="ce">1915</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.41.72.2" score="1" C-ORDER="359">
+ <did>
+ <container type="Box" label="Box">158</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">January-March 1915.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.41.72.3" score="1" C-ORDER="360">
+ <did>
+ <container type="Box" label="Box">159</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">April-September 1915.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.73" score="1" C-ORDER="361">
+ <did>
+ <unittitle>John R. Haynes, <unitdate calendar="gregorian" era="ce">1925</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.41.73.2" score="1" C-ORDER="362">
+ <did>
+ <container type="Box" label="Box">159</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">October-December 1925.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.41.73.3" score="1" C-ORDER="363">
+ <did>
+ <container type="Box" label="Box">160</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">January-July 1926</unitdate> [1].</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.74" score="1" C-ORDER="364">
+ <did>
+ <container type="Box" label="Box">160</container>
+ <unittitle>Hichborn to J.C. Garrison, <unitdate calendar="gregorian" era="ce">1925-26.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.75" score="1" C-ORDER="365">
+ <did>
+ <container type="Box" label="Box">161</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle>Hichborn to J.C. Garrison, <unitdate calendar="gregorian" era="ce">1928-1930.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.76" score="1" C-ORDER="366">
+ <did>
+ <container type="Box" label="Box">161</container>
+ <unittitle>Hichborn to John R. Haynes, <unitdate calendar="gregorian" era="ce">September-December, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.77" score="1" C-ORDER="367">
+ <did>
+ <container type="Box" label="Box">162</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle>Hichborn to John Randolph Haynes, <unitdate calendar="gregorian" era="ce">1927.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.78" score="1" C-ORDER="368">
+ <did>
+ <container type="Box" label="Box">162</container>
+ <unittitle>Hichborn to Herbert C. Jones, <unitdate calendar="gregorian" era="ce">1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.79" score="1" C-ORDER="369">
+ <did>
+ <container type="Box" label="Box">163</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle>Hichborn to Herbert C. Jones, <unitdate calendar="gregorian" era="ce">1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.80" score="1" C-ORDER="370">
+ <did>
+ <container type="Box" label="Box">163</container>
+ <unittitle>Hichborn to Charles K. McClatchy, <unitdate calendar="gregorian" era="ce">October 1930-1932, 1934.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.81" score="1" C-ORDER="371">
+ <did>
+ <container type="Box" label="Box">164</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle>Hichborn to John F. Neylan, <unitdate calendar="gregorian" era="ce">1913-15; 1920-23.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.82" score="1" C-ORDER="372">
+ <did>
+ <container type="Box" label="Box">164</container>
+ <unittitle>Hichborn to R. Spreckels, <unitdate calendar="gregorian" era="ce">July-December 1930.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.83" score="1" C-ORDER="373">
+ <did>
+ <container type="Box" label="Box">165</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle>Hichborn to R. Spreckels, <unitdate calendar="gregorian" era="ce">1931/1932, 1934, 1936, 1938.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.84" score="1" C-ORDER="374">
+ <did>
+ <container type="Box" label="Box">165</container>
+ <unittitle>Hichborn to Herbert C. Jones, <unitdate calendar="gregorian" era="ce">1935-37.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.85" score="1" C-ORDER="375">
+ <did>
+ <container type="Box" label="Box">166</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle>Herbert C.Jones, <unitdate calendar="gregorian" era="ce">1938-40.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.86" score="1" C-ORDER="376">
+ <did>
+ <container type="Box" label="Box">166</container>
+ <unittitle>C.K. McClatchy, <unitdate calendar="gregorian" era="ce">1928-29.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.87" score="1" C-ORDER="377">
+ <did>
+ <container type="Box" label="Box">167</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle>V.S. McClatchy, <unitdate calendar="gregorian" era="ce">1927, 1910-1924.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.88" score="1" C-ORDER="378">
+ <did>
+ <unittitle>Spreckels, <unitdate calendar="gregorian" era="ce">1906-1933</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.41.88.2" score="1" C-ORDER="379">
+ <did>
+ <container type="Box" label="Box">167</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1906-1908</unitdate>, B [2].</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.41.88.3" score="1" C-ORDER="380">
+ <did>
+ <container type="Box" label="Box">168</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1906-1908</unitdate>, C [1].</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.41.88.4" score="1" C-ORDER="381">
+ <did>
+ <container type="Box" label="Box">168</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1906-1908</unitdate>, W - Z.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.41.88.5" score="1" C-ORDER="382">
+ <did>
+ <container type="Box" label="Box">169</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1909</unitdate>, A - H.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.41.88.6" score="1" C-ORDER="383">
+ <did>
+ <container type="Box" label="Box">169</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">November-December 1920.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.41.88.7" score="1" C-ORDER="384">
+ <did>
+ <container type="Box" label="Box">170</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">January-April 1921.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.41.88.8" score="1" C-ORDER="385">
+ <did>
+ <container type="Box" label="Box">170</container>
+ <unittitle>To Hichborn, <unitdate calendar="gregorian" era="ce">1931.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.41.88.9" score="1" C-ORDER="386">
+ <did>
+ <container type="Box" label="Box">171</container>
+ <unitid label="Class No.">103/7</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1932-1933.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.41.89" score="2" C-ORDER="387">
+ <did>
+ <container type="Box" label="Box">171</container>
+ <unittitle>[Miscellaneous] Correspondence.</unittitle>
+ </did>
+ <scopecontent>
+ <p>R.H. Young, <unitdate calendar="gregorian" era="ce">1917-1919, 1924.</unitdate></p>
+ <p>Sara Young, <unitdate calendar="gregorian" era="ce">1921.</unitdate></p>
+ <p>S.W. Young, <unitdate calendar="gregorian" era="ce">1919.</unitdate></p>
+ <p>Walter L. Young, <unitdate calendar="gregorian" era="ce">1923.</unitdate></p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.42" score="1" C-ORDER="389">
+ <did>
+ <unittitle>Articles</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.42.2" score="1" C-ORDER="390">
+ <did>
+ <container type="Box" label="Box">172</container>
+ <unitid label="Class No.">103/9</unitid>
+ <unittitle>Hichborn.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.42.3" score="1" C-ORDER="391">
+ <did>
+ <unittitle>Articles, Addresses and Published Letters</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.42.3.2" score="1" C-ORDER="392">
+ <did>
+ <container type="Box" label="Box">172</container>
+ <unitid label="Class No.">103/9</unitid>
+ <unittitle>A - C.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.42.3.3" score="1" C-ORDER="393">
+ <did>
+ <container type="Box" label="Box">173</container>
+ <unitid label="Class No.">103/9</unitid>
+ <unittitle>D - J.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.42.3.4" score="1" C-ORDER="394">
+ <did>
+ <container type="Box" label="Box">173</container>
+ <unitid label="Class No.">103/9</unitid>
+ <unittitle>S.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.43" score="1" C-ORDER="395">
+ <did>
+ <unittitle>Hichborn</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.43.2" score="1" C-ORDER="396">
+ <did>
+ <container type="Box" label="Box">174</container>
+ <unitid label="Class No.">103/9</unitid>
+ <unittitle>Artie Samish.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.44" score="1" C-ORDER="397">
+ <did>
+ <unittitle>Articles by Hichborn</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.44.2" score="1" C-ORDER="398">
+ <did>
+ <container type="Box" label="Box">174</container>
+ <unitid label="Class No.">103/9</unitid>
+ <unittitle><unitdate calendar="gregorian" era="ce">1924</unitdate> Water &amp; Power Campaign, (rough draft).</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.45" score="1" C-ORDER="399">
+ <did>
+ <unittitle>Articles</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.45.2" score="1" C-ORDER="400">
+ <did>
+ <container type="Box" label="Box">175</container>
+ <unitid label="Class No.">103/9</unitid>
+ <unittitle>Hichborn.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.45.3" score="1" C-ORDER="401">
+ <did>
+ <container type="Box" label="Box">176</container>
+ <unitid label="Class No.">103/9</unitid>
+ <unittitle>Hichborn, Plain Talk, May (Book).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.45.4" score="1" C-ORDER="402">
+ <did>
+ <container type="Box" label="Box">177</container>
+ <unitid label="Class No.">103/9</unitid>
+ <unittitle><title linktype="simple">The Case of Thomas J. Mooney and Warren K. Billings</title> (Book).</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.46" score="1" C-ORDER="403">
+ <did>
+ <unittitle>Mooney Case</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.46.2" score="1" C-ORDER="404">
+ <did>
+ <container type="Box" label="Box">177</container>
+ <unitid label="Class No.">103/12</unitid>
+ <unittitle>Correspondence.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.46.3" score="1" C-ORDER="405">
+ <did>
+ <unittitle>Federation of Labor</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.46.3.2" score="1" C-ORDER="406">
+ <did>
+ <container type="Box" label="Box">178</container>
+ <unitid label="Class No.">103/12</unitid>
+ <unittitle>State and National.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.46.4" score="2" C-ORDER="407">
+ <did>
+ <container type="Box" label="Box">178</container>
+ <unittitle>John Randolph Haynes Initiative.</unittitle>
+ </did>
+ <scopecontent>
+ <p>(Loose items from the scrapbook on the initiative)</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.47" score="1" C-ORDER="409">
+ <did>
+ <unittitle>Anton Wagner</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.47.2" score="1" C-ORDER="410">
+ <did>
+ <container type="Box" label="Box">179</container>
+ <unittitle><title linktype="simple">Los Angeles</title> (Translation, <unitdate calendar="gregorian" era="ce">1935</unitdate>).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.47.3" score="1" C-ORDER="411">
+ <did>
+ <container type="Box" label="Box">179</container>
+ <unittitle>Ronald Ray Schmidt, Responses of Non-Negro Renters and Owners in Los Angeles and Orange Counties to the Respect to Ethic Change, <unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.48" score="1" C-ORDER="412">
+ <did>
+ <unittitle>Janice Jaques</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.48.2" score="1" C-ORDER="413">
+ <did>
+ <container type="Box" label="Box">180</container>
+ <unittitle><title linktype="simple">The Political Reform Movement in Los Angeles, 1900-1909</title>.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.49" score="1" C-ORDER="414">
+ <did>
+ <unittitle>Hichborn</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.49.2" score="1" C-ORDER="415">
+ <did>
+ <unittitle>
+ <title linktype="simple">California Politics, 1891-1939</title>
+ </unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.49.2.2" score="1" C-ORDER="416">
+ <did>
+ <container type="Box" label="Box">180</container>
+ <unittitle>vol.1.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.49.2.3" score="1" C-ORDER="417">
+ <did>
+ <container type="Box" label="Box">181</container>
+ <unittitle>vol.2.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.49.2.4" score="1" C-ORDER="418">
+ <did>
+ <container type="Box" label="Box">181</container>
+ <unittitle>vol.3.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.49.2.5" score="1" C-ORDER="419">
+ <did>
+ <container type="Box" label="Box">182</container>
+ <unittitle>vol.4.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.49.3" score="1" C-ORDER="420">
+ <did>
+ <container type="Box" label="Box">182</container>
+ <unittitle>Anton Wagner, <title linktype="simple">Los Angeles</title> (in German).</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.50" score="1" C-ORDER="421">
+ <did>
+ <container type="Box" label="Box">183</container>
+ <unittitle><title linktype="simple">The Quest for Good Government in Los Angeles, 1890-1910</title>, by Clodius.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.51" score="1" C-ORDER="422">
+ <did>
+ <container type="Box" label="Box">183</container>
+ <unittitle>Los Angeles County, California.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.52" score="2" C-ORDER="423">
+ <did>
+ <container type="Box" label="Box">184</container>
+ <unittitle>Heilman, Grace. <title linktype="simple">Early History of the Labor Movement in Los Angeles</title>, <unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>(Original draft)</p>
+ <p>Part 1, chapters 1-8.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.53" score="1" C-ORDER="425">
+ <did>
+ <container type="Box" label="Boxes">185-332</container>
+ <unittitle>Unlisted.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.54" score="1" C-ORDER="426">
+ <did>
+ <container type="Box" label="Boxes">333-335</container>
+ <unittitle>Rudolph Spreckles.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.55" score="1" C-ORDER="427">
+ <did>
+ <container type="Box" label="Box">336</container>
+ <unittitle>Registration Book for Occidental Hotel, <unitdate calendar="gregorian" era="ce">1904.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.56" score="2" C-ORDER="428">
+ <did>
+ <container type="Box" label="Boxes">337- 338</container>
+ <unitid label="Class No.">103/5/4/1</unitid>
+ <unittitle>Water and Power Campaign, <unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Campaign financial reports etc.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.57" score="1" C-ORDER="430">
+ <did>
+ <container type="Box" label="Boxes">339 - 344</container>
+ <unittitle>Card index to Hichborn correspondence.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.58" score="1" C-ORDER="431">
+ <did>
+ <container type="Box" label="Box">345</container>
+ <unittitle>Marine View Terrace Tract. San Mateo Company, California. 3 architectural drawings. </unittitle>
+ <physdesc> One oversize folder (4 items total).</physdesc>
+ </did>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
