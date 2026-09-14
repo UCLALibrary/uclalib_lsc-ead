@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf9x0nb6c2" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library Special Collections//TEXT&#10;(US::CLU::144::Bookplate Collection)//EN&quot; &quot;bookp144.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">bookp144.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Bookplate Collection, 1770-1953</titleproper><titleproper type="filing">Bookplate Collection</titleproper>
+ <author>Processed by Evert Volkersz; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library Special Collections</publisher>
+ <address>
+ <addressline>UCLA Library Special Collections staff</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 1999</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text converted and initial EAD tagging provided by Apex Data Services. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library Special Collections//TEXT
+(US::CLU::144::Bookplate Collection)//EN" "bookp144.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Bookplate Collection, 1770-1953</titleproper>
+ <num>Collection number: 144</num>
+ <publisher>UCLA Library Special Collections
+<lb/>UCLA Library Special Collections staff
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>UCLA Library Special Collections staff</item>
+ <item>UCLA Library Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Evert Volkersz, 24 February 1964</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Text converted and initial container list EAD tagging by:</label>
+ <item>Apex Data Services</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, May 2002</item>
+ </defitem>
+ </list>
+ <p>© 1999 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Bookplate Collection, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1770-1953</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUS">144</unitid>
+ <physdesc label="Extent">
+ <extent>25 boxes (12.5 linear ft.)</extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Library Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of Maurice Thorner, 1953.</p>
+ <p>Collection donated by Thorner originally assembled by Olive Percival. Later additions were made by the UCLA Library
+ Special Collections.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Bookplate Collection (Collection 144). UCLA Library Special Collections, Charles E. Young Research Library.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232708">4232708</extref></p>
+</odd>
+ </descgrp>
+ <scopecontent id="scopecontent-1.8.3">
+ <head>Scope and Content</head>
+ <p>Collection consists of thousands of bookplates from the United States, Europe, Japan, New Zealand, Iran, Russia, and South Africa. Includes several hundred children's bookplates, some highlighted by Kate Greenaway and engravings of Gordon Craig, G.H. Shurtleff, Pixie Harris, and wood block prints of Sheldon Cheney. Also includes works of Thomas Bewick (originator of wood engraving), Maxfield Parrish, Samuel Hollyer, W.W. Garret, Stanley Harrod, Rob Wagner, and W.F. Hopson. Many of the items are mounted, and include proof copies, inscribed copies, original drawings, wood block prints, wood engravings, steel engravings, etchings, and photolithographs.</p>
+ </scopecontent>
+ <arrangement id="arrangement-1.8.4">
+ <head>Organization and Arrangement</head>
+ <p>Collection is arranged alphabetically.</p>
+ </arrangement>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <genreform source="aat" encodinganalog="655">Bookplates.</genreform>
+ <persname encodinganalog="700">Percival, Olive, 1869-1945.</persname>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6" score="3" C-ORDER="1" MAX-C-ORDER="40">
+ <head>Container List</head>
+ <note>
+ <p>This quick inventory was made February 24, 1964 by Evert Volkersz. There appears to be no correspondence or other records available to describe the history of this collection. Neither does the collection itself yield any such information. Some of the correspondence in box 20 dates back to 1942.</p>
+ <p>N.B.- Collection of 1,000 items reported to the <emph render="italic">Subject collections; a guide to special book collections and subject emphases as reported by university, college, public, and special libraries and museums in the United States and Canada,</emph> by Lee Ash.</p>
+ </note>
+ <note>
+ <p>
+ <emph render="italic">Boxes 1-19 all plates are mounted, alphabetically filed by country, and then by designer. Count is very approximate.</emph>
+ </p>
+ </note>
+ <c01 id="c01-1.8.6.4" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>California.</unittitle>
+ <physdesc> 400 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.5" score="1" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>Austria.</unittitle>
+ <physdesc> 350 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.6" score="1" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Belgium.</unittitle>
+ <physdesc> 250 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.7" score="1" C-ORDER="7">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Canada.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.8" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle>England.</unittitle>
+ <physdesc> 200 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.9" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle>France.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.10" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle>Finland.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.11" score="1" C-ORDER="11">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle>Germany.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.12" score="1" C-ORDER="12">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle>Czechoslovakia.</unittitle>
+ <physdesc> 450 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.13" score="1" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle>Czechoslovakia.</unittitle>
+ <physdesc> 200 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.14" score="1" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle>France.</unittitle>
+ <physdesc> 150 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.15" score="1" C-ORDER="15">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle>Hungary.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.16" score="1" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Italy.</unittitle>
+ <physdesc> 300 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.17" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Italy.</unittitle>
+ <physdesc> 250 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.18" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>Japan.</unittitle>
+ <physdesc> 200 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.19" score="1" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>Yugoslavia.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.20" score="1" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>Latvia.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.21" score="1" C-ORDER="21">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <unittitle>Lithuania.</unittitle>
+ <physdesc> 450 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.22" score="1" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <unittitle>Netherlands.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.23" score="1" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <unittitle>New Zealand.</unittitle>
+ <physdesc> 300 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.24" score="1" C-ORDER="24">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <unittitle>Persia.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.25" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <unittitle>Portugal.</unittitle>
+ <physdesc> 250 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.26" score="1" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <unittitle>Rumania.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.27" score="1" C-ORDER="27">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <unittitle>South Africa.</unittitle>
+ <physdesc> 500 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.28" score="1" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <unittitle>Sweden.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.29" score="1" C-ORDER="29">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <unittitle>Switzerland.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.30" score="1" C-ORDER="30">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <unittitle>Russia.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.31" score="1" C-ORDER="31">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <unittitle>U.S. </unittitle>
+ <physdesc> 500 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.32" score="1" C-ORDER="32">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <unittitle>U.S.</unittitle>
+ <physdesc> 300 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.33" score="1" C-ORDER="33">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <unittitle>U.S.</unittitle>
+ <physdesc> 150 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.34" score="1" C-ORDER="34">
+ <did>
+ <container label="Box" type="Box">18</container>
+ <unittitle>U.S.</unittitle>
+ <physdesc> 200 Count.</physdesc>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.35" score="1" C-ORDER="35">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <unittitle>U.S.</unittitle>
+ <physdesc> 250 Count.</physdesc>
+ <note>
+ <p>Total 5650.</p>
+ </note>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.36" score="1" C-ORDER="36">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <unittitle>Unprocessed bookplates, catalogs, reprints and leaflets.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.37" score="1" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <unittitle>Several hundred unprocessed bookplates.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.38" score="1" C-ORDER="38">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <unittitle>Unprocessed bookplates, catalogs, reprints and leaflets.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.39" score="1" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <unittitle>Approximately 100 miscellaneous, mounted bookplates.</unittitle>
+ </did>
+ </c01>
+ <c01 id="c01-1.8.6.40" score="1" C-ORDER="40">
+ <did>
+ <container label="Boxes" type="Box">24-25</container>
+ <unittitle>Unprocessed.</unittitle>
+ </did>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
