@@ -1,0 +1,3381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/ft8f59n980" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::711::Richard H. Dillon papers)//EN" "dillo711.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Richard H. Dillon papers, 1957-</titleproper>
+<titleproper type="filing">Dillon (Richard H.) papers</titleproper>
+<author>Processed by UCLA Library Special Collections staff; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">© 2002</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>The container list for this finding aid was produced using the Archivists' Toolkit, frontmatter and supplementary encoding added via Notetab Pro. Date of source: <date>May 2012</date>.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" id="archdesc-1.2">
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">Richard H. Dillon papers</unittitle>
+<unitdate type="inclusive" normal="1957">1957-</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">711</unitid>
+<origination label="Creator">
+<persname source="lcnaf">Dillon, Richard H.</persname></origination>
+<physdesc label="Extent">
+<extent>137 boxes (68.5 linear ft.)</extent>
+<extent>1 oversize box</extent>
+</physdesc>
+<abstract label="Abstract">Richard Hugh Dillon (1924- ) wrote many articles and books on California. The collection consists of literary manuscripts, correspondence with various publishers, magazine articles, books, speeches, reviews, research materials, royalty statements, photographs, drafts, proofs, ephemera, personal material, and a manuscript by Roger Larson.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+</did>
+<descgrp type="admininfo" id="descgrp-1.2.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Richard H. Dillon papers (Collection 711). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+ <extref href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=" actuate="onrequest" show="new">1217826</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545" id="bioghist-1.2.3">
+<head>Biography</head>
+<p>Richard Hugh Dillon was born January 16, 1924 in Sausalito, California; AB (1948), AM (1949), and BLS (1950), UC Berkeley; assistant librarian (1950-53) and librarian (1953-79), Sutro Library, San Francisco; author of many articles and books on California, including: <title linktype="simple">California Trail Herd</title> (1961), <title linktype="simple">The Legend of Grizzly Adams</title> (1966), <title linktype="simple">Fool's Gold: The Biography of John Sutter</title> (1967), <title linktype="simple">Humbugs and Heroes: a Gallery of California Pioneers</title> (1970), and <title linktype="simple">Delta Country</title> (1982).</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
+<head>Scope and Content</head>
+<p>Collection consists mostly of literary manuscripts, including Dillon's editing of the reminiscences of Benjamin Butler Harris. Also includes correspondence with Lawrence Clark Powell and various publishers. Includes magazine articles, books, speeches, reviews, research materials, royalty statements, photographs, drafts, proofs, ephemera, personal material, and a manuscript by Roger Larson.</p>
+</scopecontent>
+<controlaccess id="controlaccess-1.2.5">
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname source="lcnaf" encodinganalog="600" role="subject">Dillon, Richard H.--Archives.</persname>
+ <subject source="lcsh" encodinganalog="650">Historians--California--Archival resources.</subject>
+ <occupation source="lcsh" encodinganalog="650">Librarians--California--Archival resources.</occupation>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Manuscripts for publication.</genreform>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<dsc type="in-depth" id="dsc-1.2.6" score="1" C-ORDER="1" MAX-C-ORDER="504">
+<head>Container List</head>
+<c01 id="ref11" level="file" score="2" C-ORDER="2">
+<did>
+<unittitle>Harris, Benjamin Butler. 
+<title>The Gila Trail</title>. Edited by Richard H. Dillon. Mill Valley, California.</unittitle>
+<container id="cid5719039" type="Box" label="Box">2</container>
+<unitdate>December 11, 1957.</unitdate>
+<physdesc id="ref12" label="General Physical Description note">290pp. 1 folder. Typescript with corrections in pencil by the editor.</physdesc>
+</did>
+<scopecontent id="ref13">
+<p>Title page bears previous title: Texas Argonauts, the Reminiscenses of Benjamin Butler Harris of Panola County, Texas and divers California diggins.</p>
+</scopecontent>
+</c01>
+<c01 id="ref14" level="file" score="1" C-ORDER="4">
+<did>
+<unittitle>Harris, Benjamin Butler, 1824-1897. 
+<title>The Gila Trail</title>. Edited and annotated by Richard H. Dillon. Norman: University of Oklahoma Press,</unittitle>
+<container id="cid5719038" type="Box" label="Box">1</container>
+<unitdate>1960.</unitdate>
+<physdesc id="ref15">55 sheets. 1 folder. Galley proofs with corrections by the editor in pencil.</physdesc>
+</did>
+</c01>
+<c01 id="ref16" level="file" score="2" C-ORDER="5">
+<did>
+<unittitle>Harris, Benjamin Butler, 1824-1897. 
+<title>The Gila Trail</title>. [Edited by Richard H. Dillon] Mill Valley, California.</unittitle>
+<container id="cid5719037" type="Box" label="Box">2</container>
+<unitdate>August 21, 1960.</unitdate>
+<physdesc id="ref17">253pp. 1 folder. Typescript with holograph corrections in ink and pencil.</physdesc>
+</did>
+<scopecontent id="ref18">
+<p>Original date, December 31, 1957, had been crossed out and the date August 21, 1960 added. Presumably prepared for publishing by the University of Oklahoma Press.</p>
+</scopecontent>
+</c01>
+<c01 id="ref19" level="file" score="2" C-ORDER="7">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>Embarcadero</title>. Mill Valley, California,</unittitle>
+<container id="cid5719036" type="Box" label="Box">1</container>
+<unitdate>n.d.</unitdate>
+<physdesc id="ref20">500pp. Revised typescript with corrections and publisher's directions for printer, in holograph, pencil.</physdesc>
+</did>
+<scopecontent id="ref21">
+<p>Foreword by William Hogan.</p>
+</scopecontent>
+</c01>
+<c01 id="ref22" level="file" score="1" C-ORDER="9">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>Embarcadero</title>. New York: Coward-McCann, Incorporated,</unittitle>
+<container id="cid5719035" type="Box" label="Box">1</container>
+<unitdate>1959.</unitdate>
+<physdesc id="ref23">107 sheets. 1 folder. First galley proof with holograph corrections and notations.</physdesc>
+</did>
+</c01>
+<c01 id="ref24" level="file" score="1" C-ORDER="10">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>Embarcadero</title>. New York: Coward-McCann, Incorporated,</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc id="ref25">78 sheets. 1 folder. Page proofs with holograph notations.</physdesc>
+</did>
+</c01>
+<c01 id="ref26" level="file" score="2" C-ORDER="11">
+<did>
+<unittitle>Dillon, Richard Hugh. Correspondence with: Lawrence C. Powell, University of California, Los Angeles.</unittitle>
+<container id="cid5719034" type="Box" label="Box">2</container>
+</did>
+<scopecontent id="ref27">
+<p>Various publishing houses.</p>
+</scopecontent>
+</c01>
+<c01 id="ref28" level="file" score="1" C-ORDER="13">
+<did>
+<unittitle>Loveland, Cyrus C. 
+<title>California Trail Herd, the 1850 Missouri-to-California Journal</title>; edited and annotated by Richard H. Dillon. Mill Valley, 
+<emph render="italic">ca.</emph> Los Gatos, California: Talismen Press, 1961.</unittitle>
+<container id="cid5719033" type="Box" label="Box">2</container>
+<unitdate>1960.</unitdate>
+<physdesc id="ref29">Manuscript and typescript (printer's copy).</physdesc>
+</did>
+</c01>
+<c01 id="ref30" level="file" score="2" C-ORDER="14">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>The Hatchet Men</title>. Mill Valley, California, 
+<emph render="italic">ca.</emph></unittitle>
+<container id="cid5719032" type="Box" label="Boxes">3-4</container>
+<unitdate>1961.</unitdate>
+<physdesc id="ref31">Manuscripts, typescripts (printer's copy), galley proofs, notes, and correspondence.</physdesc>
+</did>
+<scopecontent id="ref32">
+<p>First published by New York: Coward-McCann. 1962.</p>
+</scopecontent>
+</c01>
+<c01 id="ref33" level="file" score="2" C-ORDER="16">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>Shanghaiing Days</title>. Mill Valley, California, 
+<emph render="italic">ca.</emph></unittitle>
+<container id="cid5719031" type="Box" label="Box">5</container>
+<unitdate>1960.</unitdate>
+<physdesc id="ref34">Manuscript, typescript (printer's copy), notes, and correspondence.</physdesc>
+</did>
+<scopecontent id="ref35">
+<p>New York: Coward-McCann, 1961.</p>
+</scopecontent>
+</c01>
+<c01 id="ref36" level="file" score="2" C-ORDER="18">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>Bay Area Bookman</title>. Mill Valley, California, 
+<emph render="italic">ca.</emph></unittitle>
+<container id="cid5719030" type="Box" label="Box">6</container>
+<unitdate>1961.</unitdate>
+<physdesc id="ref37">Manuscript and typescript (carbon).</physdesc>
+</did>
+<scopecontent id="ref38">
+<p>Published by the California Library Association, Berkeley, 1961. A revised and retitled 3rd edition of...Books and browsing in San Francisco, first published in 1958.</p>
+</scopecontent>
+</c01>
+<c01 id="ref39" level="file" score="2" C-ORDER="20">
+<did>
+<unittitle>Dillon, Richard Hugh. Introduction to Samuel Hartlib's 1641 pamphlet, 
+<title>A Description of the Famous Kingdom of Macria...</title>. Mill Valley, 
+<emph render="italic">ca.</emph></unittitle>
+<container id="cid5719029" type="Box" label="Box">6</container>
+<unitdate>1961.</unitdate>
+<physdesc id="ref40">Typescript (carbon).</physdesc>
+</did>
+<scopecontent id="ref41">
+<p>Published by Wallace Kibbes, The Village Press, Corte Madera, California, 1961.</p>
+</scopecontent>
+</c01>
+<c01 id="ref42" level="file" score="1" C-ORDER="22">
+<did>
+<unittitle>Dillon, Richard Hugh. Correspondence.</unittitle>
+<container id="cid5719028" type="Box" label="Box">6</container>
+</did>
+</c01>
+<c01 id="ref43" level="file" score="1" C-ORDER="23">
+<did>
+<unittitle>Dillon, Richard Hugh. Correspondence, A-L.</unittitle>
+<container id="cid5719027" type="Box" label="Box">7</container>
+</did>
+</c01>
+<c01 id="ref44" level="file" score="1" C-ORDER="24">
+<did>
+<unittitle>Dillon, Richard Hugh. Correspondence, M-Z.</unittitle>
+<container id="cid5719026" type="Box" label="Box">8</container>
+</did>
+</c01>
+<c01 id="ref45" level="file" score="1" C-ORDER="25">
+<did>
+<unittitle>Dillon, Richard Hugh. Miscellaneous manuscripts, arranged alphabetically.</unittitle>
+<container id="cid5718963" type="Box" label="Box">9</container>
+<physdesc id="ref46">70 items.</physdesc>
+</did>
+<c02 id="ref47" level="item" score="1" C-ORDER="26">
+<did>
+<unittitle>
+    <title>The A.B. Gray Report</title>. [review].</unittitle>
+<container id="cid5719025" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref48" level="item" score="1" C-ORDER="27">
+<did>
+<unittitle>
+    <title>Adventures of Grizzly Adams</title>.</unittitle>
+<container id="cid5719024" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref49" level="item" score="1" C-ORDER="28">
+<did>
+<unittitle>Alcatraz Letters of Lieutenant James B. McPherson.</unittitle>
+<container id="cid5719023" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref50" level="item" score="1" C-ORDER="29">
+<did>
+<unittitle>
+    <title>All Aboard for Australia!</title></unittitle>
+<container id="cid5719022" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref51" level="item" score="1" C-ORDER="30">
+<did>
+<unittitle>
+    <title>Alone Across the Pacific</title>.</unittitle>
+<container id="cid5719021" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref52" level="item" score="1" C-ORDER="31">
+<did>
+<unittitle>
+    <title>Back Door to the Pinnacles</title>.</unittitle>
+<container id="cid5719020" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref53" level="item" score="1" C-ORDER="32">
+<did>
+<unittitle>
+    <title>Bay Area Bookman</title>.</unittitle>
+<container id="cid5719019" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref54" level="item" score="1" C-ORDER="33">
+<did>
+<unittitle>
+    <title>The Best Side Trip I Ever Took</title>.</unittitle>
+<container id="cid5719018" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref55" level="item" score="1" C-ORDER="34">
+<did>
+<unittitle>
+    <title>Bound for Bashan</title>.</unittitle>
+<container id="cid5719017" type="Box" label="Box">9</container>
+<physdesc id="ref56">(2 copies).</physdesc>
+</did>
+</c02>
+<c02 id="ref57" level="item" score="1" C-ORDER="35">
+<did>
+<unittitle>
+    <title>Bully Hayes's First Shipwreck</title>.</unittitle>
+<container id="cid5719016" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref58" level="item" score="1" C-ORDER="36">
+<did>
+<unittitle>
+    <title>Bully Hayes's Last Voyage</title>.</unittitle>
+<container id="cid5719015" type="Box" label="Box">9</container>
+<physdesc id="ref59">(2 copies).</physdesc>
+</did>
+</c02>
+<c02 id="ref60" level="item" score="1" C-ORDER="37">
+<did>
+<unittitle>
+    <title>Bully Waterman</title>.</unittitle>
+<container id="cid5719014" type="Box" label="Box">9</container>
+<physdesc id="ref61">(2 copies).</physdesc>
+</did>
+</c02>
+<c02 id="ref62" level="item" score="1" C-ORDER="38">
+<did>
+<unittitle>
+    <title>California's Crookedest Mountain</title>.</unittitle>
+<container id="cid5719013" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref63" level="item" score="1" C-ORDER="39">
+<did>
+<unittitle>
+    <title>California's First Millionaire</title>.</unittitle>
+<container id="cid5719012" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref64" level="item" score="1" C-ORDER="40">
+<did>
+<unittitle>
+    <title>California's Hawaiian Pioneer</title>.</unittitle>
+<container id="cid5719011" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref65" level="item" score="1" C-ORDER="41">
+<did>
+<unittitle>
+    <title>California's Mystery Wine</title>.</unittitle>
+<container id="cid5719010" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref66" level="item" score="1" C-ORDER="42">
+<did>
+<unittitle>
+    <title>California's Pirate-Rustler</title>.</unittitle>
+<container id="cid5719009" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref67" level="item" score="1" C-ORDER="43">
+<did>
+<unittitle>
+    <title>Comstock Coyote Hole</title>.</unittitle>
+<container id="cid5719008" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref68" level="item" score="1" C-ORDER="44">
+<did>
+<unittitle>
+    <title>Counted Among the Missing</title>.</unittitle>
+<container id="cid5719007" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref69" level="item" score="1" C-ORDER="45">
+<did>
+<unittitle>
+    <title>Crusoes of Pitcairn's Island</title>.</unittitle>
+<container id="cid5719006" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref70" level="item" score="1" C-ORDER="46">
+<did>
+<unittitle>
+    <title>The Death of Pernia</title>.</unittitle>
+<container id="cid5719005" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref71" level="item" score="1" C-ORDER="47">
+<did>
+<unittitle>
+    <title>A Devil of a Looking Miner</title>.</unittitle>
+<container id="cid5719004" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref72" level="item" score="1" C-ORDER="48">
+<did>
+<unittitle>
+    <title>The Devil's Backbone</title> [review].</unittitle>
+<container id="cid5719003" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref73" level="item" score="1" C-ORDER="49">
+<did>
+<unittitle>
+    <title>Drake's Bay and Whale Beach</title>.</unittitle>
+<container id="cid5719002" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref74" level="item" score="1" C-ORDER="50">
+<did>
+<unittitle>
+    <title>Eccentric Torpedoes</title>.</unittitle>
+<container id="cid5719001" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref75" level="item" score="1" C-ORDER="51">
+<did>
+<unittitle>
+    <title>Embarcadero</title>.</unittitle>
+<container id="cid5719000" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref76" level="item" score="1" C-ORDER="52">
+<did>
+<unittitle>
+    <title>Escape From Alcatraz</title> [review].</unittitle>
+<container id="cid5718999" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref77" level="item" score="1" C-ORDER="53">
+<did>
+<unittitle>
+    <title>Eternity's Shore</title>.</unittitle>
+<container id="cid5718998" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref78" level="item" score="1" C-ORDER="54">
+<did>
+<unittitle>
+    <title>The Faces of Chinatown</title>.</unittitle>
+<container id="cid5718997" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref79" level="item" score="1" C-ORDER="55">
+<did>
+<unittitle>
+    <title>The Free China - Last of a Long Line</title>.</unittitle>
+<container id="cid5718996" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref80" level="item" score="1" C-ORDER="56">
+<did>
+<unittitle>
+    <title>Fremont's Bluff</title>.</unittitle>
+<container id="cid5718995" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref81" level="item" score="1" C-ORDER="57">
+<did>
+<unittitle>
+    <title>Frisco's Millionaire Filibusterer</title>.</unittitle>
+<container id="cid5718994" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref82" level="item" score="1" C-ORDER="58">
+<did>
+<unittitle>
+    <title>A German Boswell</title>.</unittitle>
+<container id="cid5718993" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref83" level="item" score="1" C-ORDER="59">
+<did>
+<unittitle>
+    <title>Gold Bluffs and Fern Canyon</title>.</unittitle>
+<container id="cid5718992" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref84" level="item" score="1" C-ORDER="60">
+<did>
+<unittitle>
+    <title>A Gull's-Eye View of San Diego</title>.</unittitle>
+<container id="cid5718991" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref85" level="item" score="1" C-ORDER="61">
+<did>
+<unittitle>
+    <title>Hale Tharp's Noble Den</title>.</unittitle>
+<container id="cid5718990" type="Box" label="Box">9</container>
+<physdesc id="ref86">(3 copies).</physdesc>
+</did>
+</c02>
+<c02 id="ref87" level="item" score="1" C-ORDER="62">
+<did>
+<unittitle>
+    <title>Hurricane Ridge</title>.</unittitle>
+<container id="cid5718989" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref88" level="item" score="1" C-ORDER="63">
+<did>
+<unittitle>
+    <title>Island Paradise - Family Style</title>.</unittitle>
+<container id="cid5718988" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref89" level="item" score="1" C-ORDER="64">
+<did>
+<unittitle>
+    <title>Junks and Sampans in American Waters</title>.</unittitle>
+<container id="cid5718987" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref90" level="item" score="1" C-ORDER="65">
+<did>
+<unittitle>
+    <title>Klamath Ambush</title>.</unittitle>
+<container id="cid5718986" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref91" level="item" score="1" C-ORDER="66">
+<did>
+<unittitle>
+    <title>Lonely Voyage</title>.</unittitle>
+<container id="cid5718985" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref92" level="item" score="1" C-ORDER="67">
+<did>
+<unittitle>
+    <title>M.L. [Meriwether Lewis], M[anuel] Lisa, and the Santa Fe Trial</title>.</unittitle>
+<container id="cid5718984" type="Box" label="Box">9</container>
+<physdesc id="ref93">(2 copies).</physdesc>
+</did>
+</c02>
+<c02 id="ref94" level="item" score="1" C-ORDER="68">
+<did>
+<unittitle>
+    <title>Meriwether Lewis's Servant</title>.</unittitle>
+<container id="cid5718983" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref95" level="item" score="1" C-ORDER="69">
+<did>
+<unittitle>
+    <title>The Mysterious Death of Meriwether Lewis</title>.</unittitle>
+<container id="cid5718982" type="Box" label="Box">9</container>
+<physdesc id="ref96">(3 copies).</physdesc>
+</did>
+</c02>
+<c02 id="ref97" level="item" score="1" C-ORDER="70">
+<did>
+<unittitle>
+    <title>19th century Wine Proverbs</title>.</unittitle>
+<container id="cid5718981" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref98" level="item" score="1" C-ORDER="71">
+<did>
+<unittitle>
+    <title>No Bed of Oysters</title>.</unittitle>
+<container id="cid5718980" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref99" level="item" score="1" C-ORDER="72">
+<did>
+<unittitle>
+    <title>Pacific Junk Crossings</title>.</unittitle>
+<container id="cid5718979" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref100" level="item" score="1" C-ORDER="73">
+<did>
+<unittitle>
+    <title>Pond Farm</title>.</unittitle>
+<container id="cid5718978" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref101" level="item" score="1" C-ORDER="74">
+<did>
+<unittitle>
+    <title>Sacramento Gold Boat</title>.</unittitle>
+<container id="cid5718977" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref102" level="item" score="1" C-ORDER="75">
+<did>
+<unittitle>
+    <title>San Francisco's Colossal Bore</title>.</unittitle>
+<container id="cid5718976" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref103" level="item" score="1" C-ORDER="76">
+<did>
+<unittitle>
+    <title>San Francisco's Kanaka Pioneer</title>.</unittitle>
+<container id="cid5718975" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref104" level="item" score="1" C-ORDER="77">
+<did>
+<unittitle>
+    <title>Snowshoe Hiking</title>.</unittitle>
+<container id="cid5718974" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref105" level="item" score="1" C-ORDER="78">
+<did>
+<unittitle>
+    <title>Soloing the Pacific</title>.</unittitle>
+<container id="cid5718973" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref106" level="item" score="1" C-ORDER="79">
+<did>
+<unittitle>
+    <title>Sutro's Coyote Hole.</title></unittitle>
+<container id="cid5718972" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref107" level="item" score="1" C-ORDER="80">
+<did>
+<unittitle>
+    <title>Tesla and Tassajara</title>.</unittitle>
+<container id="cid5718971" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref108" level="item" score="1" C-ORDER="81">
+<did>
+<unittitle>
+    <title>The Three Ages of Chinatown</title>.</unittitle>
+<container id="cid5718970" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref109" level="item" score="1" C-ORDER="82">
+<did>
+<unittitle>
+    <title>To California By Junk</title>.</unittitle>
+<container id="cid5718969" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref110" level="item" score="1" C-ORDER="83">
+<did>
+<unittitle>
+    <title>Trans-Pacific Junks</title>.</unittitle>
+<container id="cid5718968" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref111" level="item" score="1" C-ORDER="84">
+<did>
+<unittitle>
+    <title>Two Civil War Stragglers</title>.</unittitle>
+<container id="cid5718967" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref112" level="item" score="1" C-ORDER="85">
+<did>
+<unittitle>
+    <title>Vancouver's Pinnacles</title>.</unittitle>
+<container id="cid5718966" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref113" level="item" score="1" C-ORDER="86">
+<did>
+<unittitle>
+    <title>Wells Fargo's Gold Boat</title>.</unittitle>
+<container id="cid5718965" type="Box" label="Box">9</container>
+</did>
+</c02>
+<c02 id="ref114" level="item" score="1" C-ORDER="87">
+<did>
+<unittitle>
+    <title>A Wheel of Fortune</title>.</unittitle>
+<container id="cid5718964" type="Box" label="Box">9</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref115" level="file" score="1" C-ORDER="88">
+<did>
+<unittitle>Dillon, Richard Hugh. Miscellaneous manuscripts, untitled.</unittitle>
+<container id="cid5718962" type="Box" label="Box">9</container>
+<physdesc id="ref116">5 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref117" level="file" score="1" C-ORDER="89">
+<did>
+<unittitle>Dillon, Richard Hugh. Miscellaneous notes, advertisements, etc.</unittitle>
+<container id="cid5718961" type="Box" label="Box">9</container>
+<physdesc id="ref118">47 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref119" level="file" score="1" C-ORDER="90">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>Dragoons and Seminoles</title>. Original manuscript (first draft) of Journal only.</unittitle>
+<container id="cid5718960" type="Box" label="Box">10</container>
+</did>
+</c01>
+<c01 id="ref120" level="file" score="2" C-ORDER="91">
+<did>
+<unittitle>Hunter, W. Journal.</unittitle>
+<container id="cid5718959" type="Box" label="Box">10</container>
+<physdesc id="ref121">Photocopy. 2 envelopes.</physdesc>
+</did>
+<scopecontent id="ref122">
+<p>This was the base for Dragoons and Seminoles, by Dillon.</p>
+</scopecontent>
+</c01>
+<c01 id="ref123" level="file" score="1" C-ORDER="93">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>So Hard to Die</title>.</unittitle>
+<container id="cid5718958" type="Box" label="Box">10</container>
+<physdesc id="ref124">Incomplete typescript.</physdesc>
+</did>
+</c01>
+<c01 id="ref125" level="file" score="1" C-ORDER="94">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>J. Ross Browne, Secret Agent in Old California</title>. Norman, Oklahoma,</unittitle>
+<container id="cid5718956" type="Box" label="Box">11</container>
+<unitdate>1965.</unitdate>
+<physdesc id="ref126">64 leaves. Galleys.</physdesc>
+</did>
+<c02 id="ref127" level="file" score="1" C-ORDER="95">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid5718957" type="Box" label="Box">11</container>
+<physdesc id="ref128">432 items.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref129" level="file" score="1" C-ORDER="96">
+<did>
+<unittitle>Notes for 
+<title>Meriwether Lewis</title></unittitle>
+</did>
+<c02 id="ref130" level="file" score="1" C-ORDER="97">
+<did>
+<unittitle>Typescript and holograph. 350 items.</unittitle>
+<container id="cid5718955" type="Box" label="Box">12</container>
+</did>
+</c02>
+<c02 id="ref131" level="file" score="1" C-ORDER="98">
+<did>
+<unittitle>Holograph and typescript. 350 items.</unittitle>
+<container id="cid5718954" type="Box" label="Box">13</container>
+</did>
+</c02>
+<c02 id="ref132" level="file" score="1" C-ORDER="99">
+<did>
+<unittitle>Holograph and typescript. 360 items.</unittitle>
+<container id="cid5718953" type="Box" label="Box">14</container>
+</did>
+</c02>
+<c02 id="ref133" level="file" score="1" C-ORDER="100">
+<did>
+<unittitle>Typescript and holograph. 200 items.</unittitle>
+<container id="cid5718952" type="Box" label="Box">15</container>
+</did>
+</c02>
+<c02 id="ref134" level="file" score="1" C-ORDER="101">
+<did>
+<unittitle>Carbon. 50 items.</unittitle>
+<container id="cid5718951" type="Box" label="Box">16</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref135" level="file" score="1" C-ORDER="102">
+<did>
+<unittitle>Correspondence and miscellaneous notes.</unittitle>
+<container id="cid5718950" type="Box" label="Box">14</container>
+<physdesc id="ref136">Holograph and typescript.</physdesc>
+</did>
+</c01>
+<c01 id="ref137" level="file" score="1" C-ORDER="103">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>Meriwether Lewis</title>. New York</unittitle>
+</did>
+<c02 id="ref138" level="file" score="1" C-ORDER="104">
+<did>
+<unittitle/>
+<container id="cid5718949" type="Box" label="Box">15</container>
+<unitdate>1965.</unitdate>
+<physdesc id="ref139">Page Proofs. 350 leaves.</physdesc>
+</did>
+</c02>
+<c02 id="ref140" level="file" score="1" C-ORDER="105">
+<did>
+<unittitle/>
+<container id="cid5718948" type="Box" label="Box">16</container>
+<unitdate>1965.</unitdate>
+<physdesc id="ref141">Typescript. 495 leaves.</physdesc>
+</did>
+</c02>
+<c02 id="ref142" level="file" score="1" C-ORDER="106">
+<did>
+<unittitle/>
+<container id="cid5718947" type="Box" label="Box">17</container>
+<unitdate>1965.</unitdate>
+<physdesc id="ref143">456 leaves. 2 versions.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref144" level="file" score="1" C-ORDER="107">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid5718946" type="Box" label="Box">16</container>
+<physdesc id="ref145">256 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref146" level="file" score="1" C-ORDER="108">
+<did>
+<unittitle>Two dust jackets for 
+<title>Shanghaiing Days</title>.</unittitle>
+<container id="cid5718945" type="Box" label="Box">17</container>
+</did>
+</c01>
+<c01 id="ref147" level="file" score="1" C-ORDER="109">
+<did>
+<unittitle>Miscellaneous notes for 
+<title>Shanghaiing Days</title>.</unittitle>
+<container id="cid5718944" type="Box" label="Box">17</container>
+<physdesc id="ref148">30 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref149" level="file" score="1" C-ORDER="110">
+<did>
+<unittitle>Rough draft of 
+<title>J. Ross Browne, Secret Agent in Old California</title>.</unittitle>
+<container id="cid5718943" type="Box" label="Box">18</container>
+<physdesc id="ref150">Typescript and holograph. 150 leaves.</physdesc>
+</did>
+</c01>
+<c01 id="ref151" level="file" score="1" C-ORDER="111">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>J. Ross Browne, Secret Agent in Old California</title>. Norman, Oklahoma,</unittitle>
+<container id="cid5718942" type="Box" label="Box">18</container>
+<unitdate>1965.</unitdate>
+<physdesc id="ref152">Typescript with holograph corrections. 376 leaves.</physdesc>
+</did>
+</c01>
+<c01 id="ref153" level="file" score="1" C-ORDER="112">
+<did>
+<unittitle>Miscellaneous short papers.</unittitle>
+<container id="cid5718941" type="Box" label="Box">18</container>
+<physdesc id="ref154">Typescript and holograph. 10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref155" level="file" score="1" C-ORDER="113">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>J. Ross Browne, Secret Agent in Old California</title>.</unittitle>
+<container id="cid5718940" type="Box" label="Box">19</container>
+<physdesc id="ref156">Typescript. 305 leaves.</physdesc>
+</did>
+</c01>
+<c01 id="ref157" level="file" score="1" C-ORDER="114">
+<did>
+<unittitle>Correspondence and ephemera.</unittitle>
+<container id="cid5718939" type="Box" label="Box">19</container>
+<physdesc id="ref158">38 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref159" level="file" score="1" C-ORDER="115">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>J. Ross Browne, Secret Agent in Old California</title>. Page proofs used to compile the index.</unittitle>
+<container id="cid5718938" type="Box" label="Box">19</container>
+<physdesc id="ref160">209 leaves.</physdesc>
+</did>
+</c01>
+<c01 id="ref161" level="file" score="1" C-ORDER="116">
+<did>
+<unittitle>Correspondence and miscellaneous notes.</unittitle>
+<container id="cid5718937" type="Box" label="Box">20</container>
+<unitdate>ca.</unitdate>
+<physdesc id="ref162">649 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref163" level="file" score="1" C-ORDER="117">
+<did>
+<unittitle>Dillon, Richard Hugh. 
+<title>Grizzly Adams</title>. New York,</unittitle>
+<container id="cid5718936" type="Box" label="Box">21</container>
+<unitdate>1966.</unitdate>
+<physdesc id="ref164">300 leaves. Page proofs.</physdesc>
+</did>
+</c01>
+<c01 id="ref165" level="file" score="1" C-ORDER="118">
+<did>
+<unittitle>Rough drafts of portions of 
+<title>Grizzly Adams</title>.</unittitle>
+<container id="cid5718935" type="Box" label="Box">21</container>
+<physdesc id="ref166">200 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref167" level="file" score="1" C-ORDER="119">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid5718934" type="Box" label="Box">21</container>
+<physdesc id="ref168">17 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref169" level="file" score="1" C-ORDER="120">
+<did>
+<unittitle>Tracing of the branding iron used by Meriwether Lewis.</unittitle>
+<container id="cid5718933" type="Box" label="Box">22</container>
+</did>
+</c01>
+<c01 id="ref170" level="file" score="1" C-ORDER="121">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid5718932" type="Box" label="Box">22</container>
+<physdesc id="ref171">10 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref172" level="file" score="1" C-ORDER="122">
+<did>
+<unittitle>Rough drafts of articles and speeches and foreward to reprint edition of 
+<title>Annals of San Francisco</title>.</unittitle>
+<container id="cid5718931" type="Box" label="Box">22</container>
+<physdesc id="ref173">300 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref174" level="file" score="1" C-ORDER="123">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid5718930" type="Box" label="Box">23</container>
+<physdesc id="ref175">350 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref176" level="file" score="1" C-ORDER="124">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid5718929" type="Box" label="Box">24</container>
+<physdesc id="ref177">350 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref178" level="file" score="1" C-ORDER="125">
+<did>
+<unittitle>Dillon, Richard. 
+<title>The Fine Art of Abdicating Responsibility</title>. n.p.,</unittitle>
+<container id="cid5718928" type="Box" label="Box">24</container>
+<unitdate>1967.</unitdate>
+<physdesc id="ref179">15 leaves. Typescript with holograph corrections. 3 copies.</physdesc>
+</did>
+</c01>
+<c01 id="ref180" level="file" score="1" C-ORDER="126">
+<did>
+<unittitle>Card file for Redwood Coast Place Names (never published).</unittitle>
+<container id="cid5718927" type="Box" label="Box">25</container>
+</did>
+</c01>
+<c01 id="ref181" level="file" score="1" C-ORDER="127">
+<did>
+<unittitle>Card file--index to 
+<title>J. Ross Browne, Secret Agent in Old California</title>.</unittitle>
+<container id="cid5718926" type="Box" label="Box">25</container>
+</did>
+</c01>
+<c01 id="ref182" level="file" score="1" C-ORDER="128">
+<did>
+<unittitle>2nd draft of 
+<title>Builders of California Communities</title>. (childrens' book).</unittitle>
+<container id="cid5718925" type="Box" label="Box">25</container>
+</did>
+</c01>
+<c01 id="ref183" level="file" score="1" C-ORDER="129">
+<did>
+<unittitle>University of California, Extension Division, speech () on rare book and fine printing collecting.</unittitle>
+<container id="cid5718924" type="Box" label="Box">25</container>
+<unitdate>1965</unitdate>
+<physdesc id="ref184">2 copies.</physdesc>
+</did>
+</c01>
+<c01 id="ref185" level="file" score="1" C-ORDER="130">
+<did>
+<unittitle>
+<title>The Paper Curtain</title>. Speech on censorship given to University of Southern California Library School Alumni Association at ALA , San Francisco.</unittitle>
+<container id="cid5718923" type="Box" label="Box">25</container>
+<unitdate>1967</unitdate>
+<physdesc id="ref186">2 copies.</physdesc>
+</did>
+</c01>
+<c01 id="ref187" level="file" score="1" C-ORDER="131">
+<did>
+<unittitle>San Francisco à la carte. Article in 
+<title>Library Journal</title>,</unittitle>
+<container id="cid5718922" type="Box" label="Box">25</container>
+<unitdate>June 15, 1967.</unitdate>
+<physdesc id="ref188">2 copies.</physdesc>
+</did>
+</c01>
+<c01 id="ref189" level="file" score="1" C-ORDER="132">
+<did>
+<unittitle>Corrections and editions for The Generous Miser (biography of James Lick).</unittitle>
+<container id="cid5718921" type="Box" label="Box">25</container>
+</did>
+</c01>
+<c01 id="ref190" level="file" score="1" C-ORDER="133">
+<did>
+<unittitle>Meriwether Lewis-Santa Fe trade article which appeared in 
+<title>Montana Magazine</title> ().</unittitle>
+<container id="cid5718920" type="Box" label="Box">25</container>
+<unitdate>1967</unitdate>
+</did>
+</c01>
+<c01 id="ref191" level="file" score="1" C-ORDER="134">
+<did>
+<unittitle>The search for Meriwether Lewis. Speech given in Nashville,</unittitle>
+<container id="cid5718919" type="Box" label="Box">25</container>
+<unitdate>1967.</unitdate>
+<physdesc id="ref192">2 copies.</physdesc>
+</did>
+</c01>
+<c01 id="ref193" level="file" score="1" C-ORDER="135">
+<did>
+<unittitle>Stephen Long's Great American Desert. Article in 
+<title>Proceedings of American Philosophical Society</title>.</unittitle>
+<container id="cid5718918" type="Box" label="Box">25</container>
+<physdesc id="ref194">Manuscript and galleys.</physdesc>
+</did>
+</c01>
+<c01 id="ref195" level="file" score="1" C-ORDER="136">
+<did>
+<unittitle>Grizzly Adams: A memorable mountain man. Speech at University of California-Davis.</unittitle>
+<container id="cid5718917" type="Box" label="Box">25</container>
+<physdesc id="ref196">Photostat copy.</physdesc>
+</did>
+</c01>
+<c01 id="ref197" level="file" score="1" C-ORDER="137">
+<did>
+<unittitle>Tape recording of Lecture on John Sutter, given at Humbolt State College, Arcata, California.</unittitle>
+<container id="cid5718916" type="Box" label="Box">26</container>
+<unitdate>May 1967.</unitdate>
+</did>
+</c01>
+<c01 id="ref198" level="file" score="1" C-ORDER="138">
+<did>
+<unittitle>Correspondence with writers and editors, etc.</unittitle>
+<container id="cid5718915" type="Box" label="Box">26</container>
+<physdesc id="ref199">300 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref200" level="file" score="1" C-ORDER="139">
+<did>
+<unittitle>
+<title>Fool's Gold</title>. (biography of John Sutter). First and second drafts.</unittitle>
+<container id="cid5718914" type="Box" label="Box">27</container>
+</did>
+</c01>
+<c01 id="ref201" level="file" score="1" C-ORDER="140">
+<did>
+<unittitle>Carbons or book reviews used in research for Stephen Long's Great American Desert.</unittitle>
+<container id="cid5718913" type="Box" label="Box">27</container>
+<physdesc id="ref202">Photostats. 24 items.</physdesc>
+</did>
+</c01>
+<c01 id="ref203" level="file" score="1" C-ORDER="141">
+<did>
+<unittitle>Tape recording of talk to Utah State University, Logan. Conference on history and biography,</unittitle>
+<container id="cid5718912" type="Box" label="Box">28</container>
+<unitdate>summer 1965.</unitdate>
+</did>
+</c01>
+<c01 id="ref204" level="file" score="1" C-ORDER="142">
+<did>
+<unittitle>
+<title>Fool's Gold</title>. First, second, third, and fourth drafts.</unittitle>
+<container id="cid5718911" type="Box" label="Box">28</container>
+</did>
+</c01>
+<c01 id="ref205" level="file" score="1" C-ORDER="143">
+<did>
+<unittitle>Miscellaneous Manuscripts (unsorted).</unittitle>
+<container id="cid5718910" type="Box" label="Box">29</container>
+<physdesc id="ref206">2 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref207" level="file" score="1" C-ORDER="144">
+<did>
+<unittitle>Ephemera (unsorted).</unittitle>
+<container id="cid5718909" type="Box" label="Box">29</container>
+<physdesc id="ref208">2 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref209" level="file" score="1" C-ORDER="145">
+<did>
+<unittitle>Manuscripts: A-F, G-O, P-Z.</unittitle>
+<container id="cid5718908" type="Box" label="Box">30</container>
+<physdesc id="ref210">3 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref211" level="file" score="1" C-ORDER="146">
+<did>
+<unittitle>Miscellaneous Correspondence ( and unsorted).</unittitle>
+<container id="cid5718907" type="Box" label="Box">31</container>
+<unitdate>n.d.</unitdate>
+<physdesc id="ref212">2 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref213" level="file" score="1" C-ORDER="147">
+<did>
+<unittitle>Correspondence</unittitle>
+<physdesc id="ref214">3 folders:</physdesc>
+</did>
+<c02 id="ref215" level="file" score="1" C-ORDER="148">
+<did>
+<unittitle>#1, (unsorted).</unittitle>
+<container id="cid5718906" type="Box" label="Box">31</container>
+<unitdate>1961-65</unitdate>
+</did>
+</c02>
+<c02 id="ref216" level="file" score="1" C-ORDER="149">
+<did>
+<unittitle>#2, (unsorted).</unittitle>
+<container id="cid5718905" type="Box" label="Box">31</container>
+<unitdate>1966-67</unitdate>
+</did>
+</c02>
+<c02 id="ref217" level="file" score="1" C-ORDER="150">
+<did>
+<unittitle>#3, (unsorted).</unittitle>
+<container id="cid5718904" type="Box" label="Box">31</container>
+<unitdate>1968-69</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref218" level="file" score="1" C-ORDER="151">
+<did>
+<unittitle>CLR grant (unsorted).</unittitle>
+<container id="cid5718903" type="Box" label="Box">32</container>
+<physdesc id="ref219">1 folder.</physdesc>
+</did>
+</c01>
+<c01 id="ref220" level="file" score="1" C-ORDER="152">
+<did>
+<unittitle>Correspondence</unittitle>
+<physdesc id="ref221">2 folders:</physdesc>
+</did>
+<c02 id="ref222" level="file" score="1" C-ORDER="153">
+<did>
+<unittitle>#1, (unsorted).</unittitle>
+<container id="cid5718902" type="Box" label="Box">32</container>
+<unitdate>1970</unitdate>
+</did>
+</c02>
+<c02 id="ref223" level="file" score="1" C-ORDER="154">
+<did>
+<unittitle>#2-3, (unsorted).</unittitle>
+<container id="cid5718901" type="Box" label="Box">32</container>
+<unitdate>1971</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref224" level="file" score="1" C-ORDER="155">
+<did>
+<unittitle>Correspondence</unittitle>
+<physdesc id="ref225">5 folders:</physdesc>
+</did>
+<c02 id="ref226" level="file" score="1" C-ORDER="156">
+<did>
+<unittitle>#1-3, (unsorted).</unittitle>
+<container id="cid5718900" type="Box" label="Box">33</container>
+<unitdate>1972</unitdate>
+</did>
+</c02>
+<c02 id="ref227" level="file" score="1" C-ORDER="157">
+<did>
+<unittitle>#4-5, (unsorted).</unittitle>
+<container id="cid5718899" type="Box" label="Box">33</container>
+<unitdate>1973</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref228" level="file" score="1" C-ORDER="158">
+<did>
+<unittitle>Correspondence (unsorted).</unittitle>
+<container id="cid5718898" type="Box" label="Box">34</container>
+<physdesc id="ref229">5 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref230" level="file" score="1" C-ORDER="159">
+<did>
+<unittitle>Correspondence (unsorted).</unittitle>
+<container id="cid5718897" type="Box" label="Box">35</container>
+<physdesc id="ref231">4 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref232" level="file" score="1" C-ORDER="160">
+<did>
+<unittitle>Correspondence (unsorted).</unittitle>
+<container id="cid5718896" type="Box" label="Box">36</container>
+<physdesc id="ref233">4 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref234" level="file" score="1" C-ORDER="161">
+<did>
+<unittitle>Correspondence (unsorted) and 1 folder of manuscripts: 
+<title>Burnt-Out Fires</title>.</unittitle>
+<container id="cid5718895" type="Box" label="Box">37</container>
+<physdesc id="ref235">3 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref236" level="file" score="1" C-ORDER="162">
+<did>
+<unittitle>Manuscripts: 
+<title>Burnt-Out Fires</title>.</unittitle>
+<container id="cid5718894" type="Box" label="Box">38</container>
+<physdesc id="ref237">4 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref238" level="file" score="1" C-ORDER="163">
+<did>
+<unittitle>Manuscripts: 
+<title>Burnt-Out Fires</title>.</unittitle>
+<container id="cid5718893" type="Box" label="Box">39</container>
+<physdesc id="ref239">4 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref240" level="file" score="1" C-ORDER="164">
+<did>
+<unittitle>Manuscripts: 
+<title>Burnt-Out Fires</title>, 
+<title>Sutter Illustrations</title>, 
+<title>Commoner in Mavajo Country</title>.</unittitle>
+<container id="cid5718892" type="Box" label="Box">40</container>
+<physdesc id="ref241">5 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref242" level="file" score="1" C-ORDER="165">
+<did>
+<unittitle>Manuscripts: 
+<title>Humbugs &amp; Heroes</title>.</unittitle>
+<container id="cid5718891" type="Box" label="Box">41</container>
+<physdesc id="ref243">4 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref244" level="file" score="1" C-ORDER="166">
+<did>
+<unittitle>Magazine Articles and Speeches (unsorted).</unittitle>
+<container id="cid5718890" type="Box" label="Box">42</container>
+<physdesc id="ref245">7 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref246" level="file" score="1" C-ORDER="167">
+<did>
+<unittitle>Announcements of speaking engagements and book jacket covers.</unittitle>
+<container id="cid5718889" type="Box" label="Box">103</container>
+</did>
+</c01>
+<c01 id="ref247" level="file" score="1" C-ORDER="168">
+<did>
+<unittitle>
+<title>Well's Fargo Detective</title>.</unittitle>
+<container id="cid5718888" type="Box" label="Box">43</container>
+<physdesc id="ref248">Rough manuscript drafts (unsorted).</physdesc>
+</did>
+</c01>
+<c01 id="ref249" level="file" score="1" C-ORDER="169">
+<did>
+<unittitle>
+<title>Well's Fargo Detective</title>.</unittitle>
+<container id="cid5718887" type="Box" label="Box">44</container>
+<physdesc id="ref250">Rough manuscript drafts (unsorted).</physdesc>
+</did>
+</c01>
+<c01 id="ref251" level="file" score="1" C-ORDER="170">
+<did>
+<unittitle>
+<title>Well's Fargo Detective</title>.</unittitle>
+<container id="cid5718886" type="Box" label="Box">45</container>
+<physdesc id="ref252">Galley proofs.</physdesc>
+</did>
+</c01>
+<c01 id="ref253" level="file" score="1" C-ORDER="171">
+<did>
+<unittitle>
+<title>Well's Fargo Detective </title>and 
+<title>Fool's Gold</title> (unsorted).</unittitle>
+<container id="cid5718885" type="Box" label="Box">46</container>
+<physdesc id="ref254">Miscellaneous manuscripts and galley proofs.</physdesc>
+</did>
+</c01>
+<c01 id="ref255" level="file" score="1" C-ORDER="172">
+<did>
+<unittitle>Correspondence (unsorted).</unittitle>
+<container id="cid5718884" type="Box" label="Boxes">47-48</container>
+</did>
+</c01>
+<c01 id="ref256" level="file" score="1" C-ORDER="173">
+<did>
+<unittitle>Correspondence and miscellaneous manuscripts (unsorted).</unittitle>
+<container id="cid5718883" type="Box" label="Box">49</container>
+</did>
+</c01>
+<c01 id="ref257" level="file" score="1" C-ORDER="174">
+<did>
+<unittitle>Correspondence and ephemera (unsorted).</unittitle>
+<container id="cid5718882" type="Box" label="Box">50</container>
+</did>
+</c01>
+<c01 id="ref258" level="file" score="1" C-ORDER="175">
+<did>
+<unittitle>Miscellaneous manuscripts (unsorted).</unittitle>
+<container id="cid5718881" type="Box" label="Box">51</container>
+</did>
+</c01>
+<c01 id="ref259" level="file" score="1" C-ORDER="176">
+<did>
+<unittitle>
+<title>Fool's Gold</title> manuscripts (unsorted).</unittitle>
+<container id="cid5718880" type="Box" label="Box">52</container>
+</did>
+</c01>
+<c01 id="ref260" level="file" score="1" C-ORDER="177">
+<did>
+<unittitle>
+<title>Burnt-Out Fires</title> manuscripts (unsorted).</unittitle>
+<container id="cid5718879" type="Box" label="Boxes">53-54</container>
+</did>
+</c01>
+<c01 id="ref261" level="file" score="1" C-ORDER="178">
+<did>
+<unittitle>Miscellaneous manuscripts and correspondence (unsorted).</unittitle>
+<container id="cid5718878" type="Box" label="Boxes">55-58</container>
+</did>
+</c01>
+<c01 id="ref262" level="file" score="1" C-ORDER="179">
+<did>
+<unittitle>Miscellaneous Manuscripts, Rough Sorted as Follows:</unittitle>
+</did>
+<c02 id="ref263" level="file" score="1" C-ORDER="180">
+<did>
+<unittitle>Introduction to catalog of Dr. Fitzhugh Book Collection.</unittitle>
+<container id="cid5718877" type="Box" label="Box">59</container>
+<container parent="cid5718877" type="Folder" label="Folder">1</container>
+</did>
+</c02>
+<c02 id="ref264" level="file" score="1" C-ORDER="181">
+<did>
+<unittitle>Sea material.</unittitle>
+<container id="cid5718876" type="Box" label="Box">59</container>
+<container parent="cid5718876" type="Folder" label="Folder">2</container>
+</did>
+</c02>
+<c02 id="ref265" level="file" score="1" C-ORDER="182">
+<did>
+<unittitle>Drafts of articles, proposals and lectures. Most unindentified,</unittitle>
+<container id="cid5718875" type="Box" label="Box">59</container>
+<container parent="cid5718875" type="Folder" label="Folder">3</container>
+<unitdate>n.d.</unitdate>
+</did>
+</c02>
+<c02 id="ref266" level="file" score="2" C-ORDER="183">
+<did>
+<unittitle>Drafts of book reviews.</unittitle>
+<container id="cid5718874" type="Box" label="Box">59</container>
+<container parent="cid5718874" type="Folder" label="Folder">4</container>
+</did>
+<scopecontent id="ref267">
+<p>Also, miscellaneous correspondence, unsorted, various dates.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref268" level="file" score="1" C-ORDER="185">
+<did>
+<unittitle>
+<title>Siskiyou Trail</title>. Final draft, notes and correspondence. Rough sorted.</unittitle>
+<container id="cid5718873" type="Box" label="Box">60</container>
+</did>
+</c01>
+<c01 id="ref269" level="file" score="1" C-ORDER="186">
+<did>
+<unittitle>
+<title>Siskiyou Trail</title>. Rough drafts, notes and source material. Rough sorted.</unittitle>
+<container id="cid5718872" type="Box" label="Boxes">61-62</container>
+</did>
+</c01>
+<c01 id="ref270" level="file" score="1" C-ORDER="187">
+<did>
+<unittitle>
+<title>Siskiyou Trail</title>. Galley proofs and final typescript copy.</unittitle>
+<container id="cid5718871" type="Box" label="Box">63</container>
+</did>
+</c01>
+<c01 id="ref271" level="file" score="1" C-ORDER="188">
+<did>
+<unittitle>Miscellaneous correspondence and manuscripts. Unsorted.</unittitle>
+<container id="cid5718870" type="Box" label="Box">64</container>
+</did>
+</c01>
+<c01 id="ref272" level="file" score="1" C-ORDER="189">
+<did>
+<unittitle>
+<title>Exploring the Mother Lode Country</title>. Rough draft, notes and source material. Rough sorted. Also correspondence, drafts for articles, research material.</unittitle>
+<container id="cid5718869" type="Box" label="Box">65</container>
+</did>
+</c01>
+<c01 id="ref273" level="file" score="1" C-ORDER="190">
+<did>
+<unittitle>Miscellaneous correspondence, ephemera and manuscripts, unsorted.</unittitle>
+<container id="cid5718868" type="Box" label="Box">66</container>
+</did>
+</c01>
+<c01 id="ref274" level="file" score="1" C-ORDER="191">
+<did>
+<unittitle>Miscellaneous correspondence, ephemera and manuscripts of articles and book reviews, unsorted.</unittitle>
+<container id="cid5718867" type="Box" label="Box">67</container>
+</did>
+</c01>
+<c01 id="ref275" level="file" score="1" C-ORDER="192">
+<did>
+<unittitle>
+<title>Images of Chinatown</title>. Book Club of California</unittitle>
+</did>
+<c02 id="ref276" level="file" score="1" C-ORDER="193">
+<did>
+<unittitle>Correspondence, manuscript, galley proofs, calligraphy.</unittitle>
+<container id="cid5718866" type="Box" label="Box">68</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref277" level="file" score="1" C-ORDER="194">
+<did>
+<unittitle>Correspondence, drafts of articles, unsorted.</unittitle>
+<container id="cid5718865" type="Box" label="Box">68</container>
+</did>
+</c01>
+<c01 id="ref278" level="file" score="1" C-ORDER="195">
+<did>
+<unittitle>Correspondence, notes, manuscripts, ephemera, unsorted.</unittitle>
+<container id="cid5718864" type="Box" label="Box">69</container>
+</did>
+</c01>
+<c01 id="ref279" level="file" score="1" C-ORDER="196">
+<did>
+<unittitle>Correspondence, manuscripts, ephemera, unsorted.</unittitle>
+<container id="cid5718863" type="Box" label="Boxes">70-71</container>
+</did>
+</c01>
+<c01 id="ref280" level="file" score="1" C-ORDER="197">
+<did>
+<unittitle>Miscellaneous Manuscripts, Rough Sorted as Follows:</unittitle>
+</did>
+<c02 id="ref281" level="file" score="1" C-ORDER="198">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid5718862" type="Box" label="Box">72</container>
+<container parent="cid5718862" type="Folder" label="Folder">1</container>
+</did>
+</c02>
+<c02 id="ref282" level="file" score="1" C-ORDER="199">
+<did>
+<unittitle>Articles by Richard Dillon re Sutro Library.</unittitle>
+<container id="cid5718861" type="Box" label="Box">72</container>
+<container parent="cid5718861" type="Folder" label="Folder">2</container>
+</did>
+</c02>
+<c02 id="ref283" level="file" score="1" C-ORDER="200">
+<did>
+<unittitle>Manuscript for 
+    <title>We Have Met the Enemy</title>.</unittitle>
+<container id="cid5718860" type="Box" label="Box">72</container>
+<container parent="cid5718860" type="Folder" label="Folder">3</container>
+</did>
+</c02>
+<c02 id="ref284" level="file" score="1" C-ORDER="201">
+<did>
+<unittitle>Addenda for 
+    <title>We Have Met the Enemy</title>.</unittitle>
+<container id="cid5718859" type="Box" label="Box">72</container>
+<container parent="cid5718859" type="Folder" label="Folder">4</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref285" level="file" score="1" C-ORDER="202">
+<did>
+<unittitle>Manuscripts for 
+<title>We Have Met the Enemy</title></unittitle>
+</did>
+<c02 id="ref286" level="file" score="1" C-ORDER="203">
+<did>
+<unittitle>Final draft.</unittitle>
+<container id="cid5718858" type="Box" label="Box">73</container>
+<container parent="cid5718858" type="Folder" label="Folder">1</container>
+</did>
+</c02>
+<c02 id="ref287" level="file" score="1" C-ORDER="204">
+<did>
+<unittitle>Typescript manuscript.</unittitle>
+<container id="cid5718857" type="Box" label="Box">73</container>
+<container parent="cid5718857" type="Folder" label="Folder">2</container>
+</did>
+</c02>
+<c02 id="ref288" level="file" score="1" C-ORDER="205">
+<did>
+<unittitle>Typeset guide.</unittitle>
+<container id="cid5718856" type="Box" label="Box">73</container>
+<container parent="cid5718856" type="Folder" label="Folder">3</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref289" level="file" score="1" C-ORDER="206">
+<did>
+<unittitle>
+<title>We Have Met the Enemy</title>. Master proofs.</unittitle>
+<container id="cid5718855" type="Box" label="Box">74</container>
+</did>
+</c01>
+<c01 id="ref290" level="file" score="1" C-ORDER="207">
+<did>
+<unittitle>Correspondence, manuscripts, ephemera, unsorted.</unittitle>
+<container id="cid5718854" type="Box" label="Box">74</container>
+</did>
+</c01>
+<c01 id="ref291" level="file" score="1" C-ORDER="208">
+<did>
+<unittitle>Correspondence, unsorted.</unittitle>
+<container id="cid5718853" type="Box" label="Box">74</container>
+</did>
+</c01>
+<c01 id="ref292" level="file" score="1" C-ORDER="209">
+<did>
+<unittitle>Manuscript material, unsorted.</unittitle>
+<container id="cid5718852" type="Box" label="Box">74</container>
+</did>
+</c01>
+<c01 id="ref293" level="file" score="1" C-ORDER="210">
+<did>
+<unittitle>Final revised draft, 
+<title>We Have Met the Enemy</title>.</unittitle>
+<container id="cid5718851" type="Box" label="Box">74</container>
+</did>
+</c01>
+<c01 id="ref294" level="file" score="1" C-ORDER="211">
+<did>
+<unittitle>Miscellaneous Manuscripts, Rough Sorted as Follows:</unittitle>
+</did>
+<c02 id="ref295" level="file" score="1" C-ORDER="212">
+<did>
+<unittitle>Manuscripts for 
+    <title>We Have Met the Enemy</title>, and correspondence with publishers.</unittitle>
+<container id="cid5718850" type="Box" label="Box">75</container>
+<container parent="cid5718850" type="Folder" label="Folder">1</container>
+</did>
+</c02>
+<c02 id="ref296" level="file" score="1" C-ORDER="213">
+<did>
+<unittitle>Research inquiries.</unittitle>
+<container id="cid5718849" type="Box" label="Box">75</container>
+<container parent="cid5718849" type="Folder" label="Folder">2</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref297" level="file" score="1" C-ORDER="214">
+<did>
+<unittitle>Correspondence, ephemera, unsorted.</unittitle>
+<container id="cid5718848" type="Box" label="Box">76</container>
+</did>
+</c01>
+<c01 id="ref298" level="file" score="1" C-ORDER="215">
+<did>
+<unittitle>Correspondence, unsorted.</unittitle>
+<container id="cid5718847" type="Box" label="Box">76</container>
+</did>
+</c01>
+<c01 id="ref299" level="file" score="1" C-ORDER="216">
+<did>
+<unittitle>Drafts of articles.</unittitle>
+<container id="cid5718846" type="Box" label="Box">76</container>
+</did>
+</c01>
+<c01 id="ref300" level="file" score="1" C-ORDER="217">
+<did>
+<unittitle>Manuscript material for 
+<title>We Have Met the Enemy</title>.</unittitle>
+<container id="cid5718845" type="Box" label="Boxes">76-78</container>
+</did>
+</c01>
+<c01 id="ref301" level="file" score="1" C-ORDER="218">
+<did>
+<unittitle>Correspondence, unsorted.</unittitle>
+<container id="cid5718844" type="Box" label="Box">78</container>
+</did>
+</c01>
+<c01 id="ref302" level="file" score="1" C-ORDER="219">
+<did>
+<unittitle>Book Club of California correspondence and related material.</unittitle>
+<container id="cid5718843" type="Box" label="Box">79</container>
+</did>
+</c01>
+<c01 id="ref303" level="file" score="1" C-ORDER="220">
+<did>
+<unittitle>Reviews and articles.</unittitle>
+<container id="cid5718842" type="Box" label="Box">79</container>
+</did>
+</c01>
+<c01 id="ref304" level="file" score="1" C-ORDER="221">
+<did>
+<unittitle>Ephemera.</unittitle>
+<container id="cid5718841" type="Box" label="Box">79</container>
+</did>
+</c01>
+<c01 id="ref305" level="file" score="1" C-ORDER="222">
+<did>
+<unittitle>Personal calendars.</unittitle>
+<container id="cid5718840" type="Box" label="Box">79</container>
+</did>
+</c01>
+<c01 id="ref306" level="file" score="1" C-ORDER="223">
+<did>
+<unittitle>Correspondence, unsorted.</unittitle>
+<container id="cid5718839" type="Box" label="Box">80</container>
+</did>
+</c01>
+<c01 id="ref307" level="file" score="1" C-ORDER="224">
+<did>
+<unittitle>Book Club of California correspondence and related material.</unittitle>
+<container id="cid5718838" type="Box" label="Box">80</container>
+</did>
+</c01>
+<c01 id="ref308" level="file" score="1" C-ORDER="225">
+<did>
+<unittitle>Ephemera.</unittitle>
+<container id="cid5718837" type="Box" label="Box">80</container>
+</did>
+</c01>
+<c01 id="ref309" level="file" score="1" C-ORDER="226">
+<did>
+<unittitle>Clippings by or about Richard Hugh Dillon.</unittitle>
+<container id="cid5718836" type="Box" label="Box">80</container>
+</did>
+</c01>
+<c01 id="ref310" level="file" score="1" C-ORDER="227">
+<did>
+<unittitle>Research notes.</unittitle>
+<container id="cid5718835" type="Box" label="Box">80</container>
+</did>
+</c01>
+<c01 id="ref311" level="file" score="1" C-ORDER="228">
+<did>
+<unittitle>Book reviews.</unittitle>
+<container id="cid5718834" type="Box" label="Box">80</container>
+</did>
+</c01>
+<c01 id="ref312" level="file" score="1" C-ORDER="229">
+<did>
+<unittitle>Librarianship paper.</unittitle>
+<container id="cid5718833" type="Box" label="Box">80</container>
+</did>
+</c01>
+<c01 id="ref313" level="file" score="1" C-ORDER="230">
+<did>
+<unittitle>Manuscript material for 
+<title>The Siskiyou Trail: The Hudson's Bay Company Route to California</title> by Richard Dillon. Unsorted.</unittitle>
+<container id="cid5718832" type="Box" label="Box">81</container>
+<physdesc id="ref314">6 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref315" level="file" score="1" C-ORDER="231">
+<did>
+<unittitle>Manuscript material for 
+<title>The Siskiyou Trail: The Hudson's Bay Company Route to California</title> by Richard Dillon. Unsorted.</unittitle>
+<container id="cid5718831" type="Box" label="Box">82</container>
+<physdesc id="ref316">3 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref317" level="file" score="1" C-ORDER="232">
+<did>
+<unittitle>Book Club of California. Minutes.</unittitle>
+<container id="cid5718830" type="Box" label="Box">82</container>
+<physdesc id="ref318">1 folder.</physdesc>
+</did>
+</c01>
+<c01 id="ref319" level="file" score="1" C-ORDER="233">
+<did>
+<unittitle>Manuscript material--speeches and articles.</unittitle>
+<container id="cid5718829" type="Box" label="Box">82</container>
+<physdesc id="ref320">2 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref321" level="file" score="1" C-ORDER="234">
+<did>
+<unittitle>Ephemera.</unittitle>
+<container id="cid5718828" type="Box" label="Box">83</container>
+<physdesc id="ref322">1 folder.</physdesc>
+</did>
+</c01>
+<c01 id="ref323" level="file" score="1" C-ORDER="235">
+<did>
+<unittitle>Correspondence. (unsorted).</unittitle>
+<container id="cid5718827" type="Box" label="Box">83</container>
+<physdesc id="ref324">3 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref325" level="file" score="1" C-ORDER="236">
+<did>
+<unittitle>Correspondence. (unsorted).</unittitle>
+<container id="cid5718826" type="Box" label="Box">83</container>
+<physdesc id="ref326">2 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref327" level="file" score="1" C-ORDER="237">
+<did>
+<unittitle>Manuscript material for 
+<title>Traces Of Time: California's Gold Rush Country</title> by Richard Dillon.</unittitle>
+<container id="cid5718825" type="Box" label="Box">84</container>
+<physdesc id="ref328">2 folders.</physdesc>
+</did>
+</c01>
+<c01 id="ref329" level="file" score="1" C-ORDER="238">
+<did>
+<unittitle>Manuscript material for 
+<title>The Indian Wars Of America</title> by Richard Dillon.</unittitle>
+<container id="cid5718824" type="Box" label="Box">84</container>
+<physdesc id="ref330">1 folder.</physdesc>
+</did>
+</c01>
+<c01 id="ref331" level="file" score="2" C-ORDER="239">
+<did>
+<unittitle>Manuscript material--book reviews and research notes.</unittitle>
+<container id="cid5718823" type="Box" label="Box">84</container>
+<physdesc id="ref332">1 folder.</physdesc>
+</did>
+<odd id="ref333">
+<head>General note</head>
+<p>Addition, June 1982.</p>
+</odd>
+</c01>
+<c01 id="ref334" level="file" score="2" C-ORDER="241">
+<did>
+<unittitle>Royalty statements, personal material, unsorted correspondence, 
+<emph render="italic">ca.</emph> <unitdate> 1953-72.</unitdate></unittitle>
+<container id="cid5718822" type="Box" label="Box">84</container>
+<physdesc id="ref335">1 folder.</physdesc>
+</did>
+<odd id="ref336">
+<p>Addition, June 1982.</p>
+</odd>
+</c01>
+<c01 id="ref337" level="file" score="2" C-ORDER="243">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<odd id="ref350">
+<p>Addition, June 1982.</p>
+</odd>
+<c02 id="ref338" level="file" score="1" C-ORDER="245">
+<did>
+<unittitle><unitdate>1973.</unitdate></unittitle>
+<container id="cid5718821" type="Box" label="Box">85</container>
+<physdesc id="ref339">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref340" level="file" score="1" C-ORDER="246">
+<did>
+<unittitle><unitdate>1974.</unitdate></unittitle>
+<container id="cid5718820" type="Box" label="Box">85</container>
+<physdesc id="ref341">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref342" level="file" score="1" C-ORDER="247">
+<did>
+<unittitle><unitdate>1975.</unitdate></unittitle>
+<container id="cid5718819" type="Box" label="Box">85</container>
+<physdesc id="ref343">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref344" level="file" score="1" C-ORDER="248">
+<did>
+<unittitle><unitdate>1977.</unitdate></unittitle>
+<container id="cid5718818" type="Box" label="Box">85</container>
+<physdesc id="ref345">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref346" level="file" score="1" C-ORDER="249">
+<did>
+<unittitle><unitdate>1978.</unitdate></unittitle>
+<container id="cid5718817" type="Box" label="Box">85</container>
+<physdesc id="ref347">2 folders.</physdesc>
+</did>
+</c02>
+<c02 id="ref348" level="file" score="1" C-ORDER="250">
+<did>
+<unittitle><unitdate>1979.</unitdate></unittitle>
+<container id="cid5718816" type="Box" label="Box">85</container>
+<physdesc id="ref349">1 folder.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref351" level="file" score="2" C-ORDER="251">
+<did>
+<unittitle>Correspondence.</unittitle>
+</did>
+<odd id="ref356">
+<p>Addition, June 1982.</p>
+</odd>
+<c02 id="ref352" level="file" score="1" C-ORDER="253">
+<did>
+<unittitle><unitdate>1980.</unitdate></unittitle>
+<container id="cid5718815" type="Box" label="Box">86</container>
+<physdesc id="ref353">4 folders.</physdesc>
+</did>
+</c02>
+<c02 id="ref354" level="file" score="1" C-ORDER="254">
+<did>
+<unittitle><unitdate>1981.</unitdate></unittitle>
+<container id="cid5718814" type="Box" label="Box">86</container>
+<physdesc id="ref355">2 folders.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref357" level="file" score="2" C-ORDER="255">
+<did>
+<unittitle>Correspondence.</unittitle>
+<container id="cid5718811" type="Box" label="Box">87</container>
+</did>
+<odd id="ref362">
+<p>Addition, June 1982.</p>
+</odd>
+<c02 id="ref358" level="file" score="1" C-ORDER="257">
+<did>
+<unittitle><unitdate>1981.</unitdate></unittitle>
+<container id="cid5718813" type="Box" label="Box">87</container>
+<physdesc id="ref359">3 folders.</physdesc>
+</did>
+</c02>
+<c02 id="ref360" level="file" score="1" C-ORDER="258">
+<did>
+<unittitle><unitdate>1982.</unitdate></unittitle>
+<container id="cid5718812" type="Box" label="Box">87</container>
+<physdesc id="ref361">1 folders.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref363" level="file" score="2" C-ORDER="259">
+<did>
+<unittitle>Reviews, speeches, research material, notes.</unittitle>
+<container id="cid5718810" type="Box" label="Box">87</container>
+<physdesc id="ref364">1 folder.</physdesc>
+</did>
+<odd id="ref365">
+<p>Addition, June 1982.</p>
+</odd>
+</c01>
+<c01 id="ref366" level="file" score="2" C-ORDER="261">
+<did>
+<unittitle>Reviews, speeches, research material, notes.</unittitle>
+<container id="cid5718809" type="Box" label="Box">88</container>
+<physdesc id="ref367">2 folders.</physdesc>
+</did>
+<odd id="ref368">
+<p>Addition, June 1982.</p>
+</odd>
+</c01>
+<c01 id="ref369" level="file" score="2" C-ORDER="263">
+<did>
+<unittitle>
+<title>Fool's Gold</title>. reprint. Photo captions.</unittitle>
+<container id="cid5718808" type="Box" label="Box">88</container>
+<unitdate>1981</unitdate>
+<physdesc id="ref370">1 folder.</physdesc>
+</did>
+<odd id="ref371">
+<p>Addition, June 1982.</p>
+</odd>
+</c01>
+<c01 id="ref372" level="file" score="2" C-ORDER="265">
+<did>
+<unittitle>
+<title>Delta Country</title>. Correspondence.</unittitle>
+<container id="cid5718807" type="Box" label="Box">88</container>
+<physdesc id="ref373">1 folder.</physdesc>
+</did>
+<odd id="ref374">
+<p>Addition, June 1982.</p>
+</odd>
+</c01>
+<c01 id="ref375" level="file" score="2" C-ORDER="267">
+<did>
+<unittitle>
+<title>Delta Country</title>. Manuscript.</unittitle>
+<container id="cid5718806" type="Box" label="Box">88</container>
+<physdesc id="ref376">3 folders.</physdesc>
+</did>
+<odd id="ref377">
+<p>Addition, June 1982.</p>
+</odd>
+</c01>
+<c01 id="ref378" level="file" score="2" C-ORDER="269">
+<did>
+<unittitle>
+<title>Great Expectations</title>.</unittitle>
+</did>
+<odd id="ref391">
+<p>Addition, June 1982.</p>
+</odd>
+<c02 id="ref379" level="file" score="1" C-ORDER="271">
+<did>
+<unittitle>Original manuscript (first set proofs).</unittitle>
+<container id="cid5718805" type="Box" label="Box">89</container>
+<physdesc id="ref380">8 envelopes.</physdesc>
+</did>
+</c02>
+<c02 id="ref381" level="file" score="1" C-ORDER="272">
+<did>
+<unittitle>Proofs.</unittitle>
+<container id="cid5718804" type="Box" label="Box">89</container>
+<physdesc id="ref382">9 envelopes.</physdesc>
+</did>
+</c02>
+<c02 id="ref383" level="file" score="1" C-ORDER="273">
+<did>
+<unittitle>Final proofs.</unittitle>
+<container id="cid5718803" type="Box" label="Box">89</container>
+<physdesc id="ref384">8 folders.</physdesc>
+</did>
+</c02>
+<c02 id="ref385" level="file" score="1" C-ORDER="274">
+<did>
+<unittitle>Dustjacket, color photos.</unittitle>
+<container id="cid5718802" type="Box" label="Box">89</container>
+<physdesc id="ref386">1 envelope.</physdesc>
+</did>
+</c02>
+<c02 id="ref387" level="file" score="1" C-ORDER="275">
+<did>
+<unittitle>Beginning pages, proofs, color pages (proofs), final chapter, dustjacket.</unittitle>
+<container id="cid5718801" type="Box" label="Box">89</container>
+<physdesc id="ref388">1 envelope.</physdesc>
+</did>
+</c02>
+<c02 id="ref389" level="file" score="1" C-ORDER="276">
+<did>
+<unittitle>Dustjacket. Negative and velox piece.</unittitle>
+<container id="cid5718800" type="Box" label="Box">89</container>
+<physdesc id="ref390">4 items.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref392" level="file" score="2" C-ORDER="277">
+<did>
+<unittitle>
+<title>Great Expectations</title>. Index.</unittitle>
+<container id="cid5718799" type="Box" label="Box">90</container>
+</did>
+<odd id="ref393">
+<p>Addition, June 1982.</p>
+</odd>
+</c01>
+<c01 id="ref394" level="file" score="2" C-ORDER="279">
+<did>
+<unittitle>Printer's pasteup with photos for 
+<title>Great Expectations: The Story of Benicia, California</title> by Richard Dillon.</unittitle>
+<container id="cid5718798" type="Box" label="Box">103</container>
+</did>
+<odd id="ref395">
+<p>Addition, November 1984.</p>
+</odd>
+</c01>
+<c01 id="ref396" level="file" score="2" C-ORDER="281">
+<did>
+<unittitle>Correspondence,</unittitle>
+<container id="cid5718797" type="Box" label="Box">91</container>
+<unitdate>1952-1969.</unitdate>
+<physdesc id="ref397">1 folder.</physdesc>
+</did>
+<odd id="ref398">
+<p>Addition, November 1984.</p>
+</odd>
+</c01>
+<c01 id="ref399" level="file" score="2" C-ORDER="283">
+<did>
+<unittitle>Correspondence,</unittitle>
+<container id="cid5718796" type="Box" label="Box">91</container>
+<unitdate>1970-79.</unitdate>
+<physdesc id="ref400">1 folder.</physdesc>
+</did>
+<odd id="ref401">
+<p>Addition, November 1984.</p>
+</odd>
+</c01>
+<c01 id="ref402" level="file" score="2" C-ORDER="285">
+<did>
+<unittitle>Correspondence,</unittitle>
+<container id="cid5718795" type="Box" label="Box">91</container>
+<unitdate>1980-83.</unitdate>
+<physdesc id="ref403">1 folder.</physdesc>
+</did>
+<odd id="ref404">
+<p>Addition, November 1984.</p>
+</odd>
+</c01>
+<c01 id="ref405" level="file" score="2" C-ORDER="287">
+<did>
+<unittitle>Correspondence,</unittitle>
+<container id="cid5718794" type="Box" label="Box">91</container>
+<unitdate>1982-84.</unitdate>
+<physdesc id="ref406">3 folders.</physdesc>
+</did>
+<odd id="ref407">
+<p>Addition, November 1984.</p>
+</odd>
+</c01>
+<c01 id="ref408" level="file" score="2" C-ORDER="289">
+<did>
+<unittitle>Correspondence,</unittitle>
+<container id="cid5718793" type="Box" label="Box">92</container>
+<unitdate>1982-84.</unitdate>
+<physdesc id="ref409">1 folder.</physdesc>
+</did>
+<odd id="ref410">
+<p>Addition, November 1984.</p>
+</odd>
+</c01>
+<c01 id="ref411" level="file" score="2" C-ORDER="291">
+<did>
+<unittitle>Manuscript material.</unittitle>
+</did>
+<odd id="ref422">
+<p>Addition, November 1984.</p>
+</odd>
+<c02 id="ref412" level="file" score="1" C-ORDER="293">
+<did>
+<unittitle>Book reviews.</unittitle>
+<container id="cid5718792" type="Box" label="Box">92</container>
+<physdesc id="ref413">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref414" level="file" score="1" C-ORDER="294">
+<did>
+<unittitle>
+    <title>Lake Isabella</title>.</unittitle>
+<container id="cid5718791" type="Box" label="Box">92</container>
+<physdesc id="ref415">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref416" level="file" score="1" C-ORDER="295">
+<did>
+<unittitle>
+    <title>Little Italy</title>.</unittitle>
+<container id="cid5718790" type="Box" label="Box">92</container>
+<physdesc id="ref417">2 folders.</physdesc>
+</did>
+</c02>
+<c02 id="ref418" level="file" score="1" C-ORDER="296">
+<did>
+<unittitle>
+    <title>Pine Flat</title>(?).</unittitle>
+<container id="cid5718789" type="Box" label="Box">92</container>
+<physdesc id="ref419">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref420" level="file" score="1" C-ORDER="297">
+<did>
+<unittitle>
+    <title>San Francisco</title>. Chapters 2-5.</unittitle>
+<container id="cid5718788" type="Box" label="Box">92</container>
+<physdesc id="ref421">1 folder.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref423" level="file" score="2" C-ORDER="298">
+<did>
+<unittitle>Manuscript material.</unittitle>
+</did>
+<odd id="ref428">
+<p>Addition, November 1984.</p>
+</odd>
+<c02 id="ref424" level="file" score="1" C-ORDER="300">
+<did>
+<unittitle>
+    <title>Traces of Time</title>.</unittitle>
+<container id="cid5718787" type="Box" label="Box">93</container>
+<physdesc id="ref425">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref426" level="file" score="1" C-ORDER="301">
+<did>
+<unittitle>Unsorted.</unittitle>
+<container id="cid5718786" type="Box" label="Box">93</container>
+<physdesc id="ref427">6 folders.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref429" level="file" score="2" C-ORDER="302">
+<did>
+<unittitle>Manuscript material relating to Richard H. Dillon's 
+<title>Iron men: California's Industrial Pioneers, Peter, James, and Michael Donahue</title>. Point Richmond, California: Candela Press, 
+<emph render="italic">ca.</emph></unittitle>
+<container id="cid5718781" type="Box" label="Box">94</container>
+<unitdate>1984.</unitdate>
+</did>
+<odd id="ref438">
+<p>Addition, April 1985.</p>
+</odd>
+<c02 id="ref430" level="file" score="1" C-ORDER="304">
+<did>
+<unittitle>Research material (photocopy) and notes.</unittitle>
+<container id="cid5718785" type="Box" label="Box">94</container>
+<physdesc id="ref431">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref432" level="file" score="1" C-ORDER="305">
+<did>
+<unittitle>Manuscript. pp.i-xvi, 1-334. With retyped/deleted pages, index, and photograph captions.</unittitle>
+<container id="cid5718784" type="Box" label="Box">94</container>
+<physdesc id="ref433">Typescript, typescript(carbon) with corrections. 1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref434" level="file" score="1" C-ORDER="306">
+<did>
+<unittitle>Proofed galleys.</unittitle>
+<container id="cid5718783" type="Box" label="Box">94</container>
+<physdesc id="ref435">1 folder.</physdesc>
+</did>
+</c02>
+<c02 id="ref436" level="file" score="1" C-ORDER="307">
+<did>
+<unittitle>Pasteup.</unittitle>
+<container id="cid5718782" type="Box" label="Box">94</container>
+<physdesc id="ref437">1 folder.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref439" level="file" score="2" C-ORDER="308">
+<did>
+<unittitle>Richard H. Dillon. 
+<title>Iron men: California's Industrial Pioneers, Peter, James, and Michael Donahue</title>. Point Richmond, California: Candela Press, c.</unittitle>
+<unitdate>1984.</unitdate>
+</did>
+<odd id="ref448">
+<p>Addition, April 1985.</p>
+</odd>
+<c02 id="ref440" level="file" score="1" C-ORDER="310">
+<did>
+<unittitle>Page proofs.</unittitle>
+<container id="cid5718776" type="Box" label="Box">95</container>
+<physdesc id="ref441">4 folders.</physdesc>
+</did>
+<c03 id="ref442" level="otherlevel" score="1" C-ORDER="311">
+<did>
+    <unittitle>pp. 1-100.</unittitle>
+    <container id="cid5718780" type="Box" label="Box">95</container>
+</did>
+</c03>
+<c03 id="ref443" level="otherlevel" score="1" C-ORDER="312">
+<did>
+    <unittitle>pp.101-198.</unittitle>
+    <container id="cid5718779" type="Box" label="Box">95</container>
+</did>
+</c03>
+<c03 id="ref444" level="otherlevel" score="1" C-ORDER="313">
+<did>
+    <unittitle>pp.199-287.</unittitle>
+    <container id="cid5718778" type="Box" label="Box">95</container>
+</did>
+</c03>
+<c03 id="ref445" level="otherlevel" score="1" C-ORDER="314">
+<did>
+    <unittitle>pp.288-234.</unittitle>
+    <container id="cid5718777" type="Box" label="Box">95</container>
+</did>
+</c03>
+</c02>
+<c02 id="ref446" level="file" score="1" C-ORDER="315">
+<did>
+<unittitle>Proof copies.</unittitle>
+<container id="cid5718775" type="Box" label="Box">95</container>
+<physdesc id="ref447">2 items.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 id="ref449" level="file" score="2" C-ORDER="316">
+<did>
+<unittitle>Correspondence. 
+ Unsorted.</unittitle>
+<container id="cid5718774" type="Box" label="Box">96</container>
+<unitdate><emph render="italic">ca.</emph> 1975-85.</unitdate>
+<physdesc id="ref450">2 folders.</physdesc>
+</did>
+<odd id="ref451">
+<p>Addition, April 1985.</p>
+</odd>
+</c01>
+<c01 id="ref452" level="file" score="2" C-ORDER="318">
+<did>
+<unittitle>Correspondence. Unsorted.</unittitle>
+<container id="cid5718773" type="Box" label="Box">96</container>
+<unitdate>1982.</unitdate>
+<physdesc id="ref453">2 folders.</physdesc>
+</did>
+<odd id="ref454">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref455" level="file" score="2" C-ORDER="320">
+<did>
+<unittitle>Manuscript--work unclear. Unsorted.</unittitle>
+<container id="cid5718772" type="Box" label="Box">96</container>
+<physdesc id="ref456">1 folder.</physdesc>
+</did>
+<odd id="ref457">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref458" level="file" score="2" C-ORDER="322">
+<did>
+<unittitle>Typescripts and manuscripts to unidentified work. Unsorted.</unittitle>
+<container id="cid5718771" type="Box" label="Box">97</container>
+<physdesc id="ref459">2 folders.</physdesc>
+</did>
+<odd id="ref460">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref461" level="file" score="2" C-ORDER="324">
+<did>
+<unittitle>Manuscript to unidentified work; Correspondence from 1982. Unsorted.</unittitle>
+<container id="cid5718770" type="Box" label="Box">97</container>
+<physdesc id="ref462">1 folder.</physdesc>
+</did>
+<odd id="ref463">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref464" level="file" score="2" C-ORDER="326">
+<did>
+<unittitle>Correspondence. Unsorted.</unittitle>
+<container id="cid5718769" type="Box" label="Box">97</container>
+<unitdate>1982.</unitdate>
+<physdesc id="ref465">3 folders.</physdesc>
+</did>
+<odd id="ref466">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref467" level="file" score="2" C-ORDER="328">
+<did>
+<unittitle>Correspondence. Typescripts--work unclear. Unsorted.</unittitle>
+<container id="cid5718768" type="Box" label="Box">97</container>
+<unitdate>1982.</unitdate>
+<physdesc id="ref468">2 folders.</physdesc>
+</did>
+<odd id="ref469">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref470" level="file" score="2" C-ORDER="330">
+<did>
+<unittitle>Correspondence, typescripts--work unclear. Unsorted.</unittitle>
+<container id="cid5718767" type="Box" label="Box">98</container>
+<unitdate>1982.</unitdate>
+<physdesc id="ref471">8 folders.</physdesc>
+</did>
+<odd id="ref472">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref473" level="file" score="2" C-ORDER="332">
+<did>
+<unittitle>Richard H. Dillon. 
+<title>Delta Country</title>. Novato, California: Presidio Press, c.</unittitle>
+<container id="cid5718766" type="Box" label="Box">99</container>
+<unitdate>1982.</unitdate>
+<physdesc id="ref474">134pp. 2 folders, 1 complete set in each folder.</physdesc>
+</did>
+<odd id="ref475">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref476" level="file" score="2" C-ORDER="334">
+<did>
+<unittitle>
+<title>Delta Country</title>: galley from publisher.</unittitle>
+<container id="cid5718765" type="Box" label="Box">99</container>
+<physdesc id="ref477">2 folders.</physdesc>
+</did>
+<odd id="ref478">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref479" level="file" score="2" C-ORDER="336">
+<did>
+<unittitle>
+<title>Delta Country</title>: Drafts of Parts 1, 2, and 3.</unittitle>
+<container id="cid5718764" type="Box" label="Box">99</container>
+<physdesc id="ref480">3 folders.</physdesc>
+</did>
+<odd id="ref481">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref482" level="file" score="2" C-ORDER="338">
+<did>
+<unittitle>
+<title>Delta Country</title>: Proofs.</unittitle>
+<container id="cid5718763" type="Box" label="Box">99</container>
+<physdesc id="ref483">1 folder.</physdesc>
+</did>
+<odd id="ref484">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref485" level="file" score="2" C-ORDER="340">
+<did>
+<unittitle>Correspondence. Unsorted.</unittitle>
+<container id="cid5718762" type="Box" label="Box">100</container>
+<unitdate>1982-83.</unitdate>
+<physdesc id="ref486">2 folders.</physdesc>
+</did>
+<odd id="ref487">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref488" level="file" score="2" C-ORDER="342">
+<did>
+<unittitle>Proofs for 
+<title>Delta Country</title> (?).</unittitle>
+<container id="cid5718761" type="Box" label="Box">100</container>
+<physdesc id="ref489">2 folders.</physdesc>
+</did>
+<odd id="ref490">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref491" level="file" score="2" C-ORDER="344">
+<did>
+<unittitle>Manuscripts to 
+<title>Delta Country</title> (?).</unittitle>
+<container id="cid5718760" type="Box" label="Box">100</container>
+<physdesc id="ref492">2 folders.</physdesc>
+</did>
+<odd id="ref493">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref494" level="file" score="2" C-ORDER="346">
+<did>
+<unittitle>Galleys--
+<title>Delta Country </title>(?).</unittitle>
+<container id="cid5718759" type="Box" label="Box">101</container>
+<physdesc id="ref495">1 folder.</physdesc>
+</did>
+<odd id="ref496">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref497" level="file" score="2" C-ORDER="348">
+<did>
+<unittitle>Typescripts--
+<title>Delta Country </title>(?).</unittitle>
+<container id="cid5718758" type="Box" label="Box">101</container>
+<physdesc id="ref498">8 folders.</physdesc>
+</did>
+<odd id="ref499">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref500" level="file" score="2" C-ORDER="350">
+<did>
+<unittitle>Correspondence, Typescripts for 
+<title>Delta Country</title>.</unittitle>
+<container id="cid5718757" type="Box" label="Box">101</container>
+<unitdate>1983.</unitdate>
+<physdesc id="ref501">1 folder</physdesc>
+</did>
+<odd id="ref502">
+<p>Addition, January 1986.</p>
+</odd>
+</c01>
+<c01 id="ref503" level="file" score="1" C-ORDER="352">
+<did>
+<unittitle>Book Reviews and Correspondence</unittitle>
+</did>
+<c02 id="ref504" level="file" score="1" C-ORDER="353">
+<did>
+<unittitle/>
+<container id="cid5718756" type="Box" label="Box">113</container>
+<unitdate>1986-94.</unitdate>
+</did>
+</c02>
+<c02 id="ref505" level="file" score="1" C-ORDER="354">
+<did>
+<unittitle/>
+<container id="cid5718755" type="Box" label="Box">114</container>
+<container parent="cid5718755" type="Folder" label="Folders">1-2</container>
+<unitdate>ca. 1975-89.</unitdate>
+</did>
+</c02>
+<c02 id="ref506" level="file" score="1" C-ORDER="355">
+<did>
+<unittitle/>
+<container id="cid5718754" type="Box" label="Box">114</container>
+<container parent="cid5718754" type="Folder" label="Folders">3-5</container>
+<unitdate>ca. 1986-96.</unitdate>
+</did>
+</c02>
+<c02 id="ref507" level="file" score="1" C-ORDER="356">
+<did>
+<unittitle/>
+<container id="cid5718753" type="Box" label="Box">115</container>
+<container parent="cid5718753" type="Folder" label="Folders">1-4</container>
+<unitdate>ca. 1988-93.</unitdate>
+</did>
+</c02>
+<c02 id="ref508" level="file" score="1" C-ORDER="357">
+<did>
+<unittitle/>
+<container id="cid5718752" type="Box" label="Box">115</container>
+<container parent="cid5718752" type="Folder" label="Folder">5</container>
+<unitdate>ca. 1990-96.</unitdate>
+</did>
+</c02>
+<c02 id="ref509" level="file" score="1" C-ORDER="358">
+<did>
+<unittitle/>
+<container id="cid5718751" type="Box" label="Box">116</container>
+<container parent="cid5718751" type="Folder" label="Folders">1-4</container>
+<unitdate>ca. 1986-96.</unitdate>
+</did>
+</c02>
+<c02 id="ref510" level="file" score="1" C-ORDER="359">
+<did>
+<unittitle/>
+<container id="cid5718750" type="Box" label="Box">117</container>
+<container parent="cid5718750" type="Folder" label="Folder">1</container>
+<unitdate>ca. 1975-89.</unitdate>
+</did>
+</c02>
+<c02 id="ref511" level="file" score="1" C-ORDER="360">
+<did>
+<unittitle/>
+<container id="cid5718749" type="Box" label="Box">117</container>
+<container parent="cid5718749" type="Folder" label="Folders">3-4</container>
+<unitdate>ca. 1996-97.</unitdate>
+</did>
+</c02>
+<c02 id="ref512" level="file" score="1" C-ORDER="361">
+<did>
+<unittitle>(folder 1 of 6).</unittitle>
+<container id="cid5718748" type="Box" label="Box">117</container>
+<container parent="cid5718748" type="Folder" label="Folder">5</container>
+<unitdate>ca. 1975-97</unitdate>
+</did>
+</c02>
+<c02 id="ref513" level="file" score="1" C-ORDER="362">
+<did>
+<unittitle>(folders 2-6 of 6).</unittitle>
+<container id="cid5718747" type="Box" label="Box">118</container>
+<container parent="cid5718747" type="Folder" label="Folders">1-5</container>
+<unitdate>ca. 1975-97</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref514" level="file" score="1" C-ORDER="363">
+<did>
+<unittitle>Books by Richard Dillon</unittitle>
+</did>
+<c02 id="ref515" level="file" score="2" C-ORDER="364">
+<did>
+<unittitle>
+    <title>Meriwether Lewis</title>--design for dustjacket.</unittitle>
+<container id="cid5718746" type="Box" label="Box">103</container>
+</did>
+<odd id="ref516">
+<p>
+    <emph render="italic">Unavailable.</emph></p>
+</odd>
+</c02>
+<c02 id="ref517" level="file" score="1" C-ORDER="366">
+<did>
+<unittitle>
+    <title>Great Expectations</title>--pasteup with photographs.</unittitle>
+<container id="cid5718745" type="Box" label="Box">103</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref518" level="file" score="1" C-ORDER="367">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c02 id="ref519" level="file" score="1" C-ORDER="368">
+<did>
+<unittitle/>
+<container id="cid5718744" type="Box" label="Box">102</container>
+<container parent="cid5718744" type="Folder" label="Folder">1</container>
+<unitdate>1966, 1987-88.</unitdate>
+</did>
+</c02>
+<c02 id="ref520" level="file" score="1" C-ORDER="369">
+<did>
+<unittitle/>
+<container id="cid5718743" type="Box" label="Box">102</container>
+<container parent="cid5718743" type="Folder" label="Folders">2-4</container>
+<unitdate>1987-88.</unitdate>
+</did>
+</c02>
+<c02 id="ref521" level="file" score="1" C-ORDER="370">
+<did>
+<unittitle/>
+<container id="cid5718742" type="Box" label="Box">104</container>
+<container parent="cid5718742" type="Folder" label="Folder">1</container>
+<unitdate>1950s-60s (1955-69).</unitdate>
+</did>
+</c02>
+<c02 id="ref522" level="file" score="1" C-ORDER="371">
+<did>
+<unittitle/>
+<container id="cid5718741" type="Box" label="Box">104</container>
+<container parent="cid5718741" type="Folder" label="Folder">2</container>
+<unitdate>1970s.</unitdate>
+</did>
+</c02>
+<c02 id="ref523" level="file" score="1" C-ORDER="372">
+<did>
+<unittitle/>
+<container id="cid5718740" type="Box" label="Box">104</container>
+<container parent="cid5718740" type="Folder" label="Folder">3</container>
+<unitdate>1980-83.</unitdate>
+</did>
+</c02>
+<c02 id="ref524" level="file" score="1" C-ORDER="373">
+<did>
+<unittitle/>
+<container id="cid5718739" type="Box" label="Box">104</container>
+<container parent="cid5718739" type="Folder" label="Folders">4-7</container>
+<unitdate>1984-85.</unitdate>
+</did>
+</c02>
+<c02 id="ref525" level="file" score="1" C-ORDER="374">
+<did>
+<unittitle/>
+<container id="cid5718738" type="Box" label="Box">105</container>
+<container parent="cid5718738" type="Folder" label="Folder">1-2</container>
+<unitdate>1985.</unitdate>
+</did>
+</c02>
+<c02 id="ref526" level="file" score="1" C-ORDER="375">
+<did>
+<unittitle>(Folder 1 of 5).</unittitle>
+<container id="cid5718737" type="Box" label="Box">106</container>
+<container parent="cid5718737" type="Folder" label="Folder">10</container>
+<unitdate>1979-89</unitdate>
+</did>
+</c02>
+<c02 id="ref527" level="file" score="1" C-ORDER="376">
+<did>
+<unittitle>(Folders 2-5 of 5).</unittitle>
+<container id="cid5718736" type="Box" label="Box">107</container>
+<container parent="cid5718736" type="Folder" label="Folders">1-4</container>
+<unitdate>1979-89</unitdate>
+</did>
+</c02>
+<c02 id="ref528" level="file" score="1" C-ORDER="377">
+<did>
+<unittitle/>
+<container id="cid5718735" type="Box" label="Box">119</container>
+<container parent="cid5718735" type="Folder" label="Folder">1</container>
+<unitdate>ca. 1966-90.</unitdate>
+</did>
+</c02>
+<c02 id="ref529" level="file" score="1" C-ORDER="378">
+<did>
+<unittitle/>
+<container id="cid5718734" type="Box" label="Box">119</container>
+<container parent="cid5718734" type="Folder" label="Folders">2-3</container>
+<unitdate>1987-98.</unitdate>
+</did>
+</c02>
+<c02 id="ref530" level="file" score="1" C-ORDER="379">
+<did>
+<unittitle/>
+<container id="cid5718733" type="Box" label="Box">119</container>
+<container parent="cid5718733" type="Folder" label="Folder">4</container>
+<unitdate>1997.</unitdate>
+</did>
+</c02>
+<c02 id="ref531" level="file" score="2" C-ORDER="380">
+<did>
+<unittitle>Christmas cards.</unittitle>
+<container id="cid5718732" type="Box" label="Box">120</container>
+<container parent="cid5718732" type="Folder" label="Folder">3</container>
+</did>
+<odd id="ref532">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref533" level="file" score="2" C-ORDER="382">
+<did>
+<unittitle/>
+<container id="cid5718731" type="Box" label="Box">120</container>
+<container parent="cid5718731" type="Folder" label="Folder">4</container>
+<unitdate>ca. 1966-79.</unitdate>
+</did>
+<odd id="ref534">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref535" level="file" score="2" C-ORDER="384">
+<did>
+<unittitle/>
+<container id="cid5718730" type="Box" label="Box">120</container>
+<container parent="cid5718730" type="Folder" label="Folder">5</container>
+<unitdate>ca. 1992-99.</unitdate>
+</did>
+<odd id="ref536">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref537" level="file" score="2" C-ORDER="386">
+<did>
+<unittitle/>
+<container id="cid5718729" type="Box" label="Box">120</container>
+<container parent="cid5718729" type="Folder" label="Folders">6-7</container>
+<unitdate>ca. 1999-2000.</unitdate>
+</did>
+<odd id="ref538">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref539" level="file" score="2" C-ORDER="388">
+<did>
+<unittitle/>
+<container id="cid5718728" type="Box" label="Box">122</container>
+<container parent="cid5718728" type="Folder" label="Folders">14-15</container>
+<unitdate>ca. 1968-99.</unitdate>
+</did>
+<odd id="ref540">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref541" level="file" score="2" C-ORDER="390">
+<did>
+<unittitle/>
+<container id="cid5718727" type="Box" label="Box">123</container>
+<container parent="cid5718727" type="Folder" label="Folders">1-5</container>
+<unitdate>ca. 1968-98.</unitdate>
+</did>
+<odd id="ref542">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+</c01>
+<c01 id="ref543" level="file" score="1" C-ORDER="392">
+<did>
+<unittitle>Elderhostel</unittitle>
+</did>
+<c02 id="ref544" level="file" score="2" C-ORDER="393">
+<did>
+<unittitle>Literature of San Francisco, Elderhostel course,</unittitle>
+<container id="cid5718726" type="Box" label="Box">122</container>
+<container parent="cid5718726" type="Folder" label="Folder">9</container>
+<unitdate>1987.</unitdate>
+</did>
+<odd id="ref545">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+</c01>
+<c01 id="ref546" level="file" score="1" C-ORDER="395">
+<did>
+<unittitle>Ephemera</unittitle>
+</did>
+<c02 id="ref547" level="file" score="1" C-ORDER="396">
+<did>
+<unittitle>Announcements of speaking engagements, book jacket covers.</unittitle>
+<container id="cid5718725" type="Box" label="Box">103</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref548" level="file" score="1" C-ORDER="397">
+<did>
+<unittitle>Fromm Institute</unittitle>
+</did>
+<c02 id="ref549" level="file" score="2" C-ORDER="398">
+<did>
+<unittitle>
+    <title>The Civil War: A View from the West</title>,</unittitle>
+<container id="cid5718724" type="Box" label="Box">121</container>
+<container parent="cid5718724" type="Folder" label="Folder">9</container>
+<unitdate>1986-87.</unitdate>
+</did>
+<odd id="ref550">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref551" level="file" score="2" C-ORDER="400">
+<did>
+<unittitle>
+    <title>California Names on the Land</title>,</unittitle>
+<container id="cid5718723" type="Box" label="Box">122</container>
+<container parent="cid5718723" type="Folder" label="Folder">1</container>
+<unitdate>1993.</unitdate>
+</did>
+<odd id="ref552">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref553" level="file" score="2" C-ORDER="402">
+<did>
+<unittitle>
+    <title>History of Modern San Francisco</title>,</unittitle>
+<container id="cid5718722" type="Box" label="Box">122</container>
+<container parent="cid5718722" type="Folder" label="Folder">2</container>
+<unitdate>1985.</unitdate>
+</did>
+<odd id="ref554">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref555" level="file" score="2" C-ORDER="404">
+<did>
+<unittitle>
+    <title>Mexican California</title>.</unittitle>
+<container id="cid5718721" type="Box" label="Box">122</container>
+<container parent="cid5718721" type="Folder" label="Folder">3</container>
+</did>
+<odd id="ref556">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref557" level="file" score="2" C-ORDER="406">
+<did>
+<unittitle>
+    <title>History of California</title>,</unittitle>
+<container id="cid5718720" type="Box" label="Box">122</container>
+<container parent="cid5718720" type="Folder" label="Folder">4</container>
+<unitdate>1979.</unitdate>
+</did>
+<odd id="ref558">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref559" level="file" score="2" C-ORDER="408">
+<did>
+<unittitle>
+    <title>History of Hawaii</title>.</unittitle>
+<container id="cid5718719" type="Box" label="Box">122</container>
+<container parent="cid5718719" type="Folder" label="Folder">5</container>
+</did>
+<odd id="ref560">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref561" level="file" score="2" C-ORDER="410">
+<did>
+<unittitle>
+    <title>Bestsellers: The Popular Book in America</title>,</unittitle>
+<container id="cid5718718" type="Box" label="Box">122</container>
+<container parent="cid5718718" type="Folder" label="Folder">6</container>
+<unitdate>1966.</unitdate>
+</did>
+<odd id="ref562">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref563" level="file" score="2" C-ORDER="412">
+<did>
+<unittitle>Course proposals.</unittitle>
+<container id="cid5718717" type="Box" label="Box">122</container>
+<container parent="cid5718717" type="Folder" label="Folder">7</container>
+</did>
+<odd id="ref564">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref565" level="file" score="2" C-ORDER="414">
+<did>
+<unittitle>Curriculum proposals,</unittitle>
+<container id="cid5718716" type="Box" label="Box">122</container>
+<container parent="cid5718716" type="Folder" label="Folder">8</container>
+<unitdate>1997-1998.</unitdate>
+</did>
+<odd id="ref566">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref567" level="file" score="2" C-ORDER="416">
+<did>
+<unittitle>
+    <title>Looking Back from 1900</title>,</unittitle>
+<container id="cid5718715" type="Box" label="Box">122</container>
+<container parent="cid5718715" type="Folder" label="Folder">11</container>
+<unitdate>1990.</unitdate>
+</did>
+<odd id="ref568">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref569" level="file" score="2" C-ORDER="418">
+<did>
+<unittitle>
+    <title>History of San Francisco</title>,</unittitle>
+<container id="cid5718714" type="Box" label="Box">122</container>
+<container parent="cid5718714" type="Folder" label="Folder">12</container>
+<unitdate>1984.</unitdate>
+</did>
+<odd id="ref570">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+</c01>
+<c01 id="ref571" level="file" score="1" C-ORDER="420">
+<did>
+<unittitle>Manuscript by Roger Larson</unittitle>
+</did>
+<c02 id="ref572" level="file" score="2" C-ORDER="421">
+<did>
+<unittitle>
+    <title>An Informal History of a Unique California Press</title>.</unittitle>
+<container id="cid5718713" type="Box" label="Box">102</container>
+<container parent="cid5718713" type="Folder" label="Folder">5</container>
+</did>
+<scopecontent id="ref573">
+<p>With letter, January 16, 1988.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 id="ref574" level="file" score="1" C-ORDER="423">
+<did>
+<unittitle>Manuscripts</unittitle>
+</did>
+<c02 id="ref575" level="file" score="1" C-ORDER="424">
+<did>
+<unittitle>Unidentified pages, 502--?.</unittitle>
+<container id="cid5718712" type="Box" label="Box">119</container>
+<container parent="cid5718712" type="Folder" label="Folder">5</container>
+</did>
+</c02>
+<c02 id="ref576" level="file" score="1" C-ORDER="425">
+<did>
+<unittitle>
+    <title>Great Expectations</title>.</unittitle>
+<container id="cid5718711" type="Box" label="Box">119</container>
+<container parent="cid5718711" type="Folder" label="Folders">6-7</container>
+</did>
+</c02>
+<c02 id="ref577" level="file" score="1" C-ORDER="426">
+<did>
+<unittitle>
+    <title>Lake Success</title>.</unittitle>
+<container id="cid5718710" type="Box" label="Box">120</container>
+<container parent="cid5718710" type="Folder" label="Folder">1</container>
+</did>
+</c02>
+<c02 id="ref578" level="file" score="1" C-ORDER="427">
+<did>
+<unittitle>Articles, speeches, book reviews.</unittitle>
+<container id="cid5718709" type="Box" label="Box">120</container>
+<container parent="cid5718709" type="Folder" label="Folder">2</container>
+</did>
+</c02>
+</c01>
+<c01 id="ref579" level="file" score="1" C-ORDER="428">
+<did>
+<unittitle>Manuscripts and Correspondence</unittitle>
+</did>
+<c02 id="ref580" level="file" score="1" C-ORDER="429">
+<did>
+<unittitle>Unprocessed.</unittitle>
+<container id="cid5718708" type="Box" label="Boxes">108-109</container>
+</did>
+</c02>
+<c02 id="ref581" level="file" score="1" C-ORDER="430">
+<did>
+<unittitle/>
+<container id="cid5718707" type="Box" label="Box">110</container>
+<unitdate>1990-91.</unitdate>
+</did>
+</c02>
+<c02 id="ref582" level="file" score="1" C-ORDER="431">
+<did>
+<unittitle/>
+<container id="cid5718706" type="Box" label="Box">112</container>
+<unitdate>1992-93.</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref583" level="file" score="1" C-ORDER="432">
+<did>
+<unittitle>Manuscripts by Richard Dillon</unittitle>
+</did>
+<c02 id="ref584" level="file" score="1" C-ORDER="433">
+<did>
+<unittitle>Book reviews.</unittitle>
+<container id="cid5718705" type="Box" label="Box">102</container>
+<container parent="cid5718705" type="Folder" label="Folder">6</container>
+</did>
+</c02>
+<c02 id="ref585" level="file" score="1" C-ORDER="434">
+<did>
+<unittitle>
+    <title>Blackhawk Ranch</title>.</unittitle>
+<container id="cid5718704" type="Box" label="Box">102</container>
+<container parent="cid5718704" type="Folder" label="Folders">7-8</container>
+</did>
+</c02>
+<c02 id="ref586" level="file" score="1" C-ORDER="435">
+<did>
+<unittitle>
+    <title>The Last Days of the California Missions</title>.</unittitle>
+<container id="cid5718703" type="Box" label="Box">102</container>
+<container parent="cid5718703" type="Folder" label="Folder">9</container>
+</did>
+</c02>
+<c02 id="ref587" level="file" score="1" C-ORDER="436">
+<did>
+<unittitle>
+    <title>Maynard Dixon: From Coronado to Canon de Chelly</title>.</unittitle>
+<container id="cid5718702" type="Box" label="Box">102</container>
+<container parent="cid5718702" type="Folder" label="Folder">10</container>
+</did>
+</c02>
+<c02 id="ref588" level="file" score="1" C-ORDER="437">
+<did>
+<unittitle>
+    <title>The Modoc War: A Campaign Without Counterpart</title>.</unittitle>
+<container id="cid5718701" type="Box" label="Box">102</container>
+<container parent="cid5718701" type="Folder" label="Folder">11</container>
+</did>
+</c02>
+<c02 id="ref589" level="file" score="1" C-ORDER="438">
+<did>
+<unittitle>San Francisco.</unittitle>
+<container id="cid5718700" type="Box" label="Box">102</container>
+<container parent="cid5718700" type="Folder" label="Folder">12</container>
+</did>
+</c02>
+<c02 id="ref590" level="file" score="1" C-ORDER="439">
+<did>
+<unittitle>San Francisco's historic Embarcadero.</unittitle>
+<container id="cid5718699" type="Box" label="Box">102</container>
+<container parent="cid5718699" type="Folder" label="Folder">13</container>
+</did>
+</c02>
+<c02 id="ref591" level="file" score="1" C-ORDER="440">
+<did>
+<unittitle>
+    <title>Last Days of the California Missions</title>--manuscript.</unittitle>
+<container id="cid5718698" type="Box" label="Box">103</container>
+</did>
+</c02>
+<c02 id="ref592" level="file" score="1" C-ORDER="441">
+<did>
+<unittitle>Book reviews.</unittitle>
+<container id="cid5718697" type="Box" label="Box">105</container>
+<container parent="cid5718697" type="Folder" label="Folder">3</container>
+</did>
+</c02>
+<c02 id="ref593" level="file" score="1" C-ORDER="442">
+<did>
+<unittitle>North Beach.</unittitle>
+<container id="cid5718696" type="Box" label="Box">105</container>
+<container parent="cid5718696" type="Folder" label="Folder">4</container>
+</did>
+</c02>
+<c02 id="ref594" level="file" score="1" C-ORDER="443">
+<did>
+<unittitle>San Francisco's Army of Occupation in 1906.</unittitle>
+<container id="cid5718695" type="Box" label="Box">105</container>
+<container parent="cid5718695" type="Folder" label="Folder">5</container>
+</did>
+</c02>
+<c02 id="ref595" level="file" score="1" C-ORDER="444">
+<did>
+<unittitle>
+    <title>Iron Men</title>.</unittitle>
+<container id="cid5718694" type="Box" label="Box">105</container>
+<container parent="cid5718694" type="Folder" label="Folder">6</container>
+</did>
+</c02>
+<c02 id="ref596" level="file" score="1" C-ORDER="445">
+<did>
+<unittitle>Preface for Ferol Egan's 
+    <title>Fremont</title>.</unittitle>
+<container id="cid5718693" type="Box" label="Box">105</container>
+<container parent="cid5718693" type="Folder" label="Folder">7</container>
+</did>
+</c02>
+<c02 id="ref597" level="file" score="1" C-ORDER="446">
+<did>
+<unittitle>Autobiographical speech.</unittitle>
+<container id="cid5718692" type="Box" label="Box">105</container>
+<container parent="cid5718692" type="Folder" label="Folder">8</container>
+</did>
+</c02>
+<c02 id="ref598" level="file" score="1" C-ORDER="447">
+<did>
+<unittitle>
+    <title>The Lady of the Land</title>.</unittitle>
+<container id="cid5718691" type="Box" label="Box">105</container>
+<container parent="cid5718691" type="Folder" label="Folder">9</container>
+</did>
+</c02>
+<c02 id="ref599" level="file" score="1" C-ORDER="448">
+<did>
+<unittitle>
+    <title>The Three Faces of Chinatown</title>.</unittitle>
+<container id="cid5718690" type="Box" label="Box">105</container>
+<container parent="cid5718690" type="Folder" label="Folder">10</container>
+</did>
+</c02>
+<c02 id="ref600" level="file" score="1" C-ORDER="449">
+<did>
+<unittitle>Port Costa.</unittitle>
+<container id="cid5718689" type="Box" label="Box">105</container>
+<container parent="cid5718689" type="Folder" label="Folder">11</container>
+</did>
+</c02>
+<c02 id="ref601" level="file" score="1" C-ORDER="450">
+<did>
+<unittitle>
+    <title>The Later Days of the California Missions</title>.</unittitle>
+<container id="cid5718688" type="Box" label="Box">105</container>
+<container parent="cid5718688" type="Folder" label="Folder">12</container>
+</did>
+</c02>
+<c02 id="ref602" level="file" score="1" C-ORDER="451">
+<did>
+<unittitle>
+    <title>Impressions of Bohemia</title>.</unittitle>
+<container id="cid5718687" type="Box" label="Box">105</container>
+<container parent="cid5718687" type="Folder" label="Folder">13</container>
+</did>
+</c02>
+<c02 id="ref603" level="file" score="1" C-ORDER="452">
+<did>
+<unittitle>
+    <title>History of Modern San Francisco</title>.</unittitle>
+<container id="cid5718686" type="Box" label="Box">105</container>
+<container parent="cid5718686" type="Folder" label="Folder">14</container>
+</did>
+</c02>
+<c02 id="ref604" level="file" score="1" C-ORDER="453">
+<did>
+<unittitle>Oliver Hazard Perry sketch for 
+    <title>Encyclopedia Americana</title>.</unittitle>
+<container id="cid5718685" type="Box" label="Box">105</container>
+<container parent="cid5718685" type="Folder" label="Folder">15</container>
+</did>
+</c02>
+<c02 id="ref605" level="file" score="1" C-ORDER="454">
+<did>
+<unittitle>Book reviews.</unittitle>
+<container id="cid5718684" type="Box" label="Box">106</container>
+<container parent="cid5718684" type="Folder" label="Folder">1</container>
+</did>
+</c02>
+<c02 id="ref606" level="file" score="1" C-ORDER="455">
+<did>
+<unittitle>Introduction--Captain Woodes Rogers'... by Louis Osborne.</unittitle>
+<container id="cid5718683" type="Box" label="Box">106</container>
+<container parent="cid5718683" type="Folder" label="Folder">2</container>
+</did>
+</c02>
+<c02 id="ref607" level="file" score="1" C-ORDER="456">
+<did>
+<unittitle>
+    <title>Czarist California</title>.</unittitle>
+<container id="cid5718682" type="Box" label="Box">106</container>
+<container parent="cid5718682" type="Folder" label="Folder">3</container>
+</did>
+</c02>
+<c02 id="ref608" level="file" score="1" C-ORDER="457">
+<did>
+<unittitle>
+    <title>Fall Color in California</title>.</unittitle>
+<container id="cid5718681" type="Box" label="Box">106</container>
+<container parent="cid5718681" type="Folder" label="Folder">4</container>
+</did>
+</c02>
+<c02 id="ref609" level="file" score="1" C-ORDER="458">
+<did>
+<unittitle>
+    <title>High Steel</title>.</unittitle>
+<container id="cid5718680" type="Box" label="Box">106</container>
+<container parent="cid5718680" type="Folder" label="Folder">5</container>
+</did>
+</c02>
+<c02 id="ref610" level="file" score="1" C-ORDER="459">
+<did>
+<unittitle>
+    <title>Texas Argonauts</title>--galleys.</unittitle>
+<container id="cid5718679" type="Box" label="Box">106</container>
+<container parent="cid5718679" type="Folder" label="Folder">6</container>
+</did>
+</c02>
+<c02 id="ref611" level="file" score="1" C-ORDER="460">
+<did>
+<unittitle>
+    <title>Texas Argonauts</title>--page proofs.</unittitle>
+<container id="cid5718678" type="Box" label="Box">106</container>
+<container parent="cid5718678" type="Folder" label="Folder">7</container>
+</did>
+</c02>
+<c02 id="ref612" level="file" score="1" C-ORDER="461">
+<did>
+<unittitle>
+    <title>Treasure Island</title>--first draft.</unittitle>
+<container id="cid5718677" type="Box" label="Box">106</container>
+<container parent="cid5718677" type="Folder" label="Folder">8</container>
+</did>
+</c02>
+<c02 id="ref613" level="file" score="1" C-ORDER="462">
+<did>
+<unittitle>
+    <title>Yosemite Guests</title>.</unittitle>
+<container id="cid5718676" type="Box" label="Box">106</container>
+<container parent="cid5718676" type="Folder" label="Folder">9</container>
+</did>
+</c02>
+<c02 id="ref614" level="file" score="2" C-ORDER="463">
+<did>
+<unittitle>Blackhawk Ranch,</unittitle>
+<container id="cid5718675" type="Box" label="Box">117</container>
+<container parent="cid5718675" type="Folder" label="Folder">2</container>
+<unitdate>1988.</unitdate>
+</did>
+<scopecontent id="ref615">
+<p>Unpublished, photocopy of typescript.</p>
+</scopecontent>
+</c02>
+<c02 id="ref616" level="file" score="2" C-ORDER="465">
+<did>
+<unittitle>
+    <title>Great Expectations</title>--rough draft.</unittitle>
+<container id="cid5718674" type="Box" label="Box">121</container>
+<container parent="cid5718674" type="Folder" label="Folders">1-2</container>
+</did>
+<odd id="ref617">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref618" level="file" score="2" C-ORDER="467">
+<did>
+<unittitle>Publishers' contracts.</unittitle>
+<container id="cid5718673" type="Box" label="Box">121</container>
+<container parent="cid5718673" type="Folder" label="Folder">3</container>
+</did>
+<odd id="ref619">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref620" level="file" score="2" C-ORDER="469">
+<did>
+<unittitle>Articles by Richard H. Dillon.</unittitle>
+<container id="cid5718672" type="Box" label="Box">121</container>
+<container parent="cid5718672" type="Folder" label="Folder">4</container>
+</did>
+<odd id="ref621">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref622" level="file" score="2" C-ORDER="471">
+<did>
+<unittitle>Book reviews by Richard H. Dillon.</unittitle>
+<container id="cid5718671" type="Box" label="Box">121</container>
+<container parent="cid5718671" type="Folder" label="Folder">5</container>
+</did>
+<odd id="ref623">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref624" level="file" score="2" C-ORDER="473">
+<did>
+<unittitle>Articles by Richard H. Dillon for 
+    <title>American National Biography</title>.</unittitle>
+<container id="cid5718670" type="Box" label="Box">121</container>
+<container parent="cid5718670" type="Folder" label="Folders">6-7</container>
+</did>
+<odd id="ref625">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref626" level="file" score="2" C-ORDER="475">
+<did>
+<unittitle>Richard H. Dillon's critique of 
+    <title>Gold Fever</title> by J.S. Holliday.</unittitle>
+<container id="cid5718669" type="Box" label="Box">121</container>
+<container parent="cid5718669" type="Folder" label="Folder">8</container>
+</did>
+<odd id="ref627">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref628" level="file" score="2" C-ORDER="477">
+<did>
+<unittitle>Writing awards materials.</unittitle>
+<container id="cid5718668" type="Box" label="Box">122</container>
+<container parent="cid5718668" type="Folder" label="Folder">10</container>
+</did>
+<odd id="ref629">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref630" level="file" score="2" C-ORDER="479">
+<did>
+<unittitle>Introduction to 
+    <title>A History of San Francisco</title> by John Hittell ( reprint).</unittitle>
+<container id="cid5718667" type="Box" label="Box">122</container>
+<container parent="cid5718667" type="Folder" label="Folder">13</container>
+<unitdate>1999</unitdate>
+</did>
+<odd id="ref631">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref632" level="file" score="2" C-ORDER="481">
+<did>
+<unittitle>
+    <title>Uncanny America</title>.</unittitle>
+<container id="cid5718666" type="Box" label="Box">124</container>
+<container parent="cid5718666" type="Folder" label="Folder">2</container>
+</did>
+<odd id="ref633">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+<c02 id="ref634" level="file" score="2" C-ORDER="483">
+<did>
+<unittitle>
+    <title>An Unnatural History of America</title>--notes.</unittitle>
+<container id="cid5718665" type="Box" label="Box">124</container>
+<container parent="cid5718665" type="Folder" label="Folder">3</container>
+</did>
+<odd id="ref635">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+</c01>
+<c01 id="ref636" level="file" score="1" C-ORDER="485">
+<did>
+<unittitle>Personal</unittitle>
+</did>
+<c02 id="ref637" level="file" score="2" C-ORDER="486">
+<did>
+<unittitle>Calendars.</unittitle>
+<container id="cid5718664" type="Box" label="Box">124</container>
+<container parent="cid5718664" type="Folder" label="Folder">4</container>
+</did>
+<odd id="ref638">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+</c01>
+<c01 id="ref639" level="file" score="1" C-ORDER="488">
+<did>
+<unittitle>University of California, Berkeley</unittitle>
+</did>
+<c02 id="ref640" level="file" score="2" C-ORDER="489">
+<did>
+<unittitle>London--lecture notes,</unittitle>
+<container id="cid5718663" type="Box" label="Box">124</container>
+<container parent="cid5718663" type="Folder" label="Folder">1</container>
+<unitdate>1970.</unitdate>
+</did>
+<odd id="ref641">
+<p>Addition, January 2002.</p>
+</odd>
+</c02>
+</c01>
+<c01 id="ref642" level="file" score="1" C-ORDER="491">
+<did>
+<unittitle>Correspondence Circa. 1960-2006</unittitle>
+<container id="cid6489001" type="Box" label="Boxes">125-134</container>
+</did>
+</c01>
+<c01 id="ref644" level="file" score="1" C-ORDER="492">
+<did>
+<unittitle>Richard Dillon Passport</unittitle>
+<container id="cid6489002" type="Box" label="Box">135</container>
+<container parent="cid6489002" type="Folder" label="Folder">1</container>
+</did>
+</c01>
+<c01 id="ref645" level="file" score="1" C-ORDER="493">
+<did>
+<unittitle>Richard Dillon Photographs</unittitle>
+<container id="cid6489003" type="Box" label="Box">135</container>
+<container parent="cid6489003" type="Folder" label="Folder">2</container>
+</did>
+</c01>
+<c01 id="ref646" level="file" score="1" C-ORDER="494">
+<did>
+<unittitle>Invoices, Royalties, Consultant Fees, and Honorariums</unittitle>
+<container id="cid6489004" type="Box" label="Box">135</container>
+<container parent="cid6489004" type="Folder" label="Folder">3</container>
+</did>
+</c01>
+<c01 id="ref647" level="file" score="1" C-ORDER="495">
+<did>
+<unittitle>Images of Chinatown Manuscript</unittitle>
+<container id="cid6489005" type="Box" label="Box">135</container>
+<container parent="cid6489005" type="Folder" label="Folder">4</container>
+</did>
+</c01>
+<c01 id="ref648" level="file" score="1" C-ORDER="496">
+<did>
+<unittitle>Yorktown Clipper Talk</unittitle>
+<container id="cid6489006" type="Box" label="Box">135</container>
+<container parent="cid6489006" type="Folder" label="Folder">5</container>
+</did>
+</c01>
+<c01 id="ref649" level="file" score="1" C-ORDER="497">
+<did>
+<unittitle>Book Reviews and Talks (folder 1 of 2)</unittitle>
+<container id="cid6489007" type="Box" label="Box">135</container>
+<container parent="cid6489007" type="Folder" label="Folder">6</container>
+</did>
+</c01>
+<c01 id="ref650" level="file" score="1" C-ORDER="498">
+<did>
+<unittitle>Book Reviews and Talks (folder 2 of 2)</unittitle>
+<container id="cid6489008" type="Box" label="Box">135</container>
+<container parent="cid6489008" type="Folder" label="Folder">7</container>
+</did>
+</c01>
+<c01 id="ref651" level="file" score="1" C-ORDER="499">
+<did>
+<unittitle>Ephemera about Richard Dillon</unittitle>
+<container id="cid6489009" type="Box" label="Box">135</container>
+<container parent="cid6489009" type="Folder" label="Folder">8</container>
+</did>
+</c01>
+<c01 id="ref652" level="file" score="1" C-ORDER="500">
+<did>
+<unittitle>Correspondence Circa. 1967-2003 (folder 1 of 4)</unittitle>
+<container id="cid6489010" type="Box" label="Box">135</container>
+<container parent="cid6489010" type="Folder" label="Folder">9</container>
+</did>
+</c01>
+<c01 id="ref653" level="file" score="1" C-ORDER="501">
+<did>
+<unittitle>Correspondence Circa. 1967-2003 (folder 2 of 4)</unittitle>
+<container id="cid6489011" type="Box" label="Box">135</container>
+<container parent="cid6489011" type="Folder" label="Folder">10</container>
+</did>
+</c01>
+<c01 id="ref654" level="file" score="1" C-ORDER="502">
+<did>
+<unittitle>Correspondence Circa. 1967-2003 (folder 3 of 4)</unittitle>
+<container id="cid6489012" type="Box" label="Box">135</container>
+<container parent="cid6489012" type="Folder" label="Folder">11</container>
+</did>
+</c01>
+<c01 id="ref655" level="file" score="1" C-ORDER="503">
+<did>
+<unittitle>Correspondence Circa. 1967-2003 (folder 4 of 4)</unittitle>
+<container id="cid6489013" type="Box" label="Box">135</container>
+<container parent="cid6489013" type="Folder" label="Folder">12</container>
+</did>
+</c01>
+<c01 id="ref656" level="file" score="1" C-ORDER="504">
+<did>
+<unittitle>Manuscripts of Book Reviews, Talks, Articles, and Books</unittitle>
+<container id="cid6489014" type="Box" label="Boxes">136-138</container>
+<container parent="cid6489014" type="Folder" label="Folder"/>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>
