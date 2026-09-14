@@ -1,0 +1,1480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+  
+  
+  
+  
+  
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt3489n80t" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::878::James Poe Papers)//EN&quot; &quot;poeja878.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">poeja878.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Finding Aid for the James Poe Papers, 1940- </titleproper><titleproper type="filing">Poe (James) Papers</titleproper>
+        <author>Processed by Manuscripts Division staff; machine-readable finding aid created by Alight Tsai and Caroline Cubé</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>UCLA Library, Department of Special Collections</publisher>
+        <address>
+          <addressline>Manuscripts Division</addressline>
+          <addressline>Room A1713, Charles E. Young Research Library</addressline>
+          <addressline>Box 951575</addressline>
+          <addressline>Los Angeles, CA 90095-1575</addressline>
+          <addressline>Email: spec-coll@library.ucla.edu</addressline>
+          <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+        </address>
+        <date calendar="gregorian" era="ce">© 2002</date>
+        <p>The Regents of the University of California. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">September 2001</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Alight Tsai and Caroline Cubé.</creation>
+      <langusage>Description is in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::878::James Poe Papers)//EN" "poeja878.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Finding Aid for the James Poe Papers, 1940- </titleproper>
+      <num>Collection number: 878</num>
+      <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Manuscripts Division</item>
+        <item>UCLA Library, Department of Special Collections</item>
+        <item>Room A1713, Charles E. Young Research Library</item>
+        <item>Box 951575</item>
+        <item>Los Angeles, CA 90095-1575</item>
+        <item>Telephone:  310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+        <item>Email: spec-coll@library.ucla.edu</item>
+        <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by:</label>
+          <item>Manuscripts Division staff</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>Alight Tsai</item>
+        </defitem>
+        <defitem>
+          <label>Encoding supervision by:</label>
+          <item>Caroline Cubé</item>
+        </defitem>
+        <defitem>
+          <label>Text converted and initial container list EAD tagging by:</label>
+          <item>Apex Data Services</item>
+        </defitem>
+        <defitem>
+          <label>Online finding aid edited by:</label>
+          <item>Josh Fiala, March 2003</item>
+        </defitem>
+      </list>
+      <p>© 2002 The Regents of the University of California. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" id="archdesc-1.3">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">James Poe Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1940- </unitdate>
+      <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">878</unitid>
+      <origination label="Creator">
+        <persname source="lcnaf" role="subject">Poe, James, 1923- </persname>
+      </origination>
+      <physdesc label="Extent"><extent>48 boxes (24 linear ft.) </extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">James Poe (1923-1980) was associated with the motion picture industry (1941-80). He was a screenwriter who wrote documentaries, radio and television scripts, and a made-for-television movie. He won an Academy Award and New York Film Critics Award in 1957 for the screenplay of <title linktype="simple">Around the world in 80 days</title>, and was nominated for an Academy Award three more times during his career. The collection consists of scripts (radio, television, and film), correspondence, ephemera, stills, and tapes related to the career and life of James Poe.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of James Poe, 1964-69.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], James Poe Papers (Collection 878). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=2722838">2722838</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Poe was born October 4, 1923 in Dobbs Ferry, New York; attended St. John's College, Annapolis, Maryland; affiliated with the news desk for The march of time series, Cinema Unit, RKO, 1941; associated with motion picture industry, 1941-80; won Academy Award and New York Film Critics Award in 1957 for screenplay of <title linktype="simple">Around the world in 80 days</title>; was nominated for an Academy Award three more times: in 1958 for <title linktype="simple">Cat on a hot tin roof</title>, in 1963 for <title linktype="simple">Lilies of the field</title>, and in 1969 for <title linktype="simple">They shoot horses, don't they?</title>; wrote documentaries, radio and television scripts, and a made-for-television movie; president, James Poe Company, 1967-80; died of a heart attack in 1980.</p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of scripts, correspondence, ephemera, stills, and tapes related to the career and life of James Poe. Scripts are from Poe's work in radio, television, and film.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname source="lcnaf" encodinganalog="600" role="subject">Poe, James, 1923- --Archives.</persname>
+ <occupation source="lcsh" encodinganalog="650">Screenwriters--United States--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Television writers--United States--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Radio writers--United States--Archival resources.</occupation>
+ <genreform source="aat" encodinganalog="655">Film scripts.</genreform>
+ <genreform source="rbgenr" encodinganalog="655">Radio plays.</genreform>
+ <genreform source="gmgpc" encodinganalog="655">Television plays.</genreform>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6" score="1" C-ORDER="1" MAX-C-ORDER="274">
+ <head>Container List</head>
+ <c01 level="file" id="c01-1.8.6.2" score="2" C-ORDER="2">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><title linktype="simple">Native Land</title>, <unitdate calendar="gregorian" era="ce">1941.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript, holographic revisions.</p>
+ <p>This script is included for the historical value, but was not written by Mr. Poe. It was a documentary with narration by Paul Robson.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.3" score="2" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>4 Documentary Scripts. U.S. Navy, <unitdate calendar="gregorian" era="ce">1945.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescripts.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.4" score="2" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><title linktype="simple">Son of Darkness</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescripts (3), holographic notes.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.5" score="2" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><title linktype="simple">The Boy From Nowhere</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Synopsis of a story, typescript.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.6" score="2" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><title linktype="simple">Subway</title>, <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic script, original typescript.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.7" score="2" C-ORDER="12">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><title linktype="simple">D.D.</title>, <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 stories, holographic and typescript.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.8" score="2" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><title linktype="simple">Bottle of Beer</title>, <unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic working notes, correspondence and research. 1 typed script.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.9" score="2" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Documentary, <unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 folder of scripts, holographic revisions, research with Veterans Administration, correspondence with Eddie Albert.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.10" score="2" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><title linktype="simple">Capitalism</title>, <unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Typescript and holographic working notes.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.11" score="2" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle><title linktype="simple">City Planning Story</title>, <unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic working notes, drawings, typewritten notes and script.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.12" score="2" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><title linktype="simple">Paraplegic</title> &amp; <title linktype="simple">Aphasia</title>, <unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic scripts and typescript, done for Veterans Administration.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.13" score="1" C-ORDER="24">
+ <did>
+ <unittitle>Radio Scripts</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.13.2" score="2" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><title linktype="simple">Flood on the Goodwins</title>, <unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript and broadcast script.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.3" score="2" C-ORDER="27">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><title linktype="simple">Three Skeleton Key</title>, <unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic notes, original typescript and holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.4" score="2" C-ORDER="29">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><title linktype="simple">First Contact</title>, <unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic notes and correspondence, story treatment and script, typed and holographic.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.5" score="2" C-ORDER="31">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><title linktype="simple">Rave Notice</title>, <unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts, holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.6" score="2" C-ORDER="33">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Carmen</title>, <unitdate calendar="gregorian" era="ce">1950.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts, 1 original typescript, holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.7" score="2" C-ORDER="35">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><title linktype="simple">The Red Mark</title>, <unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts - original typescript with revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.8" score="2" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Poison</title>, <unitdate calendar="gregorian" era="ce">1950.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts - original typescript, holographic revisions, broadcast script.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.9" score="2" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Present Tense</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts (2 original typescripts, holographic revisions, 1 broadcast script).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.10" score="2" C-ORDER="41">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Pictura</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>3 original typescripts, holographic revisions.</p>
+ <p><emph render="italic">Pictura</emph> was not a radio script - it was a documentary art film, with narration by Vincent Price.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.11" score="2" C-ORDER="43">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle><title linktype="simple">Bloodbath</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts (1 original typescript, with revisions, 1 copy of Claire Booth Luce script with revisions, 1 broadcast script).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.12" score="2" C-ORDER="45">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Two Came Back</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts (1 original typescript with holographic changes).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.13" score="2" C-ORDER="47">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Darkness &amp; Silence</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>2 original typescripts, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.14" score="2" C-ORDER="49">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unitdate calendar="gregorian" era="ce">1953</unitdate>
+ <unittitle><title linktype="simple">High Tor</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.15" score="2" C-ORDER="51">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Squanto</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.16" score="2" C-ORDER="53">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle><title linktype="simple">Williamnewton Byers</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts (1 original typescript) holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.17" score="2" C-ORDER="55">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Sam Houston</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts (1 original typescript) holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.18" score="2" C-ORDER="57">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle><title linktype="simple">Joseph Geating McCoy</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>4 scripts (1 original typescript) with holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.19" score="2" C-ORDER="59">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Americana</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>1 script, holographic changes, working notes, typescript and holographic.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.20" score="2" C-ORDER="61">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle><title linktype="simple">Dutch Schultz</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts (1 original typescript) with holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.21" score="2" C-ORDER="63">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle><title linktype="simple">Cyrano de Bergerac</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts: 1 original typescript, with holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.22" score="2" C-ORDER="65">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unitdate calendar="gregorian" era="ce">1953</unitdate>
+ <unittitle><title linktype="simple">Schlammin With a Lead Pipe</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>4 scripts, holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.23" score="2" C-ORDER="67">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">The Birds</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.24" score="2" C-ORDER="69">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Arabian Nights</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>5 scripts (3 original typescripts) holographic changes).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.25" score="2" C-ORDER="71">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Branded Woman</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript of notes and story outline.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.26" score="2" C-ORDER="73">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle><title linktype="simple">The Virginian</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript, correspondence and broadcast script, holographic notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.27" score="2" C-ORDER="75">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Marcus Whitman</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts (2 typescripts) holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.28" score="2" C-ORDER="77">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Random Harvest</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>4 scripts, holographic revisions, story notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.29" score="2" C-ORDER="79">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">A Bell for Adano</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts (1 original typescript) holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.30" score="2" C-ORDER="81">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Major General Dean</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>1 script, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.31" score="2" C-ORDER="83">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle><title linktype="simple">Albert Schweitzer</title>, <unitdate calendar="gregorian" era="ce">1954.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.32" score="1" C-ORDER="85">
+ <did>
+ <unittitle><title linktype="simple">The Lineup</title>:</unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.6.13.32.2" score="2" C-ORDER="86">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>Armed Robbery no.1.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic research notes, photographs, 2 typescripts, holographic changes.</p>
+ </scopecontent>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.13.32.3" score="2" C-ORDER="88">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>Homicide no.1.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript, annotated, 1 broadcast script.</p>
+ </scopecontent>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.33" score="2" C-ORDER="90">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Lionel Barrymore.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript, holographic changes, correspondence and research notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.34" score="2" C-ORDER="92">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>An Error In Chemistry.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript, holographic notes, correspondence, story notes and outlines.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.35" score="2" C-ORDER="94">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>A Little Matter Of Memory.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript with holographic changes, broadcast script, holographic notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.36" score="2" C-ORDER="96">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Tom Mix.</unittitle>
+ </did>
+ <scopecontent>
+ <p>1 original typescript, holographic changes, 1 broadcast script.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.37" score="2" C-ORDER="98">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>William L. White, <unitdate calendar="gregorian" era="ce">1954.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 script with holographic notes, correspondence from William L. White.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.13.38" score="2" C-ORDER="100">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Stackolee.</unittitle>
+ </did>
+ <scopecontent>
+ <p>4 scripts, holographic notes, 1 libretto, holographic working notes, correspondence &amp; contracts.</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.14" score="1" C-ORDER="102">
+ <did>
+ <unittitle>Movies</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.14.2" score="3" C-ORDER="103">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><title linktype="simple">Abandon Ship</title>, <unitdate calendar="gregorian" era="ce">1944.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts, typescript and photographed.</p>
+ </scopecontent>
+ <scopecontent>
+ <p>Contains original sketches and photos.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.3" score="3" C-ORDER="106">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><title linktype="simple">Bugles in the Afternoon</title>, <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 Script, original typescript.</p>
+ </scopecontent>
+ <scopecontent>
+ <p>Working notes and outline.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.4" score="2" C-ORDER="109">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><title linktype="simple">The French Reed</title>, <unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic scripts and working notes, research materials, 1 original typescript with holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.5" score="2" C-ORDER="111">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle><title linktype="simple">No Man is an Island</title>, <unitdate calendar="gregorian" era="ce">1947.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 script, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.6" score="2" C-ORDER="113">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle><title linktype="simple">Closeup</title>, <unitdate calendar="gregorian" era="ce">1946.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 script, holographic changes, clippings, working notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.7" score="2" C-ORDER="115">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><title linktype="simple">The Bloody Jackpot</title>, <unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 script, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.8" score="2" C-ORDER="117">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle><title linktype="simple">Twilight</title>, <unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>5 scripts, (original typescripts, holographic changes, shooting scripts, 1 first draft script) Correspondence, reviews, working notes, clippings.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.9" score="2" C-ORDER="119">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle><title linktype="simple">A Spark in the Night</title>, <unitdate calendar="gregorian" era="ce">1950.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Step sheet - First Rought Draft (Original typescript) Folder of correspondence (Sam Engel) and story conference notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.10" score="2" C-ORDER="121">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle><title linktype="simple">On to Oregon</title>, <unitdate calendar="gregorian" era="ce">1950.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts, holographic revisions, correspondence and working notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.11" score="2" C-ORDER="123">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle><title linktype="simple">The Dark Page</title>, <unitdate calendar="gregorian" era="ce">1951.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.12" score="2" C-ORDER="125">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle><title linktype="simple">Jubel's Children</title>, <unitdate calendar="gregorian" era="ce">1951-52.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts, holographic changes story outlines and working notes, Correspondence between Mr. Poe and Harry Cohn <emph render="italic">re</emph> story changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.13" score="2" C-ORDER="127">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle><title linktype="simple">The Barracouta</title>, <unitdate calendar="gregorian" era="ce">1951.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts, holographic changes, Correspondence and working notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.14" score="2" C-ORDER="129">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle><title linktype="simple">Feather in the Breeze</title>, <unitdate calendar="gregorian" era="ce">1951.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts, original typescript with holographic changes, 1 folder of working notes and outlines.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.15" score="2" C-ORDER="131">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle><title linktype="simple">Paula</title>, <unitdate calendar="gregorian" era="ce">1951.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>4 scripts, holographic changes Step outlines, working notes, correspondence with Harry Cohn and Buddy Adler Clippings.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.16" score="2" C-ORDER="133">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle><title linktype="simple">The Devil's Throne</title>, <unitdate calendar="gregorian" era="ce">1952.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 Original typescript, holographic changes. Notes and revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.17" score="2" C-ORDER="135">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle><title linktype="simple">My Pal Geechy</title>, <unitdate calendar="gregorian" era="ce">1952.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts (original typescripts), holographic changes. Working outline and reader's report from Columbia Studios.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.18" score="2" C-ORDER="137">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle><title linktype="simple">Brief Moment</title>, <unitdate calendar="gregorian" era="ce">1952.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Story treatment, holographic changes, step outlines, story conference notes, correspondence with Jerry Wald.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.19" score="2" C-ORDER="139">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle><title linktype="simple">Far East</title>, <unitdate calendar="gregorian" era="ce">1952.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript, holographic changes, story treatment and outlines. Correspondence with Jerry Wald.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.20" score="2" C-ORDER="141">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle><title linktype="simple">Rough Company</title>, <unitdate calendar="gregorian" era="ce">1952.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 Original typescript, holographic outline and step sheet. Correspondence with Jerry Wald Mr. Wald's script with holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.21" score="2" C-ORDER="143">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle><title linktype="simple">Dead Man Pass</title>, <unitdate calendar="gregorian" era="ce">1954.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts - 1 original typescript with working notes and correspondence, 1 shooting script. Holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.22" score="2" C-ORDER="145">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <unittitle><title linktype="simple">Clockwork</title>, <unitdate calendar="gregorian" era="ce">1955.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 script, holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.23" score="2" C-ORDER="147">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <unittitle><title linktype="simple">Rip Van Winkle</title>, <unitdate calendar="gregorian" era="ce">1955.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 original typescript, holographic revisions. Notes on story treatment and holographic notes from story conferences.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.24" score="2" C-ORDER="149">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <unittitle><title linktype="simple">The Fragile Fox</title>, <unitdate calendar="gregorian" era="ce">1955.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>4 scripts, holographic revisions working notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.25" score="2" C-ORDER="151">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <unittitle><title linktype="simple">Last Train From Gun Hill</title>, <unitdate calendar="gregorian" era="ce">1956.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>5 scripts (including original typescript) holographic revisions. Correspondence with Hal Wallis and notes of story conferences.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.26" score="2" C-ORDER="153">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <unittitle><title linktype="simple">Night Man</title>, <unitdate calendar="gregorian" era="ce">1956.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 Scripts, holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.27" score="2" C-ORDER="155">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <unittitle><title linktype="simple">Affair in Rome</title>, <unitdate calendar="gregorian" era="ce">1956.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript of story treatment, holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.28" score="2" C-ORDER="157">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <unittitle><title linktype="simple">The Obsessed</title>, <unitdate calendar="gregorian" era="ce">1957.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript, holographic changes, step sheet and second act revisions, working notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.29" score="2" C-ORDER="159">
+ <did>
+ <container label="Boxes" type="Box">22-24</container>
+ <unitdate calendar="gregorian" era="ce">1955</unitdate>
+ <unittitle><title linktype="simple">Around the World in 80 Days</title>.</unittitle>
+ </did>
+ <scopecontent>
+ <p>1 Carton containing 4 scripts, original typescript pages, conference notes, correspondence from Mike Todd, depositions for arbitration suit, miscellaneous mimeographed scripts and clippings, photostats and legal documents used in arbitration, pre-trial depositions, correspondence and statements from Poe, Todd, Farrow, S.J. Perleman.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.30" score="2" C-ORDER="161">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <unittitle><title linktype="simple">Hot Spell</title>, <unitdate calendar="gregorian" era="ce">1956.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>5 scripts, holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.31" score="2" C-ORDER="163">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <unittitle><title linktype="simple">The Sergeant</title>, <unitdate calendar="gregorian" era="ce">1959.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript, holographic revisions. Story breakdown and original step-outline. Correspondence and story conference notes, Ray Stark and William Bloom.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.32" score="2" C-ORDER="165">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <unittitle><title linktype="simple">Cat on a Hot Tin Roof</title>, <unitdate calendar="gregorian" era="ce">1957.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts, including the original Tennessee Williams Screenplay, holographic changes by Poe and Burl Ives. Step outline, folder of holographic revisions to script. Correspondence <emph render="italic">re</emph> arbitration.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.33" score="2" C-ORDER="167">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <unittitle><title linktype="simple">Sanctuary</title>, <unitdate calendar="gregorian" era="ce">1959-60.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 Scripts of Requiem, 3 scripts of Sanctuary with holographic changes, final script changes and story conference notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.34" score="2" C-ORDER="169">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <unittitle><title linktype="simple">Summer and Smoke</title>, <unitdate calendar="gregorian" era="ce">1959.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 original typescript, step sheet 4 scripts, holographic revisions, correspondence &amp; telegrams from Hal Wallis.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.35" score="2" C-ORDER="171">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <unittitle><title linktype="simple">The Big Knife</title>, <unitdate calendar="gregorian" era="ce">1955.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts, holographic revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.36" score="2" C-ORDER="173">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <unittitle><title linktype="simple">Devil in Bucks County</title>, <unitdate calendar="gregorian" era="ce">1960.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 Scripts, (original typescript of story treatment and outline) 1 folder, holographic notebooks, various treatments and incomplete first draft.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.37" score="2" C-ORDER="175">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <unittitle><title linktype="simple">Toys in the Attic</title>, <unitdate calendar="gregorian" era="ce">1962.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 holographic notebooks, 1 script, holographic revisions, 1 typescript of Hellman play.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.38" score="2" C-ORDER="177">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <unittitle><title linktype="simple">Cage of Gold</title>, <unitdate calendar="gregorian" era="ce">1962.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 folder holographic notes and material from story conferences in Paris. Story breakdown and outline, in French and English. Correspondence.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.39" score="3" C-ORDER="179">
+ <did>
+ <container label="Box" type="Box">18</container>
+ <unittitle><title linktype="simple">Lilies Of The Field</title>, <unitdate calendar="gregorian" era="ce">1962-63.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>1 carton: holographic notebooks. 65 Dictabelts, various drafts, 1 original typescript with holographic revisions of step outline - continuous roll Copy of Barret novel, Mr. Poe's notes Correspondence to Ralph Nelson 1 original typescript, holographic revisions. Correspondence with Arbitration Committee Folder of holographic notes and sketches made at location. Miscellaneous holographic revisions Nelson correspondence, 4 scripts: 1 original typescript and step outline.</p>
+ </scopecontent>
+ <note>
+ <p>A group of miscellaneous dictabelts is filed in 2 folders in Box 21.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.40" score="2" C-ORDER="182">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <unittitle><title linktype="simple">Madwoman of Chaillot</title>, <unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>35 dictabelts, original typescript, holographic revisions, 1 folder correspondence with Miner and Eli Landau, Poe notes on Valency translation Copy of Miner translation, 1 final script, Story conference and work notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.14.41" score="2" C-ORDER="184">
+ <did>
+ <container label="Boxes" type="Box">19-20</container>
+ <unittitle><title linktype="simple">The Bedford Incident</title>, <unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Folders of typescript, revision pages, holographic changes. 4 Scripts, to final draft. Typescript of novel breakdown, Correspondence and story, conference notes.</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.15" score="1" C-ORDER="186">
+ <did>
+ <unittitle>Television</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.15.2" score="2" C-ORDER="187">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle><title linktype="simple">Life With Father</title>, <unitdate calendar="gregorian" era="ce">1953.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 story outlines, holographic revisions. 1 Script.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.15.3" score="2" C-ORDER="189">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle><title linktype="simple">Red Wind</title>, <unitdate calendar="gregorian" era="ce">1953.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>3 Scripts (1 original typescript) holographic revisions. William Bryce illustrations.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.15.4" score="2" C-ORDER="191">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <unittitle><title linktype="simple">Come a Runnin'</title>, <unitdate calendar="gregorian" era="ce">1961.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 scripts, holographic changes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.15.5" score="2" C-ORDER="193">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <unittitle><title linktype="simple">Crazy Sunday</title>, <unitdate calendar="gregorian" era="ce">1962.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic working notes, Correspondence from Aaron Spelling, 1 original typescript, holographic revisions, 2 shooting scripts with revisions.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.15.6" score="2" C-ORDER="195">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <unittitle><title linktype="simple">Munroe</title> Story no.1, <unitdate calendar="gregorian" era="ce">1962.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>4 scripts, (2 original typescripts, holographic revisions, working notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.15.7" score="2" C-ORDER="197">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <unittitle><title linktype="simple">Munroe</title> Story no.2, <unitdate calendar="gregorian" era="ce">1962-63.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>2 original typescripts, holographic changes, miscellaneous holographic revisions. Shooting schedule and scripts.</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.16" score="1" C-ORDER="199">
+ <did>
+ <unittitle>Miscellaneous</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.16.2" score="1" C-ORDER="200">
+ <did>
+ <container label="Boxes" type="Box">26, 27</container>
+ <unittitle>Clippings and reviews, filed in random order, in manila folders.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.16.3" score="2" C-ORDER="201">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <unittitle>1 Folder of Miscellaneous correspondence.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Buddy Adler[?] /Bud Schulberg, William Froug, Eddie Albert, Sol Siegel, Harry Ackerman, Harry Cohn.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.16.4" score="1" C-ORDER="203">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <unittitle>7 Posters, advertisements, in a manila folder.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.16.5" score="2" C-ORDER="204">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <unittitle>1 Folder - Memos.</unittitle>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> story treatments - Columbia Studios. Includes step sheets for various stories - Pal Joey, The Wanderers.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.16.6" score="2" C-ORDER="206">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <unittitle>1 Folder of photographs.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Scenes from <title linktype="simple">Lilies of the field</title>, and others.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.16.7" score="2" C-ORDER="208">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <unittitle>1 Journal.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Working notes and drawings - holographic. For movie documentary of New York.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.16.8" score="2" C-ORDER="210">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <unittitle>1 Journal.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic, story ideas.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.16.9" score="2" C-ORDER="212">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <unittitle>1 Journal.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic - story ideas and working notes.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.16.10" score="2" C-ORDER="214">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <unittitle><title linktype="simple">Touch of Nutmeg</title>, <unitdate calendar="gregorian" era="ce">1957.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Original typescript - incomplete script.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.16.11" score="2" C-ORDER="216">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>
+ <unitdate calendar="gregorian" era="ce">1955</unitdate>
+ </unittitle>
+ </did>
+ <scopecontent>
+ <p>Typescript of <title linktype="simple">The Chalk Garden</title> with Poe's typed notes <emph render="italic">re</emph> the screenplay to Mock and Duggan.</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.17" score="1" C-ORDER="218">
+ <did>
+ <unittitle>Radio Scripts</unittitle>
+ <note>
+ <p>The radio scripts were written for the following programs, and unless otherwise indicated, were broadcast on those programs.</p>
+ </note>
+ </did>
+ <c02 level="item" id="c02-1.8.6.17.2" score="1" C-ORDER="219">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Flood on the Goodwins: <title linktype="simple">Escape</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.3" score="1" C-ORDER="220">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Three Skeleton Key: <title linktype="simple">Escape</title></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.4" score="1" C-ORDER="221">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>First Contact: <title linktype="simple">NBC Mystery Theatre</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.5" score="1" C-ORDER="222">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Rave Notice: <title linktype="simple">Suspense</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.6" score="1" C-ORDER="223">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Carmen: <title linktype="simple">Romance</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.7" score="1" C-ORDER="224">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Poison: <title linktype="simple">Escape</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.8" score="1" C-ORDER="225">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>The Red Mark: <title linktype="simple">Escape</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.9" score="1" C-ORDER="226">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Present Tense: <title linktype="simple">Escape</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.10" score="1" C-ORDER="227">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle>Bloodbath: <title linktype="simple">Escape</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.11" score="1" C-ORDER="228">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Two Came Back: <title linktype="simple">Escape</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.12" score="1" C-ORDER="229">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Darkness &amp; Silence: <title linktype="simple">Escape</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.13" score="1" C-ORDER="230">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>High Tor: <title linktype="simple">Lux Radio Theatre</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.14" score="1" C-ORDER="231">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Squanto: <title linktype="simple">Hallmark Hall Of Fame</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.15" score="1" C-ORDER="232">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>William Newton Byers: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.16" score="2" C-ORDER="233">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Sam Houston: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ <note>
+ <p>(Won the Christopher Award for 1953)</p>
+ </note>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.17" score="1" C-ORDER="235">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>Joseph Geating McCoy: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.18" score="1" C-ORDER="236">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Americana: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.19" score="1" C-ORDER="237">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>Dutch Schultz: Suspense.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.20" score="1" C-ORDER="238">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>Cyrano de Bergerac: <title linktype="simple">G.E. Theatre</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.21" score="1" C-ORDER="239">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Schlammin with a Lead Pipe: <title linktype="simple">Suspense</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.22" score="1" C-ORDER="240">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>The Birds: <title linktype="simple">Lux Summer Theatre</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.23" score="1" C-ORDER="241">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>The Virginian: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.24" score="1" C-ORDER="242">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Marcus Whitman: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.25" score="1" C-ORDER="243">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Random Harvest: <title linktype="simple">G.E. Theatre</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.26" score="1" C-ORDER="244">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Bell for Adano: <title linktype="simple">G.E. Theatre</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.27" score="1" C-ORDER="245">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Major General Dean: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.28" score="1" C-ORDER="246">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>Albert Schweitzer: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.29" score="1" C-ORDER="247">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <unittitle>The Lineup: Pilot TV Film for CBS.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.30" score="1" C-ORDER="248">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Lionel Barrymore: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.31" score="1" C-ORDER="249">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Error in Chemistry: <title linktype="simple">Suspense</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.32" score="1" C-ORDER="250">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Little Matter of Memory: <title linktype="simple">Suspense</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.33" score="1" C-ORDER="251">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Tom Mix: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.17.34" score="1" C-ORDER="252">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>William L. White: <title linktype="simple">Hallmark</title>.</unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.18" score="1" C-ORDER="253">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <unittitle><title linktype="simple">Shoes of the fisherman</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.19" score="1" C-ORDER="254">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <unittitle><title linktype="simple">Mad woman of Chaillot</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.20" score="1" C-ORDER="255">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <unittitle><title linktype="simple">Around the world in 80 days</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.21" score="1" C-ORDER="256">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <unittitle><title linktype="simple">Desire under the elms</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.22" score="1" C-ORDER="257">
+ <did>
+ <unittitle>Additions to Radio Scripts</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.22.2" score="2" C-ORDER="258">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle>Edwin Laurentine Drake, <unitdate calendar="gregorian" era="ce">1953.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>3 Scripts, holographic changes. Original typescript for <emph render="italic">Hallmark Hall of Fame</emph> &amp; outline.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.22.3" score="2" C-ORDER="260">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Never Steal a Butcher's Wife, <unitdate calendar="gregorian" era="ce">1954.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Holographic working notes, revisions, typescript. 1 Script, holographic revisions. For <title linktype="simple">Suspense</title>.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.22.4" score="2" C-ORDER="262">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <unittitle>Never Follow a Banjo Act, <unitdate calendar="gregorian" era="ce">1954.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>3 scripts, holographic revisions. For <title linktype="simple">Suspense</title>.</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.23" score="1" C-ORDER="264">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <unittitle><title linktype="simple">Captain Cook</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.24" score="1" C-ORDER="265">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <unittitle><title linktype="simple">Bracken's world</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.25" score="1" C-ORDER="266">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <unittitle><title linktype="simple">The Bedford incident</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.26" score="1" C-ORDER="267">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <unittitle><title linktype="simple">The gambler</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.27" score="1" C-ORDER="268">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <unittitle><title linktype="simple">Shoes of the fisherman</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.28" score="1" C-ORDER="269">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <unittitle><title linktype="simple">The riot</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.29" score="1" C-ORDER="270">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <unittitle><title linktype="simple">After the fall</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.30" score="1" C-ORDER="271">
+ <did>
+ <container label="Box" type="Box">33</container>
+ <unittitle>
+ <title linktype="simple">They shoot horses, don't they?</title>
+ </unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.31" score="1" C-ORDER="272">
+ <did>
+ <container label="Box" type="Box">33</container>
+ <unittitle><title linktype="simple">Mirage</title>.</unittitle>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.6.32" score="1" C-ORDER="273">
+ <did>
+ <container label="Box" type="Box">34</container>
+ <unittitle>
+ <title linktype="simple">They shoot horses, don't they?</title>
+ </unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.33" score="1" C-ORDER="274">
+ <did>
+ <container label="Boxes" type="Box">35-40</container>
+ <unittitle>Unprocessed.</unittitle>
+ </did>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
