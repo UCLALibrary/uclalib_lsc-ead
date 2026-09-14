@@ -1,0 +1,1344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf9d5nb5mx" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::1231::Sven Reher Papers)//EN&quot; &quot;rehe1231.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">rehe1231.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Sven Reher Papers, 1918-1979</titleproper><titleproper type="filing">Reher (Sven) Papers</titleproper>
+ <author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 1999</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access or other database program, <date calendar="gregorian" era="ce">unknown year</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::1231::Sven Reher Papers)//EN" "rehe1231.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Sven Reher Papers, 1918-1979</titleproper>
+ <num>Collection number: 1231</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Manuscripts Division staff</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, April 2003</item>
+ </defitem>
+ </list>
+ <p>© 1999 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Sven Reher Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1918-1979</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">1231</unitid>
+ <origination label="Creator">
+ <persname source="lcnaf" role="subject">Reher, Sven</persname>
+ </origination>
+ <physdesc label="Extent"><extent>47 boxes (19 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Sven Reher (d. 1991) was prominent on the Los Angeles music scene as a violist and composer since 1934, when he left his studies at UCLA to audition for Otto Klemperer and the Los Angeles Philharmonic. He was associated with the Evenings on the Roof program in post-World War II Los Angeles, the Sinfonia Orchestra of the Los Angeles Master Chorale, the California Chamber Symphony Orchestra, and the symphony orchestras of Brentwood, Huntington Park, Santa Monica, Compton, Glendale, Santa Barbara, and Pasadena. The collection consists of correspondence, photographs, concert programs, music notebooks, and ephemera related to Reher's life. </abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of Sven Reher, 1979.</p>
+ <p>Gift of Vincent Reher, 1994.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Sven Reher Papers (Collection 1231). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Sven Reher fled Germany as a young man to continue his musical education in the U.S.; prominent on the Los Angeles music scene since 1934, when he left his studies at UCLA to audition for Otto Klemperer and the Los Angeles Philharmonic; he and his brother, cellist Kurt Reher, were members of the Evenings on the Roof program in post-World War II Los Angeles; he composed 12 studies for viola, a sonata for solo viola, and a rhapsody for flute and viola; he associated with the Sinfonia Orchestra of the Los Angeles Master Chorale, the California Chamber Symphony Orchestra, and the symphony orchestras of Brentwood, Huntington Park, Santa Monica, Compton, Glendale, Santa Barbara, and Pasadena; Reher's recording of the Hindemith solo sonata, Opus 25, no.1, was nominated for a Grammy award; he died January 31, 1991 of heart failure.</p>
+ <bioghist>
+ <head>Biographical Narrative</head>
+ <p>Sven Helge Reher (born Hamburg 1911) came to Los Angeles with his family in 1914. His father, Wilhelm Reher, was a violinist who had performed under Nikisch, Mahler and others in the Hamburg Philharmonic; in the period 1914 to 1918 he was a member of the Los Angeles Symphony Orchestra under Adolf Tandler. Frau Reher (née Callesen) was a pianist who had studied in Leipzig. After sundry continental and transoceanic peregrinations--during which Wilhelm reorganized the Houston Symphony and served among the first stands of the Cincinnati Symphony under Reiner--the Rehers settled permanently in Southern California.</p>
+ <p>Given his family's inclinations it was inevitable that Sven should become a musician; his first violin lessons were under the supervision of his father. Then, in the mid-nineteen twenties, both Sven and his younger brother Kurt studied at the prestigious Berliner Hochschule für Musik. Trading his violin for the heftier viola, Sven joined the ranks of the Los Angeles Philharmonic, then directed by Otto Klemperer, and served eight years (1934 to 1942).</p>
+ <p>After a stint in military intelligence in the European Theater, Reher returned to Los Angeles where he has ever since been an outstanding feature in the musical scene: as a member of the Hollywood String Quartet, as a regular performer on the Monday Evening Concerts, as a soloist with community orchestras, as a much-sought-after studio musician, and as an educator. He is the dedicatee of works by Walter Piston, Mario Castel-Nuovo-Tedesco, Ernst Kanitz and others; his recording of the Hindemith Sonata for Viola Unaccompanied was glowingly reviewed in the <title linktype="simple">New York Times</title>.</p>
+ <p>The documents in this collection record a rich musical life as it has unfolded on two continents. The collection is supported by an oral history of Mr. Reher completed in 1979.</p>
+ <p>Tom Bertonneau <lb/>May 1980</p>
+ </bioghist>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of correspondence, photographs, concert programs, music notebooks, and ephemera related to the life of violist Sven Reher. Includes materials related to concerts in which he and his father, Wilhelm Reher, were involved. Also includes materials related to musical events in the Los Angeles area and Reher's notes from Arnold Schoenberg's classes at UCLA (1936-37).</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname source="lcnaf" encodinganalog="600" role="subject">Reher, Sven--Archives.</persname>
+ <occupation source="lcsh" encodinganalog="650">Composers--California, Southern--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Violists--California, Southern--Archival resources.</occupation>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6" score="1" C-ORDER="1" MAX-C-ORDER="179">
+ <head>Container List</head>
+ <c01 level="series" id="c01-1.8.6.2" score="1" C-ORDER="2">
+ <did>
+ <unittitle>Interlochen Music Camp &amp; National High School Orchestra Programs, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.2.2" score="1" C-ORDER="3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1928-1929.</unitdate> </unittitle>
+ <physdesc> 14 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.3" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1929.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.4" score="1" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1946-1947.</unitdate></unittitle>
+ <physdesc> 6 pieces.</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.3" score="1" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Programs of the Boston Symphony Orchestra in performance in New York, <unitdate calendar="gregorian" era="ce">1919-1920</unitdate>; Programs of the Philharmonic Society of New York, <unitdate calendar="gregorian" era="ce">1918-1933.</unitdate></unittitle>
+ <physdesc> 24 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.4" score="1" C-ORDER="7">
+ <did>
+ <unittitle>Programs of the Cincinnati Symphony Orchestra Concerts, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.4.2" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1925-1927.</unitdate></unittitle>
+ <physdesc> 15 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.4.3" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1927-1929.</unitdate></unittitle>
+ <physdesc> 6 pieces.</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.5" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Programs of the Los Angeles People's Orchestra, <unitdate calendar="gregorian" era="ce">1915</unitdate>; Programs of the Los Angeles Symphony, <unitdate calendar="gregorian" era="ce">1915-1916.</unitdate></unittitle>
+ <physdesc> 17 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.6" score="1" C-ORDER="11">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Programs of the Beverly Hills Chamber Orchestra, season <unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.7" score="1" C-ORDER="12">
+ <did>
+ <unittitle>Programs of the Los Angeles Philharmonic Orchestra in the Hollywood Bowl, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.7.2" score="1" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1931-1932.</unitdate></unittitle>
+ <physdesc> 6 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.3" score="2" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1933.</unitdate></unittitle>
+ <physdesc> 10 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p>(Includes program of Nicolas Slonimsky's conductorial appearance)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.4" score="1" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1934.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.5" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1934.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.6" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1935.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.7" score="1" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1935.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.8" score="1" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.9" score="1" C-ORDER="21">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1936.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.10" score="1" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.11" score="1" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1937.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.12" score="1" C-ORDER="24">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.13" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1938.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.14" score="1" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1939.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.15" score="1" C-ORDER="27">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1939.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.16" score="1" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1940.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.17" score="1" C-ORDER="29">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1940.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.18" score="1" C-ORDER="30">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1941.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.19" score="1" C-ORDER="31">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1941.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.20" score="1" C-ORDER="32">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1942.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.7.21" score="1" C-ORDER="33">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1942.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.8" score="1" C-ORDER="34">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Programs of the Los Angeles Symphony Orchestra, <unitdate calendar="gregorian" era="ce">1915-1916.</unitdate></unittitle>
+ <physdesc> 16 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.9" score="1" C-ORDER="35">
+ <did>
+ <unittitle>Programs of the Los Angeles Philharmonic Orchestra, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.9.2" score="1" C-ORDER="36">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Miscellaneous programs, <unitdate calendar="gregorian" era="ce">1922-1930</unitdate>, winter and summer seasons.</unittitle>
+ <physdesc> 11 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.3" score="1" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Winter <unitdate calendar="gregorian" era="ce">1935/36.</unitdate></unittitle>
+ <physdesc> 7 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.4" score="1" C-ORDER="38">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Winter <unitdate calendar="gregorian" era="ce">1935/36.</unitdate></unittitle>
+ <physdesc> 6 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.5" score="1" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Winter season <unitdate calendar="gregorian" era="ce">1941/42.</unitdate></unittitle>
+ <physdesc> 6 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.6" score="1" C-ORDER="40">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Winter season <unitdate calendar="gregorian" era="ce">1941/42.</unitdate></unittitle>
+ <physdesc> 6 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.7" score="1" C-ORDER="41">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Winter season <unitdate calendar="gregorian" era="ce">1943/44.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.8" score="1" C-ORDER="42">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Winter season <unitdate calendar="gregorian" era="ce">1944/45.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.9" score="1" C-ORDER="43">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Winter season <unitdate calendar="gregorian" era="ce">1945/46.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.10" score="1" C-ORDER="44">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Miscellaneous programs, <unitdate calendar="gregorian" era="ce">1960s-70s.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.9.11" score="2" C-ORDER="45">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Miscellaneous programs, <unitdate calendar="gregorian" era="ce">1960s-70s.</unitdate></unittitle>
+ <physdesc> 3 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Also, World Tour booklet, <unitdate calendar="gregorian" era="ce">1967.</unitdate></p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.10" score="1" C-ORDER="47">
+ <did>
+ <unittitle>Programs of the Pasadena Symphony, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.10.2" score="1" C-ORDER="48">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>47th and 48th seasons, <unitdate calendar="gregorian" era="ce">1974-1976.</unitdate></unittitle>
+ <physdesc> 7 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.3" score="1" C-ORDER="49">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>49th season, <unitdate calendar="gregorian" era="ce">1976/77.</unitdate></unittitle>
+ <physdesc> 7 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.4" score="1" C-ORDER="50">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Gala 50th season, <unitdate calendar="gregorian" era="ce">1977/78.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.10.5" score="1" C-ORDER="51">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>51st season; and other miscellaneous items.</unittitle>
+ <physdesc> 9 pieces.</physdesc>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.11" score="1" C-ORDER="52">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Programs of the Pacific Chamber Orchestra and Compton Civic Symphony, <unitdate calendar="gregorian" era="ce">1970-1975.</unitdate></unittitle>
+ <physdesc> 7 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.12" score="1" C-ORDER="53">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Programs and miscellaneous documents of the California Chamber Symphony, <unitdate calendar="gregorian" era="ce">late 1960s-early 1970s.</unitdate></unittitle>
+ <physdesc> 32 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.13" score="1" C-ORDER="54">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Programs and miscellaneous documents of the UCLA Baroque ensemble.</unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.14" score="1" C-ORDER="55">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Programs of the annual Ojai Music Festival <unitdate calendar="gregorian" era="ce">1973, 1977 and 1979.</unitdate> Plus, announcement of festival, <unitdate calendar="gregorian" era="ce">1979.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.15" score="1" C-ORDER="56">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Programs of the Westwood-Brentwood Symphony and various concert announcements, <unitdate calendar="gregorian" era="ce">1965-1973.</unitdate></unittitle>
+ <physdesc> 15 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.16" score="1" C-ORDER="57">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Programs of the Westwood-Brentwood Symphony, <unitdate calendar="gregorian" era="ce">1973-1978.</unitdate></unittitle>
+ <physdesc> 14 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.17" score="1" C-ORDER="58">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Programs and diverse announcements of concerts of the UCLA Chamber Orchestra, <unitdate calendar="gregorian" era="ce">1967-1977.</unitdate></unittitle>
+ <physdesc> 39 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.18" score="1" C-ORDER="59">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Programs and diverse announcements of concerts of the UCLA Chamber Orchestra, <unitdate calendar="gregorian" era="ce">1979</unitdate>; miscellaneous announcements and programs of on-campus musical events.</unittitle>
+ <physdesc> 13 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.19" score="1" C-ORDER="60">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Programs of the Glendale Symphony Orchestra and of the Valley Symphony Orchestra (<unitdate calendar="gregorian" era="ce">1979</unitdate>).</unittitle>
+ <physdesc> 6 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.20" score="1" C-ORDER="61">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>The Pavilion of the Music Center commemorative booklet, <unitdate calendar="gregorian" era="ce">1964.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.21" score="1" C-ORDER="62">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Program of the ASCAP first annual presentation of Music from Hollywood, <unitdate calendar="gregorian" era="ce">1960.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.22" score="1" C-ORDER="63">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Booklet: The Music Center Story: a decade of achievement <unitdate calendar="gregorian" era="ce">1964-1974.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.23" score="1" C-ORDER="64">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Programs and announcements of the Burbank Symphony and of the Santa Monica Symphony, <unitdate calendar="gregorian" era="ce">1949-1970.</unitdate></unittitle>
+ <physdesc> 13 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.24" score="1" C-ORDER="65">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>European appearances of <emph render="italic">Wilhelm</emph> Reher--announcements, programs, etc.</unittitle>
+ <physdesc> 41 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.25" score="1" C-ORDER="66">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Early Los Angeles appearances of <emph render="italic">Wilhelm</emph> Reher--announcements, programs, brochures.</unittitle>
+ <physdesc> 6 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.26" score="1" C-ORDER="67">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Programs of the original <emph render="italic">Reher Quartet</emph> in concerts at the Raymond Hotel, Pasadena; at UCLA and elsewhere.</unittitle>
+ <physdesc> 75 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.27" score="1" C-ORDER="68">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Early Los Angeles appearances of <emph render="italic">Sven</emph> Reher--programs.</unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.28" score="1" C-ORDER="69">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Programs of the second <emph render="italic">Reher Quartet</emph> in concert at UCLA and elsewhere <unitdate calendar="gregorian" era="ce">1932-1934.</unitdate></unittitle>
+ <physdesc> 14 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.29" score="1" C-ORDER="70">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Programs of the <emph render="italic">Noack Quartet</emph> in Los Angeles: <unitdate calendar="gregorian" era="ce">1935-1937.</unitdate></unittitle>
+ <physdesc> 20 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.30" score="1" C-ORDER="71">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Programs of the <emph render="italic">Los Angeles String Trio</emph> in concert: <unitdate calendar="gregorian" era="ce">1939-1942.</unitdate></unittitle>
+ <physdesc> 10 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.31" score="1" C-ORDER="72">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Programs of the <emph render="italic">Los Angeles Piano Quartet</emph> in concert, <unitdate calendar="gregorian" era="ce">1950-1960.</unitdate></unittitle>
+ <physdesc> 10 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.32" score="2" C-ORDER="73">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Programs, announcements and miscellaneous pieces, <unitdate calendar="gregorian" era="ce">1939-1972.</unitdate></unittitle>
+ <physdesc> 24 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> Evenings on the Roof and the Monday Evening Concerts.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.33" score="2" C-ORDER="75">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Programs, announcements and miscellaneous documents, <unitdate calendar="gregorian" era="ce">1952-1958.</unitdate> </unittitle>
+ <physdesc> 43 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> concerts at Marymount College.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.34" score="2" C-ORDER="77">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Programs, announcements and documents, <unitdate calendar="gregorian" era="ce">1955-1969.</unitdate></unittitle>
+ <unitdate calendar="gregorian" era="ce">19 pieces.</unitdate>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> concerts and recitals at Immaculate Heart College</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.35" score="1" C-ORDER="79">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Programs of concerts given under the auspices of the La Jolla Musical Arts Society, <unitdate calendar="gregorian" era="ce">1961-1962.</unitdate></unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.36" score="1" C-ORDER="80">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Church-related concerts and sacred recitals. Los Angeles area churches, <unitdate calendar="gregorian" era="ce">1932-1969.</unitdate></unittitle>
+ <physdesc> 8 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.37" score="1" C-ORDER="81">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Programs and descriptive booklets issued by the Los Angeles Bach Festival (the First Congregational Church of Los Angeles), <unitdate calendar="gregorian" era="ce">1952-1973.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.38" score="2" C-ORDER="82">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Programs, announcements and miscellaneous documents, <unitdate calendar="gregorian" era="ce">1949-1972.</unitdate></unittitle>
+ <physdesc> 30 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> the Los Angeles County Museum Chamber Concerts series.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.39" score="1" C-ORDER="84">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Programs and announcements of various college and university sponsored recitals, <unitdate calendar="gregorian" era="ce">1931-1978.</unitdate></unittitle>
+ <physdesc> 32 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.40" score="1" C-ORDER="85">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle><title linktype="simple">The Performing Arts at UCLA</title> (3 issues): <unitdate calendar="gregorian" era="ce">March 1968</unitdate>; <unitdate calendar="gregorian" era="ce">January 3-18, 1969</unitdate>; and <unitdate calendar="gregorian" era="ce">March 1969.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.41" score="1" C-ORDER="86">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Programs of the Brand Library Concerts, <unitdate calendar="gregorian" era="ce">1974-1975.</unitdate></unittitle>
+ <physdesc> 3 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.42" score="2" C-ORDER="87">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Publications, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p><title linktype="simple">The Coleman Chamber Concerts 1904-1944</title> by Alice Coleman.</p>
+ <p><title linktype="simple">The New Friends of Music Program Book: 1943/44</title>.</p>
+ <p><title linktype="simple">Franz Waxman presents his new Goyana for piano &amp; strings</title> [to celebrate the opening of Jean Delacour Auditorium, <unitdate calendar="gregorian" era="ce">April 3, 1960</unitdate>].</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.43" score="1" C-ORDER="89">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Programs of concerts given under the auspices of the Arizona Friends of Music, <unitdate calendar="gregorian" era="ce">1949-1951.</unitdate></unittitle>
+ <physdesc> 44 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.44" score="2" C-ORDER="90">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Papers, <unitdate calendar="gregorian" era="ce">1944.</unitdate></unittitle>
+ <physdesc> 53 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> interrogation training. Camp Ritchie, Maryland.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.45" score="1" C-ORDER="92">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Military Training brochures. Camp Ritchie, Maryland, <unitdate calendar="gregorian" era="ce">1944.</unitdate></unittitle>
+ <physdesc> 2 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.46" score="1" C-ORDER="93">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Military training brochures and various letters and documents. Camp Ritchie, Maryland, <unitdate calendar="gregorian" era="ce">1944.</unitdate> </unittitle>
+ <physdesc> 11 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.47" score="2" C-ORDER="94">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Personal effects and souvenirs.</unittitle>
+ <physdesc> 12 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> Sven Reher's military service World War II.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.48" score="2" C-ORDER="96">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Personal effects and souvenirs.</unittitle>
+ <physdesc> 13 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> immediate post-war concerts and G.I. life in occupied Europe.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.49" score="2" C-ORDER="98">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Photographs and postcards.</unittitle>
+ <physdesc> 72 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> Reher's personal activities in post-war occupied Europe.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.50" score="1" C-ORDER="100">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Wartime newspaper clippings.</unittitle>
+ <physdesc> 51 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.51" score="1" C-ORDER="101">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Wartime newspaper clippings.</unittitle>
+ <physdesc> 18 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.52" score="2" C-ORDER="102">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Brochures and travel guides, <unitdate calendar="gregorian" era="ce">1920-1950.</unitdate></unittitle>
+ <physdesc> 33 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> the movements of the Rehers.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.53" score="1" C-ORDER="104">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Personal photographs; concert photographs and group portraits, etc.</unittitle>
+ <physdesc> 35 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.54" score="1" C-ORDER="105">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Miscellaneous brochures, concert programs and announcements, <unitdate calendar="gregorian" era="ce">1935-1979.</unitdate></unittitle>
+ <physdesc> 13 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.55" score="1" C-ORDER="106">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Individual unassociated copies of various musical journals.</unittitle>
+ <physdesc> 6 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.56" score="2" C-ORDER="107">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Correspondence.</unittitle>
+ <physdesc> 40 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Includes letters from Mario Castelnuovo-Tedesco and others.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.57" score="2" C-ORDER="109">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Correspondence of Sven and Kurt Reher with Composer Walter Piston, <unitdate calendar="gregorian" era="ce">1948.</unitdate></unittitle>
+ <physdesc> (Photocopies) 8 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> commission and composition of the Duo for Viola and Cello.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.58" score="2" C-ORDER="111">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Clippings.</unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> Kurt Reher.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.59" score="2" C-ORDER="113">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Clippings.</unittitle>
+ <physdesc> 10 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> investigation of Los Angeles area Musicians by the House (McCarthy) Committee on Un-American activities.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.60" score="1" C-ORDER="115">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Wilhelm Reher's attempts to found a symphony in Los Angeles, <unitdate calendar="gregorian" era="ce">1915-1935.</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.61" score="1" C-ORDER="116">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Hamburg and the early years of California residency. Publications, brochures.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.62" score="1" C-ORDER="117">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Clippings from the <title linktype="simple">Los Angeles Tidings</title>: music criticism by Sven Reher.</unittitle>
+ <physdesc> 12 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.63" score="2" C-ORDER="118">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Clippings and other documents.</unittitle>
+ <physdesc> 4 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> Bruno Walter.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.64" score="2" C-ORDER="120">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Documents, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ <physdesc> 5 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> Arnold Schoenberg: clippings, etc.; and notes taken by Sven Reher (in manuscript) in Schoenberg's formal analysis classes at UCLA, <unitdate calendar="gregorian" era="ce">1936-1937.</unitdate></p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.65" score="2" C-ORDER="122">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Shipboard documents and travel papers, <unitdate calendar="gregorian" era="ce">1931/32.</unitdate></unittitle>
+ <physdesc> 12 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> transatlantic excursions.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.66" score="2" C-ORDER="124">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Documents, <unitdate calendar="gregorian" era="ce">1925-1937.</unitdate></unittitle>
+ <physdesc> 16 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> Sven Reher's (domestic and foreign) education (at Seal Beach Grammar School, Berliner Hochschule für Musik and UCLA).</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.67" score="1" C-ORDER="126">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>More education-related material; boy-scout material.</unittitle>
+ <physdesc> 8 pieces.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.68" score="1" C-ORDER="127">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Rolf Hoffman suicide: clipping.</unittitle>
+ <physdesc> 1 piece.</physdesc>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.69" score="2" C-ORDER="128">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Papers and brochures, <unitdate calendar="gregorian" era="ce">1960-1973.</unitdate></unittitle>
+ <physdesc> 3 pieces.</physdesc>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> the Allegro Ball.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.70" score="1" C-ORDER="130">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <unittitle>Unprocessed.</unittitle>
+ </did>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.71" score="1" C-ORDER="131">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <unittitle>Scrapbook, <unitdate calendar="gregorian" era="ce">1948-1954</unitdate></unittitle>
+ </did>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.72" score="2" C-ORDER="132">
+ <did>
+ <unittitle>Additions (July 1996)</unittitle>
+ </did>
+ <note>
+ <p>(Box listing only)</p>
+ </note>
+ <c02 level="file" id="c02-1.8.6.72.3" score="1" C-ORDER="134">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <unittitle>Publications: music books, etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.4" score="1" C-ORDER="135">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <unittitle>Diaries and day and cash books: <unitdate calendar="gregorian" era="ce">1932, primarily 1970s-80s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.5" score="1" C-ORDER="136">
+ <did>
+ <container label="Box" type="Box">18</container>
+ <unittitle>Incoming letters in envelopes: <unitdate calendar="gregorian" era="ce">1983, 1984.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.6" score="1" C-ORDER="137">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <unittitle>Greeting and Christmas cards, <unitdate calendar="gregorian" era="ce">1980s</unitdate>, Trip to Spain <unitdate calendar="gregorian" era="ce">1989</unitdate> ephemera.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.7" score="1" C-ORDER="138">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <unittitle>Santa Barbara, San Luis Obispo symphony etc. programs, ephemera.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.8" score="1" C-ORDER="139">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <unittitle>Letters in envelopes, other notes: <unitdate calendar="gregorian" era="ce">primarily late 1980s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.9" score="1" C-ORDER="140">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <unittitle>Expenses <unitdate calendar="gregorian" era="ce">1977</unitdate>, contracts, <unitdate calendar="gregorian" era="ce">1981</unitdate> tribute to SR, programs and announcements UCLA, etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.10" score="1" C-ORDER="141">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <unittitle>Mailings, programs Santa Maria, Santa Barbara, Humboldt State.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.11" score="1" C-ORDER="142">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <unittitle>Class notes (American history, class taken by SR).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.12" score="1" C-ORDER="143">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <unittitle>Family letters? (<unitdate calendar="gregorian" era="ce">1920s</unitdate>), UCLA items, mailings <unitdate calendar="gregorian" era="ce">1980s</unitdate>, etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.13" score="1" C-ORDER="144">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <unittitle>Programs Ashland Chamber workshop, SLO Mozart, International Viola Conference Redlands <unitdate calendar="gregorian" era="ce">1989</unitdate>, etc. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.14" score="1" C-ORDER="145">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <unittitle>SR class papers, <unitdate calendar="gregorian" era="ce">1930s-40s</unitdate>, tax items.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.15" score="1" C-ORDER="146">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <unittitle>Letters World War II from family, letters to family, college notes[?], <unitdate calendar="gregorian" era="ce">1940.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.16" score="1" C-ORDER="147">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <unittitle>KUSC interview about Klemperer, programs, Spain <unitdate calendar="gregorian" era="ce">1982</unitdate>, <title linktype="simple">Los Angeles Times</title> article <unitdate calendar="gregorian" era="ce">1981</unitdate>, Santa Barbara items, Consortium recordings publicity, UCLA oral history items, programs and announcements <unitdate calendar="gregorian" era="ce">1980s?.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.17" score="1" C-ORDER="148">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <unittitle>Articles pertaining to Cuenca (composition by SR), items about children, grandchildren[?].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.18" score="1" C-ORDER="149">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <unittitle>Party for SR <unitdate calendar="gregorian" era="ce">1981</unitdate>, U.S. Army correspondence (appearances?), Nancy <unitdate calendar="gregorian" era="ce">1982.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.19" score="2" C-ORDER="150">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <unittitle>SR important papers.</unittitle>
+ </did>
+ <scopecontent>
+ <p>(Honorable discharge, birth certificate, U.S. (citizenship, etc.), programs <unitdate calendar="gregorian" era="ce">1987-88</unitdate>, correspondence with musicians, father, union items.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.20" score="2" C-ORDER="152">
+ <did>
+ <container label="Box" type="Box">33</container>
+ <unittitle>College class notes[?].</unittitle>
+ <physdesc> In spiral binders.</physdesc>
+ </did>
+ <scopecontent>
+ <p>Primarily for classes in music history, etc.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.21" score="1" C-ORDER="154">
+ <did>
+ <container label="Box" type="Box">34</container>
+ <unittitle>Audio and video cassette recordings.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.22" score="1" C-ORDER="155">
+ <did>
+ <container label="Box" type="Box">35</container>
+ <unittitle>Letters <unitdate calendar="gregorian" era="ce">late 1920s, 1980s</unitdate>, Santa Barbara and San Luis Obispo programs, family? letters <unitdate calendar="gregorian" era="ce">early 1930s</unitdate>, postcards received from Europe, etc. <unitdate calendar="gregorian" era="ce">1930s[?]- .</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.23" score="2" C-ORDER="156">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <unittitle>Copyright and family documents.</unittitle>
+ </did>
+ <note>
+ <p>(Previously unfoldered and unidentified)</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.24" score="1" C-ORDER="158">
+ <did>
+ <container label="Box" type="Box">37</container>
+ <unittitle>Audio cassettes, 8mm film.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.25" score="1" C-ORDER="159">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <unittitle>John Kennedy button, photos of earlier years, other photos.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.26" score="1" C-ORDER="160">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <unittitle>Disney material, photocopies of letters from Schoenberg, etc., letter and card received <unitdate calendar="gregorian" era="ce">1964</unitdate>, diary <unitdate calendar="gregorian" era="ce">1943-44</unitdate>, UCLA Baroque ensemble, <unitdate calendar="gregorian" era="ce">1979-1980.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.27" score="2" C-ORDER="161">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <unittitle>Printed copies of compositions by Sven Reher.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Cuenca, Twelve studies for viola, Music for viola, Sonata for violin, etc.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.28" score="2" C-ORDER="163">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <unittitle>Recordings (LP).</unittitle>
+ </did>
+ <scopecontent>
+ <p>Hindemith, Levitch, one Temianka.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.29" score="2" C-ORDER="165">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <unittitle>Viola transcriptions.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Probably by SR, in manuscript.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.30" score="2" C-ORDER="167">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <unittitle>Viola parts.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Primarily printed music, but some manuscript.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.31" score="1" C-ORDER="169">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <unittitle>Manuscripts (?) of Beethoven, Bach.</unittitle>
+ <physdesc> Mounted on slick paper with portraits. Glue bleeding through paper.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.32" score="1" C-ORDER="170">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <unittitle>Sven Reher program.</unittitle>
+ <physdesc> Mounted with masking tape.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.33" score="1" C-ORDER="171">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <unittitle>William Reher clipping and poster.</unittitle>
+ <physdesc> (Mounted photographs on brown paper).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.34" score="1" C-ORDER="172">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <unittitle>A - Z by Agustin Gonzalez Acilu (blueprint copy of score).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.35" score="2" C-ORDER="173">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <unittitle>Miscellaneous publications and copies, diplomas and 
+letters of commendation, etc.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Includes UC Master of Arts in Music diploma (<unitdate calendar="gregorian" era="ce">1948</unitdate>).</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.36" score="1" C-ORDER="175">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <unittitle>Manuscript copies of Cuenca, compositions by Mac Lean, etc.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.37" score="1" C-ORDER="176">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <unittitle>Notes and bibliographical information.</unittitle>
+ <physdesc> On index cards.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.38" score="2" C-ORDER="177">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <unittitle>Duplicates of printed SR music.</unittitle>
+ </did>
+ <scopecontent>
+ <p>Sonata for violin, Cuenca, etc.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.72.39" score="1" C-ORDER="179">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <unittitle>Duplicates of recordings.</unittitle>
+ <physdesc> (Without sleeves, but sleeved in one album).</physdesc>
+ </did>
+ </c02>
+ </c01>
+ </dsc>
+ <relatedmaterial id="relatedmaterial-1.8.7">
+ <head>Related Material</head>
+ <p><title linktype="simple">We Must Go Farther Yet</title> [oral history transcript] / Sven Reher, interviewee. UCLA Oral History Department interview,
+ 1979-80. Available at Department of Special Collections, UCLA.</p>
+ </relatedmaterial>
+ </archdesc>
+</ead>
