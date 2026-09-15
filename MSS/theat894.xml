@@ -1,0 +1,1963 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt309nc3tc" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::894::Collection of Theater, Motion Picture, and Concert Programs)//EN&quot; &quot;theat894.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">theat894.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Collection of Theater, Motion Picture, and Concert Programs, 1818- </titleproper><titleproper type="filing">Theater, Motion Picture, and Concert Programs Collection</titleproper>
+ <author>Processed by Evert Volkertz; machine-readable finding aid created by Alight Tsai</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">September 2001</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Alight Tsai and Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::894::Collection of Theater, Motion Picture, and Concert Programs)//EN" "theat894.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Collection of Theater, Motion Picture, and Concert Programs, 1818- </titleproper>
+ <num>Collection number: 894</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Evert Volkertz, December 1968</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Alight Tsai</item>
+ </defitem>
+ <defitem>
+ <label>Text converted and initial container list EAD tagging by:</label>
+ <item>Apex Data Services</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, June 2003</item>
+ </defitem>
+ </list>
+ <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Collection of Theater, Motion Picture, and Concert Programs, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1818- </unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">894</unitid>
+ <physdesc label="Extent"><extent>295 boxes (142.0 linear ft.)</extent>
+<extent>15 cartons (15.0 linear ft.)</extent>
+<extent>3 oversize boxes</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Collection of Theater, Motion Picture, and Concert Programs (Collection 894). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232881">4232881</extref></p>
+</odd>
+ </descgrp>
+ <scopecontent id="scopecontent-1.8.3">
+ <head>Scope and Content</head>
+ <p>Collection consists of theater, movie, and concert programs, mainly from Los Angeles and California, but also from New York, Boston, Chicago, and others from London, Europe, and Australia.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.4">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <genreform source="rbgenr" encodinganalog="655">Programs.</genreform>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.5" score="1" C-ORDER="1" MAX-C-ORDER="358">
+ <head>Container List</head>
+ <c01 level="file" id="c01-1.8.5.2" score="1" C-ORDER="2">
+ <did>
+ <unittitle>Los Angeles</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.2.2" score="1" C-ORDER="3">
+ <did>
+ <container label="Boxes" type="Box">1-31, 50-53, 70-71, 75, 80-83, 111, 127-130, 144, 147, 191, 223</container>
+ <unittitle>[No further description available].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.3" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle>Los Angeles Symphony: scattered dates, <unitdate calendar="gregorian" era="ce">1907-1920.</unitdate></unittitle>
+ <physdesc> (18 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.4" score="1" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle><title linktype="simple">Philharmonic Review</title>: scattered dates, <unitdate calendar="gregorian" era="ce">1906-1926.</unitdate></unittitle>
+ <physdesc> (64 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.5" score="1" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle>Auditorium: scattered dates, <unitdate calendar="gregorian" era="ce">1906-1926.</unitdate></unittitle>
+ <physdesc> (39 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.6" score="1" C-ORDER="7">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle>Orpheum Theatre: scattered programs, <unitdate calendar="gregorian" era="ce">1907-1928.</unitdate></unittitle>
+ <physdesc> (17 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.7" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">72</container>
+ <unittitle>18 miscellaneous programs.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.8" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">73</container>
+ <unittitle>Morosco's Burbank Theatre: scattered programs, <unitdate calendar="gregorian" era="ce">1907-1925.</unitdate></unittitle>
+ <physdesc> (46 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.9" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">73</container>
+ <unittitle>Mason Opera House: scattered programs, <unitdate calendar="gregorian" era="ce">1908-1918.</unitdate></unittitle>
+ <physdesc> (85 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.10" score="1" C-ORDER="11">
+ <did>
+ <container label="Box" type="Box">74</container>
+ <unittitle>Hamburger's Majestic Theatre: <unitdate calendar="gregorian" era="ce">November 23, 1908-July 25, 1909</unitdate> complete. <unitdate calendar="gregorian" era="ce">September 5, 1909-November 28, 1909</unitdate>, complete. <unitdate calendar="gregorian" era="ce">1909-1914</unitdate> scattered programs.</unittitle>
+ <physdesc> (99 items).</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.11" score="1" C-ORDER="12">
+ <did>
+ <container label="Boxes" type="Box">76-77</container>
+ <unittitle>Biltmore Theatre.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.12" score="1" C-ORDER="13">
+ <did>
+ <container label="Boxes" type="Box">78-79</container>
+ <unittitle>Pasadena Playhouse.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.13" score="1" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">116</container>
+ <unittitle><title linktype="simple">Playgoer</title>, scattered issues, <unitdate calendar="gregorian" era="ce">1928-1933.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.14" score="1" C-ORDER="15">
+ <did>
+ <container label="Boxes" type="Box">140-142</container>
+ <unittitle>Pasadena Playhouse programs, and <title linktype="simple">Pasadena Playhouse News</title>.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.15" score="1" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">150</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1960s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.16" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">154</container>
+ <unittitle><title linktype="simple">Los Angeles Performing Arts</title>, <unitdate calendar="gregorian" era="ce">1967- .</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.17" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">235</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.18" score="1" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">240</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.19" score="1" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">241</container>
+ <unittitle>Carthay Circle Theater, <unitdate calendar="gregorian" era="ce">1947-56.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.20" score="1" C-ORDER="21">
+ <did>
+ <container label="Box" type="Box">241</container>
+ <unittitle>Circle Theater, <unitdate calendar="gregorian" era="ce">1949-52.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.21" score="1" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">241</container>
+ <unittitle>Century Theater, <unitdate calendar="gregorian" era="ce">1950-51.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.22" score="1" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">241</container>
+ <unittitle>Civic Playhouse, <unitdate calendar="gregorian" era="ce">1950-55.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.23" score="1" C-ORDER="24">
+ <did>
+ <container label="Box" type="Box">241</container>
+ <unittitle>Civic Theater, <unitdate calendar="gregorian" era="ce">1953-54.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.24" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">241</container>
+ <unittitle>El Capitan Theater, <unitdate calendar="gregorian" era="ce">1940-50.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.25" score="1" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">244</container>
+ <unittitle>Biltmore Theater, <unitdate calendar="gregorian" era="ce">1953-57.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.26" score="1" C-ORDER="27">
+ <did>
+ <container label="Box" type="Box">244</container>
+ <unittitle>Civic Light Opera, <unitdate calendar="gregorian" era="ce">1939-52, 1953-56.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.27" score="1" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">245</container>
+ <unittitle>Civic Light Opera, <unitdate calendar="gregorian" era="ce">1939-52</unitdate> (various issues), <unitdate calendar="gregorian" era="ce">1957.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.28" score="1" C-ORDER="29">
+ <did>
+ <container label="Box" type="Box">245</container>
+ <unittitle>Huntington Hartford Theater, <unitdate calendar="gregorian" era="ce">1954-56.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.29" score="1" C-ORDER="30">
+ <did>
+ <container label="Box" type="Box">246</container>
+ <unittitle>Huntington Hartford Theater, <unitdate calendar="gregorian" era="ce">1957-64.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.30" score="1" C-ORDER="31">
+ <did>
+ <container label="Box" type="Box">246</container>
+ <unittitle>Las Palmas Theater, <unitdate calendar="gregorian" era="ce">1948-55.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.31" score="1" C-ORDER="32">
+ <did>
+ <container label="Box" type="Box">246</container>
+ <unittitle>Music Box Theater, <unitdate calendar="gregorian" era="ce">1940-55</unitdate> (various issues).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.32" score="1" C-ORDER="33">
+ <did>
+ <container label="Box" type="Box">247</container>
+ <unittitle>New Globe Theater, <unitdate calendar="gregorian" era="ce">1950;</unitdate> New Horizons Theater, <unitdate calendar="gregorian" era="ce">1949-50.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.33" score="1" C-ORDER="34">
+ <did>
+ <container label="Box" type="Box">247</container>
+ <unittitle>Player's Ring, <unitdate calendar="gregorian" era="ce">1950-51 and 1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.34" score="1" C-ORDER="35">
+ <did>
+ <container label="Box" type="Box">247</container>
+ <unittitle>Player's Ring Gallery Theater, <unitdate calendar="gregorian" era="ce">1956-57.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.35" score="1" C-ORDER="36">
+ <did>
+ <container label="Box" type="Box">247</container>
+ <unittitle>El Patio Theater, <unitdate calendar="gregorian" era="ce">1946-1951.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.36" score="1" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">248</container>
+ <unittitle>Coronet Theater, <unitdate calendar="gregorian" era="ce">1947-1949, 1950, 1952, 1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.37" score="1" C-ORDER="38">
+ <did>
+ <container label="Box" type="Box">248</container>
+ <unittitle>Philharmonic Auditorium, <unitdate calendar="gregorian" era="ce">1949-1957.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.38" score="1" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">249</container>
+ <unittitle>Morosco's Burbank Theater, <unitdate calendar="gregorian" era="ce">1908, 1915.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.39" score="1" C-ORDER="40">
+ <did>
+ <container label="Box" type="Box">250</container>
+ <unittitle>Morosco's Burbank Theater, <unitdate calendar="gregorian" era="ce">1916, 1919.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.40" score="1" C-ORDER="41">
+ <did>
+ <container label="Box" type="Box">251</container>
+ <unittitle>Morosco's Burbank Theater, <unitdate calendar="gregorian" era="ce">1920, 1921.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.41" score="1" C-ORDER="42">
+ <did>
+ <container label="Box" type="Box">252</container>
+ <unittitle>Morosco Theater, <unitdate calendar="gregorian" era="ce">January-July 1922, August-December 1922.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.42" score="1" C-ORDER="43">
+ <did>
+ <container label="Box" type="Box">253</container>
+ <unittitle>Morosco Theater, <unitdate calendar="gregorian" era="ce">1924, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.43" score="1" C-ORDER="44">
+ <did>
+ <container label="Box" type="Box">254</container>
+ <unittitle>Morosco Theater, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.44" score="1" C-ORDER="45">
+ <did>
+ <container label="Box" type="Box">255</container>
+ <unittitle>Hollywood Playhouse, <unitdate calendar="gregorian" era="ce">1927.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.45" score="2" C-ORDER="46">
+ <did>
+ <container label="Box" type="Box">256</container>
+ <unittitle>Music Center/Ahmanson Theater (Performing Arts).</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.46" score="2" C-ORDER="48">
+ <did>
+ <container label="Box" type="Box">256</container>
+ <unittitle>Schubert Theater (Playbill).</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.47" score="2" C-ORDER="50">
+ <did>
+ <container label="Box" type="Box">257</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.48" score="2" C-ORDER="52">
+ <did>
+ <container label="Box" type="Box">259</container>
+ <unittitle>Los Angeles Area: v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate>; UCLA Royce Hall/Macgowan Hall, <unitdate calendar="gregorian" era="ce">1968-1978.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.49" score="2" C-ORDER="54">
+ <did>
+ <container label="Box" type="Box">260</container>
+ <unittitle>Huntington Hartford Theater, <unitdate calendar="gregorian" era="ce">1974-1979.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.50" score="2" C-ORDER="56">
+ <did>
+ <container label="Box" type="Box">258</container>
+ <unittitle>Mark Taper Forum (including 4 programs from the inaugural season).</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.51" score="2" C-ORDER="58">
+ <did>
+ <container label="Box" type="Box">263</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">1977-1981.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.52" score="2" C-ORDER="60">
+ <did>
+ <container label="Box" type="Box">264</container>
+ <unittitle><title linktype="simple">Playbill</title>, Coronet Theater, <unitdate calendar="gregorian" era="ce">1960-1966.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.53" score="2" C-ORDER="62">
+ <did>
+ <container label="Box" type="Box">264</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">1954-1966.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.54" score="2" C-ORDER="64">
+ <did>
+ <container label="Box" type="Box">265</container>
+ <unittitle>Evergreen Stage Company, <unitdate calendar="gregorian" era="ce"><emph render="italic">c.</emph> 1975.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.55" score="2" C-ORDER="66">
+ <did>
+ <container label="Box" type="Box">265</container>
+ <unittitle>Odyssey Theater, <unitdate calendar="gregorian" era="ce"><emph render="italic">c.</emph> 1970-1980.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.56" score="2" C-ORDER="68">
+ <did>
+ <container label="Box" type="Box">265</container>
+ <unittitle>Westwood Playhouse, <unitdate calendar="gregorian" era="ce"><emph render="italic">c.</emph> 1976-79.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.57" score="2" C-ORDER="70">
+ <did>
+ <container label="Box" type="Box">265</container>
+ <unittitle>Biltmore Theater, <unitdate calendar="gregorian" era="ce"><emph render="italic">c.</emph> 1959-1961;</unitdate> v.p., <unitdate calendar="gregorian" era="ce">1966-1979.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.58" score="2" C-ORDER="72">
+ <did>
+ <container label="Box" type="Box">266</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce"><emph render="italic">c.</emph> 1966-1979.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.59" score="2" C-ORDER="74">
+ <did>
+ <container label="Box" type="Box">267</container>
+ <unittitle>Huntington Hartford Theater, <unitdate calendar="gregorian" era="ce"><emph render="italic">c.</emph> 1963-1971.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.60" score="2" C-ORDER="76">
+ <did>
+ <container label="Box" type="Box">268</container>
+ <unittitle>Biltmore Theater, <unitdate calendar="gregorian" era="ce">1959-1964.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.61" score="2" C-ORDER="78">
+ <did>
+ <container label="Box" type="Box">268</container>
+ <unittitle>Coronet Theater, <unitdate calendar="gregorian" era="ce">1964-65.</unitdate></unittitle>
+ <abstract> (Includes a program autographed by Ray Bradbury).</abstract>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.62" score="2" C-ORDER="80">
+ <did>
+ <container label="Box" type="Box">268</container>
+ <unittitle>Greek Theater, <unitdate calendar="gregorian" era="ce">1962-72.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.63" score="2" C-ORDER="82">
+ <did>
+ <container label="Box" type="Box">268</container>
+ <unittitle>Huntington Hartford Theater, <unitdate calendar="gregorian" era="ce">c.1959-1972.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.64" score="2" C-ORDER="84">
+ <did>
+ <container label="Box" type="Box">268</container>
+ <unittitle>Lindy Opera House, <unitdate calendar="gregorian" era="ce">1968-1969.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.65" score="2" C-ORDER="86">
+ <did>
+ <container label="Box" type="Box">269</container>
+ <unittitle>Civic Light Opera, <unitdate calendar="gregorian" era="ce">1961-64.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.66" score="2" C-ORDER="88">
+ <did>
+ <container label="Box" type="Box">269</container>
+ <unittitle>Shrine Auditorium, <unitdate calendar="gregorian" era="ce">1963-69.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.67" score="2" C-ORDER="90">
+ <did>
+ <container label="Box" type="Box">269</container>
+ <unittitle>Music Center, <unitdate calendar="gregorian" era="ce">1972-73.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.68" score="2" C-ORDER="92">
+ <did>
+ <container label="Box" type="Box">269</container>
+ <unittitle>Schubert Theater, <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.69" score="2" C-ORDER="94">
+ <did>
+ <container label="Box" type="Box">269</container>
+ <unittitle>Huntington Hartford Theater, <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.70" score="2" C-ORDER="96">
+ <did>
+ <container label="Box" type="Box">270</container>
+ <unittitle>Mark Taper Forum, <unitdate calendar="gregorian" era="ce">1967-1969.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.71" score="2" C-ORDER="98">
+ <did>
+ <container label="Box" type="Box">270</container>
+ <unittitle>Huntington Hartford Theater, <unitdate calendar="gregorian" era="ce"><emph render="italic">c.</emph> 1968.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.72" score="2" C-ORDER="100">
+ <did>
+ <container label="Box" type="Box">270</container>
+ <unittitle>Greek Theater, Biltmore Theater, Lindy Opera House, <unitdate calendar="gregorian" era="ce"><emph render="italic">c.</emph> 1968.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.73" score="2" C-ORDER="102">
+ <did>
+ <container label="Box" type="Box">270</container>
+ <unittitle>Mark Taper Forum, <unitdate calendar="gregorian" era="ce">1972-1973.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.74" score="2" C-ORDER="104">
+ <did>
+ <container label="Box" type="Box">270</container>
+ <unittitle>News clippings <emph render="italic">re</emph> reviews of various productions.</unittitle>
+ <physdesc> 1 folder.</physdesc>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.75" score="2" C-ORDER="106">
+ <did>
+ <container label="Box" type="Box">271</container>
+ <unittitle>Dorothy Chandler Pavilion, Shrine Auditorium, Schubert Theater, <unitdate calendar="gregorian" era="ce">1966-1974.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.76" score="2" C-ORDER="108">
+ <did>
+ <container label="Box" type="Box">272</container>
+ <unittitle>Poli's Theater, <unitdate calendar="gregorian" era="ce">1928</unitdate>; Free Theater, <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.77" score="2" C-ORDER="110">
+ <did>
+ <container label="Box" type="Box">272</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">1930s.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.78" score="2" C-ORDER="112">
+ <did>
+ <container label="Box" type="Box">273</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">1930s.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.79" score="2" C-ORDER="114">
+ <did>
+ <container label="Box" type="Box">276</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">1960s-1970s.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.80" score="2" C-ORDER="116">
+ <did>
+ <container label="Box" type="Box">277</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">1950s-1960s.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.81" score="2" C-ORDER="118">
+ <did>
+ <container label="Box" type="Box">278</container>
+ <unittitle>Dorothy Chandler Pavilion, <unitdate calendar="gregorian" era="ce">1976-79.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.82" score="2" C-ORDER="120">
+ <did>
+ <container label="Box" type="Box">278</container>
+ <unittitle>Schubert Theater, <unitdate calendar="gregorian" era="ce">1972-1974.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.83" score="2" C-ORDER="122">
+ <did>
+ <container label="Box" type="Box">278</container>
+ <unittitle>Ahmanson Theater, <unitdate calendar="gregorian" era="ce">1969-72.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.84" score="2" C-ORDER="124">
+ <did>
+ <container label="Box" type="Box">278</container>
+ <unittitle>Civic Light Opera, <unitdate calendar="gregorian" era="ce">1968-1971.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.85" score="2" C-ORDER="126">
+ <did>
+ <container label="Box" type="Box">279</container>
+ <unittitle>Los Angeles Civic Light Opera, <unitdate calendar="gregorian" era="ce">1972-79.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.86" score="2" C-ORDER="128">
+ <did>
+ <container label="Box" type="Box">279</container>
+ <unittitle>Music Center, <unitdate calendar="gregorian" era="ce">1973-74.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.87" score="2" C-ORDER="130">
+ <did>
+ <container label="Box" type="Box">279</container>
+ <unittitle>Ahmanson Theater/Dorothy Chandler Pavilion, <unitdate calendar="gregorian" era="ce">1967-1975.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.88" score="2" C-ORDER="132">
+ <did>
+ <container label="Box" type="Box">279</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce"><emph render="italic">ca.</emph> 1966.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.89" score="2" C-ORDER="134">
+ <did>
+ <container label="Box" type="Box">280</container>
+ <unittitle>Huntington Hartford Theater, <unitdate calendar="gregorian" era="ce"><emph render="italic">ca.</emph> 1960-71.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.90" score="2" C-ORDER="136">
+ <did>
+ <container label="Box" type="Box">299</container>
+ <unittitle>Belasco, Biltmore, Egan, El Capitan, Hollywood Music Box, Hollywood Playhouse, Isis, Majestic, Mason, Mayan, Mission, Morosco, Orange Grove, Orpheum (3 folders), Pantages, Philharmonic.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.91" score="2" C-ORDER="138">
+ <did>
+ <container label="Box" type="Box">300</container>
+ <unittitle>Playhouse (2 folders), Shrine, Temple Auditorium.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.92" score="2" C-ORDER="140">
+ <did>
+ <container label="Box" type="Box">303</container>
+ <unittitle>Kentwood Players. Westchester (Los Angeles, California).</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.93" score="2" C-ORDER="142">
+ <did>
+ <container label="Box" type="Box">304</container>
+ <unittitle>Kentwood Players. Westchester (Los Angeles, California). </unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.94" score="2" C-ORDER="144">
+ <did>
+ <container label="Box" type="Box">304</container>
+ <unittitle>Lindy Opera House. Los Angeles.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.95" score="2" C-ORDER="146">
+ <did>
+ <container label="Box" type="Box">308</container>
+ <unittitle>Biltmore Theatre.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.96" score="2" C-ORDER="148">
+ <did>
+ <container label="Box" type="Box">308</container>
+ <unittitle>Greek Theatre.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.97" score="2" C-ORDER="150">
+ <did>
+ <container label="Box" type="Box">308</container>
+ <unittitle>Huntington Theatre.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.98" score="2" C-ORDER="152">
+ <did>
+ <container label="Box" type="Box">308</container>
+ <unittitle>Savoy Artes.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.99" score="2" C-ORDER="154">
+ <did>
+ <container label="Box" type="Box">308</container>
+ <unittitle>Wilshire Ebell Theatre.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.100" score="2" C-ORDER="156">
+ <did>
+ <container label="Box" type="Box">308</container>
+ <unittitle>Encino Theatre Group (Los Angeles, California).</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.3" score="1" C-ORDER="158">
+ <did>
+ <unittitle>UCLA, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.3.2" score="1" C-ORDER="159">
+ <did>
+ <container label="Box" type="Box">143</container>
+ <unittitle>UCLA Theater Group Miscellaneous Los Angeles programs.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.3" score="2" C-ORDER="160">
+ <did>
+ <container label="Box" type="Box">261</container>
+ <unittitle>Royce Hall, <unitdate calendar="gregorian" era="ce">1973-1980.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.4" score="2" C-ORDER="162">
+ <did>
+ <container label="Box" type="Box">262</container>
+ <unittitle>Royce Hall, <unitdate calendar="gregorian" era="ce">1964-74.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.5" score="2" C-ORDER="164">
+ <did>
+ <container label="Box" type="Box">262</container>
+ <unittitle><title linktype="simple">Playgoer</title>, UCLA Extension, <unitdate calendar="gregorian" era="ce">1960-1965.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.6" score="2" C-ORDER="166">
+ <did>
+ <container label="Box" type="Box">269</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1966-72.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.7" score="2" C-ORDER="168">
+ <did>
+ <container label="Box" type="Box">270</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.4" score="1" C-ORDER="170">
+ <did>
+ <unittitle>New York, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.4.2" score="1" C-ORDER="171">
+ <did>
+ <container label="Boxes" type="Box">34-39, 56-64, 84-102, 155, 159-164</container>
+ <unittitle>[No further description available].</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.3" score="1" C-ORDER="172">
+ <did>
+ <container label="Box" type="Box">117</container>
+ <unittitle>Musical programs.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.4" score="1" C-ORDER="173">
+ <did>
+ <container label="Box" type="Box">118</container>
+ <unittitle><title linktype="simple">Playbill</title> magazine.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.5" score="1" C-ORDER="174">
+ <did>
+ <container label="Box" type="Box">119</container>
+ <unittitle>Miscellaneous.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.6" score="1" C-ORDER="175">
+ <did>
+ <container label="Box" type="Box">120</container>
+ <unittitle><title linktype="simple">Playbill</title> magazine, <unitdate calendar="gregorian" era="ce">1930-1936</unitdate> (scattered issues).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.7" score="1" C-ORDER="176">
+ <did>
+ <container label="Boxes" type="Box">165-176</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1930-1934.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.8" score="1" C-ORDER="177">
+ <did>
+ <container label="Boxes" type="Box">177-190</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1926-1930.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.9" score="1" C-ORDER="178">
+ <did>
+ <container label="Boxes" type="Box">192-200</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1926-1930.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.10" score="1" C-ORDER="179">
+ <did>
+ <container label="Boxes" type="Box">201-208</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1930-1939.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.11" score="1" C-ORDER="180">
+ <did>
+ <container label="Boxes" type="Box">209-213</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1926-1930.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.12" score="1" C-ORDER="181">
+ <did>
+ <container label="Boxes" type="Box">214-216</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1930-1939.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.13" score="1" C-ORDER="182">
+ <did>
+ <container label="Box" type="Box">221</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1940-1950s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.14" score="1" C-ORDER="183">
+ <did>
+ <container label="Box" type="Box">222</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1888-1930.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.15" score="1" C-ORDER="184">
+ <did>
+ <container label="Box" type="Box">239</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.16" score="2" C-ORDER="185">
+ <did>
+ <container label="Box" type="Box">257</container>
+ <unittitle>York Playhouse; Renata Theater; Masque Theater Fine Arts Theater [also includes: Bolshoi Ballet, Ice Capades, <title linktype="simple">Saturday Review</title><unitdate calendar="gregorian" era="ce">dated June 12, 1971</unitdate> with cover story, Theater in '71].</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.17" score="2" C-ORDER="187">
+ <did>
+ <container label="Box" type="Box">260</container>
+ <unittitle><title linktype="simple">Showbill</title>, v.p., <unitdate calendar="gregorian" era="ce">1959-1960.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.18" score="2" C-ORDER="189">
+ <did>
+ <container label="Box" type="Box">260</container>
+ <unittitle><title linktype="simple">Playbill</title>, v.p., <unitdate calendar="gregorian" era="ce">1958-1980.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.19" score="2" C-ORDER="191">
+ <did>
+ <container label="Box" type="Box">261</container>
+ <unittitle><title linktype="simple">Playbill</title>, v.p., <unitdate calendar="gregorian" era="ce">1960s.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.20" score="2" C-ORDER="193">
+ <did>
+ <container label="Box" type="Box">263</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">1960-1980.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.21" score="2" C-ORDER="195">
+ <did>
+ <container label="Box" type="Box">264</container>
+ <unittitle>v.p., <unitdate calendar="gregorian" era="ce">1960-1980.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.22" score="2" C-ORDER="197">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>[No further description available].</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.5" score="1" C-ORDER="199">
+ <did>
+ <unittitle>[England], <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.5.2" score="1" C-ORDER="200">
+ <did>
+ <container label="Box" type="Box">157</container>
+ <unittitle>London, <unitdate calendar="gregorian" era="ce">1900-1910.</unitdate> George E. Lask Collection.</unittitle>
+ <physdesc> 3 scrapbooks.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.5.3" score="1" C-ORDER="201">
+ <did>
+ <container label="Box" type="Box">158</container>
+ <unittitle>London, <unitdate calendar="gregorian" era="ce">1885, <emph render="italic">ca.</emph> 1900.</unitdate> George E. Lask Collection.</unittitle>
+ <physdesc> 2 scrapbooks.</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.5.4" score="1" C-ORDER="202">
+ <did>
+ <container label="Box" type="Box">115</container>
+ <unittitle>British theatre reviews; photostats of <unitdate calendar="gregorian" era="ce">17th and 18th century</unitdate> British playbills; 2 French programs.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.5.5" score="1" C-ORDER="203">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <unittitle>English.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.5.6" score="2" C-ORDER="204">
+ <did>
+ <container label="Box" type="Box">259</container>
+ <unittitle>London: Ambassadors Theatre; Apollo Theatre; Globe Theatre Lyric Theatre; May Fair Theatre; National Theatre; Piccadilly Theatre; Queen's Theatre; Strand Theatre; Theatre Royal Haymarket; Windham's Theatre; Duke of York's Theatre.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.5.7" score="2" C-ORDER="206">
+ <did>
+ <container label="Box" type="Box">313</container>
+ <unittitle>Great Britain.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.6" score="1" C-ORDER="208">
+ <did>
+ <unittitle>U.S., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.6.2" score="1" C-ORDER="209">
+ <did>
+ <container label="Boxes" type="Box">40-42</container>
+ <unittitle>Boston.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.3" score="1" C-ORDER="210">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <unittitle>Chicago.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.4" score="1" C-ORDER="211">
+ <did>
+ <container label="Boxes" type="Box">44-45</container>
+ <unittitle>Other States.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.5" score="1" C-ORDER="212">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <unittitle>Middle West; Washington, D.C.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.6" score="1" C-ORDER="213">
+ <did>
+ <container label="Boxes" type="Box">103-106</container>
+ <unittitle>Out-of-State (Not New York or Los Angeles).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.7" score="1" C-ORDER="214">
+ <did>
+ <container label="Boxes" type="Box">226-232</container>
+ <unittitle>California theatre programs. v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.8" score="1" C-ORDER="215">
+ <did>
+ <container label="Box" type="Box">241</container>
+ <unittitle>Miscellaneous California programs: v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.9" score="1" C-ORDER="216">
+ <did>
+ <container label="Box" type="Box">224</container>
+ <unittitle>California, including Los Angeles, <unitdate calendar="gregorian" era="ce"><emph render="italic">ca.</emph> 1920-1960.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.10" score="1" C-ORDER="217">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <unittitle>Southern California.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.11" score="1" C-ORDER="218">
+ <did>
+ <container label="Boxes" type="Box">107-110</container>
+ <unittitle>California (not Los Angeles).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.12" score="1" C-ORDER="219">
+ <did>
+ <container label="Box" type="Box">156</container>
+ <unittitle>Los Angeles, San Fransisco, San Diego, miscellaneous.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.13" score="2" C-ORDER="220">
+ <did>
+ <container label="Box" type="Box">286</container>
+ <unittitle>California.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.14" score="1" C-ORDER="222">
+ <did>
+ <container label="Boxes" type="Box">145-146</container>
+ <unittitle>New York, Los Angeles.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.15" score="1" C-ORDER="223">
+ <did>
+ <container label="Box" type="Box">148</container>
+ <unittitle>New York, Los Angeles.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.16" score="1" C-ORDER="224">
+ <did>
+ <container label="Box" type="Box">152</container>
+ <unittitle>New York, Los Angeles.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.17" score="2" C-ORDER="225">
+ <did>
+ <container label="Box" type="Box">243</container>
+ <unittitle>Biltmore Theater, <unitdate calendar="gregorian" era="ce">1940-52.</unitdate> Miscellaneous U.S. programs v.p., <unitdate calendar="gregorian" era="ce"><emph render="italic">ca.</emph> 1892-96.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>Also several unidentified and 1 foreign item.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.18" score="2" C-ORDER="227">
+ <did>
+ <container label="Boxes" type="Box">273-275</container>
+ <unittitle>Los Angeles/New York: v.p., <unitdate calendar="gregorian" era="ce">1940s.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.19" score="1" C-ORDER="229">
+ <did>
+ <container label="Boxes" type="Box">217-219</container>
+ <unittitle>Miscellaneous theater programs: United States.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.20" score="1" C-ORDER="230">
+ <did>
+ <container label="Boxes" type="Box">233-234</container>
+ <unittitle>United States theatre programs (Non-California) v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.21" score="1" C-ORDER="231">
+ <did>
+ <container label="Boxes" type="Box">236-238</container>
+ <unittitle>Miscellaneous items, including Los Angeles.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.22" score="1" C-ORDER="232">
+ <did>
+ <container label="Box" type="Box">242</container>
+ <unittitle>Miscellaneous U.S. theater programs (non-California): v.p., <unitdate calendar="gregorian" era="ce"><emph render="italic">ca.</emph> 1890s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.23" score="1" C-ORDER="233">
+ <did>
+ <container label="Box" type="Box">248</container>
+ <unittitle>United States. <title linktype="simple">Playgoer</title> (Detroit) <unitdate calendar="gregorian" era="ce">1928-1929, 1951.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.24" score="2" C-ORDER="234">
+ <did>
+ <container label="Box" type="Box">269</container>
+ <unittitle>San Francisco Opera, <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.25" score="2" C-ORDER="236">
+ <did>
+ <container label="Box" type="Box">304</container>
+ <unittitle>Southern California schools.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.26" score="2" C-ORDER="238">
+ <did>
+ <container label="Boxes" type="Box">305-307</container>
+ <unittitle>Los Angeles and Southern California.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.27" score="2" C-ORDER="240">
+ <did>
+ <container label="Box" type="Box">272</container>
+ <unittitle>Los Angeles/New York: v.p., <unitdate calendar="gregorian" era="ce">1940s.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.28" score="2" C-ORDER="242">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>San Francisco, California.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.29" score="2" C-ORDER="244">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>California.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.30" score="2" C-ORDER="246">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Florida.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.31" score="2" C-ORDER="248">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Georgia.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.32" score="2" C-ORDER="250">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Kansas.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.33" score="2" C-ORDER="252">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Massachusetts.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.34" score="2" C-ORDER="254">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Nevada.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.35" score="2" C-ORDER="256">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>New Mexico.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.36" score="2" C-ORDER="258">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Ohio.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.37" score="2" C-ORDER="260">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Oregon.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.38" score="2" C-ORDER="262">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Pennsylvania.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.39" score="2" C-ORDER="264">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Texas.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.40" score="2" C-ORDER="266">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Washington.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.41" score="2" C-ORDER="268">
+ <did>
+ <container label="Box" type="Box">309</container>
+ <unittitle>Washington, D.C.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.42" score="2" C-ORDER="270">
+ <did>
+ <container label="Box" type="Box">279</container>
+ <unittitle>United States: v.p., <unitdate calendar="gregorian" era="ce"><emph render="italic">ca.</emph> 1949-1953.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.43" score="2" C-ORDER="272">
+ <did>
+ <container label="Box" type="Box">280</container>
+ <unittitle>Los Angeles/San Francisco: v.p., <unitdate calendar="gregorian" era="ce">1949, <emph render="italic">ca.</emph> 1958-61.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.44" score="2" C-ORDER="274">
+ <did>
+ <container label="Carton" type="Carton">281</container>
+ <unittitle>Los Angeles, miscellaneous California. <emph render="bold">Unprocessed</emph>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.45" score="2" C-ORDER="276">
+ <did>
+ <container label="Carton" type="Carton">283</container>
+ <unittitle>Miscellaneous U.S. <emph render="bold">Unprocessed</emph>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.46" score="2" C-ORDER="278">
+ <did>
+ <container label="Box" type="Box">262</container>
+ <unittitle>U.S.: v.p., <unitdate calendar="gregorian" era="ce">1950-1966.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.47" score="2" C-ORDER="280">
+ <did>
+ <container label="Box" type="Box">262</container>
+ <unittitle>San Diego: v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.6.48" score="2" C-ORDER="282">
+ <did>
+ <container label="Box" type="Box">263</container>
+ <unittitle>San Francisco: Performing Arts, <unitdate calendar="gregorian" era="ce">1975.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.7" score="1" C-ORDER="284">
+ <did>
+ <unittitle>[Miscellaneous], <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.7.2" score="1" C-ORDER="285">
+ <did>
+ <container label="Box" type="Box">54</container>
+ <unittitle>George Wright Collection, <unitdate calendar="gregorian" era="ce">1818-1949.</unitdate> Also includes some play bills. In Chinese chest (oversize).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.3" score="1" C-ORDER="286">
+ <did>
+ <container label="Box" type="Box">55</container>
+ <unittitle><emph render="bold">Not assigned</emph>, <unitdate calendar="gregorian" era="ce">December 1989.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.4" score="1" C-ORDER="287">
+ <did>
+ <container label="Boxes" type="Box">65-69</container>
+ <unittitle>v.p. (from George E. Lask Collection).</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.5" score="1" C-ORDER="288">
+ <did>
+ <container label="Box" type="Box">112</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1800-1920</unitdate> primarily, theater and motion picture programs. Various locations.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.6" score="1" C-ORDER="289">
+ <did>
+ <container label="Box" type="Box">113</container>
+ <unittitle>Theater and motion picture programs, primarily <unitdate calendar="gregorian" era="ce">1920s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.7" score="1" C-ORDER="290">
+ <did>
+ <container label="Box" type="Box">114</container>
+ <unittitle>Miscellaneous, some programs, scrapbooks.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.8" score="1" C-ORDER="291">
+ <did>
+ <container label="Box" type="Box">117</container>
+ <unittitle>Primarily New York programs, including <title linktype="simple">Playbill</title>, scattered issues, <unitdate calendar="gregorian" era="ce">1936-1957;</unitdate> British and U.S. Forces Overseas theater programs, World War II; New York musical programs.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.9" score="1" C-ORDER="292">
+ <did>
+ <container label="Box" type="Box">117</container>
+ <unittitle>Primarily New York programs, including <title linktype="simple">Playbill</title>, scattered issues, <unitdate calendar="gregorian" era="ce">1936-1957.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.10" score="1" C-ORDER="293">
+ <did>
+ <container label="Box" type="Box">117</container>
+ <unittitle>British and U.S. Forces Overseas theater programs, World War II.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.11" score="1" C-ORDER="294">
+ <did>
+ <container label="Boxes" type="Box">121-126</container>
+ <unittitle>U.S. &amp; British Programs, <unitdate calendar="gregorian" era="ce"><emph render="italic">ca.</emph> 1925-1955.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.12" score="1" C-ORDER="295">
+ <did>
+ <container label="Boxes" type="Box">131-139</container>
+ <unittitle>Unsorted U.S. &amp; foreign.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.13" score="1" C-ORDER="296">
+ <did>
+ <container label="Box" type="Box">149</container>
+ <unittitle>Ashland, Oregon, Paris, Los Angeles, New York.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.14" score="1" C-ORDER="297">
+ <did>
+ <container label="Box" type="Box">151</container>
+ <unittitle>Los Angeles, New York, Paris.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.15" score="1" C-ORDER="298">
+ <did>
+ <container label="Box" type="Box">153</container>
+ <unittitle>Monte Carlo, Los Angeles, New York.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.16" score="1" C-ORDER="299">
+ <did>
+ <container label="Box" type="Box">220</container>
+ <unittitle>Miscellaneous theater programs: Europe and Australia.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.17" score="1" C-ORDER="300">
+ <did>
+ <container label="Box" type="Box">225</container>
+ <unittitle>Non-United States theatre programs. v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.18" score="1" C-ORDER="301">
+ <did>
+ <container label="Boxes" type="Box">46-47</container>
+ <unittitle>Foreign.</unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.19" score="2" C-ORDER="302">
+ <did>
+ <container label="Box" type="Box">284</container>
+ <unittitle><emph render="bold">Unprocessed</emph>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.20" score="2" C-ORDER="304">
+ <did>
+ <container label="Box" type="Box">285</container>
+ <unittitle>Mostly California. Some London.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.21" score="2" C-ORDER="306">
+ <did>
+ <container label="Carton" type="Carton">282</container>
+ <unittitle>Los Angeles, miscellaneous foreign. <emph render="bold">Unprocessed</emph>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.22" score="2" C-ORDER="308">
+ <did>
+ <container label="Box" type="Box">300</container>
+ <unittitle>Non-California, Washington, Midwest, England.</unittitle>
+ <physdesc> (2 folders).</physdesc>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.23" score="2" C-ORDER="310">
+ <did>
+ <container label="Boxes" type="Box">287-289</container>
+ <unittitle><emph render="bold">Unprocessed</emph>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.7.24" score="2" C-ORDER="312">
+ <did>
+ <container label="Box" type="Box">276</container>
+ <unittitle>Foreign: United Kingdom, Paris, Mexico. v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.8" score="1" C-ORDER="314">
+ <did>
+ <unittitle>Magazines</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.8.2" score="2" C-ORDER="315">
+ <did>
+ <container label="Boxes" type="Box">290-291</container>
+ <unittitle><title linktype="simple">Performing Arts Magazine</title>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.3" score="2" C-ORDER="317">
+ <did>
+ <container label="Box" type="Box">292</container>
+ <unittitle>Program sheets, London &amp; New York, <unitdate calendar="gregorian" era="ce">1885-1886, 1901-1905.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.4" score="2" C-ORDER="319">
+ <did>
+ <container label="Box" type="Box">293</container>
+ <unittitle><title linktype="simple">Performing Arts Magazine</title>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.5" score="2" C-ORDER="321">
+ <did>
+ <container label="Box" type="Box">294</container>
+ <unittitle><title linktype="simple">Playbill</title>, Showbill &amp; miscellaneous productions.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.6" score="2" C-ORDER="323">
+ <did>
+ <container label="Boxes" type="Box">295-296</container>
+ <unittitle>Playbill &amp; some miscellaneous.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.7" score="2" C-ORDER="325">
+ <did>
+ <container label="Box" type="Box">297</container>
+ <unittitle>College &amp; Los Angeles small theatre productions, London, Victor Valley (California), Oregon, Los Angeles.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.8" score="2" C-ORDER="327">
+ <did>
+ <container label="Carton" type="Carton">298</container>
+ <unittitle><title linktype="simple">Playbill</title>, Rebelais productions, La Cage Aux Folles productions, <title linktype="simple">My Fair Lady</title> revival, James Whitmore - Bully, Kabuki Theatre, Southwest, California, Los Angeles, New York, Europe, Yale productions.</unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.9" score="2" C-ORDER="329">
+ <did>
+ <container label="Box" type="Box">301</container>
+ <unittitle><title linktype="simple">Playbill</title>, <unitdate calendar="gregorian" era="ce">September 1966-January 1967, September 1968-January 1969, June 1976-September 1977, September 1977-June 1978.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.10" score="2" C-ORDER="331">
+ <did>
+ <container label="Box" type="Box">302</container>
+ <unittitle><title linktype="simple">Playbill</title>, <unitdate calendar="gregorian" era="ce">June 1978-July 1979, July 1979-March 1980, March 1989-January 1981, December 1981-June 1983.</unitdate></unittitle>
+ </did>
+ <note>
+ <p>Addition, May 1986.</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.11" score="2" C-ORDER="333">
+ <did>
+ <container label="Boxes" type="Box">310, 312</container>
+ <unittitle><title linktype="simple">Playbill</title>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.12" score="2" C-ORDER="335">
+ <did>
+ <container label="Box" type="Box">311</container>
+ <unittitle><title linktype="simple">Playbill</title>, <title linktype="simple">Playgoer</title> and <title linktype="simple">Performing Arts</title>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.13" score="2" C-ORDER="337">
+ <did>
+ <container label="Box" type="Box">313</container>
+ <unittitle><title linktype="simple">Performing Arts</title>.</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.8.14" score="2" C-ORDER="339">
+ <did>
+ <container label="Box" type="Box">313</container>
+ <unittitle>Miscellaneous (no location).</unittitle>
+ </did>
+ <note>
+ <p>Addition, January 2002 (SE/LH).</p>
+ </note>
+ </c02>
+ </c01>
+ <c01 level="file" id="c01-1.8.5.9" score="1" C-ORDER="341">
+ <did>
+ <unittitle>Theater Programs, Primarily Los Angeles, <unitdate calendar="gregorian" era="ce">1960s-70s</unitdate></unittitle>
+ <note>
+ <p>Collected by Bernard Galm.</p>
+ <p>(dl 10/86)</p>
+ </note>
+ </did>
+ <c02 level="file" id="c02-1.8.5.9.2" score="1" C-ORDER="342">
+ <did>
+ <unittitle>Performing Arts Programs, <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.5.9.2.2" score="1" C-ORDER="343">
+ <did>
+ <container label="Boxes" type="Box">285-286</container>
+ <unittitle>Music Center, Los Angeles Philharmonic, <unitdate calendar="gregorian" era="ce">1960s-70s.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.3" score="1" C-ORDER="344">
+ <did>
+ <container label="Box" type="Box">287</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Operas, etc., <unitdate calendar="gregorian" era="ce">1960s-70s.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.4" score="1" C-ORDER="345">
+ <did>
+ <container label="Box" type="Box">287</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Ahmanson Theatre, <unitdate calendar="gregorian" era="ce">1967-70.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.5" score="1" C-ORDER="346">
+ <did>
+ <container label="Box" type="Box">287</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Ahmanson Theatre, <unitdate calendar="gregorian" era="ce">1971-80.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.6" score="1" C-ORDER="347">
+ <did>
+ <container label="Box" type="Box">288</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Ahmanson Theatre, <unitdate calendar="gregorian" era="ce">1975-76.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.7" score="1" C-ORDER="348">
+ <did>
+ <container label="Box" type="Box">288</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Ahmanson Theatre, <unitdate calendar="gregorian" era="ce">1977.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.8" score="1" C-ORDER="349">
+ <did>
+ <container label="Box" type="Box">288</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Mark Taper Forum, <unitdate calendar="gregorian" era="ce">1972-75.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.9" score="1" C-ORDER="350">
+ <did>
+ <container label="Box" type="Box">288</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Mark Taper Forum, <unitdate calendar="gregorian" era="ce">1976-77.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.10" score="1" C-ORDER="351">
+ <did>
+ <container label="Box" type="Box">288</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Mark Taper Forum, <unitdate calendar="gregorian" era="ce">1978-80.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.11" score="1" C-ORDER="352">
+ <did>
+ <container label="Box" type="Box">289</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Los Angeles Civic Light Opera, <unitdate calendar="gregorian" era="ce">1960s-70s.</unitdate></unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.5.9.2.12" score="1" C-ORDER="353">
+ <did>
+ <container label="Box" type="Box">289</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Pantages Theatre, <unitdate calendar="gregorian" era="ce">1970s.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.9.3" score="1" C-ORDER="354">
+ <did>
+ <container label="Box" type="Box">287</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><title linktype="simple">Curtain call</title> magazine, miscellaneous programs and flyers, <unitdate calendar="gregorian" era="ce">1960s-70s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.9.4" score="1" C-ORDER="355">
+ <did>
+ <container label="Box" type="Box">289</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><title linktype="simple">Playgoer</title> programs, Huntington Hartford Theatre, <unitdate calendar="gregorian" era="ce">1960s-70s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.9.5" score="1" C-ORDER="356">
+ <did>
+ <container label="Box" type="Box">289</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><title linktype="simple">Playbill</title>, Performing arts programs, Shubert Theatre, <unitdate calendar="gregorian" era="ce">1970s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.9.6" score="1" C-ORDER="357">
+ <did>
+ <container label="Box" type="Box">289</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><title linktype="simple">Playgoer</title> programs, etc., miscellaneous theaters, <unitdate calendar="gregorian" era="ce">1960s-70s.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.9.7" score="1" C-ORDER="358">
+ <did>
+ <container label="Box" type="Box">289</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Greek Theatre magazines, <unitdate calendar="gregorian" era="ce">1970-71.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
