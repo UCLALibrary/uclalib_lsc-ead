@@ -1,319 +1,47 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
- 
- 
- 
- 
- 
- <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf6779p17r" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU::688::W.T. McFie Well Supply Company Records)//EN&quot; &quot;mcfie688.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">mcfie688.xml</eadid><filedesc>
- <titlestmt>
- <titleproper>Finding Aid for the W.T. McFie Well Supply Company Records, 1895-1911</titleproper><titleproper type="filing">McFie (W.T.) Well Supply Co. Records</titleproper>
- <author>Processed by Simon Elliott; machine-readable finding aid created by Lilace Hatayama</author>
- </titlestmt>
- <publicationstmt>
- <publisher>UCLA Library, Department of Special Collections</publisher>
- <address>
- <addressline>Manuscripts Division</addressline>
- <addressline>Room A1713, Charles E. Young Research Library</addressline>
- <addressline>Box 951575</addressline>
- <addressline>Los Angeles, CA 90095-1575</addressline>
- <addressline>Email: spec-coll@library.ucla.edu</addressline>
- <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
- </address>
- <date calendar="gregorian" era="ce">© 1999</date>
- <p>The Regents of the University of California. All rights reserved.</p>
- </publicationstmt>
- <notestmt>
- <note>
- <p>
- <subject source="cdl"/>
- <subject source="cdl"/>
- <subject source="cdl"/>
- <subject source="cdl"/>
- </p>
- </note>
- </notestmt>
- </filedesc><profiledesc>
- <creation>Machine-readable finding aid derived from database containing
-container list structure and data, encoding added via MS Access or other database program, <date calendar="gregorian" era="ce">April 1990</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Lilace Hatayama.</creation>
- <langusage>Description is in <language>English.</language></langusage>
- </profiledesc><revisiondesc>
- <change>
- <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
- <item>PUBLIC "-//University of California, Los
-Angeles::Library::Dept. of Special Collections//TEXT
-(US::CLU::688::W.T. McFie Well Supply Company Records)//EN" "mcfie688.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
- </change>
- </revisiondesc></eadheader>
- <frontmatter>
- <titlepage>
- <titleproper>Finding Aid for the W.T. McFie Well Supply Company Records, 1895-1911</titleproper>
- <num>Collection number: 688</num>
- <publisher>UCLA Library, Department of Special Collections
-<lb/>Manuscripts Division
-<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
- <list type="simple">
- <head>Contact Information</head>
- <item>Manuscripts Division</item>
- <item>UCLA Library, Department of Special Collections</item>
- <item>Room A1713, Charles E. Young Research Library</item>
- <item>Box 951575</item>
- <item>Los Angeles, CA 90095-1575</item>
- <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
-Time)</item>
- <item>Email: spec-coll@library.ucla.edu</item>
- <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
- </list>
- <list type="deflist">
- <defitem>
- <label>Processed by:</label>
- <item>Simon Elliott, April 1990</item>
- </defitem>
- <defitem>
- <label>Encoded by:</label>
- <item>Lilace Hatayama and Caroline Cubé</item>
- </defitem>
- <defitem>
- <label>Online finding aid edited by:</label>
- <item>Josh Fiala, August 2002</item>
- </defitem>
- </list>
- <p>© 1999 The Regents of the University of California. All rights reserved.</p>
- </titlepage>
- </frontmatter>
- <archdesc level="collection" id="archdesc-1.3">
- <did id="did-1.8.1">
- <head>Descriptive Summary</head>
- <unittitle label="Title">W.T. McFie Well Supply Company Records, </unittitle>
-<unitdate calendar="gregorian" era="ce" type="inclusive">1895-1911</unitdate>
- <unitid label="Collection number" countrycode="US" repositorycode="CLUS">688</unitid>
- <origination label="Creator">W.T. McFie Well Supply Company</origination>
- <physdesc label="Extent"><extent>88 boxes (44 linear ft.) </extent>
-<extent>20 oversize boxes</extent></physdesc>
- <repository label="Repository">
- <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
- <address>
- <addressline>Los Angeles, California 90095-1575</addressline>
- </address>
- </repository>
- <abstract label="Abstract">W.T. McFie Well Supply Company provided drilling tools used by most of the early petroleum industry operators in the Los Angeles basin. The collection includes ledgers, inventories, and account books. </abstract>
- <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
- <langmaterial label="Language">
- <language langcode="eng">English.</language>
- </langmaterial>
- </did>
- <descgrp type="admininfo" id="descgrp-1.8.2">
- <head>Administrative Information</head>
- <userestrict>
- <head>Restrictions on Use and Reproduction</head>
- <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
-copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
- </userestrict>
- <accessrestrict>
- <head>Restrictions on Access</head>
- <p>PARTIALLY PROCESSED COLLECTION UNAVAILABLE FOR USE: except for boxes 89-108. Inquiries regarding these materials should be directed, in writing, to the Manuscripts Librarian, UCLA Department of Special Collections.</p>
- <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
- </accessrestrict>
- <altformavail>
- <head>Additional Physical Form Available</head>
- <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
- <p>
- <list type="simple">
- <item>Public Services Division</item>
- <item>UCLA Library, Department of Special Collections</item>
- <item>Room A1713, Charles E. Young Research Library</item>
- <item>Box 951575</item>
- <item>Los Angeles, CA 90095-1575</item>
- <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
-Time)</item>
- <item>Email: spec-coll@library.ucla.edu</item>
- </list>
- </p>
- </altformavail>
- <prefercite>
- <head>Preferred Citation</head>
- <p>[Identification of item], W.T. McFie Well Supply Company Records (Collection 688). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
- </prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233938">4233938</extref></p>
-</odd>
- </descgrp>
- <bioghist id="bioghist-1.8.3">
- <head>Biography</head>
- <p>William Thomas McFie was a pioneer Los Angeles hardware merchant, whose business, W.T. McFie Well Supply Company, provided drilling tools used by most of the early petroleum industry operators in the Los Angeles basin. </p>
- </bioghist>
- <scopecontent id="scopecontent-1.8.4">
- <head>Scope and Content</head>
- <p>Boxes 89-108 include business papers of William Thomas McFie and the W.T. McFie Well Supply Company Includes ledgers, inventories, and account books.</p>
- </scopecontent>
- <controlaccess id="controlaccess-1.8.5">
- <head>Indexing Terms</head>
- <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
- <persname encodinganalog="600" role="subject">McFie, William Thomas.</persname>
- <corpname source="lcnaf" encodinganalog="610" role="subject">W.T. McFie Well Supply Company--Archives.</corpname>
- <subject source="lcsh" encodinganalog="650">Hardware stores--California--Los Angeles--Archival resources. </subject>
- <genreform source="aat" encodinganalog="655">Business records.</genreform>
- </controlaccess>
- <dsc type="in-depth" id="dsc-1.8.6" score="1" C-ORDER="1" MAX-C-ORDER="28">
- <head>Container List</head>
- <c01 level="series" id="c01-1.8.6.2" score="1" C-ORDER="2">
- <did>
- <container label="Boxes" type="Box">1-88</container>
- <unittitle>Unprocessed.</unittitle>
- </did>
- </c01>
- <c01 level="series" id="c01-1.8.6.3" score="1" C-ORDER="3">
- <did>
- <unittitle>Sales</unittitle>
- </did>
- <c02 level="file" id="c02-1.8.6.3.2" score="1" C-ORDER="4">
- <did>
- <container label="Box" type="Box">89</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1895-1898.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.3.3" score="1" C-ORDER="5">
- <did>
- <container label="Box" type="Box">90</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1899-1900.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.3.4" score="1" C-ORDER="6">
- <did>
- <container label="Box" type="Box">91</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1900-1903.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.3.5" score="1" C-ORDER="7">
- <did>
- <container label="Box" type="Box">92</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1903-1904.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.3.6" score="1" C-ORDER="8">
- <did>
- <container label="Box" type="Box">93</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1905-1906.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.3.7" score="1" C-ORDER="9">
- <did>
- <container label="Box" type="Box">94</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1906-1908.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.3.8" score="1" C-ORDER="10">
- <did>
- <container label="Box" type="Box">95</container>
- <unittitle>Sales, <unitdate calendar="gregorian" era="ce">1908-1910.</unitdate></unittitle>
- </did>
- </c02>
- </c01>
- <c01 level="series" id="c01-1.8.6.4" score="1" C-ORDER="11">
- <did>
- <unittitle>Journals</unittitle>
- </did>
- <c02 level="file" id="c02-1.8.6.4.2" score="1" C-ORDER="12">
- <did>
- <container label="Box" type="Box">96</container>
- <unittitle><unitdate calendar="gregorian" era="ce">October 1895-May 1902.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.4.3" score="1" C-ORDER="13">
- <did>
- <container label="Box" type="Box">97</container>
- <unittitle><unitdate calendar="gregorian" era="ce">June 1902-September 1906.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.4.4" score="1" C-ORDER="14">
- <did>
- <container label="Box" type="Box">98</container>
- <unittitle><unitdate calendar="gregorian" era="ce">September 1906-August 1909.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.4.5" score="1" C-ORDER="15">
- <did>
- <container label="Box" type="Box">99</container>
- <unittitle><unitdate calendar="gregorian" era="ce">September 1909-October 1911.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.4.6" score="1" C-ORDER="16">
- <did>
- <container label="Box" type="Box">99</container>
- <unittitle><unitdate calendar="gregorian" era="ce">September 1909-October 1911.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.4.7" score="1" C-ORDER="17">
- <did>
- <container label="Box" type="Box">100</container>
- <unittitle><unitdate calendar="gregorian" era="ce">February 1901-November 1911.</unitdate></unittitle>
- </did>
- </c02>
- </c01>
- <c01 level="series" id="c01-1.8.6.5" score="1" C-ORDER="18">
- <did>
- <unittitle>Cash</unittitle>
- </did>
- <c02 level="file" id="c02-1.8.6.5.2" score="1" C-ORDER="19">
- <did>
- <container label="Box" type="Box">101</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1905-1903.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.5.3" score="1" C-ORDER="20">
- <did>
- <container label="Boxes" type="Box">102-103</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1903-1906.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.5.4" score="1" C-ORDER="21">
- <did>
- <container label="Box" type="Box">104</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1908-1910.</unitdate></unittitle>
- </did>
- </c02>
- </c01>
- <c01 level="series" id="c01-1.8.6.6" score="1" C-ORDER="22">
- <did>
- <unittitle>Ledgers</unittitle>
- </did>
- <c02 level="file" id="c02-1.8.6.6.2" score="1" C-ORDER="23">
- <did>
- <container label="Box" type="Box">105</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1896-1900.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.6.3" score="1" C-ORDER="24">
- <did>
- <container label="Box" type="Box">106</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1900-1907.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.6.4" score="1" C-ORDER="25">
- <did>
- <container label="Box" type="Box">107</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1907-1910.</unitdate></unittitle>
- </did>
- </c02>
- </c01>
- <c01 level="series" id="c01-1.8.6.7" score="1" C-ORDER="26">
- <did>
- <unittitle>Inventory</unittitle>
- </did>
- <c02 level="file" id="c02-1.8.6.7.2" score="1" C-ORDER="27">
- <did>
- <container label="Box" type="Box">108</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1903-1904.</unitdate></unittitle>
- </did>
- </c02>
- <c02 level="file" id="c02-1.8.6.7.3" score="1" C-ORDER="28">
- <did>
- <container label="Box" type="Box">108</container>
- <unittitle><unitdate calendar="gregorian" era="ce">1905-1907.</unitdate></unittitle>
- </did>
- </c02>
- </c01>
- </dsc>
- </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="verified-partial-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/tf6779p17r/">mcfie688.xml</eadid><filedesc><titlestmt><titleproper type="filing">McFie (W.T.) Well Supply Company records</titleproper><titleproper>Finding Aid for the W.T. McFie Well Supply Company Records <num>LSC.0688</num></titleproper><author>Finding aid prepared by Simon Elliott, April 1990; machine-readable finding aid created by Lilace Hatayama and Caroline Cubé.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2026 September.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-15 11:42:58 -0700</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>W.T. McFie Well Supply Company Records</unittitle>
+    <unitid>LSC.0688</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">44.0 linear feet</extent>
+      <extent altrender="carrier">(88 boxes and 20 oversize boxes.)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1895/1911" type="inclusive">1895-1911</unitdate>
+    <abstract id="aspace_f40430614096e3a8dc7fd902b031ec43" label="Abstract">W.T. McFie Well Supply Company provided drilling tools used by most of the early petroleum industry operators in the Los Angeles basin. The collection includes ledgers, inventories, and account books.</abstract>
+    <physloc id="aspace_e739205ef5ffdb95ce8f1e13de6b2315" label="Physical location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_42bf94f50dc5feebdce34174089cf4de">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_58538fc6518756bda53f8804dba48f97">
+    <head>Restrictions on Access</head>
+<p>Boxes 1-88 unprocessed. Material is unavailable for access. Please see <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/access-unprocessed-collections-policy">LSC's Access to Unprocessed Collections Policy</extref> for more information about levels of discovery and access of special collections materials and registering interest in unprocessed collections.</p>  </accessrestrict>
+  <userestrict id="aspace_6a5342d90530005b60d8e86eb03d1f5c">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <odd id="aspace_983f05e0f632cf52b3e8dfc2fec9468e">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9942339383606533">9942339383606533</extref></p>  </odd>
+  <prefercite id="aspace_0c1d7ba6ddd5ba85adaa3f8008d14719">
+    <head>Preferred Citation</head>
+<p>[Identification of item], W.T. McFie Well Supply Company Records (Collection 688). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_d52a8966d2a25cdabd86ea1d72eb82aa">
+    <head>Processing Information</head>
+<p>Processed by Simon Elliott, April 1990.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's Library Collections and Archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_39ce28f4db69efa0562b9cdf7dc830fa">
+    <head>Biography</head>
+<p>William Thomas McFie was a pioneer Los Angeles hardware merchant, whose business, W.T. McFie Well Supply Company, provided drilling tools used by most of the early petroleum industry operators in the Los Angeles basin.</p>  </bioghist>
+  <scopecontent id="aspace_8f4e4ad87b5cb8d3df25efa2e293b973">
+    <head>Scope and Content</head>
+<p>Boxes 89-108 include business papers of William Thomas McFie and the W.T. McFie Well Supply Company includes ledgers, inventories, and account books.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Business records.</genreform>
+    <subject source="lcsh">Hardware stores -- California -- Los Angeles -- Archives.</subject>
+    <persname rules="rda" source="local">McFie, William Thomas</persname>
+    <corpname source="ingest">W.T. McFie Well Supply Company--Archives.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref10_342" level="series"><did><unittitle>Unprocessed.</unittitle><container id="aspace_46a568de170e92570e3a7b18a8c48239" label="Mixed Materials" type="box">1</container><container id="aspace_082ee8e47ecbee05721d5f975b9c98a6" label="Mixed Materials" type="box">2</container><container id="aspace_e2f8c905c5669ca9d24f9eea6de997f0" label="Mixed Materials" type="box">3</container><container id="aspace_928b5ad8719db38cda14945e758cca5a" label="Mixed Materials" type="box">4</container><container id="aspace_190c5d7bf0cfda9d29b0db929a2cc245" label="Mixed Materials" type="box">5</container><container id="aspace_a42e41e7ee8d75848c5b6b4dd18f4e41" label="Mixed Materials" type="box">6</container><container id="aspace_5f95ff15c77cedc50c78ac51021b6848" label="Mixed Materials" type="box">7</container><container id="aspace_c1b3ae998d9c1ceb4850df048658fcc9" label="Mixed Materials" type="box">8</container><container id="aspace_1176c83acf0cc0570a3bfc3ab78cc75b" label="Mixed Materials" type="box">9</container><container id="aspace_23385c58b3ed86e69e218b9f9771b769" label="Mixed Materials" type="box">10</container><container id="aspace_f248dab23d159b6f35d32ddcb5a6ec31" label="Mixed Materials" type="box">11</container><container id="aspace_9ce85c0b8d3fbc8d241b2e74063296f4" label="Mixed Materials" type="box">12</container><container id="aspace_d70ce10dfe03666ffeb481da9b4a762a" label="Mixed Materials" type="box">13</container><container id="aspace_07cb0cb2da087815f35df18617cb2c57" label="Mixed Materials" type="box">14</container><container id="aspace_e37d92c86641152b199c63ffb6381b1f" label="Mixed Materials" type="box">15</container><container id="aspace_3c0441c26cc67db231441589b7654967" label="Mixed Materials" type="box">16</container><container id="aspace_7bc70845475821516a9d7f715bd4fbbb" label="Mixed Materials" type="box">17</container><container id="aspace_437c7afec8f8f5af5296e9c161389f09" label="Mixed Materials" type="box">18</container><container id="aspace_7d2344915bf873959de4fa02cb92390b" label="Mixed Materials" type="box">19</container><container id="aspace_9ef5bbefe561e5527159cf7a9fdda36b" label="Mixed Materials" type="box">20</container><container id="aspace_6253ba0c48eebace6c439a6a2f4056e7" label="Mixed Materials" type="box">21</container><container id="aspace_c5ec337572697b31711b60a9553d7a29" label="Mixed Materials" type="box">22</container><container id="aspace_17377d8dd674b6f3fc7e0495762d0590" label="Mixed Materials" type="box">23</container><container id="aspace_8ade1caebe62029ed25be8f3d823c1fe" label="Mixed Materials" type="box">24</container><container id="aspace_00d5460cfe3a3f6716224a887de4d85e" label="Mixed Materials" type="box">25</container><container id="aspace_4b275509d3aa33a83c3923ba70e71ebc" label="Mixed Materials" type="box">26</container><container id="aspace_f70e98e54627c09bb02f92a051d6c586" label="Mixed Materials" type="box">27</container><container id="aspace_2eac61eef554cd24ed0ad4cbe158e434" label="Mixed Materials" type="box">28</container><container id="aspace_9b9d0dec1368f73fbd6a535a2f28cce5" label="Mixed Materials" type="box">29</container><container id="aspace_7bdf8c2d7e13868206b31f6378079d96" label="Mixed Materials" type="box">30</container><container id="aspace_0cf43237952421e9357ae754dbc95df9" label="Mixed Materials" type="box">31</container><container id="aspace_90043fba6bcc0a25b559890ec0252703" label="Mixed Materials" type="box">32</container><container id="aspace_ae3e2a411084ec9ea4c9a8aca3a63bbf" label="Mixed Materials" type="box">33</container><container id="aspace_33b04e1396a7d606ec85219e021d9d60" label="Mixed Materials" type="box">34</container><container id="aspace_8b37f6228bf9e493cf6c2d87812a9fd8" label="Mixed Materials" type="box">35</container><container id="aspace_28c660ab09bae7615e3fd219ab4642cf" label="Mixed Materials" type="box">36</container><container id="aspace_86826118acd7056096a13b467b18df76" label="Mixed Materials" type="box">37</container><container id="aspace_7716afc039d6aa6465797e8821302cd9" label="Mixed Materials" type="box">38</container><container id="aspace_e680f39c3232c37902bb44757122deb5" label="Mixed Materials" type="box">39</container><container id="aspace_da37567190e021de913e7b7ec09296ff" label="Mixed Materials" type="box">40</container><container id="aspace_853a3856871fd032b8ae481be9424cdd" label="Mixed Materials" type="box">41</container><container id="aspace_23f92776b93eb6dfd0fdd85388f26eb1" label="Mixed Materials" type="box">42</container><container id="aspace_855694fb0171a0f947d9f3a18a09a1c3" label="Mixed Materials" type="box">43</container><container id="aspace_00d9cfa9f90b9c531eb49c2e5dad8a04" label="Mixed Materials" type="box">44</container><container id="aspace_e0410cb3097fef3e69eb0913f6e57951" label="Mixed Materials" type="box">45</container><container id="aspace_5b09f49a88f9a4786cd590ae7e94d43d" label="Mixed Materials" type="box">46</container><container id="aspace_4a2795e401acd0cbdff7fa2d3f877bd2" label="Mixed Materials" type="box">47</container><container id="aspace_f7d6a4e7f4c775da4b45af55ce084ba7" label="Mixed Materials" type="box">48</container><container id="aspace_1d1d4df9d73d2d8bf679be9dafe94624" label="Mixed Materials" type="box">49</container><container id="aspace_68fa8d6cc9138ca0e975acb969d5667e" label="Mixed Materials" type="box">50</container><container id="aspace_ca415e81644f9cfb470db23f17187b1d" label="Mixed Materials" type="box">51</container><container id="aspace_1f74c996b0a030ce6fbeb9de5d8b62bb" label="Mixed Materials" type="box">52</container><container id="aspace_c76ed541b056180300e973e8f7c80520" label="Mixed Materials" type="box">53</container><container id="aspace_233c07cb1b374e9f0981f64e42b22d70" label="Mixed Materials" type="box">54</container><container id="aspace_42bc59524e1ca098184020d11153b841" label="Mixed Materials" type="box">55</container><container id="aspace_2f1d5dd29eabc555207cfdbcd74fa5a4" label="Mixed Materials" type="box">56</container><container id="aspace_474a0681c527ad2346703d115db1f0c7" label="Mixed Materials" type="box">57</container><container id="aspace_57251bce4060389cb19c9d2e4d1916f0" label="Mixed Materials" type="box">58</container><container id="aspace_2f29cf553478f68efbf2e13b1e266b45" label="Mixed Materials" type="box">59</container><container id="aspace_5250361991f00c4eac6ee68a0286c79f" label="Mixed Materials" type="box">60</container><container id="aspace_8c455f237395adfea23914a708472d2f" label="Mixed Materials" type="box">61</container><container id="aspace_c5376e78e28d1e40fed120efe495fd67" label="Mixed Materials" type="box">62</container><container id="aspace_32a7cfc2d6ffe1aaac769d2a9bb3fd27" label="Mixed Materials" type="box">63</container><container id="aspace_bef6667ee3a75075fdbba177bdae2332" label="Mixed Materials" type="box">64</container><container id="aspace_4c86c62369fd25aacd1e2d7e97a28ae8" label="Mixed Materials" type="box">65</container><container id="aspace_0c100f160137f3f14c1af35607fb4a02" label="Mixed Materials" type="box">66</container><container id="aspace_1dce848b94b0b11361c48ee648787b5c" label="Mixed Materials" type="box">67</container><container id="aspace_142862cc960d07e5531018d32d7d02a7" label="Mixed Materials" type="box">68</container><container id="aspace_f5ac243b2170756998241d95f253c9fc" label="Mixed Materials" type="box">69</container><container id="aspace_84f3c4ecdbbf29e9a92978ca12806873" label="Mixed Materials" type="box">70</container><container id="aspace_72faf065578e7c762aa7a26b54206a69" label="Mixed Materials" type="box">71</container><container id="aspace_320243e1f8bae6a47c4a5f5a6a6538dd" label="Mixed Materials" type="box">72</container><container id="aspace_6025f6e087c284a8869d0a8026403a8c" label="Mixed Materials" type="box">73</container><container id="aspace_631c68f83cef103cc35101149e6b4391" label="Mixed Materials" type="box">74</container><container id="aspace_6df9271e0b94a34475d022a179fa54d3" label="Mixed Materials" type="box">75</container><container id="aspace_99cb0de4dc44e5a87c4c5e53d35e0fd8" label="Mixed Materials" type="box">76</container><container id="aspace_9ebb0274f51712eddddab60bec2b35b8" label="Mixed Materials" type="box">77</container><container id="aspace_c48040c1d2d9f689eb1dbb819f6b4c50" label="Mixed Materials" type="box">78</container><container id="aspace_9feb4891a9786ab8244b00290e221c03" label="Mixed Materials" type="box">79</container><container id="aspace_26243396ebe7be69114dacf9daffec23" label="Mixed Materials" type="box">80</container><container id="aspace_f511443993feda647f8a03b462f749aa" label="Mixed Materials" type="box">81</container><container id="aspace_56e41ce1b93829cfbf6f41fb98c0da59" label="Mixed Materials" type="box">82</container><container id="aspace_49a653fc91deb94afe7098796fd31de7" label="Mixed Materials" type="box">83</container><container id="aspace_05168df22a712a701aa7282a58143201" label="Mixed Materials" type="box">84</container><container id="aspace_8ed8355d0a4243c228ab989e2ae88641" label="Mixed Materials" type="box">85</container><container id="aspace_d7fc9674e461757a1583cb2aaee7ecdc" label="Mixed Materials" type="box">86</container><container id="aspace_ba24c6614812762aa0caccf74cdd9deb" label="Mixed Materials" type="box">87</container><container id="aspace_896f54dc8d2994c258f7a122aa8b739b" label="Mixed Materials" type="box">88</container></did></c01><c01 id="aspace_ref11_9gq" level="series"><did><unittitle>Sales</unittitle></did><c02 id="aspace_ref12_via" level="file"><did><unitdate datechar="creation">1895-1898.</unitdate><container id="aspace_a84ce444bb2f77d3de7c54da7d20624e" label="Mixed Materials" type="box">89</container></did></c02><c02 id="aspace_ref13_c0a" level="file"><did><unitdate datechar="creation">1899-1900.</unitdate><container id="aspace_ffd3115d561e700d577fa328aaf57d7c" label="Mixed Materials" type="box">90</container></did></c02><c02 id="aspace_ref14_4v4" level="file"><did><unitdate datechar="creation">1900-1903.</unitdate><container id="aspace_c6e057bda9a633540f873c20f1c3a9af" label="Mixed Materials" type="box">91</container></did></c02><c02 id="aspace_ref15_074" level="file"><did><unitdate datechar="creation">1903-1904.</unitdate><container id="aspace_4067f3b2dd2002227f5836064d3d94f9" label="Mixed Materials" type="box">92</container></did></c02><c02 id="aspace_ref16_o1n" level="file"><did><unitdate datechar="creation">1905-1906.</unitdate><container id="aspace_d932da0133c79210447df71cd3d9df81" label="Mixed Materials" type="box">93</container></did></c02><c02 id="aspace_ref17_upc" level="file"><did><unitdate datechar="creation">1906-1908.</unitdate><container id="aspace_e96e5a750a2b5ca9b34a236bdef45f43" label="Mixed Materials" type="box">94</container></did></c02><c02 id="aspace_ref18_qfl" level="file"><did><unittitle>Sales,</unittitle><unitdate datechar="creation">1908-1910.</unitdate><container id="aspace_8efeaa78098ab60b13684615d8a03ab8" label="Mixed Materials" type="box">95</container></did></c02></c01><c01 id="aspace_ref19_t9x" level="series"><did><unittitle>Journals</unittitle></did><c02 id="aspace_ref20_lsx" level="file"><did><unitdate datechar="creation">October 1895-May 1902.</unitdate><container id="aspace_16e01b958c47199df39c7a3fc6bc67c1" label="Mixed Materials" type="box">96</container></did></c02><c02 id="aspace_ref21_1ux" level="file"><did><unitdate datechar="creation">June 1902-September 1906.</unitdate><container id="aspace_e96f85e45647ffe484a429c498fa8826" label="Mixed Materials" type="box">97</container></did></c02><c02 id="aspace_ref22_q4g" level="file"><did><unitdate datechar="creation">September 1906-August 1909.</unitdate><container id="aspace_3cf0676e23bc3e6e7abcb8a581bf29ef" label="Mixed Materials" type="box">98</container></did></c02><c02 id="aspace_ref23_64v" level="file"><did><unitdate datechar="creation">September 1909-October 1911.</unitdate><container id="aspace_435ad45e9fe3261f17eee14a933308b3" label="Mixed Materials" type="box">99</container></did></c02><c02 id="aspace_ref24_wdb" level="file"><did><unitdate datechar="creation">September 1909-October 1911.</unitdate><container id="aspace_9536b841c61885d40aa25038d30a068a" label="Mixed Materials" type="box">99</container></did></c02><c02 id="aspace_ref25_d3y" level="file"><did><unitdate datechar="creation">February 1901-November 1911.</unitdate><container id="aspace_24edf963503c9b14900a1a629cb17535" label="Mixed Materials" type="box">100</container></did></c02></c01><c01 id="aspace_ref26_pf2" level="series"><did><unittitle>Cash</unittitle></did><c02 id="aspace_ref27_5wv" level="file"><did><unitdate datechar="creation">1905-1903.</unitdate><container id="aspace_e8d74c4026982a6e6febeecb348d79c7" label="Mixed Materials" type="box">101</container></did></c02><c02 id="aspace_ref28_9rh" level="file"><did><unitdate datechar="creation">1903-1906.</unitdate><container id="aspace_88014135310fcdb38bc54647e4713591" label="Mixed Materials" type="box">102</container><container id="aspace_8c3e2838ac30a46186803a050c933afd" label="Mixed Materials" type="box">103</container></did></c02><c02 id="aspace_ref29_i47" level="file"><did><unitdate datechar="creation">1908-1910.</unitdate><container id="aspace_45fe3487cbb87f58e0466af3cf2f30de" label="Mixed Materials" type="box">104</container></did></c02></c01><c01 id="aspace_ref30_7hw" level="series"><did><unittitle>Ledgers</unittitle></did><c02 id="aspace_ref31_dt3" level="file"><did><unitdate datechar="creation">1896-1900.</unitdate><container id="aspace_b033669fb469666b88bc1ae7d7c2a7fb" label="Mixed Materials" type="box">105</container></did></c02><c02 id="aspace_ref32_ltb" level="file"><did><unitdate datechar="creation">1900-1907.</unitdate><container id="aspace_96a18f2f42625a78268d15fdb3468069" label="Mixed Materials" type="box">106</container></did></c02><c02 id="aspace_ref33_es5" level="file"><did><unitdate datechar="creation">1907-1910.</unitdate><container id="aspace_440b45e453d24dac3205166737adfb86" label="Mixed Materials" type="box">107</container></did></c02></c01><c01 id="aspace_ref34_2bt" level="series"><did><unittitle>Inventory</unittitle></did><c02 id="aspace_ref35_eq4" level="file"><did><unitdate datechar="creation">1903-1904.</unitdate><container id="aspace_48a494881f78780d9e23e3e016061c0e" label="Mixed Materials" type="box">108</container></did></c02><c02 id="aspace_ref36_jps" level="file"><did><unitdate datechar="creation">1905-1907.</unitdate><container id="aspace_e2981ce94fbc465a319a0a9d7cabf113" label="Mixed Materials" type="box">108</container></did></c02></c01></dsc>
+</archdesc>
 </ead>
