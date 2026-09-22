@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt7c60143j" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::2046::Robert Ernest Cowan Library and Bibliographical Lists)//EN&quot; &quot;cowa2046.xml&quot;&#10;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">cowa2046.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Robert Ernest Cowan Library and Bibliographical Lists, ca. 1935</titleproper><titleproper type="filing">Cowan (Robert E.) Library and Bibliographical Lists</titleproper>
+ <author>Processed by Dan Luckenbill; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">© 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text rekeyed by Caroline Cubé from in-house paper finding aid, <date calendar="gregorian" era="ce">October 2003</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date calendar="gregorian" era="ce">July 1978</date>.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::2046::Robert Ernest Cowan Library and Bibliographical Lists)//EN" "cowa2046.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Robert Ernest Cowan Library and Bibliographical Lists, ca. 1935</titleproper>
+ <num>Collection number: 2046</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Dan Luckenbill, July 1978</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, November 2003</item>
+ </defitem>
+ </list>
+ <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Robert Ernest Cowan Library and Bibliographical Lists, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">ca. 1935</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">2046</unitid>
+ <origination label="Creator">
+ <persname role="subject" source="lcnaf">Cowan, Robert Ernest, 1862-1942</persname>
+ </origination>
+ <physdesc label="Extent"><extent>8 boxes (4 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. 
+<subarea>Dept. of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Robert Ernest Cowan (1862-1942) was a San Francisco bookseller (1895-1920) and author of bibliographies of history of California and the Pacific Coast. He was also the librarian for William Andrews Clark, Jr. (1919-33). Cowan's collection of books and manuscripts form the nucleus of the UCLA Department of Special Collections' holdings in Californiana. The collection consists of library and bibliographical lists of the Robert E. Cowan Library made by Mr. Cowan and members of the UCLA Library staff.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</p>
+ </accessrestrict>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Robert Ernest Cowan Library and Bibliographical Lists (Collection 2046). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232913">4232913</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Robert Ernest Cowan was born in 1862 in Toronto, Canada; came to San Francisco in 1870; student at UC Berkeley 1882-84; San Francisco bookseller from 1895-1920 and author of bibliographies of history of California and the Pacific Coast; librarian for William Andrews Clark, Jr., 1919-33; moved to Los Angeles at Clark's request in 1926; Cowan's collection of books and manuscripts form the nucleus of the UCLA Department of Special Collections' holdings in Californiana; married Marie Margaret Fleissner in 1894; only child was Robert Granniss Cowan; died in 1942.</p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of library and bibliographical lists of the Robert E. Cowan Library made by Mr. Cowan and members of the UCLA Library staff. Includes a manuscript catalog made in Cowan's hand in 1935, a list of 3534 items in the Cowan Library with a bibliography, manuscript catalogs with Cowan's valuations, UCLA catalog cards with full entries on 3 × 5” slips, and a manuscript volume of a list of Cowan's books, chiefly Californiana. Cowan's Library formed the nucleus of UCLA's Californiana holdings.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+ <persname role="subject" source="lcnaf" encodinganalog="600">Cowan, Robert Ernest, 1862-1942--Archives.</persname>
+ <occupation source="lcsh" encodinganalog="650">Bibliographers--California--Archival resources.</occupation>
+ <geogname source="lcnaf" encodinganalog="651">California--Bibliography--Archival resources.</geogname>
+ </controlaccess>
+ </controlaccess>
+ <relatedmaterial id="relatedmaterial-1.8.7">
+ <head>Related Material</head>
+ <p>
+ <list type="marked">
+ <item><title linktype="simple">California bibliographers: father and son</title> [oral history transcript] / Robert G. Cowan, interviewee. UCLA Oral History Department interview, 1979. Available at the Department of Special Collections, UCLA.</item>
+ <item>
+ <extref href="http://www.oac.cdlib.org/findaid/ark:/13030/tf9n39p2q1" actuate="onrequest" show="new">Robert Ernest Cowan Papers (Collection 232)
+ </extref>. Available at the Department of Special Collections, UCLA.</item>
+ <item>Robert Ernest Cowan, Californiana (Collection 2048). Available at the Department of Special Collections, UCLA.</item>
+ </list>
+ </p>
+ </relatedmaterial>
+ <dsc type="in-depth" id="dsc-1.8.6" score="1" C-ORDER="1" MAX-C-ORDER="12">
+ <head>Container List</head>
+ <c01 level="file" id="c01-1.8.6.2" score="2" C-ORDER="2">
+ <did>
+ <container type="Box" label="Box">1</container>
+ <unittitle>Catalog of the Robert E. Cowan Library. <unitdate calendar="gregorian" era="ce">October 1935.</unitdate></unittitle>
+ <physdesc> ca. 750 leaves. Manuscript catalog in Cowan's hand; written in pencil on 8.5 × 11” sheets. </physdesc>
+ </did>
+ <scopecontent>
+ <p>Includes bibliographical commentary and prices. The catalog was compiled as a means of appraising the Library prior to its sale to the UCLA Library.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.3" score="2" C-ORDER="4">
+ <did>
+ <container type="Box" label="Boxes">2-4</container>
+ <unittitle>Titles of 3,534 items in the Cowan Library and Bibliography.</unittitle>
+ <physdesc> Typescript and holograph on 8.5 × 11” sheets.</physdesc>
+ </did>
+ <arrangement>
+ <p>Arranged alphabetically, as follows: 
+<list type="simple"><item>A-E (Box 2)</item><item>F-N (Box 3)</item><item>0-Z (Box 4)</item></list></p>
+ </arrangement>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.4" score="2" C-ORDER="6">
+ <did>
+ <container type="Box" label="Boxes">5-7</container>
+ <unittitle>Unprocessed bibliography.</unittitle>
+ <physdesc> Primarily typescript on 8.5 × 11” sheets. Prices annotated in pencil.</physdesc>
+ </did>
+ <arrangement>
+ <p>Arranged alphabetically, as follows: 
+<list type="simple"><item>A-H (Box 5)</item><item>I-Z (Box 6)</item></list></p>
+ </arrangement>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.5" score="2" C-ORDER="8">
+ <did>
+ <container type="Box" label="Boxes">5-7</container>
+ <unittitle>Additional lists.</unittitle>
+ <physdesc> Typed on halved 8.5 × 11” sheets.</physdesc>
+ </did>
+ <arrangement>
+ <p>Arranged alphabetically, with headings for each group. 
+<list type="simple"><item>Box 5: Miscellaneous - not listed in previous catalogues; and Duplicates. </item><item>Box 7: First manuscript catalog, items valued by Mr. Cowan at $5.00 or less, each, priced independently by K.R.M., UC Library</item><item>First and second manuscript catalogs, items valued by Mr. Cowan at more than $25.00 each</item><item>Second manuscript catalog, material valued by Mr. Cowan at $5.00 per item, or less</item><item>First manuscript catalog, items valued by Yr. Cowan at $5.00 or less, each.</item></list></p>
+ </arrangement>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.6" score="2" C-ORDER="10">
+ <did>
+ <container type="Box" label="Box">8</container>
+ <unittitle>Cowan Library - UCLA cards.</unittitle>
+ </did>
+ <arrangement>
+ <p>Full entries, with call numbers, on 3 × 5” slips, with the following headings: 
+<list type="simple"><item>Entered in Cowan bibliography (approximately 900 slips)</item><item>To be entered (approximately 2200 slips)</item><item>Cannot be located in Cowan bibliography (approximately 350 slips)</item><item>Not in bound bibliography, to be checked in Cowan suppl.[?] (approximately 150 slips).</item></list></p>
+ </arrangement>
+ </c01>
+ <c01 level="file" id="c01-1.8.6.7" score="1" C-ORDER="12">
+ <did>
+ <container type="Box" label="Flat box">9</container>
+ <origination>Cowan, Robert Ernest, 1862-1942</origination>
+ <unittitle>List of books. Chiefly Californiana, giving author, title, place, and date of publication.</unittitle>
+ <physdesc> 1 vol. Manuscript.</physdesc>
+ </did>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
