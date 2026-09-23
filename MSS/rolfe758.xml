@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt3s20121x" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU::758::Henry Winchester Rolfe Papers)//EN&quot; &quot;rolfe758.xml&quot;&#10;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">rolfe758.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Henry Winchester Rolfe Papers, 1900-1940</titleproper><titleproper type="filing">Rolfe (Henry W.) Papers</titleproper>
+ <author>Processed by Anne Caiger; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">© 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text rekeyed by Caroline Cubé from in-house card files, <date calendar="gregorian" era="ce">October 2003</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date calendar="gregorian" era="ce">1980</date>.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU::758::Henry Winchester Rolfe Papers)//EN" "rolfe758.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Henry Winchester Rolfe Papers, 1900-1940</titleproper>
+ <num>Collection number: 758</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Anne Caiger, September 1980</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, October 2003</item>
+ </defitem>
+ </list>
+ <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Henry Winchester Rolfe Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1900-1940</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">758</unitid>
+ <origination label="Creator">
+ <persname role="subject" source="lcnaf">Rolfe, Henry Winchester, b. 1858</persname>
+ </origination>
+ <physdesc label="Extent">
+ <extent>15 boxes (7.5 linear ft.)</extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. 
+<subarea>Dept. of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Henry Winchester Rolfe (b.1858) was a English instructor at Cornell University (1883-85), professor of Latin at Swarthmore College (1885-90), lecturer in Latin literature at the University of Pennsylvania (1891-92), and associate professor of Greek at Stanford University (1900-10). The collection consists of correspondence, notes, clippings, manuscripts of articles, printed lecture course material, family photographs, ephemera, and periodicals.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>PARTIALLY PROCESSED COLLECTION UNAVAILABLE FOR USE: Inquiries regarding these materials should be directed, in writing, to the Manuscripts Librarian, UCLA Department of Special Collections.</p>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of Mrs. Harry Jackson, May 1961.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Henry Winchester Rolfe Papers (Collection 758). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233685">4233685</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Rolfe was born on May 8, 1858 in Dorchester, Massachusetts; AB (1880) and AM (1885), Amherst College; attended University of Leipzig, 1881-83; instructor in English, Cornell University, 1883-85; professor of Latin, Swarthmore College, 1885-90; lecturer in Latin literature, University of Pennsylvania, 1891-92; associate professor of Greek, Stanford University, 1900-10; publications include <title linktype="simple">Petrarch, the first modern scholar and man of letters</title> (with James H. Robinson, 1898); he died in 1945.</p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of correspondence, notes, clippings, manuscripts of articles, printed lecture course material, family photographs, ephemera, and periodicals.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname role="subject" source="lcnaf" encodinganalog="600">Rolfe, Henry Winchester, b. 1858--Archives.</persname>
+ <occupation source="lcsh" encodinganalog="650">Literature teachers--United States--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Classicists--United States--Archival resources.</occupation>
+ </controlaccess>
+ <dsc type="analyticover" id="dsc-1.8.6" score="2" C-ORDER="1" MAX-C-ORDER="5">
+ <head>Container List</head>
+ <note>
+ <p>
+ <emph render="italic">Description derived from in-house card files.</emph>
+ </p>
+ </note>
+ <c01 level="collection" id="c01-1.8.6.3" score="2" C-ORDER="3">
+ <did>
+ <origination>Rolfe, Henry Winchester, 1858-1945 
+</origination>
+ <unittitle>Papers, <unitdate calendar="gregorian" era="ce">ca. 1900-1940</unitdate></unittitle>
+ <physdesc> (1 box, ca. 100 pieces)</physdesc>
+ </did>
+ <scopecontent>
+ <p>Correspondence, notes, common place book, manuscripts of articles and family photographs of Henry W. Rolfe, university professor at Cornell, Swarthmore, University of Chicago and Stanford.</p>
+ </scopecontent>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.4" score="2" C-ORDER="5">
+ <did>
+ <unittitle>[Unprocessed Materials], <unitdate calendar="gregorian" era="ce">ca. 1900-1940</unitdate></unittitle>
+ <physdesc> [14 boxes]</physdesc>
+ </did>
+ <scopecontent>
+ <p>Correspondence, clippings, notes and manuscripts, early 20th C. (boxes 2-8), and notes on cards (boxes 9-14) and oversized Box 15.</p>
+ </scopecontent>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
