@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+  
+  
+  
+  
+  
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt5v19p695" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU::1349::Janelle Viglini Papers)//EN&quot; &quot;vigl1349.xml&quot;&#10;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">vigl1349.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Finding Aid for the Janelle Viglini Papers, ca. 1925-ca. 1987</titleproper><titleproper type="filing">Viglini (Janelle) Papers</titleproper>
+        <author>Processed by Lilace Hatayama; machine-readable finding aid created by Caroline Cubé</author>
+      </titlestmt>
+      <publicationstmt>
+        <date calendar="gregorian" era="ce">© 2003</date>
+        <p>The Regents of the University of California. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Text rekeyed by Caroline Cubé from in-house card file, <date calendar="gregorian" era="ce">September 2003</date>. Frontmatter gathered from MARC record. Encoding and revision supplied by Caroline Cubé.</creation>
+      <langusage>Description is in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU::1349::Janelle Viglini Papers)//EN" "vigl1349.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Finding Aid for the Janelle Viglini Papers, ca. 1925-ca. 1987</titleproper>
+      <num>Collection number: 1349</num>
+      <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by:</label>
+          <item>Lilace Hatayama, April 1985</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>Caroline Cubé</item>
+        </defitem>
+        <defitem>
+          <label>Online finding aid edited by:</label>
+          <item>Josh Fiala, October 2003</item>
+        </defitem>
+      </list>
+      <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" id="archdesc-1.3">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Janelle Viglini Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">ca. 1925-ca. 1987</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1349</unitid>
+      <origination label="Creator">
+        <persname role="subject" source="aacr2">Viglini, Janelle</persname>
+      </origination>
+      <physdesc label="Extent"><extent>29 boxes (14.5 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+      <repository label="Repository">
+        <corpname>University of California, Los Angeles. Library. 
+<subarea>Dept. of Special Collections.</subarea></corpname>
+        <address>
+          <addressline>Los Angeles, California 90095-1575</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Janelle Therese Viglini (1933- ) taught English in California and poetry at the Institute of Advanced Thinking (1974-75). her publications include <title linktype="simple">Saxton's garter</title> (1974), <title linktype="simple">The Viglini letters</title> (1975), and <title linktype="simple">The magic Fillmore Fagan</title>. The collection consists of Viglini's correspondence, literary manuscripts, photographs, and ephemera.</abstract>
+      <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp type="admininfo" id="descgrp-1.8.2">
+      <head>Administrative Information</head>
+      <userestrict>
+        <head>Restrictions on Use and Reproduction</head>
+        <p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+      </userestrict>
+      <accessrestrict>
+        <head>Restrictions on Access</head>
+        <p>PARTIALLY PROCESSED COLLECTION UNAVAILABLE FOR USE: Inquiries regarding these materials should be directed, in writing, to the Manuscripts Librarian, UCLA Department of Special Collections.</p>
+        <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+      </accessrestrict>
+      <acqinfo>
+        <head>Provenance/Source of Acquisition</head>
+        <p>Gift of Janelle Viglini.</p>
+      </acqinfo>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Janelle Viglini Papers (Collection 1349). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+      </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233929">4233929</extref></p>
+</odd>
+    </descgrp>
+    <bioghist id="bioghist-1.8.3">
+      <head>Biography</head>
+      <p>Janelle Therese Viglini was born August 18, 1933; University of San Francisco, BA (1969); Institute of Advanced Thinking, LLS (1973); taught English in California and poetry at the Institute of Advanced Thinking (1974-75); her publications include: <title linktype="simple">Saxton's garter</title> (1974), <title linktype="simple">The Viglini letters</title> (1975), and <title linktype="simple">The magic Fillmore Fagan</title>.</p>
+    </bioghist>
+    <scopecontent id="scopecontent-1.8.4">
+      <head>Scope and Content</head>
+      <p>Collection consists of correspondence, literary manuscripts, photographs, and ephemera related to Janelle Viglini. Includes letters from various writers such as Bern Porter, Mary Fabilli, and Richard Eberhart.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.5">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+      <persname role="subject" source="aacr2" encodinganalog="600">Viglini, Janelle--Archives.</persname>
+      <occupation source="lcsh" encodinganalog="650">Women authors--Archival resources.</occupation>
+      <occupation source="lcsh" encodinganalog="650">Women poets--Archival resources.</occupation>
+      <genreform source="aat" encodinganalog="655">Letters.</genreform>
+      <genreform source="aat" encodinganalog="655">Correspondence.</genreform>
+    </controlaccess>
+    <dsc type="in-depth" id="dsc-1.8.6" score="2" C-ORDER="1" MAX-C-ORDER="3">
+      <head>Container List</head>
+      <note>
+        <p>
+          <emph render="italic">Description derived from in-house card file.</emph>
+        </p>
+      </note>
+      <c01 level="collection" id="c01-1.8.6.3" score="1" C-ORDER="3">
+        <did>
+          <origination>Viglini, Janelle 
+</origination>
+          <unittitle>Correspondence, Literary Manuscripts, Ephemera. v.p., <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+          <physdesc> (21 boxes and 1 oversize box, unprocessed)</physdesc>
+        </did>
+      </c01>
+    </dsc>
+    <relatedmaterial id="relatedmaterial-1.8.7">
+      <head>Related Material</head>
+      <p>Bern Porter Papers (Collection 639). Available at the Department of Special Collections, UCLA.</p>
+    </relatedmaterial>
+  </archdesc>
+</ead>
