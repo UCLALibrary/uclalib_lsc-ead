@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt4c6019c5" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::1528::Sidney Ring Papers)//EN&quot; &quot;ring1528.xml&quot;&#10;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">ring1528.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Sidney Ring Papers, 1933-1954</titleproper><titleproper type="filing">Ring (Sidney) Papers</titleproper>
+ <author>Processed by Lilace Hatayama; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">© 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text rekeyed by Caroline Cubé from in-house card file, <date calendar="gregorian" era="ce">November 2003</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date calendar="gregorian" era="ce">July 1987</date>.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::1528::Sidney Ring Papers)//EN" "ring1528.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Sidney Ring Papers, 1933-1954</titleproper>
+ <num>Collection number: 1528</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Lilace Hatayama, July 1987</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, November 2003</item>
+ </defitem>
+ </list>
+ <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Sidney Ring Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1933-1954</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1528</unitid>
+ <origination label="Creator">
+ <persname role="subject" source="aacr2">Ring, Sidney</persname>
+ </origination>
+ <physdesc label="Extent">
+ <extent>2 boxes (1 linear ft.)</extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. 
+<subarea>Dept. of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Transferred from Theatre Arts Library, 1986.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Sidney Ring Papers (Collection 1528). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233670">4233670</extref></p>
+</odd>
+ </descgrp>
+ <scopecontent id="scopecontent-1.8.3">
+ <head>Scope and Content</head>
+ <p>Collection consists of plays by or adapted by Sidney Ring, with material relating to his Music and plays, Hollywood, California.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.4">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname role="subject" source="aacr2" encodinganalog="600">Ring, Sidney--Archives.</persname>
+ <occupation source="lcsh" encodinganalog="650">Dramatists, American--California--Los Angeles--Archival resources.</occupation>
+ </controlaccess>
+ <dsc type="analyticover" id="dsc-1.8.5" score="2" C-ORDER="1" MAX-C-ORDER="3">
+ <head>Container List</head>
+ <note>
+ <p>
+ <emph render="italic">Description derived from in-house card file.</emph>
+ </p>
+ </note>
+ <c01 level="collection" id="c01-1.8.5.3" score="2" C-ORDER="3">
+ <did>
+ <origination>Ring, Sidney
+</origination>
+ <unittitle>Papers. <unitdate calendar="gregorian" era="ce">ca. 1933-1954</unitdate></unittitle>
+ <physdesc> (2 boxes, unprocessed)</physdesc>
+ </did>
+ <scopecontent>
+ <p>Plays by or adapted by Sidney Ring, with material relating to Ring's Music and Plays, Hollywood, California.</p>
+ </scopecontent>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
