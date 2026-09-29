@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt4m3nb8tk" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU::1234::Mary Heghen Papers)//EN&quot; &quot;hegh1234.xml&quot;&#10;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">hegh1234.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Mary Heghen Papers, 1930-1960</titleproper><titleproper type="filing">Heghen (Mary) Papers</titleproper>
+ <author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">© 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text rekeyed by Caroline Cubé from in-house card file, <date calendar="gregorian" era="ce">August 2003</date>. Frontmatter gathered from MARC record. Encoding and revision supplied by Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU::1234::Mary Heghen Papers)//EN" "hegh1234.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Mary Heghen Papers, 1930-1960</titleproper>
+ <num>Collection number: 1234</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Manuscripts Division staff</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, October 2003</item>
+ </defitem>
+ </list>
+ <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Mary Heghen Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1930-1960</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1234</unitid>
+ <origination label="Creator">
+ <persname role="subject" source="aacr2">Heghen, Mary</persname>
+ </origination>
+ <physdesc label="Extent"><extent>9 boxes (4.5 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. 
+<subarea>Dept. of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>PARTIALLY PROCESSED COLLECTION UNAVAILABLE FOR USE: Inquiries regarding these materials should be directed, in writing, to the Manuscripts Librarian, UCLA Department of Special Collections.</p>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Mary Heghen Papers (Collection 1234). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233128">4233128</extref></p>
+</odd>
+ </descgrp>
+ <scopecontent id="scopecontent-1.8.3">
+ <head>Scope and Content</head>
+ <p>Collection consists of photographs and manuscripts.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.4">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname role="subject" source="aacr2" encodinganalog="600">Heghen, Mary--Archives.</persname>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.5" score="2" C-ORDER="1" MAX-C-ORDER="3">
+ <head>Container List</head>
+ <note>
+ <p>
+ <emph render="italic">Description derived from in-house card file.</emph>
+ </p>
+ </note>
+ <c01 level="collection" id="c01-1.8.5.3" score="2" C-ORDER="3">
+ <did>
+ <origination>Heghen, Mary 
+</origination>
+ <unittitle>Papers. v.p., <unitdate calendar="gregorian" era="ce">ca. 1930s-1960s</unitdate></unittitle>
+ <physdesc> ( 9 boxes and 1 oversize box)</physdesc>
+ </did>
+ <scopecontent>
+ <p>Unprocessed and unsorted. Includes photographs and manuscripts.</p>
+ </scopecontent>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
