@@ -1,136 +1,52 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
- 
- 
- 
- 
- 
- <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt3j49q0dp" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::1475::James Payn Papers)//EN&quot; &quot;payn1475.xml&quot;&#10;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">payn1475.xml</eadid><filedesc>
- <titlestmt>
- <titleproper>Finding Aid for the James Payn Papers, 1868</titleproper><titleproper type="filing">Payn (James) Papers</titleproper>
- <author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cubé</author>
- </titlestmt>
- <publicationstmt>
- <date calendar="gregorian" era="ce">© 2003</date>
- <p>The Regents of the University of California. All rights reserved.</p>
- </publicationstmt>
- </filedesc><profiledesc>
- <creation>Text rekeyed by Caroline Cubé from in-house card file, <date calendar="gregorian" era="ce">November 2003</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date calendar="gregorian" era="ce">unknown</date>.</creation>
- <langusage>Description is in <language>English.</language></langusage>
- </profiledesc><revisiondesc>
- <change>
- <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
- <item>PUBLIC "-//University of California, Los
-Angeles::Library::Dept. of Special Collections//TEXT
-(US::CLU-SC::1475::James Payn Papers)//EN" "payn1475.xml"
- converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
- </change>
- </revisiondesc></eadheader>
- <frontmatter>
- <titlepage>
- <titleproper>Finding Aid for the James Payn Papers, 1868</titleproper>
- <num>Collection number: 1475</num>
- <publisher>UCLA Library, Department of Special Collections
-<lb/>Manuscripts Division
-<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
- <list type="deflist">
- <defitem>
- <label>Processed by:</label>
- <item>Manuscripts Division staff</item>
- </defitem>
- <defitem>
- <label>Encoded by:</label>
- <item>Caroline Cubé</item>
- </defitem>
- <defitem>
- <label>Online finding aid edited by:</label>
- <item>Josh Fiala, November 2003</item>
- </defitem>
- </list>
- <p>© 2003 The Regents of the University of California. All rights reserved.</p>
- </titlepage>
- </frontmatter>
- <archdesc level="collection" id="archdesc-1.3">
- <did id="did-1.8.1">
- <head>Descriptive Summary</head>
- <unittitle label="Title">James Payn Papers, </unittitle>
-<unitdate calendar="gregorian" era="ce" type="inclusive">1868</unitdate>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1475</unitid>
- <origination label="Creator">
- <corpname role="subject" source="lcnaf">Payn, James, 1830-1898</corpname>
- </origination>
- <physdesc label="Extent">
- <extent>1 box (0.5 linear ft.)</extent>
- </physdesc>
- <repository label="Repository">
- <corpname>University of California, Los Angeles. Library. 
-<subarea>Dept. of Special Collections.</subarea></corpname>
- <address>
- <addressline>Los Angeles, California 90095-1575</addressline>
- </address>
- </repository>
- <abstract label="Abstract">James Payn (1830-1898) was a English author and magazine editor. The collection consists of original holograph manuscripts of Payn's novels <title linktype="simple">Blondel parva</title>, <title linktype="simple">Carlyon's years</title>, and <title linktype="simple">Bentinck's Tudor</title>.</abstract>
- <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
- <langmaterial label="Language">
- <language langcode="eng">English.</language>
- </langmaterial>
- </did>
- <descgrp type="admininfo" id="descgrp-1.8.2">
- <head>Administrative Information</head>
- <userestrict>
- <head>Restrictions on Use and Reproduction</head>
- <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
- </userestrict>
- <accessrestrict>
- <head>Restrictions on Access</head>
- <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
- </accessrestrict>
- <acqinfo>
- <head>Provenance/Source of Acquisition</head>
- <p>Purchase, 1970.</p>
- </acqinfo>
- <prefercite>
- <head>Preferred Citation</head>
- <p>[Identification of item], James Payn Papers (Collection 1475). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
- </prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233562">4233562</extref></p>
-</odd>
- </descgrp>
- <bioghist id="bioghist-1.8.3">
- <head>Biography</head>
- <p>Payn was born on February 28, 1830 in Cheltenham, Glos, England; attended Eton, the Royal Military Academy, Woolwich, and Trinity College, Cambridge (1849-54); wrote novels, including <title linktype="simple">Lost Sir Massingberd</title> (1864), <title linktype="simple">A perfect treasure</title> (1869), and <title linktype="simple">By proxy</title> (1878); became editor of <title linktype="simple">Cornhill magazine</title> (1883-1896); he died on March 25, 1898 in London.</p>
- </bioghist>
- <scopecontent id="scopecontent-1.8.4">
- <head>Scope and Content</head>
- <p>Collection consists of original holograph manuscripts of Payn's novels <title linktype="simple">Blondel parva</title>, <title linktype="simple">Carlyon's years</title> (lacking chapters 15-20), and <title linktype="simple">Bentinck's Tudor</title> (labelled “One of the family”).</p>
- </scopecontent>
- <controlaccess id="controlaccess-1.8.5">
- <head>Indexing Terms</head>
- <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
- <persname role="subject" source="lcnaf" encodinganalog="600">Payn, James, 1830-1898--Archives.</persname>
- <occupation source="lcsh" encodinganalog="650">Authors, English--19th century--Archival resources.</occupation>
- <genreform source="aat" encodinganalog="655">Manuscripts for publication.</genreform>
- </controlaccess>
- <dsc type="analyticover" id="dsc-1.8.6" score="2" C-ORDER="1" MAX-C-ORDER="3">
- <head>Container List</head>
- <note>
- <p>
- <emph render="italic">Description derived from in-house card file.</emph>
- </p>
- </note>
- <c01 level="collection" id="c01-1.8.6.3" score="2" C-ORDER="3">
- <did>
- <origination>Payn, James, 1830-1898 
-</origination>
- <unittitle>Papers, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
- <physdesc> (1 box, unprocessed)</physdesc>
- </did>
- <scopecontent>
- <p>Holograph manuscripts for <title linktype="simple">Blondel Parva</title>, <title linktype="simple">Carlyon's Years</title> (lacking chapters 15-20), and <title linktype="simple">Bentinck's Tudor</title> (labeled “One of the family”) by James Payn.</p>
- </scopecontent>
- </c01>
- </dsc>
- </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://www.oac.cdlib.org/findaid/ark:/13030/kt3j49q0dp/">payn1475.xml</eadid><filedesc><titlestmt><titleproper type="filing">Payn (James) papers</titleproper><titleproper>Finding Aid for the James Payn papers <num>LSC.1475</num></titleproper><author>Finding aid prepared by Caroline Cubé, 2003. </author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Last updated 2026 September.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-09-30 10:45:07 -0700</date>.</creation><langusage>Description is in <language>English.</language></langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>James Payn papers</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="naf">Payne, James</persname>
+    </origination>
+    <unitid>LSC.1475</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 linear feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1868</unitdate>
+    <abstract id="aspace_5fe7ae6cda15a9f0e59a6d92d1e228de" label="Abstract">James Payn (1830-1898) was a English author and magazine editor. The collection consists of original holograph manuscripts of Payn's novels <title render="italic">Blondel parva</title>, <title render="italic">Carlyon's years</title>, and <title render="italic">Bentinck's Tudor</title>.</abstract>
+    <physloc id="aspace_bcecae9f10d1d2c1a1e1bef34d9474c6" label="Physical location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_7933202576bafb5f2f4d6da15224aab1">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_087460711b4049f2be8be94f0e454026">
+    <head>Restrictions on Access</head>
+<p>Collection is unprocessed and the material is unavailable for access. Please see <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/access-unprocessed-collections-policy">LSC's Access to Unprocessed Collections Policy</extref> for more information about levels of discovery and access of special collections materials and to register interest in unprocessed collections.</p>  </accessrestrict>
+  <userestrict id="aspace_8c830e3107677d7f182a50df7d891eda">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_f3a33f181ad369157695175b96d44b7a">
+    <head>Provenance/Source of Acquisition</head>
+<p>Purchase, 1970.</p>  </acqinfo>
+  <odd id="aspace_2bd43997b500e19e1e7ee3c0eca6a9b7">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/tk6osu/alma9942335623606533">9942335623606533</extref></p>  </odd>
+  <prefercite id="aspace_5544df5e6e57eb1c7697c667c85a42ac">
+    <head>Preferred Citation</head>
+<p>[Identification of item], James Payn Papers (Collection 1475).  UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_e75a65835e9fca2cbf102e18d86968cd">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's Library Collections and Archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_d65887cadd4706bda5680e7f5ddcabb2">
+    <head>Biography</head>
+<p>Payn was born on February 28, 1830 in Cheltenham, Glos, England; attended Eton, the Royal Military Academy, Woolwich, and Trinity College, Cambridge (1849-54); wrote novels, including <title render="italic">Lost Sir Massingberd</title> (1864), <title render="italic">A perfect treasure</title> (1869), and <title render="italic">By proxy</title> (1878); became editor of <title render="italic">Cornhill magazine</title> (1883-1896); he died on March 25, 1898 in London.</p>  </bioghist>
+  <scopecontent id="aspace_66131ad4ed7603bc3919f6100a718f11">
+    <head>Scope and Content</head>
+<p>Collection consists of original holograph manuscripts of Payn's novels <title render="italic">Blondel parva</title>, <title render="italic">Carlyon's years</title> (lacking chapters 15-20), and <title render="italic">Bentinck's Tudor</title> (labelled "One of the family").</p>  </scopecontent>
+  <controlaccess>
+    <occupation source="lcsh">Authors, English -- 19th century -- Archives.</occupation>
+    <genreform authfilenumber="http://vocab.getty.edu/page/aat/300028579" source="aat">Manuscripts for publication</genreform>
+    <persname rules="rda" source="naf">Payne, James</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_lzf" level="recordgrp"><did><unittitle>Papers</unittitle><unitdate datechar="creation">n.d.</unitdate><physdesc id="aspace_80874d4c51c773297a576c9c9a54673f" label="General Physical Description note">(1 box, unprocessed)</physdesc></did><odd id="aspace_1725ec1e2c964f7e236109c2892bc591"><head>General</head><p><emph render="italic">Description derived from in-house card file.</emph></p></odd><scopecontent id="aspace_105d71590a95055a9290da3ea093be75"><head>Scope and Content</head><p>Holograph manuscripts for <title render="italic">Blondel Parva</title>, <title render="italic">Carlyon's Years</title> (lacking chapters 15-20), and <title render="italic">Bentinck's Tudor</title> (labeled "One of the family") by James Payn.</p></scopecontent></c01></dsc>
+</archdesc>
 </ead>
