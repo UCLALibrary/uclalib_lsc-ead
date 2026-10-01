@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt938nc7q8" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::1486::Evert Volkersz Collection of Material Relating to the UCLA Library and Labor Unions)//EN&quot; &quot;volk1486.xml&quot;&#10;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">volk1486.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Evert Volkersz Collection of Material Relating to the UCLA Library and Labor Unions, 1964-1969</titleproper><titleproper type="filing">Volkersz (Evert) Collection of Material Relating to the UCLA Library and Labor Unions</titleproper>
+ <author>Processed by Anne Caiger; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce">© 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text rekeyed by Caroline Cubé from in-house card file, <date calendar="gregorian" era="ce">November 2003</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date calendar="gregorian" era="ce">November 1986</date>.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::1486::Evert Volkersz Collection of Material Relating to the UCLA Library and Labor Unions)//EN" "volk1486.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Evert Volkersz Collection of Material Relating to the UCLA Library and Labor Unions, 1964-1969</titleproper>
+ <num>Collection number: 1486</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Anne Caiger, November 1986</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, November 2003</item>
+ </defitem>
+ </list>
+ <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Evert Volkersz Collection of Material Relating to the UCLA Library and Labor Unions, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1964-1969</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1486</unitid>
+ <origination label="Creator">
+ <persname role="subject" source="aacr2">Volkersz, Evert</persname>
+ </origination>
+ <physdesc label="Extent">
+ <extent>2 boxes (1 linear ft.)</extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. 
+<subarea>Dept. of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Evert Jan Volkersz (1936- ) worked in the UCLA Library Department of Special Collections (1963-69), and in 1969, became the Head of Special Collections of the State University of New York, Stony Brook Library. The collection consists of files relating to Volkersz' professional concerns in various associations at UCLA, including unions and the Librarians' Association of the University of California.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Evert Volkersz Collection of Material Relating to the UCLA Library and Labor Unions (Collection 1486). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233933">4233933</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Evert Jan Volkersz was born on October 18, 1936 in Amsterdam, the Netherlands; BA (1958) and MLS (1963), University of Washington; worked in the UCLA Library Department of Special Collections, 1963-69, and in 1969 became the Head of Special Collections of the State University of New York, Stony Brook Library.</p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of files relating to Volkersz' professional concerns in various associations at UCLA, including unions and the Librarians' Association of the University of California.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname role="subject" source="aacr2" encodinganalog="600">Volkersz, Evert--Archives.</persname>
+ <corpname source="lcnaf" role="subject" encodinganalog="610">University of California, Los Angeles. Library. Dept. of Special Collections--Officials and employees--Archival resources.</corpname>
+ <occupation source="lcsh" encodinganalog="650">College librarians--California--Los Angeles--Archival resources.</occupation>
+ </controlaccess>
+ <dsc type="analyticover" id="dsc-1.8.6" score="2" C-ORDER="1" MAX-C-ORDER="3">
+ <head>Container List</head>
+ <note>
+ <p>
+ <emph render="italic">Description derived from in-house card file.</emph>
+ </p>
+ </note>
+ <c01 level="collection" id="c01-1.8.6.3" score="3" C-ORDER="3">
+ <did>
+ <origination>Volkersz, Evert
+</origination>
+ <unittitle>Papers, <unitdate calendar="gregorian" era="ce">1967-1969</unitdate></unittitle>
+ <physdesc> (2 boxes, unprocessed)</physdesc>
+ </did>
+ <scopecontent>
+ <p>Papers relating to professional concerns, including unions and the foundation of the Librarians' Associationof the University of California.</p>
+ </scopecontent>
+<note><p>Evert Volkersz was a librarian in the UCLA Department of Special Collections, 1960s.</p></note>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
