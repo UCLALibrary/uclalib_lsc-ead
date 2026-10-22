@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c88d01vr/" identifier="ark:/13030/c88d01vr" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">jett1983.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Betty Jetter papers, 1981-1988
+                    <num>LSC.1983</num>
+                </titleproper>
+                <titleproper type="filing">Jetter (Betty) papers</titleproper>
+                <author>Finding aid prepared by Stacy Wood, 2012; Sabrina Ponce, 2017; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Finding aid last updated 20 November 2017.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-11-20T09:23-0800</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" id="archdesc-1.2">
+        <did id="did-1.2.1">
+            <unittitle>Betty Jetter papers</unittitle>
+            <unitid repositorycode="US-CLU-SC" countrycode="US">LSC.1983</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 linear feet</extent>
+                <extent>(2 boxes, 1 carton, 1 shoe box, and 1 flat box)</extent>
+            </physdesc>
+            <unitdate normal="1972/1993" type="inclusive">1972-1993</unitdate>
+            <abstract id="ref2" label="Abstract">Betty Jetter was active in lesbian separatist communities and conversations, particularly with the Califia Community, which organized feminist educational retreats. She was also a poet and participant in local lesbian politics. This collection contains personal correspondence and material about Califia community organizing and feminist organization Sol Sisters, as well as ephemera, photographs, and collected readings.</abstract>
+            <langmaterial id="ref276" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref282" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="aacr" source="local">Jetter, Betty, 1932-</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref280">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref281">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref283">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Betty Jetter papers (Collection 1983). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Gift of Elizabeth S. Jetter, 2012.</p>
+            <p>This collection is part of an outreach and collection-building partnership between the 
+                <extref actuate="onrequest" show="new" href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref actuate="onrequest" show="new" href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref actuate="onrequest" show="new" href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing History</head>
+            <p>Processed by Stacy Wood, 2012. Description enhanced and further physical processing completed by Sabrina Ponce in 2017.</p>
+        </processinfo>
+        <odd id="ref286">
+            <head>Sponsor</head>
+            <p>The 
+                <extref actuate="onrequest" show="new" href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref actuate="onrequest" show="new" href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref actuate="onrequest" show="new" href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref actuate="onrequest" show="new" href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+        </odd>
+        <odd id="ref279">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7400247">7400247</extref></p>
+        </odd>
+        <bioghist id="ref9">
+            <head>Biography/History</head>
+            <p>Betty Jetter was active in lesbian separatist communities and conversations, particularly with the Califia community. She was also a poet and participant in local lesbian politics.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content</head>
+            <p>The bulk of the collection is made up of both audio and paper correspondence between Betty Jetter and her former lover, Joy Howard. The correspondence deals with both women's experiences within the lesbian community as well as their opinions and thoughts on contemporary political issues such as sadomasochism, lesbian separatism, and pornography. In addition, there is a substantial amount of material about Califia Community retreats for women and the feminist group Sol Sisters, as well as readings, poems, photographs, and ephemera created or collected by Betty Jetter.</p>
+        </scopecontent>
+        <arrangement id="ref284">
+            <head>Organization and Arrangement</head>
+            <p>Materials arranged by subject.</p>
+        </arrangement>
+        <phystech id="ref285">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </phystech>
+        <relatedmaterial id="ref301">
+            <head>Related Material</head>
+            <p>
+                <extref actuate="onrequest" show="new" href="http://www.oac.cdlib.org/findaid/ark:/13030/c8jd4xjg/">Diane Germain papers (Collection 1961).</extref> Available at Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+        </relatedmaterial>
+        <controlaccess id="controlaccess-1.2.14">
+            <persname rules="aacr" source="local">Jetter, Betty, 1932- -- Archives.</persname>
+            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
+            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
+            <subject source="lcsh">Lesbian activists--United States--Archives.</subject>
+        </controlaccess>
+        <dsc type="combined" id="dsc-1.2.15" score="0" C-ORDER="1" MAX-C-ORDER="38">
+            <c01 id="ref45" level="file" score="3" C-ORDER="1"><did>
+                    <unittitle>Correspondence</unittitle>
+                    <container id="cid11399001" type="Box">2</container>
+                    <container parent="cid11399001" type="Folders">1-17</container>
+                    <unitdate normal="1980/1984" type="inclusive">circa 1981-1983</unitdate>
+                </did><scopecontent id="ref47">
+                    <head>Scope and Content</head>
+                    <p>Letters from Joy Howard to Betty Jetter discussing their relationship, lesbian oppression, patriarchy, academics, feminist activism, motherhood, personal matters and other topics.</p>
+                </scopecontent><odd id="ref300">
+                    <head>General note</head>
+                    <p>Correspondence may be carefully removed from sheet protectors for consultation.</p>
+                </odd></c01>
+            <c01 id="ref12" level="file" score="2" C-ORDER="4"><did>
+                    <unittitle>Califia: Registration</unittitle>
+                    <container id="cid11404005" type="Box">4</container>
+                    <container parent="cid11404005" type="Folder">1</container>
+                    <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+                </did><scopecontent id="ref14">
+                    <head>Scope and Content</head>
+                    <p>Registration forms and letters, directions to the campsite, rules and regulations as well as other pertinent information for the duration of Califia Community, a feminist educational retreat which Betty Jetter participated in.</p>
+                </scopecontent></c01>
+            <c01 id="ref15" level="file" score="2" C-ORDER="6"><did>
+                    <unittitle>Califia: Registration, special needs</unittitle>
+                    <container id="cid11404006" type="Box">4</container>
+                    <container parent="cid11404006" type="Folder">2</container>
+                    <unitdate normal="1983/1983">1983</unitdate>
+                </did><scopecontent id="ref17">
+                    <head>Scope and Content</head>
+                    <p>Registration information for attendees of Califia with special needs or low income.</p>
+                </scopecontent></c01>
+            <c01 id="ref18" level="file" score="2" C-ORDER="8"><did>
+                    <unittitle>Califia: Flyers</unittitle>
+                    <container id="cid11404009" type="Box">4</container>
+                    <container parent="cid11404009" type="Folder">3</container>
+                    <unitdate normal="1983/1983">1983</unitdate>
+                </did><scopecontent id="ref20">
+                    <head>Scope and Content</head>
+                    <p>Mock-ups for Califia flyers.</p>
+                </scopecontent></c01>
+            <c01 id="ref21" level="file" score="1" C-ORDER="10"><did>
+                    <unittitle>Califia: Rosters</unittitle>
+                    <container id="cid11404008" type="Box">4</container>
+                    <container parent="cid11404008" type="Folder">4</container>
+                    <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+                </did></c01>
+            <c01 id="ref24" level="file" score="1" C-ORDER="11"><did>
+                    <unittitle>Califia: Evaluations</unittitle>
+                    <container id="cid11404007" type="Box">4</container>
+                    <container parent="cid11404007" type="Folder">5</container>
+                    <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+                </did></c01>
+            <c01 id="ref27" level="file" score="2" C-ORDER="12"><did>
+                    <unittitle>Califia: Packets</unittitle>
+                    <container id="cid11404010" type="Box">4</container>
+                    <container parent="cid11404010" type="Folder">6</container>
+                    <unitdate normal="1980/1980">May 1980</unitdate>
+                </did><scopecontent id="ref29">
+                    <head>Scope and Content</head>
+                    <p>Packet covering rules, regulations, activities and goals of the Califia Community.</p>
+                </scopecontent></c01>
+            <c01 id="ref30" level="file" score="2" C-ORDER="14"><did>
+                    <unittitle>Sol Sisters: Newsletter mock-ups</unittitle>
+                    <container id="cid11404004" type="Box">1</container>
+                    <container parent="cid11404004" type="Folder">1</container>
+                    <unitdate normal="1984/1986" type="inclusive">January 1984-January 1986</unitdate>
+                </did><scopecontent id="ref32">
+                    <head>Scope and Content</head>
+                    <p>Mock-ups of the newsletter published by Sol Sisters, a group "organized for Social and Political purposes in order to create a safe environment for women working towards a feminist reality."</p>
+                </scopecontent></c01>
+            <c01 id="ref295" level="file" score="1" C-ORDER="16"><did>
+                    <unittitle>Sol Sisters: Newsletter guidelines</unittitle>
+                    <container id="cid11404012" type="Box">4</container>
+                    <container parent="cid11404012" type="Folder">7</container>
+                    <unitdate normal="1984/1984">1984</unitdate>
+                </did></c01>
+            <c01 id="ref33" level="file" score="1" C-ORDER="17"><did>
+                    <unittitle>Sol Sisters: Mailing list</unittitle>
+                    <container id="cid11404011" type="Box">4</container>
+                    <container parent="cid11404011" type="Folder">8</container>
+                    <unitdate>undated</unitdate>
+                </did></c01>
+            <c01 id="ref296" level="file" score="1" C-ORDER="18"><did>
+                    <unittitle>Sol Sisters: Questionnaires</unittitle>
+                    <container id="cid11404013" type="Box">4</container>
+                    <container parent="cid11404013" type="Folder">9</container>
+                    <unitdate>undated</unitdate>
+                </did></c01>
+            <c01 id="ref36" level="file" score="2" C-ORDER="19"><did>
+                    <unittitle>Poems</unittitle>
+                    <container id="cid11404014" type="Box">4</container>
+                    <container parent="cid11404014" type="Folder">10</container>
+                    <unitdate>1982</unitdate>
+                </did><scopecontent id="ref38">
+                    <head>Scope and Content</head>
+                    <p>Poems by Betty Jetter.</p>
+                </scopecontent></c01>
+            <c01 id="ref39" level="file" score="2" C-ORDER="21"><did>
+                    <unittitle>Readings and published materials</unittitle>
+                    <container id="cid11404017" type="Box">4</container>
+                    <container parent="cid11404017" type="Folder">11</container>
+                    <unitdate normal="1971/1984" type="inclusive">circa 1972-1983</unitdate>
+                </did><scopecontent id="ref41">
+                    <head>Scope and Content</head>
+                    <p>Various published materials concerning lesbian culture and political issues including discussions of lesbian separatism and sadomasochism, some of which were written by Jetter.</p>
+                </scopecontent></c01>
+            <c01 id="ref42" level="file" score="2" C-ORDER="23"><did>
+                    <unittitle>Ephemera</unittitle>
+                    <container id="cid11404016" type="Box">4</container>
+                    <container parent="cid11404016" type="Folder">12</container>
+                    <unitdate normal="1980/1987" type="inclusive">circa 1981-1986</unitdate>
+                </did><scopecontent id="ref44">
+                    <head>Scope and Content</head>
+                    <p>Assorted materials including stickers, programs for events, and cartoons.</p>
+                </scopecontent></c01>
+            <c01 id="ref111" level="file" score="2" C-ORDER="25"><did>
+                    <unittitle>Photographs</unittitle>
+                    <container id="cid11404015" type="Box">4</container>
+                    <container parent="cid11404015" type="Folders">13-17</container>
+                    <unitdate normal="1987/1991" type="inclusive">circa 1988-1990</unitdate>
+                </did><scopecontent id="ref298">
+                    <head>Scope and Content</head>
+                    <p>Photographs of Califia retreats, personal cruises and other social events.</p>
+                </scopecontent></c01>
+            <c01 id="ref126" level="file" score="2" C-ORDER="27"><did>
+                    <unittitle>Journal</unittitle>
+                    <container id="cid11404019" type="Box">4</container>
+                    <container parent="cid11404019" type="Folder">18</container>
+                    <unitdate>undated</unitdate>
+                </did><scopecontent id="ref128">
+                    <head>Scope and Content</head>
+                    <p>Handwritten excerpts of Betty Jetter's journal.</p>
+                </scopecontent></c01>
+            <c01 id="ref108" level="file" score="3" C-ORDER="29"><did>
+                    <unittitle>Publications, audiocassettes, and ephemera</unittitle>
+                    <container id="cid11404018" type="Box">3</container>
+                    <unitdate normal="1975/1993" type="inclusive">1975-1993</unitdate>
+                </did><scopecontent id="ref110">
+                    <head>Scope and Content</head>
+                    <p>Includes published novels, zines and buttons collected by Betty Jetter. Also includes three audio cassettes of readings and performances as well as one documentary on VHS.</p>
+                </scopecontent><phystech id="ref297">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                </phystech></c01>
+            <c01 id="ref129" level="file" score="3" C-ORDER="32"><did>
+                    <unittitle>Audio Correspondence</unittitle>
+                    <container id="cid11404003" type="Box">5</container>
+                    <unitdate normal="1981/1982" type="inclusive">October 1981-March 1982</unitdate>
+                </did><scopecontent id="ref131">
+                    <head>Scope and Content</head>
+                    <p>Includes 17 audio cassettes recording personal correspondence sent to Betty Jetter by Joy Howard. Also written on an empty cassette case are the words "March 1, 1982 Joy to Me #16," but no corresponding cassette is included.</p>
+                </scopecontent><phystech id="ref292">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                </phystech></c01>
+            <c01 id="ref161" level="file" score="3" C-ORDER="35"><did>
+                    <unittitle>Telephone Tapes</unittitle>
+                    <container id="cid11404001" type="Box">5</container>
+                    <unitdate normal="1981/1982" type="inclusive">October 1981-May 1982</unitdate>
+                </did><scopecontent id="ref163">
+                    <head>Scope and Content</head>
+                    <p>Includes 21 audio cassette recordings of telephone conversations between Betty Jetter and Joy Howard, with one tape including a reading of Jeffrey Week's "Sexuality and Nuclear War."</p>
+                </scopecontent><phystech id="ref293">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                </phystech></c01>
+            <c01 id="ref153" level="file" score="3" C-ORDER="38"><did>
+                    <unittitle>Psychic session</unittitle>
+                    <container id="cid11404002" type="Box">5</container>
+                    <unitdate normal="1981/1981">October 5, 1981</unitdate>
+                </did><scopecontent id="ref155">
+                    <head>Scope and Content</head>
+                    <p>One audio cassette containing "Past life with Joy Howard" on side 1 and "Summation by Helen Rosenstock - Her impressions of Joy and myself" on side 2.</p>
+                </scopecontent><phystech id="ref294">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                </phystech></c01>
+        </dsc>
+    </archdesc>
+</ead>
