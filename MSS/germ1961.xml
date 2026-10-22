@@ -1,0 +1,702 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c8jd4xjg/" identifier="ark:/13030/c8jd4xjg" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">germ1961.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Diane Germain papers, 1941-2010
+                    <num>LSC.1961</num>
+                </titleproper>
+                <titleproper type="filing">Germain (Diane) papers</titleproper>
+                <author>Finding aid prepared by Stacy Wood, 2011 and Sabrina Ponce, 2017; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 16 November 2017.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-11-16T10:02-0800</date>
+            </creation>
+            <langusage>Finding aid written in: 
+                <language>English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" id="archdesc-1.2">
+        <did id="did-1.2.1">
+            <unittitle>Diane Germain papers</unittitle>
+            <unitid repositorycode="US-CLU-SC" countrycode="US">LSC.1961</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.8 linear feet</extent>
+                <extent>(6 boxes, 1 carton, and 1 flat box)
+</extent>
+            </physdesc>
+            <unitdate normal="1941/2010" type="inclusive">1941-2010</unitdate>
+            <abstract id="ref2" label="Abstract">Diane F. Germain is a French-American lesbian-feminist psychiatric social worker. She conducts the Lesbian History Project and created and conducted a strength group for Women Survivors of Incest and/or childhood molestation. She was one of the founding members of Dykes on Hikes, The Lesbian Referral Services, Beautiful Lesbian Thespians, and California Women's Art Collective. She was an early principal member of the San Diego Lesbian Organization and a collective member of both Las Hermanas, a women's cultural center and coffee-house, and the Califia Community, a feminist education retreat. She worked at Lambda Archives throughout the 1990s interviewing women for history and gathering collections. She later returned to serve as the Student Volunteer Coordinator. She was the staff cartoonist for
+                <title render="italic"> HotWire: The Journal of Women's Music</title>, 
+                <title render="italic">Culture of Chicago</title>, and
+                <title render="italic"> Lesbian News</title>. The collection contains materials from activist organizations in which Germain was herself involved, magazine and newspaper clippings that included her artwork, organizational records relating to the coffee house Las Hermanas, and educational presentations for the Califia Community and other organizations.</abstract>
+            <langmaterial id="ref239" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref295" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="rda" source="local">Germain, Diane F. </persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref296">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref297">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref299">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Diane Germain Papers (Collection 1961). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Provenance/Source of Acquisition</head>
+            <p>Gift of Diane F. Germain, 1990, 1997, 1998, 2012.</p>
+            <p>This collection is part of an outreach and collection-building partnership between the 
+                <extref actuate="onrequest" show="new" href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref actuate="onrequest" show="new" href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref>, and the 
+                <extref actuate="onrequest" show="new" href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Note</head>
+            <p>Processed by Stacy Wood, 2011. Description enhanced and further physical processing completed by Sabrina Ponce in 2017.</p>
+            <p>This collection has no Box 6.</p>
+        </processinfo>
+        <odd id="ref300">
+            <head>Sponsor</head>
+            <p>The 
+                <extref actuate="onrequest" show="new" href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref actuate="onrequest" show="new" href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref actuate="onrequest" show="new" href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+                <extref actuate="onrequest" show="new" href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+        </odd>
+        <odd id="ref242">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=6962954">6962954</extref></p>
+        </odd>
+        <bioghist id="ref9">
+            <head>Biography</head>
+            <p>Diane F. Germain is a French-American lesbian-feminist psychiatric social worker. She conducts the Lesbian History Project and created and conducted a strength group for Women Survivors of Incest and/or childhood molestation for five years. She was one of the founding members of Dykes on Hikes, The Lesbian Referral Services, Beautiful Lesbian Thespians, and California Women's Art Collective. She was an early principal member of the San Diego Lesbian Organization and a collective member of both Las Hermanas, a women's cultural center and coffee-house, and the Califia Community, a feminist educational retreat. She worked at Lambda Archives throughout the 1990s interviewing women for history and gathering collections. She later returned to serve as the Student Volunteer Coordinator. She was the staff cartoonist for 
+                <title render="italic">HotWire: The Journal of Women's Music</title>, 
+                <title render="italic">Culture of Chicago</title>, and 
+                <title render="italic">Lesbian News</title>. She is featured in both the anthology 
+                <title render="italic">Tomboys!</title> edited by Lynne Yamaguchi and Karen Barber, and 
+                <title render="italic">Lesbian Culture: An Anthology</title>.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content</head>
+            <p>Diane F. Germain was not only interested in documenting her own experiences, but also in documenting the representation of women in the media as well as preserving lesbian culture on the whole for posterity. The collection contains materials from activist organizations in which Germain was herself involved, as well as information and resources from other like-minded organizations such as the Gay Alliance for Equal Rights and the Parents and Friends of Lesbians and Gays. She also collected magazine and newspaper clippings that featured her artwork and participated in other projects like the presentation on women wrestlers included here. Financial documents and other organizational records relating to the coffee house Las Hermanas and presentations meant for the Califia Community educational retreat are included in the collection.</p>
+        </scopecontent>
+        <arrangement id="ref240">
+            <head>Organization and Arrangement</head>
+            <p>Materials arranged into the following series:</p>
+            <p>
+                <list type="simple">
+                    <item>Series 1: Subject files</item>
+                    <item>Series 2: Collected clippings, ephemera, and literature</item>
+                    <item>Series 3: Correspondence</item>
+                    <item>Series 4: Las Hermanas</item>
+                    <item>Series 5: Activist organizations and programs</item>
+                    <item>Series 6: Women Wrestlers</item>
+                </list></p>
+            <p>This collection has no Box 6.</p>
+        </arrangement>
+        <relatedmaterial id="ref267">
+            <head>Related Material</head>
+            <p>
+                <extref actuate="onrequest" show="new" href="http://www.oac.cdlib.org/findaid/ark:/13030/c88d01vr/">Betty Jetter papers (Collection 1983). Available at Library Special Collections, Charles E. Young Research Library, UCLA.</extref>.</p>
+            <p>
+                <extref actuate="onrequest" show="new" href="http://www.oac.cdlib.org/findaid/ark:/13030/c8hq3xb6/">Diane F. Germain Lesbian Art and Memorabilia Photographs, Coll2012-051, ONE National Gay &amp; Lesbian Archives, Los Angeles, California</extref>.</p>
+            <p>
+                <extref actuate="onrequest" show="new" href="http://www.oac.cdlib.org/findaid/ark:/13030/kt1x0nd9px/">Adele Starr collection on Parents and Friends of Lesbians and Gays, Coll2009-012, ONE National Gay and Lesbian Archives, Los Angeles, California.</extref>.</p>
+        </relatedmaterial>
+        <controlaccess id="controlaccess-1.2.13">
+            <persname rules="rda" source="local">Germain, Diane F.  -- Archives</persname>
+            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
+            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
+            <subject source="lcsh">Lesbian activists--United States--Archives.</subject>
+            <occupation source="lcsh">Women social workers--United States--Archives.</occupation>
+        </controlaccess>
+        <dsc type="combined" id="dsc-1.2.14" score="0" C-ORDER="1" MAX-C-ORDER="132">
+            <c01 id="ref272" level="series" score="3" C-ORDER="1"><did>
+                    <unittitle>Series 1: Subject files</unittitle>
+                    <unitdate normal="1946/2009" type="inclusive">circa 1947-2008</unitdate>
+                </did><scopecontent id="ref278">
+                    <head>Scope and Content</head>
+                    <p>Diane Germain's collection of examples of homophobic, racist, and sexist occurrences in mainstream media outlets through advertising, newspaper clippings, art, and other means spanning several decades.</p>
+                </scopecontent><arrangement id="ref279">
+                    <head>Organization and Arrangement</head>
+                    <p>Folders titles derived from Germain's original labels and order preserved to express the themes she devised to collect items.</p>
+                </arrangement><c02 id="ref147" level="file" score="1" C-ORDER="4"><did>
+                        <unittitle>"Girls are Good"</unittitle>
+                        <container id="cid10916039" type="Box">1</container>
+                        <container parent="cid10916039" type="Folder">1</container>
+                        <unitdate normal="1982/2009" type="inclusive">circa 1983-2008</unitdate>
+                    </did></c02><c02 id="ref150" level="file" score="1" C-ORDER="5"><did>
+                        <unittitle>"Beauty/Body Standards"</unittitle>
+                        <container id="cid10916038" type="Box">1</container>
+                        <container parent="cid10916038" type="Folder">2</container>
+                        <unitdate normal="1969/2008" type="inclusive">circa 1970-2007</unitdate>
+                    </did></c02><c02 id="ref153" level="file" score="1" C-ORDER="6"><did>
+                        <unittitle>"Children in Sexual Situations - in Advertising"</unittitle>
+                        <container id="cid10916037" type="Box">1</container>
+                        <container parent="cid10916037" type="Folder">3</container>
+                        <unitdate normal="1984/2007" type="inclusive">1984-2007</unitdate>
+                    </did></c02><c02 id="ref156" level="file" score="1" C-ORDER="7"><did>
+                        <unittitle>"Church and Religion Issues"</unittitle>
+                        <container id="cid10916040" type="Box">1</container>
+                        <container parent="cid10916040" type="Folder">4</container>
+                        <unitdate normal="1991/1995" type="inclusive">circa 1992-1994</unitdate>
+                    </did></c02><c02 id="ref159" level="file" score="1" C-ORDER="8"><did>
+                        <unittitle>"Cultural"</unittitle>
+                        <container id="cid10916041" type="Box">1</container>
+                        <container parent="cid10916041" type="Folder">5</container>
+                        <unitdate normal="1949/1993" type="inclusive">circa 1950-1992</unitdate>
+                    </did></c02><c02 id="ref162" level="file" score="1" C-ORDER="9"><did>
+                        <unittitle>"Genitals - Insulted"</unittitle>
+                        <container id="cid10916043" type="Box">1</container>
+                        <container parent="cid10916043" type="Folder">6</container>
+                        <unitdate normal="1974/1993" type="inclusive">1974-1993</unitdate>
+                    </did></c02><c02 id="ref165" level="file" score="1" C-ORDER="10"><did>
+                        <unittitle>"Feminism-Ridiculed"</unittitle>
+                        <container id="cid10916042" type="Box">1</container>
+                        <container parent="cid10916042" type="Folder">7</container>
+                        <unitdate normal="1977/1991" type="inclusive">circa 1978-1990</unitdate>
+                    </did></c02><c02 id="ref168" level="file" score="1" C-ORDER="11"><did>
+                        <unittitle>"Sexism"</unittitle>
+                        <container id="cid10916044" type="Box">1</container>
+                        <container parent="cid10916044" type="Folder">8</container>
+                        <unitdate normal="1946/2009" type="inclusive">circa 1947-2008</unitdate>
+                    </did></c02><c02 id="ref171" level="file" score="1" C-ORDER="12"><did>
+                        <unittitle>"Sexism - 2"</unittitle>
+                        <container id="cid10916045" type="Box">1</container>
+                        <container parent="cid10916045" type="Folder">9</container>
+                        <unitdate normal="1948/1997" type="inclusive">circa 1949-1996</unitdate>
+                    </did></c02><c02 id="ref174" level="file" score="1" C-ORDER="13"><did>
+                        <unittitle>"Anti-Feminist"</unittitle>
+                        <container id="cid10916046" type="Box">1</container>
+                        <container parent="cid10916046" type="Folder">10</container>
+                        <unitdate normal="1977/1991" type="inclusive">circa 1978-1990</unitdate>
+                    </did></c02><c02 id="ref177" level="file" score="1" C-ORDER="14"><did>
+                        <unittitle>"Feminist Thinking"</unittitle>
+                        <container id="cid10916048" type="Box">1</container>
+                        <container parent="cid10916048" type="Folder">11</container>
+                        <unitdate normal="1949/1995" type="inclusive">circa 1950-1994</unitdate>
+                    </did></c02><c02 id="ref180" level="file" score="1" C-ORDER="15"><did>
+                        <unittitle>"Incest/Molestation"</unittitle>
+                        <container id="cid10916047" type="Box">1</container>
+                        <container parent="cid10916047" type="Folder">12</container>
+                        <unitdate normal="1983/1992" type="inclusive">circa 1984-1991</unitdate>
+                    </did></c02><c02 id="ref183" level="file" score="1" C-ORDER="16"><did>
+                        <unittitle>"Lesbians: Famous and Historical"</unittitle>
+                        <container id="cid10916049" type="Box">1</container>
+                        <container parent="cid10916049" type="Folder">13</container>
+                        <unitdate normal="1949/1994" type="inclusive">circa 1950-1993</unitdate>
+                    </did></c02><c02 id="ref186" level="file" score="1" C-ORDER="17"><did>
+                        <unittitle>"Lesbian"</unittitle>
+                        <container id="cid10916050" type="Box">1</container>
+                        <container parent="cid10916050" type="Folder">14</container>
+                        <unitdate normal="1971/1997" type="inclusive">circa 1972-1996</unitdate>
+                    </did></c02><c02 id="ref189" level="file" score="1" C-ORDER="18"><did>
+                        <unittitle>"Lesbian Images"</unittitle>
+                        <container id="cid10916052" type="Box">1</container>
+                        <container parent="cid10916052" type="Folder">15</container>
+                        <unitdate normal="1953/1993" type="inclusive">circa 1954-1992</unitdate>
+                    </did></c02><c02 id="ref192" level="file" score="1" C-ORDER="19"><did>
+                        <unittitle>"Lesbian/General Issues"</unittitle>
+                        <container id="cid10916051" type="Box">1</container>
+                        <container parent="cid10916051" type="Folder">16</container>
+                        <unitdate normal="1949/1994" type="inclusive">circa 1950-1993</unitdate>
+                    </did></c02><c02 id="ref195" level="file" score="1" C-ORDER="20"><did>
+                        <unittitle>"Anti-Lesbian"</unittitle>
+                        <container id="cid10916053" type="Box">1</container>
+                        <container parent="cid10916053" type="Folder">17</container>
+                        <unitdate normal="1981/1998" type="inclusive">circa 1982-1997</unitdate>
+                    </did></c02><c02 id="ref198" level="file" score="1" C-ORDER="21"><did>
+                        <unittitle>"Lesbian/Gay Denial and Invisibility"</unittitle>
+                        <container id="cid10916055" type="Box">1</container>
+                        <container parent="cid10916055" type="Folder">18</container>
+                        <unitdate normal="1980/1991" type="inclusive">circa 1981-1990</unitdate>
+                    </did></c02><c02 id="ref201" level="file" score="1" C-ORDER="22"><did>
+                        <unittitle>"3's Bad company" (Lesbianism negatively linked)</unittitle>
+                        <container id="cid10916054" type="Box">2</container>
+                        <container parent="cid10916054" type="Folder">1</container>
+                        <unitdate normal="1956/2010" type="inclusive">circa 1984-1990</unitdate>
+                    </did></c02><c02 id="ref204" level="file" score="1" C-ORDER="23"><did>
+                        <unittitle>"Fat, Mouth as Vulva, Death as Art"</unittitle>
+                        <container id="cid10916057" type="Box">2</container>
+                        <container parent="cid10916057" type="Folder">2</container>
+                        <unitdate normal="1953/2008" type="inclusive">circa 1954-2007</unitdate>
+                    </did></c02><c02 id="ref207" level="file" score="1" C-ORDER="24"><did>
+                        <unittitle>"Naked"</unittitle>
+                        <container id="cid10916056" type="Box">2</container>
+                        <container parent="cid10916056" type="Folder">3</container>
+                        <unitdate normal="1968/1993" type="inclusive">circa 1969-1992</unitdate>
+                    </did></c02><c02 id="ref210" level="file" score="1" C-ORDER="25"><did>
+                        <unittitle>"Racism"</unittitle>
+                        <container id="cid10916058" type="Box">2</container>
+                        <container parent="cid10916058" type="Folder">4</container>
+                        <unitdate normal="1946/2008" type="inclusive">circa 1947-2007</unitdate>
+                    </did></c02><c02 id="ref213" level="file" score="1" C-ORDER="26"><did>
+                        <unittitle>"Truncation of Women's Bodies"</unittitle>
+                        <container id="cid10916059" type="Box">2</container>
+                        <container parent="cid10916059" type="Folder">5</container>
+                        <unitdate normal="1946/2008" type="inclusive">circa 1947-2007</unitdate>
+                    </did></c02><c02 id="ref216" level="file" score="1" C-ORDER="27"><did>
+                        <unittitle>"Violence - Movies, Pornography, Adverts"</unittitle>
+                        <container id="cid10916060" type="Box">2</container>
+                        <container parent="cid10916060" type="Folder">6</container>
+                        <unitdate normal="1950/2008" type="inclusive">circa 1951-2007</unitdate>
+                    </did></c02><c02 id="ref219" level="file" score="1" C-ORDER="28"><did>
+                        <unittitle>"Relatives of the Rich and Famous"</unittitle>
+                        <container id="cid10916061" type="Box">2</container>
+                        <container parent="cid10916061" type="Folder">7</container>
+                        <unitdate normal="1988/1990" type="inclusive">circa 1989</unitdate>
+                    </did></c02><c02 id="ref222" level="file" score="1" C-ORDER="29"><did>
+                        <unittitle>"Men in Dresses"</unittitle>
+                        <container id="cid10916063" type="Box">2</container>
+                        <container parent="cid10916063" type="Folder">8</container>
+                        <unitdate normal="1962/2008" type="inclusive">circa 1963-2007</unitdate>
+                    </did></c02><c02 id="ref225" level="file" score="1" C-ORDER="30"><did>
+                        <unittitle>"Men's Pornography - A Few Examples"</unittitle>
+                        <container id="cid10916062" type="Box">2</container>
+                        <container parent="cid10916062" type="Folder">9</container>
+                        <unitdate normal="1984/1992" type="inclusive">circa 1985-1993</unitdate>
+                    </did></c02><c02 id="ref228" level="file" score="1" C-ORDER="31"><did>
+                        <unittitle>"Men's Issues"</unittitle>
+                        <container id="cid10916064" type="Box">2</container>
+                        <container parent="cid10916064" type="Folder">10</container>
+                        <unitdate normal="1962/1990" type="inclusive">circa 1963-1989</unitdate>
+                    </did></c02></c01>
+            <c01 id="ref274" level="series" score="3" C-ORDER="32"><did>
+                    <unittitle>Series 2: Collected clippings, ephemera, and literature</unittitle>
+                    <unitdate normal="1955/2009" type="inclusive">circa 1956-2008</unitdate>
+                </did><scopecontent id="ref280">
+                    <head>Scope and Content</head>
+                    <p>Includes Diane Germain's artwork and writings as well as ephemera and published materials she collected.</p>
+                </scopecontent><arrangement id="ref283">
+                    <head>Organization and Arrangement</head>
+                    <p>Materials arranged chronologically, with undated materials at the end.</p>
+                </arrangement><c02 id="ref12" level="file" score="2" C-ORDER="35"><did>
+                        <unittitle>Photographs</unittitle>
+                        <container id="cid10916034" type="Box">2</container>
+                        <container parent="cid10916034" type="Folder">11</container>
+                        <unitdate normal="1955/2008" type="inclusive">circa 1956-2007</unitdate>
+                    </did><scopecontent id="ref14">
+                        <head>Scope and Content</head>
+                        <p>This folder contains some of Diane Germain's personal materials: announcements of anniversary parties, relics from childhood, and miscellaneous photos.</p>
+                    </scopecontent></c02><c02 id="ref66" level="file" score="2" C-ORDER="37"><did>
+                        <unittitle>Betty Jetter papers</unittitle>
+                        <container id="cid10916065" type="Box">2</container>
+                        <container parent="cid10916065" type="Folder">12</container>
+                        <unitdate normal="1970/2007" type="inclusive">1970-2007</unitdate>
+                    </did><scopecontent id="ref68">
+                        <head>Scope and Content</head>
+                        <p>"Feminist Separatism: An Introductory Study," and miscellaneous other published materials.</p>
+                    </scopecontent></c02><c02 id="ref54" level="file" score="2" C-ORDER="39"><did>
+                        <unittitle>Published materials</unittitle>
+                        <container id="cid10916036" type="Box">2</container>
+                        <container parent="cid10916036" type="Folders">13-14</container>
+                        <unitdate normal="1971/1996" type="inclusive">circa 1972-1995</unitdate>
+                    </did><scopecontent id="ref56">
+                        <head>Scope and Content</head>
+                        <p>Various published materials relating to lesbian/feminist activism. Also includes checks written to several publishing companies, campaigns, and organizations.</p>
+                    </scopecontent></c02><c02 id="ref24" level="file" score="2" C-ORDER="41"><did>
+                        <unittitle>Artwork and commentary by Diane Germain</unittitle>
+                        <container id="cid10916026" type="Box">3</container>
+                        <container parent="cid10916026" type="Folder">1</container>
+                        <unitdate normal="1977/2008" type="inclusive">circa 1978-2007</unitdate>
+                    </did><scopecontent id="ref26">
+                        <head>Scope and Content</head>
+                        <p>One framed cartoon as well as summaries and descriptions of various art projects. Includes "A Rose by any Other Name...," "Amazon Symbols Gift," "Triangles," "Billie Jean Slept Here," "This Woman is Not Screaming," and "Coin Art Piece." Also included is a description of posters designed for various events and organizations as well as slides of the "Amazon Gift Project."</p>
+                    </scopecontent></c02><c02 id="ref33" level="file" score="2" C-ORDER="43"><did>
+                        <unittitle>Clippings and Articles about Diane Germain</unittitle>
+                        <container id="cid10916066" type="Box">3</container>
+                        <container parent="cid10916066" type="Folder">2</container>
+                        <unitdate normal="1980/1997" type="inclusive">1980-1997</unitdate>
+                        <physdesc id="ref34" label="General Physical Description note">laminated newspaper clippings, whole newspapers, printed paper</physdesc>
+                    </did><scopecontent id="ref35">
+                        <head>Scope and Contents note</head>
+                        <p>Newspaper articles and clippings about the work and activism of Diane Germain, mostly from local San Diego news sources.</p>
+                    </scopecontent></c02><c02 id="ref93" level="file" score="2" C-ORDER="45"><did>
+                        <unittitle>Ephemera</unittitle>
+                        <container id="cid10916033" type="Box">3</container>
+                        <container parent="cid10916033" type="Folder">3</container>
+                        <unitdate normal="1983/1986" type="inclusive">circa 1984-1985</unitdate>
+                    </did><scopecontent id="ref95">
+                        <head>Scope and Content</head>
+                        <p>Various ephemera, postcards for Desert Hearts, matchbooks, and note pads.</p>
+                    </scopecontent></c02><c02 id="ref42" level="file" score="2" C-ORDER="47"><did>
+                        <unittitle>Articles and writings by Diane Germain</unittitle>
+                        <container id="cid10916025" type="Box">3</container>
+                        <container parent="cid10916025" type="Folder">4</container>
+                        <unitdate normal="1987/1998" type="inclusive">1987-1998</unitdate>
+                    </did><scopecontent id="ref44">
+                        <head>Scope and Content</head>
+                        <p>Articles written for SCWU Newsletter, Lesbian and Gay Historical Society of San Diego Newsletters, The Lesbian News, Off Our Backs, and an essay included in the anthology 
+                            <title render="italic">Learning Our Way</title>.</p>
+                    </scopecontent></c02><c02 id="ref57" level="file" score="2" C-ORDER="49"><did>
+                        <unittitle>Assorted materials</unittitle>
+                        <container id="cid10916028" type="Box">3</container>
+                        <container parent="cid10916028" type="Folder">5</container>
+                        <unitdate normal="1988/2002" type="inclusive">circa 1989-2001</unitdate>
+                    </did><scopecontent id="ref59">
+                        <head>Scope and Content</head>
+                        <p>Includes assorted images, obituaries, illustrations, and literature.</p>
+                    </scopecontent></c02><c02 id="ref72" level="file" score="2" C-ORDER="51"><did>
+                        <unittitle>Button collection</unittitle>
+                        <container id="cid10916029" type="Box">3</container>
+                        <container parent="cid10916029" type="Folder">6</container>
+                        <unitdate>2008</unitdate>
+                    </did><scopecontent id="ref74">
+                        <head>Scope and Content</head>
+                        <p>Buttons for various activist causes or events.</p>
+                    </scopecontent></c02><c02 id="ref90" level="file" score="2" C-ORDER="53"><did>
+                        <unittitle>"Presentation" photo sculpture</unittitle>
+                        <container id="cid10916035" type="Box">3</container>
+                        <container parent="cid10916035" type="Folder">7</container>
+                        <unitdate>undated</unitdate>
+                    </did><scopecontent id="ref92">
+                        <head>Scope and Content</head>
+                        <p>The final version of a photo sculpture utilizing collage elements, entitled "Presentation."</p>
+                    </scopecontent></c02><c02 id="ref60" level="file" score="2" C-ORDER="55"><did>
+                        <unittitle>Rubber stamps</unittitle>
+                        <container id="cid10916069" type="Box">3</container>
+                        <container parent="cid10916069" type="Folder">8</container>
+                        <unitdate normal="1956/2010" type="inclusive">undated</unitdate>
+                    </did><scopecontent id="ref62">
+                        <head>Scope and Content</head>
+                        <p>Customized rubber stamps made by Diane Germain. Includes: "Boycott," "If It's Good Enough for Eleanor, It's Good Enough for Me," "Califia Builds Strong Women."</p>
+                    </scopecontent></c02><c02 id="ref231" level="file" score="2" C-ORDER="57"><did>
+                        <unittitle>Books</unittitle>
+                        <container id="cid10916027" type="Box">7</container>
+                        <unitdate normal="1982/2007" type="inclusive">1982-2007</unitdate>
+                    </did><scopecontent id="ref233">
+                        <head>Scope and Content</head>
+                        <p>This box includes selections from Diane Germain's personal book collection. Taken from Diane Germain's inventory: 
+                            <title render="italic">The Feminist Papers</title> Ed. Anni Rossi, 
+                            <title render="italic">Passion's Shadow </title>by Nicole Conn, 
+                            <title render="italic">Sinister Wisdom</title> Volume 21 Fall 1982, 
+                            <title render="italic">My Blue Heaven</title> by Jane Chambers (JH Press Gay Play Script Series), 
+                            <title render="italic">Last Summer at Bluefish Cove </title>by Jane Chambers (JH Press Gay Play Script Series), 
+                            <title render="italic">The Second Coming of Joan of Arc and other plays</title> by Carolyn Gage, 
+                            <title render="italic">Heroes and Saints and other plays</title> by Cherrie Moraga, 
+                            <title render="italic">Art et Feminism</title> - Catalog for an exhibition at the Museum of Contemporary Art of Quebec 1982.</p>
+                    </scopecontent></c02><c02 id="ref235" level="file" score="2" C-ORDER="59"><did>
+                        <unittitle>Dolls</unittitle>
+                        <container id="cid10916068" type="Box">8</container>
+                        <unitdate normal="1990/2007" type="inclusive">1990s - 2007</unitdate>
+                    </did><scopecontent id="ref237">
+                        <head>Scope and Content</head>
+                        <p>This box contains dolls bought by or given to Diane Germain. Includes handmade Emily Dickinson, Gertrude Stein dolls as well as two handmade transmogrified barbies and a star doll.</p>
+                    </scopecontent></c02><c02 id="ref36" level="file" score="2" C-ORDER="61"><did>
+                        <unittitle>T-shirts</unittitle>
+                        <container id="cid10908002" type="Box">9</container>
+                        <unitdate normal="1979/1989" type="inclusive">circa 1980</unitdate>
+                    </did><scopecontent id="ref38">
+                        <head>Scope and Content</head>
+                        <p>Four t-shirts: "Billie Jean Slept Here," "First Annual West Coast Women's Music and Cultural Festival 1980," and two assorted t-shirts</p>
+                    </scopecontent></c02></c01>
+            <c01 id="ref270" level="series" score="3" C-ORDER="63"><did>
+                    <unittitle>Series 3: Correspondence</unittitle>
+                    <unitdate normal="1973/2010" type="inclusive">1973-2010</unitdate>
+                </did><scopecontent id="ref284">
+                    <head>Scope and Content</head>
+                    <p>Personal and professional correspondence between Diane Germain, friends, and activist organizations.</p>
+                </scopecontent><arrangement id="ref285">
+                    <head>Organization and Arrangement</head>
+                    <p>Materials arranged alphabetically by correspondent.</p>
+                </arrangement><c02 id="ref21" level="file" score="2" C-ORDER="66"><did>
+                        <unittitle>Correspondence: Detrick and Schwemer</unittitle>
+                        <container id="cid10916006" type="Box">4</container>
+                        <container parent="cid10916006" type="Folder">1</container>
+                        <unitdate normal="1976/2010" type="inclusive">1976-2010</unitdate>
+                    </did><scopecontent id="ref23">
+                        <head>Scope and Content</head>
+                        <p>Also includes correspondence with various activist communities with which Diane Germain was involved.</p>
+                    </scopecontent></c02><c02 id="ref48" level="file" score="2" C-ORDER="68"><did>
+                        <unittitle>Correspondence: June L. Mazer Archives</unittitle>
+                        <container id="cid10916007" type="Box">4</container>
+                        <container parent="cid10916007" type="Folder">2</container>
+                        <unitdate normal="1994/2004" type="inclusive">1994-2004</unitdate>
+                    </did><scopecontent id="ref50">
+                        <head>Scope and Content</head>
+                        <p>Correspondence with the June L. Mazer Archives concerning donations.</p>
+                    </scopecontent></c02><c02 id="ref27" level="file" score="2" C-ORDER="70"><did>
+                        <unittitle>Correspondence: Lesbians for Political Action</unittitle>
+                        <container id="cid10916008" type="Box">4</container>
+                        <container parent="cid10916008" type="Folder">3</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did><scopecontent id="ref29">
+                        <head>Scope and Content</head>
+                        <p>Correspondence related to an incident with a local grocery chain in San Diego handled by the Lesbians for Political Action.</p>
+                    </scopecontent></c02><c02 id="ref15" level="file" score="2" C-ORDER="72"><did>
+                        <unittitle>Correspondence: Women's Center Coalition (UCSD)</unittitle>
+                        <container id="cid10908004" type="Box">4</container>
+                        <container parent="cid10908004" type="Folder">4</container>
+                        <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
+                    </did><scopecontent id="ref17">
+                        <head>Scope and Content</head>
+                        <p>Materials related to the foundation and operation of the Women's Center Coalition at the University of California San Diego. Includes correspondence with administration, meeting minutes, and the development of mission statements and internal discussions.</p>
+                    </scopecontent></c02></c01>
+            <c01 id="ref271" level="subseries" score="3" C-ORDER="74"><did>
+                    <unittitle>Series 4: Las Hermanas</unittitle>
+                    <unitdate>1974-1979</unitdate>
+                </did><scopecontent id="ref277">
+                    <head>Scope and Content</head>
+                    <p>Organizational documents of Las Hermanas, a women's cultural center and coffee-house of which Germain was a member.</p>
+                </scopecontent><arrangement id="ref286">
+                    <head>Organization and Arrangement</head>
+                    <p>Materials are organized by type and arranged chronologically.</p>
+                </arrangement><c02 id="ref96" level="file" score="2" C-ORDER="77"><did>
+                        <unittitle>Las Hermanas: Lease and fictitious business name</unittitle>
+                        <container id="cid10916016" type="Box">4</container>
+                        <container parent="cid10916016" type="Folder">5</container>
+                        <unitdate normal="1974/1978" type="inclusive">1974-1978</unitdate>
+                    </did><scopecontent id="ref98">
+                        <head>Scope and Content</head>
+                        <p>Documents related to the lease and fictitious business name of Las Hermanas.</p>
+                    </scopecontent></c02><c02 id="ref99" level="file" score="2" C-ORDER="79"><did>
+                        <unittitle>Las Hermanas: Business papers</unittitle>
+                        <container id="cid10916012" type="Box">4</container>
+                        <container parent="cid10916012" type="Folder">6</container>
+                        <unitdate normal="1974/1979" type="inclusive">1974-1979</unitdate>
+                    </did><scopecontent id="ref101">
+                        <head>Scope and Content</head>
+                        <p>Various receipts and invoices for services and operations related to the founding and functioning of Las Hermanas.</p>
+                    </scopecontent></c02><c02 id="ref102" level="file" score="2" C-ORDER="81"><did>
+                        <unittitle>Las Hermanas: Mailing list and permits</unittitle>
+                        <container id="cid10916019" type="Box">4</container>
+                        <container parent="cid10916019" type="Folder">7</container>
+                        <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
+                    </did><scopecontent id="ref104">
+                        <head>Scope and Content</head>
+                        <p>Permits and mailing lists for members and participants of Las Hermanas.</p>
+                    </scopecontent></c02><c02 id="ref108" level="file" score="2" C-ORDER="83"><did>
+                        <unittitle>Las Hermanas: Insurance policy</unittitle>
+                        <container id="cid10916015" type="Box">4</container>
+                        <container parent="cid10916015" type="Folder">8</container>
+                        <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
+                    </did><scopecontent id="ref110">
+                        <head>Scope and Content</head>
+                        <p>Forms and various information related to the insurance policy for the Las Hermanas facility.</p>
+                    </scopecontent></c02><c02 id="ref105" level="file" score="2" C-ORDER="85"><did>
+                        <unittitle>Las Hermanas: Taxes</unittitle>
+                        <container id="cid10916024" type="Box">4</container>
+                        <container parent="cid10916024" type="Folder">9</container>
+                        <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate>
+                    </did><scopecontent id="ref107">
+                        <head>Scope and Content</head>
+                        <p>Tax information, receipts and returns and various forms for Las Hermanas.</p>
+                    </scopecontent></c02><c02 id="ref120" level="file" score="2" C-ORDER="87"><did>
+                        <unittitle>Las Hermanas: Articles of incorporation, bylaws</unittitle>
+                        <container id="cid10916009" type="Box">4</container>
+                        <container parent="cid10916009" type="Folder">10</container>
+                        <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+                    </did><scopecontent id="ref122">
+                        <head>Scope and Content</head>
+                        <p>Papers and information related to the articles of incorporation, original bylaws and mission statement of Las Hermanas.</p>
+                    </scopecontent></c02><c02 id="ref111" level="file" score="2" C-ORDER="89"><did>
+                        <unittitle>Las Hermanas: San Diego County Community Action Program</unittitle>
+                        <container id="cid10916023" type="Box">4</container>
+                        <container parent="cid10916023" type="Folder">11</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did><scopecontent id="ref113">
+                        <head>Scope and Content</head>
+                        <p>Information and documents related to the application for a grant for Las Hermanas.</p>
+                    </scopecontent></c02><c02 id="ref114" level="file" score="2" C-ORDER="91"><did>
+                        <unittitle>Las Hermanas: San Diego Regional Youth Employment Program</unittitle>
+                        <container id="cid10916022" type="Box">4</container>
+                        <container parent="cid10916022" type="Folder">12</container>
+                        <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
+                    </did><scopecontent id="ref116">
+                        <head>Scope and Content</head>
+                        <p>Certificates and other information related to the youth employment program and its relationship to Las Hermanas.</p>
+                    </scopecontent></c02><c02 id="ref117" level="file" score="2" C-ORDER="93"><did>
+                        <unittitle>Las Hermanas: Bank statements</unittitle>
+                        <container id="cid10916011" type="Box">4</container>
+                        <container parent="cid10916011" type="Folder">13</container>
+                        <unitdate normal="1976/1979" type="inclusive">1976-1979</unitdate>
+                    </did><scopecontent id="ref119">
+                        <head>Scope and Content</head>
+                        <p>Contains bank statements and other miscellaneous financial information.</p>
+                    </scopecontent></c02><c02 id="ref132" level="file" score="2" C-ORDER="95"><did>
+                        <unittitle>Las Hermanas: Articles, interviews</unittitle>
+                        <container id="cid10916010" type="Box">4</container>
+                        <container parent="cid10916010" type="Folder">14</container>
+                        <unitdate normal="1976/2010" type="inclusive">1976-2010</unitdate>
+                    </did><scopecontent id="ref134">
+                        <head>Scope and Content</head>
+                        <p>Transcripts of interviews about experiences of Las Hermanas as well as articles referencing services and events at Las Hermanas.</p>
+                    </scopecontent></c02><c02 id="ref123" level="file" score="2" C-ORDER="97"><did>
+                        <unittitle>Las Hermanas: Event financials</unittitle>
+                        <container id="cid10916014" type="Box">4</container>
+                        <container parent="cid10916014" type="Folder">15</container>
+                        <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+                    </did><scopecontent id="ref125">
+                        <head>Scope and Content</head>
+                        <p>Financial information related to events and operations of Las Hermanas.</p>
+                    </scopecontent></c02><c02 id="ref129" level="file" score="2" C-ORDER="99"><did>
+                        <unittitle>Las Hermanas: Flyers, brochures, calendars</unittitle>
+                        <container id="cid10916013" type="Box">4</container>
+                        <container parent="cid10916013" type="Folder">16</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did><scopecontent id="ref131">
+                        <head>Scope and Content</head>
+                        <p>Calendars outlining events and services of Las Hermanas along with flyers and brochures of same.</p>
+                    </scopecontent></c02><c02 id="ref126" level="file" score="2" C-ORDER="101"><did>
+                        <unittitle>Las Hermanas: Policy book, procedure manual</unittitle>
+                        <container id="cid10916020" type="Box">5</container>
+                        <container parent="cid10916020" type="Folder">1</container>
+                        <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+                    </did><scopecontent id="ref128">
+                        <head>Scope and Content</head>
+                        <p>Documents outlining the manual for Las Hermanas as well as space for commentary and dialogue about day to day operations.</p>
+                    </scopecontent></c02><c02 id="ref138" level="file" score="2" C-ORDER="103"><did>
+                        <unittitle>Las Hermanas: Programming ideas</unittitle>
+                        <container id="cid10916021" type="Box">5</container>
+                        <container parent="cid10916021" type="Folder">2</container>
+                        <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+                    </did><scopecontent id="ref140">
+                        <head>Scope and Content</head>
+                        <p>Information related to potential programming ideas for Las Hermanas as well as guest speakers, performers, and proposed events.</p>
+                    </scopecontent></c02><c02 id="ref135" level="file" score="2" C-ORDER="105"><did>
+                        <unittitle>Las Hermanas: Log book</unittitle>
+                        <container id="cid10916017" type="Box">5</container>
+                        <container parent="cid10916017" type="Folder">3</container>
+                        <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+                    </did><scopecontent id="ref137">
+                        <head>Scope and Content</head>
+                        <p>The log book for Las Hermanas, which served as a way for all participants to communicate and express comments or concerns about day to day operations.</p>
+                    </scopecontent></c02><c02 id="ref141" level="file" score="2" C-ORDER="107"><did>
+                        <unittitle>Las Hermanas: Networking resources</unittitle>
+                        <container id="cid10916018" type="Box">5</container>
+                        <container parent="cid10916018" type="Folder">4</container>
+                        <unitdate normal="1956/2010" type="inclusive">undated</unitdate>
+                    </did><scopecontent id="ref143">
+                        <head>Scope and Content</head>
+                        <p>Contact information for like-minded organizations in the San Diego area used for the purposes of resource sharing, collaboration, and mutual support.</p>
+                    </scopecontent></c02></c01>
+            <c01 id="ref273" level="series" score="3" C-ORDER="109"><did>
+                    <unittitle>Series 5: Activist organizations and programs</unittitle>
+                    <unitdate normal="1979/1995" type="inclusive">1979-1995</unitdate>
+                </did><scopecontent id="ref275">
+                    <head>Scope and Content</head>
+                    <p>Materials prepared for or gathered at events hosted by several activist organizations.</p>
+                </scopecontent><arrangement id="ref287">
+                    <head>Organization and Arrangement</head>
+                    <p>Materials arranged in alphabetical order by organization or event.</p>
+                </arrangement><c02 id="ref18" level="file" score="2" C-ORDER="112"><did>
+                        <unittitle>Activist: Assorted flyers and brochures</unittitle>
+                        <container id="cid10908003" type="Box">5</container>
+                        <container parent="cid10908003" type="Folder">5</container>
+                        <unitdate normal="1982/1995" type="inclusive">1982-1995</unitdate>
+                    </did><scopecontent id="ref20">
+                        <head>Scope and Contents</head>
+                        <p>Includes flyers for various lesbian performers and events in the San Diego area. Performers include Susan Westenhoefer and Phranc, among others.</p>
+                    </scopecontent></c02><c02 id="ref69" level="file" score="2" C-ORDER="114"><did>
+                        <unittitle>Activist: Califia materials</unittitle>
+                        <container id="cid10916001" type="Box">5</container>
+                        <container parent="cid10916001" type="Folder">6</container>
+                        <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+                    </did><scopecontent id="ref71">
+                        <head>Scope and Content</head>
+                        <p>Mailing list of Califia participants, photo of Califia community.</p>
+                    </scopecontent></c02><c02 id="ref30" level="file" score="2" C-ORDER="116"><did>
+                        <unittitle>Activist: Gay Alliance for Equal Rights</unittitle>
+                        <container id="cid10916002" type="Box">5</container>
+                        <container parent="cid10916002" type="Folder">7</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did><scopecontent id="ref32">
+                        <head>Scope and Content</head>
+                        <p>Press releases about area events and issues related to gay and lesbian rights and the activism of the group Gay Alliance for Equal Rights, along with pamphlets and notes for presentations.</p>
+                    </scopecontent></c02><c02 id="ref51" level="file" score="2" C-ORDER="118"><did>
+                        <unittitle>Activist: Michigan Womyn's Festival</unittitle>
+                        <container id="cid10916003" type="Box">5</container>
+                        <container parent="cid10916003" type="Folder">8</container>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did><scopecontent id="ref53">
+                        <head>Scope and Content</head>
+                        <p>Materials acquired at the Michigan Womyn's Festival including organizational materials, resource listings, event flyers, and newsletters from various organizations.</p>
+                    </scopecontent></c02><c02 id="ref39" level="file" score="2" C-ORDER="120"><did>
+                        <unittitle>Activist: Myth California Protest</unittitle>
+                        <container id="cid10916005" type="Box">5</container>
+                        <container parent="cid10916005" type="Folder">9</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did><scopecontent id="ref41">
+                        <head>Scope and Content</head>
+                        <p>Flyers, newspaper clippings, and photos associated with the Myth California protest focused on the Miss California pageant in San Diego in 1986.</p>
+                    </scopecontent></c02><c02 id="ref45" level="file" score="2" C-ORDER="122"><did>
+                        <unittitle>Activist: Parents and Friends of Lesbians and Gays (PFLAG)</unittitle>
+                        <container id="cid10916004" type="Box">5</container>
+                        <container parent="cid10916004" type="Folder">10</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did><scopecontent id="ref47">
+                        <head>Scope and Content</head>
+                        <p>Notes for a slideshow presentation and a flyer for Parents and Friends of Lesbians and Gays (PFLAG).</p>
+                    </scopecontent></c02></c01>
+            <c01 id="ref268" level="series" score="3" C-ORDER="124"><did>
+                    <unittitle>Series 6: Women Wrestlers</unittitle>
+                    <unitdate normal="1940/2005" type="inclusive">circa 1941-2004</unitdate>
+                </did><scopecontent id="ref288">
+                    <head>Scope and Content</head>
+                    <p>Materials about a presentation on women wrestlers, the history of the profession, and issues surrounding its existence. Includes original materials and notes.</p>
+                </scopecontent><arrangement id="ref294">
+                    <head>Organization and Arrangement</head>
+                    <p>Materials arranged in chronological order.</p>
+                </arrangement><c02 id="ref78" level="file" score="1" C-ORDER="127"><did>
+                        <unittitle>Women Wrestlers: Original material</unittitle>
+                        <container id="cid10950005" type="Box">5</container>
+                        <container parent="cid10950005" type="Folder">11</container>
+                        <unitdate normal="1940/1983" type="inclusive">circa 1941-1982</unitdate>
+                    </did></c02><c02 id="ref87" level="file" score="1" C-ORDER="128"><did>
+                        <unittitle>Women Wrestlers: Notes</unittitle>
+                        <container id="cid10950003" type="Box">5</container>
+                        <container parent="cid10950003" type="Folder">12</container>
+                        <unitdate normal="1981/1983" type="inclusive">circa 1982</unitdate>
+                    </did></c02><c02 id="ref75" level="file" score="2" C-ORDER="129"><did>
+                        <unittitle>Women Wrestlers: Draft of presentation</unittitle>
+                        <container id="cid10950001" type="Box">5</container>
+                        <container parent="cid10950001" type="Folder">13</container>
+                        <unitdate normal="1962/1983" type="inclusive">circa 1963-1982</unitdate>
+                    </did><scopecontent id="ref77">
+                        <head>Scope and Content</head>
+                        <p>Materials about a presentation on women wrestlers, the history of the profession, and issues surrounding its existence. Includes original materials and notes.</p>
+                    </scopecontent></c02><c02 id="ref81" level="file" score="1" C-ORDER="131"><did>
+                        <unittitle>Women Wrestlers: Final script/sequence</unittitle>
+                        <container id="cid10950002" type="Box">5</container>
+                        <container parent="cid10950002" type="Folder">14</container>
+                        <unitdate normal="1962/1984" type="inclusive">circa 1963-1983</unitdate>
+                    </did></c02><c02 id="ref84" level="file" score="2" C-ORDER="132"><did>
+                        <unittitle>Women Wrestlers: Presentation photocopies</unittitle>
+                        <container id="cid10950004" type="Box">5</container>
+                        <container parent="cid10950004" type="Folder">15</container>
+                        <unitdate normal="2003/2005" type="inclusive">circa 2004</unitdate>
+                    </did><scopecontent id="ref292">
+                        <head>Scope and Content</head>
+                        <p>Photocopies of materials used in the presentation. Date reflects production and compilation of the photocopies.</p>
+                    </scopecontent></c02></c01>
+        </dsc>
+    </archdesc>
+</ead>
