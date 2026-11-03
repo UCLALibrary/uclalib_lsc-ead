@@ -1,0 +1,1496 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c85t3j77/" identifier="ark:/13030/c85t3j77" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">leag1856.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">League of Allied Arts records</titleproper>
+        <titleproper>Finding Aid for the League of Allied Arts Records
+          <num>LSC.1856</num></titleproper>
+        <author>Finding aid prepared by Tiffany Dawn Jones, 2012.</author>
+        <sponsor>The processing of this collection was supported by <emph render="bold"><extref href="http://www.arcadiafund.org.uk/" actuate="onrequest" show="new">Arcadia</extref></emph>funds.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>UCLA Library Special Collections</publisher>
+        <p><date>Online finding aid last updated 2021 January 11.</date></p>
+        <address>
+          <addressline>Room A1713, Charles E. Young Research Library</addressline>
+          <addressline>Box 951575</addressline>
+          <addressline>Los Angeles, CA 90095-1575</addressline>
+          <addressline>spec-coll@library.ucla.edu</addressline>
+          <addressline>URL: <extptr href="https://www.library.ucla.edu/special-collections" show="new" title="https://www.library.ucla.edu/special-collections" linktype="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-11 16:01:54
+          -0800</date>.</creation>
+      <langusage>Finding aid is in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" id="archdesc-1.2">
+    <did id="did-1.2.1">
+      <repository>
+        <corpname>UCLA Library Special Collections</corpname>
+      </repository>
+      <unittitle>League of Allied Arts records</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="local">League of Allied Arts</corpname>
+      </origination>
+      <unitid repositorycode="US-CLU-SC" countrycode="US">LSC.1856</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
+        <extent altrender="carrier">(16 document boxes, 2 flat boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1940/2011" type="inclusive">1940-2011</unitdate>
+      <abstract id="aspace_b2a3226fe9f3e8f3cc27ccbfb7a792a4">This collection documents the history
+        and administration of the League of Allied Arts, one of the oldest existing Black women's
+        non-profit arts organizations in Los Angeles. Founded in 1939 by Dorothy Vena Johnson and
+        Juanita Miller, the League was established to promote and support the arts in Los Angeles by
+        providing cultural enrichment programs for the community, honoring the creative
+        accomplishments of Black artists, and awarding scholarships to talented students from Los
+        Angeles pursuing scholarly studies in the arts. The collection consists of administrative
+        documents such as meeting minutes and agendas, financial reports, ephemera from various arts
+        programs and events, correspondence, newspaper clippings, photographs, and media.</abstract>
+      <physloc id="aspace_9a0294badd9b0d1682782647f91efee9">Stored off-site. All requests to access
+        special collections material must be made in advance using the request button located on
+        this page.</physloc>
+      <langmaterial id="aspace_91b5f766ea739e2b94e46ca2e5da22d5">Materials are in
+        English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_e4f5be3024fc1b4d95af7c5af3caed0b">
+      <head>Conditions Governing Access</head>
+      <p>Open for research. All requests to access special collections materials must be made in
+        advance using the request button located on this page.</p>
+    </accessrestrict>
+    <phystech id="aspace_17d7b18b256482ca5c5d482479e219bf">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>CONTAINS AUDIOVISUAL MATERIALS: This collection contains both processed and unprocessed
+        audiovisual materials. For information about the access status of the material that you are
+        looking for, refer to the Physical Characteristics and Technical Requirements note at the
+        series and file levels. All requests to access processed audiovisual materials must be made
+        in advance using the request button located on this page.</p>
+    </phystech>
+    <userestrict id="aspace_b086a14c8afadbb6e7aa3125995547c6">
+      <head>Conditions Governing Reproduction and Use</head>
+      <p>Property rights to the physical objects belong to UCLA Library Special Collections. All
+        other rights, including copyright, are retained by the creators and their heirs. It is the
+        responsibility of the researcher to determine who holds the copyright and pursue the
+        copyright owner or his or her heir for permission to publish where The UC Regents do not
+        hold the copyright.</p>
+    </userestrict>
+    <prefercite id="aspace_2ced6d5cf7899425bbb520706de3a924">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], League of Allied Arts records (Collection Number 1856). UCLA
+        Library Special Collections, Charles E. Young Research Library, University of California,
+        Los Angeles.</p>
+    </prefercite>
+    <acqinfo id="aspace_ade703614d2527d3b961a772a2506db7">
+      <head>Provenance/Source of Acquisition</head>
+      <p>Gift of the League of Allied Arts, 2012.</p>
+      <p>The following League of Allied Arts members retained documents, photographs, ephemera, and
+        other materials on behalf of the organization:</p>
+      <p>Haroldine Brewington, Kathryn Carr, Jean Davis Clements, Mary Ann Greene, Carol Hall
+        Holliday, Bertha Hurd, Beverly Ryder, Patricia Ryder, Shirley Starke-Wallace, Dorothy
+        Thornhill.</p>
+    </acqinfo>
+    <processinfo id="aspace_37e815bde7e021ae773a3416ac048fe4">
+      <head>Processing Information</head>
+      <p>Collections are processed to a variety of levels, depending on the work necessary to make
+        them usable, their perceived user interest and research value, availability of staff and
+        resources, competing priorities. Library Special Collections provides a standard level of
+        preservation and access for all collections and, when time and resources permit, conducts
+        more intensive processing. These materials have been arranged and described according to
+        national and local standards and best practices.</p>
+      <p>Processed by Tiffany Dawn Jones in the Center for Primary Research and Training (CFPRT),
+        under the supervision of Jillian Cuellar, 2012. The processing of this collection was
+        supported by <emph render="bold"><extref href="http://www.arcadiafund.org.uk/" actuate="onrequest" show="new">Arcadia</extref></emph>funds.</p>
+    </processinfo>
+    <odd id="aspace_3abe22914b0529ccfc2aaa7e8f65e2f7">
+      <head>UCLA Catalog Record ID</head>
+      <p>UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="https://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=6947095">6947095</extref></p>
+    </odd>
+    <bioghist id="aspace_4d16c5d3c184a788f437b143fc20bc13">
+      <head>Biographical / Historical</head>
+      <p>The League of Allied Arts is one of the oldest existing Black women's non-profit arts
+        organizations in Los Angeles. Founded in 1939 by Dorothy Vena Johnson, a poet and creative
+        writing teacher for the Los Angeles Unified School District, and Juanita Miller, a social
+        worker for the County of Los Angeles and wife of distinguished civil rights attorney Loren
+        Miller, the League of Allied Arts was established to support and promote the arts in Los
+        Angeles. Langston Hughes was one of the League's first beneficiaries. When the young Harlem
+        Renaissance poet and playwright came to Los Angeles to visit friends, he wanted to present a
+        play. However, due to racism, no theater would allow Hughes to present his work. The
+        industrious and civic-minded Juanita Miller and Dorothy Vena Johnson thereby pooled their
+        resources together to help support Langston Hughes successfully present his play,
+          <title>Don't You Want to Be Free?</title> at his recently established New Negro Theater.
+        From this experience, Johnson and Miller went on to officially establish the League of
+        Allied Arts whose mission is to promote and support the arts in Los Angeles. The League
+        provides cultural enrichment programs for the community, honors the creative accomplishments
+        of Black artists, and awards scholarships to talented students from Los Angeles pursuing
+        scholarly studies in the arts. The League estimates that since its inception it has given
+        away over $500,000 in scholarships and charitable donations to students and various
+        organizations in Los Angeles and nationwide.</p>
+      <p>The League of Allied Arts is a volunteer organization with a long history of distinguished
+        membership and leadership. In addition to Juanita Miller and co-founder Dorothy Vena
+        Johnson, who served as the League's president for over 25 years, another notable and early
+        member of the League of Allied Arts was Miriam Matthews, the first credentialed Black
+        librarian in the state of California and a librarian for the Los Angeles Public Library.</p>
+      <p>The League of Allied Arts has provided numerous cultural enrichment programs for the Los
+        Angeles community since its founding.</p>
+      <p>The League of Allied Arts awarded its first scholarships in the early 1940s. In the same
+        decade, the League was part of a consortium of community organizations that promoted Jacob
+        Lawrence's <emph render="italic">The Migration Series</emph>, a sequence of paintings
+        depicting the mass movement of African Americans from the rural South to the urban North
+        between World War I and World War II. The paintings were lent by the Museum of Modern Art
+        and presented at the Music Town Gallery in Los Angeles. The League also sponsored <emph render="italic">The Art of Aaron Douglas</emph> exhibit at the Chabot Art Gallery on
+        Robertson Boulevard.</p>
+      <p>In the 1950s, the League presented a poetry reading by Langston Hughes with accompaniment
+        by the Buddy Collette Quintet. In addition, the League donated funds to the Lester Horton
+        Dance School, Our Author's Study Club, and the Legal Defense Fund of the NAACP.</p>
+      <p>During the 1960s, the League honored William Grant Still on his seventieth birthday at the
+        Los Angeles Music Center, donated funds to the John F. Kennedy Presidential Library and
+        Museum, and purchased a seat in the Dorothy Chandler Pavilion.</p>
+      <p>The League joined the Ahmanson Foundation, Charles Drew Medical Society Auxiliary, and the
+        Los Angeles chapter of the Links in providing funds for the presentation of a Richard Hunt
+        sculpture at LACMA in the 1970s. </p>
+      <p>In the 1980s, the League sponsored the musical <emph render="italic">Ain't
+          Misbehavin'</emph> at the Aquarius Theater in Hollywood and honored artists Richmond
+        Barthe, Melonee Blocker, Elizabeth Catlett, Alonzo Davis, Maren Hassinger, Varnette
+        Honeywood, William Pajaud, Betye Saar, Ruth Waddy, and Yvonne Meo, who was also a member of
+        the League.</p>
+      <p>In 2000, the membership of the League of Allied Arts traveled to Paris, and in 2009 it
+        celebrated its 70th anniversary by hosting a reception in honor of actor Laurence Fishburne
+        for his performance in the play <emph render="italic">Thurgood</emph> which was presented at
+        the Geffen Playhouse. The League made tickets available for 100 students to see the play and
+        discuss their experience.</p>
+      <p>The League of Allied Arts remains a pillar in the Los Angeles community by continuing to
+        support and promote the arts. </p>
+    </bioghist>
+    <scopecontent id="aspace_16e8a1c0d5e306fe17d6a32ff94d7431">
+      <head>Scope and Contents</head>
+      <p>The League of Allied Arts records consist of administrative documents such as meeting
+        minutes and agendas, financial reports, ephemera from various arts programs and events,
+        correspondence, newspaper clippings, photographs, and media. </p>
+      <p>Highlights of the collection include meeting minutes, which record the major activities of
+        the League; correspondence from First Lady Jacqueline Kennedy; and scrapbooks which detail
+        the League's early activities.</p>
+      <p>The collection covers the years 1940 to 2011, with the bulk of administrative records
+        ranging from 1981 to 2011.</p>
+    </scopecontent>
+    <arrangement id="aspace_6b28e9d780d1fb896cfd515ef516afc5">
+      <head>Arrangement</head>
+      <p>This collection has been arranged in the following series: <list type="simple">
+          <item>Series 1: Administrative Records, 1981-2011, 1934-2018</item>
+          <item>Series 2: Financial, 1969-2011</item>
+          <item>Series 3: Public Relations, 1940-2010</item>
+          <item>Series 4: Correspondence, 1980-2010</item>
+          <item>Series 5: Historical Information, 1943-2007</item>
+          <item>Series 6: Photographs and Media, 1967-2008</item>
+        </list></p>
+      <p> Series are arranged chronologically by year. </p>
+    </arrangement>
+    <relatedmaterial id="aspace_8fdc57c282cb81b1b876ad55fb882265">
+      <head>Related Materials</head>
+      <p><extref href="https://oac.cdlib.org/findaid/ark:/13030/kt3t1nd954/" actuate="onrequest" show="new">Miriam Matthews papers (Collection
+          1804).</extref> Available at UCLA Library Special Collections, Charles E. Young Research
+        Library, UCLA.</p>
+    </relatedmaterial>
+    <controlaccess id="controlaccess-1.2.13">
+      <subject source="lcsh">African Americans -- California -- Los Angeles</subject>
+      <subject source="lcsh">Arts -- California -- Los Angeles -- Societies, etc. --
+        Archives.</subject>
+      <corpname rules="aacr" source="local">League of Allied Arts</corpname>
+    </controlaccess>
+    <dsc type="combined" id="dsc-1.2.14" score="0" C-ORDER="1" MAX-C-ORDER="247">
+      <c01 id="aspace_ref1_k3s" level="series" score="2" C-ORDER="1"><did>
+          <unittitle>Series 1: Administrative Records</unittitle>
+          <unitdate datechar="creation" normal="1981/2011" type="inclusive">1981-2011</unitdate>
+        </did><scopecontent id="aspace_06192d241d36843a3619787f2b662ed8">
+          <head>Scope and Content</head>
+          <p>Series 1: Administrative Records contains meeting minutes, agendas, and notices
+            primarily from general membership meetings. Also included are records from the Executive
+            Board and various committees, such as the Membership, Program, Ways and Means, Cultural
+            Projects, Scholarship, and Closing Event Committees. </p>
+          <p>Organized chronologically by year, this series reveals the organization's focus,
+            administrative functioning, and event planning activities, as well as information about
+            its arts advocacy and community outreach efforts in Los Angeles and beyond. Information
+            about League membership and scholarships are also included in this series.</p>
+        </scopecontent><c02 id="aspace_ref4_22m" level="file" score="1" C-ORDER="3"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981, 1982</unitdate>
+            <container id="aspace_5669fc253a6ef5320e02c50dac036409" type="box">1</container>
+            <container id="aspace_c730128dd594fb9a4cb5369fd55db8c0" parent="aspace_5669fc253a6ef5320e02c50dac036409" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref5_bos" level="file" score="1" C-ORDER="4"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984, 1985,
+              1986</unitdate>
+            <container id="aspace_cf8a556ea3c23624bc0e60d51b561828" type="box">1</container>
+            <container id="aspace_de9e6cee084e45c6f144417087192d94" parent="aspace_cf8a556ea3c23624bc0e60d51b561828" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref6_csk" level="file" score="1" C-ORDER="5"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987, 1988</unitdate>
+            <container id="aspace_30a0bfffd4199a7a664967dd1986d3ed" type="box">1</container>
+            <container id="aspace_cbc33b2e0b8178e147c82033ba92d594" parent="aspace_30a0bfffd4199a7a664967dd1986d3ed" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref7_pyt" level="file" score="1" C-ORDER="6"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_76780ddf919cc47aee3fdbc88e5fa8c3" type="box">1</container>
+            <container id="aspace_943dd7ca20f175369f77e3a4841e523c" parent="aspace_76780ddf919cc47aee3fdbc88e5fa8c3" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref8_21v" level="file" score="1" C-ORDER="7"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_0aba3546a939b3a67c99a0349d6247da" type="box">1</container>
+            <container id="aspace_af768b2816a09926ffb39080607a7253" parent="aspace_0aba3546a939b3a67c99a0349d6247da" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref9_1p4" level="file" score="1" C-ORDER="8"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_a1e067f6549cab5cb677fc142a649f72" type="box">1</container>
+            <container id="aspace_3a432b8636732c5aca63ff515f9e073b" parent="aspace_a1e067f6549cab5cb677fc142a649f72" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref10_y1s" level="file" score="1" C-ORDER="9"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_f8686211ad7a37b2890fa0f97bfe09c3" type="box">1</container>
+            <container id="aspace_ed10b660742c0f9a69a7c4a4229f6d48" parent="aspace_f8686211ad7a37b2890fa0f97bfe09c3" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref11_5hi" level="file" score="1" C-ORDER="10"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_ab3f5242fa0992cee0a3be849104df85" type="box">1</container>
+            <container id="aspace_dfd68eecb4bc8d9030c2ddd152291ed1" parent="aspace_ab3f5242fa0992cee0a3be849104df85" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref12_jjm" level="file" score="1" C-ORDER="11"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_13cf578093b8c361c4f974f2672e4aa5" type="box">1</container>
+            <container id="aspace_80bca244d6eb4ea338d96f1c39a814bf" parent="aspace_13cf578093b8c361c4f974f2672e4aa5" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref13_qaf" level="file" score="1" C-ORDER="12"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_3f7f68b426481dfe12b4074e325812e5" type="box">1</container>
+            <container id="aspace_5286707804b17832a490ed7eac74f801" parent="aspace_3f7f68b426481dfe12b4074e325812e5" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref14_c9s" level="file" score="1" C-ORDER="13"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_25daf7268981c09cb91638509a7182e4" type="box">1</container>
+            <container id="aspace_c4c3e87953dce021a9784a9046deb34b" parent="aspace_25daf7268981c09cb91638509a7182e4" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref15_9um" level="file" score="1" C-ORDER="14"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_ee58e04744a7175241635a4edd826240" type="box">1</container>
+            <container id="aspace_a7b5738e5b2260e7135c2cb6958e7a0d" parent="aspace_ee58e04744a7175241635a4edd826240" type="folder">12</container>
+          </did></c02><c02 id="aspace_ref16_4po" level="file" score="1" C-ORDER="15"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_1d4d018942ddd36842f4e50ef89e5dfb" type="box">1</container>
+            <container id="aspace_f6018cb13f246a4cf996cc13f72d4c89" parent="aspace_1d4d018942ddd36842f4e50ef89e5dfb" type="folder">13</container>
+          </did></c02><c02 id="aspace_ref17_wh7" level="file" score="1" C-ORDER="16"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_8609e817375bd96e4ea184d611fb4b0b" type="box">1</container>
+            <container id="aspace_493aad762cf360708057ab884b5e4813" parent="aspace_8609e817375bd96e4ea184d611fb4b0b" type="folder">14</container>
+          </did></c02><c02 id="aspace_ref18_brh" level="file" score="1" C-ORDER="17"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_6712e313aa33791084d1167ee6c50f53" type="box">1</container>
+            <container id="aspace_e7584058bea00c6b2d661cc1de227499" parent="aspace_6712e313aa33791084d1167ee6c50f53" type="folder">15</container>
+          </did></c02><c02 id="aspace_ref19_qoa" level="file" score="1" C-ORDER="18"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_1a36ddb1eabfacd580a9590c9f666be1" type="box">2</container>
+            <container id="aspace_720be3ec1fcc6a0e224d524634ed538d" parent="aspace_1a36ddb1eabfacd580a9590c9f666be1" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref20_5qh" level="file" score="1" C-ORDER="19"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_6831a641f4aefc4c4d843e009454eaea" type="box">2</container>
+            <container id="aspace_15af11e0a62e2294365a81ebc369b4ef" parent="aspace_6831a641f4aefc4c4d843e009454eaea" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref21_iz6" level="file" score="1" C-ORDER="20"><did>
+            <unittitle>Meeting Minutes and Agendas: Retreat</unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_db6b020e3c71dacd9e2cdd24ce15a996" type="box">2</container>
+            <container id="aspace_0e9d8e1796a8fb510beb5010b0a56ee8" parent="aspace_db6b020e3c71dacd9e2cdd24ce15a996" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref22_4jp" level="file" score="1" C-ORDER="21"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_3c4e0378cd905359cd378c861f4d4e8c" type="box">2</container>
+            <container id="aspace_f82e26013cd2fdfa9cc7133a5c89af9a" parent="aspace_3c4e0378cd905359cd378c861f4d4e8c" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref23_k9f" level="file" score="1" C-ORDER="22"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_4faf8488a5dd28309ac340d55921c19b" type="box">2</container>
+            <container id="aspace_cc50f45bb8eafdc5ccf3264a6f56796c" parent="aspace_4faf8488a5dd28309ac340d55921c19b" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref24_qcn" level="file" score="1" C-ORDER="23"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_b933446b4496ca9b607d3dd481a99875" type="box">2</container>
+            <container id="aspace_07cc274a535a96df96bc18cc9f7688fb" parent="aspace_b933446b4496ca9b607d3dd481a99875" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref25_1b8" level="file" score="1" C-ORDER="24"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+            <container id="aspace_4c2b11cf49cd829ba075393b251920a3" type="box">2</container>
+            <container id="aspace_b698a9701b18ec686161175e4ddaae04" parent="aspace_4c2b11cf49cd829ba075393b251920a3" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref26_yz8" level="file" score="1" C-ORDER="25"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_3e84e7a30d0a5c92ef75aa044600cdb5" type="box">2</container>
+            <container id="aspace_457b949007471c96396f9df919cd3ea1" parent="aspace_3e84e7a30d0a5c92ef75aa044600cdb5" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref28_bkr" level="file" score="1" C-ORDER="26"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+            <container id="aspace_a92048b25db21f792f424aea6752b824" type="box">3</container>
+            <container id="aspace_aa966f2989744638b5fb0fb940217cdb" parent="aspace_a92048b25db21f792f424aea6752b824" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref29_oxl" level="file" score="1" C-ORDER="27"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+            <container id="aspace_1a52b2d945ababdfe24efd58c8e5d068" type="box">3</container>
+            <container id="aspace_32311da9f38ff31236cfca8cb9ce602a" parent="aspace_1a52b2d945ababdfe24efd58c8e5d068" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref30_cr9" level="file" score="1" C-ORDER="28"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+            <container id="aspace_a5500d97288cf6485094baa149d4a4ab" type="box">3</container>
+            <container id="aspace_313f9507346beb56e4a86237ca3ca9f6" parent="aspace_a5500d97288cf6485094baa149d4a4ab" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref31_y5s" level="file" score="1" C-ORDER="29"><did>
+            <unittitle>Meeting Minutes and Agendas</unittitle>
+            <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
+            <container id="aspace_bc36812d4e43aa158f801b2b86be5eb6" type="box">3</container>
+            <container id="aspace_51d6e0cba02dc487dd96d8967589521d" parent="aspace_bc36812d4e43aa158f801b2b86be5eb6" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref32_6zs" level="file" score="1" C-ORDER="30"><did>
+            <unittitle>Membership: Poetry, Recipes</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_c51c96f2fb8ead2f00d5dd667bfef22c" type="box">3</container>
+            <container id="aspace_4d4a25f217cca85fe5f779e28d1e64a8" parent="aspace_c51c96f2fb8ead2f00d5dd667bfef22c" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref227_4wl" level="file" score="1" C-ORDER="31"><did>
+            <unittitle>Membership: Yvonne Meo</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_3f05a20730f4f70e4af0cca90ff4d656" type="box">3</container>
+            <container id="aspace_cfe8250bdf4e28101fb93ffb9fd8bc7f" parent="aspace_3f05a20730f4f70e4af0cca90ff4d656" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref228_pmp" level="file" score="1" C-ORDER="32"><did>
+            <unittitle>Membership: Rosters</unittitle>
+            <unitdate datechar="creation" normal="1989/2008" type="inclusive">1989-2008</unitdate>
+            <container id="aspace_b024759c2f79ddfcb36bbcaeb8879a70" type="box">3</container>
+            <container id="aspace_3177e6cd929f876e94ca2f2a0d04a4bc" parent="aspace_b024759c2f79ddfcb36bbcaeb8879a70" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref229_4uk" level="file" score="1" C-ORDER="33"><did>
+            <unittitle>Membership: Questionnaires</unittitle>
+            <unitdate datechar="creation" normal="2001/2007" type="inclusive">2001, 2007</unitdate>
+            <container id="aspace_965543641c4d14e76913edc092d7bc06" type="box">3</container>
+            <container id="aspace_c934fbc4149db19d4cf10945b565dc1c" parent="aspace_965543641c4d14e76913edc092d7bc06" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref230_xcr" level="file" score="1" C-ORDER="34"><did>
+            <unittitle>Membership: Questionnaires</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_89416440f15af7fe181a2f1727b5897e" type="box">3</container>
+            <container id="aspace_9416350a728771aeaf27b1290528579d" parent="aspace_89416440f15af7fe181a2f1727b5897e" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref231_z2r" level="file" score="1" C-ORDER="35"><did>
+            <unittitle>Membership: Obituaries</unittitle>
+            <unitdate datechar="creation" normal="2006/2009" type="inclusive">2006, 2009</unitdate>
+            <container id="aspace_6bff135faed37fbb5172e887efb33947" type="box">3</container>
+            <container id="aspace_f2c39902e362fbeac41c20d240f0476e" parent="aspace_6bff135faed37fbb5172e887efb33947" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref232_rno" level="file" score="1" C-ORDER="36"><did>
+            <unittitle>Membership</unittitle>
+            <unitdate datechar="creation" normal="1998/2001" type="inclusive">1998-2001</unitdate>
+            <container id="aspace_c4ce46e276f3ddc495d5400080e6de11" type="box">3</container>
+            <container id="aspace_65f14d16c976e206eedbaa568cfc54d5" parent="aspace_c4ce46e276f3ddc495d5400080e6de11" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref233_31t" level="file" score="1" C-ORDER="37"><did>
+            <unittitle>Membership</unittitle>
+            <unitdate datechar="creation" normal="1994/2011" type="inclusive">1994-2011</unitdate>
+            <container id="aspace_b37b4d94a8016ad6c61c7502254f9ee6" type="box">3</container>
+            <container id="aspace_2a7f4040875b49ff90fcbe3924dd6e00" parent="aspace_b37b4d94a8016ad6c61c7502254f9ee6" type="folder">12</container>
+          </did></c02><c02 id="aspace_ref234_gud" level="file" score="1" C-ORDER="38"><did>
+            <unittitle>Membership</unittitle>
+            <unitdate datechar="creation" normal="1997/2011" type="inclusive">1997-2011</unitdate>
+            <container id="aspace_24da60652b6ddb5fb3764cea1ce6d7fc" type="box">3</container>
+            <container id="aspace_620b993cca57b2e3165fc8acd8ef8dc7" parent="aspace_24da60652b6ddb5fb3764cea1ce6d7fc" type="folder">13</container>
+          </did></c02><c02 id="aspace_ref235_i90" level="file" score="1" C-ORDER="39"><did>
+            <unittitle>Scholarships</unittitle>
+            <unitdate datechar="creation" normal="1991/2008" type="inclusive">1991-2008</unitdate>
+            <container id="aspace_1c2ce20db2ce7358366f064e2a1da87f" type="box">4</container>
+            <container id="aspace_fbfc386e4066cb8a95ed7a4692aad29e" parent="aspace_1c2ce20db2ce7358366f064e2a1da87f" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref236_7lg" level="file" score="1" C-ORDER="40"><did>
+            <unittitle>Scholarships</unittitle>
+            <unitdate datechar="creation" normal="1996/1999" type="inclusive">1996-1999</unitdate>
+            <container id="aspace_32bd61cd479e55572c42439a2b53527d" type="box">4</container>
+            <container id="aspace_79a81f2f7222dbcb3fd201e92c5e9bc4" parent="aspace_32bd61cd479e55572c42439a2b53527d" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref237_0z6" level="file" score="1" C-ORDER="41"><did>
+            <unittitle>Scholarships</unittitle>
+            <unitdate datechar="creation" normal="1996/2007" type="inclusive">1996-2007</unitdate>
+            <container id="aspace_902ff0e0649e2083d6a9ce87e1022d71" type="box">4</container>
+            <container id="aspace_d63a5b218658663a7435f13ddc9ecf6b" parent="aspace_902ff0e0649e2083d6a9ce87e1022d71" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref238_t00" level="file" score="1" C-ORDER="42"><did>
+            <unittitle>Scholarships</unittitle>
+            <unitdate datechar="creation" normal="1997/2006" type="inclusive">1997-2006</unitdate>
+            <container id="aspace_84e54f444332c0f197eb3c564c3fad00" type="box">4</container>
+            <container id="aspace_a7a7ea77103d6afade7eedafb4d7d135" parent="aspace_84e54f444332c0f197eb3c564c3fad00" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref239_oz2" level="file" score="1" C-ORDER="43"><did>
+            <unittitle>Scholarships</unittitle>
+            <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000, 2001</unitdate>
+            <container id="aspace_0b395f2592a14d870cd9ce0a9c656588" type="box">4</container>
+            <container id="aspace_c01aa427359acbe630ebc02f7eac3530" parent="aspace_0b395f2592a14d870cd9ce0a9c656588" type="folder">5</container>
+          </did></c02></c01>
+      <c01 id="aspace_ref2_n0d" level="series" score="2" C-ORDER="44"><did>
+          <unittitle>Series 2: Financial</unittitle>
+          <unitdate datechar="creation" normal="1969/2011" type="inclusive">1969-2011</unitdate>
+        </did><scopecontent id="aspace_e46643a601469defad4ba423cc873ffe">
+          <head>Scope and Content</head>
+          <p>Series 2: Financial contains information about the fiscal activities of the League.
+            Organized chronologically by year, this series includes treasurer's reports, budget
+            reports, closing event reports, charitable donations, statements of income and expenses,
+            requests for payments, and breakdown of funds.</p>
+        </scopecontent><c02 id="aspace_ref33_0zr" level="file" score="1" C-ORDER="46"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate>
+            <container id="aspace_95d9450f896e22e7e865824f4a85424f" type="box">4</container>
+            <container id="aspace_cb7a6ef826bac306f748bf847347fd3a" parent="aspace_95d9450f896e22e7e865824f4a85424f" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref34_o5h" level="file" score="1" C-ORDER="47"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_b8818c9d1962755775a1270bc2f1ada6" type="box">4</container>
+            <container id="aspace_17e150e88fcdf5bc6a173f2493119b44" parent="aspace_b8818c9d1962755775a1270bc2f1ada6" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref35_999" level="file" score="1" C-ORDER="48"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_71a41131414a5ee24da0045a81f51011" type="box">4</container>
+            <container id="aspace_440066945ef4dc410734e4a4f80a2166" parent="aspace_71a41131414a5ee24da0045a81f51011" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref36_2cz" level="file" score="1" C-ORDER="49"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_4d2d31afa5ee3035186add2906c8980d" type="box">4</container>
+            <container id="aspace_33dc5e1a75895ef820edada67fbf0336" parent="aspace_4d2d31afa5ee3035186add2906c8980d" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref37_kyh" level="file" score="1" C-ORDER="50"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_4153b3ea78245b7cfd8f09c5df3479b6" type="box">4</container>
+            <container id="aspace_56ac7ae3a7fcc702f93bcf82b4c1910d" parent="aspace_4153b3ea78245b7cfd8f09c5df3479b6" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref42_yim" level="file" score="1" C-ORDER="51"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_fbc9c961715bfcbb00d63af36ec93ef7" type="box">5</container>
+            <container id="aspace_183eb4665be7556baaa03f48c544046c" parent="aspace_fbc9c961715bfcbb00d63af36ec93ef7" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref43_ivs" level="file" score="1" C-ORDER="52"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_b2417496065807128225ba98d9eeafdc" type="box">5</container>
+            <container id="aspace_2ae4e69706e1910262bb8b2c375b0c64" parent="aspace_b2417496065807128225ba98d9eeafdc" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref44_r5w" level="file" score="1" C-ORDER="53"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_d783c7d833af236643397f1f585861d6" type="box">5</container>
+            <container id="aspace_47022fdb59263dbb5c502a070ae396a9" parent="aspace_d783c7d833af236643397f1f585861d6" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref45_j41" level="file" score="1" C-ORDER="54"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997, 1998</unitdate>
+            <container id="aspace_2380cccd413ab6a9b92d51fdb29280c3" type="box">5</container>
+            <container id="aspace_22d1061484961f3991357d13ede57df6" parent="aspace_2380cccd413ab6a9b92d51fdb29280c3" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref46_stl" level="file" score="1" C-ORDER="55"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_38ee42307d9196d592d7b75ac44312c0" type="box">5</container>
+            <container id="aspace_4ee2ceccd30b8f3dc9428216e840af89" parent="aspace_38ee42307d9196d592d7b75ac44312c0" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref47_3wa" level="file" score="1" C-ORDER="56"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_f51519e77db4d0064d104d741c8226b2" type="box">5</container>
+            <container id="aspace_414a8f5366a32952679abdf3017cf05f" parent="aspace_f51519e77db4d0064d104d741c8226b2" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref48_l8l" level="file" score="1" C-ORDER="57"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_20fab94f8053fe2383c90986ea4036cb" type="box">5</container>
+            <container id="aspace_030e9287b41ca3dff220b9bebe98cfb7" parent="aspace_20fab94f8053fe2383c90986ea4036cb" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref49_sre" level="file" score="1" C-ORDER="58"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_65ba75409c14683bf693065303e3cca4" type="box">5</container>
+            <container id="aspace_4cdca8e7f79615290f1faf6459064785" parent="aspace_65ba75409c14683bf693065303e3cca4" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref50_jzf" level="file" score="1" C-ORDER="59"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_6da0aeafb05860a80413b01c5efd9188" type="box">5</container>
+            <container id="aspace_bd42a7303047d27e03ce5465f603e6ff" parent="aspace_6da0aeafb05860a80413b01c5efd9188" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref51_gjg" level="file" score="1" C-ORDER="60"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_4ddcefa59308c7a68225fb8a91c63a26" type="box">5</container>
+            <container id="aspace_098a86b2cc773cc6848b85f2fe1780dc" parent="aspace_4ddcefa59308c7a68225fb8a91c63a26" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref52_780" level="file" score="1" C-ORDER="61"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_0fdced2f024738d59838fbdf135635b2" type="box">5</container>
+            <container id="aspace_399508806b5bdcefee4af4c3fe050223" parent="aspace_0fdced2f024738d59838fbdf135635b2" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref62_x5w" level="file" score="1" C-ORDER="62"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_2c48435227da2598b11010a2a5886a4a" type="box">6</container>
+            <container id="aspace_8bab8daff20b3e181b94da974285bcdf" parent="aspace_2c48435227da2598b11010a2a5886a4a" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref63_gfv" level="file" score="1" C-ORDER="63"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+            <container id="aspace_c29d432965e78d8b9a55614a9a39de12" type="box">6</container>
+            <container id="aspace_7a2e0fa3ba01c91a09e7390022044e6e" parent="aspace_c29d432965e78d8b9a55614a9a39de12" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref64_hd0" level="file" score="1" C-ORDER="64"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+            <container id="aspace_ee1ed4f04c1aa6d2eafa178997205f74" type="box">6</container>
+            <container id="aspace_ad672752bd85d9861427cebcae414c90" parent="aspace_ee1ed4f04c1aa6d2eafa178997205f74" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref65_als" level="file" score="1" C-ORDER="65"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+            <container id="aspace_ee15f8f77817b27c27ad80c829e570fb" type="box">6</container>
+            <container id="aspace_7832f038c9db9ea7c1a04214187019dd" parent="aspace_ee15f8f77817b27c27ad80c829e570fb" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref66_o90" level="file" score="1" C-ORDER="66"><did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
+            <container id="aspace_2c4409431d9d37b82df82cc08239781e" type="box">6</container>
+            <container id="aspace_babd6d2c5888cb176faa95ae1bc351eb" parent="aspace_2c4409431d9d37b82df82cc08239781e" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref67_mfi" level="file" score="1" C-ORDER="67"><did>
+            <unittitle>Expenses: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1969/1973" type="inclusive">1969-1973</unitdate>
+            <container id="aspace_6775e841bfd11da3f59b3b37e8124df4" type="box">6</container>
+            <container id="aspace_1dbb31115bf0135258fd7b1f423180e8" parent="aspace_6775e841bfd11da3f59b3b37e8124df4" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref68_9a3" level="file" score="1" C-ORDER="68"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container id="aspace_324aeebf47c58de206950be472c9d815" type="box">6</container>
+            <container id="aspace_ea50b0fa8449ac66960e75b3e84b53f7" parent="aspace_324aeebf47c58de206950be472c9d815" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref69_byo" level="file" score="1" C-ORDER="69"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_6d60ebc4a016ac20b380ecb3782ce9dc" type="box">6</container>
+            <container id="aspace_4379e1946f942c12246fc05241b15d3e" parent="aspace_6d60ebc4a016ac20b380ecb3782ce9dc" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref70_t36" level="file" score="1" C-ORDER="70"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_2c81f75619d1fee292f600e4441c5c5b" type="box">6</container>
+            <container id="aspace_f701c21063cd8e8bc0e38c8388b62024" parent="aspace_2c81f75619d1fee292f600e4441c5c5b" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref71_kv4" level="file" score="1" C-ORDER="71"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_9ba15ff9cbc516615953d6a8df679983" type="box">6</container>
+            <container id="aspace_ba7a976f9585fca5b2ea8501865e63d5" parent="aspace_9ba15ff9cbc516615953d6a8df679983" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref72_zv5" level="file" score="1" C-ORDER="72"><did>
+            <unittitle>Expenses: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1993/1998" type="inclusive">1993-1998</unitdate>
+            <container id="aspace_7046d730bd41d88c6b7612312dd33c08" type="box">6</container>
+            <container id="aspace_e663dfeeba2682ba97a0376834e89f05" parent="aspace_7046d730bd41d88c6b7612312dd33c08" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref73_cym" level="file" score="1" C-ORDER="73"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993, 1994</unitdate>
+            <container id="aspace_57aab43de289042407c63ca671cb20e4" type="box">6</container>
+            <container id="aspace_8b63abb1dfd93325ed6a468867b36b2a" parent="aspace_57aab43de289042407c63ca671cb20e4" type="folder">12</container>
+          </did></c02><c02 id="aspace_ref74_w4r" level="file" score="1" C-ORDER="74"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995, 1996,
+              1997</unitdate>
+            <container id="aspace_cb2ae4e19a7f5b6860ed047674497bd2" type="box">6</container>
+            <container id="aspace_124db15b0156702c0233b66ea3cc6e14" parent="aspace_cb2ae4e19a7f5b6860ed047674497bd2" type="folder">13</container>
+          </did></c02><c02 id="aspace_ref75_8f9" level="file" score="1" C-ORDER="75"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_a9f5489b0b39e2972c2902d75bc41b24" type="box">6</container>
+            <container id="aspace_e2569a0bc5635d21bfd383d4843a645b" parent="aspace_a9f5489b0b39e2972c2902d75bc41b24" type="folder">14</container>
+          </did></c02><c02 id="aspace_ref76_hu7" level="file" score="1" C-ORDER="76"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_680203551688acad7170fcbe49a6ad54" type="box">6</container>
+            <container id="aspace_9f35191ed9751f6acb3f986b22a43011" parent="aspace_680203551688acad7170fcbe49a6ad54" type="folder">15</container>
+          </did></c02><c02 id="aspace_ref77_32f" level="file" score="1" C-ORDER="77"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_edcc0252323d1fa0614f89ae9503816f" type="box">7</container>
+            <container id="aspace_6bed2fb87f624ffeaf430062da98a01a" parent="aspace_edcc0252323d1fa0614f89ae9503816f" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref78_6ho" level="file" score="1" C-ORDER="78"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_3035023a24fd70822c662810544af49a" type="box">7</container>
+            <container id="aspace_9aae01717bb23556a9d7f49eb53eee46" parent="aspace_3035023a24fd70822c662810544af49a" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref79_vwq" level="file" score="1" C-ORDER="79"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_50cac75426e13f98d9124301a2838606" type="box">7</container>
+            <container id="aspace_ff63327f62d326f4661959d86e00b1a9" parent="aspace_50cac75426e13f98d9124301a2838606" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref80_6x1" level="file" score="1" C-ORDER="80"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_af1bf73bf3fbc10e0de9347709b01622" type="box">7</container>
+            <container id="aspace_0e7208dc1b3ee4b781ce4bb42219e972" parent="aspace_af1bf73bf3fbc10e0de9347709b01622" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref81_aao" level="file" score="1" C-ORDER="81"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_6620758631899b9c5f2fe8aabd9e0e38" type="box">7</container>
+            <container id="aspace_19317464f6eddcd79d6eea5d86b7f199" parent="aspace_6620758631899b9c5f2fe8aabd9e0e38" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref82_bwb" level="file" score="1" C-ORDER="82"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_20f2429ae5764f4969718480114778a4" type="box">7</container>
+            <container id="aspace_3956e1cec1f8bb5cfcc64246d5ed7c0f" parent="aspace_20f2429ae5764f4969718480114778a4" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref83_f8c" level="file" score="1" C-ORDER="83"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_7a513564f225c120bfdfa39b0c3ef75f" type="box">7</container>
+            <container id="aspace_b6f838bd24fdeff2232fb622f19a53b8" parent="aspace_7a513564f225c120bfdfa39b0c3ef75f" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref84_u61" level="file" score="1" C-ORDER="84"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_3a48075e5829654f8632e63124483247" type="box">7</container>
+            <container id="aspace_aab71aa577dbe5e635393b99f75d4cec" parent="aspace_3a48075e5829654f8632e63124483247" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref85_ipl" level="file" score="1" C-ORDER="85"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_97bdb03402ec91922e94efeb13253046" type="box">7</container>
+            <container id="aspace_07dde3d22030229b5f06db0a4fd06749" parent="aspace_97bdb03402ec91922e94efeb13253046" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref86_byt" level="file" score="1" C-ORDER="86"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_a7e984c27ded9ca584c0fa66d2c3c8c6" type="box">7</container>
+            <container id="aspace_0fc36e006772e94f71616bd4e55b8d8a" parent="aspace_a7e984c27ded9ca584c0fa66d2c3c8c6" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref87_3xf" level="file" score="1" C-ORDER="87"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_8111c8b777c37b3859a7a77070a01160" type="box">7</container>
+            <container id="aspace_1aef07eb01ccdcf48310642597d52104" parent="aspace_8111c8b777c37b3859a7a77070a01160" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref88_bkr" level="file" score="1" C-ORDER="88"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+            <container id="aspace_5ba88948d5b90e04bbdb0837534a55d6" type="box">8</container>
+            <container id="aspace_8371a82bb5f66a2403be8eaf2f35e5da" parent="aspace_5ba88948d5b90e04bbdb0837534a55d6" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref89_uf7" level="file" score="1" C-ORDER="89"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_4083aabe0c68919ee1f87d730eced89e" type="box">8</container>
+            <container id="aspace_59d0f8cbdb38c7b0448be9f8c46f87bb" parent="aspace_4083aabe0c68919ee1f87d730eced89e" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref90_64g" level="file" score="1" C-ORDER="90"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+            <container id="aspace_bf724e66532fade9d1cd86b91b05efc9" type="box">8</container>
+            <container id="aspace_7fd09ae89a4ca5d97797653fe644b2e9" parent="aspace_bf724e66532fade9d1cd86b91b05efc9" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref91_jek" level="file" score="1" C-ORDER="91"><did>
+            <unittitle>Expenses</unittitle>
+            <unitdate datechar="creation" normal="2009/2010" type="inclusive">2009, 2010</unitdate>
+            <container id="aspace_e863a1c6d9e084abbb96bfa854b8a2aa" type="box">8</container>
+            <container id="aspace_6e8c25b96ad19024b8b4f7d0f1dd51a9" parent="aspace_e863a1c6d9e084abbb96bfa854b8a2aa" type="folder">4</container>
+          </did></c02></c01>
+      <c01 id="aspace_ref3_fu1" level="series" score="2" C-ORDER="92"><did>
+          <unittitle>Series 3: Public Relations</unittitle>
+          <unitdate datechar="creation" normal="1940/2011" type="inclusive">1940-2011</unitdate>
+        </did><scopecontent id="aspace_249c0579bc94804b704df76c4bb7b93c">
+          <head>Scope and Content</head>
+          <p>Series 3: Public Relations contains ephemera such as programs, announcements,
+            invitations, response cards, and fliers from League events. Some highlights include
+            invitations for the League's yearly closing events; a program for the art exhibit <emph render="italic">Treasures of Ancient Nigeria</emph> at the California Museum of
+            Science and Industry; announcements for Patti LaBelle and Althea Waites concerts as well
+            as receptions in honor of opera singer Denyce Graves and civil rights activist Roy
+            Wilkins; and programs for the League's 60th and 65th Anniversary galas. This series also
+            contains information about art related events in the Los Angeles community as well as
+            newspaper clippings featuring the League of Allied Arts.</p>
+        </scopecontent><c02 id="aspace_ref92_kiw" level="file" score="1" C-ORDER="94"><did>
+            <unittitle>Events: Burr Singer</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_a65777f71cc23d4ceaee8de7c11ed520" type="box">8</container>
+            <container id="aspace_9ba28d15ed16c5b4756d1576104ad37e" parent="aspace_a65777f71cc23d4ceaee8de7c11ed520" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref93_0wh" level="file" score="1" C-ORDER="95"><did>
+            <unittitle>Events: William Grant Still</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_47f129631b62c48c881c8165eedb2876" type="box">8</container>
+            <container id="aspace_6d1e425ac37aeee698a4dba221724214" parent="aspace_47f129631b62c48c881c8165eedb2876" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref94_jl1" level="file" score="1" C-ORDER="96"><did>
+            <unittitle>Events: The 5th Dimension</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_67bed2fb6926cf79891f9ecc92bd691f" type="box">8</container>
+            <container id="aspace_92fe92b4736a7de7c678bffee86e8804" parent="aspace_67bed2fb6926cf79891f9ecc92bd691f" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref95_ls0" level="file" score="1" C-ORDER="97"><did>
+            <unittitle>Events: Dr. Joseph H. Howard</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_f380375fc3f94422c769c0a7ed80015f" type="box">8</container>
+            <container id="aspace_08cb7a1ef9c3ee0892d65e646e0731dc" parent="aspace_f380375fc3f94422c769c0a7ed80015f" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref96_bdm" level="file" score="1" C-ORDER="98"><did>
+            <unittitle>Events:<emph render="italic"> Ain't Misbehavin' </emph></unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_68a5b9ed68e1676653b8b6d4b527986f" type="box">8</container>
+            <container id="aspace_13a3ade3b92955c6eeac272e2646b983" parent="aspace_68a5b9ed68e1676653b8b6d4b527986f" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref97_f9u" level="file" score="1" C-ORDER="99"><did>
+            <unittitle>Events: <emph render="italic">Treasures of Ancient Nigeria</emph>, Roy
+              Wilkins</unittitle>
+            <unitdate datechar="creation" normal="1980/1982" type="inclusive">1980, 1981,
+              1982</unitdate>
+            <container id="aspace_b0499c28e7b0ee2644eb62af31aa4ed8" type="box">8</container>
+            <container id="aspace_0e8455a5d0ff19f95a2d644316644fa6" parent="aspace_b0499c28e7b0ee2644eb62af31aa4ed8" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref98_nvi" level="file" score="1" C-ORDER="100"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="1985/1989" type="inclusive">1985, 1986, 1987,
+              1988, 1989</unitdate>
+            <container id="aspace_43f221e2bb20eff45dfb9530a4df92ca" type="box">8</container>
+            <container id="aspace_9318dcc59e8e8fd435f5e509aa20d9db" parent="aspace_43f221e2bb20eff45dfb9530a4df92ca" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref99_me4" level="file" score="1" C-ORDER="101"><did>
+            <unittitle>Events: Althea Waites</unittitle>
+            <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990, 1991</unitdate>
+            <container id="aspace_d70c8ac9a1e870b903be3468c82e5dac" type="box">8</container>
+            <container id="aspace_349795afb550b08698ade55db5a72181" parent="aspace_d70c8ac9a1e870b903be3468c82e5dac" type="folder">12</container>
+          </did></c02><c02 id="aspace_ref100_hmo" level="file" score="1" C-ORDER="102"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_72788365e940f1184923dc92a93416ec" type="box">8</container>
+            <container id="aspace_2004b8873aabda840b6979a90d556d11" parent="aspace_72788365e940f1184923dc92a93416ec" type="folder">13</container>
+          </did></c02><c02 id="aspace_ref101_h2m" level="file" score="1" C-ORDER="103"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_38f474ee064648192b6e628f179f17e6" type="box">8</container>
+            <container id="aspace_975f23316b59a99d8b896fddd71783da" parent="aspace_38f474ee064648192b6e628f179f17e6" type="folder">14</container>
+          </did></c02><c02 id="aspace_ref102_goo" level="file" score="1" C-ORDER="104"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_686135fbecec964e908148523a71a633" type="box">8</container>
+            <container id="aspace_8d9449f94495c5a9bd0c9a2f155315a5" parent="aspace_686135fbecec964e908148523a71a633" type="folder">15</container>
+          </did></c02><c02 id="aspace_ref103_qj1" level="file" score="1" C-ORDER="105"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_055d15b35119f9941b13a1d3a1c07d04" type="box">8</container>
+            <container id="aspace_234eac912aa5850dfac4c23921bd4473" parent="aspace_055d15b35119f9941b13a1d3a1c07d04" type="folder">16</container>
+          </did></c02><c02 id="aspace_ref104_ou2" level="file" score="1" C-ORDER="106"><did>
+            <unittitle>Events: Gertrude Rivers Robinson</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_80c783ca074a46759d007467541ca8a5" type="box">8</container>
+            <container id="aspace_0fd6944280af0a9ae2c72cdbe0934ef8" parent="aspace_80c783ca074a46759d007467541ca8a5" type="folder">17</container>
+          </did></c02><c02 id="aspace_ref105_jk2" level="file" score="1" C-ORDER="107"><did>
+            <unittitle>Events: Patti LaBelle</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_b3a091bec447ff96145553c6cf4d1177" type="box">8</container>
+            <container id="aspace_3d47c6d3c46f9b7faf8da2d45de21d79" parent="aspace_b3a091bec447ff96145553c6cf4d1177" type="folder">18</container>
+          </did></c02><c02 id="aspace_ref106_hfu" level="file" score="1" C-ORDER="108"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_8041374bbb936c6b1d66be6e2a0db179" type="box">8</container>
+            <container id="aspace_83b764186a58ac42e501d673b237c95a" parent="aspace_8041374bbb936c6b1d66be6e2a0db179" type="folder">19</container>
+          </did></c02><c02 id="aspace_ref107_w46" level="file" score="1" C-ORDER="109"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_00ad83044e670ade5c0723d96aa475e4" type="box">9</container>
+            <container id="aspace_0125a749465294e45af06b883c2a58c2" parent="aspace_00ad83044e670ade5c0723d96aa475e4" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref108_o4p" level="file" score="1" C-ORDER="110"><did>
+            <unittitle>Events: 60th Anniversary</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_155044675c0f66c7ebcf6997d96fb192" type="box">9</container>
+            <container id="aspace_75fde2b06f282c924718999bcd868f21" parent="aspace_155044675c0f66c7ebcf6997d96fb192" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref109_dkm" level="file" score="1" C-ORDER="111"><did>
+            <unittitle>Events: Paris</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_c8159affe1041efafc804c59ab208109" type="box">9</container>
+            <container id="aspace_bfa4ca287e6e82c4f5bfcd42202889ef" parent="aspace_c8159affe1041efafc804c59ab208109" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref110_9o0" level="file" score="1" C-ORDER="112"><did>
+            <unittitle>Events: BEEM Foundation, Marion Maddox</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_1173412d7f77ea86bae29d670dc1ff8f" type="box">9</container>
+            <container id="aspace_078bbf4b86c3b61d7e378c9011f99926" parent="aspace_1173412d7f77ea86bae29d670dc1ff8f" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref111_7uc" level="file" score="1" C-ORDER="113"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_94eea0e398b3368643a4d9cb63d1635a" type="box">9</container>
+            <container id="aspace_6a35bbe529e372f853da69f73c519172" parent="aspace_94eea0e398b3368643a4d9cb63d1635a" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref112_nqr" level="file" score="1" C-ORDER="114"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_d49d1e9efc42075ce04fb6ae1d14ed5a" type="box">9</container>
+            <container id="aspace_61772c0e96b0e63cc382cc3df3b11e6c" parent="aspace_d49d1e9efc42075ce04fb6ae1d14ed5a" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref113_a0e" level="file" score="1" C-ORDER="115"><did>
+            <unittitle>Events: Denyce Graves</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_eb03ec54965b56fd5c16beb8abab2966" type="box">9</container>
+            <container id="aspace_d290ec7e5f5f13057e4c1ae094f2b4ab" parent="aspace_eb03ec54965b56fd5c16beb8abab2966" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref114_qap" level="file" score="1" C-ORDER="116"><did>
+            <unittitle>Events: 65th Anniversary, Langston Hughes</unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_b15f3cebaa54ac17d39389662c53892e" type="box">9</container>
+            <container id="aspace_e07804ce2f1cd69e9314fa6e89bc9d7d" parent="aspace_b15f3cebaa54ac17d39389662c53892e" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref115_2ut" level="file" score="1" C-ORDER="117"><did>
+            <unittitle>Events: August Wilson</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_d8cda3fa71125584fc21fc454016b095" type="box">9</container>
+            <container id="aspace_b1eab8636dd4876316c1fd436d6e2fe1" parent="aspace_d8cda3fa71125584fc21fc454016b095" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref116_xk0" level="file" score="1" C-ORDER="118"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_fb3d6c27ee63b1f1955b2c85d71a8497" type="box">9</container>
+            <container id="aspace_b7dc12f144610ccbd80b24901c94c722" parent="aspace_fb3d6c27ee63b1f1955b2c85d71a8497" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref117_jyf" level="file" score="1" C-ORDER="119"><did>
+            <unittitle>Events: Long Beach Museum of Art</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+            <container id="aspace_32009ad9da46373975078fb4871af42f" type="box">9</container>
+            <container id="aspace_52f0af5cbefa5360cb6a932aef2e546a" parent="aspace_32009ad9da46373975078fb4871af42f" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref118_wcd" level="file" score="1" C-ORDER="120"><did>
+            <unittitle>Events: The Huntington Library, Langston Hughes</unittitle>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_03f82cb8384907a2a9224b5acf74c05d" type="box">9</container>
+            <container id="aspace_9766b724d859f7643bb7587fd5114899" parent="aspace_03f82cb8384907a2a9224b5acf74c05d" type="folder">12</container>
+          </did></c02><c02 id="aspace_ref119_b2e" level="file" score="1" C-ORDER="121"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+            <container id="aspace_376cfc0beddc9402ee04d45f2bbde65b" type="box">10</container>
+            <container id="aspace_f1c87021af46d9e281c8a009b388f8c9" parent="aspace_376cfc0beddc9402ee04d45f2bbde65b" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref120_gbo" level="file" score="1" C-ORDER="122"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+            <container id="aspace_5f02526ad73855e714a92f74cd7ff21e" type="box">10</container>
+            <container id="aspace_f6aa36d40cce372dde0e3a8e6a976770" parent="aspace_5f02526ad73855e714a92f74cd7ff21e" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref121_cub" level="file" score="1" C-ORDER="123"><did>
+            <unittitle>Events: 70th Anniversary</unittitle>
+            <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+            <container id="aspace_d894bd0e058af3824b987932dc23dc48" type="box">10</container>
+            <container id="aspace_25ccf9a5b0b10cdb00b9f7ebdab54b9a" parent="aspace_d894bd0e058af3824b987932dc23dc48" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref122_g2c" level="file" score="1" C-ORDER="124"><did>
+            <unittitle>Events</unittitle>
+            <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
+            <container id="aspace_c296ad98696d8b3e45abadee0c1621de" type="box">10</container>
+            <container id="aspace_15f7694b40e17ed6fab1b5baffa7b8f2" parent="aspace_c296ad98696d8b3e45abadee0c1621de" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref123_g6q" level="file" score="1" C-ORDER="125"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1941/1979" type="inclusive">1941, 1963,
+              1979</unitdate>
+            <container id="aspace_a49aea6bee323b394c788d1d125596b3" type="box">10</container>
+            <container id="aspace_ed9b830d8b68b1e88d1d3287d48924b6" parent="aspace_a49aea6bee323b394c788d1d125596b3" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref124_giq" level="file" score="1" C-ORDER="126"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1973/1985" type="inclusive">1973,
+              1978-1985</unitdate>
+            <container id="aspace_c79ced55c96e989a85da9e662c573cbb" type="box">10</container>
+            <container id="aspace_301c0aaac8ed01e9b487b4414e4b6511" parent="aspace_c79ced55c96e989a85da9e662c573cbb" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref125_rap" level="file" score="1" C-ORDER="127"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1984/2009" type="inclusive">1984-2009</unitdate>
+            <container id="aspace_1631bbea436b2723751a9b528942615d" type="box">10</container>
+            <container id="aspace_ac7a0792128f204c00d2afc770c96b63" parent="aspace_1631bbea436b2723751a9b528942615d" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref126_k5u" level="file" score="1" C-ORDER="128"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <container id="aspace_3b50883570292a4afcd21b6715121bc9" type="box">10</container>
+            <container id="aspace_d24428609d8b2c689d459377075c7ae7" parent="aspace_3b50883570292a4afcd21b6715121bc9" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref127_jdp" level="file" score="1" C-ORDER="129"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_0636031cc864177e5201627ca2bd52dd" type="box">10</container>
+            <container id="aspace_77014d423316b178ed836ac18417095f" parent="aspace_0636031cc864177e5201627ca2bd52dd" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref128_85j" level="file" score="1" C-ORDER="130"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_f453ca4424f3c0b59481cabcc87425b4" type="box">10</container>
+            <container id="aspace_77fa1ebdff5954e471f66877291c05de" parent="aspace_f453ca4424f3c0b59481cabcc87425b4" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref129_6st" level="file" score="1" C-ORDER="131"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_46878ee3267728db36740a6cbad643af" type="box">10</container>
+            <container id="aspace_6a34b4924017d44ad6181a0c206da75f" parent="aspace_46878ee3267728db36740a6cbad643af" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref130_el2" level="file" score="1" C-ORDER="132"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_b74ca5eff3b9625c4121e373f7ca0d9f" type="box">10</container>
+            <container id="aspace_6eddc937c10d2978232d8bd8145e67cb" parent="aspace_b74ca5eff3b9625c4121e373f7ca0d9f" type="folder">12</container>
+          </did></c02><c02 id="aspace_ref131_pid" level="file" score="1" C-ORDER="133"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_fd7ae41c32cea7ed530369bc8b60b196" type="box">10</container>
+            <container id="aspace_d4c72651730033234ba1c9b75e9e4541" parent="aspace_fd7ae41c32cea7ed530369bc8b60b196" type="folder">13</container>
+          </did></c02><c02 id="aspace_ref132_rvd" level="file" score="1" C-ORDER="134"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_04464d3e65325588fe13caf26fa0e142" type="box">10</container>
+            <container id="aspace_2625dff59b1ef06da1f52b7d3444596b" parent="aspace_04464d3e65325588fe13caf26fa0e142" type="folder">14</container>
+          </did></c02><c02 id="aspace_ref133_k30" level="file" score="1" C-ORDER="135"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="2001/2007" type="inclusive">2001-2007</unitdate>
+            <container id="aspace_a84b80833abe1483f6bb8eb044850c82" type="box">10</container>
+            <container id="aspace_d5f95bb22d8505e211a9009a995b7a5f" parent="aspace_a84b80833abe1483f6bb8eb044850c82" type="folder">15</container>
+          </did></c02><c02 id="aspace_ref134_xbz" level="file" score="1" C-ORDER="136"><did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+            <container id="aspace_9e3cf7aa5c2d8e417a368868c078ad69" type="box">10</container>
+            <container id="aspace_4cf3e6e2530b4894a29b3afa2f0a2eaa" parent="aspace_9e3cf7aa5c2d8e417a368868c078ad69" type="folder">16</container>
+          </did></c02><c02 id="aspace_ref135_abp" level="file" score="1" C-ORDER="137"><did>
+            <unittitle>Advertisement</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_40dc7efb326a8d668b5e9533f4bea8bd" type="box">10</container>
+            <container id="aspace_971ee8c6f6d403ea64ca66c946fb4a4d" parent="aspace_40dc7efb326a8d668b5e9533f4bea8bd" type="folder">17</container>
+          </did></c02><c02 id="aspace_ref136_zev" level="file" score="1" C-ORDER="138"><did>
+            <unittitle>Logo</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_33e8839ac88776053e2fcaface8321e9" type="box">10</container>
+            <container id="aspace_9461e3b9ef4d71ba84b7a9c9032461ab" parent="aspace_33e8839ac88776053e2fcaface8321e9" type="folder">18</container>
+          </did></c02></c01>
+      <c01 id="aspace_ref139_sss" level="series" score="2" C-ORDER="139"><did>
+          <unittitle>Series 4: Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1980/2010" type="inclusive">1980-2010</unitdate>
+        </did><scopecontent id="aspace_a779e377601a5138ebb26a8d48a1876d">
+          <head>Scope and Content</head>
+          <p>Series 4: Correspondence contains letters, memos, cards, and printed emails sent by the
+            League to its membership, political figures, and various vendors. Also includes internal
+            correspondence from League presidents Antoinette Atkinson, Dorothy Thornhill, and Carol
+            Hall Holliday.</p>
+        </scopecontent><c02 id="aspace_ref140_c8m" level="file" score="1" C-ORDER="141"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_75f293b642616464b3b2029a082c697a" type="box">10</container>
+            <container id="aspace_4a6f42d70ba3e42ea3087dd000d8bd80" parent="aspace_75f293b642616464b3b2029a082c697a" type="folder">19</container>
+          </did></c02><c02 id="aspace_ref141_r5w" level="file" score="1" C-ORDER="142"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate>
+            <container id="aspace_a18a3f7430d7759aa9de03c96850159c" type="box">10</container>
+            <container id="aspace_014cfc37be2b49a93c149b7857981497" parent="aspace_a18a3f7430d7759aa9de03c96850159c" type="folder">20</container>
+          </did></c02><c02 id="aspace_ref142_dp5" level="file" score="1" C-ORDER="143"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+            <container id="aspace_b45e00b6328be472bd889c6ef4df1165" type="box">10</container>
+            <container id="aspace_86b182abe8eca98174cb282a2f029fa5" parent="aspace_b45e00b6328be472bd889c6ef4df1165" type="folder">21</container>
+          </did></c02><c02 id="aspace_ref143_mfr" level="file" score="1" C-ORDER="144"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container id="aspace_4c68a518aa7c73f090da2a74b06011a0" type="box">10</container>
+            <container id="aspace_c4d9a4e3ac3d96c9298fad6e46e880b7" parent="aspace_4c68a518aa7c73f090da2a74b06011a0" type="folder">22</container>
+          </did></c02><c02 id="aspace_ref144_kz7" level="file" score="1" C-ORDER="145"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container id="aspace_d0a4a0ef718500464aae7a273a28b70c" type="box">10</container>
+            <container id="aspace_29bdd148411be69a8ff8441d73ec945d" parent="aspace_d0a4a0ef718500464aae7a273a28b70c" type="folder">23</container>
+          </did></c02><c02 id="aspace_ref145_1bx" level="file" score="1" C-ORDER="146"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2000/2002" type="inclusive">2000- 2002</unitdate>
+            <container id="aspace_65820299ebc150dfea4122d3d7ee0cdc" type="box">10</container>
+            <container id="aspace_5710f2f84c0155e9bd7c999ca2db541e" parent="aspace_65820299ebc150dfea4122d3d7ee0cdc" type="folder">24</container>
+          </did></c02><c02 id="aspace_ref146_iuu" level="file" score="1" C-ORDER="147"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_183c50e8810c1d9fec1111bed71c057e" type="box">11</container>
+            <container id="aspace_bbce1907e0004b33eb5b7831acdca450" parent="aspace_183c50e8810c1d9fec1111bed71c057e" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref147_ni3" level="file" score="1" C-ORDER="148"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_be0a37a4140cde8636049e0b79a0f33d" type="box">11</container>
+            <container id="aspace_5f3e6e56cc97980b9c0e85ca208ab2a0" parent="aspace_be0a37a4140cde8636049e0b79a0f33d" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref148_a3g" level="file" score="1" C-ORDER="149"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_ed73ddac2066fddcf302402bc8f8ce68" type="box">11</container>
+            <container id="aspace_fd29d353e9250db3d59feff8ddf659ff" parent="aspace_ed73ddac2066fddcf302402bc8f8ce68" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref149_u8q" level="file" score="1" C-ORDER="150"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+            <container id="aspace_46fcc0034980ab8d1a4001a8d979a571" type="box">11</container>
+            <container id="aspace_ac049aa061a449eb430145e6975b7531" parent="aspace_46fcc0034980ab8d1a4001a8d979a571" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref150_6hp" level="file" score="1" C-ORDER="151"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_396213cf7277b8d1467a5b142a10a86b" type="box">11</container>
+            <container id="aspace_0c844e968dfb8456e83d2773ff6bfd79" parent="aspace_396213cf7277b8d1467a5b142a10a86b" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref151_g7x" level="file" score="1" C-ORDER="152"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+            <container id="aspace_7f843ad6ae54da7b8648a44d291c1c27" type="box">11</container>
+            <container id="aspace_b8f474f4322aea5f9db69d94dd535905" parent="aspace_7f843ad6ae54da7b8648a44d291c1c27" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref152_lif" level="file" score="1" C-ORDER="153"><did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2009/2010" type="inclusive">2009-2010</unitdate>
+            <container id="aspace_dfe21804a3f4227ef77fe921cb0e79e1" type="box">11</container>
+            <container id="aspace_85e9f378d143cf7856b7983c73af879f" parent="aspace_dfe21804a3f4227ef77fe921cb0e79e1" type="folder">7</container>
+          </did></c02></c01>
+      <c01 id="aspace_ref153_ngm" level="series" score="2" C-ORDER="154"><did>
+          <unittitle>Series 5: Historical Information</unittitle>
+          <unitdate datechar="creation" normal="1943/2007" type="inclusive">1943-2007</unitdate>
+        </did><scopecontent id="aspace_6bbbf6a14d7aed490486c60a74bf7d96">
+          <head>Scope and Content</head>
+          <p>Series 5: Historical Information contains various versions of the history of the League
+            of Allied Arts written by members as well as the organization's constitution. This
+            series also contains scrapbooks created by League members, which visually presents the
+            League's chronological history through photographs, event ephemera, and newspaper
+            clippings.</p>
+        </scopecontent><c02 id="aspace_ref154_uuh" level="file" score="1" C-ORDER="156"><did>
+            <unittitle>League Constitution</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_a3bbeef0049656ced7614231a810278d" type="box">11</container>
+            <container id="aspace_630128f3dedc76cba52b69b8e1239cf5" parent="aspace_a3bbeef0049656ced7614231a810278d" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref155_7i7" level="file" score="1" C-ORDER="157"><did>
+            <unittitle>League Constitution</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_ba799e99f4d270cfe9cbc121c241adcf" type="box">11</container>
+            <container id="aspace_b75dc4fd075d5ca9c326c7b85ac91379" parent="aspace_ba799e99f4d270cfe9cbc121c241adcf" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref156_o20" level="file" score="1" C-ORDER="158"><did>
+            <unittitle>League History: Miriam Matthews</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_10555295db13e13967c98a7b5546fa5e" type="box">11</container>
+            <container id="aspace_3f22456b7f64b2b813630917408e8e4b" parent="aspace_10555295db13e13967c98a7b5546fa5e" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref157_dao" level="file" score="1" C-ORDER="159"><did>
+            <unittitle>League History: Marion Maddox</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_52908c5fbf9ac4048abbdac25f8e474f" type="box">11</container>
+            <container id="aspace_d035c9c95eacc30ea53b0cd599d4fa3d" parent="aspace_52908c5fbf9ac4048abbdac25f8e474f" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref158_97x" level="file" score="1" C-ORDER="160"><did>
+            <unittitle>League History</unittitle>
+            <unitdate datechar="creation" normal="1973/1981" type="inclusive">1973-1981</unitdate>
+            <container id="aspace_a4783b8b7a19c1b4d95083c8fa3e60f2" type="box">11</container>
+            <container id="aspace_3f966ea7ffcfdd4bf08cf7fcb72dc8ac" parent="aspace_a4783b8b7a19c1b4d95083c8fa3e60f2" type="folder">12</container>
+          </did></c02><c02 id="aspace_ref159_au1" level="file" score="1" C-ORDER="161"><did>
+            <unittitle>League History</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_a8057f9bfd39e0edf3b2a72c5f8dbaa3" type="box">11</container>
+            <container id="aspace_7ed7c3f1c3c5bb14def03594a949c206" parent="aspace_a8057f9bfd39e0edf3b2a72c5f8dbaa3" type="folder">13</container>
+          </did></c02><c02 id="aspace_ref160_3nm" level="file" score="1" C-ORDER="162"><did>
+            <unittitle>League Constitutions and Membership</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_47944ac4f558dfd7e6434aab69d96439" type="box">11</container>
+            <container id="aspace_54ccddf2b7ef020943bf0d5311719cee" parent="aspace_47944ac4f558dfd7e6434aab69d96439" type="folder">14</container>
+          </did></c02><c02 id="aspace_ref161_8la" level="file" score="1" C-ORDER="163"><did>
+            <unittitle>League History</unittitle>
+            <unitdate datechar="creation" normal="1993/2004" type="inclusive">1993-1995, 1997-2001,
+              2003, 2004</unitdate>
+            <container id="aspace_1dd472483991c7d6ea90f1c818ad60ad" type="box">11</container>
+            <container id="aspace_7c21900529ac465685166e9e0da74b32" parent="aspace_1dd472483991c7d6ea90f1c818ad60ad" type="folder">15</container>
+          </did></c02><c02 id="aspace_ref162_o7b" level="file" score="1" C-ORDER="164"><did>
+            <unittitle>League History: Dorothy Vena Johnson</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">Undated,
+              2006</unitdate>
+            <container id="aspace_c7402b2fe58ce1638f67116207a80754" type="box">12</container>
+            <container id="aspace_2367c7334405790dcf96d3e0b0b3878f" parent="aspace_c7402b2fe58ce1638f67116207a80754" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref163_wz3" level="file" score="1" C-ORDER="165"><did>
+            <unittitle>League History</unittitle>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_f7a2f847a594a8b65ea83e9e30b17c9e" type="box">12</container>
+            <container id="aspace_be726ed443c56008c4f8bb384ae9b4ec" parent="aspace_f7a2f847a594a8b65ea83e9e30b17c9e" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref164_ds3" level="file" score="1" C-ORDER="166"><did>
+            <unittitle>Scrapbooks: William Grant Still, Jacob Lawrence, Aaron Douglas, Alice Taylor
+              Gafford</unittitle>
+            <unitdate datechar="creation" normal="1943/1956" type="inclusive">1943-1956</unitdate>
+            <container id="aspace_567cd95794f1391d7a5280f2e988f356" type="box">12</container>
+            <container id="aspace_e3bc7ce4a0c5ec4eae360000934e5909" parent="aspace_567cd95794f1391d7a5280f2e988f356" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref165_leq" level="file" score="1" C-ORDER="167"><did>
+            <unittitle>Scrapbooks: Langston Hughes, Buddy Collette, Jacqueline Kennedy</unittitle>
+            <unitdate datechar="creation" normal="1957/1965" type="inclusive">1957-1965</unitdate>
+            <container id="aspace_10fcfdb84a4d1369b4d12fa69b333f99" type="box">12</container>
+            <container id="aspace_905ba8caa79efe2061c52fadf6bad8ba" parent="aspace_10fcfdb84a4d1369b4d12fa69b333f99" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref166_rj6" level="file" score="1" C-ORDER="168"><did>
+            <unittitle>Scrapbooks: Loren Miller, Alice Taylor Gafford</unittitle>
+            <unitdate datechar="creation" normal="1966/1969" type="inclusive">1966-1969</unitdate>
+            <container id="aspace_2f650faa32ed79e6a1a60eb7c7905b74" type="box">12</container>
+            <container id="aspace_e161250d6547955c0b96a1654c26efa3" parent="aspace_2f650faa32ed79e6a1a60eb7c7905b74" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref167_ama" level="file" score="1" C-ORDER="169"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1970/1975" type="inclusive">1970-1975</unitdate>
+            <container id="aspace_31ad36662289222e0c7291444b890de0" type="box">12</container>
+            <container id="aspace_5e9896ee21463833524bec7cc53572b9" parent="aspace_31ad36662289222e0c7291444b890de0" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref168_vor" level="file" score="1" C-ORDER="170"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_481c7e5984dddd1c7e614a4b0d5edd32" type="box">12</container>
+            <container id="aspace_07e74a3fe1977678e7bb28b7d1e1fe4f" parent="aspace_481c7e5984dddd1c7e614a4b0d5edd32" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref169_49d" level="file" score="1" C-ORDER="171"><did>
+            <unittitle>Scrapbooks: Mrs. Ralph J. Bunche</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_5b3d7d2c10a8157698b4cd44412de9eb" type="box">12</container>
+            <container id="aspace_afab2c9f25202251324e11f3192e4d0f" parent="aspace_5b3d7d2c10a8157698b4cd44412de9eb" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref170_jqv" level="file" score="1" C-ORDER="172"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_56f381b047be5a85dc7ed7f4bcc6539d" type="box">12</container>
+            <container id="aspace_dbe6aff4da1e285db44b68f0dd68a902" parent="aspace_56f381b047be5a85dc7ed7f4bcc6539d" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref171_328" level="file" score="1" C-ORDER="173"><did>
+            <unittitle>Scrapbooks: Thelma Houston, Jane Aileen Floyd, Our Authors Study
+              Club</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976, 1977</unitdate>
+            <container id="aspace_a829b3d0e7a2baeaaeb96835813cd551" type="box">13</container>
+            <container id="aspace_c377e78712029f2eb5402368c01be8a1" parent="aspace_a829b3d0e7a2baeaaeb96835813cd551" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref172_2pe" level="file" score="1" C-ORDER="174"><did>
+            <unittitle>Scrapbooks: Treasures of Tutankhamun</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_8b2e4be8902615f4396e14668da5b77e" type="box">13</container>
+            <container id="aspace_1156bf4e0f5d922986c7a35ea5e481db" parent="aspace_8b2e4be8902615f4396e14668da5b77e" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref173_0kq" level="file" score="1" C-ORDER="175"><did>
+            <unittitle>Scrapbooks: Richard Hunt, Frances Johnson Barnes</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_888d7165cb2cc15b444ab0c401b60ce0" type="box">13</container>
+            <container id="aspace_9961d37277c9e71d811c3fde0fd5d647" parent="aspace_888d7165cb2cc15b444ab0c401b60ce0" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref174_dhp" level="file" score="1" C-ORDER="176"><did>
+            <unittitle>Scrapbooks: <emph render="italic">Ain't Misbehavin'</emph></unittitle>
+            <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979, 1980</unitdate>
+            <container id="aspace_46319b400ac479e68184081752914321" type="box">13</container>
+            <container id="aspace_1cf07a6c7a956e95c9096ad60f7a514c" parent="aspace_46319b400ac479e68184081752914321" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref175_d79" level="file" score="1" C-ORDER="177"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1980/1981" type="inclusive">1980, 1981</unitdate>
+            <container id="aspace_588851d59cbd3c70cd4bd73ba96bba36" type="box">13</container>
+            <container id="aspace_752b8e626001e1014c43579930f332a6" parent="aspace_588851d59cbd3c70cd4bd73ba96bba36" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref176_27n" level="file" score="1" C-ORDER="178"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1982/1986" type="inclusive">1982, 1984,
+              1986</unitdate>
+            <container id="aspace_218eb022e196718f588fa4bf42ab6c49" type="box">13</container>
+            <container id="aspace_c2624e8aa7954dac2bf3d41fce9eee50" parent="aspace_218eb022e196718f588fa4bf42ab6c49" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref179_f8l" level="file" score="1" C-ORDER="179"><did>
+            <unittitle>Scrapbooks (1 of 9)</unittitle>
+            <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990, 1991</unitdate>
+            <container id="aspace_a5abebecae6d9df67be23354204869ba" type="box">15</container>
+            <container id="aspace_87e2d5ce711e3bfb50b53f154c53bace" parent="aspace_a5abebecae6d9df67be23354204869ba" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref180_qoh" level="file" score="1" C-ORDER="180"><did>
+            <unittitle>Scrapbooks (2 of 9)</unittitle>
+            <unitdate datechar="creation" normal="1991/1994" type="inclusive">1991-1994</unitdate>
+            <container id="aspace_274aa47177fe58f5316a5b1243e92f91" type="box">15</container>
+            <container id="aspace_ff28b599ede1d8b9dd1b25ad9d4cdfb5" parent="aspace_274aa47177fe58f5316a5b1243e92f91" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref181_hug" level="file" score="1" C-ORDER="181"><did>
+            <unittitle>Scrapbooks (3 of 9)</unittitle>
+            <unitdate datechar="creation" normal="1994/1996" type="inclusive">1994-1996</unitdate>
+            <container id="aspace_40972d11e97da06020bdf279a35ba026" type="box">15</container>
+            <container id="aspace_5a80c33d94be580a9511200e0475fbcb" parent="aspace_40972d11e97da06020bdf279a35ba026" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref182_mom" level="file" score="1" C-ORDER="182"><did>
+            <unittitle>Scrapbooks (4 of 9)</unittitle>
+            <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996, 1997</unitdate>
+            <container id="aspace_58d00fa7cd9b7ff63a3a58efc2bc01eb" type="box">15</container>
+            <container id="aspace_09484a8deb79087b8bf60ab94994df9e" parent="aspace_58d00fa7cd9b7ff63a3a58efc2bc01eb" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref183_ec2" level="file" score="1" C-ORDER="183"><did>
+            <unittitle>Scrapbooks (5 of 9)</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_4f9beaa9988b54d063bec56de4c9ba25" type="box">15</container>
+            <container id="aspace_5258e57467c4ca75e864f74178e9b0aa" parent="aspace_4f9beaa9988b54d063bec56de4c9ba25" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref184_bdl" level="file" score="1" C-ORDER="184"><did>
+            <unittitle>Scrapbooks (6 of 9)</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_99d2d918c7ef45763a41258d43981737" type="box">15</container>
+            <container id="aspace_a23898a5939f5765270a5722c4e0401d" parent="aspace_99d2d918c7ef45763a41258d43981737" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref185_x6t" level="file" score="1" C-ORDER="185"><did>
+            <unittitle>Scrapbooks (7 of 9)</unittitle>
+            <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996, 1997</unitdate>
+            <container id="aspace_11088daa3a225870b33181943d154b0d" type="box">15</container>
+            <container id="aspace_7ccfefd3df097ee6fb475766dcffe1ce" parent="aspace_11088daa3a225870b33181943d154b0d" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref186_0ft" level="file" score="1" C-ORDER="186"><did>
+            <unittitle>Scrapbooks (8 of 9)</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_b329385cf8ffd873fdf95ef4ccb5e074" type="box">15</container>
+            <container id="aspace_102cc361bec978f5741c02d453e391c7" parent="aspace_b329385cf8ffd873fdf95ef4ccb5e074" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref187_1to" level="file" score="1" C-ORDER="187"><did>
+            <unittitle>Scrapbooks (9 of 9)</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_687e3030958565b800ddc679cb4d91c3" type="box">15</container>
+            <container id="aspace_7961d90bb461537632bd60323630dc8e" parent="aspace_687e3030958565b800ddc679cb4d91c3" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref188_ley" level="file" score="1" C-ORDER="188"><did>
+            <unittitle>Awards</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_b8dbe61be88680cdb49fd7734bc83116" type="box">15</container>
+            <container id="aspace_395362a837704d828687e2d55a87d5ba" parent="aspace_b8dbe61be88680cdb49fd7734bc83116" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref189_xiq" level="file" score="1" C-ORDER="189"><did>
+            <unittitle>Awards</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_79c4d84e06d0894c30ff957b3b550cc1" type="box">15</container>
+            <container id="aspace_d5d0bc722437c6991e2da5a56957b5c1" parent="aspace_79c4d84e06d0894c30ff957b3b550cc1" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref190_ysq" level="file" score="1" C-ORDER="190"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_424bca052d6a541eac6a545a710e7142" type="box">16</container>
+            <container id="aspace_6602c73668ce43ad8f58063659a495e4" parent="aspace_424bca052d6a541eac6a545a710e7142" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref191_k3w" level="file" score="1" C-ORDER="191"><did>
+            <unittitle>Scrapbooks: Misty Copeland</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_ced505844950abe21296b017cc9c184f" type="box">16</container>
+            <container id="aspace_530c9b0f325c7662ccb0e7e7910a0a5d" parent="aspace_ced505844950abe21296b017cc9c184f" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref192_8p9" level="file" score="1" C-ORDER="192"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_0f12e227f7b53020e70cdbf905732b5e" type="box">16</container>
+            <container id="aspace_fed3563566cc58ad063eab48b3957ef0" parent="aspace_0f12e227f7b53020e70cdbf905732b5e" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref193_gkt" level="file" score="1" C-ORDER="193"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_065108851680f3928adecfbd347606aa" type="box">16</container>
+            <container id="aspace_10046be5dde5e3c88efd53837bf3d712" parent="aspace_065108851680f3928adecfbd347606aa" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref194_zk5" level="file" score="1" C-ORDER="194"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_3b3ec27403a34bc0d9f9eeb2de3c4975" type="box">16</container>
+            <container id="aspace_3095e234c88d560038d01d4c2484bc00" parent="aspace_3b3ec27403a34bc0d9f9eeb2de3c4975" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref195_vyn" level="file" score="1" C-ORDER="195"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000, 2001</unitdate>
+            <container id="aspace_328409b9f2fef2c75719355ebcf20abb" type="box">16</container>
+            <container id="aspace_c9602c46c5387523014756193d2ce24d" parent="aspace_328409b9f2fef2c75719355ebcf20abb" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref196_fhu" level="file" score="1" C-ORDER="196"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999, 2000</unitdate>
+            <container id="aspace_67073642b9e924606683b53c716563ff" type="box">16</container>
+            <container id="aspace_4b902047049108487474c9b6dd53eb9d" parent="aspace_67073642b9e924606683b53c716563ff" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref197_x70" level="file" score="1" C-ORDER="197"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1999/2007" type="inclusive">1999, 2000,
+              2007</unitdate>
+            <container id="aspace_6d0d2acf5e33a064034fb16916d84fe7" type="box">16</container>
+            <container id="aspace_c0da0182c378ea94a90558be5de8a914" parent="aspace_6d0d2acf5e33a064034fb16916d84fe7" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref198_rmx" level="file" score="1" C-ORDER="198"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_bf44e508c973e9e0433fb03f0aa410e4" type="box">16</container>
+            <container id="aspace_bc2e72e22b05705866d99203eb1f2578" parent="aspace_bf44e508c973e9e0433fb03f0aa410e4" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref199_gdc" level="file" score="1" C-ORDER="199"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001, 2002</unitdate>
+            <container id="aspace_a912a6919630cea0446469b48e579e77" type="box">16</container>
+            <container id="aspace_4d0c79cd900b6bee016e49bb14da75d4" parent="aspace_a912a6919630cea0446469b48e579e77" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref200_40b" level="file" score="1" C-ORDER="200"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002, 2003</unitdate>
+            <container id="aspace_70c259753eedce1d9eba0bbf8e319488" type="box">16</container>
+            <container id="aspace_25bdaf28fe4884db8e0aaac138404dbb" parent="aspace_70c259753eedce1d9eba0bbf8e319488" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref201_2ym" level="file" score="1" C-ORDER="201"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002, 2003</unitdate>
+            <container id="aspace_8eb0fd3a3d0d5c4c610fc42e830a5bd2" type="box">16</container>
+            <container id="aspace_6f5c43ad660c4260ece81d8371d48e31" parent="aspace_8eb0fd3a3d0d5c4c610fc42e830a5bd2" type="folder">12</container>
+          </did></c02><c02 id="aspace_ref202_6xy" level="file" score="1" C-ORDER="202"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2000/2003" type="inclusive">2000-2003</unitdate>
+            <container id="aspace_6b6df08c8997457d4378ef062e630645" type="box">16</container>
+            <container id="aspace_4086154e35874af946771daea8a20b76" parent="aspace_6b6df08c8997457d4378ef062e630645" type="folder">13</container>
+          </did></c02><c02 id="aspace_ref203_zgo" level="file" score="1" C-ORDER="203"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_7eb99f1831d539d0f10817a682907017" type="box">16</container>
+            <container id="aspace_8e042d518e8a1250dbfed57419090e08" parent="aspace_7eb99f1831d539d0f10817a682907017" type="folder">14</container>
+          </did></c02><c02 id="aspace_ref204_3ew" level="file" score="1" C-ORDER="204"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2004/2006" type="inclusive">2004-2006</unitdate>
+            <container id="aspace_3bf6d3261904cb3d959b3b4ad075a0c5" type="box">16</container>
+            <container id="aspace_c471236c6489dcf92b297a22d8a1af85" parent="aspace_3bf6d3261904cb3d959b3b4ad075a0c5" type="folder">15</container>
+          </did></c02><c02 id="aspace_ref205_07u" level="file" score="1" C-ORDER="205"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2000/2002" type="inclusive">2000-2002</unitdate>
+            <container id="aspace_fa35e1004d46683c9b265edff2dde633" type="box">16</container>
+            <container id="aspace_6b67c173891955c16d2b0a2113fb6179" parent="aspace_fa35e1004d46683c9b265edff2dde633" type="folder">16</container>
+          </did></c02><c02 id="aspace_ref206_ini" level="file" score="1" C-ORDER="206"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2004/2007" type="inclusive">2004-2007</unitdate>
+            <container id="aspace_a67c4362b8e7efc990789baaf92063a7" type="box">16</container>
+            <container id="aspace_4c4cb508cab6fad3e6609c488bb473eb" parent="aspace_a67c4362b8e7efc990789baaf92063a7" type="folder">17</container>
+          </did></c02><c02 id="aspace_ref207_5mr" level="file" score="1" C-ORDER="207"><did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="2001/2005" type="inclusive">2001, 2005</unitdate>
+            <container id="aspace_e1699dcc28a4225499af9426adf99323" type="box">16</container>
+            <container id="aspace_2db9a33707e13b1c216d0f1d4b5533cf" parent="aspace_e1699dcc28a4225499af9426adf99323" type="folder">18</container>
+          </did></c02><c02 id="aspace_ref247_mg9" level="file" score="1" C-ORDER="208"><did>
+            <unittitle>Awards</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_50037b2abaaacacbf3a866f428213d67" type="box">17</container>
+            <container id="aspace_1df73201fc812e6e6991f44ad603918a" parent="aspace_50037b2abaaacacbf3a866f428213d67" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref248_9r6" level="file" score="1" C-ORDER="209"><did>
+            <unittitle>Awards</unittitle>
+            <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+            <container id="aspace_c00072baeca5e712a01646bace34fd3e" type="box">17</container>
+            <container id="aspace_0e9268d2a1816231fbb6b263b54fec33" parent="aspace_c00072baeca5e712a01646bace34fd3e" type="folder">2</container>
+          </did></c02></c01>
+      <c01 id="aspace_ref208_874" level="series" score="3" C-ORDER="210"><did>
+          <unittitle>Series 6: Photographs and Media</unittitle>
+          <unitdate datechar="creation" normal="1967/2008" type="inclusive">1967-2008</unitdate>
+        </did><scopecontent id="aspace_9b473e25cf9553cb2c0e9eeb4dbdd427">
+          <head>Scope and Contents</head>
+          <p>Series 6: Photographs &amp; Media contains photographs of the League of Allied Arts
+            members and events, including closing events. The series also contains photographic
+            slides as well as audio and video recordings of a limited number of League events.</p>
+        </scopecontent><phystech id="aspace_3898b1df27bfdfc5e4eff3d7a04920f2">
+          <head>Physical Characteristics and Technical Requirements</head>
+          <p>CONTAINS AUDIOVISUAL MATERIALS: This collection contains both processed and unprocessed
+            audiovisual materials. For information about the access status of the material that you
+            are looking for, refer to the Physical Characteristics and Technical Requirements note
+            at the series and file levels. All requests to access processed audiovisual materials
+            must be made in advance using the request button located on this page.</p>
+        </phystech><c02 id="aspace_ref210_qx4" level="file" score="1" C-ORDER="213"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_2b0911b4f47277e18be1c471694aa384" type="box">13</container>
+            <container id="aspace_4b01e07466fb788f460b80e40432a6af" parent="aspace_2b0911b4f47277e18be1c471694aa384" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref211_0dy" level="file" score="1" C-ORDER="214"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_d5a5984673cefe7a4cb6463d4690872a" type="box">13</container>
+            <container id="aspace_38fac946147bb8c5ca377424e81436ef" parent="aspace_d5a5984673cefe7a4cb6463d4690872a" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref212_84g" level="file" score="1" C-ORDER="215"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_8bef33d91f9506eb0991c4c2a755cf0b" type="box">14</container>
+            <container id="aspace_92203c7a9549d816b32bfe64e8886790" parent="aspace_8bef33d91f9506eb0991c4c2a755cf0b" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref213_tp6" level="file" score="1" C-ORDER="216"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_4980736f37c5da8a3e251e1b03874987" type="box">14</container>
+            <container id="aspace_a8495de5323ebeed258787eb0220f91f" parent="aspace_4980736f37c5da8a3e251e1b03874987" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref214_q2s" level="file" score="1" C-ORDER="217"><did>
+            <unittitle>Photographs: Alice Taylor Gafford, Ruth Warrick</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_abad0faac0052027d897400568d79959" type="box">14</container>
+            <container id="aspace_85d11f72306761a0054a03b62bb95970" parent="aspace_abad0faac0052027d897400568d79959" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref215_n6n" level="file" score="1" C-ORDER="218"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1970/1978" type="inclusive">1970, 1975,
+              1978</unitdate>
+            <container id="aspace_66de1a865ac8679a9eef1526c6424ae8" type="box">14</container>
+            <container id="aspace_aef9a22c3e43b99368314b92706a3047" parent="aspace_66de1a865ac8679a9eef1526c6424ae8" type="folder">4</container>
+          </did></c02><c02 id="aspace_ref216_0ml" level="file" score="1" C-ORDER="219"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1980/1987" type="inclusive">1980S</unitdate>
+            <container id="aspace_b7aef8699240dae5594e6e3a255aafa0" type="box">14</container>
+            <container id="aspace_b5f39e75b411095fcb619035a3dca611" parent="aspace_b7aef8699240dae5594e6e3a255aafa0" type="folder">5</container>
+          </did></c02><c02 id="aspace_ref217_x07" level="file" score="1" C-ORDER="220"><did>
+            <unittitle>Photographs: Closing Event</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_e63b28854eee0d69950268c7398cbe3d" type="box">14</container>
+            <container id="aspace_32f4c45d69c792f434548fda1aced11f" parent="aspace_e63b28854eee0d69950268c7398cbe3d" type="folder">6</container>
+          </did></c02><c02 id="aspace_ref218_bl4" level="file" score="1" C-ORDER="221"><did>
+            <unittitle>Photographs: Closing Event</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_07013350fdd7df7803c59e139b5a2c50" type="box">14</container>
+            <container id="aspace_6bc6b7ff9297f4f8cdd7749512453a7d" parent="aspace_07013350fdd7df7803c59e139b5a2c50" type="folder">7</container>
+          </did></c02><c02 id="aspace_ref219_kpe" level="file" score="1" C-ORDER="222"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_968368a3c42814e7b884008208737831" type="box">14</container>
+            <container id="aspace_1ea04458c5d95c0f5cbefc14e0fd9e12" parent="aspace_968368a3c42814e7b884008208737831" type="folder">8</container>
+          </did></c02><c02 id="aspace_ref220_wru" level="file" score="1" C-ORDER="223"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_39625dc51ccddb5d2d73430f6eecd14c" type="box">14</container>
+            <container id="aspace_280a1c064fd5f4a84e45716d939e40f2" parent="aspace_39625dc51ccddb5d2d73430f6eecd14c" type="folder">9</container>
+          </did></c02><c02 id="aspace_ref221_792" level="file" score="1" C-ORDER="224"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_6c1b8102f6de144555067c611895b408" type="box">14</container>
+            <container id="aspace_7c7f97c8d43f739182bb55ad2b7e471b" parent="aspace_6c1b8102f6de144555067c611895b408" type="folder">10</container>
+          </did></c02><c02 id="aspace_ref222_mix" level="file" score="1" C-ORDER="225"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994, 1995</unitdate>
+            <container id="aspace_27063041e3624a049a18252ad459ca6a" type="box">14</container>
+            <container id="aspace_cba0d4d966cb79ebe1b9a84a72682ab1" parent="aspace_27063041e3624a049a18252ad459ca6a" type="folder">11</container>
+          </did></c02><c02 id="aspace_ref223_h9i" level="file" score="1" C-ORDER="226"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_dd8ff2d47a528ca0810c0115fe03b44c" type="box">14</container>
+            <container id="aspace_fe7d04eb9ac87cbd0f324b84d1faf119" parent="aspace_dd8ff2d47a528ca0810c0115fe03b44c" type="folder">12</container>
+          </did></c02><c02 id="aspace_ref224_dtd" level="file" score="1" C-ORDER="227"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_734055ea20e5f9726014f214f37abf05" type="box">14</container>
+            <container id="aspace_54e3701885e0f3dd4f7552e4dc6b7a18" parent="aspace_734055ea20e5f9726014f214f37abf05" type="folder">13</container>
+          </did></c02><c02 id="aspace_ref225_62z" level="file" score="1" C-ORDER="228"><did>
+            <unittitle>Photographs: August Wilson</unittitle>
+            <unitdate datechar="creation" normal="1989/2003" type="inclusive">1989, 2003</unitdate>
+            <container id="aspace_ee0485117340003f0e2e0480adf7e7e9" type="box">14</container>
+            <container id="aspace_0830e93161f19383568332b5e1808863" parent="aspace_ee0485117340003f0e2e0480adf7e7e9" type="folder">14</container>
+          </did></c02><c02 id="aspace_ref226_kem" level="file" score="1" C-ORDER="229"><did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="2003/2008" type="inclusive">2003-2006,
+              2008</unitdate>
+            <container id="aspace_e8c3f95d60ac5921b10f1b5a297ec8d8" type="box">14</container>
+            <container id="aspace_6ac6a157b79b2f4325e6bb37adc82449" parent="aspace_e8c3f95d60ac5921b10f1b5a297ec8d8" type="folder">15</container>
+          </did></c02><c02 id="aspace_ref265_3kb" level="file" score="1" C-ORDER="230"><did>
+            <unittitle>Media: Slides</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_558621584150335aeb81145f334be83a" type="box">18</container>
+            <container id="aspace_d2def7f02539cec8d40d55eb66d0166b" parent="aspace_558621584150335aeb81145f334be83a" type="folder">1</container>
+          </did></c02><c02 id="aspace_ref266_9i8" level="file" score="1" C-ORDER="231"><did>
+            <unittitle>Media: Slides</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_75edc61062fd08eb32188cc903790d4d" type="box">18</container>
+            <container id="aspace_554a68713ba6c385d612d2ff86781293" parent="aspace_75edc61062fd08eb32188cc903790d4d" type="folder">2</container>
+          </did></c02><c02 id="aspace_ref267_9o7" level="file" score="1" C-ORDER="232"><did>
+            <unittitle>Media: Slides</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_71e1a75019ea5e9c96711f5c19e31546" type="box">18</container>
+            <container id="aspace_150a5ff371003638fb69ee8e1410edac" parent="aspace_71e1a75019ea5e9c96711f5c19e31546" type="folder">3</container>
+          </did></c02><c02 id="aspace_ref268_w01" level="file" score="1" C-ORDER="233"><did>
+            <unittitle>Media: Open Reel Tapes</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_4b99c26c5ab7d8ba7b4e774f237fcaaf" type="box">18</container>
+            <container id="aspace_60165635f65c78e49ceeb4a4223853fc" parent="aspace_4b99c26c5ab7d8ba7b4e774f237fcaaf" type="folder">4</container>
+          </did><c03 id="aspace_03fc1c07b3a87f2b0faed79aecc53226" level="item" score="3" C-ORDER="234"><did>
+              <unittitle>Dorothy Vena Johnson Memorial Program</unittitle>
+              <unitid>yrlsc_1856_018_004_001a</unitid>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Sound
+                  Recordings</extent><extent altrender="carrier">(1 1/4 inch audiotape; Duration:
+                  0:55:45)</extent></physdesc>
+              <unitdate certainty="approximate" datechar="creation" normal="1970/1970">circa
+                1970</unitdate>
+              <container id="aspace_9f14ad71cf3fadde598744f3533a1056" type="box">18</container>
+              <container id="aspace_c8958271fc099d82cbf69f2f1433a71a" parent="aspace_9f14ad71cf3fadde598744f3533a1056" type="case">4</container>
+            </did><phystech id="aspace_459acc61ae5dcb0856471bebd33a5076">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials are available for access. All
+                requests to access digital materials must be made in advance using the request
+                button located on this page.</p>
+            </phystech><scopecontent id="aspace_b8899d5b4efaa0166dba9ee449a54dfa">
+              <head>Scope and Contents</head>
+              <p>Content Note: Memorial program for founder and first president of the League of
+                Allied Arts, Dorothy Vena Johnson</p>
+            </scopecontent></c03><c03 id="aspace_30c84944a8da6a1939bef1341dd7be6b" level="item" score="3" C-ORDER="237"><did>
+              <unittitle>Dorothy Vena Johnson Memorial Program</unittitle>
+              <unitid>yrlsc_1856_018_004_001b</unitid>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Sound
+                  Recordings</extent><extent altrender="carrier">(1 1/4 inch audiotape; Duration:
+                  0:28:19)</extent></physdesc>
+              <unitdate certainty="approximate" datechar="creation" normal="1970/1970">circa
+                1970</unitdate>
+              <container id="aspace_838716e46e80b3f73e130a4dba1cb06c" type="box">18</container>
+              <container id="aspace_5a3607d529c789af40b7f86aa5b81c54" parent="aspace_838716e46e80b3f73e130a4dba1cb06c" type="case">4</container>
+            </did><phystech id="aspace_8c4062685bd0c6c349f853a74af97e67">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials are available for access. All
+                requests to access digital materials must be made in advance using the request
+                button located on this page.</p>
+            </phystech><scopecontent id="aspace_f128fbe6e20ccb98ee9194783d77ccc8">
+              <head>Scope and Contents</head>
+              <p>Content Note: Memorial program for founder and first president of the League of
+                Allied Arts, Dorothy Vena Johnson.</p>
+            </scopecontent></c03><c03 id="aspace_484878866a83a13d878ea7d7788bbcd3" level="item" score="3" C-ORDER="240"><did>
+              <unittitle>Robert Watt French Horn Demonstration</unittitle>
+              <unitid>yrlsc_1856_018_004_002</unitid>
+              <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Sound
+                  Recordings</extent><extent altrender="carrier">(1 1/4 inch audiotape; Duration:
+                  0:47:29)</extent></physdesc>
+              <unitdate datechar="creation" normal="1975-02-13/1975-02-13">1975 February
+                13</unitdate>
+              <container id="aspace_841293211cca1f533441a939dea05157" type="box">18</container>
+              <container id="aspace_096df61e90f8271da239a9b86573071c" parent="aspace_841293211cca1f533441a939dea05157" type="case">4</container>
+            </did><phystech id="aspace_219354db176f3fd493f39ba7c852508e">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials are available for access. All
+                requests to access digital materials must be made in advance using the request
+                button located on this page.</p>
+            </phystech><scopecontent id="aspace_ea80d3ea7ca4068c3ee55c2c9aaf7ea4">
+              <head>Scope and Contents</head>
+              <p>Transcribed from container: "Lecture on French Horn, accompanied by three of his
+                students for League of Allied Arts."</p>
+            </scopecontent></c03></c02><c02 id="aspace_ref269_1i1" level="file" score="2" C-ORDER="243"><did>
+            <unittitle>Media: DVDs and VHS</unittitle>
+            <unitdate datechar="creation" normal="2004/2007" type="inclusive">Undated, 2004, 2006,
+              2007</unitdate>
+            <container id="aspace_f7c8eae25e1f89c8755693b2e722944a" type="box">18</container>
+            <container id="aspace_4827c87a3a48cd9ac3420279e766f51e" parent="aspace_f7c8eae25e1f89c8755693b2e722944a" type="folder">5</container>
+          </did><scopecontent id="aspace_443e9e09f6b2a182ecad91af0a769e2c">
+            <head>Scope and Content</head>
+            <p>4 DVDs: "League of Allied Arts, October 17, 2004, DVD Presentation, Created by South
+              Street Studios," 10/17/2004 2 DVDs: "League of Allied Arts Corporation, Founded 1939,
+              62nd Scholarship Awards Luncheon 6/11/2006," 2006 VHS tape: "Krista Selico
+              626.844.6994," Undated</p>
+          </scopecontent></c02><c02 id="aspace_ref270_dbd" level="file" score="2" C-ORDER="245"><did>
+            <unittitle>Media: Compact Audio Cassettes</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">Undated,
+              1999</unitdate>
+            <container id="aspace_b1b394570c345dce50270ce347617540" type="box">18</container>
+            <container id="aspace_d7ec1760fb65bbeb7782de7136e02857" parent="aspace_b1b394570c345dce50270ce347617540" type="folder">6</container>
+          </did><scopecontent id="aspace_0c48ecfe689bff64ec64f091918ff8a7">
+            <head>Scope and Content</head>
+            <p>Audio: Compact Cassette: Untitled, Undated, 60 MIN, TDK Audio: Compact Cassette:
+              "League of Allied Arts 10/10/1999" (CD 1: Cuts 1-13), 10/10/1999, 60 MIN, Unknown
+              Manufacturer Audio: Compact Cassette: "League of Allied Arts 10/10/1999" (CD 2: Cuts
+              1-16), 10/10/1999, 60 MIN, Unknown Manufacturer</p>
+          </scopecontent></c02><c02 id="aspace_ref271_io7" level="file" score="2" C-ORDER="247"><did>
+            <unittitle>Media: CDs and 3.5 inch Floppy Disks</unittitle>
+            <unitdate datechar="creation" normal="1940/2011" type="inclusive">Undated, 2003, 2004,
+              2007</unitdate>
+            <container id="aspace_c667d3b897979f4b803c2d182855d040" type="box">18</container>
+            <container id="aspace_b169ed9ec5c717022f7453f493986a72" parent="aspace_c667d3b897979f4b803c2d182855d040" type="folder">7</container>
+          </did><scopecontent id="aspace_0d63c4cec03eb11bb2e69c6f0f5ab65d">
+            <head>Scope and Content</head>
+            <p>CD: "League updated history," Undated 2 CDs: "Langston Hughes" photos by Hamilton,
+              Undated CD: Untitled (Los Angeles Women's Appointment Collaboration – Photos – Carol
+              Hall Holliday, League president), 11/6/2003 CD: "2004 Langston Hughes Gala Kit," 2004
+              CD: Untitled (League 65th Anniversary PR docs), 2004 CD: "League of Allied Arts:
+              Langston Hughes Tribute &amp; 65th Anniversary Celebration," 10/17/2004 CD: "League of
+              Allied Arts: 65th Gala &amp; Tribute to Langston Hughes event photos," 10/17/2004 CD:
+              "Photography by Hamilton, 2007 League Members," 2007 3.5 inch Floppy Disk: "League of
+              Allied Arts Finances (Quicken) 98 Version", Undated 3.5 inch Floppy Disk: "League of
+              Allied Arts 'Save the Date'", Undated 3.5 inch Floppy Disk: "League 2004," Undated</p>
+          </scopecontent></c02></c01>
+    </dsc>
+  </archdesc>
+</ead>
