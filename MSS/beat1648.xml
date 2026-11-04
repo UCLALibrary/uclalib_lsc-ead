@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/[ark]" identifier="ark:/13030/c83n29mj" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">book1648.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Booksellers' catalogs of Beat literature collection</titleproper>
+        <titleproper>Finding Aid for the Collection of Booksellers' Catalogs of Beat Literature
+            <num>LSC.1648</num></titleproper>
+        <author>Finding aid prepared by Shira Peltzman, 2021.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>UCLA Library Special Collections</publisher>
+        <p><date>Online finding aid last updated 2021 January 4.</date></p>
+        <address>
+          <addressline>Room A1713, Charles E. Young Research Library</addressline>
+          <addressline>Box 951575</addressline>
+          <addressline>Los Angeles, CA 90095-1575</addressline>
+          <addressline>spec-coll@library.ucla.edu</addressline>
+          <addressline>URL: <extptr href="https://www.library.ucla.edu/special-collections" show="new" title="https://www.library.ucla.edu/special-collections" linktype="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-01-04 15:00:35
+          -0800</date>.</creation>
+      <langusage>Finding aid is in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" id="archdesc-1.2">
+    <did id="did-1.2.1">
+      <repository>
+        <corpname>UCLA Library Special Collections</corpname>
+      </repository>
+      <unittitle>Collection of booksellers' catalogs of Beat literature</unittitle>
+      <origination label="Source">
+        <persname role="col" rules="aacr" source="local">Kurtzman, Allan H.</persname>
+      </origination>
+      <unitid repositorycode="US-CLU-SC" countrycode="US">LSC.1648</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">(4 boxes)</extent>
+      </physdesc>
+      <unitdate calendar="gregorian" datechar="creation" normal="1970/1989" type="inclusive">1970-1989</unitdate>
+      <physloc id="aspace_1ab19fbe93f5e1984e21a3118c455557">Stored off-site. All requests to access
+        special collections material must be made in advance using the request button located on
+        this page.</physloc>
+      <langmaterial id="aspace_26076ba326c3e83cc055a815fade3bd9">Materials are in
+        English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_6ef8dd7f1adb13a179b86f98d9dbb7dc">
+      <head>Conditions Governing Access</head>
+      <p>Portions of collection unprocessed. Please contact Special Collections reference
+        (spec-coll@library.ucla.edu) for more information.</p>
+    </accessrestrict>
+    <prefercite id="aspace_d8bf96e4e000e30275d68a0d08fc4260">
+      <head>Preferred Citation</head>
+      <p>[Identification of item], Collection of Booksellers' Catalogs of Beat Literature
+        (Collection 1648). UCLA Library Special Collections, Charles E. Young Research Library,
+        University of California, Los Angeles.</p>
+    </prefercite>
+    <processinfo id="aspace_597ba451db019ddfb388887d633a3ca8">
+      <head>Processing Information</head>
+      <p>Collections are processed to a variety of levels depending on the work necessary to make
+        them usable, their perceived user interest and research value, availability of staff and
+        resources, and competing priorities. Library Special Collections provides a standard level
+        of preservation and access for all collections and, when time and resources permit, conducts
+        more intensive processing. These materials have been arranged and described according to
+        national and local standards and best practices.</p>
+    </processinfo>
+    <odd id="aspace_62ce9d58b4df871c376fad6197a68fd3">
+      <head>UCLA Catalog Record ID</head>
+      <p>UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=964318">964318</extref></p>
+    </odd>
+    <scopecontent id="aspace_3da664a059ffff99002800981b75586e">
+      <head>Scope and Contents</head>
+      <p>Collection consists of booksellers' catalogs of Beat literature.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.2.7">
+      <persname role="col" rules="aacr" source="local">Kurtzman, Allan H.</persname>
+    </controlaccess>
+    <dsc type="combined" id="dsc-1.2.8" score="0" C-ORDER="1" MAX-C-ORDER="1"/>
+  </archdesc>
+</ead>
