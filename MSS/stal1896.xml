@@ -1,0 +1,2572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/c80v8dbm" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::1896::Dorrance Stalvey papers)//EN" "stal1896.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Dorrance Stalvey papers, 1944-2005</titleproper>
+<titleproper type="filing">Stalvey (Dorrance) papers</titleproper>
+<author>Processed by Andrea Moore in 2012 in the Center for Primary Research and Training (CFPRT), with assistance from Jillian Cuellar, August 20, 2012; machine-readable finding aid created by Caroline Cubé.</author>
+<sponsor>The processing of this collection was generously supported by <emph render="bold"><extref href="http://www.arcadiafund.org.uk" actuate="onrequest" show="new">Arcadia</extref></emph>funds.</sponsor>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">© 2012</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from finding aid processed using the Archivists' Toolkit, encoding added via Archivists' Toolkit, Notetab Pro, and Oxygen. Date of source: <date>August 2012</date>. Supplementary encoding and revision by Caroline Cubé.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" id="archdesc-1.2">
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">Dorrance Stalvey papers</unittitle>
+<unitdate type="inclusive" normal="1944/2005">1944-2005</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1896</unitid>
+<origination label="Creator">
+<persname rules="aacr2">Stalvey, Dorrance</persname></origination>
+<physdesc label="Extent">
+<extent>12 document boxes (12 linear ft.)</extent>
+<extent>6 record cartons</extent>
+<extent>8 flat boxes</extent>
+</physdesc>
+<abstract label="Abstract">Dorrance Stalvey was a composer, educator, and director of the Monday Evening Concerts series in Los Angeles from 1971 until his death in 2005. The collection includes extensive correspondence between Stalvey and other composers/presenters, musical materials including scores, audio recordings and electronic media, and Monday Evening Concerts programs, promotional materials and reviews. Stalvey's work as an educator is documented in syllabi and lecture notes. There are also personal documents of Stalvey's, including diplomas, passport, and letters to his parents.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<langmaterial label="Language of the Material">
+Materials are in English.
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+</did>
+<descgrp type="admininfo" id="descgrp-1.2.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>This collection was donated by Valerie Bernstein in 2011.</p>
+</acqinfo>
+<processinfo>
+<head>Processing Note</head>
+<p>Processed by Andrea Moore in 2012 in the Center for Primary Research and Training (CFPRT), with assistance from Jillian Cuellar.</p>
+<p>The processing of this collection was generously supported by <extref href="http://www.arcadiafund.org.uk" actuate="onrequest" show="new">
+<emph render="bold">Arcadia</emph></extref>funds.</p>
+</processinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Dorrance Stalvey papers (Collection 1896). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+ <extref href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=" actuate="onrequest" show="new">7023408</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545" id="bioghist-1.2.3">
+<head>Biography/History</head>
+<p>Dorrance Stalvey was a composer, educator, and director of the Monday Evening Concerts series in Los Angeles from 1971 until his death in 2005.</p>
+<p>He was a professor at Immaculate Heart College from 1968 to 1980 and had faculty positions at Pomona College (1968-1969) and the University of Southern California (1981-1982).</p>
+<p>Stalvey was actively involved in the promotion of contemporary music through the many concerts he produced and presented as the director of Monday Evening Concerts. Stalvey and the series received six ASCAP/CMA Awards for Adventurous Programming, including one awarded posthumously for the 2004-2005 season. He participated in new music seminars and served on numerous advisory panels, including 8 years as a panelist and consultant for the National Endowment for the Arts to encourage the propagation of contemporary music. Among his honors and awards are ASCAP Composer Awards, three NEA Composer Fellowship Grants (two in the mid-1970s and one in the 1990s), a League-ISCM Commendation (1976), and a Prince Ranier de Monaco Composition Award (1961).</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
+<head>Scope and Content</head>
+<p>Collection includes scores, recordings, documentation, and other media related to Stalvey's work as a composer, as well as an extensive collection of correspondence covering 1944-2005. It also includes press and programs relating to the Monday Evening Concerts (MEC) series and Los Angeles County Museum of Art (LACMA) music programs that occurred during the years of Stalvey's directorship. In addition, the collection includes programs and correspondence relating to Stalvey's career as a composer, such as letters of inquiry, grant applications, and programs of performances of his work. Biographical and personal materials include Stalvey's writings on music (others' and his own), appointment books, diplomas, and master's thesis. Stalvey's career as an educator is documented in syllabi, lecture notes, lectures and score samples used in classes.</p>
+<p>The controversy over LACMA's decision to eliminate its music programming (circa 2004) is documented in printed emails and news articles. Other items of interest include a laudatory letter from composer and pedagogue Nadia Boulanger, and correspondence between Stalvey and composers Conlon Nancarrow and Ernst Krenek.</p>
+</scopecontent>
+<arrangement id="arrangement-1.2.5">
+<head>Organization and Arrangement</head>
+<p>Collection is arranged in five series:
+<list type="ordered" numeration="arabic">
+<item>Chronological, 1944-2005</item>
+<item>Biographical, 1944-2005</item>
+<item>Pedagogy, 1966-1984 </item>
+<item>Composition, 1953-2005 </item>
+<item>Media, 1960-2004 </item>
+</list></p>
+</arrangement>
+    <phystech id="phystech-1.2.6">
+        <head>Physical Characteristics and Technical Requirements</head>
+        <p>COLLECTION CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing.  To access digital materials you must notify the reference desk in advance of your visit.</p>
+    </phystech> 
+<controlaccess id="controlaccess-1.2.7">
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Stalvey, Dorrance -- Archives</persname>
+<persname role="subject" rules="aacr2" encodinganalog="600">Stalvey, Dorrance -- Correspondence</persname>
+<occupation source="lcsh" encodinganalog="650">Composers--United States--Archival resources.</occupation>
+<subject source="lcsh" encodinganalog="650">Monday Evening Concerts of Los Angeles</subject>
+</controlaccess>
+</controlaccess>
+<separatedmaterial id="ref254">
+<head>Separated Material</head>
+<p>Duplicate copies of bound scores of many of Stalvey's compositions were transferred to the UCLA Music Library.</p>
+</separatedmaterial>
+<relatedmaterial id="ref244">
+<head>Related Material</head>
+<p>Related materials providing additional information on Monday Evening Concerts can be found in the following collections:
+<list type="marked">
+<item>
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt5b69p70q/" actuate="onrequest" show="new">Monday Evening Concerts Programs, 1971- (collection 1160)
+</extref> at UCLA Library Special Collections </item>
+<item>
+<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt3z09n8b7/" actuate="onrequest" show="new">Lawrence Morton Collection of Materials Relating to the Monday Evening Concerts, 1950-1971 (collection 965)
+</extref> at UCLA Library Special Collections. </item>
+</list>
+</p>
+<p>The first offers the complete programs of Stalvey's time as director of Monday Evening Concerts. The second includes concert programs and correspondence of Stalvey's predecessor at Monday Evening Concerts.</p>
+</relatedmaterial>
+<dsc type="in-depth" id="dsc-1.2.10" score="1" C-ORDER="1" MAX-C-ORDER="347">
+<head>Container List</head>
+<c01 id="ref1" level="series" score="3" C-ORDER="2">
+<did>
+<unittitle>Series 1: Chronological</unittitle>
+<unitdate normal="1944/2005" type="inclusive">1944-2005</unitdate>
+</did>
+<scopecontent id="ref248">
+<head>Scope and Content</head>
+<p>This series consists primarily of correspondence and press items relating to Stalvey's work in three fields: concert production, composition, and education. Personal correspondence includes letters from Stalvey's first wife, Marilyn Stalvey (Igor Stravinsky's secretary in the 1960s), and correspondence with fellow composers as well as rental agreements from the architect Dion Neutra, Stalvey's longtime landlord. Many years include letters of award or rejection from various foundations. Stalvey’s move to Los Angeles County Museum of Art (LACMA) with Monday Evening Concerts (MEC) created friction between him and the MEC board, which is documented in correspondence and press. Of particular interest are letters from the composer and pedagogue Nadia Boulanger, composers Ernst Krenek and Conlon Nancarrow, and philanthropist and new music supporter Betty Freeman.</p>
+</scopecontent>
+<arrangement id="ref255">
+<head>Organization and Arrangement</head>
+<p>The chronological series maintains original order.</p>
+</arrangement>
+<c02 id="ref5" level="file" score="1" C-ORDER="5">
+<did>
+<unittitle>1954-1965: News Items</unittitle>
+<container id="cid6653002" type="Box" label="Box">1</container>
+<container parent="cid6653002" type="folder" label="Folder">1</container>
+<unitdate normal="1954/1965" type="inclusive">1954-1965</unitdate>
+</did>
+</c02>
+<c02 id="ref6" level="file" score="1" C-ORDER="6">
+<did>
+<unittitle>1955-1959: Correspondence</unittitle>
+<container id="cid6653003" type="Box" label="Box">1</container>
+<container parent="cid6653003" type="folder" label="Folder">2</container>
+<unitdate normal="1955/1959" type="inclusive">1955-1959</unitdate>
+</did>
+</c02>
+<c02 id="ref11" level="file" score="1" C-ORDER="7">
+<did>
+<unittitle>1955-1965: Announcements</unittitle>
+<container id="cid6656004" type="Box" label="Box">1</container>
+<container parent="cid6656004" type="folder" label="Folder">3</container>
+<unitdate normal="1955/1965" type="inclusive">1955-1965</unitdate>
+</did>
+</c02>
+<c02 id="ref13" level="file" score="1" C-ORDER="8">
+<did>
+<unittitle>1955-1965: Programs</unittitle>
+<container id="cid6656005" type="Box" label="Box">1</container>
+<container parent="cid6656005" type="folder" label="Folder">4</container>
+<unitdate normal="1955/1965" type="inclusive">1955-1965</unitdate>
+</did>
+</c02>
+<c02 id="ref7" level="file" score="1" C-ORDER="9">
+<did>
+<unittitle>1960: Correspondence</unittitle>
+<container id="cid6656001" type="Box" label="Box">1</container>
+<container parent="cid6656001" type="folder" label="Folder">5</container>
+<unitdate normal="1960/1960">1960</unitdate>
+</did>
+</c02>
+<c02 id="ref9" level="file" score="1" C-ORDER="10">
+<did>
+<unittitle>1961: Correspondence</unittitle>
+<container id="cid6656002" type="Box" label="Box">1</container>
+<container parent="cid6656002" type="folder" label="Folder">6</container>
+<unitdate normal="1961/1961">1961</unitdate>
+</did>
+</c02>
+<c02 id="ref24" level="file" score="1" C-ORDER="11">
+<did>
+<unittitle>1961-1965: Reviews</unittitle>
+<container id="cid6656011" type="Box" label="Box">1</container>
+<container parent="cid6656011" type="folder" label="Folder">7</container>
+<unitdate normal="1961/1965" type="inclusive">1961-1965</unitdate>
+</did>
+</c02>
+<c02 id="ref10" level="file" score="1" C-ORDER="12">
+<did>
+<unittitle>1962-1963: Correspondence: Includes letter from Nadia Boulanger</unittitle>
+<container id="cid6656003" type="Box" label="Box">1</container>
+<container parent="cid6656003" type="folder" label="Folder">8</container>
+<unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+</did>
+</c02>
+<c02 id="ref14" level="file" score="1" C-ORDER="13">
+<did>
+<unittitle>1964: Correspondence</unittitle>
+<container id="cid6656006" type="Box" label="Box">1</container>
+<container parent="cid6656006" type="folder" label="Folder">9</container>
+<unitdate normal="1964/1964">1964</unitdate>
+</did>
+</c02>
+<c02 id="ref15" level="file" score="1" C-ORDER="14">
+<did>
+<unittitle>1965: Correspondence</unittitle>
+<container id="cid6656007" type="Box" label="Box">1</container>
+<container parent="cid6656007" type="folder" label="Folder">10</container>
+<unitdate normal="1965/1965">1965</unitdate>
+</did>
+</c02>
+<c02 id="ref16" level="file" score="1" C-ORDER="15">
+<did>
+<unittitle>1966: Correspondence</unittitle>
+<container id="cid6656008" type="Box" label="Box">1</container>
+<container parent="cid6656008" type="folder" label="Folder">11</container>
+<unitdate normal="1966/1966">1966</unitdate>
+</did>
+</c02>
+<c02 id="ref17" level="file" score="1" C-ORDER="16">
+<did>
+<unittitle>1966-1969: Announcements &amp; Programs</unittitle>
+<container id="cid6656009" type="Box" label="Box">1</container>
+<container parent="cid6656009" type="folder" label="Folder">12</container>
+<unitdate normal="1966/1969" type="inclusive">1966-1969</unitdate>
+</did>
+</c02>
+<c02 id="ref18" level="file" score="1" C-ORDER="17">
+<did>
+<unittitle>1967: Correspondence</unittitle>
+<container id="cid6656010" type="Box" label="Box">1</container>
+<container parent="cid6656010" type="folder" label="Folder">13</container>
+<unitdate normal="1967/1967">1967</unitdate>
+</did>
+</c02>
+<c02 id="ref19" level="file" score="1" C-ORDER="18">
+<did>
+<unittitle>1968: Correspondence</unittitle>
+<container id="cid6656013" type="Box" label="Box">1</container>
+<container parent="cid6656013" type="folder" label="Folder">14</container>
+<unitdate normal="1968/1968">1968</unitdate>
+</did>
+</c02>
+<c02 id="ref20" level="file" score="1" C-ORDER="19">
+<did>
+<unittitle>1969: Correspondence</unittitle>
+<container id="cid6656014" type="Box" label="Box">1</container>
+<container parent="cid6656014" type="folder" label="Folder">15</container>
+<unitdate normal="1969/1969">1969</unitdate>
+</did>
+</c02>
+<c02 id="ref23" level="file" score="1" C-ORDER="20">
+<did>
+<unittitle>1969-1970: Reviews &amp; Programs</unittitle>
+<container id="cid6656017" type="Box" label="Box">1</container>
+<container parent="cid6656017" type="folder" label="Folder">16</container>
+<unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+</did>
+</c02>
+<c02 id="ref21" level="file" score="1" C-ORDER="21">
+<did>
+<unittitle>1970: Announcements &amp; News</unittitle>
+<container id="cid6656015" type="Box" label="Box">1</container>
+<container parent="cid6656015" type="folder" label="Folder">17</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+</c02>
+<c02 id="ref22" level="file" score="1" C-ORDER="22">
+<did>
+<unittitle>1970: Correspondence</unittitle>
+<container id="cid6656016" type="Box" label="Box">1</container>
+<container parent="cid6656016" type="folder" label="Folder">18</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+</c02>
+<c02 id="ref26" level="file" score="1" C-ORDER="23">
+<did>
+<unittitle>1971: Announcements &amp; News</unittitle>
+<container id="cid6656012" type="Box" label="Box">2</container>
+<container parent="cid6656012" type="folder" label="Folder">1</container>
+<unitdate normal="1971/1971">1971</unitdate>
+</did>
+</c02>
+<c02 id="ref27" level="file" score="1" C-ORDER="24">
+<did>
+<unittitle>1971: Correspondence</unittitle>
+<container id="cid6656018" type="Box" label="Box">2</container>
+<container parent="cid6656018" type="folder" label="Folder">2</container>
+<unitdate normal="1971/1971">1971</unitdate>
+</did>
+</c02>
+<c02 id="ref28" level="file" score="1" C-ORDER="25">
+<did>
+<unittitle>1971: Reviews &amp; Programs</unittitle>
+<container id="cid6656019" type="Box" label="Box">2</container>
+<container parent="cid6656019" type="folder" label="Folder">3</container>
+<unitdate normal="1971/1971">1971</unitdate>
+</did>
+</c02>
+<c02 id="ref29" level="file" score="1" C-ORDER="26">
+<did>
+<unittitle>1972: Correspondence</unittitle>
+<container id="cid6656020" type="Box" label="Box">2</container>
+<container parent="cid6656020" type="folder" label="Folder">4</container>
+<unitdate normal="1972/1972">1972</unitdate>
+</did>
+</c02>
+<c02 id="ref30" level="file" score="1" C-ORDER="27">
+<did>
+<unittitle>1972: News, Reviews, Programs</unittitle>
+<container id="cid6656021" type="Box" label="Box">2</container>
+<container parent="cid6656021" type="folder" label="Folder">5</container>
+<unitdate normal="1972/1972">1972</unitdate>
+</did>
+</c02>
+<c02 id="ref31" level="file" score="1" C-ORDER="28">
+<did>
+<unittitle>1973: Correspondence</unittitle>
+<container id="cid6656022" type="Box" label="Box">2</container>
+<container parent="cid6656022" type="folder" label="Folder">6</container>
+<unitdate normal="1973/1973">1973</unitdate>
+</did>
+</c02>
+<c02 id="ref32" level="file" score="1" C-ORDER="29">
+<did>
+<unittitle>1973: Reviews &amp; Programs</unittitle>
+<container id="cid6656023" type="Box" label="Box">2</container>
+<container parent="cid6656023" type="folder" label="Folder">7</container>
+<unitdate normal="1973/1973">1973</unitdate>
+</did>
+</c02>
+<c02 id="ref33" level="file" score="1" C-ORDER="30">
+<did>
+<unittitle>1974: Announcements &amp; News</unittitle>
+<container id="cid6656024" type="Box" label="Box">2</container>
+<container parent="cid6656024" type="folder" label="Folder">8</container>
+<unitdate normal="1974/1974">1974</unitdate>
+</did>
+</c02>
+<c02 id="ref34" level="file" score="1" C-ORDER="31">
+<did>
+<unittitle>1974: Correspondence</unittitle>
+<container id="cid6656025" type="Box" label="Box">2</container>
+<container parent="cid6656025" type="folder" label="Folder">9</container>
+<unitdate normal="1974/1974">1974</unitdate>
+</did>
+</c02>
+<c02 id="ref35" level="file" score="1" C-ORDER="32">
+<did>
+<unittitle>1974: Reviews &amp; Programs</unittitle>
+<container id="cid6656026" type="Box" label="Box">2</container>
+<container parent="cid6656026" type="folder" label="Folder">10</container>
+<unitdate normal="1974/1974">1974</unitdate>
+</did>
+</c02>
+<c02 id="ref36" level="file" score="1" C-ORDER="33">
+<did>
+<unittitle>1975: Correspondence</unittitle>
+<container id="cid6656027" type="Box" label="Box">2</container>
+<container parent="cid6656027" type="folder" label="Folder">11</container>
+<unitdate normal="1975/1975">1975</unitdate>
+</did>
+</c02>
+<c02 id="ref38" level="file" score="1" C-ORDER="34">
+<did>
+<unittitle>1975: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656029" type="Box" label="Box">3</container>
+<container parent="cid6656029" type="folder" label="Folder">1</container>
+<unitdate normal="1975/1975">1975</unitdate>
+</did>
+</c02>
+<c02 id="ref39" level="file" score="1" C-ORDER="35">
+<did>
+<unittitle>1976: Announcements &amp; News</unittitle>
+<container id="cid6656030" type="Box" label="Box">3</container>
+<container parent="cid6656030" type="folder" label="Folder">2</container>
+<unitdate normal="1976/1976">1976</unitdate>
+</did>
+</c02>
+<c02 id="ref40" level="file" score="1" C-ORDER="36">
+<did>
+<unittitle>1976: Correspondence</unittitle>
+<container id="cid6656031" type="Box" label="Box">3</container>
+<container parent="cid6656031" type="folder" label="Folder">3</container>
+<unitdate normal="1976/1976">1976</unitdate>
+</did>
+</c02>
+<c02 id="ref41" level="file" score="1" C-ORDER="37">
+<did>
+<unittitle>1976: Reviews &amp; Programs</unittitle>
+<container id="cid6656032" type="Box" label="Box">3</container>
+<container parent="cid6656032" type="folder" label="Folder">4</container>
+<unitdate normal="1976/1976">1976</unitdate>
+</did>
+</c02>
+<c02 id="ref42" level="file" score="1" C-ORDER="38">
+<did>
+<unittitle>1977: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656033" type="Box" label="Box">3</container>
+<container parent="cid6656033" type="folder" label="Folder">5</container>
+<unitdate normal="1977/1977">1977</unitdate>
+</did>
+</c02>
+<c02 id="ref43" level="file" score="1" C-ORDER="39">
+<did>
+<unittitle>1977: Correspondence</unittitle>
+<container id="cid6656034" type="Box" label="Box">3</container>
+<container parent="cid6656034" type="folder" label="Folder">6</container>
+<unitdate normal="1977/1977">1977</unitdate>
+</did>
+</c02>
+<c02 id="ref44" level="file" score="1" C-ORDER="40">
+<did>
+<unittitle>1978: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656035" type="Box" label="Box">3</container>
+<container parent="cid6656035" type="folder" label="Folder">7</container>
+<unitdate normal="1978/1978">1978</unitdate>
+</did>
+</c02>
+<c02 id="ref45" level="file" score="1" C-ORDER="41">
+<did>
+<unittitle>1978: Correspondence</unittitle>
+<container id="cid6656036" type="Box" label="Box">3</container>
+<container parent="cid6656036" type="folder" label="Folder">8</container>
+<unitdate normal="1978/1978">1978</unitdate>
+</did>
+</c02>
+<c02 id="ref46" level="file" score="1" C-ORDER="42">
+<did>
+<unittitle>1979: Correspondence</unittitle>
+<container id="cid6656037" type="Box" label="Box">3</container>
+<container parent="cid6656037" type="folder" label="Folder">9</container>
+<unitdate normal="1979/1979">1979</unitdate>
+</did>
+</c02>
+<c02 id="ref47" level="file" score="1" C-ORDER="43">
+<did>
+<unittitle>1979: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656038" type="Box" label="Box">4</container>
+<container parent="cid6656038" type="folder" label="Folder">1</container>
+<unitdate normal="1979/1979">1979</unitdate>
+</did>
+</c02>
+<c02 id="ref48" level="file" score="1" C-ORDER="44">
+<did>
+<unittitle>1980: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656039" type="Box" label="Box">4</container>
+<container parent="cid6656039" type="folder" label="Folder">2</container>
+<unitdate normal="1980/1980">1980</unitdate>
+</did>
+</c02>
+<c02 id="ref49" level="file" score="1" C-ORDER="45">
+<did>
+<unittitle>1980: Correspondence</unittitle>
+<container id="cid6656040" type="Box" label="Box">4</container>
+<container parent="cid6656040" type="folder" label="Folder">3</container>
+<unitdate normal="1980/1980">1980</unitdate>
+</did>
+</c02>
+<c02 id="ref50" level="file" score="1" C-ORDER="46">
+<did>
+<unittitle>1981: Announcements &amp; Reviews</unittitle>
+<container id="cid6656041" type="Box" label="Box">4</container>
+<container parent="cid6656041" type="folder" label="Folder">4</container>
+<unitdate normal="1981/1981">1981</unitdate>
+</did>
+</c02>
+<c02 id="ref51" level="file" score="1" C-ORDER="47">
+<did>
+<unittitle>1981: Correspondence</unittitle>
+<container id="cid6656042" type="Box" label="Box">4</container>
+<container parent="cid6656042" type="folder" label="Folder">5</container>
+<unitdate normal="1981/1981">1981</unitdate>
+</did>
+</c02>
+<c02 id="ref52" level="file" score="1" C-ORDER="48">
+<did>
+<unittitle>1981: Programs</unittitle>
+<container id="cid6656043" type="Box" label="Box">4</container>
+<container parent="cid6656043" type="folder" label="Folder">6</container>
+<unitdate normal="1981/1981">1981</unitdate>
+</did>
+</c02>
+<c02 id="ref53" level="file" score="1" C-ORDER="49">
+<did>
+<unittitle>1982: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656044" type="Box" label="Box">4</container>
+<container parent="cid6656044" type="folder" label="Folder">7</container>
+<unitdate normal="1982/1982">1982</unitdate>
+</did>
+</c02>
+<c02 id="ref54" level="file" score="1" C-ORDER="50">
+<did>
+<unittitle>1982: Correspondence</unittitle>
+<container id="cid6656045" type="Box" label="Box">4</container>
+<container parent="cid6656045" type="folder" label="Folder">8</container>
+<unitdate normal="1982/1982">1982</unitdate>
+</did>
+</c02>
+<c02 id="ref55" level="file" score="1" C-ORDER="51">
+<did>
+<unittitle>1983: NEA: reports on orchestras</unittitle>
+<container id="cid6656046" type="Box" label="Box">5</container>
+<container parent="cid6656046" type="folder" label="Folder">1</container>
+<unitdate normal="1983/1983">1983</unitdate>
+</did>
+</c02>
+<c02 id="ref56" level="file" score="1" C-ORDER="52">
+<did>
+<unittitle>1983: Announcements, Programs, Reviews</unittitle>
+<container id="cid6656047" type="Box" label="Box">5</container>
+<container parent="cid6656047" type="folder" label="Folder">2</container>
+<unitdate normal="1983/1983">1983</unitdate>
+</did>
+</c02>
+<c02 id="ref57" level="file" score="1" C-ORDER="53">
+<did>
+<unittitle>1983: Correspondence</unittitle>
+<container id="cid6656048" type="Box" label="Box">5</container>
+<container parent="cid6656048" type="folder" label="Folder">3</container>
+<unitdate normal="1983/1983">1983</unitdate>
+</did>
+</c02>
+<c02 id="ref58" level="file" score="1" C-ORDER="54">
+<did>
+<unittitle>1984: Announcements, Programs, Reviews</unittitle>
+<container id="cid6656049" type="Box" label="Box">5</container>
+<container parent="cid6656049" type="folder" label="Folder">4</container>
+<unitdate normal="1984/1984">1984</unitdate>
+</did>
+</c02>
+<c02 id="ref59" level="file" score="1" C-ORDER="55">
+<did>
+<unittitle>1984: Correspondence</unittitle>
+<container id="cid6656050" type="Box" label="Box">5</container>
+<container parent="cid6656050" type="folder" label="Folder">5</container>
+<unitdate normal="1984/1984">1984</unitdate>
+</did>
+</c02>
+<c02 id="ref60" level="file" score="1" C-ORDER="56">
+<did>
+<unittitle>1985: Announcements, Programs, Reviews</unittitle>
+<container id="cid6656051" type="Box" label="Box">5</container>
+<container parent="cid6656051" type="folder" label="Folder">6</container>
+<unitdate normal="1985/1985">1985</unitdate>
+</did>
+</c02>
+<c02 id="ref61" level="file" score="1" C-ORDER="57">
+<did>
+<unittitle>1985: Correspondence</unittitle>
+<container id="cid6656052" type="Box" label="Box">5</container>
+<container parent="cid6656052" type="folder" label="Folder">7</container>
+<unitdate normal="1985/1985">1985</unitdate>
+</did>
+</c02>
+<c02 id="ref62" level="file" score="1" C-ORDER="58">
+<did>
+<unittitle>1985: High Performance magazine, v. 31</unittitle>
+<container id="cid6656053" type="Box" label="Box">5</container>
+<container parent="cid6656053" type="folder" label="Folder">8</container>
+<unitdate normal="1985/1985">1985</unitdate>
+</did>
+</c02>
+<c02 id="ref63" level="file" score="1" C-ORDER="59">
+<did>
+<unittitle>1986: Correspondence</unittitle>
+<container id="cid6656054" type="Box" label="Box">5</container>
+<container parent="cid6656054" type="folder" label="Folder">9</container>
+<unitdate normal="1986/1986">1986</unitdate>
+</did>
+</c02>
+<c02 id="ref64" level="file" score="1" C-ORDER="60">
+<did>
+<unittitle>1987: Announcements, Programs, Reviews</unittitle>
+<container id="cid6656055" type="Box" label="Box">6</container>
+<container parent="cid6656055" type="folder" label="Folder">1</container>
+<unitdate normal="1987/1987">1987</unitdate>
+</did>
+</c02>
+<c02 id="ref65" level="file" score="1" C-ORDER="61">
+<did>
+<unittitle>1987: Correspondence</unittitle>
+<container id="cid6656056" type="Box" label="Box">6</container>
+<container parent="cid6656056" type="folder" label="Folder">2</container>
+<unitdate normal="1987/1987">1987</unitdate>
+</did>
+</c02>
+<c02 id="ref66" level="file" score="1" C-ORDER="62">
+<did>
+<unittitle>1987: February 1987 Connoisseur magazine: Betty Freeman article</unittitle>
+<container id="cid6656057" type="Box" label="Box">6</container>
+<container parent="cid6656057" type="folder" label="Folder">3</container>
+<unitdate normal="1987/1987">1987</unitdate>
+</did>
+</c02>
+<c02 id="ref67" level="file" score="1" C-ORDER="63">
+<did>
+<unittitle>1988: Announcements, Programs, Reviews</unittitle>
+<container id="cid6656058" type="Box" label="Box">6</container>
+<container parent="cid6656058" type="folder" label="Folder">4</container>
+<unitdate normal="1988/1988">1988</unitdate>
+</did>
+</c02>
+<c02 id="ref68" level="file" score="1" C-ORDER="64">
+<did>
+<unittitle>1988: Correspondence</unittitle>
+<container id="cid6656059" type="Box" label="Box">6</container>
+<container parent="cid6656059" type="folder" label="Folder">5</container>
+<unitdate normal="1988/1988">1988</unitdate>
+</did>
+</c02>
+<c02 id="ref69" level="file" score="1" C-ORDER="65">
+<did>
+<unittitle>1988: Legal Issues</unittitle>
+<container id="cid6656060" type="Box" label="Box">6</container>
+<container parent="cid6656060" type="folder" label="Folder">6</container>
+<unitdate normal="1988/1988">1988</unitdate>
+</did>
+</c02>
+<c02 id="ref70" level="file" score="1" C-ORDER="66">
+<did>
+<unittitle>1989: Announcements, Programs, Reviews</unittitle>
+<container id="cid6656061" type="Box" label="Box">6</container>
+<container parent="cid6656061" type="folder" label="Folder">7</container>
+<unitdate normal="1989/1989">1989</unitdate>
+</did>
+</c02>
+<c02 id="ref71" level="file" score="1" C-ORDER="67">
+<did>
+<unittitle>1989: Correspondence</unittitle>
+<container id="cid6656062" type="Box" label="Box">6</container>
+<container parent="cid6656062" type="folder" label="Folder">8</container>
+<unitdate normal="1989/1989">1989</unitdate>
+</did>
+</c02>
+<c02 id="ref72" level="file" score="1" C-ORDER="68">
+<did>
+<unittitle>1989: Stalvey Divorce (Dorrance and Marilyn)</unittitle>
+<container id="cid6656063" type="Box" label="Box">6</container>
+<container parent="cid6656063" type="folder" label="Folder">9</container>
+<unitdate normal="1989/1989">1989</unitdate>
+</did>
+</c02>
+<c02 id="ref73" level="file" score="1" C-ORDER="69">
+<did>
+<unittitle>1990: Announcements, Programs, Reviews</unittitle>
+<container id="cid6656064" type="Box" label="Box">6</container>
+<container parent="cid6656064" type="folder" label="Folder">10</container>
+<unitdate normal="1990/1990">1990</unitdate>
+</did>
+</c02>
+<c02 id="ref74" level="file" score="1" C-ORDER="70">
+<did>
+<unittitle>1990: Correspondence</unittitle>
+<container id="cid6656065" type="Box" label="Box">6</container>
+<container parent="cid6656065" type="folder" label="Folder">11</container>
+<unitdate normal="1990/1990">1990</unitdate>
+</did>
+</c02>
+<c02 id="ref75" level="file" score="1" C-ORDER="71">
+<did>
+<unittitle>1990: Salabert Correspondence and Contracts: 1975-1990</unittitle>
+<container id="cid6656066" type="Box" label="Box">7</container>
+<container parent="cid6656066" type="folder" label="Folder">1</container>
+<unitdate normal="1975/1990" type="inclusive">1990</unitdate>
+</did>
+</c02>
+<c02 id="ref76" level="file" score="1" C-ORDER="72">
+<did>
+<unittitle>1991: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656067" type="Box" label="Box">7</container>
+<container parent="cid6656067" type="folder" label="Folder">2</container>
+<unitdate normal="1991/1991">1991</unitdate>
+</did>
+</c02>
+<c02 id="ref77" level="file" score="1" C-ORDER="73">
+<did>
+<unittitle>1991: Correspondence</unittitle>
+<container id="cid6656068" type="Box" label="Box">7</container>
+<container parent="cid6656068" type="folder" label="Folder">3</container>
+<unitdate normal="1991/1991">1991</unitdate>
+</did>
+</c02>
+<c02 id="ref78" level="file" score="1" C-ORDER="74">
+<did>
+<unittitle>1992: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656069" type="Box" label="Box">7</container>
+<container parent="cid6656069" type="folder" label="Folder">4</container>
+<unitdate normal="1992/1992">1992</unitdate>
+</did>
+</c02>
+<c02 id="ref79" level="file" score="1" C-ORDER="75">
+<did>
+<unittitle>1992: Correspondence</unittitle>
+<container id="cid6656070" type="Box" label="Box">7</container>
+<container parent="cid6656070" type="folder" label="Folder">5</container>
+<unitdate normal="1992/1992">1992</unitdate>
+</did>
+</c02>
+<c02 id="ref80" level="file" score="1" C-ORDER="76">
+<did>
+<unittitle>1993: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656071" type="Box" label="Box">7</container>
+<container parent="cid6656071" type="folder" label="Folder">6</container>
+<unitdate normal="1993/1993">1993</unitdate>
+</did>
+</c02>
+<c02 id="ref81" level="file" score="1" C-ORDER="77">
+<did>
+<unittitle>1993: Correspondence</unittitle>
+<container id="cid6656072" type="Box" label="Box">7</container>
+<container parent="cid6656072" type="folder" label="Folder">7</container>
+<unitdate normal="1993/1993">1993</unitdate>
+</did>
+</c02>
+<c02 id="ref82" level="file" score="1" C-ORDER="78">
+<did>
+<unittitle>1994: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656073" type="Box" label="Box">7</container>
+<container parent="cid6656073" type="folder" label="Folder">8</container>
+<unitdate normal="1994/1994">1994</unitdate>
+</did>
+</c02>
+<c02 id="ref83" level="file" score="1" C-ORDER="79">
+<did>
+<unittitle>1994: Correspondence</unittitle>
+<container id="cid6656074" type="Box" label="Box">7</container>
+<container parent="cid6656074" type="folder" label="Folder">9</container>
+<unitdate normal="1994/1994">1994</unitdate>
+</did>
+</c02>
+<c02 id="ref84" level="file" score="1" C-ORDER="80">
+<did>
+<unittitle>1995: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656075" type="Box" label="Box">7</container>
+<container parent="cid6656075" type="folder" label="Folder">10</container>
+<unitdate normal="1995/1995">1995</unitdate>
+</did>
+</c02>
+<c02 id="ref85" level="file" score="1" C-ORDER="81">
+<did>
+<unittitle>1995: Correspondence</unittitle>
+<container id="cid6656076" type="Box" label="Box">7</container>
+<container parent="cid6656076" type="folder" label="Folder">11</container>
+<unitdate normal="1995/1995">1995</unitdate>
+</did>
+</c02>
+<c02 id="ref86" level="file" score="1" C-ORDER="82">
+<did>
+<unittitle>1996: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656077" type="Box" label="Box">7</container>
+<container parent="cid6656077" type="folder" label="Folder">12</container>
+<unitdate normal="1996/1996">1996</unitdate>
+</did>
+</c02>
+<c02 id="ref87" level="file" score="1" C-ORDER="83">
+<did>
+<unittitle>1996: Correspondence</unittitle>
+<container id="cid6656078" type="Box" label="Box">7</container>
+<container parent="cid6656078" type="folder" label="Folder">13</container>
+<unitdate normal="1996/1996">1996</unitdate>
+</did>
+</c02>
+<c02 id="ref88" level="file" score="1" C-ORDER="84">
+<did>
+<unittitle>1997: Trip to Netherlands</unittitle>
+<container id="cid6656079" type="Box" label="Box">7</container>
+<container parent="cid6656079" type="folder" label="Folder">14</container>
+<unitdate normal="1997/1997">1997</unitdate>
+</did>
+</c02>
+<c02 id="ref89" level="file" score="1" C-ORDER="85">
+<did>
+<unittitle>1997: Announcements, Reviews, Programs</unittitle>
+<container id="cid6656080" type="Box" label="Box">8</container>
+<container parent="cid6656080" type="folder" label="Folder">1</container>
+<unitdate normal="1997/1997">1997</unitdate>
+</did>
+</c02>
+<c02 id="ref90" level="file" score="1" C-ORDER="86">
+<did>
+<unittitle>1997: Correspondence</unittitle>
+<container id="cid6656081" type="Box" label="Box">8</container>
+<container parent="cid6656081" type="folder" label="Folder">2</container>
+<unitdate normal="1997/1997">1997</unitdate>
+</did>
+</c02>
+<c02 id="ref91" level="file" score="1" C-ORDER="87">
+<did>
+<unittitle>1998: Correspondence</unittitle>
+<container id="cid6656082" type="Box" label="Box">8</container>
+<container parent="cid6656082" type="folder" label="Folder">3</container>
+<unitdate normal="1998/1998">1998</unitdate>
+</did>
+</c02>
+<c02 id="ref92" level="file" score="1" C-ORDER="88">
+<did>
+<unittitle>1999: Correspondence &amp; Press</unittitle>
+<container id="cid6656083" type="Box" label="Box">8</container>
+<container parent="cid6656083" type="folder" label="Folder">4</container>
+<unitdate normal="1999/1999">1999</unitdate>
+</did>
+</c02>
+<c02 id="ref93" level="file" score="1" C-ORDER="89">
+<did>
+<unittitle>2000: Correspondence, Programs, Press</unittitle>
+<container id="cid6656084" type="Box" label="Box">8</container>
+<container parent="cid6656084" type="folder" label="Folder">5</container>
+<unitdate normal="2000/2000">2000</unitdate>
+</did>
+</c02>
+<c02 id="ref94" level="file" score="1" C-ORDER="90">
+<did>
+<unittitle>2001: Correspondence &amp; Programs</unittitle>
+<container id="cid6656085" type="Box" label="Box">8</container>
+<container parent="cid6656085" type="folder" label="Folder">6</container>
+<unitdate normal="2001/2001">2001</unitdate>
+</did>
+</c02>
+<c02 id="ref95" level="file" score="1" C-ORDER="91">
+<did>
+<unittitle>2002: Programs &amp; Press</unittitle>
+<container id="cid6656086" type="Box" label="Box">8</container>
+<container parent="cid6656086" type="folder" label="Folder">7</container>
+<unitdate normal="2002/2002">2002</unitdate>
+</did>
+</c02>
+<c02 id="ref96" level="file" score="1" C-ORDER="92">
+<did>
+<unittitle>2002: Correspondence</unittitle>
+<container id="cid6656087" type="Box" label="Box">8</container>
+<container parent="cid6656087" type="folder" label="Folder">8</container>
+<unitdate normal="2002/2002">2002</unitdate>
+</did>
+</c02>
+<c02 id="ref97" level="file" score="1" C-ORDER="93">
+<did>
+<unittitle>2002: Programs &amp; Press</unittitle>
+<container id="cid6656088" type="Box" label="Box">8</container>
+<container parent="cid6656088" type="folder" label="Folder">9</container>
+<unitdate normal="2002/2002">2002</unitdate>
+</did>
+</c02>
+<c02 id="ref98" level="file" score="1" C-ORDER="94">
+<did>
+<unittitle>2003: Correspondence</unittitle>
+<container id="cid6656089" type="Box" label="Box">8</container>
+<container parent="cid6656089" type="folder" label="Folder">10</container>
+<unitdate normal="2003/2003">2003</unitdate>
+</did>
+</c02>
+<c02 id="ref99" level="file" score="1" C-ORDER="95">
+<did>
+<unittitle>2004-2005: Programs &amp; Press</unittitle>
+<container id="cid6656090" type="Box" label="Box">8</container>
+<container parent="cid6656090" type="folder" label="Folder">11</container>
+<unitdate normal="2004/2005" type="inclusive">2004</unitdate>
+</did>
+</c02>
+<c02 id="ref100" level="file" score="1" C-ORDER="96">
+<did>
+<unittitle>2005: Programs, Press, Memorial</unittitle>
+<container id="cid6656091" type="Box" label="Box">8</container>
+<container parent="cid6656091" type="folder" label="Folder">12</container>
+<unitdate normal="2005/2005">2005</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref2" level="series" score="3" C-ORDER="97">
+<did>
+<unittitle>Series 2: Biographical</unittitle>
+<unitdate normal="1944/2005" type="inclusive">1944-2005</unitdate>
+</did>
+<scopecontent id="ref252">
+<head>Scope and Content</head>
+<p>This series includes documentation of Stalvey's life from childhood through his student and young professional years, a series of appointment books, and his personal writings and writings on music. Stalvey’s CV and worklists (lists of compositions) provide a thorough overview of his career. Files containing memorial documents, which include tributes from many Los Angeles new music luminaries, illustrate his impact on the Los Angeles music scene.</p>
+</scopecontent>
+<arrangement id="ref256">
+<head>Organization and Arrangement</head>
+<p>The biographical series is in chronological order, which begins again at the appointment books.</p>
+</arrangement>
+<c02 id="ref117" level="file" score="1" C-ORDER="100">
+<did>
+<unittitle>Childhood &amp; Youth</unittitle>
+<container id="cid6656108" type="Box" label="Box">8</container>
+<container parent="cid6656108" type="folder" label="Folder">13</container>
+<unitdate normal="1940/1961" type="inclusive">1940-1961</unitdate>
+</did>
+</c02>
+<c02 id="ref428" level="file" score="1" C-ORDER="101">
+<did>
+<unittitle>Diplomas and Awards</unittitle>
+<container id="cid6770005" type="Box" label="Box">26</container>
+<container parent="cid6770005" type="folder" label="Folder">3</container>
+<unitdate normal="1953/1961" type="inclusive">1953-1961</unitdate>
+</did>
+</c02>
+<c02 id="ref118" level="file" score="1" C-ORDER="102">
+<did>
+<unittitle>Master's Thesis: Bound &amp; Typed</unittitle>
+<container id="cid6656109" type="Box" label="Box">8</container>
+<container parent="cid6656109" type="folder" label="Folder">14</container>
+<unitdate normal="1955/1955">1955</unitdate>
+</did>
+</c02>
+<c02 id="ref119" level="file" score="1" C-ORDER="103">
+<did>
+<unittitle>Master's Thesis: Handwritten</unittitle>
+<container id="cid6656110" type="Box" label="Box">8</container>
+<container parent="cid6656110" type="folder" label="Folder">15</container>
+<unitdate normal="1955/1955">1955</unitdate>
+</did>
+</c02>
+<c02 id="ref120" level="file" score="1" C-ORDER="104">
+<did>
+<unittitle>Writings: Stalvey on Music</unittitle>
+<container id="cid6656111" type="Box" label="Box">8</container>
+<container parent="cid6656111" type="folder" label="Folder">16</container>
+<unitdate normal="1962/1992" type="inclusive">1962-1992</unitdate>
+</did>
+</c02>
+<c02 id="ref121" level="file" score="1" C-ORDER="105">
+<did>
+<unittitle>Writings: Stalvey Program Notes</unittitle>
+<container id="cid6656112" type="Box" label="Box">9</container>
+<container parent="cid6656112" type="folder" label="Folder">1</container>
+<unitdate normal="1970/1991" type="inclusive">circa 1970-1991</unitdate>
+</did>
+</c02>
+<c02 id="ref122" level="file" score="1" C-ORDER="106">
+<did>
+<unittitle>Travel to France</unittitle>
+<container id="cid6656113" type="Box" label="Box">9</container>
+<container parent="cid6656113" type="folder" label="Folder">2</container>
+<unitdate normal="1976/1976">1976</unitdate>
+</did>
+</c02>
+<c02 id="ref123" level="file" score="1" C-ORDER="107">
+<did>
+<unittitle>Oral History transcript</unittitle>
+<container id="cid6656114" type="Box" label="Box">9</container>
+<container parent="cid6656114" type="folder" label="Folder">3</container>
+<unitdate normal="1983/1983">1983</unitdate>
+</did>
+</c02>
+<c02 id="ref124" level="file" score="1" C-ORDER="108">
+<did>
+<unittitle>CV, Worklist, Performance List</unittitle>
+<container id="cid6656115" type="Box" label="Box">9</container>
+<container parent="cid6656115" type="folder" label="Folder">4</container>
+<unitdate normal="1989/2002" type="inclusive">circa 1989-2002</unitdate>
+</did>
+</c02>
+<c02 id="ref126" level="file" score="1" C-ORDER="109">
+<did>
+<unittitle>Memorials</unittitle>
+<container id="cid6656117" type="Box" label="Box">9</container>
+<container parent="cid6656117" type="folder" label="Folder">5</container>
+<unitdate normal="2005/2005">2005</unitdate>
+</did>
+</c02>
+<c02 id="ref430" level="file" score="1" C-ORDER="110">
+<did>
+<unittitle>LACMA vs. Dorrance Stalvey</unittitle>
+<container id="cid6783001" type="Box" label="Box">9</container>
+<container parent="cid6783001" type="folder" label="Folder">10</container>
+<unitdate normal="2005/2005">2005</unitdate>
+</did>
+</c02>
+<c02 id="ref125" level="file" score="1" C-ORDER="111">
+<did>
+<unittitle>Appointment Books: 1982-1983</unittitle>
+<container id="cid6656116" type="Box" label="Box">9</container>
+<container parent="cid6656116" type="folder" label="Folder">6</container>
+<unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+</did>
+</c02>
+<c02 id="ref127" level="file" score="1" C-ORDER="112">
+<did>
+<unittitle>Appointment Books: 1984</unittitle>
+<container id="cid6656118" type="Box" label="Box">9</container>
+<container parent="cid6656118" type="folder" label="Folder">7</container>
+<unitdate normal="1984/1984">1984</unitdate>
+</did>
+</c02>
+<c02 id="ref128" level="file" score="1" C-ORDER="113">
+<did>
+<unittitle>Appointment Books: 1985</unittitle>
+<container id="cid6656119" type="Box" label="Box">9</container>
+<container parent="cid6656119" type="folder" label="Folder">8</container>
+<unitdate normal="1985/1985">1985</unitdate>
+</did>
+</c02>
+<c02 id="ref129" level="file" score="1" C-ORDER="114">
+<did>
+<unittitle>Appointment Books: 1986</unittitle>
+<container id="cid6656120" type="Box" label="Box">9</container>
+<container parent="cid6656120" type="folder" label="Folder">9</container>
+<unitdate normal="1986/1986">1986</unitdate>
+</did>
+</c02>
+<c02 id="ref130" level="file" score="1" C-ORDER="115">
+<did>
+<unittitle>Appointment Books: 1987</unittitle>
+<container id="cid6656121" type="Box" label="Box">10</container>
+<container parent="cid6656121" type="folder" label="Folder">1</container>
+<unitdate normal="1987/1987">1987</unitdate>
+</did>
+</c02>
+<c02 id="ref131" level="file" score="1" C-ORDER="116">
+<did>
+<unittitle>Appointment Books: 1988</unittitle>
+<container id="cid6656122" type="Box" label="Box">10</container>
+<container parent="cid6656122" type="folder" label="Folder">2</container>
+<unitdate normal="1988/1988">1988</unitdate>
+</did>
+</c02>
+<c02 id="ref132" level="file" score="1" C-ORDER="117">
+<did>
+<unittitle>Appointment Books: 1989</unittitle>
+<container id="cid6656123" type="Box" label="Box">10</container>
+<container parent="cid6656123" type="folder" label="Folder">3</container>
+<unitdate normal="1989/1989">1989</unitdate>
+</did>
+</c02>
+<c02 id="ref133" level="file" score="1" C-ORDER="118">
+<did>
+<unittitle>Appointment Books: 1990-1996</unittitle>
+<container id="cid6656124" type="Box" label="Box">10</container>
+<container parent="cid6656124" type="folder" label="Folder">4</container>
+<unitdate normal="1990/1996" type="inclusive">1990-1996</unitdate>
+</did>
+</c02>
+<c02 id="ref134" level="file" score="1" C-ORDER="119">
+<did>
+<unittitle>Appointment Books: 2002-2003</unittitle>
+<container id="cid6656125" type="Box" label="Box">10</container>
+<container parent="cid6656125" type="folder" label="Folder">5</container>
+<unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
+</did>
+</c02>
+<c02 id="ref135" level="file" score="1" C-ORDER="120">
+<did>
+<unittitle>Address Books</unittitle>
+<container id="cid6656126" type="Box" label="Box">10</container>
+<container parent="cid6656126" type="folder" label="Folder">6</container>
+<unitdate normal="1980/1989" type="inclusive">circa 1980s</unitdate>
+</did>
+</c02>
+<c02 id="ref136" level="file" score="1" C-ORDER="121">
+<did>
+<unittitle>Monday Evening Concerts: repertoire binder</unittitle>
+<container id="cid6656127" type="Box" label="Box">10</container>
+<container parent="cid6656127" type="folder" label="Folder">7</container>
+<unitdate normal="1971/1981" type="inclusive">1971-1981</unitdate>
+</did>
+</c02>
+<c02 id="ref137" level="file" score="1" C-ORDER="122">
+<did>
+<unittitle>Monday Evening Concerts: Photographs</unittitle>
+<container id="cid6656128" type="Box" label="Box">10</container>
+<container parent="cid6656128" type="folder" label="Folder">8</container>
+<unitdate normal="1970/1990" type="inclusive">circa 1970-1990</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref3" level="series" score="3" C-ORDER="123">
+<did>
+<unittitle>Series 3: Pedagogy</unittitle>
+<unitdate normal="1966/1984" type="inclusive">1966-1984</unitdate>
+</did>
+<scopecontent id="ref251">
+<head>Scope and Content</head>
+<p>This series consists primarily of lectures, syllabi, and lecture notes for courses Stalvey taught at Immaculate Heart College (IHC). It also includes his drafts and proposals for the complete music curriculum at IHC, as well as promotional materials from the College.</p>
+</scopecontent>
+<arrangement id="ref257">
+<head>Organization and Arrangement</head>
+<p>The pedagogy series is in alphabetical order by topic.</p>
+</arrangement>
+<c02 id="ref101" level="file" score="1" C-ORDER="126">
+<did>
+<unittitle>19th Century Orchestra Literature</unittitle>
+<container id="cid6656092" type="Box" label="Box">11</container>
+<container parent="cid6656092" type="folder" label="Folder">1</container>
+<unitdate normal="1967/1967">circa 1967</unitdate>
+</did>
+</c02>
+<c02 id="ref102" level="file" score="1" C-ORDER="127">
+<did>
+<unittitle>20th Century Music Literature</unittitle>
+<container id="cid6656093" type="Box" label="Box">11</container>
+<container parent="cid6656093" type="folder" label="Folder">2</container>
+<unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
+</did>
+</c02>
+<c02 id="ref103" level="file" score="1" C-ORDER="128">
+<did>
+<unittitle>Beginning Clarinet</unittitle>
+<container id="cid6656094" type="Box" label="Box">11</container>
+<container parent="cid6656094" type="folder" label="Folder">3</container>
+<unitdate normal="1961/1961">1961</unitdate>
+</did>
+</c02>
+<c02 id="ref104" level="file" score="1" C-ORDER="129">
+<did>
+<unittitle>Classical Music Literature</unittitle>
+<container id="cid6656095" type="Box" label="Box">11</container>
+<container parent="cid6656095" type="folder" label="Folder">4</container>
+<unitdate normal="1966/1968" type="inclusive">circa 1966-1968</unitdate>
+</did>
+</c02>
+<c02 id="ref105" level="file" score="1" C-ORDER="130">
+<did>
+<unittitle>Counterpoint</unittitle>
+<container id="cid6656096" type="Box" label="Box">11</container>
+<container parent="cid6656096" type="folder" label="Folder">5</container>
+<unitdate normal="1971/1971">1971</unitdate>
+</did>
+</c02>
+<c02 id="ref106" level="file" score="1" C-ORDER="131">
+<did>
+<unittitle>Electronic Music</unittitle>
+<container id="cid6656097" type="Box" label="Box">11</container>
+<container parent="cid6656097" type="folder" label="Folder">6</container>
+<unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+</did>
+</c02>
+<c02 id="ref107" level="file" score="1" C-ORDER="132">
+<did>
+<unittitle>Harmonic Analysis: Exams</unittitle>
+<container id="cid6656098" type="Box" label="Box">11</container>
+<container parent="cid6656098" type="folder" label="Folder">7</container>
+<unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+</did>
+</c02>
+<c02 id="ref108" level="file" score="1" C-ORDER="133">
+<did>
+<unittitle>Harmonic Analysis: Notes &amp; Scores</unittitle>
+<container id="cid6656099" type="Box" label="Box">11</container>
+<container parent="cid6656099" type="folder" label="Folder">8</container>
+<unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+</did>
+</c02>
+<c02 id="ref109" level="file" score="1" C-ORDER="134">
+<did>
+<unittitle>Music Literature for Non-Majors: Introduction to Contemporary Music</unittitle>
+<container id="cid6656100" type="Box" label="Box">11</container>
+<container parent="cid6656100" type="folder" label="Folder">9</container>
+<unitdate normal="1967/1969" type="inclusive">circa late 1960s</unitdate>
+</did>
+</c02>
+<c02 id="ref110" level="file" score="1" C-ORDER="135">
+<did>
+<unittitle>Music Literature for Non-Majors: 19th and 20th Century, Lectures 1-7</unittitle>
+<container id="cid6656101" type="Box" label="Box">11</container>
+<container parent="cid6656101" type="folder" label="Folder">10</container>
+<unitdate normal="1960/1960">1960</unitdate>
+</did>
+</c02>
+<c02 id="ref111" level="file" score="1" C-ORDER="136">
+<did>
+<unittitle>Music Literature for Non-Majors: Syllabi, Lectures, Notes</unittitle>
+<container id="cid6656102" type="Box" label="Box">11</container>
+<container parent="cid6656102" type="folder" label="Folder">11</container>
+<unitdate normal="1960/1967" type="inclusive">1960-1967</unitdate>
+</did>
+</c02>
+<c02 id="ref112" level="file" score="1" C-ORDER="137">
+<did>
+<unittitle>Orchestration</unittitle>
+<container id="cid6656103" type="Box" label="Box">11</container>
+<container parent="cid6656103" type="folder" label="Folder">12</container>
+<unitdate normal="1960/1968" type="inclusive">circa 1960s</unitdate>
+</did>
+</c02>
+<c02 id="ref113" level="file" score="1" C-ORDER="138">
+<did>
+<unittitle>Structural Analysis</unittitle>
+<container id="cid6656104" type="Box" label="Box">11</container>
+<container parent="cid6656104" type="folder" label="Folder">13</container>
+<unitdate normal="1967/1969" type="inclusive">circa late 1960s</unitdate>
+</did>
+</c02>
+<c02 id="ref114" level="file" score="1" C-ORDER="139">
+<did>
+<unittitle>Curriculum Proposals: Complete</unittitle>
+<container id="cid6656105" type="Box" label="Box">11</container>
+<container parent="cid6656105" type="folder" label="Folder">14</container>
+<unitdate normal="1970/1978" type="inclusive">1970-1978</unitdate>
+</did>
+</c02>
+<c02 id="ref115" level="file" score="1" C-ORDER="140">
+<did>
+<unittitle>Curriculum Proposals: Drafts</unittitle>
+<container id="cid6656106" type="Box" label="Box">11</container>
+<container parent="cid6656106" type="folder" label="Folder">15</container>
+<unitdate normal="1970/1976" type="inclusive">circa 1970s</unitdate>
+</did>
+</c02>
+<c02 id="ref116" level="file" score="1" C-ORDER="141">
+<did>
+<unittitle>Immaculate Heart College Promotional</unittitle>
+<container id="cid6656107" type="Box" label="Box">11</container>
+<container parent="cid6656107" type="folder" label="Folder">16</container>
+<unitdate normal="1970/1984" type="inclusive">1970s and 1980s</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref188" level="series" score="3" C-ORDER="142">
+<did>
+<unittitle>Series 4: Composition</unittitle>
+<unitdate normal="1953/2005" type="inclusive">1953-2005</unitdate>
+</did>
+<scopecontent id="ref253">
+<head>Scope and Content</head>
+<p>This series includes Stalvey’s sketches and maps for works in progress, notes on errata for scores and recordings, and scores and instructions for the large multimedia pieces he made in the early 1970s. His compositions are in various media and forms: chamber, solo, vocal, orchestral, electronic, music-theater, multi-media, and dance, with performances of his works in over 20 countries. He was working on his first opera, 
+<emph render="italic">Kursk</emph>, when he passed away and, although unfinished, there are plans for the performance.</p>
+<p>Many of the scores have corresponding materials in the Media series, which may consist of archival performance recordings, tape parts for electroacoustic pieces, source material, interviews about the work, or wholly electronic works.</p>
+<p>Contents of the score files vary; they may include pencil manuscripts, copyist vellum manuscripts, sketches, bound or printed scores, bound or printed parts, partial scores, drafts, and notes on the pieces.</p>
+</scopecontent>
+<arrangement id="ref258">
+<head>Organization and Arrangement</head>
+<p>The composition series is in chronological order in Box 13-18. Box 12 has its own chronological order.</p>
+</arrangement>
+<c02 id="ref223" level="file" score="1" C-ORDER="145">
+<did>
+<unittitle>Jazz Charts</unittitle>
+<container id="cid6656212" type="Box" label="Box">12</container>
+<container parent="cid6656212" type="folder" label="Folder">1</container>
+<unitdate>unknown</unitdate>
+</did>
+</c02>
+<c02 id="ref224" level="file" score="1" C-ORDER="146">
+<did>
+<unittitle>Tools &amp; Maps</unittitle>
+<container id="cid6656213" type="Box" label="Box">12</container>
+<container parent="cid6656213" type="folder" label="Folder">2</container>
+<unitdate normal="1960/1990" type="inclusive">circa 1960-1990</unitdate>
+</did>
+</c02>
+<c02 id="ref225" level="file" score="1" C-ORDER="147">
+<did>
+<unittitle>Multimedia Lectures</unittitle>
+<container id="cid6656214" type="Box" label="Box">12</container>
+<container parent="cid6656214" type="folder" label="Folder">3</container>
+<unitdate normal="1967/1970" type="inclusive">1967-1970</unitdate>
+</did>
+</c02>
+<c02 id="ref226" level="file" score="1" C-ORDER="148">
+<did>
+<unittitle>Visual Materials</unittitle>
+<container id="cid6656215" type="Box" label="Box">12</container>
+<container parent="cid6656215" type="folder" label="Folder">4</container>
+<unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate>
+</did>
+</c02>
+<c02 id="ref227" level="file" score="1" C-ORDER="149">
+<did>
+<unittitle>
+<emph render="italic">Let's Make A Tape</emph></unittitle>
+<container id="cid6656216" type="Box" label="Box">12</container>
+<container parent="cid6656216" type="folder" label="Folder">5</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+</c02>
+<c02 id="ref228" level="file" score="1" C-ORDER="150">
+<did>
+<unittitle>
+<emph render="italic">Whatever Happened To Me?</emph></unittitle>
+<container id="cid6656217" type="Box" label="Box">12</container>
+<container parent="cid6656217" type="folder" label="Folder">6</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+</c02>
+<c02 id="ref229" level="file" score="1" C-ORDER="151">
+<did>
+<unittitle>
+<emph render="italic">In Time And Not</emph>: Announcements &amp; Reviews</unittitle>
+<container id="cid6656218" type="Box" label="Box">12</container>
+<container parent="cid6656218" type="folder" label="Folder">7</container>
+<unitdate normal="1970/1972" type="inclusive">1970-1972</unitdate>
+</did>
+</c02>
+<c02 id="ref230" level="file" score="1" C-ORDER="152">
+<did>
+<unittitle>
+<emph render="italic">In Time And Not</emph>: Scores &amp; Production Notes</unittitle>
+<container id="cid6656219" type="Box" label="Box">12</container>
+<container parent="cid6656219" type="folder" label="Folder">8</container>
+<unitdate normal="1970/1972" type="inclusive">1970-1972</unitdate>
+</did>
+</c02>
+<c02 id="ref231" level="file" score="1" C-ORDER="153">
+<did>
+<unittitle>
+<emph render="italic">Rabbit Season</emph></unittitle>
+<container id="cid6656220" type="Box" label="Box">12</container>
+<container parent="cid6656220" type="folder" label="Folder">9</container>
+<unitdate normal="1974/1974">1974</unitdate>
+</did>
+</c02>
+<c02 id="ref232" level="file" score="1" C-ORDER="154">
+<did>
+<unittitle>Corrections &amp; Errata</unittitle>
+<container id="cid6656221" type="Box" label="Box">12</container>
+<container parent="cid6656221" type="folder" label="Folder">10</container>
+<unitdate normal="1980/1995" type="inclusive">circa 1980-1995</unitdate>
+</did>
+</c02>
+<c02 id="ref197" level="file" score="1" C-ORDER="155">
+<did>
+<unittitle>
+<emph render="italic">Motif and Improvisations</emph></unittitle>
+<container id="cid6656186" type="Box" label="Box">13</container>
+<container parent="cid6656186" type="folder" label="Folder">1</container>
+<unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
+</did>
+</c02>
+<c02 id="ref198" level="file" score="1" C-ORDER="156">
+<did>
+<unittitle>
+<emph render="italic">Music for Jazz Group and Orchestra</emph></unittitle>
+<container id="cid6656187" type="Box" label="Box">13</container>
+<container parent="cid6656187" type="folder" label="Folder">2</container>
+<unitdate normal="1955/1955">1955</unitdate>
+</did>
+</c02>
+<c02 id="ref199" level="file" score="1" C-ORDER="157">
+<did>
+<unittitle>
+<emph render="italic">Two Pieces for Wind Band and Percussion</emph></unittitle>
+<container id="cid6656188" type="Box" label="Box">13</container>
+<container parent="cid6656188" type="folder" label="Folder">3</container>
+<unitdate normal="1957/1957">1957</unitdate>
+</did>
+</c02>
+<c02 id="ref200" level="file" score="1" C-ORDER="158">
+<did>
+<unittitle>
+<emph render="italic">Five Little Pieces</emph></unittitle>
+<container id="cid6656189" type="Box" label="Box">13</container>
+<container parent="cid6656189" type="folder" label="Folder">4</container>
+<unitdate normal="1957/1977" type="inclusive">1957, revised 1977</unitdate>
+</did>
+</c02>
+<c02 id="ref201" level="file" score="1" C-ORDER="159">
+<did>
+<unittitle>
+<emph render="italic">Classical Retrospective, Brief Passage, Five Little Pieces</emph></unittitle>
+<container id="cid6656190" type="Box" label="Box">13</container>
+<container parent="cid6656190" type="folder" label="Folder">5</container>
+<unitdate normal="1957/1986" type="inclusive">1957-1986</unitdate>
+</did>
+</c02>
+<c02 id="ref202" level="file" score="1" C-ORDER="160">
+<did>
+<unittitle>
+<emph render="italic">Song</emph>, for soprano and piano</unittitle>
+<container id="cid6656191" type="Box" label="Box">14</container>
+<container parent="cid6656191" type="folder" label="Folder">1</container>
+<unitdate normal="1958/1958">1958</unitdate>
+</did>
+</c02>
+<c02 id="ref203" level="file" score="1" C-ORDER="161">
+<did>
+<unittitle>
+<emph render="italic">String Trio</emph></unittitle>
+<container id="cid6656192" type="Box" label="Box">14</container>
+<container parent="cid6656192" type="folder" label="Folder">2</container>
+<unitdate normal="1959/1961" type="inclusive">1959-1961</unitdate>
+</did>
+</c02>
+<c02 id="ref204" level="file" score="1" C-ORDER="162">
+<did>
+<unittitle>
+<emph render="italic">Trio for Four</emph></unittitle>
+<container id="cid6656193" type="Box" label="Box">14</container>
+<container parent="cid6656193" type="folder" label="Folder">3</container>
+<unitdate normal="1960/1978" type="inclusive">1960, revised 1978</unitdate>
+</did>
+</c02>
+<c02 id="ref205" level="file" score="1" C-ORDER="163">
+<did>
+<unittitle>
+<emph render="italic">A Day Past (Music for Children)</emph></unittitle>
+<container id="cid6656194" type="Box" label="Box">14</container>
+<container parent="cid6656194" type="folder" label="Folder">4</container>
+<unitdate normal="1960/1976" type="inclusive">1960, revised 1976</unitdate>
+</did>
+</c02>
+<c02 id="ref206" level="file" score="1" C-ORDER="164">
+<did>
+<unittitle>
+<emph render="italic">Duo Pour Les Jeunes</emph></unittitle>
+<container id="cid6656195" type="Box" label="Box">14</container>
+<container parent="cid6656195" type="folder" label="Folder">5</container>
+<unitdate normal="1960/1960">1960</unitdate>
+</did>
+</c02>
+<c02 id="ref207" level="file" score="1" C-ORDER="165">
+<did>
+<unittitle>
+<emph render="italic">Movements and Interludes</emph></unittitle>
+<container id="cid6656196" type="Box" label="Box">14</container>
+<container parent="cid6656196" type="folder" label="Folder">6</container>
+<unitdate normal="1964/1964">1964</unitdate>
+</did>
+</c02>
+<c02 id="ref208" level="file" score="1" C-ORDER="166">
+<did>
+<unittitle>
+<emph render="italic">Duet to the Young</emph></unittitle>
+<container id="cid6656197" type="Box" label="Box">15</container>
+<container parent="cid6656197" type="folder" label="Folder">1</container>
+<unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+</did>
+</c02>
+<c02 id="ref209" level="file" score="1" C-ORDER="167">
+<did>
+<unittitle>
+<emph render="italic">Changes, Lullaby</emph></unittitle>
+<container id="cid6656198" type="Box" label="Box">15</container>
+<container parent="cid6656198" type="folder" label="Folder">2</container>
+<unitdate normal="1966/1966">1966</unitdate>
+</did>
+</c02>
+<c02 id="ref210" level="file" score="1" C-ORDER="168">
+<did>
+<unittitle>
+<emph render="italic">Celebration - Sequent 1, Prime, Principium</emph></unittitle>
+<container id="cid6656199" type="Box" label="Box">15</container>
+<container parent="cid6656199" type="folder" label="Folder">3</container>
+<unitdate normal="1967/1977" type="inclusive">1967-1977</unitdate>
+</did>
+</c02>
+<c02 id="ref425" level="file" score="1" C-ORDER="169">
+<did>
+<unittitle>
+<emph render="italic">Celebration - Sequent 1</emph></unittitle>
+<container id="cid6770003" type="Box" label="Box">25</container>
+<container parent="cid6770003" type="folder" label="Folder">1</container>
+<unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+</did>
+</c02>
+<c02 id="ref211" level="file" score="1" C-ORDER="170">
+<did>
+<unittitle>
+<emph render="italic">Points, Lines, Circles</emph></unittitle>
+<container id="cid6656200" type="Box" label="Box">15</container>
+<container parent="cid6656200" type="folder" label="Folder">4</container>
+<unitdate normal="1968/1968">1968</unitdate>
+</did>
+</c02>
+<c02 id="ref212" level="file" score="1" C-ORDER="171">
+<did>
+<unittitle>
+<emph render="italic">PLC-Abstract, PLC - Abstract-Plus, PLC - Fraction</emph></unittitle>
+<container id="cid6656201" type="Box" label="Box">15</container>
+<container parent="cid6656201" type="folder" label="Folder">5</container>
+<unitdate normal="1968/1982" type="inclusive">1968-1982</unitdate>
+</did>
+</c02>
+<c02 id="ref213" level="file" score="1" C-ORDER="172">
+<did>
+<unittitle>
+<emph render="italic">Conflicts</emph></unittitle>
+<container id="cid6656202" type="Box" label="Box">15</container>
+<container parent="cid6656202" type="folder" label="Folder">6</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+</c02>
+<c02 id="ref214" level="file" score="1" C-ORDER="173">
+<did>
+<unittitle>
+<emph render="italic">Togethers I</emph></unittitle>
+<container id="cid6656203" type="Box" label="Box">15</container>
+<container parent="cid6656203" type="folder" label="Folder">7</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+</c02>
+<c02 id="ref215" level="file" score="1" C-ORDER="174">
+<did>
+<unittitle>
+<emph render="italic">Togethers II</emph></unittitle>
+<container id="cid6656204" type="Box" label="Box">15</container>
+<container parent="cid6656204" type="folder" label="Folder">8</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+</c02>
+<c02 id="ref216" level="file" score="1" C-ORDER="175">
+<did>
+<unittitle>
+<emph render="italic">Togethers III</emph></unittitle>
+<container id="cid6656205" type="Box" label="Box">15</container>
+<container parent="cid6656205" type="folder" label="Folder">9</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+</c02>
+<c02 id="ref217" level="file" score="1" C-ORDER="176">
+<did>
+<unittitle>
+<emph render="italic">Celebration - Sequent II</emph></unittitle>
+<container id="cid6656206" type="Box" label="Box">16</container>
+<container parent="cid6656206" type="folder" label="Folder">1</container>
+<unitdate normal="1976/1976">1976</unitdate>
+</did>
+</c02>
+<c02 id="ref218" level="file" score="1" C-ORDER="177">
+<did>
+<unittitle>
+<emph render="italic">Agathlon</emph></unittitle>
+<container id="cid6656207" type="Box" label="Box">16</container>
+<container parent="cid6656207" type="folder" label="Folder">2</container>
+<unitdate normal="1978/1978">1978</unitdate>
+</did>
+</c02>
+<c02 id="ref219" level="file" score="1" C-ORDER="178">
+<did>
+<unittitle>
+<emph render="italic">Three Pairs and Seven</emph></unittitle>
+<container id="cid6656208" type="Box" label="Box">16</container>
+<container parent="cid6656208" type="folder" label="Folder">3</container>
+<unitdate normal="1979/1979">1979</unitdate>
+</did>
+</c02>
+<c02 id="ref220" level="file" score="1" C-ORDER="179">
+<did>
+<unittitle>
+<emph render="italic">Happy Birthday</emph></unittitle>
+<container id="cid6656209" type="Box" label="Box">16</container>
+<container parent="cid6656209" type="folder" label="Folder">4</container>
+<unitdate normal="1980/1980">1980</unitdate>
+</did>
+</c02>
+<c02 id="ref221" level="file" score="1" C-ORDER="180">
+<did>
+<unittitle>
+<emph render="italic">Celebration - Sequent IV</emph></unittitle>
+<container id="cid6656210" type="Box" label="Box">16</container>
+<container parent="cid6656210" type="folder" label="Folder">5</container>
+<unitdate normal="1980/1980">1980</unitdate>
+</did>
+</c02>
+<c02 id="ref222" level="file" score="1" C-ORDER="181">
+<did>
+<unittitle>
+<emph render="italic">Mixed Gallery</emph></unittitle>
+<container id="cid6656211" type="Box" label="Box">16</container>
+<container parent="cid6656211" type="folder" label="Folder">6</container>
+<unitdate normal="1980/1980">arranged 1980</unitdate>
+</did>
+</c02>
+<c02 id="ref233" level="file" score="1" C-ORDER="182">
+<did>
+<unittitle>
+<emph render="italic">Jazz, ca. '53</emph></unittitle>
+<container id="cid6656222" type="Box" label="Box">17</container>
+<container parent="cid6656222" type="folder" label="Folder">1</container>
+<unitdate normal="1982/1982">1982</unitdate>
+</did>
+</c02>
+<c02 id="ref234" level="file" score="1" C-ORDER="183">
+<did>
+<unittitle>
+<emph render="italic">Nancarrow Suite</emph></unittitle>
+<container id="cid6656223" type="Box" label="Box">17</container>
+<container parent="cid6656223" type="folder" label="Folder">2</container>
+<unitdate normal="1983/1983">1983</unitdate>
+</did>
+</c02>
+<c02 id="ref424" level="file" score="1" C-ORDER="184">
+<did>
+<unittitle>
+<emph render="italic">Ex Ferus</emph></unittitle>
+<container id="cid6770001" type="Box" label="Box">25</container>
+<container parent="cid6770001" type="folder" label="Folder">2</container>
+<unitdate normal="1984/1984">1984</unitdate>
+</did>
+</c02>
+<c02 id="ref235" level="file" score="1" C-ORDER="185">
+<did>
+<unittitle>
+<emph render="italic">Pound Songs</emph></unittitle>
+<container id="cid6656224" type="Box" label="Box">17</container>
+<container parent="cid6656224" type="folder" label="Folder">3</container>
+<unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+</did>
+</c02>
+<c02 id="ref236" level="file" score="1" C-ORDER="186">
+<did>
+<unittitle>
+<emph render="italic">Dualities</emph></unittitle>
+<container id="cid6656225" type="Box" label="Box">17</container>
+<container parent="cid6656225" type="folder" label="Folder">4</container>
+<unitdate normal="1987/1987">1987</unitdate>
+</did>
+</c02>
+<c02 id="ref237" level="file" score="1" C-ORDER="187">
+<did>
+<unittitle>
+<emph render="italic">String Quartet</emph></unittitle>
+<container id="cid6656226" type="Box" label="Box">17</container>
+<container parent="cid6656226" type="folder" label="Folder">5</container>
+<unitdate normal="1989/1989">1989</unitdate>
+</did>
+</c02>
+<c02 id="ref238" level="file" score="1" C-ORDER="188">
+<did>
+<unittitle>
+<emph render="italic">Exordium/Genesis/Dawn</emph></unittitle>
+<container id="cid6656227" type="Box" label="Box">17</container>
+<container parent="cid6656227" type="folder" label="Folder">6</container>
+<unitdate normal="1990/1990">1990</unitdate>
+</did>
+</c02>
+<c02 id="ref190" level="file" score="1" C-ORDER="189">
+<did>
+<unittitle>
+<emph render="italic">Prevue</emph></unittitle>
+<container id="cid6656179" type="Box" label="Box">18</container>
+<container parent="cid6656179" type="folder" label="Folder">1</container>
+<unitdate normal="1999/1999">1999</unitdate>
+</did>
+</c02>
+<c02 id="ref191" level="file" score="1" C-ORDER="190">
+<did>
+<unittitle>
+<emph render="italic">Requiem for a Dancer</emph></unittitle>
+<container id="cid6656180" type="Box" label="Box">18</container>
+<container parent="cid6656180" type="folder" label="Folder">2</container>
+<unitdate normal="1991/2001" type="inclusive">1991, revised 2001</unitdate>
+</did>
+</c02>
+<c02 id="ref192" level="file" score="1" C-ORDER="191">
+<did>
+<unittitle>
+<emph render="italic">Stream</emph></unittitle>
+<container id="cid6656181" type="Box" label="Box">18</container>
+<container parent="cid6656181" type="folder" label="Folder">3</container>
+<unitdate normal="2002/2002">2002</unitdate>
+</did>
+</c02>
+<c02 id="ref193" level="file" score="1" C-ORDER="192">
+<did>
+<unittitle>
+<emph render="italic">Kursk</emph>: Pencil ms: Beginning- Act I, sc. 3</unittitle>
+<container id="cid6656182" type="Box" label="Box">18</container>
+<container parent="cid6656182" type="folder" label="Folder">4</container>
+<unitdate normal="2005/2005">2005</unitdate>
+</did>
+</c02>
+<c02 id="ref194" level="file" score="1" C-ORDER="193">
+<did>
+<unittitle>
+<emph render="italic">Kursk</emph>: Pencil ms: Act I, sc. 4- end</unittitle>
+<container id="cid6656183" type="Box" label="Box">18</container>
+<container parent="cid6656183" type="folder" label="Folder">5</container>
+<unitdate normal="2005/2005">2005</unitdate>
+</did>
+</c02>
+<c02 id="ref195" level="file" score="1" C-ORDER="194">
+<did>
+<unittitle>
+<emph render="italic">Kursk</emph>: Sketches</unittitle>
+<container id="cid6656184" type="Box" label="Box">18</container>
+<container parent="cid6656184" type="folder" label="Folder">6</container>
+<unitdate normal="2005/2005">2005</unitdate>
+</did>
+</c02>
+<c02 id="ref196" level="file" score="1" C-ORDER="195">
+<did>
+<unittitle>Fragments &amp; Sketches (general)</unittitle>
+<container id="cid6656185" type="Box" label="Box">18</container>
+<container parent="cid6656185" type="folder" label="Folder">7</container>
+<unitdate>unknown</unitdate>
+</did>
+</c02>
+<c02 id="ref426" level="file" score="1" C-ORDER="196">
+<did>
+<unittitle>Sketches and Precompositional Materials, 1/2</unittitle>
+<container id="cid6770002" type="Box" label="Box">26</container>
+<container parent="cid6770002" type="folder" label="Folder">1</container>
+<unitdate>various</unitdate>
+</did>
+</c02>
+<c02 id="ref427" level="file" score="1" C-ORDER="197">
+<did>
+<unittitle>Sketches and Precompositional Material, 2/2</unittitle>
+<container id="cid6770004" type="Box" label="Box">26</container>
+<container parent="cid6770004" type="folder" label="Folder">2</container>
+<unitdate>various</unitdate>
+</did>
+</c02>
+</c01>
+<c01 id="ref260" level="series" score="5" C-ORDER="198">
+<did>
+<unittitle>Series 5: Media</unittitle>
+<unitdate>1960s-2004</unitdate>
+</did>
+<accessrestrict id="ref436">
+<head>Restrictions on Access</head>
+<p>Audio materials in this collection require advance notice for use. Use of audio material requires production of listening copies.</p>
+</accessrestrict>
+<phystech id="ref285">
+<head>Physical Characteristics and Technical Requirements</head>
+<p>Formats include 5" reel, 10" reel (1/4" and 1" tape), cassettes, CDs, VHS, slides, and 16mm film, including promotional recordings, accompanying tracks to electroacoustic works, and source materials for electronic pieces.</p>
+<p>SERIES CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing.  To access digital materials you must notify the reference desk in advance of your visit.</p>
+</phystech>
+<scopecontent id="ref286">
+<head>Scope and Content</head>
+<p>The media series includes archival recordings of performances of Stalvey's work or concerts organized by Stalvey, sound source recordings, electronic works, and tape or accompaniment parts for Stalvey's electroacoustic pieces. It includes film and slides for projection with multimedia pieces, and rehearsal footage of works Stalvey wrote for the Erick Hawkins Dance Company.</p>
+</scopecontent>
+<arrangement id="ref359">
+<head>Organization and Arrangement</head>
+<p>Series is arranged alphabetically by title or contents. Many items contain multiple titles and are arranged by first title listed.</p>
+</arrangement>
+<c02 id="ref264" level="file" score="3" C-ORDER="203">
+<did>
+<unittitle>
+<emph render="italic">Abstract- Plus</emph></unittitle>
+<container id="cid6692004" type="Box" label="Box">19</container>
+<container parent="cid6692004" type="folder" label="Folder">1</container>
+<unitdate normal="1968/1982" type="inclusive">1982</unitdate>
+</did>
+<scopecontent id="ref265">
+<head>Scope and Content</head>
+<p>Includes performance recording and accompanying tape part (master).</p>
+<p>Cassette includes PLC-Extract.</p>
+</scopecontent>
+<phystech id="ref267">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Formats include 7" reel and cassette.</p>
+</phystech>
+</c02>
+<c02 id="ref261" level="file" score="3" C-ORDER="206">
+<did>
+<unittitle>
+<emph render="italic">Agathlon</emph></unittitle>
+<container id="cid6692003" type="Box" label="Box">19</container>
+<container parent="cid6692003" type="folder" label="Folder">2</container>
+<unitdate normal="1978/1991" type="inclusive">undated, 1978 September 11, 1979 October 28, 1991 April 4</unitdate>
+</did>
+<phystech id="ref262">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Formats include: 10" open reel, 7" open reel, VHS, and audio cassette formats</p>
+</phystech>
+<scopecontent id="ref263">
+<head>Scope and Content</head>
+<p>Contains performance and rehearsal tapes for Agathlon, written for the Erick Hawkins Dance Company and also performed as a concert work.</p>
+<p>Gerhard Samuel, conductor Monday Evening Concerts ensemble Erick Hawkins Dance Company</p>
+<p>Two of the items also contain the following titles: Togethers II and The Rabbit</p>
+</scopecontent>
+</c02>
+<c02 id="ref269" level="file" score="2" C-ORDER="209">
+<did>
+<unittitle>Arrangements and Orchestrations</unittitle>
+<container id="cid6692002" type="Box" label="Box">19</container>
+<container parent="cid6692002" type="folder" label="Folder">3</container>
+<unitdate>various</unitdate>
+</did>
+<scopecontent id="ref270">
+<head>Scope and Content</head>
+<p>cassette of big band and other arrangements.</p>
+</scopecontent>
+</c02>
+<c02 id="ref272" level="file" score="2" C-ORDER="211">
+<did>
+<unittitle>
+<emph render="italic">Bells-Water-Bells</emph></unittitle>
+<container id="cid6692005" type="Box" label="Box">19</container>
+<container parent="cid6692005" type="folder" label="Folder">4</container>
+<unitdate>unknown</unitdate>
+</did>
+<scopecontent id="ref273">
+<head>Scope and Content</head>
+<p>Electronic piece. 7" reel.</p>
+</scopecontent>
+</c02>
+<c02 id="ref274" level="file" score="3" C-ORDER="213">
+<did>
+<unittitle>
+<emph render="italic">Celebration - Principium</emph></unittitle>
+<container id="cid6692006" type="Box" label="Box">19</container>
+<container parent="cid6692006" type="folder" label="Folder">5</container>
+<unitdate normal="1967/1980" type="inclusive">1980</unitdate>
+</did>
+<phystech id="ref275">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Formats include 7" reel, 10" reel, and cassette.</p>
+</phystech>
+<scopecontent id="ref276">
+<head>Scope and Content</head>
+<p>Performance recording of Celebration - Principium. Also includes Celebration - Sequent IV.</p>
+</scopecontent>
+</c02>
+<c02 id="ref277" level="file" score="3" C-ORDER="216">
+<did>
+<unittitle>
+<emph render="italic">Celebration - Sequent I</emph></unittitle>
+<container id="cid6692007" type="Box" label="Box">19</container>
+<container parent="cid6692007" type="folder" label="Folder">6</container>
+<unitdate normal="1973/1977" type="inclusive">1973</unitdate>
+</did>
+<phystech id="ref278">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Formats include 7" reel (2), 10" reel (master), and cassette.</p>
+</phystech>
+<scopecontent id="ref279">
+<head>Scope and Content</head>
+<p>Recordings from various performances of Celebration - Sequent 1.</p>
+</scopecontent>
+</c02>
+<c02 id="ref280" level="file" score="3" C-ORDER="219">
+<did>
+<unittitle>
+<emph render="italic">Celebration - Sequent II</emph></unittitle>
+<container id="cid6692008" type="Box" label="Box">20</container>
+<container parent="cid6692008" type="folder" label="Folder">1</container>
+<unitdate normal="1976/1976">December 1, 1976</unitdate>
+</did>
+<phystech id="ref281">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Includes 7" reels (2) and 10" reels (2, one marked master). 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref282">
+<head>Scope and Content</head>
+<p>Multiple recordings of the same evening's performances of the piece Celebration - Sequent II along with Dorrance Stalvey interviews. Conductor is Gerhard Samuel. The piece was performed twice the same evening.</p>
+</scopecontent>
+</c02>
+<c02 id="ref284" level="file" score="3" C-ORDER="222">
+<did>
+<unittitle>
+<emph render="italic">Changes</emph></unittitle>
+<container id="cid6692010" type="Box" label="Box">22</container>
+<container parent="cid6692010" type="folder" label="Folder">2</container>
+<unitdate normal="1966/1966">1966</unitdate>
+</did>
+<phystech id="ref357">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref358">
+<head>Scope and Content</head>
+<p>Recording of multiple performances of the solo piano piece, Changes.</p>
+</scopecontent>
+</c02>
+<c02 id="ref288" level="file" score="3" C-ORDER="225">
+<did>
+<unittitle>Composer's Portrait Concert</unittitle>
+<container id="cid6692012" type="Box" label="Box">20</container>
+<container parent="cid6692012" type="folder" label="Folder">2</container>
+<unitdate normal="1980/1980">March 24, 1980</unitdate>
+</did>
+<phystech id="ref289">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref290">
+<head>Scope and Content</head>
+<p>Los Angeles Philharmonic and UCLA presentation of Dorrance Stalvey's music. Program enclosed.</p>
+</scopecontent>
+</c02>
+<c02 id="ref291" level="file" score="2" C-ORDER="228">
+<did>
+<unittitle>
+<emph render="italic">Ex Ferus</emph></unittitle>
+<container id="cid6692013" type="Box" label="Box">20</container>
+<container parent="cid6692013" type="folder" label="Folder">3</container>
+<unitdate normal="1982/1984" type="inclusive">1982</unitdate>
+</did>
+<phystech id="ref292">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Formats include 7" reel, 10" reel, and cassette.</p>
+</phystech>
+</c02>
+<c02 id="ref293" level="file" score="3" C-ORDER="230">
+<did>
+<unittitle>
+<emph render="italic">Exordium/Genesis/Dawn</emph></unittitle>
+<container id="cid6692014" type="Box" label="Box">20</container>
+<container parent="cid6692014" type="folder" label="Folder">4</container>
+<unitdate normal="1990/1990">1990</unitdate>
+</did>
+<phystech id="ref294">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>cassette, 90 min.</p>
+</phystech>
+<scopecontent id="ref295">
+<head>Scope and Content</head>
+<p>Performance of the piece Exordium/Genesis/Dawn by the New York New Music Ensemble.</p>
+</scopecontent>
+</c02>
+<c02 id="ref296" level="file" score="3" C-ORDER="233">
+<did>
+<unittitle>
+<emph render="italic">Fanfare and Celebration</emph></unittitle>
+<container id="cid6692015" type="Box" label="Box">20</container>
+<container parent="cid6692015" type="folder" label="Folder">5</container>
+<unitdate normal="1980/1980">1980</unitdate>
+</did>
+<phystech id="ref297">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Cassette, 60 min.</p>
+</phystech>
+<scopecontent id="ref298">
+<head>Scope and Content</head>
+<p>Performance by the Monday Evening Concerts ensemble, Joel Thome, conductor.</p>
+<p>Also contains Agathlon performance, MEC ensemble, Karl Kohn, conductor.</p>
+</scopecontent>
+</c02>
+<c02 id="ref299" level="file" score="3" C-ORDER="236">
+<did>
+<unittitle>First Tape Piece</unittitle>
+<container id="cid6692016" type="Box" label="Box">20</container>
+<container parent="cid6692016" type="folder" label="Folder">6</container>
+<unitdate normal="1969/1969">1969</unitdate>
+</did>
+<phystech id="ref300">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel, 2 tracks. Recording at 7 1/2 ips and 15 ips.</p>
+</phystech>
+<scopecontent id="ref301">
+<head>Scope and Content</head>
+<p>Recording of an early electronic work.</p>
+</scopecontent>
+</c02>
+<c02 id="ref302" level="file" score="3" C-ORDER="239">
+<did>
+<unittitle>
+<emph render="italic">Fitan</emph></unittitle>
+<container id="cid6692017" type="Box" label="Box">20</container>
+<container parent="cid6692017" type="folder" label="Folder">7</container>
+<unitdate normal="1971/1971">1971</unitdate>
+</did>
+<phystech id="ref303">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel, 1/2 track stereo, 15 ips.</p>
+</phystech>
+<scopecontent id="ref304">
+<head>Scope and Content</head>
+<p>Two-channel tape piece.</p>
+</scopecontent>
+</c02>
+<c02 id="ref306" level="file" score="3" C-ORDER="242">
+<did>
+<unittitle>
+<emph render="italic">Happy Birthday</emph></unittitle>
+<container id="cid6692018" type="Box" label="Box">20</container>
+<container parent="cid6692018" type="folder" label="Folder">8</container>
+<unitdate>unknown</unitdate>
+</did>
+<phystech id="ref307">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Cassette, 45 min.</p>
+</phystech>
+<scopecontent id="ref308">
+<head>Scope and Content</head>
+<p>Dorrance Stalvey arrangement of Happy Birthday, performed by the Monday Evening Concerts ensemble and performed for Nicholas Slonimsky's birthday.</p>
+</scopecontent>
+</c02>
+<c02 id="ref309" level="file" score="3" C-ORDER="245">
+<did>
+<unittitle>
+<emph render="italic">In Time And Not</emph></unittitle>
+<container id="cid6692019" type="Box" label="Box">20</container>
+<container parent="cid6692019" type="folder" label="Folder">9</container>
+<unitdate normal="1970/1971" type="inclusive">1970</unitdate>
+</did>
+<phystech id="ref310">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel (5 copies, including one marked master).</p>
+</phystech>
+<scopecontent id="ref311">
+<head>Scope and Content</head>
+<p>Soundtrack to a mixed media performance written, designed, and directed by Stalvey.</p>
+<p>One includes Togethers II.</p>
+</scopecontent>
+</c02>
+<c02 id="ref312" level="file" score="3" C-ORDER="248">
+<did>
+<unittitle>Interviews</unittitle>
+<container id="cid6692020" type="Box" label="Box">21</container>
+<container parent="cid6692020" type="folder" label="Folder">1</container>
+<unitdate normal="1971/1971">3/3/1971</unitdate>
+</did>
+<phystech id="ref313">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref314">
+<head>Scope and Content</head>
+<p>Contains a Dorrance Stalvey interview on KUSC, with Harold Budd and Roger Kellaway.</p>
+</scopecontent>
+</c02>
+<c02 id="ref315" level="file" score="3" C-ORDER="251">
+<did>
+<unittitle>
+<emph render="italic">Let's Make A Tape</emph></unittitle>
+<container id="cid6692021" type="Box" label="Box">21</container>
+<container parent="cid6692021" type="folder" label="Folder">2</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+<phystech id="ref316">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref317">
+<head>Scope and Content</head>
+<p>Tape part for a children's show at the Hollywood Bowl. Marked Tape 1, no known tape 2 in this collection.</p>
+</scopecontent>
+</c02>
+<c02 id="ref400" level="file" score="3" C-ORDER="254">
+<did>
+<unittitle>Miscellaneous</unittitle>
+<container id="cid6698014" type="Box" label="Box">24</container>
+<container parent="cid6698014" type="folder" label="Folder">2</container>
+<unitdate normal="1969/1969">1969</unitdate>
+</did>
+<phystech id="ref401">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel, 1/4" and 1" tape.</p>
+</phystech>
+<scopecontent id="ref402">
+<head>Scope and Content</head>
+<p>Recordings from 1969, small ensemble. Primarily labeled "Tone."</p>
+</scopecontent>
+</c02>
+<c02 id="ref321" level="file" score="3" C-ORDER="257">
+<did>
+<unittitle>Miscellaneous Arrangements</unittitle>
+<container id="cid6692023" type="Box" label="Box">21</container>
+<container parent="cid6692023" type="folder" label="Folder">3</container>
+<unitdate normal="1953/1957" type="inclusive">1950s</unitdate>
+</did>
+<phystech id="ref322">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref323">
+<head>Scope and Content</head>
+<p>Dorrance Stalvey arrangements, primarily of standards and primarily for big band. Includes "Fools Rush In" and "Pennies From Heaven."</p>
+</scopecontent>
+</c02>
+<c02 id="ref324" level="file" score="3" C-ORDER="260">
+<did>
+<unittitle>Miscellaneous Compositions, 1/2</unittitle>
+<container id="cid6692024" type="Box" label="Box">21</container>
+<container parent="cid6692024" type="folder" label="Folder">4</container>
+<unitdate normal="1968/1970" type="inclusive">1968</unitdate>
+</did>
+<phystech id="ref325">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref326">
+<head>Scope and Content</head>
+<p>Includes Togethers III and PLC-Extract (3 performances from 1968). Various performers and locations.</p>
+</scopecontent>
+</c02>
+<c02 id="ref327" level="file" score="3" C-ORDER="263">
+<did>
+<unittitle>Miscellaneous Compositions, 2/2</unittitle>
+<container id="cid6692025" type="Box" label="Box">21</container>
+<container parent="cid6692025" type="folder" label="Folder">5</container>
+<unitdate normal="1957/1968" type="inclusive">1950s and 1960s</unitdate>
+</did>
+<phystech id="ref328">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref329">
+<head>Scope and Content</head>
+<p>Multiple chamber works:</p>
+<p>Five Little Pieces String Trio (2 performances) Duets for Children (2 performances) Points-Lines-Circles</p>
+</scopecontent>
+</c02>
+<c02 id="ref330" level="file" score="3" C-ORDER="266">
+<did>
+<unittitle>Miscellaneous Tape Pieces</unittitle>
+<container id="cid6692026" type="Box" label="Box">21</container>
+<container parent="cid6692026" type="folder" label="Folder">6</container>
+<unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+</did>
+<phystech id="ref331">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel. 7 1/2 ips and 15 ips.</p>
+</phystech>
+<scopecontent id="ref332">
+<head>Scope and Content</head>
+<p>Multiple electronic works by Dorrance Stalvey:</p>
+<p>First Piece Bells-Water-Bells December 17, 1969 Let's Make A Tape (includes contents of tapes 1 &amp; 2)</p>
+</scopecontent>
+</c02>
+<c02 id="ref406" level="file" score="3" C-ORDER="269">
+<did>
+<unittitle>Modified material from radio and tapes</unittitle>
+<container id="cid6700001" type="Box" label="Box">23</container>
+<container parent="cid6700001" type="folder" label="Folder">4</container>
+<unitdate normal="1970/1990" type="inclusive">unknown</unitdate>
+</did>
+<phystech id="ref407">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel.</p>
+</phystech>
+<scopecontent id="ref408">
+<head>Scope and Content</head>
+<p>Reverberated tapes, material for Movements and Interludes, mixtures and reverberations.</p>
+</scopecontent>
+</c02>
+<c02 id="ref415" level="file" score="3" C-ORDER="272">
+<did>
+<unittitle>Monday Evening Concert</unittitle>
+<container id="cid6700005" type="Box" label="Box">24</container>
+<container parent="cid6700005" type="folder" label="Folder">4</container>
+<unitdate normal="1990/1990">1990</unitdate>
+</did>
+<phystech id="ref416">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel.</p>
+</phystech>
+<scopecontent id="ref417">
+<head>Scope and Content</head>
+<p>Partly unwound reel of concert performance by the Arditti Quartet, January 29, 1990. Program enclosed.</p>
+</scopecontent>
+</c02>
+<c02 id="ref333" level="file" score="3" C-ORDER="275">
+<did>
+<unittitle>
+<emph render="italic">Movements and Interludes</emph></unittitle>
+<container id="cid6692027" type="Box" label="Box">21</container>
+<container parent="cid6692027" type="folder" label="Folder">7</container>
+<unitdate normal="1964/1964">1964</unitdate>
+</did>
+<phystech id="ref334">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel (2), 10" reel and cassette.</p>
+</phystech>
+<scopecontent id="ref335">
+<head>Scope and Content</head>
+<p>Both formats include a performance recording of the chamber piece Movements &amp; Interludes. Cassette includes performance recording of String Trio as well.</p>
+</scopecontent>
+</c02>
+<c02 id="ref336" level="file" score="3" C-ORDER="278">
+<did>
+<unittitle>
+<emph render="italic">Mozart Quintet</emph></unittitle>
+<container id="cid6692028" type="Box" label="Box">21</container>
+<container parent="cid6692028" type="folder" label="Folder">8</container>
+<unitdate normal="1955/1955">1955</unitdate>
+</did>
+<phystech id="ref337">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref338">
+<head>Scope and Content</head>
+<p>Dorrance Stalvey, clarinet. Mozart, Quintet in A Major, K. 581, and Gen Parchman, Trio for clarinet, violin, and cello. Both performances from spring 1955, and thus likely part of Stalvey's master's program in clarinet performance.</p>
+</scopecontent>
+</c02>
+<c02 id="ref339" level="file" score="3" C-ORDER="281">
+<did>
+<unittitle>
+<emph render="italic">Nancarrow Suite</emph></unittitle>
+<container id="cid6692029" type="Box" label="Box">21</container>
+<container parent="cid6692029" type="folder" label="Folder">9</container>
+<unitdate normal="1983/1983">1983</unitdate>
+</did>
+<phystech id="ref340">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Cassette (3).</p>
+</phystech>
+<scopecontent id="ref341">
+<head>Scope and Content</head>
+<p>Includes two copies of a performance by the Los Angeles Philharmonic New Music Group, William Kraft, conductor. Some include Piece for Wind Band and Percussion, by USC Wind Orchestra, Robert Wojciak, conductor. Other Stalvey arrangements.</p>
+</scopecontent>
+</c02>
+<c02 id="ref418" level="file" score="3" C-ORDER="284">
+<did>
+<unittitle>
+<emph render="italic">Piece for Wind Band and Percussion</emph></unittitle>
+<container id="cid6700006" type="Box" label="Box">24</container>
+<container parent="cid6700006" type="folder" label="Folder">5</container>
+<unitdate normal="1957/1983" type="inclusive">1957</unitdate>
+</did>
+<phystech id="ref419">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel.</p>
+</phystech>
+<scopecontent id="ref420">
+<head>Scope and Content</head>
+<p>Performance of Piece for Wind Band and Percussion by the USC Wind Ensemble.</p>
+</scopecontent>
+</c02>
+<c02 id="ref342" level="file" score="3" C-ORDER="287">
+<did>
+<unittitle>Piano Collection</unittitle>
+<container id="cid6692030" type="Box" label="Box">21</container>
+<container parent="cid6692030" type="folder" label="Folder">10</container>
+<unitdate normal="1986/1986">1986</unitdate>
+</did>
+<phystech id="ref343">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Cassette. 60 min.</p>
+</phystech>
+<scopecontent id="ref344">
+<head>Scope and Content</head>
+<p>Piano works by Dorrance Stalvey, collected into a suite. Delores Stevens, piano.</p>
+<p>Five Little Pieces Classical Retrospective Brief Passage Jazz: ca '53</p>
+</scopecontent>
+</c02>
+<c02 id="ref345" level="file" score="3" C-ORDER="290">
+<did>
+<unittitle>
+<emph render="italic">PLC- Abstract</emph></unittitle>
+<container id="cid6692031" type="Box" label="Box">21</container>
+<container parent="cid6692031" type="folder" label="Folder">11</container>
+<unitdate normal="1968/1972" type="inclusive">1968-1972</unitdate>
+</did>
+<phystech id="ref346">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Formats include cassette and 7" reel.</p>
+</phystech>
+<scopecontent id="ref347">
+<head>Scope and Content</head>
+<p>Performances of PLC-Abstract for bass or bass with tape. One 7" reel is marked "alternate version." One performance by Stefano Scodanibbio.</p>
+<p>Some include PLC- Extract.</p>
+</scopecontent>
+</c02>
+<c02 id="ref348" level="file" score="3" C-ORDER="293">
+<did>
+<unittitle>
+<emph render="italic">PLC- Extract</emph></unittitle>
+<container id="cid6692032" type="Box" label="Box">21</container>
+<container parent="cid6692032" type="folder" label="Folder">12</container>
+<unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate>
+</did>
+<phystech id="ref349">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref350">
+<head>Scope and Content</head>
+<p>Multiple performance recordings of PLC- Extract, for clarinet (or clarinet with tape).</p>
+</scopecontent>
+</c02>
+<c02 id="ref351" level="file" score="3" C-ORDER="296">
+<did>
+<unittitle>
+<emph render="italic">Points-Lines-Circles</emph></unittitle>
+<container id="cid6692033" type="Box" label="Box">21</container>
+<container parent="cid6692033" type="folder" label="Folder">13</container>
+<unitdate normal="1968/1968">1968</unitdate>
+</did>
+<phystech id="ref352">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel (2) and 10" reel. 7 1/2 ips.</p>
+</phystech>
+<scopecontent id="ref353">
+<head>Scope and Content</head>
+<p>Performance recordings of this chamber work. Includes an alternate version. 7" reel includes Fitan as well.</p>
+</scopecontent>
+</c02>
+<c02 id="ref354" level="file" score="3" C-ORDER="299">
+<did>
+<unittitle>
+<emph render="italic">Pound Songs</emph></unittitle>
+<container id="cid6692034" type="Box" label="Box">21</container>
+<container parent="cid6692034" type="folder" label="Folder">14</container>
+<unitdate normal="1985/1986" type="inclusive">1985</unitdate>
+</did>
+<phystech id="ref355">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Cassette (2).</p>
+</phystech>
+<scopecontent id="ref356">
+<head>Scope and Content</head>
+<p>Performance recordings of Pound Songs for soprano and ensemble. Syracuse Society for New Music, Neva Pilgrim, soprano. Monday Evening Concerts program.</p>
+</scopecontent>
+</c02>
+<c02 id="ref360" level="file" score="3" C-ORDER="302">
+<did>
+<unittitle>
+<emph render="italic">Procession and Light </emph>Dance</unittitle>
+<container id="cid6698001" type="Box" label="Box">22</container>
+<container parent="cid6698001" type="folder" label="Folder">1</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+<phystech id="ref361">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Cassette</p>
+</phystech>
+<scopecontent id="ref362">
+<head>Scope and Content</head>
+<p>Multiple 2-channel tape pieces</p>
+</scopecontent>
+</c02>
+<c02 id="ref379" level="file" score="3" C-ORDER="305">
+<did>
+<unittitle>
+<emph render="italic">Rabbit Season</emph></unittitle>
+<container id="cid6698007" type="Box" label="Box">22</container>
+<container parent="cid6698007" type="folder" label="Folder">3</container>
+<unitdate normal="1974/1974">1974</unitdate>
+</did>
+<phystech id="ref380">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reels (2), 7" reel, 16mm film.</p>
+</phystech>
+<scopecontent id="ref381">
+<head>Scope and Content</head>
+<p>Source material for soundtrack, music track, complete soundtrack.</p>
+</scopecontent>
+</c02>
+<c02 id="ref366" level="file" score="3" C-ORDER="308">
+<did>
+<unittitle>
+<emph render="italic">Requiem for a Dancer</emph></unittitle>
+<container id="cid6698003" type="Box" label="Box">22</container>
+<container parent="cid6698003" type="folder" label="Folder">4</container>
+<unitdate normal="1991/2001" type="inclusive">1991, revised 2001</unitdate>
+</did>
+<phystech id="ref367">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>CD</p>
+</phystech>
+<scopecontent id="ref368">
+<head>Scope and Content</head>
+<p>Musical contents not indicated.</p>
+</scopecontent>
+</c02>
+<c02 id="ref412" level="file" score="3" C-ORDER="311">
+<did>
+<unittitle>Sketches, Ex Ferus</unittitle>
+<container id="cid6700004" type="Box" label="Box">24</container>
+<container parent="cid6700004" type="folder" label="Folder">3</container>
+<unitdate>unknown</unitdate>
+</did>
+<phystech id="ref413">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel.</p>
+</phystech>
+<scopecontent id="ref414">
+<head>Scope and Content</head>
+<p>Preliminary version of Ex Ferus. Tape marked faulty.</p>
+</scopecontent>
+</c02>
+<c02 id="ref421" level="file" score="3" C-ORDER="314">
+<did>
+<unittitle>Slides</unittitle>
+<container id="cid6700007" type="Box" label="Box">21</container>
+<unitdate normal="1971/2005" type="inclusive">1971</unitdate>
+</did>
+<phystech id="ref422">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Folder (3) of slides</p>
+</phystech>
+<scopecontent id="ref423">
+<head>Scope and Content</head>
+<p>Images of composers, scores, and paintings, presumably used as projections during Monday Evening Concerts.</p>
+</scopecontent>
+</c02>
+<c02 id="ref369" level="file" score="3" C-ORDER="317">
+<did>
+<unittitle>Source materials</unittitle>
+<container id="cid6698004" type="Box" label="Box">22</container>
+<container parent="cid6698004" type="folder" label="Folder">5</container>
+<unitdate normal="1970/1990" type="inclusive">c. 1970s and 1980s</unitdate>
+</did>
+<phystech id="ref370">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel (5)</p>
+</phystech>
+<scopecontent id="ref371">
+<head>Scope and Content</head>
+<p>Source material for tape parts for Togethers I, Togethers II, Togethers III. Miscellaneous source materials. Water and percussion sounds.</p>
+</scopecontent>
+</c02>
+<c02 id="ref372" level="file" score="3" C-ORDER="320">
+<did>
+<unittitle>Stalvey interview</unittitle>
+<container id="cid6698006" type="Box" label="Box">22</container>
+<container parent="cid6698006" type="folder" label="Folder">6</container>
+<unitdate normal="1990/1990">4/8/1990</unitdate>
+</did>
+<phystech id="ref373">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>VHS tape, Sony, 90 min.</p>
+</phystech>
+<scopecontent id="ref374">
+<head>Scope and Content</head>
+<p>Dorrance Stalvey interview, and LACMA 25th anniversary video.</p>
+</scopecontent>
+</c02>
+<c02 id="ref375" level="file" score="3" C-ORDER="323">
+<did>
+<unittitle>Stalvey master CD</unittitle>
+<container id="cid6698005" type="Box" label="Box">22</container>
+<container parent="cid6698005" type="folder" label="Folder">7</container>
+<unitdate normal="2001/2001">11/8/01</unitdate>
+</did>
+<phystech id="ref376">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>CD</p>
+</phystech>
+<scopecontent id="ref377">
+<head>Scope and Content</head>
+<p>Musical contents not indicated; disc marked "For duplication."</p>
+</scopecontent>
+</c02>
+<c02 id="ref382" level="file" score="3" C-ORDER="326">
+<did>
+<unittitle>
+<emph render="italic">String Quartet</emph></unittitle>
+<container id="cid6698008" type="Box" label="Box">22</container>
+<container parent="cid6698008" type="folder" label="Folder">8</container>
+<unitdate normal="1989/2005" type="inclusive">1989</unitdate>
+</did>
+<phystech id="ref383">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>CD and cassette.</p>
+</phystech>
+<scopecontent id="ref384">
+<head>Scope and Content</head>
+<p>Two performances by the Parisii Quartet.</p>
+</scopecontent>
+</c02>
+<c02 id="ref385" level="file" score="3" C-ORDER="329">
+<did>
+<unittitle>
+<emph render="italic">Three Pairs and Seven</emph></unittitle>
+<container id="cid6698009" type="Box" label="Box">23</container>
+<container parent="cid6698009" type="folder" label="Folder">1</container>
+<unitdate normal="1978/1978">1978</unitdate>
+</did>
+<phystech id="ref386">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>Formats include 7" reel (6), 10" reel (2 with 1/4", 1 with 1"), cassette, and CD.</p>
+</phystech>
+<scopecontent id="ref387">
+<head>Scope and Content</head>
+<p>Versions include trombone and piano, tape part only, processed piano part, tape part encoded master, unprocessed piano part.</p>
+</scopecontent>
+</c02>
+<c02 id="ref388" level="file" score="3" C-ORDER="332">
+<did>
+<unittitle>
+<emph render="italic">Togethers I</emph></unittitle>
+<container id="cid6698011" type="Box" label="Box">23</container>
+<container parent="cid6698011" type="folder" label="Folder">2</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+<phystech id="ref389">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>CD</p>
+</phystech>
+<scopecontent id="ref390">
+<head>Scope and Content</head>
+<p>Togethers I.</p>
+</scopecontent>
+</c02>
+<c02 id="ref391" level="file" score="3" C-ORDER="335">
+<did>
+<unittitle>
+<emph render="italic">Togethers II</emph></unittitle>
+<container id="cid6698010" type="Box" label="Box">23</container>
+<container parent="cid6698010" type="folder" label="Folder">3</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+<phystech id="ref392">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>CD (2), 16mm film (b&amp;w).</p>
+</phystech>
+<scopecontent id="ref393">
+<head>Scope and Content</head>
+<p>Togethers II, and percussion tape part.</p>
+</scopecontent>
+</c02>
+<c02 id="ref394" level="file" score="3" C-ORDER="338">
+<did>
+<unittitle>
+<emph render="italic">Togethers III</emph></unittitle>
+<container id="cid6698012" type="Box" label="Box">23</container>
+<container parent="cid6698012" type="folder" label="Folder">4</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+<phystech id="ref395">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>7" reel, 10" reel, CD (2), cassette.</p>
+</phystech>
+<scopecontent id="ref396">
+<head>Scope and Content</head>
+<p>Performance and tape parts for Togethers III. Togethers II and Points-Lines-Circles also included. Monday Evening Concerts performance, October 19, 1970.</p>
+</scopecontent>
+</c02>
+<c02 id="ref397" level="file" score="3" C-ORDER="341">
+<did>
+<unittitle>Togethers series</unittitle>
+<container id="cid6698013" type="Box" label="Box">24</container>
+<container parent="cid6698013" type="folder" label="Folder">1</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+<phystech id="ref398">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel (3), cassette (2).</p>
+</phystech>
+<scopecontent id="ref399">
+<head>Scope and Content</head>
+<p>Includes tape parts for the series, also Three Pairs and Seven.</p>
+</scopecontent>
+</c02>
+<c02 id="ref409" level="file" score="3" C-ORDER="344">
+<did>
+<unittitle>Unlabeled reel</unittitle>
+<container id="cid6700002" type="Box" label="Box">22</container>
+<container parent="cid6700002" type="folder" label="Folder">9</container>
+<unitdate normal="1970/1990" type="inclusive">unknown</unitdate>
+</did>
+<phystech id="ref410">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel.</p>
+</phystech>
+<scopecontent id="ref411">
+<head>Scope and Content</head>
+<p>Contents unknown, possibly blank.</p>
+</scopecontent>
+</c02>
+<c02 id="ref403" level="file" score="3" C-ORDER="347">
+<did>
+<unittitle>
+<emph render="italic">Whatever Happened To Me?</emph></unittitle>
+<container id="cid6700003" type="Box" label="Box">24</container>
+<container parent="cid6700003" type="folder" label="Folder">2</container>
+<unitdate normal="1970/1970">1970</unitdate>
+</did>
+<phystech id="ref404">
+<head>Physical Characteristics and Technical Requirements note</head>
+<p>10" reel.</p>
+</phystech>
+<scopecontent id="ref405">
+<head>Scope and Content</head>
+<p>Full track mix for multimedia piece, 7 1/2 ips.</p>
+</scopecontent>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
