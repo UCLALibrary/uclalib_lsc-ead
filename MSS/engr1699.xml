@@ -1,197 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
-<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/c82v2ffq" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::1699::Collection of engravings of theaters and stage sets)//EN" "engr1699.xml"</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Collection of engravings of theaters and stage sets, 1643-1763</titleproper>
-<titleproper type="filing">Engravings of theaters and stage sets collection</titleproper>
-<author>Processed by Yasmin Damshenas in the Center for Primary Research and Training (CFPRT), with assistance from Megan Hahn Fraser, July 2011.; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA 90095-1575</addressline>
-<addressline>Email: spec-coll@library.ucla.edu</addressline>
-<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
-</address>
-<date calendar="gregorian" era="ce">© 2012</date>
-<p>The Regents of the University of California. All rights reserved.</p>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>Machine-readable finding aid derived from Microsoft Word processed finding aid, encoding added via Notetab Pro and Oxygen. Date of source: <date>July 2011</date>. Supplementary encoding and revision by Caroline Cubé.</creation>
-<langusage>Description is in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
-<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection" id="archdesc-1.2">
-<did id="did-1.2.1">
-<head>Descriptive Summary</head>
-<unittitle label="Title">Collection of engravings of theaters and stage sets</unittitle>
-<unitdate type="inclusive" normal="1643/1763">1643-1763</unitdate>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1699</unitid>
-<origination label="Collector">
-<persname rules="aacr2">Jenkins, George, 1908-2007, collector.</persname></origination>
-<physdesc label="Extent">
-<extent>1 oversize box</extent>
-</physdesc>
-<abstract label="Abstract">The collection contains 28 engravings of theaters and stage set designs of the 17th and 18th centuries. Artists include Giacomo Torelli, Caspar Amort, Melchior and Matthäus Küsell, and Daniel Pomerade.</abstract>
-<langmaterial label="Language">Finding aid is written in 
-<language langcode="eng">English.</language>
-</langmaterial>
-<langmaterial label="Language of the Material">
-Materials are in English.
-</langmaterial>
-<repository label="Repository">
-<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
-<address><addressline>Los Angeles, California 90095-1575</addressline></address>
-</repository>
-<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
-</did>
-<descgrp type="admininfo" id="descgrp-1.2.2">
-<head>Administrative Information</head>
-<accessrestrict encodinganalog="506">
-<head>Restrictions on Access</head>
-<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
-</accessrestrict>
-<userestrict encodinganalog="540">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<acqinfo encodinganalog="541">
-<head>Provenance/Source of Acquisition</head>
-<p>Gift of George Jenkins, March 11, 1992.</p>
-</acqinfo>
-<processinfo>
-<head>Processing Note</head>
-<p>Processed by Yasmin Damshenas in the Center for Primary Research and Training (CFPRT), with assistance from Megan Hahn Fraser, July 2011.</p>
-</processinfo>
-<prefercite encodinganalog="524">
-<head>Preferred Citation</head>
-<p>[Identification of item], Collection of engravings of theaters and stage sets (Collection 1699). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
-</prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4232985">4232985</extref></p>
-</odd>
-</descgrp>
-<bioghist encodinganalog="545" id="bioghist-1.2.3">
-<head>Biography/History</head>
-<p>George Clarke Jenkins (1908-2007) was a production designer and art director for both theatrical productions and feature films. Born in Baltimore, Maryland, November 19, ca. 1908-11 (sources vary), Jenkins studied architecture at the University of Pennsylvania (1929-31) and went on to work as an interior and industrial designer (1934-35) and assistant to stage designer Jo Mielziner (1937-41), before designing for his first Broadway play, <title>Early To Bed</title> (1943). He continued working on stage plays until 2004. His film credits include <title>Best Years of Our Lives</title> (1946), <title>Wait Until Dark</title> (1967), <title>Klute</title> (1971) and <title>Presumed Innocent</title> (1990). He also served as art director in charge of experimental color programming at CBS (1953-54) and taught motion picture design at the University of California, Los Angeles (1985-89). He was nominated for four Tony awards including for his work on the <title>Miracle Worker</title> and won an Academy Award for <title>All the President's Men</title> (1976). He died in 2007.</p>
-</bioghist>
-<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
-<head>Scope and Content</head>
-<p>The collection contains 28 engravings of theaters and stage set designs. There is a set of four unidentified 17th century theater designs; two hand-colored stage designs by Giacomo Torelli from the 17th century; Francesco Santurini theater decor drawings by Caspar Amort, engraved by Melchior Küsell for<title> Medea Vendicativa</title> (Munich 1662); three engraved plates of Daniel Pomarede showing theaters from <title>The Universal History</title> (1763); Venus descending among the nymphs by a 17th century Italian engraver; and 14 of a set of 23 plates by Ludovico Bonaccini, engraved by Matthäus Küsell for<title> Il Pomo d’Oro</title> (1668).</p>
-</scopecontent>
-<controlaccess id="controlaccess-1.2.5">
-<head>Indexing Terms</head>
-<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
-<controlaccess>
-<head>Subjects</head>
-<subject source="lcsh" encodinganalog="650">Theaters --Stage-setting and scenery --Archival resources.</subject>
-<controlaccess>
-<head>Genres and Forms of Material</head>
-<genreform source="aat" encodinganalog="655">engravings.</genreform>
-</controlaccess>
-</controlaccess>
-</controlaccess>
-<relatedmaterial encodinganalog="544" id="relatedmaterial-1.2.6">
-<head>Related Material</head>
-<p>
-<extref href="http://www.oac.cdlib.org/findaid/ark:/13030/tf6q2nb4bb/" actuate="onrequest" show="new">George Jenkins Art Direction Materials Archive, 1946-1984 (Collection 139).
-</extref>
-</p>
-</relatedmaterial>
-<dsc type="in-depth" id="dsc-1.2.7" score="1" C-ORDER="1" MAX-C-ORDER="12">
-<head>Container List</head>
-<c01 level="file" id="c01-1.2.7.2" score="2" C-ORDER="2">
-<did>
-<unittitle>Set of four engravings of 17th century theater designs, numbered 1-2 and 5-6</unittitle>
-</did>
-<scopecontent>
-<p><list type="marked">
-<item>No. 1, architectural setting features Minerva</item>
-<item>No. 2, architectural setting filled with smoke and flames, figures holding serpents</item>
-<item>No. 5, architectural setting, figure inscribed with caption S. Ale. </item>
-<item>No. 6, architectural setting, Virgin Mary</item>
-</list></p>
-</scopecontent>
-</c01>
-<c01 level="file" id="c01-1.2.7.3" score="2" C-ORDER="4">
-<did>
-<unittitle>Francesco Santurini. Theatre Décor, drawings by Caspar Amort, engraved by Melchior Küsell (sic). </unittitle>
-</did>
-<scopecontent>
-<p>Four engravings of a set of six compositions. Scenes from <title>Medea Vendicativa</title> (Munich 1662), an opera featuring fire and fireworks commemorating the christening of Max II Emmanuel.
-<list type="marked">
-<item>Engraving 1 of 4. Second act, Jupiter, Saturn, Mars, Venus and Mercury float in sky over men.</item>
-<item>Engraving 2 of 4. Prologue set in Vulcan's grotto, where he and his companions forge swords for the goddess of revenge, Nemesis, shown astride a lion.</item>
-<item>Engraving 3 of 4. Central arch inscribed with initials of Ferdinand Maria (1636-1679), elector of Bavaria. Underneath arch inscription indicates "laetamur in uno." Baby in cradle is Max II Emanuel.</item>
-<item>Engraving 4 of 4. Act III set in Alps.</item>
-</list>
-</p>
-</scopecontent>
-</c01>
-<c01 level="file" id="c01-1.2.7.4" score="2" C-ORDER="6">
-<did>
-<unittitle>Daniel Pomarede. Three engraved plates showing theatres from <title>The Universal History.</title> London, 1763.</unittitle>
-</did>
-<scopecontent>
-<p><list type="marked">
-<item>The Mausoleum of Augustus erected in honor of Marcellus. Plate 59, volume 13, page 385</item>
-<item>The Palace of Julius Caesar and the Amphitheatre of Claudius Caesar in the Campus Martis. Plate 53, volume 13, page 64.</item>
-<item>The Great Circus began by Romulous, finished by Tarquin and Domitian's Naval Amphitheatre. Plate 57, volume 13, page 341.</item>
-</list></p>
-</scopecontent>
-</c01>
-<c01 level="file" id="c01-1.2.7.5" score="2" C-ORDER="8">
-<did>
-<unittitle>Unidentified artist</unittitle>
-</did>
-<scopecontent>
-<p><list type="marked">
-<item>Unidentified 17th century Italian engraver. Venus descending among the nymphs.</item>
-</list></p>
-</scopecontent>
-</c01>
-<c01 level="file" id="c01-1.2.7.6" score="2" C-ORDER="10">
-<did>
-<unittitle>Giacomo Torelli (artist) and Pierre Aveline (engraver). Two stage designs, hand-colored, ca.17th century. </unittitle>
-</did>
-<scopecontent>
-<p>These engravings illustrate theatrical settings for the opera <title>Venus Jalouse,</title> originally known as <title>Venere Gelos</title>a (performed in Teatro Novissimo, Venice 1643). 
-<list type="marked">
-<item>Scene set in the king's palace. Inscription indicates engraving designed by Giacomo Torelli in Italy and etched by Pierre Aveline in Paris. Original caption:  Le Palais du Roy de l'Isle de Naxos, qui est une Decorations du 2 et 3 Acte de l'Opera de Venus Jalouse representé a Venise.</item>
-<item>The Royal Garden, Act III, scenes 11-13. Original caption missing from this version. Le Grand Cabinet de Lauriers, dans les Jardins du Roy de l'Isle de Naxos; c'est la derniere Decoration du troisiéme acte, et de tout l'Opera de Venus Jalouse representéa Venise.</item>
-</list></p>
-</scopecontent>
-</c01>
-<c01 level="file" id="c01-1.2.7.7" score="2" C-ORDER="12">
-<did>
-<unittitle>Lodovico Ottavio Burnacini (artist). <title>Il Pomo d'Oro.</title> 14 of a set of 23 plates. Engraved by Matthäus Küsell (performed in Vienna, ca. 1668.)</unittitle>
-</did>
-<scopecontent>
-<p><list type="marked">
-<item>Pluto's court in hell. 2nd of 23 sets</item>
-<item>Performers in a garden. Scene number unknown.</item>
-<item>Gods at a banquet being served by satyrs and men. 3rd of 23 sets.</item>	
-<item>Procession of soldiers and prisoners. Scene number unknown.</item>
-<item>Siege of city includes soldiers and elephants. 20th of 23 sets.</item>
-<item>Courtyard in the palace of Paris. Act I, Scene 11.</item>
-<item>Jupiter and Juno sit in the clouds above Paris. Act V, Scene 1.</item>
-<item>Arsenal of Mars and Venus. Act III, Scene 6 </item>
-<item>Female figures in tree lined garden or park. 16th of 23 sets.</item>
-<item>Venus floating in sky in glory above a sea shore. Act IV, Scene 4, 18th of 23 sets.</item>
-<item>Two figures running along the bank of the river Xanthos. Act III, Scene 3, 12th of 23 sets.</item>
-<item>Soldiers in battle. Act III Scene 11, 15th of 23 sets.</item>
-<item>Neptune and Venus or Amphitrite observe a ship at sea. Act III, Scene 7, 14th of 23 sets.</item>
-<item>Winged demons fly before gaping jaws which reveal Charon, the ferryman of the River Styx. 8th of 23 sets.</item>
-</list></p>
-</scopecontent>
-</c01>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/c82v2ffq/">engr1699.xml</eadid><filedesc><titlestmt><titleproper type="filing">Engravings of Theaters and Stage Sets Collection</titleproper><titleproper>Finding Aid for the Collection of Engravings of Theaters and Stage Sets <num>LSC.1699</num></titleproper><author>Finding aid prepared by Yasmin Damshenas in the Center for Primary Research and Training (CFPRT), with assistance from Megan Hahn Fraser, July 2011.; front matter and EAD XML code edited by Caroline Cubé, 2026.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Finding aid last updated 2026 November 16.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-11-16 13:46:01 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Collection of Engravings of Theaters and Stage Sets</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Jenkins, George</persname>
+    </origination>
+    <unitid>LSC.1699</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 oversize box</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1643/1763" type="inclusive">1643-1763</unitdate>
+    <abstract id="aspace_aa73441ef9ad91a78cf1506782067b18" label="Abstract">The collection contains 28 engravings of theaters and stage set designs of the 17th and 18th centuries. Artists include Giacomo Torelli, Caspar Amort, Melchior and Matthäus Ku¨sell, and Daniel Pomerade.</abstract>
+    <physloc id="aspace_a756f3649762ab59e69d8cd40ee67212" label="Physical location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_efd29259eea80ca317e33fd74d4c4731">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_01390d9df5aaebd473411d71e517e306">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <userestrict id="aspace_75e8a8559dd809e0494d85c8828f4bbf">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <prefercite id="aspace_a676a2904e52cfe0df14080980218a70">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Collection of Engravings of Theaters and Stage Sets (Collection 1699). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <acqinfo id="aspace_b9f95c8b330f27378cb5aec80be669b3">
+    <head>Provenance/Source of Acquisition</head>
+<p>Gift of George Jenkins, March 11, 1992.</p>  </acqinfo>
+  <processinfo id="aspace_f87988b7ef35c94df868a7c6de455288">
+    <head>Processing Note</head>
+<p>Processed by Yasmin Damshenas in the Center for Primary Research and Training (CFPRT), with assistance from Megan Hahn Fraser, July 2011.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's Library Collections and Archives.</extref></p>  </processinfo>
+  <odd id="aspace_c17b8778fd4a4961d20f11c8f3cab8eb">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/trta7g/alma9942329853606533">9942329853606533</extref></p>  </odd>
+  <bioghist id="aspace_d229cb13c97627eb234f5e5a6dd41acf">
+    <head>Biography/History</head>
+<p>George Clarke Jenkins (1908-2007) was a production designer and art director for both theatrical productions and feature films. Born in Baltimore, Maryland, November 19, ca. 1908-11 (sources vary), Jenkins studied architecture at the University of Pennsylvania (1929-31) and went on to work as an interior and industrial designer (1934-35) and assistant to stage designer Jo Mielziner (1937-41) before designing for his first Broadway play, <title render="italic">Early To Bed</title> (1943). He continued working on stage plays until 2004. His film credits include <title render="italic">Best Years of Our Lives</title> (1946), <title render="italic">Wait Until Dark</title> (1967), <title render="italic">Klute</title> (1971) and <title render="italic">Presumed Innocent</title> (1990). He also served as art director in charge of experimental color programming at CBS (1953-54) and taught motion picture design at the University of California, Los Angeles (1985-89). He was nominated for four Tony awards including for his work on the <title render="italic">Miracle Worker</title> and won an Academy Award for <title render="italic">All the President's Men</title> (1976). He died in 2007.</p>  </bioghist>
+  <scopecontent id="aspace_20c954940302ce52353f92dcb1d55c67">
+    <head>Scope and Content</head>
+<p>The collection contains 28 engravings of theaters and stage set designs. There is a set of four unidentified 17th century theater designs; two hand-colored stage designs by Giacomo Torelli from the 17th century; Francesco Santurini theater decor drawings by Caspar Amort, engraved by Melchior Ku¨sell for<title render="italic"> Medea Vendicativa</title> (Munich 1662); three engraved plates of Daniel Pomarede showing theaters from <title render="italic">The Universal History</title> (1763); Venus descending among the nymphs by a 17th century Italian engraver; and 14 of a set of 23 plates by Ludovico Bonaccini, engraved by Matthäus Ku¨sell for<title render="italic"> Il Pomo d'Oro</title> (1668).</p>  </scopecontent>
+  <relatedmaterial id="aspace_c4b8d39250d9c2884d0170fd47459d16">
+    <head>Related Material</head>
+<p><extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.oac.cdlib.org/findaid/ark:/13030/tf6q2nb4bb/">George Jenkins Art Direction Materials Archive, 1946-1984 (Collection 139). </extref></p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Theaters -- Stage setting and scenery</subject>
+    <genreform source="aat">Engravings.</genreform>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref12_3wv" level="file"><did><unittitle>Set of four engravings of 17th century theater designs, numbered 1-2 and 5-6</unittitle></did><scopecontent id="aspace_3cbd13cde1d1f97f945e4110d6dd2302"><head>Scope and Contents note</head><p><list type="marked"><item>No. 1, architectural setting features Minerva</item><item>No. 2, architectural setting filled with smoke and flames, figures holding serpents</item><item>No. 5, architectural setting, figure inscribed with caption S. Ale. </item><item>No. 6, architectural setting, Virgin Mary</item></list></p></scopecontent></c01><c01 id="aspace_ref14_n5v" level="file"><did><unittitle>Francesco Santurini. Theatre Décor, drawings by Caspar Amort, engraved by Melchior Küsell (sic).</unittitle></did><scopecontent id="aspace_743df1c0cbc449db128f07a97d679731"><head>Scope and Contents note</head><p>Four engravings of a set of six compositions. Scenes from <title>Medea Vendicativa</title> (Munich 1662), an opera featuring fire and fireworks commemorating the christening of Max II Emmanuel. <list type="marked"><item>Engraving 1 of 4. Second act, Jupiter, Saturn, Mars, Venus and Mercury float in sky over men.</item><item>Engraving 2 of 4. Prologue set in Vulcan's grotto, where he and his companions forge swords for the goddess of revenge, Nemesis, shown astride a lion.</item><item>Engraving 3 of 4. Central arch inscribed with initials of Ferdinand Maria (1636-1679), elector of Bavaria. Underneath arch inscription indicates "laetamur in uno." Baby in cradle is Max II Emanuel.</item><item>Engraving 4 of 4. Act III set in Alps.</item></list></p></scopecontent></c01><c01 id="aspace_ref16_jzd" level="file"><did><unittitle>Daniel Pomarede. Three engraved plates showing theatres from <title>The Universal History.</title> London, 1763.</unittitle></did><scopecontent id="aspace_0ac8d93ae43ace62b895c6652738cdb5"><head>Scope and Contents note</head><p><list type="marked"><item>The Mausoleum of Augustus erected in honor of Marcellus. Plate 59, volume 13, page 385</item><item>The Palace of Julius Caesar and the Amphitheatre of Claudius Caesar in the Campus Martis. Plate 53, volume 13, page 64.</item><item>The Great Circus began by Romulous, finished by Tarquin and Domitian's Naval Amphitheatre. Plate 57, volume 13, page 341.</item></list></p></scopecontent></c01><c01 id="aspace_ref18_0eh" level="file"><did><unittitle>Unidentified artist</unittitle></did><scopecontent id="aspace_5228e6f43c7e62d4c1b5921a531d9fba"><head>Scope and Contents note</head><p><list type="marked"><item>Unidentified 17th century Italian engraver. Venus descending among the nymphs.</item></list></p></scopecontent></c01><c01 id="aspace_ref20_xs8" level="file"><did><unittitle>Giacomo Torelli (artist) and Pierre Aveline (engraver). Two stage designs, hand-colored, ca.17th century.</unittitle></did><scopecontent id="aspace_10da124bbe045b2f845fa4863fbf4c2d"><head>Scope and Contents note</head><p>These engravings illustrate theatrical settings for the opera <title>Venus Jalouse,</title> originally known as <title>Venere Gelos</title>a (performed in Teatro Novissimo, Venice 1643). <list type="marked"><item>Scene set in the king's palace. Inscription indicates engraving designed by Giacomo Torelli in Italy and etched by Pierre Aveline in Paris. Original caption: Le Palais du Roy de l'Isle de Naxos, qui est une Decorations du 2 et 3 Acte de l'Opera de Venus Jalouse representé a Venise.</item><item>The Royal Garden, Act III, scenes 11-13. Original caption missing from this version. Le Grand Cabinet de Lauriers, dans les Jardins du Roy de l'Isle de Naxos; c'est la derniere Decoration du troisiéme acte, et de tout l'Opera de Venus Jalouse representéa Venise.</item></list></p></scopecontent></c01><c01 id="aspace_ref22_w6a" level="file"><did><unittitle>Lodovico Ottavio Burnacini (artist). <title>Il Pomo d'Oro.</title> 14 of a set of 23 plates. Engraved by Matthäus Küsell (performed in Vienna, ca. 1668.)</unittitle></did><scopecontent id="aspace_f89ee931c76d86c017f355741a93722a"><head>Scope and Contents note</head><p><list type="marked"><item>Pluto's court in hell. 2nd of 23 sets</item><item>Performers in a garden. Scene number unknown.</item><item>Gods at a banquet being served by satyrs and men. 3rd of 23 sets.</item><item>Procession of soldiers and prisoners. Scene number unknown.</item><item>Siege of city includes soldiers and elephants. 20th of 23 sets.</item><item>Courtyard in the palace of Paris. Act I, Scene 11.</item><item>Jupiter and Juno sit in the clouds above Paris. Act V, Scene 1.</item><item>Arsenal of Mars and Venus. Act III, Scene 6 </item><item>Female figures in tree lined garden or park. 16th of 23 sets.</item><item>Venus floating in sky in glory above a sea shore. Act IV, Scene 4, 18th of 23 sets.</item><item>Two figures running along the bank of the river Xanthos. Act III, Scene 3, 12th of 23 sets.</item><item>Soldiers in battle. Act III Scene 11, 15th of 23 sets.</item><item>Neptune and Venus or Amphitrite observe a ship at sea. Act III, Scene 7, 14th of 23 sets.</item><item>Winged demons fly before gaping jaws which reveal Charon, the ferryman of the River Styx. 8th of 23 sets.</item></list></p></scopecontent></c01></dsc>
 </archdesc>
 </ead>
