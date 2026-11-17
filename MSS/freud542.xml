@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf000002sw" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::542::Ralph Freud Theatre, Motion Pictures and Television Interviews)//EN&quot; &quot;freud542.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">freud542.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Ralph Freud Theatre, Motion Pictures and Television Interviews, 1961-1970</titleproper><titleproper type="filing">Freud (Ralph) Theatre, Motion Pictures and Television Interviews</titleproper>
+ <author>Processed by Steven D. Frame; machine-readable finding aid created by Steven D. Frame</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 1999</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Machine-readable finding aid derived from encoding original wordprocessor file, <date calendar="gregorian" era="ce">February 1999</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Steven D. Frame.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::542::Ralph Freud Theatre, Motion Pictures and Television Interviews)//EN" "freud542.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Ralph Freud Theatre, Motion Pictures and Television Interviews, 1961-1970</titleproper>
+ <num>Collection number: 542</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Steven D. Frame, February 1999</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Steven D. Frame</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, July 2002</item>
+ </defitem>
+ </list>
+ <p>© 1999 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Ralph Freud Theatre, Motion Pictures and Television Interviews, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1961-1970</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">542</unitid>
+ <origination label="Creator">
+ <persname source="aacr2" role="subject">Freud, Ralph, 1901-1973</persname>
+ </origination>
+ <physdesc label="Extent">
+ <extent>2 boxes (1 linear ft.) </extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Ralph Freud (1901-1973) was a stage actor in Detroit before becoming the director at the Pasadena Community Playhouse. In 8 years, he played over 200 roles and directed more than 40 productions. In 1938, he became a lecturer for theater courses in the English Department at UCLA and was active in the creation of a separate Theater Arts Department, where he became a full professor and emeritus professor. The collection consists of taped interviews with theater, motion picture, and television professionals, conducted by Ralph Freud, Victor Jory, and Professor Freud's students from UCLA's Theater Arts Department.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Ralph Freud Theatre, Motion Pictures and Television Interviews (Collection 542). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=1470443">1470443</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Freud was born in England in 1901; brought to the U.S. as a child; attended Mercersburg Academy in Pennsylvania and Detroit public schools; at 20 he became a member of the Bonstelle Stock Company of Detroit, and the next year toured as a general understudy for the Sothern and Marlowe Shakespeare Company; moved to California in 1922 and became director at the Pasadena Community Playhouse, and in 8 years, played over 200 roles and directed more than 40 productions; became head of the San Francisco Federal Project in 1937; first came to UCLA to teach two summer courses in 1932; in 1938 became a lecturer for theater courses in the English Department; he was active in the creation of a separate Theater Arts Department, where he became a full professor and emeritus professor; died on November 4, 1973.</p>
+ <bioghist>
+ <head>Biographical Narrative</head>
+ <p>Ralph Freud was born in London, England in 1901 and moved to the United States as a child. Freud attended Mercersburg Academy in Mercersburg, Pennsylvania and Detroit public schools. At the age of 18 Freud joined the Detroit Arts and Crafts Theater. In 1920 Freud became a member of the Bonstelle Stock Company of Detroit, Michigan. While in Michigan, Freud attended Detroit Junior College then the University of Michigan, Ann Arbor. In 1921 Freud toured as a general understudy for the Sothern and Marlowe Shakespeare Company. Freud moved to California in 1922 and became director of the Pasadena Community Playhouse. In 8 years, Freud played over 200 roles and directed more than 40 productions. In 1924, Freud and Gilmore Brown established the Playbox Theater in Los Angeles, the first arena stage theater in the United States. In 1933 Freud assumed the position of director for the San Francisco Jewish Community Theater. He became the head of the San Francisco Federal Theater Project in 1937. Freud first came to UCLA to teach two summer courses in 1932. From 1938 to 1947 Freud was a full-time lecturer for drama courses in the English Department. Freud played an active role in the creation of a separate Theater Arts Department in 1947. He served as head of the Theater Arts Department from 1947 to 1953 and was chairman of the department from 1953 to 1969. Freud also directed the Ramona Pageant in Hemet, California form 1952 to 1966. Freud became a full professor of Theater Arts at UCLA in 1954 and was granted emeritus status in 1969. In 1969 the Theater Arts Department dedicated its theater, build in 1962, to Freud, naming it the Ralph Freud Playhouse. The department also established a fellowship named the Ralph Freud Fellowship Fund in Acting in Freud's honor in 1969. Freud died on November 4, 1973.</p>
+ </bioghist>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of taped interviews with theater, motion picture, and television professionals, conducted by Ralph Freud, Victor Jory, and Professor Freud's students from UCLA's Theater Arts Department. Typed transcripts for eight of the interviews are included. Interviewees include: Ralph Bellamy, Shirley Booth, Ray Bradbury, Sebastian Cabot, George Cukor, Bette Davis, James A. Doolittle, Ralph Freud, Dean Jagger, Jack Lemmon, Alfred Lunt and Lynn Fontanne, Roddy McDowall, Meredith Willson, and Keenan Wynn.</p>
+ </scopecontent>
+ <arrangement id="arrangement-1.8.5">
+ <head>Organization and Arrangement</head>
+ <p>Arranged in the following series: <list type="ordered"><item>Tapes 1-14 (Box 1).</item><item>Tapes 15-20, and typed transcripts of some tapes (Box 2).</item></list></p>
+ </arrangement>
+ <controlaccess id="controlaccess-1.8.6">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname source="aacr2" encodinganalog="600" role="subject">Freud, Ralph, 1901-1973--Archives.</persname>
+ <corpname source="lcnaf" encodinganalog="610" role="subject">University of California, Los Angeles--Dept. of Theater Arts--Faculty--Archival resources.</corpname>
+ <occupation source="lcsh" encodinganalog="650">Actors--United States--Interviews.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Motion picture producers and directors--United States--Interviews.</occupation>
+ <genreform source="aat" encodinganalog="655">Audiotapes.</genreform>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.7" score="1" C-ORDER="1" MAX-C-ORDER="46">
+ <head>Container List</head>
+ <c01 level="item" id="c01-1.8.7.2" score="1" C-ORDER="2">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Ames, Leon (1903- ). Interviewed by Victor Jory (<unitdate calendar="gregorian" era="ce">December 18, 1965).</unitdate> Tape no.6. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.3" score="1" C-ORDER="3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Arzner, Dorothy (1900-1979). Interviewer unknown (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.9. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; both sides: side one 3.75 ips; side two, 7 ½ ips.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.4" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Bellamy, Ralph (1904 - ). Interviewed by Victory Jory (<unitdate calendar="gregorian" era="ce">November 17, 1965).</unitdate> Tape no.7 and 11. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one, tape seven; side two, tape eleven.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.5" score="1" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Booth, Shirley. Interviewed by Victor Jory (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.7. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.6" score="1" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Bradbury, Ray (1920 - ). Interviewer unknown (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.14. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; both sides.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.7" score="1" C-ORDER="7">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Cabot, Sebastian. Interviewed by Charles McMurray (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.11. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.8" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Clurman, Harold. Interviewer unknown (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.10. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.9" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Doolittle, James A. (1914 - ). Interviewed by Richard Kelly (<unitdate calendar="gregorian" era="ce">March 26, April 11, and April 24, 1969).</unitdate> Tape no.15. No transcript available. </unittitle>
+ <physdesc> .25 open reel; 3.75 ips.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.10" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Duerr, Ed (Edwin) (1906 - ). Speech given by Ed Duerr (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.12. No transcript available.</unittitle>
+ <physdesc> .25 open reel: 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.11" score="1" C-ORDER="11">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Fontanne, Lynn. Recording of Players' Club
+Night, guests of honor: Lynn Fontanne and Alfred Lunt (<unitdate calendar="gregorian" era="ce">1963).</unitdate> Tape no.12.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.12" score="1" C-ORDER="12">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Fontanne, Lynn. Recording of Players' Club
+Night, guests of honor: Lynn Fontanne and Alfred Lunt (<unitdate calendar="gregorian" era="ce">1963).</unitdate> Interviewed by Victor Jory (<unitdate calendar="gregorian" era="ce">December 14, 1965).</unitdate> Tape no.6. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.13" score="1" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Jory, Victor. Interviewed by Ralph Freud (<unitdate calendar="gregorian" era="ce">September 3, 1966).</unitdate> Tape no.13. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.14" score="1" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Kelly, George (1887-1974). Interviewed by Rosalind Salzburg (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.18. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; both sides.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.15" score="1" C-ORDER="15">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Lawson, George Howard. Interviewer unknown (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.19. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.16" score="1" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Lemmon, Jack. Interviewed by Judy Hayden (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.16. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.17" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Lunt, Alfred. Recording of Players' Club Night, guests of honor: Alfred Lunt and Lynn Fontanne (<unitdate calendar="gregorian" era="ce">1963).</unitdate> Tape no.12. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.18" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>McDowell, Roddy. Interviewer unknown (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.16. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.19" score="1" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>McIntire, John. Interviewer unknown (n.d.). Tape no.19. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.20" score="1" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Mishkin, Meyer. Interviewer unknown (<unitdate calendar="gregorian" era="ce">June 2, 1964).</unitdate> Tape no.17. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.21" score="1" C-ORDER="21">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Morgan, Dickson. Interviewed by Ralph Freud (August 25, 1964). Tape no.13. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.22" score="1" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Players' Club Night, <unitdate calendar="gregorian" era="ce">1963.</unitdate> Recording of Players' Club Night, guests of honor: Lynn Fontanne and Alfred Lunt. Tape no.12. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.23" score="1" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Pollock, Max. Interviewed by Ralph Freud (February 4, 1970). Tape no.20. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.24" score="1" C-ORDER="24">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Wilson, Meredith. Interviewed by Miriam Ford (<unitdate calendar="gregorian" era="ce">April 24, 1961).</unitdate> Tape no.17. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.25" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Wynn, Keenan. Interviewer unknown (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.10. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.26" score="2" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Cukor, George (Dewey) (1899- ). Interviewed by Victor Jory and Ralph Freud (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.2.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (66 leaves) in folder one.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.27" score="2" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Davis, Bette (1908- ). Interviewed by Ralph Freud and Victor Jory (<unitdate calendar="gregorian" era="ce">July 28, 1966).</unitdate> Tape no.3.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (57 leaves) in folder two.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.28" score="2" C-ORDER="30">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Dumbeau, Dug (Douglass). Interviewed by Victor Jory and Ralph Freud (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.4.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (51 leaves) in folder three.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.29" score="1" C-ORDER="32">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>Erway, Ben. Interviewed by Victor Jory (<unitdate calendar="gregorian" era="ce">January 17, 1966).</unitdate> Tape no.4.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.30" score="2" C-ORDER="33">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Freud, Ralph (1901-1973). Interviewed by Victor Jory (<unitdate calendar="gregorian" era="ce">March 2, 1966).</unitdate> Tape no.1.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (36 leaves) in folder four.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.31" score="2" C-ORDER="35">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Freund, Karl. Interviewer unknown (<unitdate calendar="gregorian" era="ce">June 1, 1964).</unitdate> Tape no.3.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (19 leaves) in folder five.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.32" score="2" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Hall, Frances. Interviewed by Victor Jory and Ralph Freud (<unitdate calendar="gregorian" era="ce">December 31, 1965).</unitdate> Tape no.5 and 8.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two, tape five; side two, tape eight.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (38 leaves) in folder six.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.33" score="2" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Jagger, Dean. Interviewed by Victor Jory and Ralph Freud (<unitdate calendar="gregorian" era="ce">January 23, 1966).</unitdate> Tape no.1.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (72 leaves) in folder seven.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.34" score="2" C-ORDER="41">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Lane, Charles. Interviewed by Victor Jory and Ralph Freud (<unitdate calendar="gregorian" era="ce">December 31, 1965).</unitdate> Tape no.5.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (12 leaves) in folder eight.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.35" score="1" C-ORDER="43">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>Loos, Lex. Interviewed by Ralph Freud (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.8. No transcript available.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side two.</physdesc>
+ </did>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.36" score="2" C-ORDER="44">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>McNear, Howard. Interviewed by Victor Jory (<unitdate calendar="gregorian" era="ce">January 18, 1966).</unitdate> Tape no.5.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (42 leaves) in folder nine.</p>
+ </note>
+ </c01>
+ <c01 level="item" id="c01-1.8.7.37" score="2" C-ORDER="46">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Tamiroff, Akim. Interviewer unknown (<unitdate calendar="gregorian" era="ce">n.d.).</unitdate> Tape no.2.</unittitle>
+ <physdesc> .25 open reel; 3.75 ips; side one.</physdesc>
+ </did>
+ <note>
+ <p>Transcript available (23 leaves) in folder ten.</p>
+ </note>
+ </c01>
+ </dsc>
+ <relatedmaterial id="relatedmaterial-1.8.8">
+ <head>Related Material</head>
+ <p><title linktype="simple">A Career in Professional and University Theater</title> [oral history transcript] / Ralph Freud, interviewee. UCLA Oral History Department interview, 1969. Available at Department of Special Collections, UCLA.</p>
+ </relatedmaterial>
+ </archdesc>
+</ead>
