@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/c8v986fq" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::1962::Morton G. Wurtele collection of Brechtiana)//EN" "wurt1962.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Morton G. Wurtele collection of Brechtiana, 1938-1960</titleproper>
+<titleproper type="filing">Wurtele (Morton G.) collection of Brechtiana</titleproper>
+<author>Processed by Benjamin Formaker-Olivas and Lilace Hatayama, April 2012; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">© 2012</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from finding aid processed using the Archivists' Toolkit, encoding added via Archivists' Toolkit and Notetab Pro. Date of source: <date>May 2012</date>.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" id="archdesc-1.2">
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">Morton G. Wurtele collection of Brechtiana</unittitle>
+<unitdate type="inclusive" normal="1938/1960">1938-1960</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1962</unitid>
+<origination label="Creator">
+<persname rules="aacr2">Wurtele, Morton G., collector.</persname></origination>
+<physdesc label="Extent">
+<extent>2 boxes (1 linear ft.)</extent>
+<extent>1 oversize flat box.</extent>
+</physdesc>
+    <abstract label="Abstract">Collection of material by and about Bertolt Brecht, including typescripts of prose and poetry, books, recordings and a script for an adaptation of Brecht's play <title>Galileo</title>, collected by Morton G. Wurtele, professor emeritus of atmospheric science at UCLA.</abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+</did>
+<descgrp type="admininfo" id="descgrp-1.2.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Morton G. Wurtele, 1998.</p>
+</acqinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Morton G. Wurtele collection of Brechtiana (Collection 1962). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: 
+ <extref href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=" actuate="onrequest" show="new">6931115</extref></p>
+</odd>
+</descgrp>
+<scopecontent encodinganalog="520" id="scopecontent-1.2.3">
+<head>Scope and Content</head>
+<p>Collection consists of material by and about Bertolt Brecht collected by Morton G. Wurtele, Professor in the UCLA Department of Atmospheric Sciences. It includes typescripts of Brecht's prose and poetry, recordings of Brecht songs, a copy of Charles Laughton's adaptation of Brecht's <title>Galileo</title>, and books inscribed to and by Bertolt Brecht.</p>
+</scopecontent>
+<controlaccess id="controlaccess-1.2.4">
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Brecht, Bertolt, 1898-1956. </persname>
+<occupation source="lcsh" encodinganalog="650">Playwrights --Archival resources.</occupation>
+<controlaccess>
+<head>Other Index Terms Related to this Collection</head>
+<persname encodinganalog="700">Wurtele, Morton G., collector.</persname>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<dsc type="in-depth" id="dsc-1.2.5" score="1" C-ORDER="1" MAX-C-ORDER="19">
+<head>Container List</head>
+<c01 id="ref1" level="file" score="1" C-ORDER="2">
+<did>
+<unittitle>Various typescripts of prose and poetry (An Die Nachgeborenen, Kleines Organon Fur Das Theatre)</unittitle>
+<container id="cid6476053" type="Box" label="Box">1</container>
+<container parent="cid6476053" type="Folder">1</container>
+</did>
+</c01>
+<c01 id="ref2" level="file" score="1" C-ORDER="3">
+<did>
+<unittitle>Theatrical still from an unidentified play</unittitle>
+<container id="cid6476054" type="Box" label="Box">1</container>
+<container parent="cid6476054" type="Folder" label="Folder">2</container>
+</did>
+</c01>
+<c01 id="ref3" level="file" score="1" C-ORDER="4">
+<did>
+<unittitle>Galileo by Bertolt Brecht, adapted by Charles Laughton, mimoegraphed copy of text used in world premier performance. Los Angeles, 1947. Inscribed by playwright Bertolt Brecht.</unittitle>
+<container id="cid6476055" type="Box" label="Box">1</container>
+<container parent="cid6476055" type="Folder" label="Folder">3</container>
+</did>
+</c01>
+<c01 id="ref4" level="file" score="1" C-ORDER="5">
+<did>
+<unittitle>Bertolt Brecht singt, Zwei Songs Aus Der Dreigroschenoper - recording</unittitle>
+<container id="cid6476056" type="Box" label="Box">1</container>
+<container parent="cid6476056" type="Folder" label="Folder">4</container>
+</did>
+</c01>
+<c01 id="ref5" level="file" score="1" C-ORDER="6">
+<did>
+<unittitle>Portrait of Bertolt Brecht as a Chinese Scholar, inscribed by Bertolt Brecht, 1947</unittitle>
+<container id="cid6476057" type="Box" label="Box">1</container>
+<container parent="cid6476057" type="Folder" label="Folder">5</container>
+</did>
+</c01>
+<c01 id="ref6" level="file" score="1" C-ORDER="7">
+<did>
+<unittitle>Program for Galileo with Charles Laughton, Coronet Theatre</unittitle>
+<container id="cid6476058" type="Box" label="Box">1</container>
+<container parent="cid6476058" type="Folder" label="Folder">6</container>
+<unitdate>1947 Jul 14</unitdate>
+</did>
+</c01>
+<c01 id="ref7" level="file" score="1" C-ORDER="8">
+<did>
+<unittitle>Die Verurteilung des Luikulllus, von Bertolt Brecht, musik von Paul Dessau, Aufbau Verlag, Berlin</unittitle>
+<container id="cid6476059" type="Box" label="Box">1</container>
+<container parent="cid6476059" type="Folder" label="Folder">7</container>
+<unitdate>1951</unitdate>
+</did>
+</c01>
+<c01 id="ref8" level="file" score="1" C-ORDER="9">
+<did>
+<unittitle>Brecht, Bertolt. A Penny for the Poor, trans. Desmond I. Vesey, verses trans. Christopher Isherwood. Hillman-Curl, New York</unittitle>
+<container id="cid6476060" type="Box" label="Box">1</container>
+<container parent="cid6476060" type="Folder" label="Folder">8</container>
+<unitdate>1938</unitdate>
+</did>
+</c01>
+<c01 id="ref9" level="file" score="1" C-ORDER="10">
+<did>
+<unittitle>Kaechele, Heinz. Bertolt Brecht, Sein Leben in Bildern. VEB Verlag Enzyklopaedie, Leipzig</unittitle>
+<container id="cid6476061" type="Box" label="Box">1</container>
+<container parent="cid6476061" type="Folder" label="Folder">9</container>
+<unitdate>undated</unitdate>
+</did>
+</c01>
+<c01 id="ref10" level="file" score="1" C-ORDER="11">
+<did>
+<unittitle>Tsiang, H.T. The Hanging on Union Square, published by the author, inscribed to Bertolt Brecht</unittitle>
+<container id="cid6476062" type="Box" label="Box">1</container>
+<container parent="cid6476062" type="Folder" label="Folder">10</container>
+<unitdate>1935</unitdate>
+</did>
+</c01>
+<c01 id="ref11" level="file" score="1" C-ORDER="12">
+<did>
+<unittitle>Brecht. Der Gute Mensch von Sezuan. Aufbau Verlag, Berlin</unittitle>
+<container id="cid6476063" type="Box" label="Box">1</container>
+<container parent="cid6476063" type="Folder" label="Folder">11</container>
+<unitdate>1953</unitdate>
+</did>
+</c01>
+<c01 id="ref12" level="file" score="1" C-ORDER="13">
+<did>
+<unittitle>Bertolt Brechts Dreigroschenbuch, Texte, Materialien, Documente. Suhrkamp, Berlin. 480 pp.</unittitle>
+<container id="cid6476064" type="Box" label="Box">2</container>
+<container parent="cid6476064" type="Folder" label="Folder">1</container>
+<unitdate>1960</unitdate>
+</did>
+</c01>
+<c01 id="ref13" level="file" score="1" C-ORDER="14">
+<did>
+<unittitle>Theaterarbeit. 6Auffuhrungen des Berliner Ensembles, VVV Dresdener Verlag, Dresden. 434 pp. Inscribed by Bertolt Brecht and Helene Weigel.</unittitle>
+<container id="cid6476065" type="Box" label="Box">2</container>
+<container parent="cid6476065" type="Folder" label="Folder">2</container>
+<unitdate>undated</unitdate>
+</did>
+</c01>
+<c01 id="ref14" level="file" score="1" C-ORDER="15">
+<did>
+<unittitle>Helene Weigel liest Bertolt Brecht - recording</unittitle>
+<container id="cid6480001" type="Box" label="Box">3</container>
+<container parent="cid6480001" type="Folder" label="Folder">1</container>
+</did>
+</c01>
+<c01 id="ref15" level="file" score="1" C-ORDER="16">
+<did>
+<unittitle>Dessau, Paul. Im Memoriam Bertolt Brecht. Bach Variation, Phillips recording</unittitle>
+<container id="cid6476067" type="Box" label="Box">3</container>
+<container parent="cid6476067" type="Folder" label="Folder">2</container>
+</did>
+</c01>
+<c01 id="ref16" level="file" score="1" C-ORDER="17">
+<did>
+<unittitle>The Seven Deadly Sins, text by Bertolt Brecht, sung by Lotte, Lenya, Columbia Masterworks recording</unittitle>
+<container id="cid6476068" type="Box" label="Box">3</container>
+<container parent="cid6476068" type="Folder" label="Folder">3</container>
+</did>
+</c01>
+<c01 id="ref17" level="file" score="1" C-ORDER="18">
+<did>
+<unittitle>Brecht on Brecht by various performers, Columbia recording</unittitle>
+<container id="cid6476069" type="Box" label="Box">3</container>
+<container parent="cid6476069" type="Folder" label="Folder">4</container>
+</did>
+</c01>
+<c01 id="ref18" level="file" score="1" C-ORDER="19">
+<did>
+<unittitle>8 Lieder zu Mutter Courage und ihre Kinder, Bertolt Brecht/Paul Dessau, sung by Helene Weigel, 2 discs</unittitle>
+<container id="cid6476070" type="Box" label="Box">3</container>
+<container parent="cid6476070" type="Folder" label="Folder">5</container>
+</did>
+</c01>
+</dsc>
+</archdesc>
+</ead>
