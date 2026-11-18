@@ -1,0 +1,5033 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf1r29n7gj" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library Special Collections//TEXT&#10;(US::CLU-SC::1389::California Democratic Council Records)//EN&quot; &quot;cali1389.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">cali1389.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the California Democratic Council Records, 1963-1980 bulk 1970s</titleproper><titleproper type="filing">Calif. Democratic Council Records</titleproper>
+ <author>Processed by UCLA Library Special Collections staff; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library Special Collections</publisher>
+ <address>
+ <addressline>UCLA Library Special Collections staff</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 1999</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ <notestmt>
+ <note>
+ <p>
+ <subject source="CDL">Social Sciences --Political Science
+--State Government</subject>
+ <subject source="CDL">History
+--History, California --General</subject>
+ <subject source="CDL">Geographical (By Place) --California</subject>
+ </p>
+ </note>
+ </notestmt>
+ </filedesc><profiledesc>
+ <creation>Machine-readable finding aid derived from database containing
+container list structure and data, encoding added via MS Access or other database program, <date calendar="gregorian" era="ce">unknown year</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library Special Collections//TEXT
+(US::CLU-SC::1389::California Democratic Council Records)//EN" "cali1389.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the California Democratic Council Records, 1963-1980 bulk 1970s</titleproper>
+ <num>Collection number: 1389</num>
+ <publisher>UCLA Library Special Collections
+<lb/>UCLA Library Special Collections staff
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>UCLA Library Special Collections staff</item>
+ <item>UCLA Library Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>UCLA Library Special Collections staff, 1998</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, October 2002</item>
+ </defitem>
+ </list>
+ <p>© 1999 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">California Democratic Council Records, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1963-1980 bulk 1970s</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">1389</unitid>
+ <origination label="Creator">California Democratic Council</origination>
+ <physdesc label="Extent"><extent>51 boxes (25.5 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">The California Democratic Council (CDC) was established in 1953 and is a federation of local volunteer clubs. CDC endorsements and campaign support led to the first full statewide slate of Democrats in 40 years (1954) and also figured prominently in the election of Edmund G. Pat Brown as California governor in 1958. The collection consists of correspondence, minutes, newsletters, resolutions, and notes of the California Democratic Council from 1963-80. </abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+ </accessrestrict>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of Knox Mellon, Jr., 1969.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], California Democratic Council Records (Collection 1389). UCLA Library Special Collections, Charles E. Young Research Library.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=709552">709552</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>History</head>
+ <p>The California Democratic Council (CDC), a federation of local volunteer clubs, was established in 1953; under the direction of founding president Alan Cranston, the CDC was able to balance its electoral and legislative goals; CDC endorsements and campaign support led to the first full statewide slate of Democrats in 40 years (1954) and also figured prominently in the election of Edmund G. Pat Brown as California governor in 1958; as the CDC's focus became increasingly ideological, tensions led to a steady decline in its membership and presence in California politics; membership peaked at 75,000 in 1964.</p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of correspondence, minutes, newsletters, resolutions, and notes of the California Democratic Council from 1963-80. The bulk of the collection is from the 1970s, and topics covered include fundraising, conventions, legislative and political actions, and affiliated local clubs.</p>
+ </scopecontent>
+ <arrangement id="arrangement-1.8.5">
+ <head>Organization and Arrangement</head>
+ <p>Arranged in the following series: <list type="ordered">
+<item>Current administration.</item>
+<item>Resolutions and issues.</item>
+<item>CDC fundraisers and champions.</item>
+<item>Rules and by-laws.</item>
+<item>Conventions.</item>
+<item>Political action.</item>
+<item>Minutes and board meetings.</item>
+<item>Legislative action.</item>
+<item>Club newsletters.</item>
+<item>Press.</item>
+<item>Scrapbook.</item>
+<item>[Unlabeled].</item></list></p>
+ </arrangement>
+ <controlaccess id="controlaccess-1.8.6">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+ <corpname source="lcnaf" encodinganalog="610" role="subject">California Democratic Council--Archives.</corpname>
+ <corpname source="lcnaf" encodinganalog="610" role="subject">Democratic Party (Calif.). </corpname>
+ <geogname source="lcnaf" encodinganalog="651">California--Politics and government--1951- .</geogname>
+</controlaccess>
+</controlaccess>
+ <relatedmaterial id="relatedmaterial-1.3.7">
+ <head>Related Material</head>
+ <p><title linktype="simple">CDC Officer: 1953-1965</title> [oral history transcript] / Joseph L. Wyatt, interviewee. UCLA Oral History Department interview, 1971. Available at the UCLA Library Special Collections, Charles E. Young Research Library.</p>
+ <p><title linktype="simple">The California Democratic Council and Grass-Roots Politics Oral History Transcript</title> [oral history transcript] / Charles G. Gant, interviewee. UCLA Oral History Department interview, 1970. Available at the UCLA Library Special Collections, Charles E. Young Research Library.</p>
+ <p>
+ <extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt2p30192v" actuate="onrequest" show="new">Joseph L. Wyatt Collection of California Democratic Council Records (Collection 1082)
+ </extref> Available at the UCLA Library Special Collections, Charles E. Young Research Library.</p>
+ <p><extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt1q2nc52x" actuate="onrequest" show="new">Tom B. Carvey Papers (Collection 1110)
+ </extref> Available at the UCLA Library Special Collections, Charles E. Young Research Library.</p>
+ </relatedmaterial>
+ <dsc type="in-depth" id="dsc-1.8.7" score="1" C-ORDER="1" MAX-C-ORDER="698">
+ <head>Container List</head>
+ <c01 level="series" id="c01-1.8.7.2" score="1" C-ORDER="2">
+ <did>
+ <unittitle>Current Administration</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.2.2" score="1" C-ORDER="3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Marlene [Kagan] letter and Committee chairs. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.3" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Administrative and like-minded organizational committees. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.4" score="1" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>[Congratulatory letters, roster, and Motown records]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.5" score="1" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Affiliation forms. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.6" score="1" C-ORDER="7">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Alden Bryant correspondence. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.7" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Committee appointees. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.8" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>[Los Angeles County Democratic Central Committee]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.9" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>[Los Angeles County Democratic Central Committee - By-laws]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.10" score="1" C-ORDER="11">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Bills sent to Doug Young to <unitdate calendar="gregorian" era="ce">April 1981.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.11" score="1" C-ORDER="12">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Sample club forms. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.12" score="1" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Affiliation papers. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.13" score="1" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Credentials. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.14" score="1" C-ORDER="15">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1978</unitdate> convention forms. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.15" score="1" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>[Materials relating to consumer affairs]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.16" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Consumers' council. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.17" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Board credentials. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.18" score="1" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1978</unitdate> communications committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.19" score="1" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Senator Alan Cranston. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.20" score="1" C-ORDER="21">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Los Angeles County committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.21" score="1" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Young Democrats. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.22" score="1" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Democratic planning group. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.23" score="1" C-ORDER="24">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Democratic State Central Committee (DSCC). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.24" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>California Federation of Young Democrats. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.25" score="1" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Party reform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.26" score="1" C-ORDER="27">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>State committee correspondence. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.27" score="1" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Los Angeles County committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.28" score="1" C-ORDER="29">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Democratic National Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.29" score="1" C-ORDER="30">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Los Angeles County Democratic State Central Committee (LACDSCC). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.30" score="1" C-ORDER="31">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Communications board. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.31" score="1" C-ORDER="32">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Democratic State Central Committee (DSCC). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.32" score="1" C-ORDER="33">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Los Angeles Democratic Central Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.33" score="1" C-ORDER="34">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Democratic planning group. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.34" score="1" C-ORDER="35">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folders" type="Folder">14-15</container>
+ <unittitle>Democratic party. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.35" score="1" C-ORDER="36">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Los Angeles County Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.36" score="1" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Democratic party. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.37" score="1" C-ORDER="38">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Democratic party reform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.38" score="1" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Democratic State Central Committee (DSCC). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.39" score="1" C-ORDER="40">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Democratic National Committee charter committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.40" score="1" C-ORDER="41">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>State Central Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.41" score="1" C-ORDER="42">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">22</container>
+ <unittitle>California Democratic Council - <unitdate calendar="gregorian" era="ce">May 1, 1979 to April 30, 1981.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.42" score="1" C-ORDER="43">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Democratic State Central Committee (DSCC) party reform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.43" score="1" C-ORDER="44">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Party reform committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.44" score="1" C-ORDER="45">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>National democratic platform, <unitdate calendar="gregorian" era="ce">1976.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.45" score="1" C-ORDER="46">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Economy. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.46" score="1" C-ORDER="47">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Federal election committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.47" score="1" C-ORDER="48">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Financial report, <unitdate calendar="gregorian" era="ce">May 1, 1978 thru March 22, 1979.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.48" score="1" C-ORDER="49">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Defectors. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.49" score="1" C-ORDER="50">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>California Democratic Committee history. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.50" score="1" C-ORDER="51">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Asian Pacific Gay/Lesbian. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.51" score="1" C-ORDER="52">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Maps. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.52" score="1" C-ORDER="53">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Meeting arrangements. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.53" score="1" C-ORDER="54">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folders" type="Folder">12-13</container>
+ <unittitle>New Democratic Coalition. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.55" score="1" C-ORDER="55">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Ad for administrative assistant - resumes received. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.56" score="1" C-ORDER="56">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Personnel committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.57" score="1" C-ORDER="57">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>[Post office - mailing requirements and bulk permit]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.58" score="1" C-ORDER="58">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>[Publications]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.59" score="1" C-ORDER="59">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>California Democratic Committee questionnaire. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.60" score="1" C-ORDER="60">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Originals, letters, roster, etc. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.61" score="1" C-ORDER="61">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Organizational rosters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.62" score="1" C-ORDER="62">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Board of directors lists (inactive). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.63" score="1" C-ORDER="63">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Letter from Marlene [Kagan] and State Committee chairs. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.64" score="1" C-ORDER="64">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1977</unitdate> master roster duplicate. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.65" score="1" C-ORDER="65">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Rosters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.66" score="1" C-ORDER="66">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Rosters (CDC). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.67" score="1" C-ORDER="67">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Miscellaneous rosters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.68" score="1" C-ORDER="68">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Speaker's bureau. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.69" score="1" C-ORDER="69">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>California Democratic Committee Senior Caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.70" score="1" C-ORDER="70">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Treasurer. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.71" score="1" C-ORDER="71">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>[Tax]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.72" score="1" C-ORDER="72">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Urban planning committee - David Tonkin, chairman. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.73" score="1" C-ORDER="73">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Volunteer awards. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.74" score="1" C-ORDER="74">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Women's issues. </unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.3" score="1" C-ORDER="75">
+ <did>
+ <unittitle>Resolutions, Issues</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.3.2" score="1" C-ORDER="76">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>[Publications]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.3" score="1" C-ORDER="77">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Child care. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.4" score="1" C-ORDER="78">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Issues chair. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.5" score="1" C-ORDER="79">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Black Caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.6" score="1" C-ORDER="80">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Civil and human rights. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.7" score="1" C-ORDER="81">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Civilian police review board. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.8" score="1" C-ORDER="82">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Consumer. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.9" score="1" C-ORDER="83">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Criminal justice. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.10" score="1" C-ORDER="84">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Disarmament. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.11" score="1" C-ORDER="85">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Energy task force. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.12" score="1" C-ORDER="86">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Proposed resolutions - <unitdate calendar="gregorian" era="ce">1980</unitdate> convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.13" score="1" C-ORDER="87">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Foreign policy. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.14" score="1" C-ORDER="88">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Health and HSA. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.15" score="1" C-ORDER="89">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Labor. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.16" score="1" C-ORDER="90">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Proposition 9 (Jarvis II). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.17" score="1" C-ORDER="91">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Political action - <unitdate calendar="gregorian" era="ce">1980.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.18" score="1" C-ORDER="92">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Program. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.19" score="1" C-ORDER="93">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Rent control. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.20" score="1" C-ORDER="94">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Issues. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.21" score="1" C-ORDER="95">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Neutron bomb and B-1 bomber. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.22" score="1" C-ORDER="96">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Taxation. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.23" score="1" C-ORDER="97">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Urban. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.24" score="1" C-ORDER="98">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>[CDC platform <unitdate calendar="gregorian" era="ce">1980</unitdate>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.25" score="1" C-ORDER="99">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>[Energy]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.26" score="1" C-ORDER="100">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Water. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.27" score="1" C-ORDER="101">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Welfare. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.28" score="1" C-ORDER="102">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Resolutions Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.29" score="1" C-ORDER="103">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Issues: water. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.30" score="1" C-ORDER="104">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Resolutions. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.31" score="1" C-ORDER="105">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folders" type="Folder">11-12</container>
+ <unittitle>Resolutions Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.33" score="1" C-ORDER="106">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Accountability. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.34" score="1" C-ORDER="107">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Resolutions - <unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.35" score="1" C-ORDER="108">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Resolutions. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.36" score="1" C-ORDER="109">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1978.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.4" score="1" C-ORDER="110">
+ <did>
+ <unittitle>California Democratic Committee Fundraisers, Champions</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.4.2" score="1" C-ORDER="111">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Correspondence, Wallace [Albertson], Frank [Fitch]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.3" score="1" C-ORDER="112">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Fundraisers, <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.4" score="1" C-ORDER="113">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Theatre party, One is a crowd. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.5" score="1" C-ORDER="114">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Dellums party. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.6" score="1" C-ORDER="115">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>N. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.7" score="1" C-ORDER="116">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1977</unitdate> Ad journal. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.8" score="1" C-ORDER="117">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Complete club rosters (eg) for fund raising. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.9" score="1" C-ORDER="118">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Volunteer for Victory dinner. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.10" score="1" C-ORDER="119">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Program chair. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.11" score="1" C-ORDER="120">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1976</unitdate> Souvenir ad journal. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.12" score="1" C-ORDER="121">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Champions program. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.13" score="1" C-ORDER="122">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>[Affiliations]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.14" score="1" C-ORDER="123">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1976</unitdate> champions. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.15" score="1" C-ORDER="124">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>[CDC projects/programs]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.16" score="1" C-ORDER="125">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Bradley party. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.17" score="1" C-ORDER="126">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Fundraiser suggestions. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.18" score="1" C-ORDER="127">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>[Campaign workshop]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.19" score="1" C-ORDER="128">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Bills - receipts, letters to treasurer. </unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.6" score="1" C-ORDER="129">
+ <did>
+ <unittitle>Rules, By-Laws</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.6.2" score="1" C-ORDER="130">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Marlene [Kagan] letter to president &amp; Senate District directors, caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.3" score="1" C-ORDER="131">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>No description given. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.4" score="1" C-ORDER="132">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1980</unitdate> Memberships and ADS. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.5" score="1" C-ORDER="133">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Summary of CDC. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.6" score="1" C-ORDER="134">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Constitution and by-laws of the CDC - <unitdate calendar="gregorian" era="ce">March 25, 1979.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.7" score="1" C-ORDER="135">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.8" score="1" C-ORDER="136">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Garry Shay, Kay Morgan - Proper amendments. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.9" score="1" C-ORDER="137">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Rules of convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.10" score="1" C-ORDER="138">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Paste ups - standing rules and by-laws. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.11" score="1" C-ORDER="139">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Standing rules draft for the <unitdate calendar="gregorian" era="ce">1981</unitdate> Convention. </unittitle>
+<physdesc>(letter)</physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.12" score="1" C-ORDER="140">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Correspondence. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.13" score="1" C-ORDER="141">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Rules from personnel committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.14" score="1" C-ORDER="142">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Resolutions polled seat <unitdate calendar="gregorian" era="ce">1980</unitdate> CDC platform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.15" score="1" C-ORDER="143">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Local endorsing convention rules. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.16" score="1" C-ORDER="144">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Standing rules of the Board of Directors. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.17" score="1" C-ORDER="145">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>By-laws - General forms, etc. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.18" score="1" C-ORDER="146">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>By-laws - undated material. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.19" score="1" C-ORDER="147">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>By-laws - <unitdate calendar="gregorian" era="ce">1964 to 1966.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.20" score="1" C-ORDER="148">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>By-laws - <unitdate calendar="gregorian" era="ce">1967.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.21" score="1" C-ORDER="149">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>California Democratic Committee Constitution - By-laws - <unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.22" score="1" C-ORDER="150">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>By-laws - <unitdate calendar="gregorian" era="ce">1971</unitdate> Convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.23" score="1" C-ORDER="151">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>By-laws - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.24" score="1" C-ORDER="152">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>By-laws - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.25" score="1" C-ORDER="153">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>By-laws - <unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.26" score="1" C-ORDER="154">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>By-laws committee - <unitdate calendar="gregorian" era="ce">1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.27" score="1" C-ORDER="155">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>By-laws - <unitdate calendar="gregorian" era="ce">1976</unitdate> Sample club activity forms. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.28" score="1" C-ORDER="156">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folders" type="Folder">12-14</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.31" score="1" C-ORDER="157">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1977</unitdate> - By-laws (proposed revisions). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.32" score="1" C-ORDER="158">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Gay caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.33" score="1" C-ORDER="159">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Committee appointments. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.34" score="1" C-ORDER="160">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Asian/Pacific caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.35" score="1" C-ORDER="161">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Black caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.36" score="1" C-ORDER="162">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Brown caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.37" score="1" C-ORDER="163">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Labor caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.38" score="1" C-ORDER="164">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folders" type="Folder">8-9</container>
+ <unittitle>Senior caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.40" score="1" C-ORDER="165">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Single caucus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.41" score="1" C-ORDER="166">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Los Angeles Committee on status of women. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.42" score="1" C-ORDER="167">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Women's caucus - <unitdate calendar="gregorian" era="ce">1978-79, 1980.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.43" score="1" C-ORDER="168">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Women's caucus - <unitdate calendar="gregorian" era="ce">1977.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.44" score="1" C-ORDER="169">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Women's caucus - <unitdate calendar="gregorian" era="ce">1973-74.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.45" score="1" C-ORDER="170">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Women's caucus - <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.46" score="1" C-ORDER="171">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Youth caucus. </unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.7" score="1" C-ORDER="172">
+ <did>
+ <unittitle>Conventions</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.7.2" score="1" C-ORDER="173">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Resolutions from <unitdate calendar="gregorian" era="ce">1978</unitdate> CDC Convention for Compilation for National Democratic Council. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.3" score="1" C-ORDER="174">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Conventions. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.4" score="1" C-ORDER="175">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.5" score="1" C-ORDER="176">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Convention handbook. Additional pages. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.6" score="1" C-ORDER="177">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.7" score="1" C-ORDER="178">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1978</unitdate> Convention reports. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.8" score="1" C-ORDER="179">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Convention - Fresno. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.9" score="1" C-ORDER="180">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1978</unitdate> Convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.10" score="1" C-ORDER="181">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Southern board meeting. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.11" score="1" C-ORDER="182">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Convention call - <unitdate calendar="gregorian" era="ce">1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.12" score="1" C-ORDER="183">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Convention correspondence re: affiliation. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.13" score="1" C-ORDER="184">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Human rights lobby day - <unitdate calendar="gregorian" era="ce">August 22 and September 2, 1981.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.14" score="1" C-ORDER="185">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Political action - <unitdate calendar="gregorian" era="ce">September 20 and October 22, 1981.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.15" score="1" C-ORDER="186">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Palo Verde nuclear. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.16" score="1" C-ORDER="187">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Letter to Nancy Pelosi. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.17" score="1" C-ORDER="188">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Alliance for Survival. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.18" score="1" C-ORDER="189">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>(CDC pamphlet). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.19" score="1" C-ORDER="190">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Plan B - <unitdate calendar="gregorian" era="ce">May 16, 1983.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.20" score="1" C-ORDER="191">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>(Petitions). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.21" score="1" C-ORDER="192">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>No description given. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.22" score="1" C-ORDER="193">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Joint meetings Political action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.23" score="1" C-ORDER="194">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Campaigns. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.24" score="1" C-ORDER="195">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Campaign literature - <unitdate calendar="gregorian" era="ce">1978.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.8" score="1" C-ORDER="196">
+ <did>
+ <unittitle>Political Action</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.8.2" score="1" C-ORDER="197">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Political Action Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.3" score="1" C-ORDER="198">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1978</unitdate> Candidates. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.4" score="1" C-ORDER="199">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>No on 6 campaign literature - <unitdate calendar="gregorian" era="ce">1978.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.5" score="1" C-ORDER="200">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1980</unitdate> campaign literature. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.6" score="1" C-ORDER="201">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1980</unitdate> campaigns. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.7" score="1" C-ORDER="202">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Proposition 9 - <unitdate calendar="gregorian" era="ce">1980</unitdate> and Citizens for California (No on 9). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.8" score="1" C-ORDER="203">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Political action <unitdate calendar="gregorian" era="ce">1968</unitdate> Steve Walker New club memberships. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.9" score="1" C-ORDER="204">
+ <did>
+ <container label="Box" type="Box">18</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Candidates material - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.10" score="1" C-ORDER="205">
+ <did>
+ <container label="Box" type="Box">18</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Brown campaign - <unitdate calendar="gregorian" era="ce">1966.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.11" score="1" C-ORDER="206">
+ <did>
+ <container label="Box" type="Box">18</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Candidates materials samples. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.12" score="1" C-ORDER="207">
+ <did>
+ <container label="Box" type="Box">18</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Grape strike. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.13" score="1" C-ORDER="208">
+ <did>
+ <container label="Box" type="Box">18</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Candidates for June Primary - <unitdate calendar="gregorian" era="ce">1962.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.14" score="1" C-ORDER="209">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>California Democratic Committee campaign - <unitdate calendar="gregorian" era="ce">1968.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.15" score="1" C-ORDER="210">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Club liaison to campaigns. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.16" score="1" C-ORDER="211">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>McCarthy campaign. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.17" score="1" C-ORDER="212">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>No on 14 - 14 Against 14 CAP 14. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.18" score="1" C-ORDER="213">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Ballot propositions - General election <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.19" score="1" C-ORDER="214">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Newly registered voters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.20" score="1" C-ORDER="215">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Candidates material. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.21" score="1" C-ORDER="216">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Meat boycott - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.22" score="1" C-ORDER="217">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Reapportionment/Roster MAPS. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.23" score="1" C-ORDER="218">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1974</unitdate> Convention etc. Political Action Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.24" score="1" C-ORDER="219">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>The political animal. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.25" score="1" C-ORDER="220">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1974</unitdate> Primary election results. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.26" score="1" C-ORDER="221">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Proposition #9 - <unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.27" score="1" C-ORDER="222">
+ <did>
+ <container label="Box" type="Box">19</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Proposition #13 - <unitdate calendar="gregorian" era="ce">1978.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.28" score="1" C-ORDER="223">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Propositions - <unitdate calendar="gregorian" era="ce">1978.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.29" score="1" C-ORDER="224">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Political Action <unitdate calendar="gregorian" era="ce">1977</unitdate> - Tom Hansen. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.30" score="1" C-ORDER="225">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Re: <unitdate calendar="gregorian" era="ce">1974</unitdate> - New laws campaign reporting procedures. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.31" score="1" C-ORDER="226">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folders" type="Folder">4-5</container>
+ <unittitle>Candidates <unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.33" score="1" C-ORDER="227">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1974</unitdate> Local candidates. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.34" score="1" C-ORDER="228">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Political action - Dave Gordon. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.35" score="1" C-ORDER="229">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Political action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.36" score="1" C-ORDER="230">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Primary elections <unitdate calendar="gregorian" era="ce">1968/1972</unitdate> Delegate slates votes cast. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.37" score="1" C-ORDER="231">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Slate mailer. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.38" score="1" C-ORDER="232">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Political Action Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.39" score="1" C-ORDER="233">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1973</unitdate> Candidates material. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.40" score="1" C-ORDER="234">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Mayoral campaign/Primary propositions. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.41" score="1" C-ORDER="235">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1976</unitdate> Political campaigns. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.42" score="1" C-ORDER="236">
+ <did>
+ <container label="Box" type="Box">20</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Political Action Committee - Dave Gordon, chairman. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.43" score="1" C-ORDER="237">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Political Action Committee. </unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.10" score="1" C-ORDER="238">
+ <did>
+ <unittitle>Legislative Action</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.10.2" score="1" C-ORDER="239">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.3" score="1" C-ORDER="240">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Criminal justice. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.4" score="1" C-ORDER="241">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Health/welfare/agriculture. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.5" score="1" C-ORDER="242">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Peripheral canal. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.6" score="1" C-ORDER="243">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Senator Roberti. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.7" score="1" C-ORDER="244">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.8" score="1" C-ORDER="245">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Regulations passed at CDC statewide board meeting - <unitdate calendar="gregorian" era="ce">May 17, 1980.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.9" score="1" C-ORDER="246">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Tax reform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.10" score="1" C-ORDER="247">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Criminal Code reform - Federal. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.11" score="1" C-ORDER="248">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Legislative Action Committee - Ruth Ehrlich. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.12" score="1" C-ORDER="249">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Legislative Action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.13" score="1" C-ORDER="250">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Correspondence with legislators. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.14" score="1" C-ORDER="251">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Legislative Action Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.15" score="1" C-ORDER="252">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folders" type="Folder">9-10</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.16" score="1" C-ORDER="253">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Replies from legislators to CDC communiques. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.17" score="1" C-ORDER="254">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Convention - Legislative action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.18" score="1" C-ORDER="255">
+ <did>
+ <container label="Box" type="Box">24</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Communication from legislators (press releases, et.al.). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.19" score="1" C-ORDER="256">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Communication to legislators. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.20" score="1" C-ORDER="257">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.21" score="1" C-ORDER="258">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Legislative Action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.22" score="1" C-ORDER="259">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <container label="Folders" type="Folder">4-5</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.23" score="1" C-ORDER="260">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Legislative Action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.10.24" score="1" C-ORDER="261">
+ <did>
+ <container label="Box" type="Box">25</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Legislators newsletters - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.12" score="1" C-ORDER="262">
+ <did>
+ <unittitle>Club Newsletters</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.12.2" score="1" C-ORDER="263">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folders" type="Folder">1-2</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.3" score="1" C-ORDER="264">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><title linktype="simple">New Deal</title>. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.4" score="1" C-ORDER="265">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.5" score="1" C-ORDER="266">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Newsletter &amp; correspondence. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.6" score="1" C-ORDER="267">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.7" score="1" C-ORDER="268">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Miscellaneous. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.8" score="1" C-ORDER="269">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>[Bellevue Democratic Club]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.9" score="1" C-ORDER="270">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Barbary Coast Democratic Club San Francisco. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.10" score="1" C-ORDER="271">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Beverly Hills Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.11" score="1" C-ORDER="272">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Bruin Democrats UCLA Democratic memo. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.12" score="1" C-ORDER="273">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Bellevue Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.13" score="1" C-ORDER="274">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle><title linktype="simple">Chatsworth Democratic Club Newsletter</title>. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.14" score="1" C-ORDER="275">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>[Conejo Valley Democratic Club]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.15" score="1" C-ORDER="276">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle><title linktype="simple">Midway Newsletter</title>. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.16" score="1" C-ORDER="277">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Monterey Park Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.17" score="1" C-ORDER="278">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Calendars - <unitdate calendar="gregorian" era="ce">1980.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.18" score="1" C-ORDER="279">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle><title linktype="simple">Alta Loma Democratic Club News Bulletin</title>. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.19" score="1" C-ORDER="280">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.20" score="1" C-ORDER="281">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>[Echo Park Silverlake Democratic Club]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.21" score="1" C-ORDER="282">
+ <did>
+ <container label="Box" type="Box">27</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>[Fox Hills Ladera Democratic Club]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.22" score="1" C-ORDER="283">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><title linktype="simple">GCN Newsletter</title> Global Community Network. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.23" score="1" C-ORDER="284">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>[Gardena Valley Democratic Club]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.24" score="1" C-ORDER="285">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><title linktype="simple">Grass Roots Democrat</title>. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.25" score="1" C-ORDER="286">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Hollywood Democratic Club cue. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.26" score="1" C-ORDER="287">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>[Harry Truman Club]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.27" score="1" C-ORDER="288">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Hubert Humphrey Democratic Club - Cerritos. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.28" score="1" C-ORDER="289">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Los Angeles Jolla Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.29" score="1" C-ORDER="290">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Marina Democrat. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.30" score="1" C-ORDER="291">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Mark Twain Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.31" score="1" C-ORDER="292">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Mar Vista - Venice. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.32" score="1" C-ORDER="293">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Malibu Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.33" score="1" C-ORDER="294">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>[<title linktype="simple">Midway Newsletter</title>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.34" score="1" C-ORDER="295">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>[Monterey Park Democratic Club]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.35" score="1" C-ORDER="296">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Northeast Democratic Forum. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.36" score="1" C-ORDER="297">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Napa Valley Democratic. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.37" score="1" C-ORDER="298">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle><title linktype="simple">NDC Newsletter</title> New Democratic Coalition. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.38" score="1" C-ORDER="299">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.39" score="1" C-ORDER="300">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Palos Verdes Peninsula Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.40" score="1" C-ORDER="301">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Pacific Palisades Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.41" score="1" C-ORDER="302">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>R.F.K. Democratic Club - Torrance. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.42" score="1" C-ORDER="303">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Santa Barbara Democratic Women's League. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.43" score="1" C-ORDER="304">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">22</container>
+ <unittitle>Stonewall Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.44" score="1" C-ORDER="305">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">23</container>
+ <unittitle>Santa Cruz. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.45" score="1" C-ORDER="306">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">24</container>
+ <unittitle>Sherman Oaks Democratic Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.46" score="1" C-ORDER="307">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">25</container>
+ <unittitle><title linktype="simple">Santa Monica Democrat</title> Santa Monica Democrat Club. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.47" score="1" C-ORDER="308">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">26</container>
+ <unittitle>Studio City/North Hollywood - The poop. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.48" score="1" C-ORDER="309">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">27</container>
+ <unittitle>Town &amp; Country Democratic Club - Sacramento. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.49" score="1" C-ORDER="310">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">28</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.50" score="1" C-ORDER="311">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">29</container>
+ <unittitle>United Democrats of South Bay Harbor - Palisades. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.51" score="1" C-ORDER="312">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">30</container>
+ <unittitle>[UCR Democrats for Action]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.52" score="1" C-ORDER="313">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">31</container>
+ <unittitle>West Valley Democratic Coalition Newsletter. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.53" score="1" C-ORDER="314">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">32</container>
+ <unittitle><title linktype="simple">Westchester Democratic Club News</title>. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.54" score="1" C-ORDER="315">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">33</container>
+ <unittitle>[<title linktype="simple">Westchester-Playa Del Rey Democratic Club News</title>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.55" score="1" C-ORDER="316">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">34</container>
+ <unittitle>Club officers <unitdate calendar="gregorian" era="ce">1980</unitdate> [Pacific Palisades Democratic Club]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.56" score="1" C-ORDER="317">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">35</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.57" score="1" C-ORDER="318">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">36</container>
+ <unittitle>California Democratic Committee - North Office correspondence. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.58" score="1" C-ORDER="319">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">37</container>
+ <unittitle>Club requests for charter and affiliation materials. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.59" score="1" C-ORDER="320">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">38</container>
+ <unittitle>Correspondence - General - <unitdate calendar="gregorian" era="ce">November 12, 1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.60" score="1" C-ORDER="321">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">39</container>
+ <unittitle>California Democratic Committee Endorsements national election - <unitdate calendar="gregorian" era="ce">November 1980.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.61" score="1" C-ORDER="322">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">40</container>
+ <unittitle>Ehrlich, Ruth. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.62" score="1" C-ORDER="323">
+ <did>
+ <container label="Box" type="Box">28</container>
+ <container label="Folder" type="Folder">41</container>
+ <unittitle>Energy crisis. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.63" score="1" C-ORDER="324">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Farmworkers. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.64" score="1" C-ORDER="325">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Impeachment. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.65" score="1" C-ORDER="326">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Individual requests for Clubs. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.66" score="1" C-ORDER="327">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Peace March - <unitdate calendar="gregorian" era="ce">April 24, 1971</unitdate> - San Francisco. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.67" score="1" C-ORDER="328">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Telethon - <unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.68" score="1" C-ORDER="329">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Transportation (Proposition A - <unitdate calendar="gregorian" era="ce">November 1974</unitdate>). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.69" score="1" C-ORDER="330">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.70" score="1" C-ORDER="331">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Newsletters - <unitdate calendar="gregorian" era="ce">1979.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.71" score="1" C-ORDER="332">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.72" score="1" C-ORDER="333">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Volunteer Democrat of the Month. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.75" score="1" C-ORDER="334">
+ <did>
+ <container label="Box" type="Box">29</container>
+ <container label="Folders" type="Folder">11-12</container>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.76" score="1" C-ORDER="335">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Notes file. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.77" score="1" C-ORDER="336">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>National Committee Against Repressive Legislation. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.78" score="1" C-ORDER="337">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Newsletter requests. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.79" score="1" C-ORDER="338">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Newsletter Information. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.80" score="1" C-ORDER="339">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Notes / Correspondence - <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.81" score="1" C-ORDER="340">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Office equipment - services. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.82" score="1" C-ORDER="341">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Paper, supplies, printers, etc. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.83" score="1" C-ORDER="342">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Party reform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.12.84" score="1" C-ORDER="343">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Peace. </unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.14" score="1" C-ORDER="344">
+ <did>
+ <unittitle>Press</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.14.2" score="1" C-ORDER="345">
+ <did>
+ <container label="Box" type="Box">34</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Press clippings <unitdate calendar="gregorian" era="ce">1978</unitdate> Convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.3" score="1" C-ORDER="346">
+ <did>
+ <container label="Box" type="Box">34</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>News releases - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.4" score="1" C-ORDER="347">
+ <did>
+ <container label="Box" type="Box">34</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>News releases - <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.5" score="1" C-ORDER="348">
+ <did>
+ <container label="Box" type="Box">34</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Publicity, photographs. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.6" score="1" C-ORDER="349">
+ <did>
+ <container label="Box" type="Box">34</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Senatorial press releases. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.7" score="1" C-ORDER="350">
+ <did>
+ <container label="Box" type="Box">35</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Press releases. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.8" score="1" C-ORDER="351">
+ <did>
+ <container label="Box" type="Box">35</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.9" score="1" C-ORDER="352">
+ <did>
+ <container label="Box" type="Box">35</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><title linktype="simple">Grass Roots Democrat</title> - Danna Cope, editor. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.10" score="1" C-ORDER="353">
+ <did>
+ <container label="Box" type="Box">35</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>[CDC - <unitdate calendar="gregorian" era="ce">1969</unitdate>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.11" score="1" C-ORDER="354">
+ <did>
+ <container label="Box" type="Box">35</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><title linktype="simple">California Democratic Committee Newsletter</title> - <unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.12" score="1" C-ORDER="355">
+ <did>
+ <container label="Box" type="Box">35</container>
+ <container label="Folders" type="Folder">6-7</container>
+ <unittitle>[Tapes]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.13" score="1" C-ORDER="356">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Photographs &amp; resumes. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.14" score="1" C-ORDER="357">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Press credentials. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.15" score="1" C-ORDER="358">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Cartoons - clippings. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.16" score="1" C-ORDER="359">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1973</unitdate> press clippings. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.17" score="1" C-ORDER="360">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Press correspondence. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.18" score="1" C-ORDER="361">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>News releases - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.19" score="1" C-ORDER="362">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.20" score="1" C-ORDER="363">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1975</unitdate> press releases. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.21" score="1" C-ORDER="364">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1974</unitdate> news releases. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.22" score="1" C-ORDER="365">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Press - <unitdate calendar="gregorian" era="ce">1977.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.23" score="1" C-ORDER="366">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Press releases, etc. (<unitdate calendar="gregorian" era="ce">1977-78</unitdate>). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.24" score="1" C-ORDER="367">
+ <did>
+ <container label="Box" type="Box">36</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Press releases. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.25" score="1" C-ORDER="368">
+ <did>
+ <container label="Box" type="Box">37</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><title linktype="simple">California Democratic Committee Newsletter</title>. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.26" score="1" C-ORDER="369">
+ <did>
+ <container label="Box" type="Box">37</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Club President's manual. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.27" score="1" C-ORDER="370">
+ <did>
+ <container label="Box" type="Box">37</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">Grassroots Democrat</unitdate> vol.1 - Series 3 - <unitdate calendar="gregorian" era="ce">May 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.28" score="1" C-ORDER="371">
+ <did>
+ <container label="Box" type="Box">37</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">Grassroots Democrat</unitdate> vol. 1 no.4 - <unitdate calendar="gregorian" era="ce">September 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.29" score="1" C-ORDER="372">
+ <did>
+ <container label="Box" type="Box">37</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><title linktype="simple">California Democrat</title> - <unitdate calendar="gregorian" era="ce">August 1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.14.30" score="1" C-ORDER="373">
+ <did>
+ <container label="Box" type="Box">37</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ </c01>
+<c01 level="series" id="c01-1.8.7.5" score="1" C-ORDER="374">
+ <did>
+ <unittitle>[Unlabeled]</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.5.2" score="1" C-ORDER="375">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>AB 2922. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.3" score="1" C-ORDER="376">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>A.D. Representatives. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.4" score="1" C-ORDER="377">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Auditorium Facilities. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.5" score="1" C-ORDER="378">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Black Political Liberation Organization. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.6" score="1" C-ORDER="379">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>California Democratic Committee Chronological File - <unitdate calendar="gregorian" era="ce">1969-1970.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.7" score="1" C-ORDER="380">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Candidates for CDC offices. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.8" score="1" C-ORDER="381">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Correspondence. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.9" score="1" C-ORDER="382">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Correspondence - in. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.10" score="1" C-ORDER="383">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Simon Casady. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.11" score="1" C-ORDER="384">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Committees. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.12" score="1" C-ORDER="385">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Committee appointees - <unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.13" score="1" C-ORDER="386">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Old committee lists. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.14" score="1" C-ORDER="387">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Convention Press Credentials. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.15" score="1" C-ORDER="388">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Democratic National Convention - <unitdate calendar="gregorian" era="ce">August, 1968.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.16" score="1" C-ORDER="389">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Election reform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.17" score="1" C-ORDER="390">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Form letters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.18" score="1" C-ORDER="391">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Dr. King Record. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.19" score="1" C-ORDER="392">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1963</unitdate> mailings. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.20" score="1" C-ORDER="393">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Miscellaneous newsletters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.21" score="1" C-ORDER="394">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Telephone numbers for Democratic candidates. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.22" score="1" C-ORDER="395">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>39 Democratic households. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.23" score="1" C-ORDER="396">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Club newsletters - 17th CD. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.24" score="1" C-ORDER="397">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>22nd CD. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.25" score="1" C-ORDER="398">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Club newsletters - 30th CD. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.26" score="1" C-ORDER="399">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Club meeting notices. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.27" score="1" C-ORDER="400">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Referral file. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.28" score="1" C-ORDER="401">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Other business. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.29" score="1" C-ORDER="402">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Bills to be paid. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.30" score="1" C-ORDER="403">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Club newsletters - 20th CD. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.31" score="1" C-ORDER="404">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>County Central Committee form (affiliation). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.32" score="1" C-ORDER="405">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Good rosters out to be typed. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.33" score="1" C-ORDER="406">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Open endorsing convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.34" score="1" C-ORDER="407">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Los Angeles - CDC - minutes - by-laws <unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.35" score="1" C-ORDER="408">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>(CDC clubs - <unitdate calendar="gregorian" era="ce">1969</unitdate>). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.36" score="1" C-ORDER="409">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Peace. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.37" score="1" C-ORDER="410">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Office equipment. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.38" score="1" C-ORDER="411">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Angela Davis: Defense fund watchdog committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.39" score="1" C-ORDER="412">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Address changes, etc. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.40" score="1" C-ORDER="413">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">22</container>
+ <unittitle>Business cards. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.41" score="1" C-ORDER="414">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">23</container>
+ <unittitle>(Memos and minutes, <unitdate calendar="gregorian" era="ce">1975</unitdate>). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.42" score="1" C-ORDER="415">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Outgoing mail - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.43" score="1" C-ORDER="416">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Photos - press information. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.44" score="1" C-ORDER="417">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Presidential caucus locations. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.45" score="1" C-ORDER="418">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Reagan recall. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.46" score="1" C-ORDER="419">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Unified campaign. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.47" score="1" C-ORDER="420">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Francis Willmarth. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.48" score="1" C-ORDER="421">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Women. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.49" score="1" C-ORDER="422">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Incomplete rosters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.50" score="1" C-ORDER="423">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Individual delegates - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.51" score="1" C-ORDER="424">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Affiliation papers - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.52" score="1" C-ORDER="425">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Affiliation &amp; delegate forms - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.53" score="1" C-ORDER="426">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Tally sheets - <unitdate calendar="gregorian" era="ce">1972</unitdate> CDC convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.54" score="1" C-ORDER="427">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1972</unitdate> affiliation. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.55" score="1" C-ORDER="428">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Club information. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.2" score="1" C-ORDER="429">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Voter registration. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.3" score="1" C-ORDER="430">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>(Minutes). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.4" score="1" C-ORDER="431">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Correspondence Board Meeting of <unitdate calendar="gregorian" era="ce">September 10, 1977.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.5" score="1" C-ORDER="432">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Minutes of meeting <unitdate calendar="gregorian" era="ce">1976.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.6" score="1" C-ORDER="433">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Minutes of meeting - <unitdate calendar="gregorian" era="ce">November 6, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.7" score="1" C-ORDER="434">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Minutes Statewide executive &amp; board - Los Angeles <unitdate calendar="gregorian" era="ce">October 3-4, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.8" score="1" C-ORDER="435">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>North - <unitdate calendar="gregorian" era="ce">September 27, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.9" score="1" C-ORDER="436">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">September 16, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.10" score="1" C-ORDER="437">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Minutes Statewide Executive/Board <unitdate calendar="gregorian" era="ce">July 11-12, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.11" score="1" C-ORDER="438">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Minutes of meeting - <unitdate calendar="gregorian" era="ce">December 8, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.12" score="1" C-ORDER="439">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Minutes Southern Board - <unitdate calendar="gregorian" era="ce">June 27, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.13" score="1" C-ORDER="440">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Minutes Northern expanded executive - <unitdate calendar="gregorian" era="ce">August 2, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.14" score="1" C-ORDER="441">
+ <did>
+ <container label="Box" type="Box">21</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Minutes Southern expanded executive - <unitdate calendar="gregorian" era="ce">July 24, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.15" score="1" C-ORDER="442">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Minutes Northern board - <unitdate calendar="gregorian" era="ce">May 18, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.16" score="1" C-ORDER="443">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Minutes State executive/board - <unitdate calendar="gregorian" era="ce">April 25-26, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.17" score="1" C-ORDER="444">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Minutes Northern board - <unitdate calendar="gregorian" era="ce">April 20, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.18" score="1" C-ORDER="445">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Minutes Southern board - <unitdate calendar="gregorian" era="ce">April 16, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.19" score="1" C-ORDER="446">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Minutes Statewide board - <unitdate calendar="gregorian" era="ce">March 16, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.20" score="1" C-ORDER="447">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Minutes State executive/board - <unitdate calendar="gregorian" era="ce">January 31-February 1, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.21" score="1" C-ORDER="448">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Minutes Northern board - <unitdate calendar="gregorian" era="ce">January 18, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.22" score="1" C-ORDER="449">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>By-laws Committee - <unitdate calendar="gregorian" era="ce">1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.23" score="1" C-ORDER="450">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Executive Committee - <unitdate calendar="gregorian" era="ce">November 22, 1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.24" score="1" C-ORDER="451">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Executive Committee North - <unitdate calendar="gregorian" era="ce">November 16, 1974</unitdate> - Fresno. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.25" score="1" C-ORDER="452">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Executive Committee South - <unitdate calendar="gregorian" era="ce">October 28, 1974</unitdate> - Los Angeles. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.26" score="1" C-ORDER="453">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>South: Executive board meetings - <unitdate calendar="gregorian" era="ce">July 31 &amp; August 21, 1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.27" score="1" C-ORDER="454">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>San Jose Board - <unitdate calendar="gregorian" era="ce">September 7, 1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.28" score="1" C-ORDER="455">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Northern Executive Committee - <unitdate calendar="gregorian" era="ce">August 4, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.29" score="1" C-ORDER="456">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Wallace Albertson. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.30" score="1" C-ORDER="457">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Minutes - Northern Board <unitdate calendar="gregorian" era="ce">December 15, 1972</unitdate>, Southern Board Convention Committee, <unitdate calendar="gregorian" era="ce">November 18, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.31" score="1" C-ORDER="458">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Board meeting - <unitdate calendar="gregorian" era="ce">January 13, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.32" score="1" C-ORDER="459">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Board meeting - <unitdate calendar="gregorian" era="ce">March 11, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.33" score="1" C-ORDER="460">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Southern Executive Committee - <unitdate calendar="gregorian" era="ce">March 19, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.34" score="1" C-ORDER="461">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Board meeting - <unitdate calendar="gregorian" era="ce">April 27-28, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.35" score="1" C-ORDER="462">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Southern Executive Committee - <unitdate calendar="gregorian" era="ce">June 7, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.36" score="1" C-ORDER="463">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">22</container>
+ <unittitle>Southern Executive Committee - <unitdate calendar="gregorian" era="ce">July 16, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.37" score="1" C-ORDER="464">
+ <did>
+ <container label="Box" type="Box">22</container>
+ <container label="Folder" type="Folder">23</container>
+ <unittitle>Executive Committee meeting - <unitdate calendar="gregorian" era="ce">January 22, 1972</unitdate> - Minutes. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.38" score="1" C-ORDER="465">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Board meeting - <unitdate calendar="gregorian" era="ce">April 15, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.39" score="1" C-ORDER="466">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">May 12, 1972</unitdate> (Emergency board meeting). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.40" score="1" C-ORDER="467">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Board meeting - <unitdate calendar="gregorian" era="ce">June 23-24, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.41" score="1" C-ORDER="468">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Executive board - <unitdate calendar="gregorian" era="ce">July 27, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.42" score="1" C-ORDER="469">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Region 2, 3, 4 meeting - <unitdate calendar="gregorian" era="ce">Sunday, September 10, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.43" score="1" C-ORDER="470">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Northern board meeting - <unitdate calendar="gregorian" era="ce">December 15, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.44" score="1" C-ORDER="471">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Convention Committee minutes - <unitdate calendar="gregorian" era="ce">November 18, 1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.45" score="1" C-ORDER="472">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Board meetings - <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.46" score="1" C-ORDER="473">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Board meeting - <unitdate calendar="gregorian" era="ce">October 8-10, 1971</unitdate> - Fresno. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.47" score="1" C-ORDER="474">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Board meetings - minutes (<unitdate calendar="gregorian" era="ce">1971</unitdate>). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.48" score="1" C-ORDER="475">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Board meeting - <unitdate calendar="gregorian" era="ce">1970.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.49" score="1" C-ORDER="476">
+ <did>
+ <container label="Box" type="Box">23</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>California Democratic Committee September board meeting in Fresno, <unitdate calendar="gregorian" era="ce">September 6 &amp; 7.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.11.2" score="1" C-ORDER="477">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Legislative Action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.11.3" score="1" C-ORDER="478">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Reapportionment. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.11.4" score="1" C-ORDER="479">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <container label="Folders" type="Folder">3-4</container>
+ <unittitle>Letters from legislators - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.11.5" score="1" C-ORDER="480">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Legislative Action - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.11.6" score="1" C-ORDER="481">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Legislators Newsletters - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.11.7" score="1" C-ORDER="482">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Letters from legislators - <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.11.8" score="1" C-ORDER="483">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Letters to legislators. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.11.9" score="1" C-ORDER="484">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Legislative Action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.11.10" score="1" C-ORDER="485">
+ <did>
+ <container label="Box" type="Box">26</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Legislators Newsletters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.2" score="1" C-ORDER="486">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Proposition 1 Reagan Tax. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.3" score="1" C-ORDER="487">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>John Graef - Region 1. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.4" score="1" C-ORDER="488">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Region 2 - Ed Munak. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.5" score="1" C-ORDER="489">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Pat Nelson - Region 3. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.6" score="1" C-ORDER="490">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Ray Strait - Region 4. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.7" score="1" C-ORDER="491">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Bill Kennedy - Region 4. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.8" score="1" C-ORDER="492">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Andy Anderson - Region 6. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.9" score="1" C-ORDER="493">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Zeke Griffin - Region 7. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.10" score="1" C-ORDER="494">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Adria Garabedian - Region 8. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.11" score="1" C-ORDER="495">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Penny Bridges - Region 9. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.12" score="1" C-ORDER="496">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Reapportionment. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.13" score="1" C-ORDER="497">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">22</container>
+ <unittitle>Rosters: Club Presidents, Board of Directors, etc. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.14" score="1" C-ORDER="498">
+ <did>
+ <container label="Box" type="Box">30</container>
+ <container label="Folder" type="Folder">23</container>
+ <unittitle>Rosters: State Committee, County Committee, Legislators, City Council. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.15" score="1" C-ORDER="499">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Senior. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.16" score="1" C-ORDER="500">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Tax Reform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.17" score="1" C-ORDER="501">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Democratic National Telethon. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.18" score="1" C-ORDER="502">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Registration (voter). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.19" score="1" C-ORDER="503">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Women - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.20" score="1" C-ORDER="504">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Watergate - <unitdate calendar="gregorian" era="ce">1962</unitdate> Fraud. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.21" score="1" C-ORDER="505">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Secretariat. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.22" score="1" C-ORDER="506">
+ <did>
+ <container label="Box" type="Box">31</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Democratic Party Reform Workshop - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.23" score="1" C-ORDER="507">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Future Directions of CDC Political Action Workshop. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.24" score="1" C-ORDER="508">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Equal Rights Workshop <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.25" score="1" C-ORDER="509">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Education &amp; Academic Freedom Workshop - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.26" score="1" C-ORDER="510">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>The Media &amp; Freedom of the Press Workshop - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.27" score="1" C-ORDER="511">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Judicial &amp; Penal Reform Workshop - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.28" score="1" C-ORDER="512">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Economic Rights Workshop - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.29" score="1" C-ORDER="513">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Environmental Regulations Workshop - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.30" score="1" C-ORDER="514">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>West Compton Demo 21 CD. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.31" score="1" C-ORDER="515">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Reapportionment &amp; Election Reform T. Devine. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.32" score="1" C-ORDER="516">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.33" score="1" C-ORDER="517">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Secretariat. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.34" score="1" C-ORDER="518">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Credentials 21st Convention - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.35" score="1" C-ORDER="519">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Rules - 21st Convention - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.36" score="1" C-ORDER="520">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>By-laws - 21st Convention - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.37" score="1" C-ORDER="521">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Resolutions - 21st Convention - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.38" score="1" C-ORDER="522">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Restoring Congressional Power Workshop - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.39" score="1" C-ORDER="523">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Returning Basic Rights to the People Workshop - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.40" score="1" C-ORDER="524">
+ <did>
+ <container label="Box" type="Box">32</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.41" score="1" C-ORDER="525">
+ <did>
+ <container label="Box" type="Box">33</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Criminal Justice Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.13.42" score="1" C-ORDER="526">
+ <did>
+ <container label="Box" type="Box">34</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.2" score="1" C-ORDER="527">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Convention Literature Tables. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.3" score="1" C-ORDER="528">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1977</unitdate> Convention notes - charter bus. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.4" score="1" C-ORDER="529">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1977</unitdate> Convention notes - affiliation &amp; credentials. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.5" score="1" C-ORDER="530">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1977</unitdate> Convention notes - correspondence. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.6" score="1" C-ORDER="531">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1977</unitdate> Convention notes - miscellaneous. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.7" score="1" C-ORDER="532">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1980</unitdate> Convention drawing. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.8" score="1" C-ORDER="533">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Club constitution - sample. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.9" score="1" C-ORDER="534">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Attention: Toni Kimmel - program chair (folder 1 of 2). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.10" score="1" C-ORDER="535">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Attention: Toni Kimmel - program chair (folder 2 of 2). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.11" score="1" C-ORDER="536">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Attention: Toni Kimmel - <unitdate calendar="gregorian" era="ce">1978</unitdate> CDC Convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.12" score="1" C-ORDER="537">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Attention: Toni Kimmel - miscellaneous. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.13" score="1" C-ORDER="538">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>[White papers - CDC Zones Conference -<unitdate calendar="gregorian" era="ce">1971</unitdate>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.14" score="1" C-ORDER="539">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>[CDC <unitdate calendar="gregorian" era="ce">1972</unitdate> - Oakland]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.15" score="1" C-ORDER="540">
+ <did>
+ <container label="Box" type="Box">38</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>[CDC Convention kit]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.16" score="1" C-ORDER="541">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>[Invoice for printing mailers - <unitdate calendar="gregorian" era="ce">1970</unitdate>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.17" score="1" C-ORDER="542">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Board meeting at Airport-Marina - <unitdate calendar="gregorian" era="ce">June 8, 1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.18" score="1" C-ORDER="543">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.19" score="1" C-ORDER="544">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Bills - unpaid and pending. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.20" score="1" C-ORDER="545">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>[<unitdate calendar="gregorian" era="ce">1974</unitdate> Affiliations]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.21" score="1" C-ORDER="546">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>WTA. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.22" score="1" C-ORDER="547">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Treasurer's reports. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.23" score="1" C-ORDER="548">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Assistant treasurer. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.24" score="1" C-ORDER="549">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><title linktype="simple">Grass Roots Democrat</title> - Danna Cope, editor. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.25" score="1" C-ORDER="550">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Newsletter. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.26" score="1" C-ORDER="551">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Party reform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.27" score="1" C-ORDER="552">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Political action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.28" score="1" C-ORDER="553">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Regional vice-president's reports. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.29" score="1" C-ORDER="554">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Southern vice-president - Tom Siegel. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.30" score="1" C-ORDER="555">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Burt Wilson, vice-president - South. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.31" score="1" C-ORDER="556">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>For <unitdate calendar="gregorian" era="ce">May 18th</unitdate> - Southern exec. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.32" score="1" C-ORDER="557">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Urban planning committee - David Tonkin, chairman. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.33" score="1" C-ORDER="558">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Health Care Task Force. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.34" score="1" C-ORDER="559">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.35" score="1" C-ORDER="560">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Consumer Affairs - Glen Buchanan and Mary Christiansen. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.36" score="1" C-ORDER="561">
+ <did>
+ <container label="Box" type="Box">39</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Legislative Action. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.37" score="1" C-ORDER="562">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.38" score="1" C-ORDER="563">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>To CDC office - CDC Board, San Mateo - <unitdate calendar="gregorian" era="ce">September 10, 1977.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.39" score="1" C-ORDER="564">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>To CDC office - miscellaneous. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.40" score="1" C-ORDER="565">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.41" score="1" C-ORDER="566">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Equal Rights Amendment (ERA). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.42" score="1" C-ORDER="567">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>What is CDC? flyer. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.43" score="1" C-ORDER="568">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.44" score="1" C-ORDER="569">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Treasurer bills and correspondence - <unitdate calendar="gregorian" era="ce">1974-1975 (October 4).</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.45" score="1" C-ORDER="570">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Energy Task Force. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.46" score="1" C-ORDER="571">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Legislature functions &amp; procedures. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.47" score="1" C-ORDER="572">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Membership &amp; organization - M. Landau. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.48" score="1" C-ORDER="573">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Membership - Sylvester Harvin <unitdate calendar="gregorian" era="ce">1977.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.49" score="1" C-ORDER="574">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Finance committee - Dave Gould, chairman. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.50" score="1" C-ORDER="575">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Dinner reservation. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.51" score="1" C-ORDER="576">
+ <did>
+ <container label="Box" type="Box">40</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Finance committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.52" score="1" C-ORDER="577">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1974</unitdate> Convention report - miscellaneous. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.53" score="1" C-ORDER="578">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1974</unitdate> Convention report - Dollars for Democrats $$$$. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.54" score="1" C-ORDER="579">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1974</unitdate> Convention report - CDC 17th anniversary dinner. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.55" score="1" C-ORDER="580">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1974</unitdate> Convention report - Contribution - 1970. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.56" score="1" C-ORDER="581">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1974</unitdate> Convention report - Correspondence re: program. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.57" score="1" C-ORDER="582">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Convention call requests. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.58" score="1" C-ORDER="583">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Comedy Store fundraiser - <unitdate calendar="gregorian" era="ce">1979.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.59" score="1" C-ORDER="584">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1976</unitdate> National Convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.60" score="1" C-ORDER="585">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Convention secretary forms. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.61" score="1" C-ORDER="586">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Convention calls. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.62" score="1" C-ORDER="587">
+ <did>
+ <container label="Box" type="Box">41</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Champions. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.63" score="1" C-ORDER="588">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Check copies recorded to <unitdate calendar="gregorian" era="ce">July 1980.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.64" score="1" C-ORDER="589">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1976</unitdate> Convention data. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.65" score="1" C-ORDER="590">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Convention report - Political Action Workshop. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.66" score="1" C-ORDER="591">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Convention report - Legislative Workshop. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.67" score="1" C-ORDER="592">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Convention report - By-laws. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.68" score="1" C-ORDER="593">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Convention report - Resolutions. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.69" score="1" C-ORDER="594">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Convention report - Issues. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.70" score="1" C-ORDER="595">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Convention report - Convention forms. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.71" score="1" C-ORDER="596">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.72" score="1" C-ORDER="597">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Convention - Resolutions. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.73" score="1" C-ORDER="598">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.74" score="1" C-ORDER="599">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Convention reports - samples. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.75" score="1" C-ORDER="600">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Convention committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.76" score="1" C-ORDER="601">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1977</unitdate> affiliation forms, summary &amp; others. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.77" score="1" C-ORDER="602">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Ad journal - <unitdate calendar="gregorian" era="ce">1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.78" score="1" C-ORDER="603">
+ <did>
+ <container label="Box" type="Box">42</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1975</unitdate> Convention - keynote &amp; guest invitational letters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.79" score="1" C-ORDER="604">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1975</unitdate> Convention - sites &amp; plans. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.80" score="1" C-ORDER="605">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>By-laws committee report - given to Sumner. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.81" score="1" C-ORDER="606">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Minutes - <unitdate calendar="gregorian" era="ce">November 1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.82" score="1" C-ORDER="607">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Minutes of meeting - <unitdate calendar="gregorian" era="ce">January 18-19, 1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.83" score="1" C-ORDER="608">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Board meeting minutes - <unitdate calendar="gregorian" era="ce">April 1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.84" score="1" C-ORDER="609">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Minutes - <unitdate calendar="gregorian" era="ce">June 20 &amp; 21, 1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.85" score="1" C-ORDER="610">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Minutes - <unitdate calendar="gregorian" era="ce">September 26 &amp; 27, 1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.86" score="1" C-ORDER="611">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Minutes - <unitdate calendar="gregorian" era="ce">November 15 &amp; 16, 1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.87" score="1" C-ORDER="612">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Invoices &amp; correspondence from Treasurer. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.88" score="1" C-ORDER="613">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Treasurer (John Harden) - bills &amp; correspondence from <unitdate calendar="gregorian" era="ce">October 6, 1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.89" score="1" C-ORDER="614">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Ben Leeds, treasurer. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.90" score="1" C-ORDER="615">
+ <did>
+ <container label="Box" type="Box">43</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Bills/receipts, letters to John Harden. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.91" score="1" C-ORDER="616">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>[Letter from Jerry Jackson to Sandy Lamont]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.92" score="1" C-ORDER="617">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>[Invoices from Zip Printing]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.93" score="1" C-ORDER="618">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>[Invoices from companies beginning with T]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.94" score="1" C-ORDER="619">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Taxes. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.95" score="1" C-ORDER="620">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>[Invoices from U through W]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.96" score="1" C-ORDER="621">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Utilities - rent, light, etc. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.97" score="1" C-ORDER="622">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>United California Bank. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.98" score="1" C-ORDER="623">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Union Offset - printers. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.99" score="1" C-ORDER="624">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>California Democratic Committee - unpaid bills. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.100" score="1" C-ORDER="625">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Toni Kimmel for Selunigelow - bills/receipts. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.101" score="1" C-ORDER="626">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Invoices, bank statements. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.102" score="1" C-ORDER="627">
+ <did>
+ <container label="Box" type="Box">44</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Accounts, payable. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.103" score="1" C-ORDER="628">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Treasurer's report - <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.104" score="1" C-ORDER="629">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>John Harden, treasurer - <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.105" score="1" C-ORDER="630">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Minutes - September <unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.106" score="1" C-ORDER="631">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.107" score="1" C-ORDER="632">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>[United California Bank]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.108" score="1" C-ORDER="633">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Telephone. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.109" score="1" C-ORDER="634">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>[Issues committee]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.110" score="1" C-ORDER="635">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Treasurer's report. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.111" score="1" C-ORDER="636">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Correspondence with treasurer. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.112" score="1" C-ORDER="637">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Northern Board - <unitdate calendar="gregorian" era="ce">October 27, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.113" score="1" C-ORDER="638">
+ <did>
+ <container label="Box" type="Box">45</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Southern Board - <unitdate calendar="gregorian" era="ce">October 16, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.114" score="1" C-ORDER="639">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>[Letter from J.A. Krieger, attorney, to J. Hardin - <unitdate calendar="gregorian" era="ce">October 51978</unitdate>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.115" score="1" C-ORDER="640">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Board meeting, San Francisco Hilton - <unitdate calendar="gregorian" era="ce">September 15, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.116" score="1" C-ORDER="641">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Northern Executive Board - <unitdate calendar="gregorian" era="ce">September 8, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.117" score="1" C-ORDER="642">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Southern Executive Committee - <unitdate calendar="gregorian" era="ce">August 16, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.118" score="1" C-ORDER="643">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Full board, Los Angeles Hilton - <unitdate calendar="gregorian" era="ce">November 9 &amp; 10, 1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.119" score="1" C-ORDER="644">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Fresno board meeting - <unitdate calendar="gregorian" era="ce">March 8-9, 1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.120" score="1" C-ORDER="645">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Southern Board - <unitdate calendar="gregorian" era="ce">November 29, 1973 &amp; January 2, 1974</unitdate>, Full board - <unitdate calendar="gregorian" era="ce">January 4, 1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.121" score="1" C-ORDER="646">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.122" score="1" C-ORDER="647">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Issues <unitdate calendar="gregorian" era="ce">1977</unitdate> - John Denoon. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.123" score="1" C-ORDER="648">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Issues conference - <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.124" score="1" C-ORDER="649">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>California Democratic Committee Platform - <unitdate calendar="gregorian" era="ce">1980.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.125" score="1" C-ORDER="650">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folders" type="Folder">12-13</container>
+ <unittitle>Issues Committee - John Denoon, chairman. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.126" score="1" C-ORDER="651">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>[Democratic community issues conference - <unitdate calendar="gregorian" era="ce">February 6, 1965</unitdate>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.127" score="1" C-ORDER="652">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>[Letters - <unitdate calendar="gregorian" era="ce">1972</unitdate>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.128" score="1" C-ORDER="653">
+ <did>
+ <container label="Box" type="Box">46</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.129" score="1" C-ORDER="654">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Issues Conference: Completed report white papers. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.130" score="1" C-ORDER="655">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Issues Conference reports - rough drafts. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.131" score="1" C-ORDER="656">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Issues Conference - staff, resource. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.132" score="1" C-ORDER="657">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Economic policy. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.133" score="1" C-ORDER="658">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Education. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.134" score="1" C-ORDER="659">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Draft policy statements. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.135" score="1" C-ORDER="660">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Issues Conference - participants. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.136" score="1" C-ORDER="661">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Issues Committee. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.137" score="1" C-ORDER="662">
+ <did>
+ <container label="Box" type="Box">47</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>[County of Los Angeles Data Guide - <unitdate calendar="gregorian" era="ce">1979/1980</unitdate>]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.138" score="1" C-ORDER="663">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Issues Books - <unitdate calendar="gregorian" era="ce">1963.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.139" score="1" C-ORDER="664">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Joint Issues Conference - <unitdate calendar="gregorian" era="ce">November 1974.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.140" score="1" C-ORDER="665">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Issues - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.141" score="1" C-ORDER="666">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Life After 13 - <unitdate calendar="gregorian" era="ce">July 29, 1978</unitdate> Conference. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.142" score="1" C-ORDER="667">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Proposed Issues Policy Statements - <unitdate calendar="gregorian" era="ce">1969</unitdate> CDC Convention. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.143" score="1" C-ORDER="668">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Platform - <unitdate calendar="gregorian" era="ce">1972.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.144" score="1" C-ORDER="669">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Convention - <unitdate calendar="gregorian" era="ce">1971</unitdate> Issues. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.145" score="1" C-ORDER="670">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>[<unitdate calendar="gregorian" era="ce">1980</unitdate> Platform Convention &amp; Presidential Preference Poll]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.146" score="1" C-ORDER="671">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>[Issues Conference - participating organizations]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.147" score="1" C-ORDER="672">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Civil &amp; Human Rights. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.148" score="1" C-ORDER="673">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.149" score="1" C-ORDER="674">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Consumer. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.150" score="1" C-ORDER="675">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Economy. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.151" score="1" C-ORDER="676">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Education. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.152" score="1" C-ORDER="677">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Proposed Amendments to the SDCC's Proposed Platform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.153" score="1" C-ORDER="678">
+ <did>
+ <container label="Box" type="Box">48</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Foreign Policy. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.154" score="1" C-ORDER="679">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Government Relations and Reform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.155" score="1" C-ORDER="680">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Public Safety and Law Enforcement. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.156" score="1" C-ORDER="681">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Taxation. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.157" score="1" C-ORDER="682">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.158" score="1" C-ORDER="683">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1979</unitdate> Platform Conference. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.159" score="1" C-ORDER="684">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Agriculture. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.160" score="1" C-ORDER="685">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Arts and Culture. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.161" score="1" C-ORDER="686">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.162" score="1" C-ORDER="687">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><unitdate calendar="gregorian" era="ce">1980</unitdate> Platform. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.163" score="1" C-ORDER="688">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.164" score="1" C-ORDER="689">
+ <did>
+ <container label="Box" type="Box">49</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Club newsletters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.165" score="1" C-ORDER="690">
+ <did>
+ <container label="Box" type="Box">50</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Club newsletters - <unitdate calendar="gregorian" era="ce">1975.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.166" score="1" C-ORDER="691">
+ <did>
+ <container label="Box" type="Box">50</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Club newsletters - <unitdate calendar="gregorian" era="ce">1976/1977.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.167" score="1" C-ORDER="692">
+ <did>
+ <container label="Box" type="Box">50</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Club/council newsletters - <unitdate calendar="gregorian" era="ce">1973.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.168" score="1" C-ORDER="693">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Club newsletters - <unitdate calendar="gregorian" era="ce">1976.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.169" score="1" C-ORDER="694">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Old newsletters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.170" score="1" C-ORDER="695">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Non-CDC newsletters. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.171" score="1" C-ORDER="696">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Newsletters - <unitdate calendar="gregorian" era="ce">1971.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.172" score="1" C-ORDER="697">
+ <did>
+ <container label="Box" type="Box">51</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>[Unlabeled]. </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.15.173" score="1" C-ORDER="698">
+ <did>
+ <container label="Box" type="Box">52</container>
+ <unittitle>Scrapbook. </unittitle>
+ </did>
+ </c02>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
