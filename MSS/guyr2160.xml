@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" identifier="ark:/13030/c81z46gr" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">guyr2160.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Roma Guy papers, circa 1960s-1980
+                    <num>LSC.2160</num>
+                </titleproper>
+                <titleproper type="filing">Guy (Roma) Papers</titleproper>
+                <author>Finding aid prepared by Kimberlee Granholm, 2012 and Jessica Tai, 2017; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 8 August 2017</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-08-08T09:53-0700</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" id="archdesc-1.2">
+        <did id="did-1.2.1">
+            <unittitle>Roma Guy papers</unittitle>
+            <unitid repositorycode="US-CLU-SC" countrycode="US">LSC.2160</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.8 linear feet</extent>
+                <extent>(2 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1960/1980" type="inclusive">circa 1960s-1980</unitdate>
+            <abstract id="ref2" label="Abstract">Roma Guy (1942-) is a social justice advocate and founding member of the San Francisco Women's Building. Jean Crosby was a founding member of the San Francisco Women's Centers. This collection contains writings and materials collected by Roma Guy during her work and activist activities in San Francisco from the 1960s-1970s. Also included is correspondence and material from San Francisco Women's Center co-founder Jean Crosby. Materials include clippings, publications, essays, play scripts, meeting notes, audio tapes, ephemera and bibliographies collected by both Guy and Crosby.</abstract>
+            <langmaterial id="ref81" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref83" label="Physical Location">Stored off-site at SRLF. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+            <origination label="Creator">
+                <persname rules="aacr" source="local">Guy, Roma</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref84">
+            <head>Conditions Governing Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </accessrestrict>
+        <userestrict id="ref85">
+            <head>Conditions Governing Reproduction and Use</head>
+            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Roma Guy papers (Collection 2160). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Acquisition Information</head>
+            <p>Collection originally donated to the Mazer Archive circa 1984. Gift documentation is dated from 2013. This collection is part of an outreach and collection-building partnership between the June L. Mazer Lesbian Archives, the UCLA Center for the Study of Women (CSW) and the UCLA Library.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing History</head>
+            <p>Processed by Kimberlee Granholm, 2012.</p>
+            <p>Description enhanced and further physical processing completed by Jessica Tai in 2017.</p>
+            <p>The 
+                <extref actuate="onrequest" show="new" href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref actuate="onrequest" show="new" href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref actuate="onrequest" show="new" href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+                <extref actuate="onrequest" show="new" href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+        </processinfo>
+        <odd id="ref82">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=7347898">7347898</extref></p>
+        </odd>
+        <bioghist id="ref9">
+            <head>Biography</head>
+            <p>Roma Guy was born in Maine in 1942 and received her undergraduate degree in sociology and history from the University of Maine. She received her Master's in Social Work from Wayne State University. Guy was a co-founder of the San Francisco Women's Building, a women-owned community center established in 1979 that aims to facilitate and participate in the collective strength of women working towards a non-oppressive society.</p>
+            <p>Roma Guy previously served on the San Francisco Health Commission, and taught in the Department of Health Education at the San Francisco State University College of Health and Human Services. In 2005, Guy was nominated for the Nobel Peace Prize as part of the 1000 Women for the Nobel Peace Prize project.</p>
+            <p>In the 2017 ABC miniseries, 
+                <title render="italic">When We Rise</title>, Guy is portrayed by actress Mary-Louise Parker. 
+                <title render="italic">When We Rise</title> chronicles the personal and political struggles of key figures in the LGBT movement. As of 2017, Guy continues to live in San Francisco with her long-term partner, Diane Jones.</p>
+            <p>Jean Crosby was a founding member of the San Francisco Women's Centers (SFWC) along with a group of women who sought organization structure with the goal of supporting existing organizations and helping to nurture new organizing efforts on behalf of women. One of the projects they helped develop was the San Francisco Women's Building.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content</head>
+            <p>This collection contains writings and materials collected by Roma Guy during her work and activist activities in San Francisco from the 1960s-1970s. Also included is correspondence and material from the San Francisco Women's Center co-founder Jean Crosby. Materials include clippings, publications, essays, play scripts, meeting notes, audio tapes, ephemera and bibliographies collected by both Guy and Crosby. A particular strength of this collection is the representation of feminist literature in the 1970s.</p>
+        </scopecontent>
+        <arrangement id="ref91">
+            <head>Organization and Arrangement</head>
+            <p>Materials in this collection have been arranged alphabetically by title.</p>
+        </arrangement>
+        <phystech id="ref90">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+        </phystech>
+        <relatedmaterial id="ref11">
+            <head>Related Material</head>
+            <p>
+                <extref actuate="onrequest" show="new" href="http://www.oac.cdlib.org/findaid/ark:/13030/kt696nb1jq/">San Francisco Women's Building/Women's Centers Records, 1966, 1972-2001,</extref> housed at the Gay, Lesbian, Bisexual, Transgender Historical Society in San Francisco, California.</p>
+        </relatedmaterial>
+        <controlaccess id="controlaccess-1.2.13">
+            <persname rules="aacr" source="local">Guy, Roma -- Archives.</persname>
+            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
+            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
+            <corpname rules="aacr" source="naf">University of California, Los Angeles. Library.</corpname>
+            <subject source="lcsh">Lesbian activists--California--San Francisco--Archives.</subject>
+            <subject source="lcsh">Lesbian authors--California--San Francisco--Archives. </subject>
+        </controlaccess>
+        <dsc type="combined" id="dsc-1.2.14" score="0" C-ORDER="1" MAX-C-ORDER="41">
+            <c01 id="ref97" level="file" score="1" C-ORDER="1"><did>
+                    <unittitle>Artwork</unittitle>
+                    <container id="cid11227003" type="Box">1</container>
+                    <container parent="cid11227003" type="Folder">1</container>
+                    <unitdate normal="1960/1979" type="inclusive">circa 1960s-1970s</unitdate>
+                </did></c01>
+            <c01 id="ref69" level="file" score="1" C-ORDER="2"><did>
+                    <unittitle>Bibliographies</unittitle>
+                    <container id="cid7974116" type="Box">1</container>
+                    <container parent="cid7974116" type="Folder">2</container>
+                    <unitdate normal="1960/1979" type="inclusive">circa 1960s-1970s</unitdate>
+                </did></c01>
+            <c01 id="ref86" level="item" score="3" C-ORDER="3"><did>
+                    <unittitle>"Brainwashing and Women" by Barbara Kessel</unittitle>
+                    <container id="cid11227001" type="Box">1</container>
+                    <container parent="cid11227001" type="Folder">3</container>
+                    <unitdate normal="1971/1971">1971</unitdate>
+                </did><scopecontent id="ref87">
+                    <head>Scope and Content</head>
+                    <p>56 minute 1/4 inch audio tape taken at the Chico Women's Conference.</p>
+                </scopecontent><phystech id="ref89">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                </phystech></c01>
+            <c01 id="ref98" level="file" score="1" C-ORDER="6"><did>
+                    <unittitle>Calendar</unittitle>
+                    <container id="cid11227004" type="Box">1</container>
+                    <container parent="cid11227004" type="Folder">4</container>
+                    <unitdate normal="1980/1980">1980</unitdate>
+                </did></c01>
+            <c01 id="ref94" level="file" score="1" C-ORDER="7"><did>
+                    <unittitle>Church Women United: The Woman Packet</unittitle>
+                    <container id="cid11224001" type="Box">1</container>
+                    <container parent="cid11224001" type="Folder">5</container>
+                    <unitdate normal="1970/1979" type="inclusive">circa 1970s</unitdate>
+                </did></c01>
+            <c01 id="ref60" level="file" score="2" C-ORDER="8"><did>
+                    <unittitle>Compiled Articles</unittitle>
+                    <container id="cid7974119" type="Box">1</container>
+                    <container parent="cid7974119" type="Folder">6</container>
+                    <unitdate normal="1960/1979" type="inclusive">circa 1960s-1970s</unitdate>
+                </did><scopecontent id="ref62">
+                    <head>Scope and Contents note</head>
+                    <p>Contains various materials, including San Francisco Women's Centers newsletters, Ad Hoc Women's Committee documents, "Gay Movement in Germany" booklet, and materials on black women's liberation, women's liberation, racism and anti-feminism.</p>
+                </scopecontent></c01>
+            <c01 id="ref95" level="file" score="1" C-ORDER="10"><did>
+                    <unittitle>Compiled Publications</unittitle>
+                    <container id="cid11224002" type="Box">1</container>
+                    <container parent="cid11224002" type="Folder">7</container>
+                    <unitdate normal="1970/1979" type="inclusive">circa 1970s</unitdate>
+                </did></c01>
+            <c01 id="ref72" level="file" score="2" C-ORDER="11"><did>
+                    <unittitle>Correspondence: Jean Crosby</unittitle>
+                    <container id="cid7974115" type="Box">1</container>
+                    <container parent="cid7974115" type="Folder">8</container>
+                    <unitdate normal="1975/1975">1975</unitdate>
+                </did><scopecontent id="ref74">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence is addressed to Jean Crosby.</p>
+                </scopecontent></c01>
+            <c01 id="ref96" level="file" score="1" C-ORDER="13"><did>
+                    <unittitle>Ephemera</unittitle>
+                    <container id="cid11224003" type="Box">1</container>
+                    <container parent="cid11224003" type="Folder">9</container>
+                    <unitdate normal="1970/1979" type="inclusive">circa 1970s</unitdate>
+                </did></c01>
+            <c01 id="ref18" level="file" score="1" C-ORDER="14"><did>
+                    <unittitle>An Exploration Paper on Tensions Between White Women's Movements and Black Liberation Groups by Jean Crosby</unittitle>
+                    <container id="cid7974133" type="Box">1</container>
+                    <container parent="cid7974133" type="Folder">10</container>
+                    <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+                </did></c01>
+            <c01 id="ref12" level="file" score="1" C-ORDER="15"><did>
+                    <unittitle>The Five Stages of Ruth by Sally Miller Gearhart</unittitle>
+                    <container id="cid7974135" type="Box">1</container>
+                    <container parent="cid7974135" type="Folder">11</container>
+                    <unitdate normal="1965/1965">1965</unitdate>
+                </did></c01>
+            <c01 id="ref42" level="file" score="2" C-ORDER="16"><did>
+                    <unittitle>International Women's Year Report</unittitle>
+                    <container id="cid7974125" type="Box">1</container>
+                    <container parent="cid7974125" type="Folder">12</container>
+                    <unitdate normal="1977/1977">1977</unitdate>
+                </did><scopecontent id="ref44">
+                    <head>Scope and Contents note</head>
+                    <p>Contains the Final Report to the National Commission on the Observance of International Women's Year, June 1977.</p>
+                </scopecontent></c01>
+            <c01 id="ref45" level="file" score="1" C-ORDER="18"><did>
+                    <unittitle>Misogynism and Virginal Feminism in the Fathers of the Church by Rosemary Radford Ruether</unittitle>
+                    <container id="cid7974124" type="Box">2</container>
+                    <container parent="cid7974124" type="Folder">1</container>
+                    <unitdate normal="1974/1974">1974</unitdate>
+                </did></c01>
+            <c01 id="ref57" level="file" score="1" C-ORDER="19"><did>
+                    <unittitle>Mothballs for My Kimono by Madeline Weller</unittitle>
+                    <container id="cid7974120" type="Box">2</container>
+                    <container parent="cid7974120" type="Folder">2</container>
+                    <unitdate normal="1960/1979" type="inclusive">circa 1960s-1970s</unitdate>
+                </did></c01>
+            <c01 id="ref75" level="file" score="1" C-ORDER="20"><did>
+                    <unittitle>Notes</unittitle>
+                    <container id="cid7974114" type="Box">2</container>
+                    <container parent="cid7974114" type="Folder">3</container>
+                    <unitdate normal="1970/1979" type="inclusive">circa 1970s</unitdate>
+                </did></c01>
+            <c01 id="ref51" level="file" score="2" C-ORDER="21"><did>
+                    <unittitle>Notes Toward Lesbian Political Theory</unittitle>
+                    <container id="cid7974122" type="Box">2</container>
+                    <container parent="cid7974122" type="Folder">4</container>
+                    <unitdate normal="1970/1979" type="inclusive">circa 1970s</unitdate>
+                </did><scopecontent id="ref53">
+                    <head>Scope and Contents note</head>
+                    <p>Contains "Notes Toward Lesbian Political Theory," a draft of papers as part of a writing collective and study group and circulated in San Francisco, California.</p>
+                </scopecontent></c01>
+            <c01 id="ref36" level="file" score="2" C-ORDER="23"><did>
+                    <unittitle>Office of Women's Affairs</unittitle>
+                    <container id="cid7974127" type="Box">2</container>
+                    <container parent="cid7974127" type="Folder">5</container>
+                    <unitdate normal="1975/1975">1975</unitdate>
+                </did><scopecontent id="ref38">
+                    <head>Scope and Contents note</head>
+                    <p>Contains materials related to the Office of Women's Affairs (OWA), including a survey of priorities, meeting minutes, expenditures, and newsletters.</p>
+                </scopecontent></c01>
+            <c01 id="ref15" level="file" score="1" C-ORDER="25"><did>
+                    <unittitle>Our Bodies, Our Selves</unittitle>
+                    <container id="cid7974134" type="Box">2</container>
+                    <container parent="cid7974134" type="Folder">6</container>
+                    <unitdate normal="1971/1971">1971</unitdate>
+                </did></c01>
+            <c01 id="ref33" level="file" score="2" C-ORDER="26"><did>
+                    <unittitle>Outline by Rita Mae Brown</unittitle>
+                    <container id="cid7974128" type="Box">2</container>
+                    <container parent="cid7974128" type="Folder">7</container>
+                    <unitdate normal="1974/1974">1974</unitdate>
+                </did><scopecontent id="ref35">
+                    <head>Scope and Contents note</head>
+                    <p>Contains an outline covering violence, non-violence, and terrorism.</p>
+                </scopecontent></c01>
+            <c01 id="ref27" level="file" score="1" C-ORDER="28"><did>
+                    <unittitle>The Politics of Women's Liberation by Jo Freeman</unittitle>
+                    <container id="cid7974130" type="Box">2</container>
+                    <container parent="cid7974130" type="Folder">8</container>
+                    <unitdate normal="1973/1973">1973</unitdate>
+                </did></c01>
+            <c01 id="ref30" level="file" score="2" C-ORDER="29"><did>
+                    <unittitle>Sacramento State Feminism and Women's Studies Materials</unittitle>
+                    <container id="cid7974129" type="Box">2</container>
+                    <container parent="cid7974129" type="Folder">9</container>
+                    <unitdate normal="1973/1973">1973</unitdate>
+                </did><scopecontent id="ref32">
+                    <head>Scope and Contents note</head>
+                    <p>Contains three essays obtained from California State University, Sacramento: "The Fear of Feminism, or What Makes Women's Liberation Laugh" by Kathleen Barry, "Women's Studies and Feminism: Survival in the Seventies" by Joan Hoff Wilson, and "Infantile Feminism and Women's Studies: Showdown at Sacramento State" by Kirsten Amundeen.</p>
+                </scopecontent></c01>
+            <c01 id="ref39" level="file" score="2" C-ORDER="31"><did>
+                    <unittitle>A Skeleton Key to the Gemstone File by Stephanie Caruana</unittitle>
+                    <container id="cid7974126" type="Box">2</container>
+                    <container parent="cid7974126" type="Folder">10</container>
+                    <unitdate normal="1975/1975">1975</unitdate>
+                </did><scopecontent id="ref41">
+                    <head>Scope and Contents note</head>
+                    <p>Contains a skeleton outlining the Gemstone file (written over a period of years by an American named Bruce Roberts) and presents a chronicle of interlocking conspiracies. Attributed to Stephanie Caruana.</p>
+                </scopecontent></c01>
+            <c01 id="ref21" level="file" score="1" C-ORDER="33"><did>
+                    <unittitle>Toward a Whole Theology: Women and the World</unittitle>
+                    <container id="cid7974132" type="Box">2</container>
+                    <container parent="cid7974132" type="Folder">11</container>
+                    <unitdate normal="1972/1972">1972</unitdate>
+                </did></c01>
+            <c01 id="ref48" level="file" score="2" C-ORDER="34"><did>
+                    <unittitle>Under My Thumb: The Politics of Sexuality</unittitle>
+                    <container id="cid7974123" type="Box">2</container>
+                    <container parent="cid7974123" type="Folder">12</container>
+                    <unitdate normal="1970/1979" type="inclusive">circa 1970s</unitdate>
+                </did><scopecontent id="ref50">
+                    <head>Scope and Contents note</head>
+                    <p>"Under My Thumb: The Politics of Sexuality," script compiled by members of the Alternative Futures Community, San Francisco. Collection of poetry, skits and readings.</p>
+                </scopecontent></c01>
+            <c01 id="ref88" level="item" score="3" C-ORDER="36"><did>
+                    <unittitle>Women's Liberation Quotes</unittitle>
+                    <container id="cid11227002" type="Box">1</container>
+                    <container parent="cid11227002" type="Folder">3</container>
+                    <unitdate normal="1960/1979" type="inclusive">circa 1960s-1970s</unitdate>
+                </did><scopecontent id="ref92">
+                    <head>Scope and Content</head>
+                    <p>1/4 inch audio tape.</p>
+                </scopecontent><phystech id="ref93">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. All requests to access special collections material must be made in advance using the request button located on this page.</p>
+                </phystech></c01>
+            <c01 id="ref54" level="file" score="2" C-ORDER="39"><did>
+                    <unittitle>Writings on Cuba</unittitle>
+                    <container id="cid7974121" type="Box">2</container>
+                    <container parent="cid7974121" type="Folder">13</container>
+                    <unitdate normal="1970/1979" type="inclusive">circa 1970s</unitdate>
+                </did><scopecontent id="ref56">
+                    <head>Scope and Contents note</head>
+                    <p>Contains seven articles: "Education in Cuba," Health Care in Socialist Cuba," Popular Tribunals in Cuba," "Venceremos Brigade Celebrates 26th of July," "Glimpse of the Cuban Struggle," "Cuban Poetry, 1959-1966," and "The Struggle to Improve Housing in Cuba."</p>
+                </scopecontent></c01>
+            <c01 id="ref24" level="file" score="2" C-ORDER="41"><did>
+                    <unittitle>Writings by Sally Gearhart</unittitle>
+                    <container id="cid7974131" type="Box">2</container>
+                    <container parent="cid7974131" type="Folder">14</container>
+                    <unitdate normal="1972/1975" type="inclusive">1972-1975</unitdate>
+                </did><scopecontent id="ref26">
+                    <head>Scope and Contents note</head>
+                    <p>Contains "The Lesbian and God-the-Father," "A Verbal Message on Alice Doesn't! Day," "The Ancient Greeks" (play), protest letters and notes.</p>
+                </scopecontent></c01>
+        </dsc>
+    </archdesc>
+</ead>
