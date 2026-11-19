@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt1j49n6t8" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::976::Peter Stone Papers)//EN&quot; &quot;stone976.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">stone976.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Peter Stone Papers, ca. 1960-1967</titleproper><titleproper type="filing">Stone (Peter) Papers</titleproper>
+ <author>Processed by Manuscripts Division staff; machine-readable finding aid created by Alight Tsai and Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 2003</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date calendar="gregorian" era="ce">September 2001</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Alight Tsai and Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::976::Peter Stone Papers)//EN" "stone976.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Peter Stone Papers, ca. 1960-1967</titleproper>
+ <num>Collection number: 976</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Manuscripts Division staff</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Alight Tsai and Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Text converted and initial container list EAD tagging by:</label>
+ <item>Apex Data Services</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, May 2003</item>
+ </defitem>
+ </list>
+ <p>© 2003 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Peter Stone Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">ca. 1960-1967</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">976</unitid>
+ <origination label="Creator">
+ <persname source="lcnaf" role="subject">Stone, Peter, 1930- </persname>
+ </origination>
+ <physdesc label="Extent"><extent>7 boxes (3.5 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Peter Stone (1930- ) was a writer for the stage and screen in the 1960s. He wrote various musicals on Broadway, including <title linktype="simple">Kean</title> (1961), <title linktype="simple">Skyscraper</title> (1965), and <title linktype="simple">Two by two</title> (1970). His film scripts include <title linktype="simple">Charade</title> (1963), <title linktype="simple">Father Goose</title> (1964), <title linktype="simple">Mirage</title> (1965), <title linktype="simple">Sweet Charity</title> (1969), and <title linktype="simple">Someone is killing the great chefs of Europe</title> (1978). The collection consists of manuscript and typescript screenplays by Stone. There are also related materials such as programs, playbills, photographs, reviews, and ephemera.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Gift of Peter Stone, 1967-68.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Peter Stone Papers (Collection 976). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=3222338">3222338</extref></p>
+</odd>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Stone was born in Los Angeles, California, on February 27, 1930; attended Bard College and Yale University; established himself as a writer for the stage and screen in the 1960s; wrote various musicals on Broadway, including <title linktype="simple">Kean</title> (1961), <title linktype="simple">Skyscraper</title> (1965), <title linktype="simple">1776</title> (1969), and <title linktype="simple">Two by two</title> (1970); his film scripts include <title linktype="simple">Charade</title> (1963), <title linktype="simple">Father Goose</title> (1964), <title linktype="simple">Mirage</title> (1965), <title linktype="simple">Arabesque</title> (1966), <title linktype="simple">Sweet Charity</title> (1969), <title linktype="simple">1776</title> (1972), and <title linktype="simple">Someone is killing the great chefs of Europe</title> (1978); shared an Academy Award for the screenplay of <title linktype="simple">Father Goose</title> in 1964; occasionally used the pseudonym Pierre Marton.</p>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of manuscript and typescript screenplays by Stone. Includes various drafts, typescripts showing additions and corrections, and rehearsal scripts. Also includes related materials such as programs, playbills, photographs, reviews, and ephemera.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.5">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname source="lcnaf" encodinganalog="600" role="subject">Stone, Peter, 1930- --Archives.</persname>
+ <occupation source="lcsh" encodinganalog="650">Screenwriters--United States--Archival resources.</occupation>
+ <occupation source="lcsh" encodinganalog="650">Dramatists--United States--Archival resources.</occupation>
+ <genreform source="aat" encodinganalog="655">Screenplays.</genreform>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.6" score="1" C-ORDER="1" MAX-C-ORDER="59">
+ <head>Container List</head>
+ <c01 level="series" id="c01-1.8.6.2" score="1" C-ORDER="2">
+ <did>
+ <unittitle>Screenplays</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.2.2" score="1" C-ORDER="3">
+ <did>
+ <unittitle><title linktype="simple">Charade</title>. <unitdate calendar="gregorian" era="ce">1963</unitdate> (Stanley Donen Films, Incorporated)</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.2.2.2" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Revised draft, signed by Mr. Stone.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.2.3" score="1" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Another copy of final draft, signed by Mr. Stone.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.2.4" score="1" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Gold Medal edition of <title linktype="simple">Charade</title>, signed by Mr. Stone.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.3" score="1" C-ORDER="7">
+ <did>
+ <unittitle><title linktype="simple">Arabesque</title>. <unitdate calendar="gregorian" era="ce">1965</unitdate> (L. Stanley Donen Enterprises)</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.2.3.2" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>First typed script, fully annotated, and with changes in Mr. Stone's handwriting.</unittitle>
+ <physdesc> 156 leaves.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.3.3" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Another copy, first photocopy, with annotations and changes in Mr. Stone's handwriting.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.3.4" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <unittitle>Final photocopy, signed by Mr. Stone.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.2.4" score="1" C-ORDER="11">
+ <did>
+ <unittitle><title linktype="simple">The Secret War of Private Frigg</title>. <unitdate calendar="gregorian" era="ce">1966-67</unitdate> (Universal Studios)</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.2.4.2" score="1" C-ORDER="12">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Original draft, beginning with Scene 133, completely in Mr. Stone's hand. </unittitle>
+ <physdesc> 153 leaves. Unbound.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.4.3" score="1" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>Original first draft, annotated. </unittitle>
+ <physdesc> (First typescript). Grey cover.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.4.4" score="1" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>First typescript of corrected first draft, completely annotated in Mr. Stone's handwriting. </unittitle>
+ <physdesc> Grey cover.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.4.5" score="1" C-ORDER="15">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>First draft screenplay, annotated with all changes in Mr. Stone's handwriting. </unittitle>
+ <physdesc> Green cover.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.4.6" score="1" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>Revised second draft, completely in Mr. Stone's handwriting. </unittitle>
+ <physdesc> Green cover.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.4.7" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>Final screenplay, completely annotated in Mr. Stone's handwriting. </unittitle>
+ <physdesc> Red cover.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.4.8" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <unittitle>Final screenplay, with annotations. </unittitle>
+ <physdesc> Yellow cover.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.2.4.9" score="1" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Complete file of call sheets, from first day of shooting. <unitdate calendar="gregorian" era="ce">February 15-April 17, 1967.</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.3" score="1" C-ORDER="20">
+ <did>
+ <unittitle>Musicals</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.3.2" score="1" C-ORDER="21">
+ <did>
+ <unittitle><title linktype="simple">Kean</title>. <unitdate calendar="gregorian" era="ce">1961</unitdate> (Robert Lantz)</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.3.2.2" score="1" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>First typescript, fully annotated and with all changes in Mr. Stone's handwriting.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.3" score="1" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Typescript of second draft, with all changes and annotations in Mr. Stone's handwriting.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.4" score="1" C-ORDER="24">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Final draft, with all annotations and changes in Mr. Stone's handwriting.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.5" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Program to the opening of <title linktype="simple">Kean</title>, signed by Mr. Stone.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.2.6" score="1" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Playbill of premiers of <title linktype="simple">Kean</title>, signed by Mr. Stone.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.3.2.7" score="1" C-ORDER="27">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>Stills, programs, review clippings, demonstration record.</unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.3.3" score="1" C-ORDER="28">
+ <did>
+ <unittitle><title linktype="simple">Skyscraper</title>. <unitdate calendar="gregorian" era="ce">1965</unitdate> (Feuer and Martin Productions)</unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.3.3.2" score="1" C-ORDER="29">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle>Mr. Stone's rehearsal script, fully annotated and with all changes, in his handwriting.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.3.3" score="1" C-ORDER="30">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle>Another mimeographed copy of the final script signed by Mr. Stone.</unittitle>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.3.3.4" score="1" C-ORDER="31">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle>Program, premiere playbill, signed by Mr. Stone.</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.6.3.3.5" score="2" C-ORDER="32">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <unittitle>Stills, demo, record, review clippings.</unittitle>
+ </did>
+ <note>
+ <p>Oversize record now in Box 8.</p>
+ </note>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.4" score="1" C-ORDER="34">
+ <did>
+ <unittitle>Teleplay (Television Special)</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.6.4.2" score="1" C-ORDER="35">
+ <did>
+ <unittitle>
+ <title linktype="simple">Androcles and the Lion</title>
+ </unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.4.2.2" score="1" C-ORDER="36">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle>The First Draft Teleplay.</unittitle>
+ <physdesc> Holographic, 113pp., with script revisions, additions, and corrections, all in ink, in the hand of Peter Stone.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.4.2.3" score="1" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle>The Prologue.</unittitle>
+ <physdesc> First typescript, 64pp., with changes in ink by Peter Stone.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.4.2.4" score="1" C-ORDER="38">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle>Revised First Draft.</unittitle>
+ <physdesc> Mimeographed 85pp., with all script revisions, corrections, in red ink and pencil, by Mr. Stone.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.4.2.5" score="1" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle>Rehearsal Script.</unittitle>
+ <physdesc> Mimeographed 128pp., again with corrections in red ink and pencil, in the hand of Mr. Stone.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.4.2.6" score="1" C-ORDER="40">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle>Final Script.</unittitle>
+ <physdesc> Mimeographed 78pp., signed by Mr. Stone.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.4.2.7" score="1" C-ORDER="41">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle>Demonstration record.</unittitle>
+ <physdesc> 10 inches. Recorded on one side only. Unique and made for Richard Rodgers, and signed on the sleeve by Peter Stone.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.4.2.8" score="1" C-ORDER="42">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <unittitle>Published stage play <unitdate calendar="gregorian" era="ce">[1964].</unitdate></unittitle>
+ <abstract>By George Bernard Shaw, completely annotated and signed by P. Stone. Penquin Books, Baltimore, publishers. Paperback.</abstract>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.4.2.9" score="1" C-ORDER="43">
+ <did>
+ <container label="Oversize Box" type="Box">8</container>
+ <unittitle>Recording. New York, RCA Victor. <unitdate calendar="gregorian" era="ce">c. 1967.</unitdate></unittitle>
+ <physdesc> 12 inches. 33 1/3 rpm. Stereo.</physdesc>
+ <abstract>Signed on the sleeve by Peter Stone. Recording of the TV Special.</abstract>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.5" score="1" C-ORDER="44">
+ <did>
+ <unittitle>Screenplays</unittitle>
+ <note>
+ <p>[Boxes 6-7]</p>
+ </note>
+ </did>
+ <c02 level="file" id="c02-1.8.6.5.2" score="1" C-ORDER="45">
+ <did>
+ <unittitle>
+ <title linktype="simple">Mirage</title>
+ </unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.5.2.2" score="1" C-ORDER="46">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle>A Screen Treatment for <title linktype="simple">Fallen Angel</title> (<title linktype="simple">Mirage</title>).</unittitle>
+ <physdesc> Typescript, 116pp., profusely annotated with all revisions in Mr. Stone's hand. Unbound; held together by brads.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.5.2.3" score="1" C-ORDER="47">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle>First Draft Screenplay.</unittitle>
+ <physdesc> Typescript, original. 194pp. All revisions, in ink, in the hand of Mr. Stone. Unbound; held together by brads.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.5.2.4" score="1" C-ORDER="48">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle>Revised First Draft Screenplay.</unittitle>
+ <physdesc> Typescript, original 190pp., profusely annotated with all revisions, in the hand of Mr. Stone. In green binder.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.5.2.5" score="1" C-ORDER="49">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle>Second Revised First Draft Screenplay.</unittitle>
+ <physdesc> Typescript, original, 138pp., with all revisions, in pencil, in the hand of Mr. Stone. In green binder.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.5.2.6" score="1" C-ORDER="50">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <unittitle>Second Draft Screenplay.</unittitle>
+ <physdesc> Typescript, original, 185pp., with all revisions in pencil and ink, in the hand of Mr. Stone. In grey binder.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.5.2.7" score="1" C-ORDER="51">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle>Final Screenplay.</unittitle>
+ <physdesc> Typescript, original, 149pp., all revisions in pencil and ink, in the hand of Mr. Stone. In red binder.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.5.2.8" score="1" C-ORDER="52">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle>Revised Final Screenplay.</unittitle>
+ <physdesc> 146 leaves. Mimeographed, signed on the cover by Mr. Stone. In red binder.</physdesc>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.6.5.3" score="1" C-ORDER="53">
+ <did>
+ <unittitle>
+ <title linktype="simple">Father Goose</title>
+ </unittitle>
+ </did>
+ <c03 level="item" id="c03-1.8.6.5.3.2" score="1" C-ORDER="54">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle>Revised First Draft Screenplay.</unittitle>
+ <physdesc> Typescript, original, 152pp. Revised in pencil in the hand of Mr. Stone. In green binder.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.5.3.3" score="1" C-ORDER="55">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle>First Draft Screenplay, plus 4 Draft Revisions.</unittitle>
+ <physdesc> All bound together. Mimeographed. 525pp., profusely annotated with all changes in ink and pencil in the hand of Mr. Stone. In red binder.</physdesc>
+ </did>
+ </c03>
+ <c03 level="item" id="c03-1.8.6.5.3.4" score="1" C-ORDER="56">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <unittitle>Final screenplay.</unittitle>
+ <physdesc> Mimeographed 142pp., signed by P. Stone. In red binder.</physdesc>
+ <note>
+ <p>(Won Academy Award for Best Original Screenplay, 1964).</p>
+ </note>
+ </did>
+ </c03>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.6.6" score="1" C-ORDER="57">
+ <did>
+ <unittitle>Records</unittitle>
+ </did>
+ <c02 level="item" id="c02-1.8.6.6.2" score="1" C-ORDER="58">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Skyscraper</title> - record. <unitdate calendar="gregorian" era="ce">1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="item" id="c02-1.8.6.6.3" score="1" C-ORDER="59">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <unittitle><title linktype="simple">Androcles and the lion</title> - record (signed). <unitdate calendar="gregorian" era="ce">1967.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>
