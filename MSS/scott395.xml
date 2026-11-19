@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf2w1005bk" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::395::Flora Murray Scott Papers)//EN&quot; &quot;scott395.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">scott395.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Flora Murray Scott Papers, 1919-1984</titleproper><titleproper type="filing">Scott (Flora M.) Papers</titleproper>
+ <author>Processed by Russell A. Johnson; machine-readable finding aid created by Caroline Cubé</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce">© 1997</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access or other database program, <date calendar="gregorian" era="ce">1997</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::395::Flora Murray Scott Papers)//EN" "scott395.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Flora Murray Scott Papers, 1919-1984</titleproper>
+ <num>Collection number: 395</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Russell A. Johnson, 1997</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cubé</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, November 2002</item>
+ </defitem>
+ </list>
+ <p>© 1997 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Flora Murray Scott Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1919-1984</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">395</unitid>
+ <origination label="Creator">
+ <persname source="aacr2" role="subject">Scott, Flora Murray</persname>
+ </origination>
+ <physdesc label="Extent">
+ <extent>3 boxes (1.5 linear ft.) </extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <abstract label="Abstract">Flora Murray Scott (1891-1984) was a professor of botany at UCLA. Her research focused on physiological plant anatomy. She served as Chairman of the Department of Botany, and was the first president of the UCLA Association of Academic Women. The collection consists of Scott's diaries, daybooks, photographs, correspondence, manuscripts, lectures, publications, clippings, awards, and audiotapes related to her life and career.</abstract>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <acqinfo>
+ <head>Provenance/Source of Acquisition</head>
+ <p>Mildred E. Mathias and C.A. Schroeder, transfer, 1988.</p>
+ </acqinfo>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Flora Murray Scott Papers (Collection 395). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=2976803">2976803</extref></p>
+</odd>
+ <processinfo>
+ <head>Conservation Note</head>
+ <p>The collection contains nine 1/4 reel-to-reel audiotapes, in unknown condition. Photographs have been individually sleeved in Mylar. Newspaper clippings have been photocopied onto permanent durable paper.</p>
+ </processinfo>
+ </descgrp>
+ <bioghist id="bioghist-1.8.3">
+ <head>Biography</head>
+ <p>Scott was born in Craig, Scotland, on September 6, 1891; BSc, 1914; MA, St. Andrews University, 1911; Ph.D, Stanford, 1925; came to U.S. in 1922 and was naturalized in 1935; faculty member at American College for Women at Constantinople (1921) and Stanford (1922-25) before coming a professor at UCLA in 1925; Chairman, Department of Botany, UCLA; first president, UCLA Association of Academic Women; research focused on physiological plant anatomy; became professor emeritus in 1959; honors include Order of the British Empire (1919), and the UCLA Medal (1980); died in 1984.</p>
+ <bioghist>
+ <head>Biographical Narrative</head>
+ <p>Flora Murray Scott, plant anatomist and professor of botany, was born September 6, 1891, in Craig, Scotland. She received an M.S. (1911) and B.Sc. (1914) from St. Andrews University, Scotland. During World War I she worked in Danger Buildings at Woolrich Royal Arsenal, London, and with Queen Mary's Army Auxiliary Corps in France, services for which she was awarded the Order of the British Empire in 1919. Following the war Scott served as Associate Professor in Biology at the American College for Women in Constantinople (1919-1921) and as Instructor in Biology, League of Red Cross Societies, Geneva,
+Switzerland (1921-1922). Her academic career continued at Stanford University, where she received the Ph.D. in 1925.</p>
+ <p>Scott joined the faculty at UCLA in 1925 and served as Chair of the Department of Botany, Plant Anatomist in the Agriculture Experiment Station, Assistant Director of the Botanical Garden, member of the Legislative Assembly and many Academic Senate and departmental committees, and founder and first president of the UCLA Association of
+Faculty Women. Professor Scott's research concerns in biology ranged from fossils to living plants, with her major interest centered on physiological plant anatomy. Her interpretation of plant structure using fresh tissue under the light microscope was complemented with ultrasonic and electron microscope investigations. Scott attained the
+status of Professor Emeritus in 1959; she died on March 24, 1984, in Los Angeles.</p>
+ </bioghist>
+ </bioghist>
+ <scopecontent id="scopecontent-1.8.4">
+ <head>Scope and Content</head>
+ <p>Collection consists of diaries, daybooks, photographs, correspondence, manuscripts, lectures, publications, clippings, awards, and audiotapes related to the life and career of botanist Flora Murray Scott. Significant correspondents include: Mildred E. Mathias, Giles W. Mead, C.A. Schroeder, and Ida A. and Robert Gordon Sproul. Photographs includes portraits of Scott and her colleagues, as well as classroom and laboratory scenes from early in her career at UCLA.</p>
+ <scopecontent>
+ <head>Expanded Scope and Content</head>
+ <p>The papers of Flora M. Scott span the years 1919-1984. Included are diary and daybook entries, photographs, correspondence, manuscripts, lectures, publications, newspaper and magazine clippings, awards, and audiotapes. Newspaper and magazine clippings and press releases document Scott's achievements in the study and teaching of plant anatomy and the major awards she received. An incomplete set of publications is supported by a handful of manuscripts, lectures, and correspondence, most notably tracing her examination of Pleistocene plant remains in the Rancho La Brea (California) dig. Photographs include portraits of Scott and her colleagues, as well as classroom and laboratory scenes from early in her career at UCLA. Lacunae include lecture notes, exercises, and examinations for classes either taken or taught by Scott, research and field-work data, and most
+papers pertaining to the intramural committees and professional societies in which she was involved. Significant correspondents include Mildred E. Mathias, Giles W. Mead, C.A. Schroeder, and Ida A. and Robert Gordon Sproul. The extensive correspondence with the
+Sprouls begins with Scott's 1949 letter outlining her objections to the University of California loyalty oath.</p>
+ </scopecontent>
+ </scopecontent>
+ <arrangement id="arrangement-1.8.5">
+ <head>Organization and Arrangement</head>
+ <p>Arranged in the following series: <list type="ordered"><item>Autobiographical and biographical material, 1921-74.</item><item>Photographs, 1925-68.</item><item>Correspondence, 1928-84.</item><item>Professional societies, 1956-77.</item><item>Manuscripts and lectures, 1963-74.</item><item>Publications, 1926-78; Awards, 1919-66; Miscellany, 1934-75. </item></list></p>
+ </arrangement>
+ <controlaccess id="controlaccess-1.8.6">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname source="aacr2" encodinganalog="600" role="subject">Scott, Flora Murray--Archives.</persname>
+ <corpname source="lcnaf" encodinganalog="610" role="subject">University of California, Los Angeles--Faculty--Archival resources.</corpname>
+ <occupation source="lcsh" encodinganalog="650">Women botanists--Archival resources.</occupation>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.7" score="1" C-ORDER="1" MAX-C-ORDER="82">
+ <head>Container List</head>
+ <c01 level="series" id="c01-1.8.7.2" score="1" C-ORDER="2">
+ <did>
+ <unittitle>Autobiographical and Biographical Material</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.2.2" score="2" C-ORDER="3">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Diary entries (Constantinople). <unitdate calendar="gregorian" era="ce">1921.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Annotated typescript)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.3" score="2" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Daybook. <unitdate calendar="gregorian" era="ce">1935-1937, n.d.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>(Infrequent entries; manuscript notebook and loose sheets)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.4" score="1" C-ORDER="7">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Newspaper clippings, magazine articles, and press releases about FMS. <unitdate calendar="gregorian" era="ce">1950-1972.</unitdate> </unittitle>
+ </did>
+ <c03 level="file" id="c03-1.8.7.2.4.2" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>- Science Service press releases <unitdate calendar="gregorian" era="ce">(1950, 1952, 1954).</unitdate> </unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.7.2.4.3" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>- UCLA retirement <unitdate calendar="gregorian" era="ce">(1959).</unitdate> </unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.7.2.4.4" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>- UCLA Medical Center Auxiliary's Golden Bruin Award <unitdate calendar="gregorian" era="ce">(1966).</unitdate> </unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.7.2.4.5" score="2" C-ORDER="11">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>- Publication of monograph, <title linktype="simple">Functional Plant Anatomy</title>. <unitdate calendar="gregorian" era="ce">1969.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>(Includes photographs)</p>
+ </scopecontent>
+ </c03>
+ <c03 level="file" id="c03-1.8.7.2.4.6" score="1" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>- Honorary Doctorate awarded by St. Andrews University <unitdate calendar="gregorian" era="ce">(1971</unitdate>)</unittitle>
+ </did>
+ </c03>
+ <c03 level="file" id="c03-1.8.7.2.4.7" score="1" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>- Indefatigable octogenarian <unitdate calendar="gregorian" era="ce">(1972).</unitdate></unittitle>
+ </did>
+ </c03>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.5" score="2" C-ORDER="15">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Daybook (manuscript notebook). <unitdate calendar="gregorian" era="ce">1959-1971.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>Predominantly Christmas Card lists; also notes on roots and physiological plant anatomy, and 1961 trips to Purdue, Scotland, and England.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.6" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Bibliography notecards. <unitdate calendar="gregorian" era="ce">ca. 1968</unitdate>(?). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.7" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>UCLA Oral History Program -- Preliminary Agreement. <unitdate calendar="gregorian" era="ce">1970.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.8" score="1" C-ORDER="19">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Feminist History Research Project -- Oral History Agreement. <unitdate calendar="gregorian" era="ce">1973.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.2.9" score="2" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Biographical notes. <unitdate calendar="gregorian" era="ce">not before 1974.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p><emph render="italic">re</emph> FMS's awards and accomplishments, compiled by Clara Weissglass (manuscript)</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.3" score="1" C-ORDER="22">
+ <did>
+ <unittitle>Photographs</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.3.2" score="2" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Photographs. <unitdate calendar="gregorian" era="ce">1925-1966.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Portraits, snapshots)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.3.3" score="2" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Photographs. <unitdate calendar="gregorian" era="ce">1935-1968.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Individual and group portraits)</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.4" score="1" C-ORDER="27">
+ <did>
+ <unittitle>Correspondence</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.4.2" score="2" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>General. <unitdate calendar="gregorian" era="ce">1928-1982.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Includes photographs)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.3" score="1" C-ORDER="30">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Mathias, Mildred E. <unitdate calendar="gregorian" era="ce">1962-1984.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.4" score="1" C-ORDER="31">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>National Science Foundation (Reviewer). <unitdate calendar="gregorian" era="ce">1971.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.5" score="2" C-ORDER="32">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Sproul, Robert Gordon and Ida A. <unitdate calendar="gregorian" era="ce">1949-1965.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>Includes typescript letter from FMS to RGS <emph render="italic">re</emph> loyalty oath (1949)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.4.6" score="1" C-ORDER="34">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>University of Sydney (Extramural examiner of Doctorate of Philosophy candidates). <unitdate calendar="gregorian" era="ce">1964.</unitdate> </unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.5" score="1" C-ORDER="35">
+ <did>
+ <unittitle>Professional Societies (Memberships and Conferences)</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.5.2" score="1" C-ORDER="36">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Botanical Society of America. <unitdate calendar="gregorian" era="ce">1972.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.3" score="1" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>California Native Plant Society. <unitdate calendar="gregorian" era="ce">1972.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.4" score="1" C-ORDER="38">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Faculty Women [UCLA Association of Academic Women [et al]. <unitdate calendar="gregorian" era="ce">1973.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.5" score="1" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>International Botanical Congress. <unitdate calendar="gregorian" era="ce">1962-1964.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.6" score="2" C-ORDER="40">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>International Conference on Forest Tree Growth. <unitdate calendar="gregorian" era="ce">1960.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Program)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.7" score="1" C-ORDER="42">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Membership cards. <unitdate calendar="gregorian" era="ce">1975-1977.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.8" score="2" C-ORDER="43">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Pacific Coast Research Conference on the Control of Soil Fungi. <unitdate calendar="gregorian" era="ce">1957.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Program)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.9" score="1" C-ORDER="45">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Southern California Academy of Sciences. <unitdate calendar="gregorian" era="ce">1973.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.10" score="2" C-ORDER="46">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Symposium on Biology -- University of California, Scripps Institute of Oceanography. <unitdate calendar="gregorian" era="ce">1956.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Program)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.11" score="1" C-ORDER="48">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>UCLA Emeriti Association. <unitdate calendar="gregorian" era="ce">1969-1975.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.5.12" score="1" C-ORDER="49">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>UCLA Medical Center Auxiliary. <unitdate calendar="gregorian" era="ce">1968, 1973.</unitdate> </unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.6" score="1" C-ORDER="50">
+ <did>
+ <unittitle>Manuscripts and Lectures </unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.6.2" score="2" C-ORDER="51">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>History of Botany seminar at Clark Library, UCLA. <unitdate calendar="gregorian" era="ce">1963.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Program announcement)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.3" score="2" C-ORDER="53">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>FMS tribute to Waldo H. Fergason. <unitdate calendar="gregorian" era="ce">1968.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Award nomination letter, annotated typescript lecture)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.4" score="2" C-ORDER="55">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Edinburgh trip notes. <unitdate calendar="gregorian" era="ce">1971</unitdate>(?). </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Annotated typescript)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.5" score="2" C-ORDER="57">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>La Brea. <unitdate calendar="gregorian" era="ce">1971-1972.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Correspondence, manuscript, clippings)</p>
+ <p>Includes correspondence with Giles W. Mead about research and personnel changes at the Rancho La Brea Tar Pits (Los Angeles County Museum of Natural History) and Scott's article, Stellate epidermal hairs some 10,000 years old.</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.6" score="2" C-ORDER="59">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Roots chapter in <title linktype="simple">Interactions between soil microorganisms and plants</title>. <unitdate calendar="gregorian" era="ce">1973-1974.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Correspondence, manuscript, typescripts)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.6.7" score="2" C-ORDER="61">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Notebook on Russian history. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ <scopecontent>
+ <p>(Manuscript)</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.7" score="1" C-ORDER="63">
+ <did>
+ <unittitle>Publications</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.7.2" score="2" C-ORDER="64">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Scott, Flora Murray. Publications. <unitdate calendar="gregorian" era="ce">1926-1978.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Incomplete bound set of reprints, offprints, and photocopied articles)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.3" score="2" C-ORDER="66">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Offprints and reprints. <unitdate calendar="gregorian" era="ce">1925-1966.</unitdate> </unittitle>
+ </did>
+ <note>
+ <p>(Incomplete)</p>
+ </note>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.4" score="2" C-ORDER="68">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Botany and electron microscopy. <unitdate calendar="gregorian" era="ce">1965.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Reports and article)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.7.5" score="1" C-ORDER="70">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Botany and Plant Biochemistry -- Department descriptions by FMS. <unitdate calendar="gregorian" era="ce">ca. 1965.</unitdate> </unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.8" score="1" C-ORDER="71">
+ <did>
+ <unittitle>Awards</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.8.2" score="2" C-ORDER="72">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Order of the British Empire. <unitdate calendar="gregorian" era="ce">1919.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Recommendation letters, photocopy of diploma)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.3" score="2" C-ORDER="74">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>UCLA Medal -- Citation. <unitdate calendar="gregorian" era="ce">1961.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Program)</p>
+ </scopecontent>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.8.4" score="2" C-ORDER="76">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>UCLA Medical Center Auxiliary Golden Bruin Award. <unitdate calendar="gregorian" era="ce">1966.</unitdate> </unittitle>
+ </did>
+ <scopecontent>
+ <p>(Correspondence, newspaper clippings, photographs)</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.7.9" score="1" C-ORDER="78">
+ <did>
+ <unittitle>Miscellany</unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.7.9.2" score="1" C-ORDER="79">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><title linktype="simple">Chemical Reviews</title>, vol.1 no.1, entire issue -- Chemistry of lignin article marked up (by FMS?). <unitdate calendar="gregorian" era="ce">1934.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.3" score="1" C-ORDER="80">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Miscellaneous newspaper clippings, brochures, notes, cards. <unitdate calendar="gregorian" era="ce">1938-1975.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.4" score="1" C-ORDER="81">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>St. Andrews University -- Development campaign brochure. <unitdate calendar="gregorian" era="ce">not before 1967.</unitdate> </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.7.9.5" score="2" C-ORDER="82">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <unittitle>9 audiotapes. <unitdate calendar="gregorian" era="ce">1948 and n.d.</unitdate></unittitle>
+ <physdesc> (1/4 reel-to-reel).</physdesc>
+ </did>
+ <scopecontent>
+ <p>Includes one with box labeled Robert . . . July 22, 1948.</p>
+ </scopecontent>
+ </c02>
+ </c01>
+ </dsc>
+ <relatedmaterial id="relatedmaterial-1.8.8">
+ <head>Related Material</head>
+ <p><title linktype="simple">Chequered Career: Scotland to U.S.A.</title> [oral history transcript] / Flora Murray Scott, interviewee. UCLA Oral History Department interview, 1973. Available at Department of Special Collections, UCLA.</p>
+ </relatedmaterial>
+ </archdesc>
+</ead>
