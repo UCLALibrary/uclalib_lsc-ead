@@ -1,485 +1,60 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-<eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" identifier="ark:/13030/ft5489n71h" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">moore.xml</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Mary Carr Moore collection of musical compositions, biographical material, and documents
-<num>(Collection PASC.38-M)</num>
-</titleproper>
-<titleproper type="filing">Moore (Mary C.) collection of musical compositions, biographical material, and documents</titleproper>
-<author>Finding aid prepared by UCLA Library Special Collections staff; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library Special Collections</publisher>
-<address>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA, 90095-1575</addressline>
-<addressline>(310) 825-4988</addressline>
-<addressline>spec-coll@library.ucla.edu</addressline>
-</address>
-<date>©  2002 The Regents of the University of California. All rights reserved.</date>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>This finding aid was produced using the Archivists' Toolkit
-<date>2013-05-22T16:01-0700</date>. Supplementary encoding and revision by Caroline Cubé using Notetab Pro.
-</creation>
-<langusage>Description is in 
-<language>English.</language></langusage>
-<descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection" id="archdesc-1.2">
-<did id="did-1.2.1">
-<unittitle>Mary Carr Moore collection of musical compositions, biographical material, and documents</unittitle>
-<unitid label="Collection number" repositorycode="US-CLU-SC" countrycode="US">PASC.38-M</unitid>
-<repository>
-<corpname>UCLA Library Special Collections</corpname>
-</repository>
-<langmaterial>
-<language langcode="eng"/>
-</langmaterial>
-<physdesc>
-<extent>22.5 linear ft.</extent>
-<extent>(45 boxes)</extent>
-</physdesc>
-<unitdate normal="1893/1957" type="inclusive">1893-1957</unitdate>
-<abstract id="ref2" label="Abstract">This collection consists of music manuscripts and printed scores of operas and orchestral, piano, chamber, vocal and choral music.</abstract>
-<physloc id="ref10" label="Physical Location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
-<origination label="Creator">
-<persname source="ingest">Moore, Mary Carr</persname>
-</origination>
-</did>
-<accessrestrict id="ref11">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict id="ref12">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
-</userestrict>
-<prefercite id="ref13">
-<head>Preferred Citation</head>
-<p>[Identification of item], Mary Carr Moore collection of musical compositions, biographical material, and documents (Collection PASC 38-M). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
-</prefercite>
-<bioghist id="ref7">
-<head>Biography/History</head>
-<p>Mary Louise Carr was born on Aug. 6, 1873, in Memphis, TN; she received music training principally in San Francisco, CA; studied voice with H.B. Pasmore in preparation for a career as an opera singer; studied composition with John Haraden Pratt; married Dr. John Claude Moore in 1898; founded Mary Carr Moore Manuscript Club in 1928; taught theory and composition at Olga Steeb Piano School (1926-42) and Chapman College (1928-47); received honorary Doctor of Music degree from Chapman College, 1936; composed operettas, operas, orchestral and chamber music, songs, and piano pieces; she also composed a grand opera <title>Narcissa</title> (1925), for which she received the David Bispham Memorial Medal in 1930; died on Jan. 11, 1957, in Ingleside, CA.</p>
-</bioghist>
-<scopecontent id="ref8">
-<head>Scope and Content</head>
-<p>Collection consists of Moore's music manuscripts and printed scores of operas and orchestral, piano, chamber, vocal and choral music. Also parts, libretti, working notes for operas, clippings, correspondence, scrapbooks, printed catalogs, photographs, and ephemera.</p>
-</scopecontent>
-<arrangement id="ref9">
-<head>Organization and Arrangement</head>
-<p>Arranged in the following series: 
-<list type="ordered">
-<item>Opera scores and parts (boxes 1-9)</item>
-<item>Instrumental chamber music (box 10)</item>
-<item>Biographical material (boxes 11, 19)</item>
-<item>Documents, music, librettos, photos, work lists (box 12)</item>
-<item>David Rizzio (boxes 13-16)</item>
-<item>Scrapbooks (boxes 17-18)</item>
-<item>Piano concerto (box 20)</item>
-<item>Piano music (box 21)</item>
-<item>Songs (boxes 22-24)</item>
-<item>Choral music (boxes 24-27)</item>
-<item>Orchestral music (boxes 28-29)</item>
-<item>Printed materials (box 30)</item>
-<item>Concert recording, 1984 (box 31)</item>
-</list></p>
-</arrangement>
-<controlaccess id="controlaccess-1.2.8">
-<persname source="ingest">Moore, Mary Carr, 1873-1957--Archives.</persname>
-<subject source="lcsh">Women composers--United States--Archival resources.</subject>
-<subject source="lcsh">Music--Manuscripts.</subject>
-<genreform source="aat">scores.</genreform>
-</controlaccess>
-<dsc type="in-depth" id="dsc-1.2.9" score="1" C-ORDER="1" MAX-C-ORDER="113">
-<head>Container List</head>
-<c01 id="ref15" level="series" score="1" C-ORDER="2"><did>
-<unittitle>Operas.</unittitle>
-</did><c02 id="ref21" level="item" score="2" C-ORDER="3"><did>
-<unittitle>Legende Provencale.</unittitle>
-<container id="cid7478001" type="Box">1</container>
-</did><scopecontent id="ref22">
-<head>Scope and Content</head>
-<p>Includes: unbound piano-vocal score, bound piano-vocal score, revisions, orchestral parts, arias, libretto, and working notes.</p>
-</scopecontent></c02><c02 id="ref23" level="item" score="2" C-ORDER="5"><did>
-<unittitle>Harmony.</unittitle>
-<container id="cid7478002" type="Box">1</container>
-</did><scopecontent id="ref24">
-<head>Scope and Content</head>
-<p>Includes: libretto, piano-vocal score, orchestral parts, select arias, working notes and a program.</p>
-</scopecontent></c02><c02 id="ref25" level="item" score="2" C-ORDER="7"><did>
-<unittitle>Leaper, The.</unittitle>
-<container id="cid7478003" type="Box">2</container>
-</did><scopecontent id="ref26">
-<head>Scope and Content</head>
-<p>Includes: full score, piano-vocal score, orchestral parts.</p>
-</scopecontent></c02><c02 id="ref27" level="file" score="2" C-ORDER="9"><did>
-<unittitle>Memories.</unittitle>
-<container id="cid7478004" type="Box">2</container>
-</did><scopecontent id="ref28">
-<head>Scope and Content</head>
-<p>Includes: full score, orchestral parts, select arias, and working notes.</p>
-</scopecontent></c02><c02 id="ref29" level="file" score="2" C-ORDER="11"><did>
-<unittitle>Oracle, The.</unittitle>
-<container id="cid7478005" type="Box">2</container>
-</did><scopecontent id="ref30">
-<head>Scope and Content</head>
-<p>Includes: piano-vocal score, musical selections, libretto and working notes.</p>
-</scopecontent></c02><c02 id="ref31" level="file" score="2" C-ORDER="13"><did>
-<unittitle>Flutes of Jade Happiness.</unittitle>
-<container id="cid7478006" type="Box">3</container>
-</did><scopecontent id="ref32">
-<head>Scope and Content</head>
-<p>Includes: orchestral parts, chorus parts, select arias and libretto.</p>
-</scopecontent></c02><c02 id="ref33" level="file" score="2" C-ORDER="15"><did>
-<unittitle>Flaming Arrow, The.</unittitle>
-<container id="cid7478007" type="Box">4</container>
-</did><scopecontent id="ref34">
-<head>Scope and Content</head>
-<p>Includes: piano-vocal score, orchstral parts, chorus parts, select arias, librettos and programs.</p>
-</scopecontent></c02><c02 id="ref35" level="file" score="2" C-ORDER="17"><did>
-<unittitle>Narcissa.</unittitle>
-<container id="cid7478008" type="Box">5</container>
-<container id="cid7478009" type="Box">7</container>
-<container id="cid7478010" type="Box">6</container>
-<container id="cid7478011" type="Box">9A</container>
-<container id="cid7478012" type="Box">8</container>
-</did><scopecontent id="ref36">
-<head>Scope and Content</head>
-<p>Includes: (Box 5) full manuscript score in 4 volumes; piano-vocal score, and solo vocal parts; (Box 6) piano-vocal score, select arias, choral parts, souvenir album of noted Indian photographs by Major Lee Moorehouse; photograph of Frederick Levin ("Reverend Hull"); (Box 7) orchestral parts; (Box 8) chorus parts; (Box 9A) solo vocal parts from the piano-vocal score, printed librettos, typescript librettos, working notes.</p>
-</scopecontent></c02><c02 id="ref37" level="file" score="2" C-ORDER="19"><did>
-<unittitle>Los Rubios.</unittitle>
-<container id="cid7478013" type="Box">9B</container>
-</did><scopecontent id="ref38">
-<head>Scope and Content</head>
-<p>Includes: miscellaneous music and Intermezzo from David Rizzio.</p>
-</scopecontent></c02><c02 id="ref92" level="file" score="2" C-ORDER="21"><did>
-<unittitle>David Rizzio.</unittitle>
-<container id="cid7478047" type="Box">16</container>
-<container id="cid7478050" type="Box">13</container>
-<container id="cid7478048" type="Box">15</container>
-<container id="cid7478049" type="Box">14</container>
-</did><scopecontent id="ref93">
-<head>Scope and Content</head>
-<p>Includes: (Box 13) reduced orchestra parts, orchestral manuscript parts, piano-vocal score, full score, miscellaneous music; (Box 14) performing set of orchestral parts; (Box 15) program, typescript description of characters, playbill (1932), piano-vocal score copies; (Box 16) libretto source document, full manuscript score, published piano-vocal score, libretto typescript, miscellaneous documents.</p>
-</scopecontent></c02><c02 id="ref91" level="file" score="1" C-ORDER="23"><did>
-<unittitle>Opera Photographs.</unittitle>
-<container id="cid7478045" type="Box">12</container>
-</did></c02></c01>
-<c01 id="ref18" level="series" score="1" C-ORDER="24"><did>
-<unittitle>Choral Music and Songs.</unittitle>
-</did><c02 id="ref135" level="file" score="1" C-ORDER="25"><did>
-<unittitle>Songs A-L.</unittitle>
-<container id="cid7478085" type="Box">22</container>
-</did></c02><c02 id="ref136" level="file" score="1" C-ORDER="26"><did>
-<unittitle>Songs M-Z.</unittitle>
-<container id="cid7478086" type="Box">23</container>
-</did></c02><c02 id="ref137" level="file" score="1" C-ORDER="27"><did>
-<unittitle>Song Collections and Choral Music.</unittitle>
-<container id="cid7478087" type="Box">24</container>
-</did></c02><c02 id="ref138" level="file" score="1" C-ORDER="28"><did>
-<unittitle>Choral Works A-Z.</unittitle>
-<container id="cid7478088" type="Box">25</container>
-</did></c02><c02 id="ref139" level="file" score="1" C-ORDER="29"><did>
-<unittitle>My Country, op. 96, no. 11.</unittitle>
-<container id="cid7478089" type="Box">25</container>
-</did></c02><c02 id="ref140" level="file" score="1" C-ORDER="30"><did>
-<unittitle>O Wind From the Golden Gate.</unittitle>
-<container id="cid7478090" type="Box">25</container>
-</did></c02><c02 id="ref141" level="file" score="1" C-ORDER="31"><did>
-<unittitle>Quest for Sigurd, The.</unittitle>
-<container id="cid7478091" type="Box">25</container>
-</did></c02><c02 id="ref142" level="item" score="1" C-ORDER="32"><did>
-<unittitle>Brahma, op. 69, no. 2.</unittitle>
-<container id="cid7478092" type="Box">25</container>
-</did></c02><c02 id="ref143" level="item" score="1" C-ORDER="33"><did>
-<unittitle>You.</unittitle>
-<container id="cid7478093" type="Box">25</container>
-</did></c02><c02 id="ref144" level="item" score="1" C-ORDER="34"><did>
-<unittitle>Beyond Those Hills.</unittitle>
-<container id="cid7478094" type="Box">26</container>
-</did></c02><c02 id="ref145" level="item" score="1" C-ORDER="35"><did>
-<unittitle>There is No Death.</unittitle>
-<container id="cid7478095" type="Box">27</container>
-</did></c02><c02 id="ref146" level="item" score="1" C-ORDER="36"><did>
-<unittitle>My Dream, op. 79, no. 3.</unittitle>
-<container id="cid7478096" type="Box">27</container>
-</did></c02></c01>
-<c01 id="ref19" level="series" score="1" C-ORDER="37"><did>
-<unittitle>Orchestral Music.</unittitle>
-</did><c02 id="ref147" level="file" score="1" C-ORDER="38"><did>
-<unittitle>Saul.</unittitle>
-<container id="cid7478097" type="Box">28</container>
-</did></c02><c02 id="ref148" level="file" score="1" C-ORDER="39"><did>
-<unittitle>Indian Idyll (Kamiakin).</unittitle>
-<container id="cid7478098" type="Box">28</container>
-</did></c02><c02 id="ref149" level="file" score="1" C-ORDER="40"><did>
-<unittitle>Kidnap.</unittitle>
-<container id="cid7478099" type="Box">28</container>
-</did></c02><c02 id="ref150" level="file" score="1" C-ORDER="41"><did>
-<unittitle>Immortal Lovers, The.</unittitle>
-<container id="cid7478100" type="Box">28</container>
-</did></c02><c02 id="ref151" level="file" score="2" C-ORDER="42"><did>
-<unittitle>Brief Furlough.</unittitle>
-<container id="cid7478101" type="Box">28</container>
-<container id="cid7478102" type="Box">29</container>
-</did><scopecontent id="ref152">
-<head>Scope and Content</head>
-<p>Includes: (Box 28) scores, transparency masters for parts; (Box 29) multiple copies of parts</p>
-</scopecontent></c02></c01>
-<c01 id="ref20" level="series" score="1" C-ORDER="44"><did>
-<unittitle>Chamber Music.</unittitle>
-</did><c02 id="ref41" level="item" score="1" C-ORDER="45"><did>
-<unittitle>Fairy Tale.</unittitle>
-<container id="cid7478014" type="Box">10</container>
-<materialspec id="ref42" label="Instrumentation">violin and viola</materialspec>
-</did></c02><c02 id="ref43" level="item" score="1" C-ORDER="46"><did>
-<unittitle>Improvisation.</unittitle>
-<container id="cid7478015" type="Box">10</container>
-<materialspec id="ref44" label="Instrumentation">Clarinet and piano.</materialspec>
-</did></c02><c02 id="ref45" level="item" score="1" C-ORDER="47"><did>
-<unittitle>Nostalgia.</unittitle>
-<container id="cid7478016" type="Box">10</container>
-<materialspec id="ref46" label="Instrumentation">Clarinet and piano.</materialspec>
-</did></c02><c02 id="ref47" level="item" score="1" C-ORDER="48"><did>
-<unittitle>Miniature Quartet in f minor.</unittitle>
-<container id="cid7478017" type="Box">10</container>
-<materialspec id="ref48" label="Instrumentation">string quartet</materialspec>
-</did></c02><c02 id="ref49" level="item" score="1" C-ORDER="49"><did>
-<unittitle>Quartet in f minor.</unittitle>
-<container id="cid7478018" type="Box">10</container>
-<materialspec id="ref50" label="Instrumentation">string quartet</materialspec>
-</did></c02><c02 id="ref51" level="item" score="1" C-ORDER="50"><did>
-<unittitle>Quartette in g minor.</unittitle>
-<container id="cid7478019" type="Box">10</container>
-<materialspec id="ref52" label="Instrumentation">string quartet</materialspec>
-</did></c02><c02 id="ref53" level="item" score="1" C-ORDER="51"><did>
-<unittitle>Mountain Call.</unittitle>
-<container id="cid7478020" type="Box">10</container>
-<materialspec id="ref54" label="Instrumentation">trumpet and piano</materialspec>
-</did></c02><c02 id="ref55" level="item" score="1" C-ORDER="52"><did>
-<unittitle>Chante d'Amoure/Nocturne.</unittitle>
-<container id="cid7478021" type="Box">10</container>
-<materialspec id="ref56" label="Instrumentation">flute and piano</materialspec>
-</did></c02><c02 id="ref57" level="item" score="1" C-ORDER="53"><did>
-<unittitle>Suite for String Ensemble, op. 98, no. 3.</unittitle>
-<container id="cid7478022" type="Box">10</container>
-</did></c02><c02 id="ref58" level="item" score="1" C-ORDER="54"><did>
-<unittitle>Poeme.</unittitle>
-<container id="cid7478023" type="Box">10</container>
-<materialspec id="ref59" label="Instrumentation">violin, cello, piano</materialspec>
-</did></c02><c02 id="ref60" level="item" score="1" C-ORDER="55"><did>
-<unittitle>Longing (Romanza).</unittitle>
-<container id="cid7478024" type="Box">10</container>
-<materialspec id="ref61" label="Instrumentation">cello, piano</materialspec>
-</did></c02><c02 id="ref62" level="item" score="1" C-ORDER="56"><did>
-<unittitle>Love Song.</unittitle>
-<container id="cid7478025" type="Box">10</container>
-<materialspec id="ref63" label="Instrumentation">cello, piano</materialspec>
-</did></c02><c02 id="ref64" level="item" score="1" C-ORDER="57"><did>
-<unittitle>Reverie.</unittitle>
-<container id="cid7478026" type="Box">10</container>
-<materialspec id="ref65" label="Instrumentation">violin and piano or cello and piano</materialspec>
-</did></c02><c02 id="ref66" level="item" score="1" C-ORDER="58"><did>
-<unittitle>Magyar Song.</unittitle>
-<container id="cid7478027" type="Box">10</container>
-<materialspec id="ref67" label="Instrumentation">violin and piano</materialspec>
-</did></c02><c02 id="ref68" level="item" score="1" C-ORDER="59"><did>
-<unittitle>Message to One Absent.</unittitle>
-<container id="cid7478028" type="Box">10</container>
-<materialspec id="ref69" label="Instrumentation">violin and piano</materialspec>
-</did></c02><c02 id="ref70" level="item" score="1" C-ORDER="60"><did>
-<unittitle>Romanza.</unittitle>
-<container id="cid7478029" type="Box">10</container>
-<materialspec id="ref71" label="Instrumentation">violin and piano</materialspec>
-</did></c02><c02 id="ref72" level="item" score="1" C-ORDER="61"><did>
-<unittitle>Early Song (Rhapsodie).</unittitle>
-<container id="cid7478030" type="Box">10</container>
-<materialspec id="ref73" label="Instrumentation">violin and piano</materialspec>
-</did></c02><c02 id="ref74" level="item" score="1" C-ORDER="62"><did>
-<unittitle>Sonata for Violin and Piano, c minor.</unittitle>
-<container id="cid7478031" type="Box">10</container>
-</did></c02></c01>
-<c01 id="ref16" level="series" score="1" C-ORDER="63"><did>
-<unittitle>Piano Music.</unittitle>
-</did><c02 id="ref128" level="file" score="2" C-ORDER="64"><did>
-<unittitle>Piano Concerto.</unittitle>
-<container id="cid7478082" type="Box">20</container>
-</did><scopecontent id="ref129">
-<head>Scope and Content</head>
-<p>Includes: full manuscript score, sketches, orchestral parts, 2 piano score (Ozalid and photocopy), manuscript piano score.</p>
-</scopecontent></c02><c02 id="ref130" level="file" score="2" C-ORDER="66"><did>
-<unittitle>Forest Sketches.</unittitle>
-<container id="cid7478083" type="Box">21</container>
-</did><scopecontent id="ref131">
-<head>Scope and Content</head>
-<p>Orchestration</p>
-</scopecontent></c02></c01>
-<c01 id="ref132" level="series" score="1" C-ORDER="68"><did>
-<unittitle>Organ Music.</unittitle>
-</did><c02 id="ref134" level="item" score="1" C-ORDER="69"><did>
-<unittitle>Organ Music.</unittitle>
-<container id="cid7478084" type="Box">21</container>
-</did></c02></c01>
-<c01 id="ref153" level="series" score="1" C-ORDER="70"><did>
-<unittitle>Other Musical Works.</unittitle>
-</did><c02 id="ref154" level="item" score="1" C-ORDER="71"><did>
-<unittitle>Welcome to Donald.</unittitle>
-<container id="cid7478103" type="Box">30</container>
-</did></c02><c02 id="ref155" level="file" score="1" C-ORDER="72"><did>
-<unittitle>Message.</unittitle>
-<container id="cid7478104" type="Box">30</container>
-</did></c02><c02 id="ref156" level="file" score="1" C-ORDER="73"><did>
-<unittitle>California Cylce.</unittitle>
-<container id="cid7478105" type="Box">30</container>
-</did></c02></c01>
-<c01 id="ref14" level="series" score="1" C-ORDER="74"><did>
-<unittitle>Papers.</unittitle>
-</did><c02 id="ref75" level="file" score="1" C-ORDER="75"><did>
-<unittitle>Personal Correspondence.</unittitle>
-<container id="cid7478032" type="Box">11</container>
-</did></c02><c02 id="ref127" level="item" score="1" C-ORDER="76"><did>
-<unittitle>Cadman Letter to Moore.</unittitle>
-<container id="cid7478081" type="Box">19</container>
-<unitdate>1943.</unitdate>
-</did></c02><c02 id="ref80" level="file" score="1" C-ORDER="77"><did>
-<unittitle>Business Correspondence.</unittitle>
-<container id="cid7478036" type="Box">11</container>
-</did></c02><c02 id="ref81" level="file" score="1" C-ORDER="78"><did>
-<unittitle>Publisher's Correspondence and Contracts.</unittitle>
-<container id="cid7478037" type="Box">11</container>
-</did></c02><c02 id="ref76" level="file" score="1" C-ORDER="79"><did>
-<unittitle>Address Book Pages.</unittitle>
-<container id="cid7478033" type="Box">11</container>
-</did></c02><c02 id="ref77" level="file" score="2" C-ORDER="80"><did>
-<unittitle>Poems and Jingles.</unittitle>
-<container id="cid7478034" type="Box">11</container>
-</did><scopecontent id="ref78">
-<head>Scope and Content</head>
-<p>Poems and jingles by Moore and others.</p>
-</scopecontent></c02><c02 id="ref79" level="file" score="1" C-ORDER="82"><did>
-<unittitle>Clippings and Programs.</unittitle>
-<container id="cid7478035" type="Box">11</container>
-</did></c02><c02 id="ref82" level="file" score="1" C-ORDER="83"><did>
-<unittitle>Biographical Essays.</unittitle>
-<container id="cid7478038" type="Box">11</container>
-</did></c02><c02 id="ref126" level="file" score="1" C-ORDER="84"><did>
-<unittitle>Autobiography and related papers.</unittitle>
-<container id="cid7478080" type="Box">19</container>
-</did></c02><c02 id="ref83" level="file" score="1" C-ORDER="85"><did>
-<unittitle>Manuscript Club and Society of National American Composer's Documents.</unittitle>
-<container id="cid7478039" type="Box">11</container>
-</did></c02><c02 id="ref84" level="file" score="1" C-ORDER="86"><did>
-<unittitle>Lists of Moore Works.</unittitle>
-<container id="cid7478040" type="Box">12</container>
-</did></c02><c02 id="ref157" level="file" score="1" C-ORDER="87"><did>
-<unittitle>Catalog of Works.</unittitle>
-<container id="cid7478106" type="Box">30</container>
-</did></c02><c02 id="ref85" level="file" score="1" C-ORDER="88"><did>
-<unittitle>Librettos.</unittitle>
-<container id="cid7478041" type="Box">12</container>
-</did></c02><c02 id="ref86" level="file" score="1" C-ORDER="89"><did>
-<unittitle>Musical Fragments.</unittitle>
-<container id="cid7478042" type="Box">12</container>
-</did></c02><c02 id="ref87" level="file" score="2" C-ORDER="90"><did>
-<unittitle>Where Rolls the Organ.</unittitle>
-<container id="cid7478043" type="Box">12</container>
-</did><scopecontent id="ref88">
-<head>Scope and Content</head>
-<p>Film script by Sarah Pratt Carr.</p>
-</scopecontent></c02><c02 id="ref89" level="file" score="1" C-ORDER="92"><did>
-<unittitle>Student Compositions.</unittitle>
-<container id="cid7478044" type="Box">12</container>
-</did></c02></c01>
-<c01 id="ref17" level="series" score="1" C-ORDER="93"><did>
-<unittitle>Scrapbooks.</unittitle>
-</did><c02 id="ref94" level="file" score="1" C-ORDER="94"><did>
-<unittitle>No. 2.</unittitle>
-<container id="cid7478046" type="Box">17</container>
-<unitdate normal="1893/1906" type="inclusive">1893-1906.</unitdate>
-</did></c02><c02 id="ref95" level="item" score="1" C-ORDER="95"><did>
-<unittitle>No. 3.</unittitle>
-<container id="cid7478051" type="Box">17</container>
-<unitdate normal="1906/1914" type="inclusive">1906-1914.</unitdate>
-</did></c02><c02 id="ref96" level="item" score="1" C-ORDER="96"><did>
-<unittitle>No. 4 Narcissa.</unittitle>
-<container id="cid7478052" type="Box">17</container>
-<unitdate normal="1911/1914" type="inclusive">1911-1914.</unitdate>
-</did></c02><c02 id="ref97" level="item" score="1" C-ORDER="97"><did>
-<unittitle>No. 5.</unittitle>
-<container id="cid7478053" type="Box">17</container>
-<unitdate normal="1915/1924" type="inclusive">1915-1924.</unitdate>
-</did></c02><c02 id="ref98" level="item" score="1" C-ORDER="98"><did>
-<unittitle>No. 7.</unittitle>
-<container id="cid7478054" type="Box">17</container>
-<unitdate normal="1926/1930" type="inclusive">1926-1930.</unitdate>
-</did></c02><c02 id="ref99" level="item" score="1" C-ORDER="99"><did>
-<unittitle>No. 8.</unittitle>
-<container id="cid7478055" type="Box">17</container>
-<unitdate normal="1930/1933" type="inclusive">1930-1933.</unitdate>
-</did></c02><c02 id="ref100" level="item" score="1" C-ORDER="100"><did>
-<unittitle>No. 9 Los Rubios &amp; Flutes of Jade Happiness.</unittitle>
-<container id="cid7478056" type="Box">17</container>
-<unitdate normal="1931/1934" type="inclusive">1931-1934.</unitdate>
-</did></c02><c02 id="ref115" level="item" score="1" C-ORDER="101"><did>
-<unittitle>No. 12.</unittitle>
-<container id="cid7478069" type="Box">18</container>
-<unitdate normal="1934/1937" type="inclusive">1934-1937.</unitdate>
-</did></c02><c02 id="ref116" level="item" score="1" C-ORDER="102"><did>
-<unittitle>No. 13.</unittitle>
-<container id="cid7478070" type="Box">18</container>
-<unitdate normal="1937/1939" type="inclusive">1937-1939.</unitdate>
-</did></c02><c02 id="ref117" level="item" score="1" C-ORDER="103"><did>
-<unittitle>No. 14.</unittitle>
-<container id="cid7478071" type="Box">18</container>
-<unitdate normal="1939/1940" type="inclusive">1939-1940.</unitdate>
-</did></c02><c02 id="ref118" level="item" score="1" C-ORDER="104"><did>
-<unittitle>No. 15.</unittitle>
-<container id="cid7478072" type="Box">18</container>
-<unitdate normal="1940/1941" type="inclusive">1940-1941.</unitdate>
-</did></c02><c02 id="ref119" level="item" score="1" C-ORDER="105"><did>
-<unittitle>No. 16.</unittitle>
-<container id="cid7478073" type="Box">18</container>
-<unitdate>1940.</unitdate>
-</did></c02><c02 id="ref120" level="item" score="1" C-ORDER="106"><did>
-<unittitle>No. 17.</unittitle>
-<container id="cid7478074" type="Box">18</container>
-<unitdate normal="1941/1943" type="inclusive">1941-1943.</unitdate>
-</did></c02><c02 id="ref121" level="item" score="1" C-ORDER="107"><did>
-<unittitle>No. 19 Narcissa.</unittitle>
-<container id="cid7478075" type="Box">18</container>
-</did></c02><c02 id="ref122" level="item" score="1" C-ORDER="108"><did>
-<unittitle>Press Materials.</unittitle>
-<container id="cid7478076" type="Box">18</container>
-<unitdate normal="1932/1944" type="inclusive">1932-1944.</unitdate>
-</did></c02><c02 id="ref123" level="item" score="1" C-ORDER="109"><did>
-<unittitle>Odds and Ends.</unittitle>
-<container id="cid7478077" type="Box">18</container>
-<unitdate normal="1920/1950" type="inclusive">1920-1950.</unitdate>
-</did></c02><c02 id="ref124" level="item" score="1" C-ORDER="110"><did>
-<unittitle>May.</unittitle>
-<container id="cid7478078" type="Box">18</container>
-<unitdate>1946.</unitdate>
-</did></c02><c02 id="ref125" level="item" score="1" C-ORDER="111"><did>
-<unittitle>Frank Brown.</unittitle>
-<container id="cid7478079" type="Box">18</container>
-</did></c02></c01>
-<c01 id="ref158" level="series" score="1" C-ORDER="112"><did>
-<unittitle>Sound Recordings.</unittitle>
-</did><c02 id="ref159" level="item" score="2" C-ORDER="113"><did>
-<unittitle>Concert.</unittitle>
-<container id="cid7478107" type="Box">31</container>
-<unitdate>1984 January 25.</unitdate>
-</did><scopecontent id="ref160">
-<head>Scope and Content</head>
-<p>Concert performed at the University of Nevada, Reno. Also includes program.</p>
-</scopecontent></c02></c01>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-partial-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://www.oac.cdlib.org/findaid/ark:/13030/ft5489n71h/">moore38m.xml</eadid><filedesc><titlestmt><titleproper type="filing">Moore (Mary C.) collection of musical compositions, biographical material, and documents
+</titleproper><titleproper>Finding Aid for the Mary Carr Moore Collection of Musical Compositions, Biographical Material, and Documents <num>PASC-M.0038</num></titleproper><author>Finding aid prepared by Caroline Cubé; front matter and EAD XML code edited by Caroline Cubé, 2026.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2026 November 19.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-11-19 13:31:37 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Mary Carr Moore collection of musical compositions, biographical material, and documents</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="naf">Moore, Mary Carr</persname>
+    </origination>
+    <unitid>PASC-M.0038</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">22.5 linear feet</extent>
+      <extent altrender="carrier">(45 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1893/1957" type="inclusive">1893-1957</unitdate>
+    <abstract id="aspace_04aefa646bac4d92cd451bbdee23740a" label="Abstract">This collection consists of music manuscripts and printed scores of operas and orchestral, piano, chamber, vocal and choral music</abstract>
+    <physloc id="aspace_872b9c0e02331ee6ba68ec59c21fe6ad" label="Physical Location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_25de16fd1c25e5e2cdadc523f21f6cea">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_b8aee094de1c5090649c427ebdba84d4">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <phystech id="aspace_37e1f2a06f8b8854f85cfc08cdf52fc3">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>COLLECTION CONTAINS UNPROCESSED AUDIO MATERIALS: Audio materials are not currently available for access and will require further processing and assessment. Please see <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/access-unprocessed-collections-policy">LSC's Access to Unprocessed Collections Policy</extref> for more information about levels of discovery and access of special collections materials and to register interest in unprocessed collections.</p>  </phystech>
+  <userestrict id="aspace_274cd7ddd53fa3dc7ddfb0a9b0e0260d">
+    <head>Conditions Governing Reproduction and Use</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <odd id="aspace_3d8c43c56b5dc3e634069a08db2f4754">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9924819663606533">9924819663606533</extref></p>  </odd>
+  <prefercite id="aspace_04ac3eda435b51b6a58ce5f3563de9cf">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Mary Carr Moore collection of musical compositions, biographical material, and documents (Collection PASC-M 38). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <custodhist id="aspace_1f7b715d940d998cb829c87c7c2eceef">
+    <head>Custodial History</head>
+<p>This collection was acquired by the UCLA Music Library. When the Music Library special collections was merged under the umbrella of UCLA Library Special Collections, this collection was transferred to LSC.</p>  </custodhist>
+  <processinfo id="aspace_86b129d73a32e748a321a375645b9de7">
+    <head>Processing Information</head>
+<p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's Library Collections and Archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_554c87125ccab813fd1fa8308eb44a63">
+    <head>Biography</head>
+<p>Mary Louise Carr was born on Aug. 6, 1873, in Memphis, TN; she received music training principally in San Francisco, CA; studied voice with H.B. Pasmore in preparation for a career as an opera singer; studied composition with John Haraden Pratt; married Dr. John Claude Moore in 1898; founded Mary Carr Moore Manuscript Club in 1928; taught theory and composition at Olga Steeb Piano School (1926-42) and Chapman College (1928-47); received honorary Doctor of Music degree from Chapman College, 1936; composed operettas, operas, orchestral and chamber music, songs, and piano pieces; she also composed a grand opera Narcissa (1925), for which she received the David Bispham Memorial Medal in 1930; died on Jan. 11, 1957, in Ingleside, CA.</p>  </bioghist>
+  <scopecontent id="aspace_1efd41e98628b5804698965b7aa49084">
+    <head>Scope and Content</head>
+<p>Collection consists of Moore's music manuscripts and printed scores of operas and orchestral, piano, chamber, vocal and choral music. Also parts, libretti, working notes for operas, clippings, correspondence, scrapbooks, printed catalogs, photographs, and ephemera.</p>  </scopecontent>
+  <arrangement id="aspace_fbc8bb5f29be6b8a929932f564aab532">
+    <head>Organization and Arrangement</head>
+<p>Arranged in the following series: <list type="ordered"><item>Opera scores and parts (boxes 1-9)</item><item>Instrumental chamber music (box 10)</item><item>Biographical material (boxes 11, 19)</item><item>Documents, music, librettos, photos, work lists (box 12)</item><item>David Rizzio (boxes 13-16)</item><item>Scrapbooks (boxes 17-18)</item><item>Piano concerto (box 20)</item><item>Piano music (box 21)</item><item>Songs (boxes 22-24)</item><item>Choral music (boxes 24-27)</item><item>Orchestral music (boxes 28-29)</item><item>Printed materials (box 30)</item><item>Concert recording, 1984 (box 31)</item></list></p>  </arrangement>
+  <controlaccess>
+    <genreform source="aat">Scores.</genreform>
+    <subject source="lcsh">Music -- Manuscripts.</subject>
+    <occupation source="lcsh">Women composers -- United States -- Archives.</occupation>
+    <persname rules="rda" source="naf">Moore, Mary Carr -- Archives</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref15_c5r" level="series"><did><unittitle>Operas</unittitle></did><c02 id="aspace_ref21_jqy" level="item"><did><unittitle>Legende Provencale</unittitle><container id="aspace_1a04a3bc70441bf25d535796d80136f3" label="Text" type="box">1</container></did><scopecontent id="aspace_263ed3088cbab072a5eec598dcdb8b69"><head>Scope and Content</head><p>Includes: unbound piano-vocal score, bound piano-vocal score, revisions, orchestral parts, arias, libretto, and working notes.</p></scopecontent></c02><c02 id="aspace_ref23_q8v" level="item"><did><unittitle>Harmony</unittitle><container id="aspace_4de90200e1aa72c1814435766da2f9fd" label="Text" type="box">1</container></did><scopecontent id="aspace_7f68b50f9db0f7182119f6375f90f499"><head>Scope and Content</head><p>Includes: libretto, piano-vocal score, orchestral parts, select arias, working notes and a program.</p></scopecontent></c02><c02 id="aspace_ref25_p6x" level="item"><did><unittitle>Leaper, The</unittitle><container id="aspace_4d0c63dd28acc4e6209e00db5aad4e19" label="Text" type="box">2</container></did><scopecontent id="aspace_d41655f7fd7dd03747c55eec91747682"><head>Scope and Content</head><p>Includes: full score, piano-vocal score, orchestral parts.</p></scopecontent></c02><c02 id="aspace_ref27_rd5" level="file"><did><unittitle>Memories</unittitle><container id="aspace_802ff5f56530192c40a343f742987f8a" label="Text" type="box">2</container></did><scopecontent id="aspace_e3a03def7f84ece2d70b6e04219c7476"><head>Scope and Content</head><p>Includes: full score, orchestral parts, select arias, and working notes.</p></scopecontent></c02><c02 id="aspace_ref29_03p" level="file"><did><unittitle>Oracle, The</unittitle><container id="aspace_fdd6226f0bec6e0db7a51b13bd737521" label="Text" type="box">2</container></did><scopecontent id="aspace_270c30fbc17fe4b2b27e7caa7859bca9"><head>Scope and Content</head><p>Includes: piano-vocal score, musical selections, libretto and working notes.</p></scopecontent></c02><c02 id="aspace_ref31_c2e" level="file"><did><unittitle>Flutes of Jade Happiness</unittitle><container id="aspace_716c13112f52d843aeae40b59898d735" label="Text" type="box">3</container></did><scopecontent id="aspace_0656977928d091346d9f7379a7a939c9"><head>Scope and Content</head><p>Includes: orchestral parts, chorus parts, select arias and libretto.</p></scopecontent></c02><c02 id="aspace_ref33_mpm" level="file"><did><unittitle>Flaming Arrow, The</unittitle><container id="aspace_c382769bf77be7c93261d4da908fedd9" label="Text" type="box">4</container></did><scopecontent id="aspace_8802dcf52735378a060f368599104f98"><head>Scope and Content</head><p>Includes: piano-vocal score, orchstral parts, chorus parts, select arias, librettos and programs.</p></scopecontent></c02><c02 id="aspace_ref35_nxn" level="file"><did><unittitle>Narcissa</unittitle><container id="aspace_fa175b49b55810e85daac59c35b480f1" label="Text" type="box">6</container><container id="aspace_c15a371e8e56183e7fc07044c7d15820" label="Text" type="box">9A</container><container id="aspace_c45a468a5e6e8f66f44d4113c8bb46b2" label="Text" type="box">5</container><container id="aspace_d6fd8c11965adae3be91d7ce97e98a93" label="Text" type="box">7</container><container id="aspace_f873297ad1cabe3824f8a48189f93159" label="Text" type="box">8</container></did><scopecontent id="aspace_dc31089a032155d88213ee79c49ba18d"><head>Scope and Content</head><p>Includes:  (Box 5) full manuscript score in 4 volumes; piano-vocal score, and solo vocal parts; (Box 6) piano-vocal score, select arias, choral parts, souvenir album of noted Indian photographs by Major Lee Moorehouse; photograph of Frederick Levin ("Reverend Hull"); (Box 7) orchestral parts; (Box 8) chorus parts; (Box 9A) solo vocal parts from the piano-vocal score, printed librettos, typescript librettos, working notes.</p></scopecontent></c02><c02 id="aspace_ref37_lpp" level="file"><did><unittitle>Los Rubios</unittitle><container id="aspace_51a912bc14d24e7b5c6119b82b32ab4d" label="Text" type="box">9B</container></did><scopecontent id="aspace_7b766420b43467c9475b2f4461fc7f2a"><head>Scope and Content</head><p>Includes: miscellaneous music and Intermezzo from David Rizzio.</p></scopecontent></c02><c02 id="aspace_ref92_muu" level="file"><did><unittitle>David Rizzio</unittitle><container id="aspace_4c1f3e05f120ad38acda8f727ae1fc7f" label="Text" type="box">13</container><container id="aspace_36ae25c4161e1f8f87dcf9d6ba3aa0a3" label="Text" type="box">15</container><container id="aspace_1739c835b91fc5c9bc2e013a2060c9fa" label="Text" type="box">14</container><container id="aspace_863d5ea11aca7ea67566a693f968a459" label="Text" type="box">16</container></did><scopecontent id="aspace_5c1ee9e7e3b8a1ad28ebcbadb96ca686"><head>Scope and Content</head><p>Includes: (Box 13) reduced orchestra parts, orchestral manuscript parts, piano-vocal score, full score, miscellaneous music; (Box 14) performing set of orchestral parts; (Box 15) program, typescript description of characters, playbill (1932), piano-vocal score copies; (Box 16) libretto source document, full manuscript score, published piano-vocal score, libretto typescript, miscellaneous documents.</p></scopecontent></c02><c02 id="aspace_ref91_ggx" level="file"><did><unittitle>Opera Photographs</unittitle><container id="aspace_f392c0b682f0cbceaff57cb41503f6c5" label="Text" type="box">12</container></did></c02></c01><c01 id="aspace_ref18_jk7" level="series"><did><unittitle>Choral Music and Songs</unittitle></did><c02 id="aspace_ref135_yx6" level="file"><did><unittitle>Songs A-L</unittitle><container id="aspace_24a23f0fde5a81dbe860cc04e4b8e5c0" label="Text" type="box">22</container></did></c02><c02 id="aspace_ref136_1ch" level="file"><did><unittitle>Songs M-Z</unittitle><container id="aspace_3a7391daab6944d77792f2d17e261788" label="Text" type="box">23</container></did></c02><c02 id="aspace_ref137_31w" level="file"><did><unittitle>Song Collections and Choral Music</unittitle><container id="aspace_5fa6a0f6da25c37e3a65e984823ba358" label="Text" type="box">24</container></did></c02><c02 id="aspace_ref138_d4o" level="file"><did><unittitle>Choral Works A-Z</unittitle><container id="aspace_700d5c864d5892254df4d26eb0c7d2da" label="Text" type="box">25</container></did></c02><c02 id="aspace_ref139_x90" level="file"><did><unittitle>My Country, op. 96, no. 11</unittitle><container id="aspace_59a878122d058196d55ae7daf2e9c4cd" label="Text" type="box">25</container></did></c02><c02 id="aspace_ref140_goy" level="file"><did><unittitle>O Wind From the Golden Gate</unittitle><container id="aspace_de87f20f7c18c1aa83b7c626eccbd4ab" label="Text" type="box">25</container></did></c02><c02 id="aspace_ref141_0u5" level="file"><did><unittitle>Quest for Sigurd, The</unittitle><container id="aspace_841d889ce526da2be27c3a0768d7ea71" label="Text" type="box">25</container></did></c02><c02 id="aspace_ref142_ma2" level="item"><did><unittitle>Brahma, op. 69, no. 2</unittitle><container id="aspace_a729d20c9dfab59300ebc9f75d7152c8" label="Text" type="box">25</container></did></c02><c02 id="aspace_ref143_0a7" level="item"><did><unittitle>You</unittitle><container id="aspace_3f3d901c2da12f411b55365b248efcff" label="Text" type="box">25</container></did></c02><c02 id="aspace_ref144_472" level="item"><did><unittitle>Beyond Those Hills</unittitle><container id="aspace_0674e7a112b28b6cef5a84a49915419b" label="Text" type="box">26</container></did></c02><c02 id="aspace_ref145_oai" level="item"><did><unittitle>There is No Death</unittitle><container id="aspace_a527d80d3c1cd01105703d2b18d5688c" label="Text" type="box">27</container></did></c02><c02 id="aspace_ref146_l8k" level="item"><did><unittitle>My Dream, op. 79, no. 3</unittitle><container id="aspace_dad4200566dcbe8ba60fdde8bb1b63e2" label="Text" type="box">27</container></did></c02></c01><c01 id="aspace_ref19_lm5" level="series"><did><unittitle>Orchestral Music</unittitle></did><c02 id="aspace_ref147_ana" level="file"><did><unittitle>Saul</unittitle><container id="aspace_60170dc8c2293157fa66ac48b781eac0" label="Text" type="box">28</container></did></c02><c02 id="aspace_ref148_soe" level="file"><did><unittitle>Indian Idyll (Kamiakin)</unittitle><container id="aspace_7a4761df8589fced84f9630708d2eda0" label="Text" type="box">28</container></did></c02><c02 id="aspace_ref149_hbs" level="file"><did><unittitle>Kidnap</unittitle><container id="aspace_922498f30acddb9aef830edf35894466" label="Text" type="box">28</container></did></c02><c02 id="aspace_ref150_bh6" level="file"><did><unittitle>Immortal Lovers, The</unittitle><container id="aspace_142c264ca21370c12ffbb46b274c8b72" label="Text" type="box">28</container></did></c02><c02 id="aspace_ref151_ybo" level="file"><did><unittitle>Brief Furlough</unittitle><container id="aspace_3b2cacb4f2a2f9da9ce6457eac7a266a" label="Text" type="box">29</container><container id="aspace_fe4321cc1022c6b628e2763429fc1bc0" label="Text" type="box">28</container></did><scopecontent id="aspace_774a18273155832aac3da56610329166"><head>Scope and Content</head><p>Includes: (Box 28) scores, transparency masters for parts; (Box 29) multiple copies of parts</p></scopecontent></c02></c01><c01 id="aspace_ref20_t4p" level="series"><did><unittitle>Chamber Music</unittitle></did><c02 id="aspace_ref41_y2u" level="item"><did><unittitle>Fairy Tale</unittitle><materialspec id="aspace_1c7ac979f596e9ee6ad68c7c7c8e8cfe">violin and viola</materialspec><container id="aspace_4f5b5185ea9827b0198948394327dbc3" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref43_wqi" level="item"><did><unittitle>Improvisation</unittitle><materialspec id="aspace_807436711a782186475ba9ef53737f72">Clarinet and piano.</materialspec><container id="aspace_d2c1d48e0d15b74105e37bf8a82af66a" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref45_41c" level="item"><did><unittitle>Nostalgia</unittitle><materialspec id="aspace_76ff0580d3047d25b92a743418d0dccb">Clarinet and piano.</materialspec><container id="aspace_2b8d2fea51179a6dafcb51c0e10b2497" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref47_zbr" level="item"><did><unittitle>Miniature Quartet in f minor</unittitle><materialspec id="aspace_f26f491a554a01e8bd578a6d6a0b75d5">string quartet</materialspec><container id="aspace_90a1095fa62d4abd7e79e22cbd98bbde" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref49_92a" level="item"><did><unittitle>Quartet in f minor</unittitle><materialspec id="aspace_5d35630c95905ff27bebc90349c4bcd1">string quartet</materialspec><container id="aspace_af99e7a42c047c883a0b878260b921a6" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref51_t76" level="item"><did><unittitle>Quartette in g minor</unittitle><materialspec id="aspace_4088741033ed7af79bc496f4fc9aba9f">string quartet</materialspec><container id="aspace_550a383f8205354e572aa53ece10282f" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref53_pwr" level="item"><did><unittitle>Mountain Call</unittitle><materialspec id="aspace_6759ba9c4c6a1886f2ac31bfc71f477f">trumpet and piano</materialspec><container id="aspace_982493bcd8cd5fa430478a1aef8f30eb" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref55_5xf" level="item"><did><unittitle>Chante d'Amoure/Nocturne</unittitle><materialspec id="aspace_0964aa358901ccf5fd889bb4ea1fa9a7">flute and piano</materialspec><container id="aspace_cb505a71d0303730966e855069a0b7e7" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref57_0ek" level="item"><did><unittitle>Suite for String Ensemble, op. 98, no. 3</unittitle><container id="aspace_8d193f0e805e2bc3c324b2880e54e8f0" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref58_1al" level="item"><did><unittitle>Poeme</unittitle><materialspec id="aspace_8bad8bc62a2fb8f3d8e9f2fad5bdbd46">violin, cello, piano</materialspec><container id="aspace_385fabf61a75a0dea0c9015940033e6c" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref60_ov8" level="item"><did><unittitle>Longing (Romanza)</unittitle><materialspec id="aspace_a42bf1cddb9099ff48c296b9065cb676">cello, piano</materialspec><container id="aspace_430e2a092d2bfba2bbba9f40121f3297" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref62_cbx" level="item"><did><unittitle>Love Song</unittitle><materialspec id="aspace_9f3c4c9df3b83372cf297d599095a95e">cello, piano</materialspec><container id="aspace_77dd6e2571316e1ca021953f8795791e" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref64_xmp" level="item"><did><unittitle>Reverie</unittitle><materialspec id="aspace_651b440ec8cb4da1abfcee2b844a07f3">violin and piano or cello and piano</materialspec><container id="aspace_9bc0e7f005a9371ef3f67d15f52ab7f9" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref66_z5y" level="item"><did><unittitle>Magyar Song</unittitle><materialspec id="aspace_3b093ef8391fac23c49252b00eae6448">violin and piano</materialspec><container id="aspace_238a81552f0b5401e4593071b9f77756" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref68_5do" level="item"><did><unittitle>Message to One Absent</unittitle><materialspec id="aspace_210da277e91575a3893142998f74e068">violin and piano</materialspec><container id="aspace_1859c67c8a28e9a49d95ffe5306349c5" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref70_mnz" level="item"><did><unittitle>Romanza</unittitle><materialspec id="aspace_528de68314d2c9c10c3ef6de8fc6d925">violin and piano</materialspec><container id="aspace_162fcd0e8b36a8b07ed900be3453de82" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref72_vdr" level="item"><did><unittitle>Early Song (Rhapsodie)</unittitle><materialspec id="aspace_f778e56b2945b2df7426f0a01c5f66c3">violin and piano</materialspec><container id="aspace_df2e46f2114fbb6538e6087f96c2559a" label="Text" type="box">10</container></did></c02><c02 id="aspace_ref74_x6k" level="item"><did><unittitle>Sonata for Violin and Piano, c minor</unittitle><container id="aspace_8440bd1244495cdd16cd403fd3c0cd7c" label="Text" type="box">10</container></did></c02></c01><c01 id="aspace_ref16_v7z" level="series"><did><unittitle>Piano Music</unittitle></did><c02 id="aspace_ref128_x35" level="file"><did><unittitle>Piano Concerto</unittitle><container id="aspace_6e14f1fd71eeb9685053c0f879f9e577" label="Text" type="box">20</container></did><scopecontent id="aspace_8012cf3e4f7fe04a6b0da0d0fb310601"><head>Scope and Content</head><p>Includes: full manuscript score, sketches, orchestral parts, 2 piano score (Ozalid and photocopy), manuscript piano score.</p></scopecontent></c02><c02 id="aspace_ref130_2qm" level="file"><did><unittitle>Forest Sketches</unittitle><container id="aspace_119cb2e5bd36f5c068d0498abfea9ea2" label="Text" type="box">21</container></did><scopecontent id="aspace_d9179ec07493b1519f135cb19d3e6ee4"><head>Scope and Content</head><p>Orchestration</p></scopecontent></c02></c01><c01 id="aspace_ref132_ioe" level="series"><did><unittitle>Organ Music</unittitle></did><c02 id="aspace_ref134_e31" level="item"><did><unittitle>Organ Music</unittitle><container id="aspace_38a840e560529b0c3dc7f730f4e50e72" label="Text" type="box">21</container></did></c02></c01><c01 id="aspace_ref153_9de" level="series"><did><unittitle>Other Musical Works</unittitle></did><c02 id="aspace_ref154_463" level="item"><did><unittitle>Welcome to Donald</unittitle><container id="aspace_961830b4329a2ad59d158166c0ebda3b" label="Text" type="box">30</container></did></c02><c02 id="aspace_ref155_c15" level="file"><did><unittitle>Message</unittitle><container id="aspace_b5a8ae6ecba83641d69ec9bcd456df4b" label="Text" type="box">30</container></did></c02><c02 id="aspace_ref156_7x2" level="file"><did><unittitle>California Cylce</unittitle><container id="aspace_63d39f48a581f2009dbcb3eec6cb9d36" label="Text" type="box">30</container></did></c02></c01><c01 id="aspace_ref14_bd8" level="series"><did><unittitle>Papers</unittitle></did><c02 id="aspace_ref75_djj" level="file"><did><unittitle>Personal Correspondence</unittitle><container id="aspace_fa2785a35d8498b6359f17b5c0e1f83f" label="Text" type="box">11</container></did></c02><c02 id="aspace_ref127_zbn" level="item"><did><unittitle>Cadman Letter to Moore</unittitle><unitdate datechar="creation">1943</unitdate><container id="aspace_05f3413535600a98f07e21e267f8eb09" label="Text" type="box">19</container></did></c02><c02 id="aspace_ref80_8de" level="file"><did><unittitle>Business Correspondence</unittitle><container id="aspace_168e415423f8064a50825e6314b30e1c" label="Text" type="box">11</container></did></c02><c02 id="aspace_ref81_sau" level="file"><did><unittitle>Publisher's Correspondence and Contracts</unittitle><container id="aspace_e8210c19cb472fcd57b62acdc1971be3" label="Text" type="box">11</container></did></c02><c02 id="aspace_ref76_03k" level="file"><did><unittitle>Address Book Pages</unittitle><container id="aspace_941e305ef3a3c652be6a7ac2ad04112e" label="Text" type="box">11</container></did></c02><c02 id="aspace_ref77_kv1" level="file"><did><unittitle>Poems and Jingles</unittitle><container id="aspace_7ded3552e6f81a32c1d5d6c5efcb8fa4" label="Text" type="box">11</container></did><scopecontent id="aspace_811483729327324bba06a6a10d3ce537"><head>Scope and Content</head><p>Poems and jingles by Moore and others.</p></scopecontent></c02><c02 id="aspace_ref79_0sx" level="file"><did><unittitle>Clippings and Programs</unittitle><container id="aspace_cc4248e23d66a04f4f7bffec82ee1ae1" label="Text" type="box">11</container></did></c02><c02 id="aspace_ref82_qo5" level="file"><did><unittitle>Biographical Essays</unittitle><container id="aspace_68a5575cfb478a97f62addba2444bc46" label="Text" type="box">11</container></did></c02><c02 id="aspace_ref126_hjw" level="file"><did><unittitle>Autobiography and related papers</unittitle><container id="aspace_444e39b5e1ea9711efca824b4ffd702a" label="Text" type="box">19</container></did></c02><c02 id="aspace_ref83_dhh" level="file"><did><unittitle>Manuscript Club and Society of National American Composer's Documents</unittitle><container id="aspace_e5dceb937186d6a9a67b97084a432d0c" label="Text" type="box">11</container></did></c02><c02 id="aspace_ref84_g4f" level="file"><did><unittitle>Lists of Moore Works</unittitle><container id="aspace_94db110071963da76af5b9bae5c9f01a" label="Text" type="box">12</container></did></c02><c02 id="aspace_ref157_i7s" level="file"><did><unittitle>Catalog of Works</unittitle><container id="aspace_cdbfafc2cc2f89530dfb460abfa1fbda" label="Text" type="box">30</container></did></c02><c02 id="aspace_ref85_7rm" level="file"><did><unittitle>Librettos</unittitle><container id="aspace_d68d0f58e0c61881c6be60a508212cef" label="Text" type="box">12</container></did></c02><c02 id="aspace_ref86_vbk" level="file"><did><unittitle>Musical Fragments</unittitle><container id="aspace_ef97bbd3ed21d95fe66e8ae8e2367d08" label="Text" type="box">12</container></did></c02><c02 id="aspace_ref87_dwe" level="file"><did><unittitle>Where Rolls the Organ</unittitle><container id="aspace_e46290bcafd3f6fdffd45f74c493a066" label="Text" type="box">12</container></did><scopecontent id="aspace_c424fdd3e17a32917fc3356772b39f03"><head>Scope and Content</head><p>Film script by Sarah Pratt Carr.</p></scopecontent></c02><c02 id="aspace_ref89_cot" level="file"><did><unittitle>Student Compositions</unittitle><container id="aspace_82c0633943306e11ab38c85bfc95d246" label="Text" type="box">12</container></did></c02></c01><c01 id="aspace_ref17_2wf" level="series"><did><unittitle>Scrapbooks</unittitle></did><c02 id="aspace_ref94_95g" level="file"><did><unittitle>No. 2</unittitle><unitdate datechar="creation" normal="1893/1906" type="inclusive">1893-1906</unitdate><container id="aspace_9f5a1ecd339f1504eda6cc68185e9f6e" label="Text" type="box">17</container></did></c02><c02 id="aspace_ref95_82g" level="item"><did><unittitle>No. 3</unittitle><unitdate datechar="creation" normal="1906/1914" type="inclusive">1906-1914</unitdate><container id="aspace_97ba738c72ddd2ea0ea5731c7181b6f1" label="Text" type="box">17</container></did></c02><c02 id="aspace_ref96_cxt" level="item"><did><unittitle>No. 4 Narcissa</unittitle><unitdate datechar="creation" normal="1911/1914" type="inclusive">1911-1914</unitdate><container id="aspace_86d77d64e471ec992de5a3c6d57c2bf3" label="Text" type="box">17</container></did></c02><c02 id="aspace_ref97_7ar" level="item"><did><unittitle>No. 5</unittitle><unitdate datechar="creation" normal="1915/1924" type="inclusive">1915-1924</unitdate><container id="aspace_4947f3bee3d94a776c65ed644b04f22d" label="Text" type="box">17</container></did></c02><c02 id="aspace_ref98_7xa" level="item"><did><unittitle>No. 7</unittitle><unitdate datechar="creation" normal="1926/1930" type="inclusive">1926-1930</unitdate><container id="aspace_ab62029d4d654dc593d2a26cdb400193" label="Text" type="box">17</container></did></c02><c02 id="aspace_ref99_s5z" level="item"><did><unittitle>No. 8</unittitle><unitdate datechar="creation" normal="1930/1933" type="inclusive">1930-1933</unitdate><container id="aspace_89ab5e8e71890587ad0fab390c00446c" label="Text" type="box">17</container></did></c02><c02 id="aspace_ref100_uuk" level="item"><did><unittitle>No. 9 Los Rubios &amp; Flutes of Jade Happiness</unittitle><unitdate datechar="creation" normal="1931/1934" type="inclusive">1931-1934</unitdate><container id="aspace_19ad06358ed611fb889c0db4d2675a9c" label="Text" type="box">17</container></did></c02><c02 id="aspace_ref115_8c9" level="item"><did><unittitle>No. 12</unittitle><unitdate datechar="creation" normal="1934/1937" type="inclusive">1934-1937</unitdate><container id="aspace_234881fb418292cc0c8cdf5f07119a46" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref116_cpl" level="item"><did><unittitle>No. 13</unittitle><unitdate datechar="creation" normal="1937/1939" type="inclusive">1937-1939</unitdate><container id="aspace_924a2aba5d9dcb9c1d7e38eed12a2b00" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref117_v64" level="item"><did><unittitle>No. 14</unittitle><unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate><container id="aspace_059dd1a8ea9ee2b08abcde29aba079d6" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref118_l0j" level="item"><did><unittitle>No. 15</unittitle><unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate><container id="aspace_e0490353d479c0c3617658ac9d96e248" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref119_b90" level="item"><did><unittitle>No. 16</unittitle><unitdate datechar="creation">1940</unitdate><container id="aspace_8d53179a79e7f2340130b0087e59a9cb" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref120_o9h" level="item"><did><unittitle>No. 17</unittitle><unitdate datechar="creation" normal="1941/1943" type="inclusive">1941-1943</unitdate><container id="aspace_bc99a4a66f098e423123572c056cb05e" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref121_95c" level="item"><did><unittitle>No. 19 Narcissa</unittitle><container id="aspace_fbaa06cc45a8c2dca07513321f26be99" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref122_w2j" level="item"><did><unittitle>Press Materials</unittitle><unitdate datechar="creation" normal="1932/1944" type="inclusive">1932-1944</unitdate><container id="aspace_be9fcb3b901ee9f55e7736b38dd708e0" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref123_79u" level="item"><did><unittitle>Odds and Ends</unittitle><unitdate datechar="creation" normal="1920/1950" type="inclusive">1920-1950</unitdate><container id="aspace_6f2e2c87774bb729a2422d2c7443f2e4" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref124_nw8" level="item"><did><unittitle>May</unittitle><unitdate datechar="creation">1946</unitdate><container id="aspace_bb6796d59c6ef67f52d8a484a8dcdef4" label="Text" type="box">18</container></did></c02><c02 id="aspace_ref125_go7" level="item"><did><unittitle>Frank Brown</unittitle><container id="aspace_1c42d24c7d38c203a8f8d7d8707c455c" label="Text" type="box">18</container></did></c02></c01><c01 id="aspace_ref158_2bw" level="series"><did><unittitle>Sound Recordings</unittitle></did><c02 id="aspace_ref159_pp1" level="item"><did><unittitle>Concert </unittitle><unitdate datechar="creation">1984 January 25</unitdate><container id="aspace_b6e28af224726a739e00f748a7cf0a70" label="Text" type="box">31</container></did><scopecontent id="aspace_0e627dfc8ed9422c910130b303cc0101"><head>Scope and Content</head><p>Concert performed at the University of Nevada, Reno. Also includes program.</p></scopecontent></c02></c01></dsc>
 </archdesc>
 </ead>
