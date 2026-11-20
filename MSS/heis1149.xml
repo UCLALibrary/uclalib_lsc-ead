@@ -1,0 +1,1846 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/kt638nd4c5" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::1149::Stuart Heisler Papers)//EN" "heis1149.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Stuart Heisler Papers, 1913-1967</titleproper>
+<titleproper type="filing">Heisler (Stuart) Papers</titleproper>
+<author>Processed by UCLA Library Special Collections staff; machine-readable finding aid created by Caroline Cubé.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library, Department of Special Collections</publisher>
+<address>
+<addressline>Manuscripts Division</addressline>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">© 2007</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Text rekeyed by Caroline Cubé from in-house paper finding aid, <date>April 2007</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Date of source: <date>DDMMYYYY</date>.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" id="archdesc-1.2">
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">Stuart Heisler Papers</unittitle>
+<unitdate type="inclusive" normal="1913/1967">1913-1967 </unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1149</unitid>
+<origination label="Creator">
+<persname role="subject" source="lcnaf">Heisler, Stuart, 1894-1979.</persname></origination>
+<physdesc label="Extent">
+<extent>15 boxes (7.5 linear ft.)</extent>
+<extent>1 oversize box.</extent>
+</physdesc>
+<abstract label="Abstract">Stuart Heisler began his career in the film industry in 1913. He became a film editor and later a director of motion pictures. In the late 1950s and throughout the 60s, Heisler also did a substantial amount of television work. Boxes 1-7 contain television scripts; boxes 7-15 are motion picture scripts. Much of the material is in the notebooks, maintaining Heisler's own arrangements.</abstract>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library. Department of Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo" id="descgrp-1.2.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Stuart Heisler Papers (Collection 1149). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=1720427">1720427</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545" id="bioghist-1.2.3">
+<head>Biography</head>
+<p>Heisler was born in 1894 in Los Angeles, CA; quit school in the eighth grade to work in the motion picture industry; entered films in 1913 as a propman; began work with Mack Sennett in 1914, and eventually worked for many of the film studios, including Samuel Goldwyn, Warner Brothers, and Universal; directed more than 25 feature films, including <title>The Glass Key</title> (1942), <title>The Negro Soldier</title> (1944), <title>Along Came Jones</title> (1945), <title>Blue Skies</title> (1946), <title>Tokyo Joe</title> (1949), <title>Journey Into Light</title> (1951), <title>I Died A Thousand Times</title> (1955), and <title>The Burning Hills</title> (1956); directed television films in the 1960s; died in Aug. 1979 in Oceanside, CA. </p>
+</bioghist>
+<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
+<head>Scope and Content</head>
+<p>Collection consists of scripts, photographs, scrapbooks, and memorabilia spanning Stuart Heisler's career as a motion picture and television director. Also contains correspondence, legal documents, clippings, and musical scores. Includes television scripts for <title>The Lawman</title>, <title>Rawhide</title>, <title>77 Sunset Strip</title>, <title>Gunsmoke</title>, and <title>The Virginian</title>. Film scripts include <title>The Lives of a Bengal Lancer</title>, <title>The Biscuit Eater</title>, <title>The Glass Key</title>, and <title>The Negro Soldier</title>. </p>
+</scopecontent>
+<arrangement id="arrangement-1.2.5">
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: 
+<list type="ordered" numeration="arabic">
+<item>Heisler's credits and crew lists, oral history, miscellaneous contracts, photographs, and ephemera (box 1)</item>
+<item>Television scripts (boxes 1-7)</item>
+<item>Motion picture scripts (boxes 7-14)</item>
+<item>Miscellaneous scripts (box 15)</item>
+<item>Scrapbooks (oversize box). </item>
+</list></p>
+</arrangement>
+<controlaccess id="controlaccess-1.2.6">
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Heisler, Stuart, 1894-1979 --Archives. </persname>
+<occupation source="lcsh" encodinganalog="650">Motion picture producers and directors --California, Southern --Archival resources. </occupation>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Screenplays. </genreform>
+<genreform source="aat" encodinganalog="655">Television scripts. </genreform>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<dsc type="in-depth" id="dsc-1.2.7" score="1" C-ORDER="1" MAX-C-ORDER="285">
+<head>Container List</head>
+<c01 level="series" id="c01-1.2.7.2" score="1" C-ORDER="2">
+<did><unittitle>[Miscellaneous]</unittitle></did>
+<c02 level="item" id="c02-1.2.7.2.2" score="1" C-ORDER="3">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Heisler's credits</unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.2.7.2.3" score="1" C-ORDER="4">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Crew lists</unittitle>
+</did>
+</c02>
+<c02 level="item" id="c02-1.2.7.2.4" score="1" C-ORDER="5">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Miscellaneous contracts</unittitle>
+<unitdate>1933-1967</unitdate>
+</did>
+</c02>
+<c02 level="item" id="c02-1.2.7.2.5" score="1" C-ORDER="6">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Warner Brothers. T.V. program data.</unittitle>
+<unitdate>1955-1963</unitdate>
+</did>
+</c02>
+<c02 level="item" id="c02-1.2.7.2.6" score="1" C-ORDER="7">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Miscellaneous photographs</unittitle>
+<unitdate>ca. 1913-?</unitdate></did>
+</c02>
+<c02 level="item" id="c02-1.2.7.2.7" score="1" C-ORDER="8">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Miscellaneous ephemera: clippings</unittitle>
+<unitdate>v.d.</unitdate>
+</did>
+</c02>
+<c02 level="item" id="c02-1.2.7.2.8" score="2" C-ORDER="9">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Sea Slang</unittitle>
+<unitdate>1942</unitdate>
+</did>
+<scopecontent>
+<p>Excerpted from American Thesaurus of Slang by Lester V. Berrey &amp; Melvin Van Den Bark. N.Y., Thomas Y. Crowell Co., 1942</p>
+</scopecontent>
+</c02>
+<c02 level="item" id="c02-1.2.7.2.9" score="1" C-ORDER="11">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Oral history of Heisler's career</unittitle>
+<physdesc>4 tapes.</physdesc>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.2.7.3" score="1" C-ORDER="12">
+<did><unittitle>Television Scripts</unittitle></did>
+<c02 level="subseries" id="c02-1.2.7.3.2" score="1" C-ORDER="13">
+<did>
+<unittitle><unitdate>1955</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.3.2.2" score="1" C-ORDER="14"><did>
+<unittitle>The Lone Ranger</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.2.2.2" score="1" C-ORDER="15"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Teleplay by Herb Meadow</unittitle>
+<unitdate>June 29, 1955</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.3.3" score="1" C-ORDER="16">
+<did>
+<unittitle><unitdate>1956-1957</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.3.3.2" score="2" C-ORDER="17"><did>
+<unittitle>The Adventures of Captain David Grief</unittitle>
+</did>
+<scopecontent>
+<p>Adapted from the story by Jack London</p>
+</scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.3.3" score="1" C-ORDER="19"><did>
+<unittitle>The Lone Ranger</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.3.3.2" score="1" C-ORDER="20"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Teleplay by Herb Meadow</unittitle>
+<unitdate> June 29, 1955</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.3.4" score="2" C-ORDER="21"><did>
+<unittitle>The Adventures of Captain David Grief</unittitle>
+</did>
+<scopecontent>
+<p>Adapted from the story by Jack London.</p>
+</scopecontent>
+<c04 level="item" id="c04-1.2.7.3.3.4.3" score="1" C-ORDER="23"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Sidney Ellis &amp; R. Arkey</unittitle>
+<unitdate> July 9, 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.4" score="1" C-ORDER="24"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Sidney Ellis &amp; Norman Borisoff</unittitle>
+<unitdate> June 26, 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.5" score="1" C-ORDER="25"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Jesse Sander &amp; Joseph Victor</unittitle>
+<unitdate> September 27, 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.6" score="1" C-ORDER="26"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Wally Klein</unittitle>
+<unitdate> October 4, 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.7" score="1" C-ORDER="27"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Sidney Ellis</unittitle>
+<unitdate> September 22, 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.8" score="1" C-ORDER="28"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by George Bellak</unittitle>
+<unitdate> September 24, 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.9" score="1" C-ORDER="29"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by George Kirgo</unittitle>
+<unitdate> October 1, 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.10" score="1" C-ORDER="30"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Art Wallace</unittitle>
+<unitdate> September 26, 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.11" score="1" C-ORDER="31"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Joseph Victor</unittitle>
+<unitdate> January 29, 1957</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.12" score="1" C-ORDER="32"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Sidney Ellis</unittitle>
+<unitdate> May 4, 1957</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.13" score="1" C-ORDER="33"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Pete O'Crotty</unittitle>
+<unitdate> March 25, 1957</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.14" score="1" C-ORDER="34"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Don Ettinger</unittitle>
+<unitdate> March 16, 1957</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.15" score="1" C-ORDER="35"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Art Wallace</unittitle>
+<unitdate> undated</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.16" score="1" C-ORDER="36"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by William Attaway</unittitle>
+<unitdate> February 5, 1957</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.17" score="1" C-ORDER="37"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Sidney Ellis</unittitle>
+<unitdate> January 21, 1957</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.18" score="1" C-ORDER="38"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Fred &amp; Elaine Shevin &amp; Pete O'Crotty</unittitle>
+<unitdate> February 4, 1957</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.3.4.19" score="1" C-ORDER="39"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Photographs, n.p.</unittitle>
+<unitdate> undated</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.3.4" score="1" C-ORDER="40">
+<did>
+<unittitle><unitdate>1955, 1957-1959</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.3.4.2" score="1" C-ORDER="41"><did>
+<unittitle>Adventures of Captain David Grief</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.4.2.2" score="1" C-ORDER="42"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Abby Mann &amp; Herbert Leder</unittitle>
+<unitdate> August 1957</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.2.3" score="1" C-ORDER="43"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Harry W. Junkin</unittitle>
+<unitdate> June 19, 1957</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.2.4" score="1" C-ORDER="44"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Joseph Victor</unittitle>
+<unitdate> undated</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.2.5" score="1" C-ORDER="45"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Sheldon Stark &amp; Peter O'Crotty</unittitle>
+<unitdate> undated</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.2.6" score="1" C-ORDER="46"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Kate &amp; Howard Phillips &amp; Peter O'Crotty</unittitle>
+<unitdate> undated</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.2.7" score="1" C-ORDER="47"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Stephen Kandel</unittitle>
+<unitdate> undated</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.2.8" score="1" C-ORDER="48"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Sy Salkowitz</unittitle>
+<unitdate> August 26, 1957</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.4.3" score="1" C-ORDER="49"><did>
+<unittitle>Screen Directors Playhouse: "The Bush Roper"</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.4.3.2" score="1" C-ORDER="50"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Original story</unittitle>
+<unitdate> October 10, 1955</unitdate>
+<physdesc>2 copies </physdesc>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.3.3" score="1" C-ORDER="51"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Ephemera</unittitle>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.3.4" score="1" C-ORDER="52"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Photographs</unittitle>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.3.5" score="1" C-ORDER="53"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by Fred Gipson &amp; William Tunberg</unittitle>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.4.4" score="1" C-ORDER="54"><did>
+<unittitle>77 Sunset Strip</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.4.4.2" score="1" C-ORDER="55"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by Fredrick Brady</unittitle>
+<unitdate> August 20, 1958</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.4.5" score="1" C-ORDER="56"><did>
+<unittitle>Lawman</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.4.5.2" score="1" C-ORDER="57"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by David Lang &amp; Edmund Morris</unittitle>
+<unitdate> August 5, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.5.3" score="1" C-ORDER="58"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by Oliver Crawford &amp; Edmund Morris</unittitle>
+<unitdate> September 18, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.5.4" score="1" C-ORDER="59"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by Edmund Morris</unittitle>
+<unitdate> September 17, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.5.5" score="1" C-ORDER="60"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by Clair Huffaker</unittitle>
+<unitdate> September 15, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.5.6" score="1" C-ORDER="61"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by Clair Huffaker</unittitle>
+<unitdate> August 14, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.5.7" score="1" C-ORDER="62"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by Finlay McDermid</unittitle>
+<unitdate> July 14, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.5.8" score="1" C-ORDER="63"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by William Leicester</unittitle>
+<unitdate> July 17, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.4.5.9" score="1" C-ORDER="64"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by William F. Leicester</unittitle>
+<unitdate> September 11, 1958</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.3.5" score="1" C-ORDER="65">
+<did>
+<unittitle><unitdate>1958-1959</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.3.5.2" score="1" C-ORDER="66"><did>
+<unittitle>Lawman</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.5.2.2" score="1" C-ORDER="67"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by William Leicester</unittitle>
+<unitdate> October 27, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.3" score="1" C-ORDER="68"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Clair Huffaker</unittitle>
+<unitdate> January 23, 1959</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.4" score="1" C-ORDER="69"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Edmund Morris</unittitle>
+<unitdate> January 27, 1959</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.5" score="1" C-ORDER="70"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Edmund Morris</unittitle>
+<unitdate> December 15, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.6" score="1" C-ORDER="71"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Edmund Morris</unittitle>
+<unitdate> January 5, 1959</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.7" score="1" C-ORDER="72"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Edmund Morris</unittitle>
+<unitdate> October 28, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.8" score="1" C-ORDER="73"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Clair Huffaker</unittitle>
+<unitdate> December 29, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.9" score="1" C-ORDER="74"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by William Leicester</unittitle>
+<unitdate> November 14, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.10" score="1" C-ORDER="75"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Dean Reisner</unittitle>
+<unitdate> October 28, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.11" score="1" C-ORDER="76"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Clair Huffaker</unittitle>
+<unitdate> November 4, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.12" score="1" C-ORDER="77"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Edmund Morris</unittitle>
+<unitdate> November 28, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.13" score="1" C-ORDER="78"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by William Leicester</unittitle>
+<unitdate> December 19, 1958</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.14" score="1" C-ORDER="79"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Finlay McDermid</unittitle>
+<unitdate> February 17, 1959</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.2.15" score="1" C-ORDER="80"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Clair Huffaker &amp; Booker McClay</unittitle>
+<unitdate> February 18, 1959</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.5.3" score="1" C-ORDER="81"><did>
+<unittitle>Lafitte</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.5.3.2" score="1" C-ORDER="82"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Frank L. Moss</unittitle>
+<unitdate> March 24, 1959</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.5.4" score="1" C-ORDER="83"><did>
+<unittitle>Rawhide</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.5.4.2" score="1" C-ORDER="84"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Jan Winters (a.k.a. Hilda Bohem)</unittitle>
+<unitdate> May 13, 1959</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.4.3" score="1" C-ORDER="85"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by David Victor &amp; Herb Littler, Jr.</unittitle>
+<unitdate> June 10, 1959</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.5.4.4" score="1" C-ORDER="86"><did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Louis Vittes</unittitle>
+<unitdate> July 3, 1959</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.3.6" score="1" C-ORDER="87">
+<did>
+<unittitle><unitdate>1959-1960</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.3.6.2" score="1" C-ORDER="88"><did>
+<unittitle>Gunsmoke</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.6.2.2" score="1" C-ORDER="89"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Les Crutchfield</unittitle>
+<unitdate> July 23, 1959</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.6.3" score="1" C-ORDER="90"><did>
+<unittitle>The Lineup</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.6.3.2" score="1" C-ORDER="91"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Author of teleplay not given.</unittitle>
+<unitdate> July 27, 1959</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.6.3.3" score="1" C-ORDER="92"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Don Brinkley</unittitle>
+<unitdate> October 16, 1959</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.6.4" score="1" C-ORDER="93"><did>
+<unittitle>Hotel de Paree</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.6.4.2" score="1" C-ORDER="94"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Teleplay by Oliver Crawford</unittitle>
+<unitdate> August 28, 1958</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.6.5" score="1" C-ORDER="95"><did>
+<unittitle>Rawhide</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.6.5.2" score="1" C-ORDER="96"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Fred Freiberger &amp; Louis Vittes</unittitle>
+<unitdate> Octover 1959</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.6.5.3" score="1" C-ORDER="97"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Author of teleplay not given.</unittitle>
+<unitdate> June 24, 1960</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.6.5.4" score="1" C-ORDER="98"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Ted Gardner</unittitle>
+<unitdate> July 18, 1960</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.6.6" score="1" C-ORDER="99"><did>
+<unittitle>Markham</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.6.6.2" score="1" C-ORDER="100"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by John Latimer</unittitle>
+<unitdate> November 11, 1950</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.6.6.3" score="1" C-ORDER="101"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by John Kneubuhl</unittitle>
+<unitdate> November 9, 1950</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.6.7" score="1" C-ORDER="102"><did>
+<unittitle>Lawman</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.6.7.2" score="1" C-ORDER="103"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by W. Hermanos (pseudonym)</unittitle>
+<unitdate> May 13, 1960</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.6.7.3" score="1" C-ORDER="104"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Richard Matheson</unittitle>
+<unitdate> August 11, 1960</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.6.7.4" score="1" C-ORDER="105"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Ric Hardman</unittitle>
+<unitdate> July 18, 1960</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.6.7.5" score="1" C-ORDER="106"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Richard Matheson</unittitle>
+<unitdate> July 19, 1960</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.6.8" score="1" C-ORDER="107"><did>
+<unittitle>The Islanders</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.6.8.2" score="1" C-ORDER="108"><did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Seton I. Miller</unittitle>
+<unitdate> August 1, 1960</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.3.7" score="1" C-ORDER="109">
+<did>
+<unittitle><unitdate>1960-1962</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.3.7.2" score="1" C-ORDER="110"><did>
+<unittitle>The Islanders</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.7.2.2" score="1" C-ORDER="111"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Fred Eggers</unittitle>
+<unitdate> September 22, 1960</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.7.2.3" score="1" C-ORDER="112"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Seton I. Miller</unittitle>
+<unitdate> October 31, 1960</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.7.2.4" score="1" C-ORDER="113"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Herbert Abbot Spiro</unittitle>
+<unitdate> November 21, 1960</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.7.3" score="1" C-ORDER="114"><did>
+<unittitle>Lawman</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.7.3.2" score="1" C-ORDER="115"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Rick Hardman &amp; Robert C. Dennis</unittitle>
+<unitdate> </unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.7.4" score="1" C-ORDER="116"><did>
+<unittitle>The Case of the Dangerous Robin</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.7.4.2" score="1" C-ORDER="117"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Robert C. Dennis</unittitle>
+<unitdate> 1960</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.7.5" score="1" C-ORDER="118"><did>
+<unittitle>Gunslinger</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.7.5.2" score="1" C-ORDER="119"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Charles Marquis Warren</unittitle>
+<unitdate> January 18, 1961</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.7.6" score="1" C-ORDER="120"><did>
+<unittitle>Roaring 20s</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.7.6.2" score="1" C-ORDER="121"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Anthony Spinner</unittitle>
+<unitdate> May 9, 1961</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.7.6.3" score="1" C-ORDER="122"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Laszlo Gorog</unittitle>
+<unitdate> April 26, 1961</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.7.7" score="1" C-ORDER="123"><did>
+<unittitle>Wells Fargo</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.7.7.2" score="1" C-ORDER="124"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by William R. Cox</unittitle>
+<unitdate> January 9, 1962</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.3.7.8" score="1" C-ORDER="125"><did>
+<unittitle>The Dakotas</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.3.7.8.2" score="1" C-ORDER="126"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Leo Lieberman &amp; E.M. Parsons</unittitle>
+<unitdate> September 25, 1962</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.7.8.3" score="1" C-ORDER="127"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Cy Chermak &amp; Robert B. Thompson</unittitle>
+<unitdate> September 18, 1962</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.7.8.4" score="1" C-ORDER="128"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by E.M. Parsons</unittitle>
+<unitdate> August 28, 1962</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.3.7.8.5" score="1" C-ORDER="129"><did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Teleplay by Anthony Spinner</unittitle>
+<unitdate> August 8, 1962</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.2.7.4" score="1" C-ORDER="130">
+<did><unittitle>Television &amp; Moving-Picture Scripts</unittitle></did>
+<c02 level="subseries" id="c02-1.2.7.4.2" score="1" C-ORDER="131">
+<did>
+<unittitle><unitdate>1962-1963, 1934-1939</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.4.2.2" score="1" C-ORDER="132"><did>
+<unittitle>The Dakotas</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.4.2.2.2" score="1" C-ORDER="133"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by E.M. Parsons</unittitle>
+<unitdate> December 31, 1963</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.4.2.2.3" score="1" C-ORDER="134"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Cy Chermak</unittitle>
+<unitdate> September 25, 1962</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.4.2.2.4" score="1" C-ORDER="135"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Sy Salkowitz</unittitle>
+<unitdate> February 25, 1963</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.4.2.2.5" score="1" C-ORDER="136"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by William Mourne</unittitle>
+<unitdate> February 22, 1963</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.4.2.3" score="1" C-ORDER="137"><did>
+<unittitle>The Virginian</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.4.2.3.2" score="1" C-ORDER="138"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Teleplay by Frank Chase</unittitle>
+<unitdate> July 30, 1963</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.4.2.4" score="1" C-ORDER="139">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Travels of Jamie McPheeters</unittitle>
+<unitdate>December 9, 1963</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.7.4.2.5" score="1" C-ORDER="140"><did>
+<unittitle>The Lives of a Bengal Lancer</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.4.2.5.2" score="1" C-ORDER="141"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Story by Francis Yeats-Brown; Screenplay by Waldemar Young, John L. Bulderson &amp;
+ Achmed Abdullah</unittitle>
+<unitdate> 1934</unitdate>
+<physdesc>2 copies </physdesc>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.4.2.6" score="1" C-ORDER="142"><did>
+<unittitle>Straight from the Shoulder</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.4.2.6.2" score="2" C-ORDER="143"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Screenplay by Madeline Ruthven.</unittitle>
+<unitdate> 1936</unitdate>
+</did>
+<scopecontent><p>Original title of screenplay: Johnny Get His Gun. Adapted from the story
+ "Johnny Gets His Gun," by Lucien Cary. </p></scopecontent>
+</c04>
+<c04 level="item" id="c04-1.2.7.4.2.6.3" score="1" C-ORDER="145"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Ephemera</unittitle>
+<unitdate> 1936</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.2.7.5" score="1" C-ORDER="146">
+<did><unittitle>Motion-Picture Scripts</unittitle></did>
+<c02 level="subseries" id="c02-1.2.7.5.2" score="1" C-ORDER="147">
+<did>
+<unittitle><unitdate>1937-1939</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.5.2.2" score="1" C-ORDER="148"><did>
+<unittitle>Hurricane</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.2.2.2" score="1" C-ORDER="149"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Final Shooting Script</unittitle>
+<unitdate> 1937</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.2.2.3" score="1" C-ORDER="150"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1937</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.2.2.4" score="1" C-ORDER="151"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Ephemera</unittitle>
+<unitdate> 1937</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.2.3" score="1" C-ORDER="152"><did>
+<unittitle>A Stranger at Home</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.2.3.2" score="1" C-ORDER="153"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Screenplay by Konrad Bercovici</unittitle>
+<unitdate> 1938</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.2.4" score="1" C-ORDER="154"><did>
+<unittitle>Black Gold</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.2.4.2" score="1" C-ORDER="155"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Screenplay by Houston Branch</unittitle>
+<unitdate> 1938</unitdate>
+<physdesc>2 copies </physdesc>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.2.5" score="1" C-ORDER="156"><did>
+<unittitle>The Biscuit Eater</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.2.5.2" score="2" C-ORDER="157"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Shooting script by James Street, Lillian Hayworth &amp; Stuart Anthony.</unittitle>
+<unitdate> 1939</unitdate>
+</did>
+<scopecontent><p>Original story by James Street. </p></scopecontent>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.2.5.3" score="1" C-ORDER="159"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Musical score</unittitle>
+<unitdate> 1939</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.2.5.4" score="1" C-ORDER="160"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Manuscripts: letters and publicity notices</unittitle>
+<unitdate> 1939</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.2.5.5" score="1" C-ORDER="161"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Ephemera: clippings</unittitle>
+<unitdate> 1939</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.2.5.6" score="1" C-ORDER="162"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1939</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.5.3" score="1" C-ORDER="163">
+<did>
+<unittitle><unitdate>1939-1942</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.5.3.2" score="1" C-ORDER="164"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>The Real Glory</unittitle>
+<unitdate> 1939</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.3.3" score="1" C-ORDER="165"><did>
+<unittitle>Dead on Arrival</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.3.3.2" score="1" C-ORDER="166"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>[script]</unittitle>
+<unitdate> 1940</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.3.3" score="1" C-ORDER="167"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1940</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.3.4" score="1" C-ORDER="168"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Among the Living</unittitle>
+<unitdate> 1941</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.3.5" score="1" C-ORDER="169"><did>
+<unittitle>The Remarkable Andrew</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.3.5.2" score="1" C-ORDER="170"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Shooting script</unittitle>
+<unitdate> 1941</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.5.3" score="1" C-ORDER="171"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Manuscripts, letters</unittitle>
+<unitdate> 1941</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.5.4" score="1" C-ORDER="172"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1941</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.3.6" score="1" C-ORDER="173"><did>
+<unittitle>The Glass Key</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.3.6.2" score="2" C-ORDER="174"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Shooting script</unittitle>
+<unitdate> 1942</unitdate>
+</did>
+<scopecontent><p>Story by Dashiell Hammett </p></scopecontent>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.6.3" score="1" C-ORDER="176"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Ephemera, clippings</unittitle>
+<unitdate> 1942</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.3.7" score="1" C-ORDER="177"><did>
+<unittitle>The Negro Soldier: A Documentary Film</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.3.7.2" score="1" C-ORDER="178"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Story by Lillian Hellman</unittitle>
+<unitdate> 1944</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.7.3" score="1" C-ORDER="179"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Ephemera: publicity clippings</unittitle>
+<unitdate> 1944</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.7.4" score="1" C-ORDER="180"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Manuscripts: letters</unittitle>
+<unitdate> 1944</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.7.5" score="1" C-ORDER="181"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1944</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.3.8" score="1" C-ORDER="182"><did>
+<unittitle>Along Came Jones</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.3.8.2" score="1" C-ORDER="183"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Shooting script</unittitle>
+<unitdate> 1944</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.8.3" score="1" C-ORDER="184"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Ephemera, clippings</unittitle>
+<unitdate> 1944</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.8.4" score="1" C-ORDER="185"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1944</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.8.5" score="1" C-ORDER="186"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Manuscripts, letters</unittitle>
+<unitdate> 1944</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.3.9" score="1" C-ORDER="187"><did>
+<unittitle>Blue Skies</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.3.9.2" score="2" C-ORDER="188"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Musical score by Irving Berlin.</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+<scopecontent><p>Includes preliminary script and notes. </p></scopecontent>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.9.3" score="1" C-ORDER="190"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.9.4" score="1" C-ORDER="191"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Ephemera: clippings and publicity notices</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.9.5" score="1" C-ORDER="192"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Manuscripts: letters</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.3.10" score="1" C-ORDER="193"><did>
+<unittitle>Vendetta</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.3.10.2" score="1" C-ORDER="194"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Screenplay by W.R. Burnett</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.3.10.3" score="1" C-ORDER="195"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Manuscripts, letters and legal documents</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.5.4" score="1" C-ORDER="196">
+<did>
+<unittitle><unitdate>1946-1948</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.5.4.2" score="1" C-ORDER="197"><did>
+<unittitle>Smash Up</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.4.2.2" score="1" C-ORDER="198"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Script, musical score and songs</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.4.2.3" score="1" C-ORDER="199"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.4.2.4" score="1" C-ORDER="200"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Manuscripts,  letters</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.4.2.5" score="1" C-ORDER="201"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Ephemera, clippings</unittitle>
+<unitdate> 1946</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.4.3" score="1" C-ORDER="202"><did>
+<unittitle>The Two Worlds of Johnny Truro</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.4.3.2" score="1" C-ORDER="203"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Screenplay by Stephen Morehouse Avery</unittitle>
+<unitdate> 1947</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.4.4" score="1" C-ORDER="204"><did>
+<unittitle>Tulsa</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.4.4.2" score="1" C-ORDER="205"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Screenplay by Frank Nugent &amp; Curtis Kenyon</unittitle>
+<unitdate> 1948</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.4.4.3" score="1" C-ORDER="206"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1948</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.4.4.4" score="1" C-ORDER="207"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Manuscripts, letters, publicity notes, etc.</unittitle>
+<unitdate> 1948</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.4.4.5" score="1" C-ORDER="208"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Ephemera, clippings</unittitle>
+<unitdate> 1948</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.4.5" score="1" C-ORDER="209"><did>
+<unittitle>Tokyo Joe</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.4.5.2" score="1" C-ORDER="210"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Screenplay by Cyril Hume</unittitle>
+<unitdate> 1948</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.4.5.3" score="1" C-ORDER="211"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1948</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.4.5.4" score="1" C-ORDER="212"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Ephemera, clippings</unittitle>
+<unitdate> 1948</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.4.5.5" score="1" C-ORDER="213"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Manuscripts, letters</unittitle>
+<unitdate> 1948</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.5.5" score="1" C-ORDER="214">
+<did>
+<unittitle><unitdate>1949-1951</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.5.5.2" score="1" C-ORDER="215"><did>
+<unittitle>Chain Lightning</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.5.2.2" score="1" C-ORDER="216"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Story by J. Redmont Prior; Screenplay by Liam O'Brian &amp; Vincent Evans</unittitle>
+<unitdate> 1949</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.2.3" score="1" C-ORDER="217"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Ephemera, clippings, etc.</unittitle>
+<unitdate> 1949</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.2.4" score="1" C-ORDER="218"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1949</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.2.5" score="1" C-ORDER="219"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Manuscripts, letters</unittitle>
+<unitdate> 1949</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.5.3" score="1" C-ORDER="220"><did>
+<unittitle>Dallas</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.5.3.2" score="1" C-ORDER="221"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Manuscripts: letters</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.3.3" score="1" C-ORDER="222"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.3.4" score="1" C-ORDER="223"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Ephemera, clippings</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.5.4" score="1" C-ORDER="224"><did>
+<unittitle>Island of Desire</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.5.4.2" score="1" C-ORDER="225"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Story by Stuart Heisler; Screenplay by Stephanie Nordli.</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.4.3" score="1" C-ORDER="226"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Ephemera, clippings</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.4.4" score="1" C-ORDER="227"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.4.5" score="1" C-ORDER="228"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Manuscripts, letters, and legal documents</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.5.5" score="1" C-ORDER="229"><did>
+<unittitle>Journey into Light</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.5.5.2" score="1" C-ORDER="230"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Story by Anson Bond; Screenplgay by Stephanie Nordli &amp; Irving Shulman.</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.5.3" score="1" C-ORDER="231"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Ephemera, clippings.</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.5.5.4" score="1" C-ORDER="232"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Manuscripts, letters.</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.5.6" score="1" C-ORDER="233">
+<did>
+<unittitle><unitdate>1951-1953</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.5.6.2" score="1" C-ORDER="234"><did>
+<unittitle>Storm Warning</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.6.2.2" score="1" C-ORDER="235"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Screenplay by Daniel Fuchs &amp; Richard Brooks</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.6.2.3" score="1" C-ORDER="236"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.6.2.4" score="1" C-ORDER="237"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Ephemera: clippings</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.6.2.5" score="1" C-ORDER="238"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Manuscripts: letters and publicity notes</unittitle>
+<unitdate> 1951</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.6.3" score="1" C-ORDER="239"><did>
+<unittitle>Gift of the Gods</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.6.3.2" score="1" C-ORDER="240"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Screenplay by Stephanie Nordli</unittitle>
+<unitdate> 1952</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.6.4" score="1" C-ORDER="241"><did>
+<unittitle>The Star</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.6.4.2" score="1" C-ORDER="242"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Story and Screenplay by Dale Eunson &amp; Katherine Albert</unittitle>
+<unitdate> 1952</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.6.4.3" score="1" C-ORDER="243"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Ephemera: clippings</unittitle>
+<unitdate> 1952</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.6.4.4" score="1" C-ORDER="244"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Manuscripts: legal documents</unittitle>
+<unitdate> 1952</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.6.4.5" score="1" C-ORDER="245"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Manuscripts: letters</unittitle>
+<unitdate> 1952</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.6.5" score="1" C-ORDER="246"><did>
+<unittitle>Beachhead</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.6.5.2" score="1" C-ORDER="247"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Screenplay by Richard Alan Simmons</unittitle>
+<unitdate> 1953</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.6.5.3" score="1" C-ORDER="248"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1953</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.6.5.4" score="1" C-ORDER="249"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Ephemera: clippings</unittitle>
+<unitdate> 1953</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.6.5.5" score="1" C-ORDER="250"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Manuscripts: letters and publicity notices</unittitle>
+<unitdate> 1953</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.7.5.7" score="1" C-ORDER="251">
+<did>
+<unittitle><unitdate>1954-1961</unitdate></unittitle>
+</did>
+<c03 level="file" id="c03-1.2.7.5.7.2" score="1" C-ORDER="252"><did>
+<unittitle>This is My Love</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.7.2.2" score="1" C-ORDER="253"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Screenplay by Hugh Brooke &amp; Hagar Wilde</unittitle>
+<unitdate> 1954</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.7.2.3" score="1" C-ORDER="254"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Ephemera: clippings</unittitle>
+<unitdate> 1954</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.7.2.4" score="1" C-ORDER="255"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1954</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.7.2.5" score="1" C-ORDER="256"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Manuscripts: letters</unittitle>
+<unitdate> 1954</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.7.3" score="1" C-ORDER="257"><did>
+<unittitle>I Died a Thousand Times</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.7.3.2" score="1" C-ORDER="258"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Story and Screenplay by W.R. Burnett</unittitle>
+<unitdate> 1955</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.7.3.3" score="1" C-ORDER="259"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Ephemera: clippings</unittitle>
+<unitdate> 1955</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.7.3.4" score="1" C-ORDER="260"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1955</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.7.3.5" score="1" C-ORDER="261"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Manuscripts: letters</unittitle>
+<unitdate> 1955</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.7.4" score="1" C-ORDER="262"><did>
+<unittitle>The Burning Hills</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.7.4.2" score="1" C-ORDER="263"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Screenplay by Irving Wallace</unittitle>
+<unitdate> 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.7.4.3" score="1" C-ORDER="264"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Ephemera: clippings</unittitle>
+<unitdate> 1956</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.7.5" score="1" C-ORDER="265"><did>
+<unittitle>The Lone Ranger</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.7.5.2" score="1" C-ORDER="266"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Photographs</unittitle>
+<unitdate> 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.7.5.3" score="1" C-ORDER="267"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>Ephemera: clippings</unittitle>
+<unitdate> 1956</unitdate>
+</did>
+</c04>
+<c04 level="item" id="c04-1.2.7.5.7.5.4" score="1" C-ORDER="268"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>Manuscripts: letters</unittitle>
+<unitdate> 1956</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file" id="c03-1.2.7.5.7.6" score="1" C-ORDER="269"><did>
+<unittitle>Hitler</unittitle>
+</did>
+<c04 level="item" id="c04-1.2.7.5.7.6.2" score="1" C-ORDER="270"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>Screenplay by Sam Nueman</unittitle>
+<unitdate> 1961</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.2.7.6" score="1" C-ORDER="271">
+<did><unittitle>Miscellaneous Scripts</unittitle></did>
+<c02 level="file" id="c02-1.2.7.6.2" score="1" C-ORDER="272">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Ke Kali neui Au</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="file" id="c02-1.2.7.6.3" score="2" C-ORDER="273">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Blood on the Moon</unittitle>
+<unitdate>1964 (?)</unitdate>
+</did>
+<scopecontent>
+<p>Story by Seton Miller.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.2.7.6.4" score="2" C-ORDER="275">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Chief Joseph Story</unittitle>
+<unitdate>ca. 1963</unitdate>
+</did>
+<scopecontent>
+<p>Story by Robert B. Stacy.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.2.7.6.5" score="1" C-ORDER="277">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Pulitzer Prize Pictures</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="file" id="c02-1.2.7.6.6" score="1" C-ORDER="278">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Film script ideas</unittitle>
+<unitdate>ca. 1938-1957</unitdate>
+</did>
+</c02>
+<c02 level="file" id="c02-1.2.7.6.7" score="1" C-ORDER="279">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Unidentified script</unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c02>
+<c02 level="file" id="c02-1.2.7.6.8" score="2" C-ORDER="280">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Wild Hogs are Different</unittitle>
+<unitdate>undated</unitdate>
+</did>
+<scopecontent>
+<p>Story by Fred Gipson.</p>
+</scopecontent>
+</c02>
+<c02 level="file" id="c02-1.2.7.6.9" score="2" C-ORDER="282">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Rabbit Hound</unittitle>
+<unitdate>undated</unitdate>
+</did>
+<scopecontent>
+<p>Story by Fred Gipson.</p>
+</scopecontent>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.2.7.7" score="1" C-ORDER="284">
+<did><unittitle>Scrapbooks</unittitle></did>
+<c02 level="file" id="c02-1.2.7.7.2" score="2" C-ORDER="285">
+<did>
+<container type="box" label="Box">16</container>
+<unittitle>Two Scrapbooks</unittitle>
+<unitdate>v.d.</unitdate>
+</did>
+<scopecontent>
+<p>Re: various Heisler moving-pictures.</p>
+</scopecontent>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
