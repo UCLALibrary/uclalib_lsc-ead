@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CLU-SC" url="http://www.oac.cdlib.org/findaid/ark:/13030/c81r6r8c/" identifier="ark:/13030/c81r6r8c" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">lind1957.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Robin Ruth Linden papers, 
+                    <date calendar="gregorian" normal="1976/1984" era="ce">1976-1984</date>
+                    <num>LSC.1957</num>
+                </titleproper>
+                <titleproper type="filing">Linden (Robin R.) papers</titleproper>
+                <author>Finding aid prepared by Stacy Wood, 2011 and Jessica Tai, 2016; machine-readable finding aid created by Caroline Cubé.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>UCLA Library Special Collections</publisher>
+                <address>
+                    <addressline>Room A1713, Charles E. Young Research Library</addressline>
+                    <addressline>Box 951575</addressline>
+                    <addressline>Los Angeles, CA, 90095-1575</addressline>
+                    <addressline>(310) 825-4988</addressline>
+                    <addressline>spec-coll@library.ucla.edu</addressline>
+                </address>
+                <date>Online finding aid last updated 4 August 2017.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2017-08-04T15:11-0700</date>
+            </creation>
+            <langusage>Finding aid written in: 
+                <language>English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" id="archdesc-1.2">
+        <did id="did-1.2.1">
+            <unittitle>Robin Ruth Linden papers</unittitle>
+            <unitid repositorycode="US-CLU-SC" countrycode="US">LSC.1957</unitid>
+            <repository>
+                <corpname>UCLA Library Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.5 linear feet</extent>
+                <extent>(3 document boxes)</extent>
+            </physdesc>
+            <unitdate normal="1976/1984" type="inclusive">1976-1984</unitdate>
+            <abstract id="ref2" label="Abstract">Robin Ruth Linden is a writer and sociologist whose research has explored women's health, the politics of technomedicine, the Holocaust, reflexive ethnography and life histories. She received the Helen Hooven Santmyer Prize in women's studies and was the Associate Dean of the Graduate School for Holistic Studies at John F. Kennedy University in Orinda, CA. Her major works include Against Sadomasochism: A Radical Feminist Analysis (editor), Making Stories, Making Selves: Feminist Reflections on the Holocaust (author) and AIDS on the Ground: Service Learning in a Global Epidemic (coauthored with Carolyn Laub). This collection contains working notes, manuscripts and drafts from the collection edited by Robin Ruth Linden, Against Sadomasochism. Also included are materials from the establishing years of the Women's Studies program at University of California at Santa Cruz, financial and distribution information for Olivia Records, and other Women's distribution outlets. Notes, release forms and funding for the production of Feminism and Science - a video produced by Robin Ruth Linden are also included, as are documents relating to the Feminism and the Philosophy of Science Conference which served as the video's inspiration. Letters, reviews and information relating to the Mary Daly Boston College controversy as well as miscellaneous articles and essays relating to a broad range of feminist topics are also represented.</abstract>
+            <langmaterial id="ref120" label="Language of Materials">Materials are in English.</langmaterial>
+            <physloc id="ref3" label="Physical location">COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</physloc>
+            <origination label="Creator">
+                <persname rules="aacr" source="naf">Linden, Robin Ruth, 1956-</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref4">
+            <head>Conditions on Access</head>
+            <p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library Special Collections Reference Desk for paging information.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Conditions on Use and Reproduction</head>
+            <p>Property rights to the physical object belong to the UCLA Library Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+        </userestrict>
+        <phystech id="ref128">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
+        </phystech>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Robin Ruth Linden Papers (Collection 1957). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Provenance/Source of Acquisition</head>
+            <p>Provenance unknown.</p>
+            <p>This collection is part of an outreach and collection-building partnership between the 
+                <extref actuate="onrequest" show="new" href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref actuate="onrequest" show="new" href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+                <extref actuate="onrequest" show="new" href="http://www.library.ucla.edu/">UCLA Library</extref>.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Note</head>
+            <p>Processed by Stacy Wood, 2011</p>
+            <p>Description enhanced and further physical processing completed by Jessica Tai in 2016.</p>
+            <p>The 
+                <extref actuate="onrequest" show="new" href="http://digital2.library.ucla.edu/mazer/">June L. Mazer Lesbian Archive</extref> at UCLA is an outreach and collection-building partnership between the 
+                <extref actuate="onrequest" show="new" href="http://mazerlesbianarchives.org/">June L. Mazer Lesbian Archives</extref>, the 
+                <extref actuate="onrequest" show="new" href="http://www.csw.ucla.edu/">UCLA Center for the Study of Women (CSW)</extref> and the 
+                <extref actuate="onrequest" show="new" href="http://www.library.ucla.edu/">UCLA Library</extref>. These collections expand the pool of primary source materials available to researchers and to the community at large. This partnership was initiated by CSW and is funded by the National Endowment for the Humanities (NEH) to inventory, organize, preserve, and digitize more than eighty Mazer collections pertaining to lesbian and feminist activism and writings.</p>
+        </processinfo>
+        <odd id="ref124">
+            <head>UCLA Catalog Record ID</head>
+            <p>UCLA Catalog Record ID: 
+                <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=6961327">6961327</extref></p>
+        </odd>
+        <bioghist id="ref9">
+            <head>Biography</head>
+            <p>Robin Ruth Linden is a writer and sociologist whose research has explored women's health, the politics of technomedicine, the Holocaust, reflexive ethnography and life histories. She received the Helen Hooven Santmyer Prize in women's studies and was the Associate Dean of the Graduate School for Holistic Studies at John F. Kennedy University in Orinda, CA. She was born in 1956</p>
+            <p>Her major works include Against Sadomasochism: A Radical Feminist Analysis (editor), Making Stories, Making Selves: Feminist Reflections on the Holocaust (author) and AIDS on the Ground: Service Learning in a Global Epidemic (coauthored with Carolyn Laub).</p>
+            <p>Linden also founded the Holocaust Media Project with Lani Silver in 1983 which became the Bay Area Holocaust Oral History Project (BAHOHP) whose mission is to gather oral life histories of Holocaust survivors, liberators, rescuers and eyewitnesses. The Project is developing and maintaining a catalogue database for public use. Their goal is to provide students, scholars, resource centers around the world and the general public access to their archives in 1997.</p>
+            <p>Much of Linden's work and politics were at the center of the Feminist Sex Wars of the 1970s and 1980s. The Feminist Sex Wars and Lesbian Sex Wars, or simply the Sex Wars or Porn Wars, were the acrimonious debates within the feminist movement and lesbian community in the late 1970s through the 1980s around the issues of feminist strategies regarding sexuality, sexual representation, pornography, sadomasochism, the role of trans women in the lesbian community, and other sexual issues. The debate pitted anti-pornography feminism against sex-positive feminism, and the feminist movement ended up deeply divided as a result. The Feminist Sex Wars are sometimes viewed as part of the division that led to the end of the second-wave feminist era.</p>
+            <p>Linden was also involved in distribution for Olivia Records, a collective founded in 1973 to record and market women's music. Olivia Records was the center of some controversy due to the involvement of Sandy Stone, a transgendered Academic theorist, media theorist, author and performance artist. Stone was the sound engineer for Olivia Records and drew criticism from a transphobic portion of the lesbian community as documented in the collection.</p>
+            <p>Linden was also heavily involved with Women Against Violence in Pornography and Media (WAVPM), a radical feminist anti-pornography activist group based in San Francisco and an influential force in the larger feminist anti-pornography movement of the late 1970s and 1980s.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content</head>
+            <p>This collection contains working notes, manuscripts and drafts from the collection edited by Robin Ruth Linden, Against Sadomasochism. Also included are materials from the establishing years of the Women's Studies program at University of California at Santa Cruz, financial and distribution information for Olivia Records, and other Women's distribution outlets. Notes, release forms and funding for the production of Feminism and Science--a video produced by Robin Ruth Linden--are also included, as are documents relating to the Feminism and the Philosophy of Science Conference which served as the video's inspiration. Letters, reviews and information relating to the Mary Daly Boston College controversy as well as miscellaneous articles and essays relating to a broad range of feminist topics are also represented.</p>
+        </scopecontent>
+        <arrangement id="ref122">
+            <head>Organization and Arrangement</head>
+            <p>Materials arranged according to project.</p>
+        </arrangement>
+        <relatedmaterial id="ref11">
+            <head>Related Material</head>
+            <p>The Robin Ruth Linden Papers 1978-1983 are located at the Schlesinger Library, Radcliffe Institute. There are also materials related to Olivia Records between 1979-99 in the San Francisco LGBT Business Ephemera Collection 1960-2010 at the Gay, Lesbian, Bisexual, Transgender HIstorical Society.</p>
+        </relatedmaterial>
+        <controlaccess id="controlaccess-1.2.13">
+            <corpname source="local">June L. Mazer Lesbian Archive at UCLA.</corpname>
+            <corpname rules="aacr" source="naf">June L. Mazer Lesbian Archives.</corpname>
+            <persname rules="aacr" source="naf">Linden, Robin Ruth, 1956- -- Archives</persname>
+            <corpname rules="aacr" source="naf">University of California, Los Angeles. Library.</corpname>
+            <subject source="lcsh">Sadomasochism--Social aspects.</subject>
+            <occupation source="lcsh">Women sociologists--California--Archives.</occupation>
+        </controlaccess>
+        <dsc type="combined" id="dsc-1.2.14" score="0" C-ORDER="1" MAX-C-ORDER="65">
+            <c01 id="ref30" level="file" score="2" C-ORDER="1">
+                <did>
+                    <unittitle>Against Sadomasochism Contributor's Notes and Biographies</unittitle>
+                    <container id="cid7063462" type="Box">1</container>
+                    <container parent="cid7063462" type="Folder">1</container>
+                    <unitdate>1980</unitdate>
+                    <physdesc id="ref31" label="General Physical Description note">handwritten notes, typewritten pages</physdesc>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Contents note</head>
+                    <p>Submitted short biographies for the author notes included in the collection Against Sadomasochism.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref33" level="file" score="2" C-ORDER="3">
+                <did>
+                    <unittitle>Against Sadomasochism Correspondence with Authors</unittitle>
+                    <container id="cid7063461" type="Box">1</container>
+                    <container parent="cid7063461" type="Folder">2</container>
+                    <unitdate>1980-1982</unitdate>
+                    <physdesc id="ref34" label="General Physical Description note">typewritten letters</physdesc>
+                </did>
+                <scopecontent id="ref35">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence with contributing authors about pay rates, contract, deadlines, permissions and edits.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref39" level="file" score="2" C-ORDER="5">
+                <did>
+                    <unittitle>Against Sadomasochism Correspondence with Publishers</unittitle>
+                    <container id="cid7063459" type="Box">1</container>
+                    <container parent="cid7063459" type="Folder">3</container>
+                    <unitdate>1980-1982</unitdate>
+                    <physdesc id="ref40" label="General Physical Description note">tri fold flyers, brochures, letters, onion skin</physdesc>
+                </did>
+                <scopecontent id="ref41">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence with publishers with regards to edits, publishing, contracts and history of the collection Against Sadomasochism.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref12" level="file" score="2" C-ORDER="7">
+                <did>
+                    <unittitle>Against Sadomasochism Introduction Drafts</unittitle>
+                    <container id="cid7063468" type="Box">1</container>
+                    <container parent="cid7063468" type="Folder">4</container>
+                    <unitdate>1981</unitdate>
+                    <physdesc id="ref13" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>Drafts and notes from Against Sadomasochism.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref36" level="file" score="2" C-ORDER="9">
+                <did>
+                    <unittitle>Against Sadomasochism Publicity Materials</unittitle>
+                    <container id="cid7063460" type="Box">1</container>
+                    <container parent="cid7063460" type="Folder">5</container>
+                    <unitdate>1981</unitdate>
+                    <physdesc id="ref37" label="General Physical Description note">typewritten pages, onion skin</physdesc>
+                </did>
+                <scopecontent id="ref38">
+                    <head>Scope and Contents note</head>
+                    <p>Descriptions of the collection Against Sadomasochism for publishers, distributors and stores.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref15" level="file" score="2" C-ORDER="11">
+                <did>
+                    <unittitle>Against Sadomasochism Manuscript</unittitle>
+                    <container id="cid7063467" type="Box">1</container>
+                    <container parent="cid7063467" type="Folder">6</container>
+                    <container id="cid10798001" type="Box">1</container>
+                    <container parent="cid10798001" type="Folder">7</container>
+                    <unitdate>1981</unitdate>
+                    <physdesc id="ref16" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Contents note</head>
+                    <p>Completed manuscript for Against Sadomasochism.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref27" level="file" score="2" C-ORDER="13">
+                <did>
+                    <unittitle>Against Sadomasochism Original Gallies</unittitle>
+                    <container id="cid7063463" type="Box">1</container>
+                    <container parent="cid7063463" type="Folder">8</container>
+                    <unitdate>1982</unitdate>
+                    <physdesc id="ref28" label="General Physical Description note">folded, taped, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref29">
+                    <head>Scope and Contents note</head>
+                    <p>Original gallies and mock ups for the Against Sadomasochism collection.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref42" level="file" score="2" C-ORDER="15">
+                <did>
+                    <unittitle>Against Sadomasochism Reviews</unittitle>
+                    <container id="cid7063458" type="Box">1</container>
+                    <container parent="cid7063458" type="Folder">9</container>
+                    <unitdate>1982-1983</unitdate>
+                    <physdesc id="ref43" label="General Physical Description note">photocopies of clippings, clippings, typewritten paper, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref44">
+                    <head>Scope and Contents note</head>
+                    <p>Reviews and profiles from various publications highlighting and discussing the release of Against Sadomasochism. Many are lengthier discussions concerning BDSM and pornography and some are short announcement blurbs.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref48" level="file" score="2" C-ORDER="17">
+                <did>
+                    <unittitle>University of California at Santa Cruz Women's Studies Collective Minutes</unittitle>
+                    <container id="cid7063456" type="Box">2</container>
+                    <container parent="cid7063456" type="Folder">1</container>
+                    <unitdate>1976</unitdate>
+                    <physdesc id="ref49" label="General Physical Description note">photocopies, carbon copies, printed and typewritten paper</physdesc>
+                </did>
+                <scopecontent id="ref50">
+                    <head>Scope and Contents note</head>
+                    <p>Minutes, agendas and contact information from the Women's Studies Collective at UCSC.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref51" level="file" score="2" C-ORDER="19">
+                <did>
+                    <unittitle>University of California at Santa Cruz Women's Studies Department Course Material</unittitle>
+                    <container id="cid7063455" type="Box">2</container>
+                    <container parent="cid7063455" type="Folder">2</container>
+                    <container id="cid10798004" type="Box">2</container>
+                    <container parent="cid10798004" type="Folder">3</container>
+                    <unitdate>circa 1976-1982</unitdate>
+                    <physdesc id="ref52" label="General Physical Description note">printed paper, photocopies</physdesc>
+                </did>
+                <scopecontent id="ref53">
+                    <head>Scope and Contents note</head>
+                    <p>Course listings and expanded descriptions as well as agendas and mission statements for the burgeoning Women's Studies department at UCSC.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref66" level="file" score="2" C-ORDER="21">
+                <did>
+                    <unittitle>Women's Music Distributors Materials and Information</unittitle>
+                    <container id="cid7063450" type="Box">2</container>
+                    <container parent="cid7063450" type="Folder">4</container>
+                    <unitdate>1976</unitdate>
+                    <physdesc id="ref67" label="General Physical Description note">photocopies, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref68">
+                    <head>Scope and Contents note</head>
+                    <p>Brochures, promotional materials and distribution details for distributors focused on women's publications and releases.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref63" level="file" score="2" C-ORDER="23">
+                <did>
+                    <unittitle>Olivia Records Accounting</unittitle>
+                    <container id="cid7063451" type="Box">2</container>
+                    <container parent="cid7063451" type="Folder">6</container>
+                    <container id="cid10798003" type="Box">2</container>
+                    <container parent="cid10798003" type="Folder">5</container>
+                    <unitdate>1976-1978</unitdate>
+                    <physdesc id="ref64" label="General Physical Description note">receipts, printed paper, carbon copies</physdesc>
+                </did>
+                <scopecontent id="ref65">
+                    <head>Scope and Contents note</head>
+                    <p>Accounts payable and receivable.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref60" level="file" score="2" C-ORDER="25">
+                <did>
+                    <unittitle>Olivia Records Correspondence</unittitle>
+                    <container id="cid7063452" type="Box">2</container>
+                    <container parent="cid7063452" type="Folder">7</container>
+                    <unitdate>1976-1978</unitdate>
+                    <physdesc id="ref61" label="General Physical Description note">photocopies, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref62">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence regarding the stocking, release, pricing structures and issues around Olivia records products and efforts.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref57" level="file" score="2" C-ORDER="27">
+                <did>
+                    <unittitle>Olivia Records Distribution Information</unittitle>
+                    <container id="cid7063453" type="Box">2</container>
+                    <container parent="cid7063453" type="Folder">8</container>
+                    <unitdate>circa 1976-1978</unitdate>
+                    <physdesc id="ref58" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref59">
+                    <head>Scope and Contents note</head>
+                    <p>Information about distribution practices for the Olivia collective, updates about difficulties and funding hiccups as well as disputes and challenges.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref78" level="file" score="2" C-ORDER="29">
+                <did>
+                    <unittitle>Feminism and the Philosophy of Science Conference Materials</unittitle>
+                    <container id="cid7063446" type="Box">2</container>
+                    <container parent="cid7063446" type="Folder">9</container>
+                    <unitdate>1979</unitdate>
+                    <physdesc id="ref79" label="General Physical Description note">handwritten notes, photocopies, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref80">
+                    <head>Scope and Contents note</head>
+                    <p>Notes, descriptions, schedules and programs from the conference.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref75" level="file" score="2" C-ORDER="31">
+                <did>
+                    <unittitle>Feminism and the Philosophy of Science Release Forms</unittitle>
+                    <container id="cid7063447" type="Box">2</container>
+                    <container parent="cid7063447" type="Folder">10</container>
+                    <unitdate>January 6, 1979</unitdate>
+                    <physdesc id="ref76" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref77">
+                    <head>Scope and Contents note</head>
+                    <p>Release forms from attendees to the Feminism and the Philosophy of Science for inclusion in film project.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref84" level="file" score="2" C-ORDER="33">
+                <did>
+                    <unittitle>Feminism and Science Video Fundraising and Financial</unittitle>
+                    <container id="cid7063444" type="Box">2</container>
+                    <container parent="cid7063444" type="Folder">11</container>
+                    <unitdate>1978-1980</unitdate>
+                    <physdesc id="ref85" label="General Physical Description note">handwritten notes, photocopies, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref86">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence with supporters and potential funding sources.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref125" level="file" score="3" C-ORDER="35">
+                <did>
+                    <unittitle>Feminism and Science AAAS Rough Cut Preview Reactions</unittitle>
+                    <container id="cid10798002" type="Box">2</container>
+                    <container parent="cid10798002" type="Folder">12</container>
+                    <unitdate>October 29, 1980</unitdate>
+                </did>
+                <scopecontent id="ref127">
+                    <head>Scope and Content</head>
+                    <p>Cassette featuring American Association for the Advancement of Science rough cut preview reactions. Labelled "Feminism and Science" tape.</p>
+                </scopecontent>
+                <phystech id="ref126">
+                    <head>Physical Characteristics and Technical Requirements</head>
+                    <p>COLLECTION CONTAINS AUDIOVISUAL MATERIALS: Audiovisual materials in this collection will require assessment and possible digitization for safe access. To review these audiovisual materials, you must notify the UCLA Library Special Collections Reference Desk in advance of your visit.</p>
+                </phystech>
+            </c01>
+            <c01 id="ref81" level="file" score="2" C-ORDER="38">
+                <did>
+                    <unittitle>Feminism and Science Videotape Correspondence and Information</unittitle>
+                    <container id="cid7063445" type="Box">2</container>
+                    <container parent="cid7063445" type="Folder">13</container>
+                    <unitdate>1981-1983</unitdate>
+                    <physdesc id="ref82" label="General Physical Description note">envelopes, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref83">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence about production, funding and subject matter of the Feminism and Science Videotape from the Feminism and Philosophy of Science conference.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref129" level="file" score="1" C-ORDER="40">
+                <did>
+                    <unittitle>Poetry</unittitle>
+                    <container id="cid10798005" type="Box">3</container>
+                    <container parent="cid10798005" type="Folder">1</container>
+                    <unitdate>circa 1970s</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref90" level="file" score="2" C-ORDER="41">
+                <did>
+                    <unittitle>Article Reprints and Clippings</unittitle>
+                    <container id="cid7063442" type="Box">3</container>
+                    <container parent="cid7063442" type="Folder">2</container>
+                    <container id="cid10798007" type="Box">3</container>
+                    <container parent="cid10798007" type="Folder">3</container>
+                    <unitdate>circa 1975-1984</unitdate>
+                    <physdesc id="ref91" label="General Physical Description note">photocopies, original clippings, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref92">
+                    <head>Scope and Contents note</head>
+                    <p>Reprinted articles about feminist topics and community.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref69" level="file" score="2" C-ORDER="43">
+                <did>
+                    <unittitle>Conference on Violence Against Women Program</unittitle>
+                    <container id="cid7063449" type="Box">2</container>
+                    <container parent="cid7063449" type="Folder">4</container>
+                    <unitdate>December 4-5, 1976</unitdate>
+                    <physdesc id="ref70" label="General Physical Description note">printed, bound paper</physdesc>
+                </did>
+                <scopecontent id="ref71">
+                    <head>Scope and Contents note</head>
+                    <p>Program guide for the Conference on Violence Against Women Program</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref72" level="file" score="2" C-ORDER="45">
+                <did>
+                    <unittitle>Women Against Violence in Pornography and Media Conference (WAVPM) Conference Materials</unittitle>
+                    <container id="cid7063448" type="Box">2</container>
+                    <container parent="cid7063448" type="Folder">5</container>
+                    <unitdate>November 17, 1978</unitdate>
+                    <physdesc id="ref73" label="General Physical Description note">photocopies, printed paper, handwritten notes</physdesc>
+                </did>
+                <scopecontent id="ref74">
+                    <head>Scope and Contents note</head>
+                    <p>Program guide, personal notes and printed materials relating to conference materials.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref108" level="file" score="2" C-ORDER="47">
+                <did>
+                    <unittitle>Funding Feminist Materials</unittitle>
+                    <container id="cid7063436" type="Box">3</container>
+                    <container parent="cid7063436" type="Folder">6</container>
+                    <unitdate>circa 1978-1979</unitdate>
+                    <physdesc id="ref109" label="General Physical Description note">newspaper clippings, photocopies</physdesc>
+                </did>
+                <scopecontent id="ref110">
+                    <head>Scope and Contents note</head>
+                    <p>Materials related to Funding Feminist organization highlighting their mission statement, agenda and policies.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref87" level="file" score="2" C-ORDER="49">
+                <did>
+                    <unittitle>Grant Applications</unittitle>
+                    <container id="cid7063443" type="Box">3</container>
+                    <container parent="cid7063443" type="Folder">7</container>
+                    <unitdate>1978-1980</unitdate>
+                    <physdesc id="ref88" label="General Physical Description note">completed form applications</physdesc>
+                </did>
+                <scopecontent id="ref89">
+                    <head>Scope and Contents note</head>
+                    <p>NEH and Youthgrant applications, completed.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref132" level="file" score="2" C-ORDER="51">
+                <did>
+                    <unittitle>Notes</unittitle>
+                    <container id="cid10798008" type="Box">3</container>
+                    <container parent="cid10798008" type="Folder">8</container>
+                    <unitdate>1978-1982</unitdate>
+                </did>
+                <scopecontent id="ref133">
+                    <head>Scope and Content</head>
+                    <p>Includes an interview with Audre Lorde, correspondence with Jan Zimmerman, and other notes.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref96" level="file" score="2" C-ORDER="53">
+                <did>
+                    <unittitle>Gyn/Ecology Reviews</unittitle>
+                    <container id="cid7063440" type="Box">3</container>
+                    <container parent="cid7063440" type="Folder">9</container>
+                    <unitdate>1979</unitdate>
+                    <physdesc id="ref97" label="General Physical Description note">photocopies, newspaper clippings</physdesc>
+                </did>
+                <scopecontent id="ref98">
+                    <head>Scope and Contents note</head>
+                    <p>Reviews about Mary Daly's book Gyn/Ecology.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref93" level="file" score="2" C-ORDER="55">
+                <did>
+                    <unittitle>Mary Daly Press Clips, Letters and Lists</unittitle>
+                    <container id="cid7063441" type="Box">3</container>
+                    <container parent="cid7063441" type="Folder">10</container>
+                    <unitdate>1979</unitdate>
+                    <physdesc id="ref94" label="General Physical Description note">clippings, printed paper, correspondence</physdesc>
+                </did>
+                <scopecontent id="ref95">
+                    <head>Scope and Contents note</head>
+                    <p>Materials relating to the challenging and acadmemic difficulties of Mary Daly at Boston College. Included is literature from support groups and press releases.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref111" level="file" score="2" C-ORDER="57">
+                <did>
+                    <unittitle>Voices and Visions: A Feminist Media Conference for Bay Area Women</unittitle>
+                    <container id="cid7063435" type="Box">3</container>
+                    <container parent="cid7063435" type="Folder">11</container>
+                    <unitdate>February 23-25, 1979</unitdate>
+                    <physdesc id="ref112" label="General Physical Description note">flyers, handwritten notes, printed paper</physdesc>
+                </did>
+                <scopecontent id="ref113">
+                    <head>Scope and Contents note</head>
+                    <p>Flyers, notes and program materials for Voices and Visions conference.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref130" level="file" score="2" C-ORDER="59">
+                <did>
+                    <unittitle>Ephemera</unittitle>
+                    <container id="cid10798006" type="Box">3</container>
+                    <container parent="cid10798006" type="Folder">12</container>
+                    <unitdate>circa 1980s</unitdate>
+                </did>
+                <scopecontent id="ref131">
+                    <head>Scope and Content</head>
+                    <p>Fliers, ephemera, and a photographic portrait.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref105" level="file" score="2" C-ORDER="61">
+                <did>
+                    <unittitle>Women in Broadcasting</unittitle>
+                    <container id="cid7063437" type="Box">3</container>
+                    <container parent="cid7063437" type="Folder">13</container>
+                    <unitdate>1981</unitdate>
+                    <physdesc id="ref106" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref107">
+                    <head>Scope and Contents note</head>
+                    <p>Materials advertising the services and membership opportunities for the Women in Broadcasting Organization.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref102" level="file" score="2" C-ORDER="63">
+                <did>
+                    <unittitle>Jewish Feminist Conference Materials</unittitle>
+                    <container id="cid7063438" type="Box">3</container>
+                    <container parent="cid7063438" type="Folder">14</container>
+                    <unitdate>1980-1983</unitdate>
+                    <physdesc id="ref103" label="General Physical Description note">printed paper, photocopies</physdesc>
+                </did>
+                <scopecontent id="ref104">
+                    <head>Scope and Contents note</head>
+                    <p>Flyers soliciting support, participation and feedback about and for the Jewish Feminist Conference.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref99" level="file" score="2" C-ORDER="65">
+                <did>
+                    <unittitle>The Social Construction of Gender: A Methodological Analysis of the Gender Identity Paradigm</unittitle>
+                    <container id="cid7063439" type="Box">3</container>
+                    <container parent="cid7063439" type="Folder">15</container>
+                    <unitdate>June 1981</unitdate>
+                    <physdesc id="ref100" label="General Physical Description note">printed paper</physdesc>
+                </did>
+                <scopecontent id="ref101">
+                    <head>Scope and Contents note</head>
+                    <p>Paper submitted by Robin Ruth Linden for the sociology department of UCSC for completion of the major.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
