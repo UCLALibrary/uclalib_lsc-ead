@@ -1,191 +1,55 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
- 
- 
- 
- 
- 
- <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt4779p5cg" mainagencycode="CLU-SC" publicid="PUBLIC &quot;-//University of California, Los&#10;Angeles::Library::Dept. of Special Collections//TEXT&#10;(US::CLU-SC::1027::F.H. Reinsch Papers)//EN&quot; &quot;rein1027.sgm&quot;" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">rein1027.xml</eadid><filedesc>
- <titlestmt>
- <titleproper>Finding Aid for the F.H. Reinsch Papers, 1900-1970</titleproper><titleproper type="filing">Reinsch (F.H.) Papers</titleproper>
- <author>Processed by Saundra Taylor; machine-readable finding aid created by Caroline Cubé</author>
- </titlestmt>
- <publicationstmt>
- <publisher>UCLA Library, Department of Special Collections</publisher>
- <address>
- <addressline>Manuscripts Division</addressline>
- <addressline>Room A1713, Charles E. Young Research Library</addressline>
- <addressline>Box 951575</addressline>
- <addressline>Los Angeles, CA 90095-1575</addressline>
- <addressline>Email: spec-coll@library.ucla.edu</addressline>
- <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
- </address>
- <date calendar="gregorian" era="ce">© 2003</date>
- <p>The Regents of the University of California. All rights reserved.</p>
- </publicationstmt>
- </filedesc><profiledesc>
- <creation>Text rekeyed by Caroline Cubé from in-house card file, <date calendar="gregorian" era="ce">August 2003</date>. Frontmatter gathered from MARC record. Encoding and revision supplied by Caroline Cubé.</creation>
- <langusage>Description is in <language>English.</language></langusage>
- </profiledesc><revisiondesc>
- <change>
- <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
- <item>PUBLIC "-//University of California, Los
-Angeles::Library::Dept. of Special Collections//TEXT
-(US::CLU-SC::1027::F.H. Reinsch Papers)//EN" "rein1027.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
- </change>
- </revisiondesc></eadheader>
- <frontmatter>
- <titlepage>
- <titleproper>Finding Aid for the F.H. Reinsch Papers, 1900-1970</titleproper>
- <num>Collection number: 1027</num>
- <publisher>UCLA Library, Department of Special Collections
-<lb/>Manuscripts Division
-<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
- <list type="simple">
- <head>Contact Information</head>
- <item>Manuscripts Division</item>
- <item>UCLA Library, Department of Special Collections</item>
- <item>Room A1713, Charles E. Young Research Library</item>
- <item>Box 951575</item>
- <item>Los Angeles, CA 90095-1575</item>
- <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
-Time)</item>
- <item>Email: spec-coll@library.ucla.edu</item>
- <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
- </list>
- <list type="deflist">
- <defitem>
- <label>Processed by:</label>
- <item>Saundra Taylor, February 1971</item>
- </defitem>
- <defitem>
- <label>Encoded by:</label>
- <item>Caroline Cubé</item>
- </defitem>
- <defitem>
- <label>Online finding aid edited by:</label>
- <item>Josh Fiala, September 2003</item>
- </defitem>
- </list>
- <p>© 2003 The Regents of the University of California. All rights reserved.</p>
- </titlepage>
- </frontmatter>
- <archdesc level="collection" id="archdesc-1.3">
- <did id="did-1.8.1">
- <head>Descriptive Summary</head>
- <unittitle label="Title">F.H. Reinsch Papers, </unittitle>
-<unitdate calendar="gregorian" era="ce" type="inclusive">1900-1970</unitdate>
- <unitid label="Collection number" countrycode="US" repositorycode="CLUSC">1027</unitid>
- <origination label="Creator">
- <persname source="aacr2" role="subject">Reinsch, F.H. (Frank Herman), b. 1885</persname>
- </origination>
- <physdesc label="Extent">
- <extent>10 boxes (5.0 linear ft.)</extent>
- </physdesc>
- <repository label="Repository">
- <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
- <address>
- <addressline>Los Angeles, California 90095-1575</addressline>
- </address>
- </repository>
- <abstract label="Abstract">Frank Herman Reinsch (1885- ) was a professor of German and served as president of the Philological Association of the Pacific Coast (1946-47). His publications include <title linktype="simple">Goethe's political interests prior to 1787</title> (1923) and <title linktype="simple">The correspondence of Johann Caspar Goethe</title> (editor, 1946). The collection consists of correspondence files, manuscripts of articles on Goethe by Professor Reinsch, student papers from his German classes, class records, personal memorabilia, pamphlets, periodicals, microform, photostats, and a tape recording on 2 reels of a radio broadcast of a foreign languages panel.</abstract>
- <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
- <langmaterial label="Language">
- <language langcode="eng">English.</language>
- </langmaterial>
- </did>
- <descgrp type="admininfo" id="descgrp-1.8.2">
- <head>Administrative Information</head>
- <userestrict>
- <head>Restrictions on Use and Reproduction</head>
- <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
-copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
- </userestrict>
- <accessrestrict>
- <head>Restrictions on Access</head>
- <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
- <p>PARTIALLY PROCESSED COLLECTION UNAVAILABLE FOR USE: Inquiries regarding these materials should be directed, in writing, to the Manuscripts Librarian, UCLA Department of Special Collections.</p>
- </accessrestrict>
- <altformavail>
- <head>Additional Physical Form Available</head>
- <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
- <p>
- <list type="simple">
- <item>Public Services Division</item>
- <item>UCLA Library, Department of Special Collections</item>
- <item>Room A1713, Charles E. Young Research Library</item>
- <item>Box 951575</item>
- <item>Los Angeles, CA 90095-1575</item>
- <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
-Time)</item>
- <item>Email: spec-coll@library.ucla.edu</item>
- </list>
- </p>
- </altformavail>
- <acqinfo>
- <head>Provenance/Source of Acquisition</head>
-<p>
-<list type="simple">
-<item>Gift of Dr. Reinsch, July 1969.</item>
- <item>Gift of Mrs. Letta C. Reinsch, 1970.</item>
- </list>
- </p>
- </acqinfo>
- <prefercite>
- <head>Preferred Citation</head>
- <p>[Identification of item], F.H. Reinsch Papers (Collection 1027). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
- </prefercite>
-<odd>
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4233655">4233655</extref></p>
-</odd>
- </descgrp>
- <bioghist id="bioghist-1.8.3">
- <head>Biography</head>
- <p>Frank Herman Reinsch was born in 1885; he became a professor of German and served as president of the Philological Association of the Pacific Coast from 1946-47; publications include <title linktype="simple">Goethe's political interests prior to 1787</title> (1923) and <title linktype="simple">The correspondence of Johann Caspar Goethe</title> (editor, 1946). </p>
- </bioghist>
- <scopecontent id="scopecontent-1.8.4">
- <head>Scope and Content</head>
- <p>Collection consists of correspondence files, manuscripts of articles on Goethe by Professor Reinsch, student papers from his German classes, class records, personal memorabilia, pamphlets, periodicals, microform, photostats, and a tape recording on 2 reels of a KPFA (Berkeley, California) radio broadcast of a foreign languages panel. </p>
- </scopecontent>
- <controlaccess id="controlaccess-1.8.5">
- <head>Indexing Terms</head>
- <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
- <persname source="aacr2" encodinganalog="600" role="subject">Reinsch, F.H. (Frank Herman), b.1885--Archives.</persname>
- <corpname source="lcnaf" encodinganalog="610" role="subject">University of California, Los Angeles. Dept. of Germanic Languages--Faculty--Archival resources.</corpname>
- <occupation source="lcsh" encodinganalog="650">German teachers--California--Los Angeles--Archival Resources. </occupation>
- </controlaccess>
- <dsc type="in-depth" id="dsc-1.8.6" score="2" C-ORDER="1" MAX-C-ORDER="5">
- <head>Container List</head>
- <note>
- <p>
- <emph render="italic">Description derived from in-house card files.</emph>
- </p>
- </note>
- <c01 level="collection" id="c01-1.8.6.3" score="2" C-ORDER="3">
- <did>
- <origination> Reinsch, Frank Herman, 1885- </origination>
- <unittitle>Papers. v.p. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
- <physdesc> (5 boxes)</physdesc>
- </did>
- <scopecontent>
- <p>Collection includes correspondence files, manuscripts of articles on Goethe by Professor Reinsch, studen papers submitted in Professor Reinsch's German classes, class records, and personal memorabilia.</p>
- <p>Includes former Collection 1065 [below].</p>
- </scopecontent>
- </c01>
- <c01 level="collection" id="c01-1.8.6.4" score="2" C-ORDER="5">
- <did>
- <note>
- <p>[Additions, 1970]</p>
- </note>
- <origination> Reinsch, Frank Herman, 1885- , collector </origination>
- <unittitle>Collection of Research Materials Mostly Pertaining to Johann Wolfgang von Goethe. v.p. <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
- <physdesc> (5 boxes)</physdesc>
- </did>
- <scopecontent>
- <p>The collection consists of pamphlets, periodicals, microfilm, and photostats. Included is a tape recording on 2 reels of a KPFA broadcast (Berkeley, California) of a Foreign Languages Panel, date unknown.</p>
- </scopecontent>
- </c01>
- </dsc>
- </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unprocessed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/kt4779p5cg/">rein1027.xml</eadid><filedesc><titlestmt><titleproper type="filing">Reinsch (F.H.) papers</titleproper><titleproper>Finding Aid for the F.H. Reinsch Papers <num>LSC.1027</num></titleproper><author>Finding aid prepared by Saundra Taylor, February 1971; front matter and EAD XML code edited by Caroline Cubé, 2026.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2026 November 20.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-11-20 14:48:07 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>F.H. Reinsch papers</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="naf">Reinsch, F.H. (Frank Herman)</persname>
+    </origination>
+    <unitid>LSC.1027</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">5.0 linear feet</extent>
+      <extent altrender="carrier">(10 boxes)</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1900/1970" type="inclusive">1900-1970</unitdate>
+    <abstract id="aspace_e5f67a0e6a03cd8d973440c27dde765d" label="Abstract">Frank Herman Reinsch (1885- ) was a professor of German and served as president of the Philological Association of the Pacific Coast (1946-47). His publications include <title render="italic">Goethe's political interests prior to 1787</title> (1923) and <title render="italic">The correspondence of Johann Caspar Goethe</title> (editor, 1946). The collection consists of correspondence files, manuscripts of articles on Goethe by Professor Reinsch, student papers from his German classes, class records, personal memorabilia, pamphlets, periodicals, microform, photostats, and a tape recording on 2 reels of a radio broadcast of a foreign languages panel.</abstract>
+    <physloc id="aspace_c5ba92fa9706967820b083faba9d2087" label="Physical location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_efb33c6ab19ffbccba9482665cc896e1">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_61deddab527dc3080fcd7efb3c0d850d">
+    <head>Restrictions on Access</head>
+<p>UNPROCESSED COLLECTION: Material is unavailable for access. Please see <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/access-unprocessed-collections-policy">LSC's Access to Unprocessed Collections Policy</extref> for more information about levels of discovery and access of special collections materials and to register interest in unprocessed collections.</p>  </accessrestrict>
+  <phystech id="aspace_4451543453ef397502583fa076365c3d">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>COLLECTION CONTAINS UNPROCESSED AUDIO MATERIALS: Audio materials are not currently available for access and will require further processing and assessment. Please see <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/access-unprocessed-collections-policy">LSC's Access to Unprocessed Collections Policy</extref> for more information about levels of discovery and access of special collections materials and to register interest in unprocessed collections.</p>  </phystech>
+  <userestrict id="aspace_7729d1bda42bd328658845e36eab1251">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_033c1dd6a693ae2da7f83f7bb9a6b2d5">
+    <head>Provenance/Source of Acquisition</head>
+<p><list type="simple"><item>Gift of Dr. Reinsch, July 1969.</item><item>Gift of Mrs. Letta C. Reinsch, 1970.</item></list></p>  </acqinfo>
+  <odd id="aspace_a070615d7cd2f2caec819d3743ca847f">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/tk6osu/alma9942336553606533">9942336553606533</extref></p>  </odd>
+  <prefercite id="aspace_eda77fa6368f08c689dc267e442b90c7">
+    <head>Preferred Citation</head>
+<p>[Identification of item], F.H. Reinsch Papers (Collection 1027). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_84e9652f71872dad9f0bf5be084b3036">
+    <head>Processing Information</head>
+<p>Processed by Saundra Taylor, February 1971.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's Library Collections and Archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_facb86a3ae0b572f3165ad5eabdf2e69">
+    <head>Biography</head>
+<p>Frank Herman Reinsch was born in 1885; he became a professor of German and served as president of the Philological Association of the Pacific Coast from 1946-47; publications include <title render="italic">Goethe's political interests prior to 1787</title> (1923) and <title render="italic">The correspondence of Johann Caspar Goethe</title> (editor, 1946).</p>  </bioghist>
+  <scopecontent id="aspace_7cf2b3e1c90cf7f15fa37a0aa4581ffa">
+    <head>Scope and Content</head>
+<p>Collection consists of correspondence files, manuscripts of articles on Goethe by Professor Reinsch, student papers from his German classes, class records, personal memorabilia, pamphlets, periodicals, microform, photostats, and a tape recording on 2 reels of a KPFA (Berkeley, California) radio broadcast of a foreign languages panel.</p>  </scopecontent>
+  <controlaccess>
+    <occupation source="lcsh">German teachers -- California -- Los Angeles -- Archives.</occupation>
+    <corpname rules="rda" source="naf">University of California, Los Angeles. Department of Germanic Languages--Faculty -- Archives</corpname>
+    <persname rules="rda" source="naf">Reinsch, F.H. (Frank Herman) -- Archives</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref12_gh0" level="series"><did><unittitle>Papers. v.p.</unittitle><unitdate datechar="creation">v.d.</unitdate><physdesc id="aspace_dcd51c00a8a480cb267454e7e9214c5a" label="General Physical Description note">(5 boxes)</physdesc></did><processinfo id="aspace_cac2df41c647ceb1d7a3b7ccd8b6f49b"><head>Processing Information</head><p>Description derived from in-house card files.</p></processinfo><scopecontent id="aspace_e38f5be7a30fb022544d564a2de544d8"><head>Scope and Content</head><p>Collection includes correspondence files, manuscripts of articles on Goethe by Professor Reinsch, studen papers submitted in Professor Reinsch's German classes, class records, and personal memorabilia.</p><p>Includes former Collection 1065 [below].</p></scopecontent></c01><c01 id="aspace_ref15_gm2" level="file"><did><unittitle>Collection of Research Materials Mostly Pertaining to Johann Wolfgang von Goethe. v.p.</unittitle><unitdate datechar="creation">v.d.</unitdate><physdesc id="aspace_5f91d3492709475344c81cb3cd2c5fc7" label="General Physical Description note">(5 boxes)</physdesc></did><odd id="aspace_16a175a73d9811efc541e2f87a2e724e"><head>General note</head><p>[Additions, 1970]</p></odd><scopecontent id="aspace_07934133b56987f3f5bfdb64d62ee35e"><head>Scope and Contents note</head><p>The collection consists of pamphlets, periodicals, microfilm, and photostats. Included is a tape recording on 2 reels of a KPFA broadcast (Berkeley, California) of a Foreign Languages Panel, date unknown.</p></scopecontent></c01></dsc>
+</archdesc>
 </ead>
