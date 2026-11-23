@@ -1,0 +1,2743 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/kt1779q1jn" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::1353::Jake Zeitlin Correspondence and Papers Related to D.H. Lawrence Manuscripts)//EN" "zeit1353.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Jake Zeitlin Papers on D.H. Lawrence Manuscripts, 1933-1981, bulk 1933-1955</titleproper>
+<titleproper type="filing">Zeitlin (Jake) Papers on D. H. Lawrence Manuscripts</titleproper>
+<author>Lilace Hatayama arranged the collection into topical folders and created an item-level inventory in 1985. Four series levels were assigned in 2004 to enhance ease of access. The title has also been changed in the online catalog from "Correspondence and papers related to D. H. Lawrence manuscripts, 193--1981, bulk 1936-1955" to the current title.  Front matter by Geneva Gano, with assistance from Laurel McPhee as part of the CFPRT project, August 2004; machine-readable finding aid created by Caroline Cubé and edited by Josh Fiala, Caroline Cubé, Laurel McPhee and Amy Shung-Gee Wong.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library, Department of Special Collections</publisher>
+<address>
+<addressline>Manuscripts Division</addressline>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">© 2005</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Original finding aid text rekeyed by Caroline Cubé from in-house paper finding aid, <date>January 2005</date> then later, machine-readable finding aid created by ByteManagers using OAC finding aid conversion service specifications. Additions derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro by Caroline Cubé. Online finding aid edited by Josh Fiala and Caroline Cubé and Amy Shung-Gee Wong. Date of source: <date>2005</date>.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" id="archdesc-1.2">
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">Jake Zeitlin Correspondence and Papers Related to D.H. Lawrence Manuscripts,</unittitle>
+<unitdate type="inclusive" normal="1930/1985">1933-1981</unitdate><unitdate type="bulk"> (bulk 1933-1955)</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1353</unitid>
+<origination label="Creator"><persname role="subject" rules="lcnaf">Zeitlin, Jake, 1902-</persname></origination>
+<physdesc label="Extent"><extent>1 oversize box</extent></physdesc>
+<abstract label="Abstract">Correspondence between Jake Zeitlin, a Los Angeles antiquarian book dealer, Frieda Lawrence and others regarding the sale of D.H. Lawrence manuscripts. Includes correspondence with book dealers, publishers, and academic institutions regarding the appraisal and exhibition of Lawrence manuscripts, books, and related materials.</abstract>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library. Department of Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+</did>
+<descgrp type="admininfo" id="descgrp-1.2.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Jacob Zeitlin, ca.1981.</p>
+</acqinfo>
+<processinfo>
+<head>Processing Note</head>
+<p>Lilace Hatayama arranged the collection into topical folders and created an item-level inventory in 1985. Four series levels were assigned in 2004 to enhance ease of access. The title has also been changed in the online catalog from "Correspondence and papers related to D. H. Lawrence manuscripts, 193--1981, bulk 1936-1955" to the current title.  Front matter by Geneva Gano, with assistance from Laurel McPhee as part of the CFPRT project, August 2004.</p>
+</processinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Jake Zeitlin Papers on D. H. Lawrence Manuscripts (Collection 1353). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=4234055">4234055</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545" id="bioghist-1.2.3">
+<head>Expanded Biographical Narrative</head>
+<p>Jake Zeitlin was born on November 4, 1902, in Racine, Wisconsin and worked as a bookseller, poet and book reviewer in Ft. Worth, Texas before moving to Los Angeles in 1925. He began his career in bookselling when employed by Holmes Book Company and the book departments of the May Company and Bullock's before opening his first shop, designed by Lloyd Wright, in 1927. Wright designed a more elaborate shop in 1929 that became a meeting place for the city's intellectuals. In collaboration with his wife, Josephine Ver Brugge, Zeitlin moved his shop into a large red barn on La Cienega Blvd. in 1948, selling rare books, prints and paintings. He lectured widely on subjects related to rare books and the history of science, and was instrumental in bringing many collections to UCLA, including the Grunewald Graphic Arts Collection. He personally donated several manuscript collections to the Department of Special Collections before his passing in August 1987.</p>
+<p>Frieda Lawrence was born Frieda von Richthofen August 11, 1879 to Prussian Baron Friedrich von Richthofen and Anna Marquier von Richthofen, near Metz, Germany. David Herbert Lawrence was born in Eastwood, Nottinghamshire, England, Sept. 11, 1885. In 1912 Frieda met Lawrence, then a student of her first husband. They eloped, and the Lawrences were married in July 1914. They traveled continuously for the next few years in France, Italy, Germany and Australia before settling at Kiowa Ranch near Taos, New Mexico. D.H. Lawrence was a novelist, essayist, and poet, best known for <title>Lady Chatterley's lover</title> (1928); his numerous publications include: <title>Sons and Lovers</title> (1913), <title>Women in Love</title> (1920), and <title>The Plumed Serpent</title> (1926). Lawrence died in France in 1930; after his death, Frieda traveled to Europe briefly before returning to the ranch in 1931 with her companion, Angelo Ravagli. Frieda and Ravagli married in 1950, and she died in New Mexico August 11, 1956.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
+<head>Scope and Content</head>
+<p>After D.H. Lawrence's death in 1930, his widow Frieda Lawrence made the financially necessary decision to sell the manuscripts that he left behind. In 1936, Galka Scheyer introduced Frieda Lawrence to Los Angeles book dealer Jake Zeitlin, and she agreed to make Zeitlin her exclusive agent. The financial and emotional negotiations for these papers between Frieda Lawrence, her partner Angelo Ravagli, and Jake Zeitlin are the central subjects of the correspondence. The collection also includes drafts and correspondence related to the sale catalog (written by Lawrence Clark Powell with an introduction by Aldous Huxley, and printed by Ward Ritchie with an M.F.K. Fisher frontispiece). Zeitlin's various appraisals, exhibition-related materials from the Los Angeles Public Library, and three photographs of Frieda Lawrence.</p>
+</scopecontent>
+<arrangement id="arrangement-1.2.5">
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: 
+<list type="ordered" numeration="upperroman">
+<item>Correspondence (1933-1981).</item>
+<item>Appraisals (1937-1954).</item>
+<item>Exhibitions and catalogs (1937-1938).</item>
+<item>Photographs (1955).</item>
+</list></p>
+</arrangement>
+<controlaccess id="controlaccess-1.2.6">
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" rules="lcnaf" encodinganalog="600">Zeitlin, Jake, 1902- --Archives.</persname>
+<persname role="subject" rules="aacr2" encodinganalog="600">Zeitlin, Jake, 1902- --Correspondence.</persname>
+<subject source="lcsh" encodinganalog="650">Antiquarian booksellers--California--Los Angeles--Archival resources.</subject>
+<persname role="subject" rules="lcnaf" encodinganalog="600">Lawrence, Frieda von Richthofen, 1879-1956--Correspondence.</persname>
+<persname role="subject" rules="lcnaf" encodinganalog="600">Lawrence, D. H. (David Herbert), 1885-1930.</persname>
+<persname role="subject" rules="lcnaf" encodinganalog="600">Lawrence, D. H. (David Herbert), 1885-1930--Exhibitions. </persname>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">Correspondence.</genreform>
+<controlaccess>
+<head>Other Index Terms Related to this Collection</head>
+<persname source="lcnaf" encodinganalog="700">Lawrence, Frieda von Richthofen, 1879-1956.</persname>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<index id="index-1.2.7">
+<head>Name Index</head>
+<indexentry><name>Abramson, Ben, 1898-1955.</name></indexentry>
+<indexentry><name>Argus Book Shop, Chicago.</name></indexentry>
+<indexentry><name>Aldington, Richard, 1892-1962.</name></indexentry>
+<indexentry><name>Best, Marshall A.</name></indexentry>
+<indexentry><name>Biddle, George, 1885- .</name></indexentry>
+<indexentry><name>Blanck, Jacob Nathaniel, 1906-1974.</name></indexentry>
+<indexentry><name>Brett, Hon. Dorothy, 1883- .</name></indexentry>
+<indexentry><name>Brewster, Aschah Barlow.</name></indexentry>
+<indexentry><name>Brewster, Earl Henry, 1878- .</name></indexentry>
+<indexentry><name>Brill, Abraham Adren, 1874-1948.</name></indexentry>
+<indexentry><name>Carswell, Catherine McFarlane, 1879-1946.</name></indexentry>
+<indexentry><name>Cerf, Bennett Alfred, 1898- .</name></indexentry>
+<indexentry><name>Chaplin, Charles, 1889- .</name></indexentry>
+<indexentry><name>Collamore, Bacon.</name></indexentry>
+<indexentry><name>Duschnes, Philip C.</name></indexentry>
+<indexentry><name>Gregory, Horace, 1898- .</name></indexentry>
+<indexentry><name>Haflin, Harry James.</name></indexentry>
+<indexentry><name>Hogan, Francis Joseph, 1877-1944.</name></indexentry>
+<indexentry><name>Huxley, Aldous Leonard, 1894-1962.</name></indexentry>
+<indexentry><name>Johnson, Spud.</name></indexentry>
+<indexentry><name>Lawrence, Frieda (von Richthofen), 1879-1956.</name></indexentry>
+<indexentry><name>Ludington, Flora Belle.</name></indexentry>
+<indexentry><name>Luhan, Mrs. Mabel Dodge (Ganson), 1879-1962.</name></indexentry>
+<indexentry><name>MacDonald, Edward David</name></indexentry>
+<indexentry><name>McWilliams, Carey, 1905-1980.</name></indexentry>
+<indexentry><name>Maggs bros., London.</name></indexentry>
+<indexentry><name>Powell, Lawrence Clark, 1906- .</name></indexentry>
+<indexentry><name>Ravagli, Angelo.</name></indexentry>
+<indexentry><name>Rota, Bertram.</name></indexentry>
+<indexentry><name>Ruder, Barnet B., bookseller, New York.</name></indexentry>
+<indexentry><name>Rugg, Harold Goddard, 1883- .</name></indexentry>
+<indexentry><name>Sproul, Robert Gordon, 1891- .</name></indexentry>
+<indexentry><name>Warren, Althea Hester, 1886-1958.</name></indexentry>
+<indexentry><name>Van Patten, Nathan, 1887- .</name></indexentry>
+<indexentry><name>Worthen, John.</name></indexentry>
+</index>
+<relatedmaterial encodinganalog="544" id="relatedmaterial-1.2.8">
+<head>Related Material</head>
+<p><extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt9n39p8c3" actuate="onrequest" show="new">Collection of Materials Relating to Jake Zeitlin (Collection 485).
+</extref> Available at the Department of Special Collection, UCLA.</p>
+<p><extref href="http://www.oac.cdlib.org/findaid/ark:/13030/kt1q2n9893" actuate="onrequest" show="new">Jake Zeitlin Papers (Collection 334).
+</extref> Available at the Department of Special Collections, UCLA.</p>
+<p><title linktype="simple">Books and the imagination: fifty years of rare books</title> [oral history transcript] / Jake Zeitlin, interviewee. UCLA Oral History Department interview, 1980. Available at the Department of Special Collections, UCLA.</p>
+<p>Selected correspondence from this collection has been published in Michael Squires's <title linktype="simple">D.H. Lawrence's Manuscripts: The Correspondence of Frieda Lawrence, Jake Zeitlin, and Others</title> (New York: St. Martin's Press, 1991).</p>
+</relatedmaterial>
+<dsc type="in-depth" id="dsc-1.2.9" score="1" C-ORDER="1" MAX-C-ORDER="342">
+<head>Container List</head>
+<c01 level="series" id="c01-1.2.9.2" score="2" C-ORDER="2">
+<did>
+<unittitle>Series I: Correspondence <unitdate>(1933-1981)</unitdate>.</unittitle>
+</did>
+<scopecontent><p>257 items in 8 folders.</p></scopecontent>
+<c02 level="file" id="c02-1.2.9.2.3" score="1" C-ORDER="4">
+<did>
+<unittitle>Letters from Frieda Lawrence to Jacob Zeitlin.</unittitle>
+<unitdate>1936-1955.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">1</container>
+<physdesc>(41 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.2.3.2" score="1" C-ORDER="5">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Los Angeles.</unittitle>
+<unitdate>1 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.3" score="1" C-ORDER="6">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>13 May 1936.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.4" score="1" C-ORDER="7">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>[? June 1936] (received 29 June 1936).</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.5" score="1" C-ORDER="8">
+<did>
+<unitid label="Item no.">4.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>31 June 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.6" score="1" C-ORDER="9">
+<did>
+<unitid label="Item no.">5.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>n.d. [1936].</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.7" score="1" C-ORDER="10">
+<did>
+<unitid label="Item no.">6.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>6 October 1936.</unitdate>
+<physdesc>(1 leaf/folded, 3pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.8" score="1" C-ORDER="11">
+<did>
+<unitid label="Item no.">7.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>12 October 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.9" score="1" C-ORDER="12">
+<did>
+<unitid label="Item no.">8.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>20 October 1936.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+<note><p>Note: Also signed by Angelo Ravagli.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.10" score="1" C-ORDER="13">
+<did>
+<unitid label="Item no.">9.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>23 October 1936.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+<note><p>Note: Also signed by Angelo Ravagli.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.11" score="1" C-ORDER="14">
+<did>
+<unitid label="Item no.">10.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>4 November 1936.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+<note>
+<p>Note: Also signed by Angelo Ravagli.</p>
+<p>Note: With a list of D.H. Lawrence manuscripts left by Frieda Lawrence in her will to Aldous Huxley and others.</p>
+</note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.12" score="1" C-ORDER="15">
+<did>
+<unitid label="Item no.">11.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>21 November 1936.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+<note><p>Note: Also signed by Angelo Ravagli.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.13" score="2" C-ORDER="16">
+<did>
+<unitid label="Item no.">12.</unitid>
+<unittitle>Concord, Massachusetts.</unittitle>
+<unitdate>18 January 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+<note><p>Note: With holograph note by Jake Zeitlin at top of page.</p></note>
+</did>
+<scopecontent><p>[Also], letter from Carey McWilliams to Jake Zeitlin. n.p., 2 February 1936 (Typescript carbon).</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.14" score="1" C-ORDER="18">
+<did>
+<unitid label="Item no.">13.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>10 May 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.15" score="1" C-ORDER="19">
+<did>
+<unitid label="Item no.">14.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>June [1937].</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.16" score="1" C-ORDER="20">
+<did>
+<unitid label="Item no.">15.</unitid>
+<unittitle>San Cristobal.</unittitle>
+<unitdate>3 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.17" score="1" C-ORDER="21">
+<did>
+<unitid label="Item no.">16.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>2 September 1937.</unitdate>
+<physdesc>(1 leaf).</physdesc>
+<note><p>Note: Also signed by Angelo Ravagli.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.18" score="1" C-ORDER="22">
+<did>
+<unitid label="Item no.">17.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>13 September 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+<note><p>Note: Also signed by Angelo Ravagli.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.19" score="1" C-ORDER="23">
+<did>
+<unitid label="Item no.">18.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>15 September 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+<note><p>Note: Also signed by Angelo Ravagli.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.20" score="2" C-ORDER="24">
+<did>
+<unitid label="Item no.">19.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>28 September 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+<scopecontent>
+<p>Authorization signed by Frieda Lawrence to accept price of $2200 for manuscripts for <title>Lady Chatterley</title>, <title>Apropos of Lady Chatterley</title>, <title>Pornography and Obscenity</title>, <title>The Fox</title>, and <title>Introduction to Paintings</title>. Witnessed by Angelo Ravagli.</p>
+</scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.21" score="1" C-ORDER="26">
+<did>
+<unitid label="Item no.">20.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>5 November 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.22" score="1" C-ORDER="27">
+<did>
+<unitid label="Item no.">21.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>8 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.23" score="1" C-ORDER="28">
+<did>
+<unitid label="Item no.">22.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>12 November 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+<note><p>Note: Also signed by Angelo Ravagli.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.24" score="1" C-ORDER="29">
+<did>
+<unitid label="Item no.">23.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>21 November 1937.</unitdate>
+<physdesc>(3 leaves, 2pp. - Autograph letter, signed).</physdesc>
+<note><p>Note: Also signed by Angelo Ravagli.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.25" score="1" C-ORDER="30">
+<did>
+<unitid label="Item no.">24.</unitid>
+<unittitle>Albuquerque.</unittitle>
+<unitdate>6 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.26" score="1" C-ORDER="31">
+<did>
+<unitid label="Item no.">25.</unitid>
+<unittitle>Los Pinos, Taos.</unittitle>
+<unitdate>[? December 1937].</unitdate>
+<physdesc>(1 leaf/folded, 4pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.27" score="2" C-ORDER="32">
+<did>
+<unitid label="Item no.">26.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>[? December 1937].</unitdate>
+<physdesc>(1 leaf, 2pp.).</physdesc>
+</did>
+<scopecontent>
+<p>Written on verso of letter from Ted Stevenson to Frieda Lawrence. New York, 7 December 1937 (1 leaf, 2pp. - Typewritten letter, signed).</p>
+</scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.28" score="2" C-ORDER="34">
+<did>
+<unitid label="Item no.">27.</unitid>
+<unittitle>[Taos?].</unittitle>
+<unitdate>5 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+<scopecontent>
+<p>An authorization signed by Frieda Lawrence accepting a revised price of $1900 for the manuscripts for <title>Lady Chatterley</title>, <title>The Fox</title>, <title>Introduction to Painting</title>. Witnessed by Elizabeth Moore Cottens.</p>
+</scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.29" score="1" C-ORDER="36">
+<did>
+<unitid label="Item no.">28.</unitid>
+<unittitle>Albuquerque.</unittitle>
+<unitdate>6 January 1938.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.30" score="1" C-ORDER="37">
+<did>
+<unitid label="Item no.">29.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>29 January 1938.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.31" score="1" C-ORDER="38">
+<did>
+<unitid label="Item no.">30.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>12 October 1938.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.32" score="1" C-ORDER="39">
+<did>
+<unitid label="Item no.">31.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>22 April 1939.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.33" score="1" C-ORDER="40">
+<did>
+<unitid label="Item no.">32.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>13 July 1939.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.34" score="1" C-ORDER="41">
+<did>
+<unitid label="Item no.">33.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>[? August 1939].</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.35" score="1" C-ORDER="42">
+<did>
+<unitid label="Item no.">34.</unitid>
+<unittitle>Taos.</unittitle>
+<unitdate>9 October 1939.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.36" score="1" C-ORDER="43">
+<did>
+<unitid label="Item no.">35.</unitid>
+<unittitle>Kiowa Ranch, San Cristobal.</unittitle>
+<unitdate>21 November 1939.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.37" score="1" C-ORDER="44">
+<did>
+<unitid label="Item no.">36.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>8 May 1940.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.38" score="1" C-ORDER="45">
+<did>
+<unitid label="Item no.">37.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>n.d. [1940?].</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.39" score="1" C-ORDER="46">
+<did>
+<unitid label="Item no.">38.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>9 December 1940.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.40" score="1" C-ORDER="47">
+<did>
+<unitid label="Item no.">39.</unitid>
+<unittitle>El Prado.</unittitle>
+<unitdate>1 September [????].</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.41" score="1" C-ORDER="48">
+<did>
+<unitid label="Item no.">40.</unitid>
+<unittitle>El Prado.</unittitle>
+<unitdate>19 November 1946.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.3.42" score="1" C-ORDER="49">
+<did>
+<unitid label="Item no.">41.</unitid>
+<unittitle>Port Isabel, Texas.</unittitle>
+<unitdate>30 January 1955.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.2.4" score="1" C-ORDER="50">
+<did>
+<unittitle>Correspondence between Angelo Ravagli to Jacob Zeitlin.</unittitle>
+<unitdate>1934-1955.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">2</container>
+<physdesc>(13 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.2.4.2" score="1" C-ORDER="51">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>n.d. [1934?].</unitdate>
+<physdesc>(1 leaf, 1p. - typescript carbon, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.3" score="1" C-ORDER="52">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle>San Cristobal.</unittitle>
+<unitdate>19 August 1936.</unitdate>
+<physdesc>(1 leaf, 2pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.4" score="1" C-ORDER="53">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>1 April 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.5" score="1" C-ORDER="54">
+<did>
+<unitid label="Item no.">4.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>19 April 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.6" score="1" C-ORDER="55">
+<did>
+<unitid label="Item no.">5.</unitid>
+<unittitle>n.p.</unittitle>
+<unitdate>12 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.7" score="1" C-ORDER="56">
+<did>
+<unitid label="Item no.">6.</unitid>
+<unittitle>Kiowa Ranch [San Cristobal].</unittitle>
+<unitdate>28 September 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.8" score="1" C-ORDER="57">
+<did>
+<unitid label="Item no.">7.</unitid>
+<unittitle>El Prado.</unittitle>
+<unitdate>31 August 1954.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.9" score="1" C-ORDER="58">
+<did>
+<unitid label="Item no.">8.</unitid>
+<unittitle>El Prado.</unittitle>
+<unitdate>18 October 1954.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.10" score="1" C-ORDER="59">
+<did>
+<unitid label="Item no.">9.</unitid>
+<unittitle>Isabel, Texas.</unittitle>
+<unitdate>31 January 1955.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.11" score="1" C-ORDER="60">
+<did>
+<unitid label="Item no.">10.</unitid>
+<unittitle>Text of telegram from Angelo Ravagli, Taos, to Jacob Zeitlin.</unittitle>
+<unitdate>10 September 1954.</unitdate>
+<physdesc>(1 leaf).</physdesc>
+<note><p>Note: Transcription.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.12" score="1" C-ORDER="61">
+<did>
+<unitid label="Item no.">11.</unitid>
+<unittitle>Telegram from Jacob Zeitlin to Angelo Ravagli, Taos. n.p.</unittitle>
+<unitdate>6 October 1954.</unitdate>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.13" score="1" C-ORDER="62">
+<did>
+<unitid label="Item no.">12.</unitid>
+<unittitle>Telegram from Jacob Zeitlin to Mrs. Edmund L. Engel, Albuquerque. n.p.</unittitle>
+<unitdate>6 October 1954.</unitdate>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.4.14" score="2" C-ORDER="63">
+<did>
+<unitid label="Item no.">13.</unitid>
+<unittitle>Text of telegram from Jacob Zeitlin to Angelo Ravagli. [n.p.].</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(1 leaf).</physdesc>
+</did>
+<scopecontent><p>Jacob Zeitlin's holograph notes.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.2.5" score="1" C-ORDER="65">
+<did>
+<unittitle>Letters from Jacob Zeitlin to Frieda Lawrence and Angelo Ravagli. Los Angeles.</unittitle>
+<unitdate>1936-1938.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">3</container>
+<physdesc>(41 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.2.5.2" score="1" C-ORDER="66">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle><unitdate>14 April 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.3" score="1" C-ORDER="67">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle><unitdate>18 May 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.4" score="1" C-ORDER="68">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle><unitdate>28 September 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.5" score="2" C-ORDER="69">
+<did>
+<unitid label="Item no.">4.</unitid>
+<unittitle><unitdate>12 October 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+<scopecontent><p>With enclosed extension of agreement (1 leaf, 1p. - Typescript carbon).</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.6" score="1" C-ORDER="71">
+<did>
+<unitid label="Item no.">5.</unitid>
+<unittitle><unitdate>20 October 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.7" score="1" C-ORDER="72">
+<did>
+<unitid label="Item no.">6.</unitid>
+<unittitle><unitdate>28 October 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.8" score="1" C-ORDER="73">
+<did>
+<unitid label="Item no.">7.</unitid>
+<unittitle><unitdate>29 October 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.9" score="1" C-ORDER="74">
+<did>
+<unitid label="Item no.">8.</unitid>
+<unittitle><unitdate>6 November 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.10" score="1" C-ORDER="75">
+<did>
+<unitid label="Item no.">9.</unitid>
+<unittitle><unitdate>17 November 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.11" score="1" C-ORDER="76">
+<did>
+<unitid label="Item no.">10.</unitid>
+<unittitle><unitdate>24 November 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.12" score="1" C-ORDER="77">
+<did>
+<unitid label="Item no.">11.</unitid>
+<unittitle><unitdate>30 November 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.13" score="1" C-ORDER="78">
+<did>
+<unitid label="Item no.">12.</unitid>
+<unittitle><unitdate>24 December 1936</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.14" score="1" C-ORDER="79">
+<did>
+<unitid label="Item no.">13.</unitid>
+<unittitle><unitdate>8 January 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.15" score="1" C-ORDER="80">
+<did>
+<unitid label="Item no.">14.</unitid>
+<unittitle>To Angelo Ravagli.</unittitle>
+<unitdate>5 April 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.16" score="2" C-ORDER="81">
+<did>
+<unitid label="Item no.">15.</unitid>
+<unittitle><unitdate>7 April 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+<scopecontent><p>“Copy of Wells letter to FL.” Signed “Dan.”</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.17" score="1" C-ORDER="83">
+<did>
+<unitid label="Item no.">16.</unitid>
+<unittitle>To Angelo Ravagli.</unittitle>
+<unitdate>20 April 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.18" score="1" C-ORDER="84">
+<did>
+<unitid label="Item no.">17.</unitid>
+<unittitle><unitdate>1 May 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.19" score="1" C-ORDER="85">
+<did>
+<unitid label="Item no.">18.</unitid>
+<unittitle><unitdate>13 May 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.20" score="1" C-ORDER="86">
+<did>
+<unitid label="Item no.">19.</unitid>
+<unittitle><unitdate>2 June 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.21" score="1" C-ORDER="87">
+<did>
+<unitid label="Item no.">20.</unitid>
+<unittitle><unitdate>8 June 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.22" score="2" C-ORDER="88">
+<did>
+<unitid label="Item no.">21.</unitid>
+<unittitle><unitdate>7 July 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+<scopecontent>
+<p>With enclosure of “Books quoted from (short excerpts) in catalog” (1 leaf, 1p.).</p>
+</scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.23" score="1" C-ORDER="90">
+<did>
+<unitid label="Item no.">22.</unitid>
+<unittitle><unitdate>10 July 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.24" score="1" C-ORDER="91">
+<did>
+<unitid label="Item no.">23.</unitid>
+<unittitle>To Frieda and Angie.</unittitle>
+<unitdate>12 August 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.25" score="1" C-ORDER="92">
+<did>
+<unitid label="Item no.">24.</unitid>
+<unittitle><unitdate>9 September 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.26" score="1" C-ORDER="93">
+<did>
+<unitid label="Item no.">25.</unitid>
+<unittitle><unitdate>18 September 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.27" score="1" C-ORDER="94">
+<did>
+<unitid label="Item no.">26.</unitid>
+<unittitle><unitdate>25 September 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.28" score="1" C-ORDER="95">
+<did>
+<unitid label="Item no.">27.</unitid>
+<unittitle><unitdate>16 October 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.29" score="1" C-ORDER="96">
+<did>
+<unitid label="Item no.">28.</unitid>
+<unittitle><unitdate>1 November 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.30" score="1" C-ORDER="97">
+<did>
+<unitid label="Item no.">29.</unitid>
+<unittitle><unitdate>17 November 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.31" score="1" C-ORDER="98">
+<did>
+<unitid label="Item no.">30.</unitid>
+<unittitle><unitdate>4 December 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.32" score="1" C-ORDER="99">
+<did>
+<unitid label="Item no.">31.</unitid>
+<unittitle><unitdate>9 December 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.33" score="1" C-ORDER="100">
+<did>
+<unitid label="Item no.">32.</unitid>
+<unittitle><unitdate>9 December 1937</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.34" score="2" C-ORDER="101">
+<did>
+<unitid label="Item no.">33.</unitid>
+<unittitle><unitdate>5 January 1938</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+<scopecontent>
+<p>With letter from Macmillan Company, New York, enclosed. 6 December 1937 (1 leaf, 1p. - Typewritten letter, signed).</p>
+</scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.35" score="1" C-ORDER="103">
+<did>
+<unitid label="Item no.">34.</unitid>
+<unittitle><unitdate>8 January 1938</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.36" score="1" C-ORDER="104">
+<did>
+<unitid label="Item no.">35.</unitid>
+<unittitle><unitdate>20 January 1938</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.37" score="1" C-ORDER="105">
+<did>
+<unitid label="Item no.">36.</unitid>
+<unittitle><unitdate>1 February 1938</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.38" score="1" C-ORDER="106">
+<did>
+<unitid label="Item no.">37.</unitid>
+<unittitle><unitdate>26 August 1938</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.39" score="1" C-ORDER="107">
+<did>
+<unitid label="Item no.">38.</unitid>
+<unittitle><unitdate>7 October 1938</unitdate>.</unittitle>
+<physdesc>(2 leaves, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.40" score="1" C-ORDER="108">
+<did>
+<unitid label="Item no.">39.</unitid>
+<unittitle><unitdate>17 October 1938</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.41" score="1" C-ORDER="109">
+<did>
+<unitid label="Item no.">40.</unitid>
+<unittitle><unitdate>15 October 1954</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.5.42" score="1" C-ORDER="110">
+<did>
+<unitid label="Item no.">41.</unitid>
+<unittitle><unitdate>8 February 1955</unitdate>.</unittitle>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.2.6" score="1" C-ORDER="111">
+<did>
+<unittitle>Correspondence <emph render="italic">re</emph> D.H. Lawrence Manuscripts. v.p.</unittitle>
+<unitdate>1936.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">4</container>
+<physdesc>(31 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.2.6.2" score="1" C-ORDER="112">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Jacob Zeitlin to Nathan Van Patten, Stanford University.</unittitle>
+<unitdate>1 April 1936.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.3" score="1" C-ORDER="113">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle>Jacob Zeitlin to Frank Hogan.</unittitle>
+<unitdate>3 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.4" score="1" C-ORDER="114">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle>Jacob Zeitlin to Virginia Warren.</unittitle>
+<unitdate>3 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.5" score="1" C-ORDER="115">
+<did>
+<unitid label="Item no.">4.</unitid>
+<unittitle>Nathan Van Patten to Jacob Zeitlin.</unittitle>
+<unitdate>6 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.6" score="1" C-ORDER="116">
+<did>
+<unitid label="Item no.">5.</unitid>
+<unittitle>Jacob Zeitlin to Nathan Van Patten.</unittitle>
+<unitdate>9 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.7" score="1" C-ORDER="117">
+<did>
+<unitid label="Item no.">6.</unitid>
+<unittitle>Nathan Van Patten to Jacob Zeitlin.</unittitle>
+<unitdate>10 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.8" score="1" C-ORDER="118">
+<did>
+<unitid label="Item no.">7.</unitid>
+<unittitle>Jacob Zeitlin to Nathan Van Patten.</unittitle>
+<unitdate>11 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.9" score="1" C-ORDER="119">
+<did>
+<unitid label="Item no.">8.</unitid>
+<unittitle>Nathan Van Patten to Jacob Zeitlin.</unittitle>
+<unitdate>16 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.10" score="1" C-ORDER="120">
+<did>
+<unitid label="Item no.">9.</unitid>
+<unittitle>Jacob Zeitlin to Nathan Van Patten.</unittitle>
+<unitdate>16 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.11" score="1" C-ORDER="121">
+<did>
+<unitid label="Item no.">10.</unitid>
+<unittitle>Nathan Van Patten to Jacob Zeitlin.</unittitle>
+<unitdate>27 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Telegram).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.12" score="1" C-ORDER="122">
+<did>
+<unitid label="Item no.">11.</unitid>
+<unittitle>Jacob Zeitlin to Nathan Van Patten.</unittitle>
+<unitdate>27 April 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Telegram).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.13" score="1" C-ORDER="123">
+<did>
+<unitid label="Item no.">12.</unitid>
+<unittitle>Jacob Zeitlin to Nathan Van Patten.</unittitle>
+<unitdate>6 May 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.14" score="1" C-ORDER="124">
+<did>
+<unitid label="Item no.">13.</unitid>
+<unittitle>Nathan Van Patten to Jacob Zeitlin.</unittitle>
+<unitdate>1 September 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.15" score="1" C-ORDER="125">
+<did>
+<unitid label="Item no.">14.</unitid>
+<unittitle>Jacob Zeitlin to Nathan Van Patten.</unittitle>
+<unitdate>8 September 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.16" score="1" C-ORDER="126">
+<did>
+<unitid label="Item no.">15.</unitid>
+<unittitle>Nathan Van Patten to Jacob Zeitlin.</unittitle>
+<unitdate>21 September 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.17" score="1" C-ORDER="127">
+<did>
+<unitid label="Item no.">16.</unitid>
+<unittitle>Jacob Zeitlin to Lawrence Clark Powell.</unittitle>
+<unitdate>25 September 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.18" score="1" C-ORDER="128">
+<did>
+<unitid label="Item no.">17.</unitid>
+<unittitle>Jacob Zeitlin to Nathan Van Patten.</unittitle>
+<unitdate>25 September 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.19" score="1" C-ORDER="129">
+<did>
+<unitid label="Item no.">18.</unitid>
+<unittitle>Lawrence Clark Powell to Jacob Zeitlin.</unittitle>
+<unitdate>28 September 1936.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.20" score="1" C-ORDER="130">
+<did>
+<unitid label="Item no.">19.</unitid>
+<unittitle>Nathan Van Patten to Jacob Zeitlin.</unittitle>
+<unitdate>28 September 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.21" score="1" C-ORDER="131">
+<did>
+<unitid label="Item no.">20.</unitid>
+<unittitle>Nathan Van Patten to Lawrence Clark Powell.</unittitle>
+<unitdate>29 September 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon, signed.</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.22" score="1" C-ORDER="132">
+<did>
+<unitid label="Item no.">21.</unitid>
+<unittitle>Jacob Zeitlin to Nathan Van Patten.</unittitle>
+<unitdate>5 October 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.23" score="1" C-ORDER="133">
+<did>
+<unitid label="Item no.">22.</unitid>
+<unittitle>Nathan Van Patten to Jacob Zeitlin.</unittitle>
+<unitdate>8 October 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.24" score="1" C-ORDER="134">
+<did>
+<unitid label="Item no.">23.</unitid>
+<unittitle>Harry K. Wells to Jacob Zeitlin.</unittitle>
+<unitdate>17 October 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Telegram).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.25" score="1" C-ORDER="135">
+<did>
+<unitid label="Item no.">24.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>20 October 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.26" score="1" C-ORDER="136">
+<did>
+<unitid label="Item no.">25.</unitid>
+<unittitle>Harry K. Wells to Jacob Zeitlin.</unittitle>
+<unitdate>22 October 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.27" score="1" C-ORDER="137">
+<did>
+<unitid label="Item no.">26.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>31 October 1936.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.28" score="1" C-ORDER="138">
+<did>
+<unitid label="Item no.">27.</unitid>
+<unittitle>Harry K. Wells to Jacob Zeitlin.</unittitle>
+<unitdate>2 November 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Telegram).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.29" score="1" C-ORDER="139">
+<did>
+<unitid label="Item no.">28.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>6 November 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.30" score="1" C-ORDER="140">
+<did>
+<unitid label="Item no.">29.</unitid>
+<unittitle>Harry K. Wells to Jacob Zeitlin.</unittitle>
+<unitdate>12 November 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.31" score="1" C-ORDER="141">
+<did>
+<unitid label="Item no.">30.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>17 November 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.6.32" score="1" C-ORDER="142">
+<did>
+<unitid label="Item no.">31.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>24 December 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.2.7" score="1" C-ORDER="143">
+<did>
+<unittitle>Correspondence <emph render="italic">re</emph> D.H. Lawrence Manuscripts. v.p.</unittitle>
+<unitdate>1937 January-June.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">5</container>
+<physdesc>(29 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.2.7.2" score="2" C-ORDER="144">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Harry K. Wells to Jacob Zeitlin.</unittitle>
+<unitdate>3 January 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+<scopecontent><p>With transcription.</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.3" score="1" C-ORDER="146">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle>Carey McWilliams to Jacob Zeitlin.</unittitle>
+<unitdate>2 February 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.4" score="1" C-ORDER="147">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle>Jacob Zeitlin to Latham, Watkins &amp; Bouchard.</unittitle>
+<unitdate>4 February 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.5" score="1" C-ORDER="148">
+<did>
+<unitid label="Item no.">4.</unitid>
+<unittitle>Jacob Zeitlin to Carey McWilliams.</unittitle>
+<unitdate>15 February 1937.</unitdate>
+<physdesc>(4 leaves, 4pp. - Typescript).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.6" score="1" C-ORDER="149">
+<did>
+<unitid label="Item no.">5.</unitid>
+<unittitle>Jacob Zeitlin to Carey McWilliams.</unittitle>
+<unitdate>15 February 1937.</unitdate>
+<physdesc>(2 leaves, 4pp. - Typescript carbon).</physdesc>
+<note><p>Another copy of item 4 in this folder.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.7" score="1" C-ORDER="150">
+<did>
+<unitid label="Item no.">6.</unitid>
+<unittitle>Jacob Zeitlin to Carey McWilliams.</unittitle>
+<unitdate>18 March 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.8" score="1" C-ORDER="151">
+<did>
+<unitid label="Item no.">7.</unitid>
+<unittitle>Jacob Zeitlin to Robert Blake, Harvard University.</unittitle>
+<unitdate>5 April 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.9" score="1" C-ORDER="152">
+<did>
+<unitid label="Item no.">8.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>5 April 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.10" score="1" C-ORDER="153">
+<did>
+<unitid label="Item no.">9.</unitid>
+<unittitle>Harry K. Wells to Jacob Zeitlin.</unittitle>
+<unitdate>15 April 1937.</unitdate>
+<physdesc>(3 leaves, 6pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.11" score="1" C-ORDER="154">
+<did>
+<unitid label="Item no.">10.</unitid>
+<unittitle>Robert Blake to Jacob Zeitlin.</unittitle>
+<unitdate>15 April 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.12" score="1" C-ORDER="155">
+<did>
+<unitid label="Item no.">11.</unitid>
+<unittitle>Jacob Zeitlin to Robert Blake.</unittitle>
+<unitdate>20 April 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.13" score="1" C-ORDER="156">
+<did>
+<unitid label="Item no.">12.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>20 April 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.14" score="1" C-ORDER="157">
+<did>
+<unitid label="Item no.">13.</unitid>
+<unittitle>Robert Blake to Jacob Zeitlin.</unittitle>
+<unitdate>27 April 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.15" score="1" C-ORDER="158">
+<did>
+<unitid label="Item no.">14.</unitid>
+<unittitle>Barnet B. Ruder to Jacob Zeitlin.</unittitle>
+<unitdate>29 April 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.16" score="1" C-ORDER="159">
+<did>
+<unitid label="Item no.">15.</unitid>
+<unittitle>Jacob Zeitlin to Jacob Blanck.</unittitle>
+<unitdate>1 May 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.17" score="1" C-ORDER="160">
+<did>
+<unitid label="Item no.">16.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>1 May 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.18" score="1" C-ORDER="161">
+<did>
+<unitid label="Item no.">17.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>11 May 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Telegram).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.19" score="1" C-ORDER="162">
+<did>
+<unitid label="Item no.">18.</unitid>
+<unittitle>Jacob Zeitlin to Robert Blake.</unittitle>
+<unitdate>12 May 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.20" score="1" C-ORDER="163">
+<did>
+<unitid label="Item no.">19.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>21 May 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.21" score="1" C-ORDER="164">
+<did>
+<unitid label="Item no.">20.</unitid>
+<unittitle>Harry K. Wells to Jacob Zeitlin.</unittitle>
+<unitdate>22 May 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Telegram).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.22" score="1" C-ORDER="165">
+<did>
+<unitid label="Item no.">21.</unitid>
+<unittitle>Robert Blake to Jacob Zeitlin.</unittitle>
+<unitdate>24 May 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.23" score="1" C-ORDER="166">
+<did>
+<unitid label="Item no.">22.</unitid>
+<unittitle>A. Lincoln Book &amp; Autograph Company to Jacob Zeitlin, Portland, Maine, to Jacob Zeitlin.</unittitle>
+<unitdate>28 May 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.24" score="1" C-ORDER="167">
+<did>
+<unitid label="Item no.">23.</unitid>
+<unittitle>Argus Book Shop to Jacob Zeitlin.</unittitle>
+<unitdate>1 June 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.25" score="1" C-ORDER="168">
+<did>
+<unitid label="Item no.">24.</unitid>
+<unittitle>Jacob Zeitlin to Robert Blake.</unittitle>
+<unitdate>2 June 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.26" score="1" C-ORDER="169">
+<did>
+<unitid label="Item no.">25.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>2 June 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.27" score="1" C-ORDER="170">
+<did>
+<unitid label="Item no.">26.</unitid>
+<unittitle>Jacob Zeitlin to Ben Abramson (Argus Book Shop).</unittitle>
+<unitdate>24 June 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.28" score="2" C-ORDER="171">
+<did>
+<unitid label="Item no.">27.</unitid>
+<unittitle>Jacob Zeitlin to A. Lincoln Book &amp; Autograph Company.</unittitle>
+<unitdate>24 June 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+<scopecontent><p>With letter of 28 May 1937 to Jacob Zeitlin.</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.29" score="2" C-ORDER="173">
+<did>
+<unitid label="Item no.">28.</unitid>
+<unittitle>Jacob Zeitlin to Philip C. Duschnes.</unittitle>
+<unitdate>24 June 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+<scopecontent><p>With postcard, postmarked 26 May 1937, from PCD attached.</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.7.30" score="1" C-ORDER="175">
+<did>
+<unitid label="Item no.">29.</unitid>
+<unittitle>Bertram Rota to Jacob Zeitlin.</unittitle>
+<unitdate>29 June 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.2.8" score="1" C-ORDER="176">
+<did>
+<unittitle>Correspondence <emph render="italic">re</emph> D.H. Lawrence Manuscripts. v.p.</unittitle>
+<unitdate>1937 July-December.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">6</container>
+<physdesc>(57 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.2.8.2" score="1" C-ORDER="177">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Ben Abramson to Jacob Zeitlin.</unittitle>
+<unitdate>10 July 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript).</physdesc>
+<note><p>Note: Incomplete.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.3" score="1" C-ORDER="178">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle>Jacob Zeitlin to Ben Abramson.</unittitle>
+<unitdate>10 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.4" score="1" C-ORDER="179">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle>Jacob Zeitlin to Harold J. Snyder.</unittitle>
+<unitdate>11 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.5" score="1" C-ORDER="180">
+<did>
+<unitid label="Item no.">4.</unitid>
+<unittitle>Jacob Zeitlin to Bertram Rota.</unittitle>
+<unitdate>12 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.6" score="1" C-ORDER="181">
+<did>
+<unitid label="Item no.">5.</unitid>
+<unittitle>Lawrence Clark Powell to Edward D. McDonald.</unittitle>
+<unitdate>30 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.7" score="1" C-ORDER="182">
+<did>
+<unitid label="Item no.">6.</unitid>
+<unittitle>Lawrence Clark Powell to Earl and Aschah Brewster.</unittitle>
+<unitdate>30 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.8" score="1" C-ORDER="183">
+<did>
+<unitid label="Item no.">7.</unitid>
+<unittitle>Lawrence Clark Powell to Jessie Chambers Wood.</unittitle>
+<unitdate>30 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.9" score="1" C-ORDER="184">
+<did>
+<unitid label="Item no.">8.</unitid>
+<unittitle>Lawrence Clark Powell to Catherine Carswell.</unittitle>
+<unitdate>30 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.10" score="1" C-ORDER="185">
+<did>
+<unitid label="Item no.">9.</unitid>
+<unittitle>Lawrence Clark Powell to Horace Gregory.</unittitle>
+<unitdate>30 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.11" score="1" C-ORDER="186">
+<did>
+<unitid label="Item no.">10.</unitid>
+<unittitle>Lawrence Clark Powell to Richard Aldington.</unittitle>
+<unitdate>30 August 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.12" score="1" C-ORDER="187">
+<did>
+<unitid label="Item no.">11.</unitid>
+<unittitle>Bertram Rota to Jacob Zeitlin.</unittitle>
+<unitdate>2 September 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.13" score="1" C-ORDER="188">
+<did>
+<unitid label="Item no.">12.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>4 September 1937.</unitdate>
+<physdesc>(1 leaf, 1p.).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.14" score="1" C-ORDER="189">
+<did>
+<unitid label="Item no.">13.</unitid>
+<unittitle>Dan Wells to Jacob Zeitlin.</unittitle>
+<unitdate>11 September 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Telegram).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.15" score="1" C-ORDER="190">
+<did>
+<unitid label="Item no.">14.</unitid>
+<unittitle>Catherine Carswell to Lawrence Clark Powell.</unittitle>
+<unitdate>16 September 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.16" score="1" C-ORDER="191">
+<did>
+<unitid label="Item no.">15.</unitid>
+<unittitle>Horace Gregory to Lawrence Clark Powell.</unittitle>
+<unitdate>17 September 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.17" score="1" C-ORDER="192">
+<did>
+<unitid label="Item no.">16.</unitid>
+<unittitle>Jacob Zeitlin to Bertram Rota.</unittitle>
+<unitdate>17 September 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.18" score="1" C-ORDER="193">
+<did>
+<unitid label="Item no.">17.</unitid>
+<unittitle>Richard Aldington to C.L. [Lawrence Clark] Powell, Zeitlin, Incorporated.</unittitle>
+<unitdate>19 September 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.19" score="1" C-ORDER="194">
+<did>
+<unitid label="Item no.">18.</unitid>
+<unittitle>Jacob Zeitlin to Harry K. Wells.</unittitle>
+<unitdate>21 September 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.20" score="1" C-ORDER="195">
+<did>
+<unitid label="Item no.">19.</unitid>
+<unittitle>Bertram Rota to Jacob Zeitlin.</unittitle>
+<unitdate>4 October 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Telegram).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.21" score="1" C-ORDER="196">
+<did>
+<unitid label="Item no.">20.</unitid>
+<unittitle>Jacob Zeitlin to Viking Press.</unittitle>
+<unitdate>9 October 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.22" score="1" C-ORDER="197">
+<did>
+<unitid label="Item no.">21.</unitid>
+<unittitle>Jacob Zeitlin to Harcourt, Brace &amp; Company.</unittitle>
+<unitdate>9 October 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.23" score="1" C-ORDER="198">
+<did>
+<unitid label="Item no.">22.</unitid>
+<unittitle>Jacob Zeitlin to William Heinemann Limited, London.</unittitle>
+<unitdate>9 October 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.24" score="1" C-ORDER="199">
+<did>
+<unitid label="Item no.">23.</unitid>
+<unittitle>Harcourt, Brace &amp; Company, New York, to Jacob Zeitlin.</unittitle>
+<unitdate>13 October 1936.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.25" score="1" C-ORDER="200">
+<did>
+<unitid label="Item no.">24.</unitid>
+<unittitle>William Heinemann, Limited, London, to Jacob Zeitlin.</unittitle>
+<unitdate>22 October 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.26" score="1" C-ORDER="201">
+<did>
+<unitid label="Item no.">25.</unitid>
+<unittitle>Althea Warren, Los Angeles Public Library (LAPL), to Jacob Zeitlin.</unittitle>
+<unitdate>4 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.27" score="1" C-ORDER="202">
+<did>
+<unitid label="Item no.">26.</unitid>
+<unittitle>Jacob Zeitlin to Flora Belle Ludington, Mount Holyoke College, South Hadley, Massachusetts.</unittitle>
+<unitdate>9 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.28" score="1" C-ORDER="203">
+<did>
+<unitid label="Item no.">27.</unitid>
+<unittitle>Jacob Zeitlin to Robert Gordon Sproul, UCLA.</unittitle>
+<unitdate>9 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.29" score="1" C-ORDER="204">
+<did>
+<unitid label="Item no.">28.</unitid>
+<unittitle>Jacob Zeitlin to Maggs Brothers, Limited, London.</unittitle>
+<unitdate>9 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.30" score="1" C-ORDER="205">
+<did>
+<unitid label="Item no.">29.</unitid>
+<unittitle>Jacob Zeitlin to Jacob Blanck.</unittitle>
+<unitdate>9 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.31" score="1" C-ORDER="206">
+<did>
+<unitid label="Item no.">30.</unitid>
+<unittitle>Spud Johnson to Jacob Zeitlin.</unittitle>
+<unitdate>17 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.32" score="1" C-ORDER="207">
+<did>
+<unitid label="Item no.">31.</unitid>
+<unittitle>Philip Duschnes to Jacob Zeitlin.</unittitle>
+<unitdate>18 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.33" score="1" C-ORDER="208">
+<did>
+<unitid label="Item no.">32.</unitid>
+<unittitle>Flora Belle Ludington to Jacob Zeitlin.</unittitle>
+<unitdate>19 November 1937.</unitdate>
+<physdesc>(2 leaves, 4pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.34" score="1" C-ORDER="209">
+<did>
+<unitid label="Item no.">33.</unitid>
+<unittitle>Jacob Zeitlin to Philip Duschnes.</unittitle>
+<unitdate>20 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.35" score="1" C-ORDER="210">
+<did>
+<unitid label="Item no.">34.</unitid>
+<unittitle>Harold Hawk to Jacob Zeitlin.</unittitle>
+<unitdate>20 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.36" score="1" C-ORDER="211">
+<did>
+<unitid label="Item no.">35.</unitid>
+<unittitle>Herbert F. West to Jacob Zeitlin.</unittitle>
+<unitdate>20 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph card, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.37" score="1" C-ORDER="212">
+<did>
+<unitid label="Item no.">36.</unitid>
+<unittitle>Herbert F. West to Jacob Zeitlin.</unittitle>
+<unitdate>23 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.38" score="1" C-ORDER="213">
+<did>
+<unitid label="Item no.">37.</unitid>
+<unittitle>Dorothy Brett to Jacob Zeitlin.</unittitle>
+<unitdate>23 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.39" score="1" C-ORDER="214">
+<did>
+<unitid label="Item no.">38.</unitid>
+<unittitle>Henry Herzbrun to Jacob Zeitlin.</unittitle>
+<unitdate>24 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.40" score="1" C-ORDER="215">
+<did>
+<unitid label="Item no.">39.</unitid>
+<unittitle>Robert Gordon Sproul to Jacob Zeitlin.</unittitle>
+<unitdate>26 November 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.41" score="1" C-ORDER="216">
+<did>
+<unitid label="Item no.">40.</unitid>
+<unittitle>Harold Hawk to Jacob Zeitlin.</unittitle>
+<unitdate>30 November 1937.</unitdate>
+<physdesc>(2 leaves, 3pp. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.42" score="1" C-ORDER="217">
+<did>
+<unitid label="Item no.">41.</unitid>
+<unittitle>Jacob Zeitlin to Bennett A. Cerf.</unittitle>
+<unitdate>30 November 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.43" score="1" C-ORDER="218">
+<did>
+<unitid label="Item no.">42.</unitid>
+<unittitle>Jacob Zeitlin to Bacon Collamore.</unittitle>
+<unitdate>1 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.44" score="1" C-ORDER="219">
+<did>
+<unitid label="Item no.">43.</unitid>
+<unittitle>Jacob Zeitlin to Herbert F. West.</unittitle>
+<unitdate>1 December 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.45" score="1" C-ORDER="220">
+<did>
+<unitid label="Item no.">44.</unitid>
+<unittitle>Jacob Zeitlin to Dorothy Brett.</unittitle>
+<unitdate>1 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.46" score="1" C-ORDER="221">
+<did>
+<unitid label="Item no.">45.</unitid>
+<unittitle>Jacob Zeitlin to Robert Mandel.</unittitle>
+<unitdate>1 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.47" score="1" C-ORDER="222">
+<did>
+<unitid label="Item no.">46.</unitid>
+<unittitle>Bennett A. Cerf to Jacob Zeitlin.</unittitle>
+<unitdate>2 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.48" score="1" C-ORDER="223">
+<did>
+<unitid label="Item no.">47.</unitid>
+<unittitle>G.E. Sharman to Jacob Zeitlin.</unittitle>
+<unitdate>3 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.49" score="1" C-ORDER="224">
+<did>
+<unitid label="Item no.">48.</unitid>
+<unittitle>Jacob Zeitlin to Howard Hawk.</unittitle>
+<unitdate>4 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.50" score="1" C-ORDER="225">
+<did>
+<unitid label="Item no.">49.</unitid>
+<unittitle>Macmillan Company, New York, to Jacob Zeitlin.</unittitle>
+<unitdate>9 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.51" score="1" C-ORDER="226">
+<did>
+<unitid label="Item no.">50.</unitid>
+<unittitle>Herbert F. West to Jacob Zeitlin.</unittitle>
+<unitdate>7 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.52" score="1" C-ORDER="227">
+<did>
+<unitid label="Item no.">51.</unitid>
+<unittitle>Jacob Zeitlin to Charles Chaplin.</unittitle>
+<unitdate>8 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.53" score="1" C-ORDER="228">
+<did>
+<unitid label="Item no.">52.</unitid>
+<unittitle>Holliday Book Shop, New York, to Los Angeles Public Library.</unittitle>
+<unitdate>10 December 1937.</unitdate>
+<physdesc>(1 leaf, 2pp. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.54" score="1" C-ORDER="229">
+<did>
+<unitid label="Item no.">53.</unitid>
+<unittitle>Ben Abramson to Jacob Zeitlin.</unittitle>
+<unitdate>22 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.55" score="1" C-ORDER="230">
+<did>
+<unitid label="Item no.">54.</unitid>
+<unittitle>Jacob Zeitlin to Bacon Collamore.</unittitle>
+<unitdate>24 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.56" score="1" C-ORDER="231">
+<did>
+<unitid label="Item no.">55.</unitid>
+<unittitle>Jacob Zeitlin to Ben Abramson.</unittitle>
+<unitdate>27 December 1937.</unitdate>
+<physdesc>(2 leaves, 2pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.57" score="1" C-ORDER="232">
+<did>
+<unitid label="Item no.">56.</unitid>
+<unittitle>Jacob Zeitlin to Richard Mandel.</unittitle>
+<unitdate>27 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.8.58" score="1" C-ORDER="233">
+<did>
+<unitid label="Item no.">57.</unitid>
+<unittitle>Jacob Zeitlin to Spud Johnson.</unittitle>
+<unitdate>27 December 1937.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.2.9" score="1" C-ORDER="234">
+<did>
+<unittitle>Correspondence <emph render="italic">re</emph> D.H. Lawrence Manuscripts. v.p.</unittitle>
+<unitdate>1938.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">7</container>
+<physdesc>(43 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.2.9.2" score="1" C-ORDER="235">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Jacob Zeitlin to Mabel Dodge Luhan.</unittitle>
+<unitdate>8 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.3" score="1" C-ORDER="236">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle>Jacob Zeitlin to C.D. Medley.</unittitle>
+<unitdate>8 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.4" score="1" C-ORDER="237">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle>Spud Johnson to Jacob Zeitlin.</unittitle>
+<unitdate>10 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.5" score="1" C-ORDER="238">
+<did>
+<unitid label="Item no.">4.</unitid>
+<unittitle>Mabel Dodge Luhan to Jacob Zeitlin.</unittitle>
+<unitdate>11 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Autograph letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.6" score="1" C-ORDER="239">
+<did>
+<unitid label="Item no.">5.</unitid>
+<unittitle>Jacob Zeitlin to A.A. Brill.</unittitle>
+<unitdate>13 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.7" score="2" C-ORDER="240">
+<did>
+<unitid label="Item no.">6.</unitid>
+<unittitle>Frieda Lawrence to Lawrence Clark Powell.</unittitle>
+<unitdate>14 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript).</physdesc>
+</did>
+<scopecontent>
+<p>This is a page of comments extracted from Frieda Lawrence's letter to Lawrence Clark Powell, 14 January 1938, and from Jessie Chambers Wood's letter to Lawrence Clark Powell, 23 November 1937.</p>
+</scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.8" score="1" C-ORDER="242">
+<did>
+<unitid label="Item no.">7.</unitid>
+<unittitle>Flora Belle Ludington to Jacob Zeitlin.</unittitle>
+<unitdate>14 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.9" score="1" C-ORDER="243">
+<did>
+<unitid label="Item no.">8.</unitid>
+<unittitle>A.A. Brill to Jacob Zeitlin.</unittitle>
+<unitdate>18 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.10" score="1" C-ORDER="244">
+<did>
+<unitid label="Item no.">9.</unitid>
+<unittitle>Lawrence Clark Powell to Jake Zeitlin.</unittitle>
+<unitdate>18 January 1938.</unitdate>
+<physdesc>(4 leaves, 4pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.11" score="1" C-ORDER="245">
+<did>
+<unitid label="Item no.">10.</unitid>
+<unittitle>C.D. Medley to Jacob Zeitlin.</unittitle>
+<unitdate>25 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.12" score="1" C-ORDER="246">
+<did>
+<unitid label="Item no.">11.</unitid>
+<unittitle>Jacob Zeitlin to Herbert F. West.</unittitle>
+<unitdate>26 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.13" score="1" C-ORDER="247">
+<did>
+<unitid label="Item no.">12.</unitid>
+<unittitle>Jacob Zeitlin to Flora Belle Ludington.</unittitle>
+<unitdate>28 January 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.14" score="1" C-ORDER="248">
+<did>
+<unitid label="Item no.">13.</unitid>
+<unittitle>Flora Belle Ludington to Jacob Zeitlin.</unittitle>
+<unitdate>1 February 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.15" score="1" C-ORDER="249">
+<did>
+<unitid label="Item no.">14.</unitid>
+<unittitle>Harold G. Rudd to Jacob Zeitlin.</unittitle>
+<unitdate>2 February 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.16" score="1" C-ORDER="250">
+<did>
+<unitid label="Item no.">15.</unitid>
+<unittitle>Flora Belle Ludington to Jacob Zeitlin.</unittitle>
+<unitdate>21 February 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript?</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.17" score="1" C-ORDER="251">
+<did>
+<unitid label="Item no.">16.</unitid>
+<unittitle>Jacob Zeitlin to Flora Belle Ludington.</unittitle>
+<unitdate>5 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.18" score="1" C-ORDER="252">
+<did>
+<unitid label="Item no.">17.</unitid>
+<unittitle>Jacob Zeitlin to Harold G. Rugg.</unittitle>
+<unitdate>5 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.19" score="1" C-ORDER="253">
+<did>
+<unitid label="Item no.">18.</unitid>
+<unittitle>Marshall A. Best, Viking Press, New York, to Jacob Zeitlin.</unittitle>
+<unitdate>7 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.20" score="1" C-ORDER="254">
+<did>
+<unitid label="Item no.">19.</unitid>
+<unittitle>Jacob Zeitlin to Mrs. Harry James Haflin.</unittitle>
+<unitdate>8 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.21" score="1" C-ORDER="255">
+<did>
+<unitid label="Item no.">20.</unitid>
+<unittitle>Jacob Zeitlin to Marshall A. Best, Viking Press.</unittitle>
+<unitdate>11 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.22" score="1" C-ORDER="256">
+<did>
+<unitid label="Item no.">21.</unitid>
+<unittitle>Jacob Zeitlin to Flora Belle Ludington.</unittitle>
+<unitdate>5 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.23" score="1" C-ORDER="257">
+<did>
+<unitid label="Item no.">22.</unitid>
+<unittitle>M.I. Jackal to Jacob Zeitlin.</unittitle>
+<unitdate>17 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typed postcard).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.24" score="1" C-ORDER="258">
+<did>
+<unitid label="Item no.">23.</unitid>
+<unittitle>Jacob Zeitlin to Flora Belle Ludington.</unittitle>
+<unitdate>23 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.25" score="1" C-ORDER="259">
+<did>
+<unitid label="Item no.">24.</unitid>
+<unittitle>Jacob Zeitlin to Harold G. Rugg.</unittitle>
+<unitdate>23 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.26" score="1" C-ORDER="260">
+<did>
+<unitid label="Item no.">25.</unitid>
+<unittitle>Harold G. Rugg to Jacob Zeitlin.</unittitle>
+<unitdate>29 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.27" score="1" C-ORDER="261">
+<did>
+<unitid label="Item no.">26.</unitid>
+<unittitle>Mount Holyoke College to Jacob Zeitlin.</unittitle>
+<unitdate>30 March 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.28" score="2" C-ORDER="262">
+<did>
+<unitid label="Item no.">27.</unitid>
+<unittitle>Flora Belle Ludington to Jacob Zeitlin.</unittitle>
+<unitdate>5 April 1938.</unitdate>
+<physdesc>(1 leaf, 1p.).</physdesc>
+</did>
+<scopecontent><p>List of Lawrence manuscripts for exhibit at Dartmouth.</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.29" score="1" C-ORDER="264">
+<did>
+<unitid label="Item no.">28.</unitid>
+<unittitle>Jacob Zeitlin to H.B. Collamore.</unittitle>
+<unitdate>11 April 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.30" score="2" C-ORDER="265">
+<did>
+<unitid label="Item no.">29.</unitid>
+<unittitle>Harold G. Rugg to Jacob Zeitlin.</unittitle>
+<unitdate>30 April 1938.</unitdate>
+<physdesc>(2 leaves, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+<scopecontent>
+<p>List of Lawrence manuscripts for exhibit at Dartmouth.</p>
+<p>[Also], list and values assigned (1 leaf, 2pp. - Typescript).</p>
+</scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.31" score="1" C-ORDER="267">
+<did>
+<unitid label="Item no.">30.</unitid>
+<unittitle>Harold G. Rugg to Jacob Zeitlin.</unittitle>
+<unitdate>2 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.32" score="1" C-ORDER="268">
+<did>
+<unitid label="Item no.">31.</unitid>
+<unittitle>Flora Belle Ludington to Jacob Zeitlin.</unittitle>
+<unitdate>2 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.33" score="2" C-ORDER="269">
+<did>
+<unitid label="Item no.">32.</unitid>
+<unittitle>Jacob Zeitlin to Harold G. Rugg.</unittitle>
+<unitdate>6 May 1938.</unitdate>
+<physdesc>(3 leaves, 3pp. - Typescript carbon).</physdesc>
+</did>
+<scopecontent><p>Includes invoice and list of manuscripts.</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.34" score="1" C-ORDER="271">
+<did>
+<unitid label="Item no.">33.</unitid>
+<unittitle>Jacob Zeitlin to Flora Belle Ludington.</unittitle>
+<unitdate>6 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.35" score="1" C-ORDER="272">
+<did>
+<unitid label="Item no.">34.</unitid>
+<unittitle>Jacob Zeitlin to Herbert F. West.</unittitle>
+<unitdate>6 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.36" score="1" C-ORDER="273">
+<did>
+<unitid label="Item no.">35.</unitid>
+<unittitle>Harold G. Rugg to Jacob Zeitlin.</unittitle>
+<unitdate>11 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.37" score="1" C-ORDER="274">
+<did>
+<unitid label="Item no.">36.</unitid>
+<unittitle>Herbert F. West to Jacob Zeitlin.</unittitle>
+<unitdate>12 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed[?]).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.38" score="1" C-ORDER="275">
+<did>
+<unitid label="Item no.">37.</unitid>
+<unittitle>Jacob Zeitlin to H.B. Collamore.</unittitle>
+<unitdate>13 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.39" score="1" C-ORDER="276">
+<did>
+<unitid label="Item no.">38.</unitid>
+<unittitle>Jacob Zeitlin to R.J. Barry.</unittitle>
+<unitdate>13 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.40" score="1" C-ORDER="277">
+<did>
+<unitid label="Item no.">39.</unitid>
+<unittitle>Harold G. Rugg to Jacob Zeitlin.</unittitle>
+<unitdate>16 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.41" score="1" C-ORDER="278">
+<did>
+<unitid label="Item no.">40.</unitid>
+<unittitle>Jacob Zeitlin to Herbert F. West.</unittitle>
+<unitdate>18 May 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.42" score="2" C-ORDER="279">
+<did>
+<unitid label="Item no.">41.</unitid>
+<unittitle>Jacob Blanck to Jacob Zeitlin.</unittitle>
+<unitdate>22 May 1938.</unitdate>
+</did>
+<scopecontent><p>Page 2104 of <title>Publisher's Weekly</title> with mention of Lawrence catalog.</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.43" score="1" C-ORDER="281">
+<did>
+<unitid label="Item no.">42.</unitid>
+<unittitle>Jacob Zeitlin to H.B. Collamore.</unittitle>
+<unitdate>18 July 1938.</unitdate>
+<physdesc>(2 leaves, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.9.44" score="1" C-ORDER="282">
+<did>
+<unitid label="Item no.">43.</unitid>
+<unittitle>Jacob Zeitlin to Harold G. Rugg.</unittitle>
+<unitdate>12 August 1938.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.2.10" score="1" C-ORDER="283">
+<did>
+<unittitle>Correspondence <emph render="italic">re</emph> sale of D.H. Lawrence Manuscripts. v.p.</unittitle>
+<unitdate>1981.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">8</container>
+<physdesc>(2 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.2.10.2" score="1" C-ORDER="284">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>John Worthen to Jacob Zeitlin.</unittitle>
+<unitdate>1 May 1981.</unitdate>
+<physdesc>(1 leaf, 1p. - Typewritten letter, signed).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.2.10.3" score="1" C-ORDER="285">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle>Jacob Zeitlin to John Worthen.</unittitle>
+<unitdate>8 May 1981.</unitdate>
+<physdesc>(1 leaf, 1p. - Reproduction of typescript).</physdesc>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.2.9.3" score="1" C-ORDER="286">
+<did>
+<unittitle>Series II: Appraisals <unitdate>(1937-1954)</unitdate>.</unittitle>
+<physdesc>(16 items in 7 folders).</physdesc>
+</did>
+<c02 level="file" id="c02-1.2.9.3.2" score="1" C-ORDER="287">
+<did>
+<unittitle>Brief descriptive inventory of the manuscripts of D.H. Lawrence.</unittitle>
+<unitdate>[1938].</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">11</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.3.2.2" score="2" C-ORDER="288">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Brief descriptive inventory of the manuscripts of D.H. Lawrence belonging to Frieda Lawrence and offered for sale by Jake Zeitlin, Incorporated.</unittitle>
+<unitdate>[1938].</unitdate>
+<physdesc>(22 leaves, 22pp. - Typescript).</physdesc>
+</did>
+<scopecontent><p>With another copy (Typescript carbon).</p></scopecontent>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.3.3" score="1" C-ORDER="290">
+<did>
+<unittitle>List of Lawrence manuscripts with values assigned.</unittitle>
+<unitdate>n.d.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">12</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.3.3.2" score="1" C-ORDER="291">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>List of Lawrence manuscripts with values assigned.</unittitle>
+<physdesc>(12 leaves, 12pp. - Holograph and typescript).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.3.4" score="1" C-ORDER="292">
+<did>
+<unittitle>List of Lawrence manuscripts.</unittitle>
+<unitdate>1942 March 3.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">13</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.3.4.2" score="2" C-ORDER="293">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>List of Lawrence manuscripts. [Los Angeles].</unittitle>
+<unitdate>3 March 1942.</unitdate>
+<physdesc>(4 leaves, 4pp. - Holograph).</physdesc>
+</did>
+<scopecontent><p>With list of Lawrence manuscripts with values assigned (2 leaves, 2pp. - Holograph).</p></scopecontent>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.3.5" score="1" C-ORDER="295">
+<did>
+<unittitle>Draft Appraisals of Lawrence Material by Jacob Zeitlin.</unittitle>
+<unitdate>1954 October 10.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<physdesc>(10 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.3.5.2" score="1" C-ORDER="296">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Draft appraisal of D.H. Lawrence holograph manuscripts. Taos.</unittitle>
+<unitdate>10 October 1954.</unitdate>
+<physdesc>(5 leaves - Holograph and typescript).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.3.5.3" score="1" C-ORDER="297">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle>D.H. Lawrence corrected typescripts.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(2 leaves, 2pp. - Typescript).</physdesc>
+<note><p>Note: With holograph notes by Jacob Zeitlin.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.3.5.4" score="1" C-ORDER="298">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle>First and special editions of D.H. Lawrence's books.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(6 leaves, 6pp. - Typescript and typescript carbon).</physdesc>
+<note><p>Note: With holograph notes by Jacob Zeitlin.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.3.5.5" score="1" C-ORDER="299">
+<did>
+<unitid label="Item no.">4.</unitid>
+<unittitle>D.H. Lawrence articles and stories printed in magazines and books. [List] 4.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(2 leaves, 2pp. - Typescript carbon).</physdesc>
+<note><p>Note: With holograph notes by Jacob Zeitlin.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.3.5.6" score="1" C-ORDER="300">
+<did>
+<unitid label="Item no.">5.</unitid>
+<unittitle>Uncorrected typescripts of D.H. Lawrence works, articles. [List 5].</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(3 leaves, 3pp. - Typescript carbon).</physdesc>
+<note><p>Note: With holograph notes by Jacob Zeitlin.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.3.5.7" score="1" C-ORDER="301">
+<did>
+<unitid label="Item no.">6.</unitid>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle>Uncorrected typescripts of D.H. Lawrence's works, short stories. [List] 6.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(2 leaves, 2pp. - Typescript carbon).</physdesc>
+<note><p>Note: With holograph notes by Jacob Zeitlin.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.3.5.8" score="1" C-ORDER="302">
+<did>
+<unitid label="Item no.">7.</unitid>
+<unittitle>Uncorrected typescripts of D.H. Lawrence's works, poems. [List] 7.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(1 leaf - Typescript carbon).</physdesc>
+<note><p>Note: With holograph notes by Jacob Zeitlin.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.3.5.9" score="1" C-ORDER="303">
+<did>
+<unitid label="Item no.">8.</unitid>
+<unittitle>Uncorrected typescripts of D.H. Lawrence's works. Plays. [List] 8.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+<note><p>Note: With holograph notes by Jacob Zeitlin.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.3.5.10" score="1" C-ORDER="304">
+<did>
+<unitid label="Item no.">9.</unitid>
+<unittitle>Recent editions of D.H. Lawrence's books. [List] 9.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(1 leaf, 1p. - Typescript carbon).</physdesc>
+<note><p>Note: With holograph notes by Jacob Zeitlin.</p></note>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.3.5.11" score="1" C-ORDER="305">
+<did>
+<unitid label="Item no.">10.</unitid>
+<unittitle>List of uncorrected typescripts of D.H. Lawrence with values assigned.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(2 leaves, 2pp. - Manuscript).</physdesc>
+<note><p>Note: Angelo Ravagli's hand[?]</p></note>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.3.6" score="1" C-ORDER="306">
+<did>
+<unittitle>Appraisal of D.H. Lawrence material by Jacob Zeitlin.</unittitle>
+<unitdate>1937 January</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">15</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.3.6.2" score="1" C-ORDER="307">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Appraisal of D.H. Lawrence manuscripts belonging to Mrs. D.H. Lawrence based on a descriptive inventory compiled by D.J. Wells and H.K. Wells and examination of originals at the Harvard College Library Treasure Room.</unittitle>
+<unitdate>January 1937.</unitdate>
+<physdesc>(22 leaves, 22pp. - Typescript carbon).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.3.7" score="1" C-ORDER="308">
+<did>
+<unittitle>Appraisal of D.H. Lawrence material by Jacob Zeitlin.</unittitle>
+<unitdate>1954 October 10.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">16</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.3.7.2" score="1" C-ORDER="309">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Zeitlin, Jacob. Appraisal of manuscripts, corrected typescripts and books of D.H. Lawrence in the possession of Frieda Lawrence Ravagli.</unittitle>
+<unitdate>10 October 1954.</unitdate>
+<physdesc>(18 leaves, 18pp. - Typescript carbon).</physdesc>
+<note><p>Note: In a folder with hand-lettered label.</p></note>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.3.8" score="1" C-ORDER="310">
+<did>
+<unittitle>Letter from Ward Ritchie to Jacob Zeitlin.</unittitle>
+<unitdate>1937 July 26.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">23</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.3.8.2" score="2" C-ORDER="311">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Ritchie, Ward. Letter to Jacob Zeitlin. Los Angeles.</unittitle>
+<unitdate>26 July 1937.</unitdate>
+<physdesc>(1 leaf - Typewritten letter, signed).</physdesc>
+</did>
+<scopecontent>
+<p>Estimate for printing of Lawrence catalog.</p>
+<p>[Also], With clipped page proofs of catalog in an envelope.</p>
+</scopecontent>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.2.9.4" score="1" C-ORDER="313">
+<did>
+<unittitle>Series III: Exhibitions and Catalogs <unitdate>(1937-1938)</unitdate>.</unittitle>
+<physdesc>(13 items in 9 folders).</physdesc>
+</did>
+<c02 level="file" id="c02-1.2.9.4.2" score="1" C-ORDER="314">
+<did>
+<unittitle>Programs for a production of David by D.H. Lawrence.</unittitle>
+<unitdate>1938 May 12.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">10</container>
+<physdesc>(2 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.4.2.2" score="1" C-ORDER="315">
+<did>
+<unitid label="Item nos.">1 &amp; 2.</unitid>
+<unittitle>Programs for a production of David by D.H. Lawrence. Occidental College, Los Angeles.</unittitle>
+<unitdate>12 May 1938.</unitdate>
+<physdesc>(2 items).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.4.3" score="1" C-ORDER="316">
+<did>
+<unittitle>John and Edward Bumpus, Limited. catalog.</unittitle>
+<unitdate>1933 April-May.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">17</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.4.3.2" score="2" C-ORDER="317">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>John and Edward Bumpus, Limited. Exhibition of D.H. Lawrence manuscripts, corrected typescripts, sketches, needlework pictures, photographs, relics and first editions. London.</unittitle>
+<unitdate>April-May 1933.</unitdate>
+<physdesc>(4pp.).</physdesc>
+</did>
+<scopecontent><p>Catalog.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.4.4" score="1" C-ORDER="319">
+<did>
+<unittitle>Huxley, Aldous.</unittitle>
+<unitdate>[1938].</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">18</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.4.4.2" score="1" C-ORDER="320">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Huxley, Aldous. Introduction to the catalogue of the manuscripts of D.H. Lawrence. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(5 leaves - Typescript).</physdesc>
+<note><p>Note: For Los Angeles Public Library (LAPL) exhibition, 1938</p></note>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.4.5" score="1" C-ORDER="321">
+<did>
+<unittitle>List of recipients of Lawrence catalog.</unittitle>
+<unitdate>[1938].</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">19</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.4.5.2" score="1" C-ORDER="322">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>List of recipients of Lawrence catalog. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(1 leaf - Typescript with Manuscript notes).</physdesc>
+<note><p>Note: For Los Angeles Public Library (LAPL) exhibition, 1938</p></note>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.4.6" score="1" C-ORDER="323">
+<did>
+<unittitle>Zeitlin, Jacob, introductory note.</unittitle>
+<unitdate>[1938].</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">20</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.4.6.2" score="1" C-ORDER="324">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Zeitlin, Jacob, introductory note. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(2 leaves - Typescript carbon).</physdesc>
+<note><p>Note: For Los Angeles Public Library (LAPL) exhibition, 1938</p></note>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.4.7" score="1" C-ORDER="325">
+<did>
+<unittitle>An extraordinary collection of manuscripts of D.H. Lawrence.</unittitle>
+<unitdate>[1938].</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">21</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.4.7.2" score="1" C-ORDER="326">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>An extraordinary collection of manuscripts of D.H. Lawrence. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(8 leaves - Typescript and typescript carbon).</physdesc>
+<note><p>Note: For Los Angeles Public Library (LAPL) exhibition, 1938</p></note>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.4.8" score="1" C-ORDER="327">
+<did>
+<unittitle>Notes for an exhibition of the manuscripts of D.H. Lawrence.</unittitle>
+<unitdate>[1938].</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">22</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.4.8.2" score="2" C-ORDER="328">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Notes for an exhibition of the manuscripts of D.H. Lawrence to be held in the Rotunda of the Los Angeles Public Library (LAPL).</unittitle>
+<unitdate>November 1-20, 1938.</unitdate>
+<physdesc>(2 leaves, 2pp. - Typescript with manuscript notes).</physdesc>
+</did>
+<scopecontent><p>With another leaf of manuscript notes attached.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.4.9" score="1" C-ORDER="330">
+<did>
+<unittitle>Notes by Jacob Zeitlin <emph render="italic">re</emph> catalog and collection.</unittitle>
+<unitdate>n.d.</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">24</container>
+<physdesc>(1 item).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.4.9.2" score="1" C-ORDER="331">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle>Notes by Jacob Zeitlin <emph render="italic">re</emph> catalog and collection. n.p.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(1 leaf - Holograph).</physdesc>
+</did>
+</c03>
+</c02>
+<c02 level="file" id="c02-1.2.9.4.10" score="1" C-ORDER="332">
+<did>
+<unittitle>Clippings <emph render="italic">re</emph> various Lawrence exhibitions and catalogs.</unittitle>
+<unitdate>ca. 1938</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">25</container>
+<physdesc>(4 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.4.10.2" score="2" C-ORDER="333">
+<did>
+<unitid label="Item no.">1.</unitid>
+<unittitle><title>Mount Holyoke News</title>.</unittitle>
+<unitdate>24 April 1938.</unitdate>
+</did>
+<scopecontent><p><emph render="italic">re</emph> Lawrence exhibit.</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.4.10.3" score="2" C-ORDER="335">
+<did>
+<unitid label="Item no.">2.</unitid>
+<unittitle><title>New York Times Book Review</title>.</unittitle>
+<unitdate>27 February 1938.</unitdate>
+</did>
+<scopecontent><p><emph render="italic">re</emph> Lawrence exhibit at Harvard.</p></scopecontent>
+</c03>
+<c03 level="item" id="c03-1.2.9.4.10.4" score="1" C-ORDER="337">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle>Unidentified clipping <emph render="italic">re</emph> Lawrence catalog for Los Angeles Public Library (LAPL) exhibition of Lawrence material.</unittitle>
+<unitdate>n.d.</unitdate>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.4.10.5" score="1" C-ORDER="338">
+<did>
+<unitid label="Item no.">4.</unitid>
+<unittitle>Unidentified clipping <emph render="italic">re</emph> Dartmouth exhibition of Lawrence material.</unittitle>
+<unitdate>n.d.</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.2.9.5" score="1" C-ORDER="339">
+<did>
+<unittitle>Series IV: Photographs <unitdate>(1955)</unitdate>.</unittitle>
+<physdesc>(3 items in 1 folder).</physdesc>
+</did>
+<c02 level="file" id="c02-1.2.9.5.2" score="1" C-ORDER="340">
+<did>
+<unittitle>Photographs.</unittitle>
+<unitdate>ca. 1955</unitdate>
+<container type="box" label="Box ">1</container>
+<container type="folder" label="Folder ">9</container>
+<physdesc>(3 items).</physdesc>
+</did>
+<c03 level="item" id="c03-1.2.9.5.2.2" score="1" C-ORDER="341">
+<did>
+<unitid label="Item nos.">1 &amp; 2.</unitid>
+<unittitle>Snapshots of Frieda Lawrence by Jacob Zeitlin. Taos.</unittitle>
+<unitdate>1955[?].</unitdate>
+<physdesc>(2 items).</physdesc>
+</did>
+</c03>
+<c03 level="item" id="c03-1.2.9.5.2.3" score="1" C-ORDER="342">
+<did>
+<unitid label="Item no.">3.</unitid>
+<unittitle>Photograph of George Biddle's painting of Frieda Lawrence.</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>(1 item).</physdesc>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
