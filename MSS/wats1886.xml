@@ -1,0 +1,1454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/c89k48nh" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::UCLA Library Special Collections//TEXT(US::CLU-SC::1886::Diane E. Watson papers)//EN" "wats1886.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Diane E. Watson papers, 1978-2011</titleproper>
+<titleproper type="filing">Watson (Diane E.) papers</titleproper>
+<author>Processed by Brian Kovalesky in the Center for Primary Research and Training (CFPRT), with assistance from Megan Hahn Fraser, August 2011; machine-readable finding aid created by Caroline Cubé.</author>
+<sponsor>The processing of this collection was generously supported by <emph render="bold"><extref href="http://www.arcadiafund.org.uk" actuate="onrequest" show="new">Arcadia.</extref></emph></sponsor>
+</titlestmt>
+<publicationstmt>
+<publisher>UCLA Library Special Collections</publisher>
+<address>
+<addressline>Room A1713, Charles E. Young Research Library</addressline>
+<addressline>Box 951575</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Email: spec-coll@library.ucla.edu</addressline>
+<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+</address>
+<date calendar="gregorian" era="ce">© 2012</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from database containing container list structure and data, encoding added via MS Access and Notetab Pro; Date of source: <date calendar="gregorian" era="ce">August 2011;</date> frontmatter gathered MARC Record. Supplementary encoding and revision supplied by Caroline Cubé.</creation>
+<langusage>Description is in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
+<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" id="archdesc-1.2">
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">Diane E. Watson papers</unittitle>
+<unitdate type="inclusive" normal="1978/2011">1978-2011</unitdate>
+<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1886</unitid>
+<origination label="Creator">
+<persname rules="aacr2">Watson, Diane E.</persname></origination>
+<physdesc label="Extent">
+<extent>24 boxes (13.25 linear ft.)</extent>
+</physdesc>
+<abstract label="Abstract">Diane E. Watson is an American politician who served as a United States Representative, United States Ambassador to the Republic of Micronesia, California State Senator, and Los Angeles Unified School District Board of Education member. The collection covers Watson's time in the California State Senate, Ambassadorship to Micronesia, and in the U.S. Congress. It includes press clippings collected and arranged by Watson's staff, a sizable collection of photographs from events throughout Watson's career, correspondence, and documents from various events, meetings, and conferences. </abstract>
+<langmaterial label="Language">Finding aid is written in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of California, Los Angeles. Library Special Collections.</corpname>
+<address><addressline>Los Angeles, California 90095-1575</addressline></address>
+</repository>
+<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information.</physloc>
+</did>
+<descgrp type="admininfo" id="descgrp-1.2.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Open for research. STORED OFF-SITE AT SRLF. Advance notice is required for access to the collection. Please contact UCLA Library Special Collections for paging information. </p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical object belong to the UC Regents. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+</userestrict>
+<acqinfo encodinganalog="541">
+<head>Provenance/Source of Acquisition</head>
+<p>Gift of Diane Watson, March 2011.</p>
+</acqinfo>
+<processinfo>
+<head>Processing Note</head>
+<p>Processed by Brian Kovalesky in the Center for Primary Research and Training (CFPRT), with assistance from Megan Hahn Fraser, August 2011.</p>
+<p>The processing of this collection was generously supported by <extref href="http://www.arcadiafund.org.uk" actuate="onrequest" show="new">
+<emph render="bold">Arcadia,</emph></extref></p>
+</processinfo>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Diane E. Watson papers (Collection 1886). UCLA Library Special Collections, Charles E. Young Research Library, UCLA.</p>
+</prefercite>
+<odd>
+<head>UCLA Catalog Record ID</head>
+<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=6776321">6776321</extref></p>
+</odd>
+</descgrp>
+<bioghist encodinganalog="545" id="bioghist-1.2.3">
+<head>Biography/History</head>
+<p>Diane E. Watson (born November 12, 1933) is a former United States Representative (2001-2011), United States Ambassador to the Republic of Micronesia (1999-2000), California State Senator (1978-1998), and Los Angeles Unified School District Board of Education member (1975-1978). Watson's Congressional (32nd/33rd) and Senatorial (26th/28th/30th) districts are located entirely within Los Angeles County, including Culver City, portions of the city of Los Angeles, and unincorporated areas of Los Angeles County. She is a life-long resident of the area.</p>
+<p>Watson attended Los Angeles City College and UCLA, where she earned a B.A. in Education. She also earned an M.A. in School Psychology from California State University, Los Angeles, and a Ph.D. in Educational Administration from Claremont Graduate University. </p>
+<p>She was elected to the California State Senate in 1978, making history by being the second woman and first African American woman to serve in that body. During her time in office, she chaired the Senate Health and Human Services Committee (1981-1998) and served on the Senate Judiciary Committee. President Bill Clinton appointed her United States Ambassador to Micronesia in 1999. </p>
+<p>Watson was elected to the 107th U.S. House of Representatives in 2001 in a special election for the seat vacated due to the death of Congressman Julian C. Dixon. She was re-elected four times before her retirement in 2011 at the end of the 111th Congress. While in Congress, Watson chaired the Congressional Entertainment Industries Caucus, and was a member of the House Foreign Affairs Committee and the House Oversight and Government Reform Committee.</p>
+</bioghist>
+<scopecontent encodinganalog="520" id="scopecontent-1.2.4">
+<head>Scope and Content</head>
+<p>The collection covers Watson's time in the California State Senate, Ambassadorship to Micronesia, and the U.S. House of Representatives. Note that there are only a limited number of items from her time as ambassador. The collection includes press clippings collected and arranged by Watson's staff, a sizable collection of photographs from events throughout Watson's career, correspondence, and documents from various events, meetings, and conferences. The collection also contains materials related to specific areas of interest for Watson, including the controversy over Ebonics in the Oakland, Calif., School District in the mid-1990s, the Sherrice Iverson Justice Committee, and the debate over the downsizing of the King/Drew medical center. Additionally, the collection includes mementos from Watson's trip to South Korea in August, 2010-particularly significant as her Congressional district included Los Angeles's Koreatown, the largest population of Koreans outside of Korea. Mementos from the trip include Watson's honorary doctorate from Chung Ang University, Korean literature panels, and souvenir menus from banquets in Watson's honor.</p>
+</scopecontent>
+<arrangement id="arrangement-1.2.5">
+<head>Organization and Arrangement</head>
+<p>Arranged in the following series: 
+<list type="ordered" numeration="arabic">
+<item>State senate</item>
+<item>Ambassadorship to Micronesia and Congress. </item>
+</list>
+It is further arranged into subseries according to either item type or subject.
+</p>
+</arrangement>
+ <phystech id="phystech-1.2.6">
+  <head>Physical Characteristics and Technical Requirements</head>
+  <p>COLLECTION CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing.  To access digital materials you must notify the reference desk in advance of your visit.</p>
+ </phystech> 
+<controlaccess id="controlaccess-1.2.7">
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname role="subject" source="lcnaf" encodinganalog="600">Watson, Diane E. --Archives.</persname>
+<subject source="lcsh" encodinganalog="650">African American women legislators --California --Archival resources.</subject>
+<controlaccess>
+<head>Genres and Forms of Material</head>
+<genreform source="aat" encodinganalog="655">photographs.</genreform>
+</controlaccess>
+</controlaccess>
+</controlaccess>
+<dsc type="in-depth" id="dsc-1.2.8" score="1" C-ORDER="1" MAX-C-ORDER="263">
+<head>Container List</head>
+<c01 level="series" id="c01-1.2.8.2" score="2" C-ORDER="2"><did><unittitle>State senate. </unittitle>
+<unitdate>1978-1998</unitdate></did>
+<scopecontent><p>This series is comprised of press clippings, letters/correspondence, research/background
+ information, declarations and awards, and photos from Watson's terms as California state senator (1978-1998),
+ representing the 26th/28th/30th Districts. It includes correspondence to and from constituents and photos from events
+ during the early part of Watson's career as a state senator. Also includes a framed photo of Watson with President
+ Jimmy Carter.</p></scopecontent>
+<c02 level="subseries" id="c02-1.2.8.2.3" score="1" C-ORDER="4">
+<did><unittitle>Ebonics controversy (Oakland School District). </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.3.2" score="2" C-ORDER="5"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Press clippings and documents. </unittitle>
+<unitdate>1996-1997</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, text of the California State Senate's “Equality in English Instruction Act,”
+ memoranda re: the ebonics controversy, the text of the Oakland Board of Education resolution re: adoption of
+ recommendations of its African-American Task Force.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.4" score="1" C-ORDER="7">
+<did><unittitle>Health and Human Services Committee. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.4.2" score="2" C-ORDER="8"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Committee meeting materials. </unittitle>
+<unitdate>1998</unitdate>
+</did>
+<scopecontent><p>Includes notes and other materials from a State Senate Health and Human Services committee
+ meeting on September 16, 1998. The topic of the meeting was "Tobacco Education Media and Evaluation
+ Issues.".</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.5" score="1" C-ORDER="10">
+<did><unittitle>California Democratic Party. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.5.2" score="2" C-ORDER="11"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>California state campaigns. </unittitle>
+<unitdate>1996-1997</unitdate>
+</did>
+<scopecontent><p>Materials re: California state Democratic campaigns and items related to the 1997 State Central
+ Committee of the Democratic Party meeting and the 1997 California Democratic Party Convention.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.6" score="1" C-ORDER="13">
+<did><unittitle>Sherrice Iverson Justice Campaign. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.6.2" score="2" C-ORDER="14"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Documents and correspondence. </unittitle>
+<unitdate>1998</unitdate>
+</did>
+<scopecontent><p>Includes documents and press clippings re: the Sherrice Iverson Justice
+ Campaign.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.7" score="1" C-ORDER="16">
+<did><unittitle>Declarations/commendations/awards. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.7.2" score="2" C-ORDER="17"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>John Lamar Hill, Jr. </unittitle>
+<unitdate>1998</unitdate>
+</did>
+<scopecontent><p>Includes text of resolution for the memorializing of John Lamar Hill, Jr., co-founder of Angelus
+ Funeral Home, and photocopy of Hill's obituary.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.7.3" score="2" C-ORDER="19"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Awards. </unittitle>
+<unitdate>1992/1998</unitdate>
+</did>
+<scopecontent><p>Includes a thank you letter re: Urban League Community Service Award presentation to Watson,
+ 1998.	 Also includes the "Keeper of the Dream" certificate, awarded to Watson from the City of Los Angeles, March 27,
+ 1992.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.8" score="1" C-ORDER="21">
+<did><unittitle>Correspondence. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.8.2" score="2" C-ORDER="22"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Constituent correspondence (1/3). </unittitle>
+ <unitdate>Undated.</unitdate>
+</did>
+<scopecontent><p>Correspondence from constituents and community organizations and copies of correspondence from
+  Watson on behalf of constituents.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.8.3" score="2" C-ORDER="24"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Constituent correspondence (2/3). </unittitle>
+ <unitdate>Undated.</unitdate>
+</did>
+<scopecontent><p>Correspondence from constituents and community organizations and copies of correspondence from
+  Watson on behalf of constituents.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.8.4" score="2" C-ORDER="26"><did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Constituent correspondence (3/3). </unittitle>
+ <unitdate>Undated.</unitdate>
+</did>
+<scopecontent><p>Correspondence from constituents and community organizations and copies of correspondence from
+  Watson on behalf of constituents.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.8.5" score="1" C-ORDER="28"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Lawmaker correspondence. </unittitle>
+ <unitdate>Undated.</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.8.6" score="1" C-ORDER="29"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Letters of recommendation/support. </unittitle>
+ <unitdate>Undated.</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.9" score="1" C-ORDER="30">
+<did><unittitle>Events/meetings/conferences. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.9.2" score="2" C-ORDER="31"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Lectures. </unittitle>
+<unitdate>1998</unitdate>
+</did>
+<scopecontent><p>Text of Watson lecture at Los Angeles Harbor College.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.9.3" score="2" C-ORDER="33"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Invitations. </unittitle>
+<unitdate>1997-1998</unitdate>
+</did>
+<scopecontent><p>Invitations to community events, 1997-1998.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.9.4" score="1" C-ORDER="35"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Meeting/conference materials. </unittitle>
+<unitdate>1996-1997</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.10" score="1" C-ORDER="36">
+<did><unittitle>Press relations/media activities. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.10.2" score="2" C-ORDER="37"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Press clippings. </unittitle>
+ <unitdate>Undated.</unitdate>
+</did>
+<scopecontent><p>Includes clippings about the 1996 California state senate election, 25th district.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.11" score="1" C-ORDER="39">
+<did><unittitle>Photos. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.11.2" score="2" C-ORDER="40"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>1979-1986. </unittitle>
+<unitdate>1979-1986</unitdate>
+</did>
+<scopecontent><p>Photos from campaign and fundraising events. Includes Watson's swearing-in ceremony, April,
+ 1979.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.11.3" score="2" C-ORDER="42"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Additional photos (1 of 2). </unittitle>
+ <unitdate>Undated.</unitdate>
+</did>
+<scopecontent><p>Photos from various events and of various people. Includes photos with President Bill Clinton, circa
+ 1996, and Michael Wu, president U.S.-Asia Communication Co. [?] and unidentified man (in letter-sized
+ envelope).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.11.4" score="1" C-ORDER="44"><did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Additional photos (2 of 2). </unittitle>
+ <unitdate>Undated.</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.2.11.5" score="2" C-ORDER="45"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>With President Jimmy Carter. </unittitle>
+ <unitdate>Undated.</unitdate>
+</did>
+<scopecontent><p>Framed photo of Watson with President Jimmy Carter and others at the White House
+ (undated).</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.12" score="1" C-ORDER="47">
+<did><unittitle>Maps. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.12.2" score="2" C-ORDER="48"><did>
+<container type="box" label="Box">23</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>1998 State Transportation Improvement Program map. </unittitle>
+<unitdate>1998</unitdate>
+</did>
+<scopecontent><p>Map titled “1998 State Transportation Improvement Program and State Highway Operation and
+ Protection Program Projects Senate District 26.”</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.2.13" score="1" C-ORDER="50">
+<did><unittitle>Reports and studies. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.2.13.2" score="2" C-ORDER="51"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Reports and studies. </unittitle>
+<unitdate>1998</unitdate>
+</did>
+<scopecontent><p>Information re: various political issues, including welfare/self-sufficiency, extremist organizations on
+ the Internet, and the LAX (Los Angeles International Airport) Master Plan. Also includes reports from the California
+ Legislative Analyst's Office.</p></scopecontent>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.2.8.3" score="2" C-ORDER="53"><did><unittitle>Ambassadorship to Micronesia and Congress. </unittitle>
+<unitdate>1999-2011</unitdate></did>
+<scopecontent><p>This series includes a wide range of items from Watson's time as Ambassador to the Republic of
+ Micronesia (1999-2000) and as a member of the U.S. House of Representatives, representing the 32nd and 33rd
+ Congressional District (2001-2011). Some subseries include items related to specific issues of particular interest to
+ Watson. Watson's interest in the Republic of Korea and Korean Americans was prompted in large part by the fact that
+ she represented a considerable Korean constituency in her Congressional district. The remaining subseries are
+ organized by item type, and include a large collection of photos of Watson from various political and community events.
+ The "Albums" subseries consists of collections of non-specific items divided by year and include various types of items of
+  interest (press clippings, correspondence, flyers, internal documents, etc.).</p></scopecontent>
+<c02 level="subseries" id="c02-1.2.8.3.3" score="1" C-ORDER="55">
+<did><unittitle>Republic of Korea. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.3.2" score="2" C-ORDER="56"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Cheonan incident. </unittitle>
+<unitdate>2010</unitdate>
+</did>
+<scopecontent><p>Press clippings re: Cheonan incident. Includes U.S. House of Representatives resolutions, a draft of
+ letter of support for South Korea, a copy of the Cheonan incident report, and internal Watson staff correspondence re:
+ the Cheonan incident.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.3.3" score="2" C-ORDER="58"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>South Korea-U.S. Free Trade Agreement (KORUS FTA). </unittitle>
+<unitdate>2007-2009</unitdate>
+</did>
+<scopecontent><p>Includes Congressional Research Service reports on the KORUS FTA, a letter from the Consulate
+ General of the Republic of Korea, and press clippings re: the KORUS FTA.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.3.4" score="2" C-ORDER="60"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>North Korea Food Shortage Crisis Project. </unittitle>
+<unitdate>2008</unitdate>
+</did>
+<scopecontent><p>Includes correspondence and press clippings re: the Project.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.3.5" score="3" C-ORDER="62"><did>
+<container type="box" label="Box">4</container>
+<unittitle>Seoul, Korea trip, August 2010. </unittitle>
+<unitdate>2010</unitdate>
+</did>
+<scopecontent><p>Memorabilia from trip: Paldalmun Gate Plaque (red box, originally marked as “Gift #1”); Korean
+ literature panels (rectangular white box decorated with characters); souvenir welcome banner–“Diane E. Watson
+ Defender of Human Right and Women's Rights;” audio compilations from Chung-Ang University President Bum Hoon
+ Park; folder containing information about Chung-Ang University, Korea; bound photo of Watson and others (unnamed)
+ from Hyundai-Kia Motors R&amp;D Center visit (2 copies); information on the City of Suwon, Korea and letter from Mayor of
+ Suwon, Korea, to Watson; souvenir menu from “Congratulatory Banquet For the Honorable U.S. Congresswoman Diane
+ E. Watson Hosted by Dr. Bum Hoon Park President of Chung-Ang University” souvenir menu with Hyundai-Kia Motors
+ logos; guide: “The National Assembly of the Republic of Korea;” Korea International Trade Association (KITA) – 2008
+ Korean Contemporary Film Collection; booklet from the United States Embassy in Seoul, Korea – Korean-
+ American Connections; booklet from the United States Embassy in Seoul, Korea: Habib House, The American Embassy
+ Residence, Seoul, Korea; signed copy of book by Jae-oh Lee, politician.</p>
+</scopecontent>
+ <phystech>
+  <head>Physical Characteristics and Technical Requirements</head>
+  <p>Includes 4 DVDs and 4 CDs.</p>
+  <p>Special equipment or further processing may be required for viewing.  To access digital materials you must notify the reference desk in advance of your visit.</p>
+ </phystech> 
+</c03>
+<c03 level="file" id="c03-1.2.8.3.3.6" score="2" C-ORDER="65"><did>
+<container type="box" label="Box">5</container>
+<unittitle>Chung Ang University honorary doctorate memorabilia. </unittitle>
+<unitdate>2010</unitdate>
+</did>
+<scopecontent><p>Memorabilia from August, 2010 trip to Seoul, Korea. Includes honorary doctorate cap and gloves,
+ honorary doctorate diploma (in gold cover), honorary doctorate medal, and honorary doctorate business cards–written
+ in English and Korean (two cases–in blue bag).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.3.7" score="2" C-ORDER="67"><did>
+<container type="box" label="Box">6</container>
+<unittitle>Honorary doctorate gown. </unittitle>
+<unitdate>2010</unitdate>
+</did>
+<scopecontent><p>Ceremonial gown and hood from Chung Ang University honorary doctorate
+ ceremony.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.3.4" score="1" C-ORDER="69">
+<did><unittitle>Korean Americans. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.4.2" score="3" C-ORDER="70"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Colonel Young Oak Kim. </unittitle>
+<unitdate>2008</unitdate>
+</did>
+<scopecontent><p>Biographies, notes, and articles about Colonel Young Oak Kim, a Korean American war hero.
+ Includes a documentary film entitled "Hero, Col. Young Oak Kim".</p>
+</scopecontent>
+ <phystech>
+  <head>Physical Characteristics and Technical Requirements</head>
+  <p>Includes 1 DVD.</p>
+  <p>Special equipment or further processing may be required for viewing.  To access digital materials you must notify the reference desk in advance of your visit.</p>
+ </phystech> 
+</c03>
+<c03 level="file" id="c03-1.2.8.3.4.3" score="2" C-ORDER="73"><did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Dosan Ah Chang Ho Post Office dedication (1 of 3). </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Photos from Post Office dedication ceremony (printed black &amp; white copies of digital
+ photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.4.4" score="2" C-ORDER="75"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Dosan Ah Chang Ho Post Office dedication (2 of 3). </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Photos from Post Office dedication ceremony (printed black &amp; white copies of digital
+ photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.4.5" score="2" C-ORDER="77"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>Dosan Ah Chang Ho Post Office dedication (3 of 3). </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Photos from Post Office dedication ceremony (printed black &amp; white copies of digital
+ photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.4.6" score="2" C-ORDER="79"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Letters of commendation and congratulations. </unittitle>
+<unitdate>2008</unitdate>
+</did>
+<scopecontent><p>Includes letter of recognition from Watson for Chang Lee, president of the Korean American
+ Chamber of Commerce of Los Angeles, and letter of congratulations from Watson for the third anniversary edition of the
+ Korea Herald Business newspaper.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.4.7" score="2" C-ORDER="81"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2010 census-Korean American community. </unittitle>
+<unitdate>2009-2010</unitdate>
+</did>
+<scopecontent><p>Notes, letters, promotional materials related to Los Angeles's Korean American community's
+ participation in the 2010 U.S. Census.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.4.8" score="2" C-ORDER="83"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Koreatown tour, May 2008. </unittitle>
+<unitdate>2008</unitdate>
+</did>
+<scopecontent><p>Documents related to Watson's tour of Koreatown in May, 2008. Includes Koreatown tour planning
+ documents and memos, correspondence re: the Koreatown tour, text of Watson's Koreatown tour speech, index card
+ notes for Watson's Koreatown tour speech, and itineraries for Koreatown tour.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.4.9" score="2" C-ORDER="85"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Republic of Korea-United States Inter-parliamentary Exchange. </unittitle>
+<unitdate>2008</unitdate>
+</did>
+<scopecontent><p>Folder containing background, agenda, biographies of participants, and other information relevant
+ to the 8th Annual Republic of Korea-United States Inter-parliamentary Exchange, July 26-30, 2008.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.3.5" score="1" C-ORDER="87">
+<did><unittitle>King/Drew Medical Center. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.5.2" score="2" C-ORDER="88"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Press clippings. </unittitle>
+<unitdate>2004-2005</unitdate>
+</did>
+<scopecontent><p>See also Series: 2005 collection for more King/Drew Medical Center press
+ clippings.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.5.3" score="2" C-ORDER="90"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Related documents. </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Includes agendas and notes from meetings about the proposed King/Drew Medical Center closing,
+ internal notes/memos among Watson staffers, and letter from Rep. Juanita Millender-McDonald to U.S. Secretary of
+ Health and Human Services Tommy Thompson re: the proposed cutbacks at King/Drew Medical
+ Center.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.3.6" score="1" C-ORDER="92">
+<did><unittitle>Letters of recommendation/support. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.6.2" score="2" C-ORDER="93"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Letters of recommendation/support, 2005-2008. </unittitle>
+<unitdate>2005-2008</unitdate>
+</did>
+<scopecontent><p>Letters from Watson in support of constituents and constituent organizations. Most letters are in
+ support of Korean-American constituents/constituent organizations.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.6.3" score="2" C-ORDER="95"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Letters of recommendation/support, 2009. </unittitle>
+<unitdate>2009</unitdate>
+</did>
+<scopecontent><p>Letters from Watson in support of constituents and constituent organizations.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.6.4" score="2" C-ORDER="97"><did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Letters of recommendation/support, 2010. </unittitle>
+<unitdate>2010</unitdate>
+</did>
+<scopecontent><p>Letters from Watson in support of constituents and constituent organizations.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.3.7" score="1" C-ORDER="99">
+<did><unittitle>Press relations/media activities. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.7.2" score="2" C-ORDER="100"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2009 press clippings (1 of 2). </unittitle>
+<unitdate>2009</unitdate>
+</did>
+<scopecontent><p>Also includes a press release from Watson urging President Obama to support health reform; and
+ document from Watson's office with questions and answers re: the American Recovery and Reinvestment
+ Act.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.3" score="2" C-ORDER="102"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2009 press clippings (2 of 2). </unittitle>
+<unitdate>2009</unitdate>
+</did>
+<scopecontent><p>Also includes background information on a Business &amp; Professional Women Hollywood luncheon
+ honoring Watson, and a letter from members of the Los Angeles Delegation of the U.S. House of Representatives,
+ including Watson, to the Los Angeles Unified School District Board of Education.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.4" score="1" C-ORDER="104"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2008 press clippings (1 of 3). </unittitle>
+<unitdate>2008</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.5" score="1" C-ORDER="105"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2008 press clippings (2 of 3). </unittitle>
+<unitdate>2008</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.6" score="2" C-ORDER="106"><did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2008 press clippings (3 of 3). </unittitle>
+<unitdate>2008</unitdate>
+</did>
+<scopecontent><p>Also includes a brochure re: a proposed rail line protest, a printed overview of the President's fiscal-
+ year 2008 education budget, and an unattributed printed color digital photo of Watson sitting with others at an
+ event.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.7" score="2" C-ORDER="108"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2007 press clippings (1 of 2). </unittitle>
+<unitdate>2007</unitdate>
+</did>
+<scopecontent><p>Contains a two-page guide to 2007 clippings. Guide not fully accurate as clips have been added and
+  changed over time.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.8" score="1" C-ORDER="110"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2007 press clippings (2 of 2). </unittitle>
+<unitdate>2007</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.9" score="2" C-ORDER="111"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2006 Los Angeles Unified School District press clippings. </unittitle>
+<unitdate>2006</unitdate>
+</did>
+<scopecontent><p>Includes press clippings re: Los Angeles mayor's attempt to take over the Los Angeles Unified
+ School District.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.10" score="2" C-ORDER="113"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2005 press clippings (1 of 2). </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Also includes two press clippings from 2006, at the front of the folder.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.11" score="2" C-ORDER="115"><did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2005 press clippings (2 of 2). </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Also includes internal press-related correspondence, a media advisory and press release, and a
+ "thank you" letter to Watson from KJLH radio in Inglewood, Calif.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.12" score="1" C-ORDER="117"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2004 press clippings (1 of 2). </unittitle>
+<unitdate>2004</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.13" score="2" C-ORDER="118"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2004 press clippings (2 of 2). </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Also Includes news releases, internal emails from Watson staff, a Los Angeles Unified School District
+  contractor open house flyer, and a Congressional Black Caucus letter re: Haiti.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.14" score="2" C-ORDER="120"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2003 press clippings. </unittitle>
+<unitdate>2003</unitdate>
+</did>
+<scopecontent><p>Also includes a program from events at the Los Angeles Third Church of Religious Science,
+ advertisements to various events, and copies of Watson's official biography.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.15" score="2" C-ORDER="122"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2002-2003 press clippings. </unittitle>
+<unitdate>2002-2003</unitdate>
+</did>
+<scopecontent><p>Also includes a news release from Watson's office.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.16" score="1" C-ORDER="124"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2002 press clippings (1 of 7). </unittitle>
+<unitdate>2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.17" score="1" C-ORDER="125"><did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>2002 press clippings (2 of 7). </unittitle>
+<unitdate>2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.18" score="1" C-ORDER="126"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2002 press clippings (3 of 7). </unittitle>
+<unitdate>2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.19" score="1" C-ORDER="127"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2002 press clippings (4 of 7). </unittitle>
+<unitdate>2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.20" score="1" C-ORDER="128"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2002 press clippings (5 of 7). </unittitle>
+<unitdate>2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.21" score="1" C-ORDER="129"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2002 press clippings (6 of 7). </unittitle>
+<unitdate>2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.22" score="2" C-ORDER="130"><did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2002 press clippings (7 of 7). </unittitle>
+<unitdate>2002</unitdate>
+</did>
+<scopecontent><p>Also includes news releases, press advisories, and statements from Watson's office, copy of Watson
+  biography on official congressional letterhead. Note that one clip from 2001 is included, at the back of this
+ folder.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.23" score="1" C-ORDER="132"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2001-2002 press clippings (1 of 9). </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.24" score="1" C-ORDER="133"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2001-2002 press clippings (2 of 9). </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.25" score="1" C-ORDER="134"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2001-2002 press clippings (3 of 9). </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.26" score="1" C-ORDER="135"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2001-2002 press clippings (4 of 9). </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.27" score="1" C-ORDER="136"><did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2001-2002 press clippings (5 of 9). </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.28" score="1" C-ORDER="137"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2001-2002 press clippings (6 of 9). </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.29" score="1" C-ORDER="138"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2001-2002 press clippings (7 of 9). </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.30" score="1" C-ORDER="139"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2001-2002 press clippings (8 of 9). </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.31" score="1" C-ORDER="140"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2001-2002 press clippings (9 of 9). </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.32" score="2" C-ORDER="141"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2001-2002 news releases and media advisories. </unittitle>
+<unitdate>2001-2002</unitdate>
+</did>
+<scopecontent><p>News releases and media advisories from Watson's office.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.33" score="1" C-ORDER="143"><did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>2001 press clippings (1 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.34" score="1" C-ORDER="144"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2001 press clippings (2 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.35" score="1" C-ORDER="145"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2001 press clippings (3 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.36" score="1" C-ORDER="146"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2001 press clippings (4 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.37" score="1" C-ORDER="147"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2001 press clippings (5 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.38" score="1" C-ORDER="148"><did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2001 press clippings (6 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.39" score="1" C-ORDER="149"><did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2001 press clippings (7 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.40" score="1" C-ORDER="150"><did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2001 press clippings (8 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.41" score="1" C-ORDER="151"><did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2001 press clippings (9 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.42" score="1" C-ORDER="152"><did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2001 press clippings (10 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.43" score="1" C-ORDER="153"><did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2001 press clippings (11 of 11). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.44" score="2" C-ORDER="154"><did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Koreatown/Korean-Americans and related issues, 2005-2008. </unittitle>
+<unitdate>2005-2008</unitdate>
+</did>
+<scopecontent><p>Press clippings re: the Koreatown section of Los Angeles, Korean-Americans, South Korea, North
+ Korea, Korean diplomacy. Includes some clippings from Korean-language publications.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.45" score="2" C-ORDER="156"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>Media materials. </unittitle>
+<unitdate>2009(?) and 2007</unitdate>
+</did>
+<scopecontent><p>Script for radio advertisement for California Assembly member Curren Price's campaign for State
+ Senate (undated), and internal correspondence from Watson staff members re: scholarship event at
+ UCLA.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.46" score="1" C-ORDER="158"><did>
+<container type="box" label="Box">23</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2001-2003 press clippings (1 of 2). </unittitle>
+<unitdate>2001-2003</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.7.47" score="1" C-ORDER="159"><did>
+<container type="box" label="Box">23</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2001-2003 press clippings (2 of 2). </unittitle>
+<unitdate>2001-2003</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.3.8" score="1" C-ORDER="160">
+<did><unittitle>Events. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.8.2" score="2" C-ORDER="161"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>District events. </unittitle>
+<unitdate>2009</unitdate>
+</did>
+<scopecontent><p>Agenda and background information from commemoration for California State Assemblywoman
+ Karen Bass, May 17, 2009.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.8.3" score="2" C-ORDER="163"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Conferences. </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Letter re: "Television's Challenges in Black, White and Multicolor" event, October
+ 2004.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.3.9" score="1" C-ORDER="165">
+<did><unittitle>Awards/Honors. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.9.2" score="2" C-ORDER="166"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Awards. </unittitle>
+<unitdate>2004/2009</unitdate>
+</did>
+<scopecontent><p>Includes a program from presentation of the Business &amp; Professional Women Hollywood 25th annual
+  Susan B. Anthony Award to Watson, March 29, 2009.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.9.3" score="2" C-ORDER="168"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Congressional declarations. </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Congressional floor statement by Watson honoring attorney Johnnie L. Cochran, Jr. upon his
+ passing.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.3.10" score="1" C-ORDER="170">
+<did><unittitle>Photos. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.10.2" score="2" C-ORDER="171"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>2005 events. </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Photos from "MAP," USC, and Shirley Calloway events (printed black &amp; white copies of digital
+ photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.3" score="2" C-ORDER="173"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Cleo Jackson graduation. </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Photos of graduation on May 15, 2005 (printed black &amp; white copies of digital
+ photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.4" score="2" C-ORDER="175"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>DEW's Christmas party 2004. </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Photos from Christmas reception hosted by Diane Watson and Rep. Juanita Millender-McDonald
+ (printed black &amp; white copies of digital photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.5" score="2" C-ORDER="177"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Fundraiser at the Clemons' home, 2004. </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Photos from Watson fundraiser at Mr. and Mrs. Clemons' home, Oct. 26, 2004.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.6" score="2" C-ORDER="179"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">10 </container>
+<unittitle>Fundraiser at the Matthews' home, 2004. </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Photos from Watson fundraiser at Mr. and Mrs. Leodis Matthews' home, Oct. 14,
+ 2004.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.7" score="2" C-ORDER="181"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">11 </container>
+<unittitle>Youth Violence Summit Part-2, 2004. </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Youth Violence Summit Part-2, 2004.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.8" score="2" C-ORDER="183"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">12 </container>
+<unittitle>University of Southern California, November 2004. </unittitle>
+<unitdate>2004</unitdate>
+</did>
+<scopecontent><p>Photos from visit to University of Southern California, November 1, 2004.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.9" score="2" C-ORDER="185"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">13 </container>
+<unittitle>UCLA Feb. 2004 and Women's Conference. </unittitle>
+<unitdate>2004 &amp; 2002</unitdate>
+</did>
+<scopecontent><p>Photos of political event on UCLA campus which included Watson as a panelist, and photos from a
+ "Women's Conference" in 2002 (printed copies of digital photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.10" score="2" C-ORDER="187"><did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">14 </container>
+<unittitle>2003-2004 events (1 of 2). </unittitle>
+<unitdate>2003-2004</unitdate>
+</did>
+<scopecontent><p>Photos from events in Southern California and Washington, D.C.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.11" score="1" C-ORDER="189"><did>
+<container type="box" label="Box">17</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2003-2004 events (2 of 2). </unittitle>
+<unitdate>2003-2004</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.12" score="2" C-ORDER="190"><did>
+<container type="box" label="Box">17</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>USC Championship Presentations and Natural History Museum, April 23, 2003. </unittitle>
+<unitdate>2003</unitdate>
+</did>
+<scopecontent><p>Photos for presentation of Congressional Record commendations to athletics department at the
+ University of Southern California (printed copies of digital photos). Photos from Watson's visit to the Natural History
+ Museum of Los Angeles County (printed copies of digital photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.13" score="2" C-ORDER="192"><did>
+<container type="box" label="Box">17</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>California Science Center March 21, 2003 and Julian Dixon Day August 2003. </unittitle>
+<unitdate>2003</unitdate>
+</did>
+<scopecontent><p>Photos of event at the California Science Center featuring Watson as a speaker/presenter (printed
+ copies of digital photos). Photos of dedication of post office named after Congressman Julian C. Dixon (printed copies of
+  digital photos; select photos printed in color on photo paper).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.14" score="2" C-ORDER="194"><did>
+<container type="box" label="Box">17</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Constituents for Africa, Album 1. </unittitle>
+<unitdate>2002</unitdate>
+</did>
+<scopecontent><p>Photos from "Business Roundtable" event, October 26, 2002 (printed copies of digital
+ photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.15" score="2" C-ORDER="196"><did>
+<container type="box" label="Box">17</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Constituents for Africa, Album 2, October 26, 2002. </unittitle>
+<unitdate>2002</unitdate>
+</did>
+<scopecontent><p>Photos from "Business Roundtable" event, October 26, 2002 (printed copies of digital photos). Also
+ includes photos from West Los Angeles College Fire Academy event, and from additional event (location
+ unknown).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.16" score="2" C-ORDER="198"><did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2002 events. </unittitle>
+<unitdate>2002</unitdate>
+</did>
+<scopecontent><p>Photos from 2002 birthday event and "Congresswoman Diane Watson and The Constituency for
+ Africa" Business Roundtable event at West Los Angeles College.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.17" score="2" C-ORDER="200"><did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>[“Prescription Drug Forum at T.H.E. Clinic” and other unspecified events]. </unittitle>
+<unitdate>undated</unitdate>
+</did>
+<scopecontent><p>Binder originally titled "Visit to the VA Clinic Photos" (photos do not appear to be from that event).
+ Includes color photos from unspecified events, photos from visit to "Becheyal Community House, Ambassador Watson,"
+ photo from "Town Hall Meeting at USC, Cong. Watson w/ Culver City School Board Member, August 2001," and from
+ "Prescription Drug Forum at T.H.E. Clinic.".</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.18" score="1" C-ORDER="202"><did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>Visit to Veteran's Administration Clinic. </unittitle>
+<unitdate>undated</unitdate>
+</did>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.19" score="2" C-ORDER="203"><did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Events. </unittitle>
+<unitdate>2003-2004, and undated</unitdate>
+</did>
+<scopecontent><p>Photos from various events (printed copies of digital photos).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.20" score="2" C-ORDER="205"><did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Unspecified events. </unittitle>
+<unitdate>undated</unitdate>
+</did>
+<scopecontent><p>Color prints and black-and-white printed photos. Also includes a color portrait of
+ Watson.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.10.21" score="2" C-ORDER="207"><did>
+<container type="box" label="Box">24</container>
+<unittitle>2007 Fund Raise L.A. </unittitle>
+<unitdate>2007</unitdate>
+</did>
+ <phystech>
+  <head>Physical Characteristics and Technical Requirements</head>
+  <p>Includes a Picture CD with digital files of the photos, in pocket in the back of binder.</p>
+  <p>Special equipment or further processing may be required for viewing.  To access digital materials you must notify the reference desk in advance of your visit.</p>
+ </phystech> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.3.11" score="1" C-ORDER="209">
+<did><unittitle>Political materials. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.11.2" score="2" C-ORDER="210"><did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>Pamphlets and guides. </unittitle>
+<unitdate>undated</unitdate>
+</did>
+<scopecontent><p>Contains pamphlet titled "Voting Rights Act at 40.".</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.11.3" score="2" C-ORDER="212"><did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>Book–Setting Course: A Congressional Management Guide. </unittitle>
+<unitdate>2001</unitdate>
+</did>
+<scopecontent><p>Contains a guide for congress people in the 107th Congress (Watson's freshman session), from the
+ Congressional Management Foundation.</p></scopecontent>
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.2.8.3.12" score="1" C-ORDER="214">
+<did><unittitle>Albums. </unittitle>
+<unitdate>Undated.</unitdate></did>
+<c03 level="file" id="c03-1.2.8.3.12.2" score="2" C-ORDER="215"><did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">8 </container>
+<unittitle>Height Ceremony Photos (1 of 2). </unittitle>
+<unitdate>2001-2004</unitdate>
+</did>
+<scopecontent><p>Black-and-white printed photos of Dorothy Height Congressional Gold Medal ceremony, 2004. Also
+ includes photos from various unspecified events, photos from an event called "A World of Women for World Peace
+ sponsored by Congresswoman Diane E. Watson, West Los Angeles College, August 10, 2002," photos from the Julian
+ Dixon Post Office dedication, 2001 (also see Series: “Ambassadorship to Micronesia and Congress,” Box 17, Folder
+ 3 for more photos from this event), and Photos and other materials apparently from the "Government on the Move" Tour
+  of the 33rd Congressional District, April 22-23, 2003; agenda for "'Government on the Move' Tour of the 33rd
+ Congressional District," and descriptions of stops scheduled for "'Government on the Move' Tour of the 33rd
+ Congressional District.".</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.3" score="2" C-ORDER="217"><did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">9 </container>
+<unittitle>Height Ceremony Photos (2 of 2). </unittitle>
+<unitdate>2001-2004</unitdate>
+</did>
+<scopecontent><p>Photos apparently from the "Government on the Move" Tour of the 33rd Congressional District, April
+  22-23, 2003.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.4" score="2" C-ORDER="219"><did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2009 collection (1 of 3). </unittitle>
+<unitdate>2009</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, materials from Watson-sponsored events/workshops (brochures, guides),
+ and a program from the Young Oak Kim Academy school ribbon cutting ceremony, Oct. 5, 2009.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.5" score="2" C-ORDER="221"><did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2009 collection (2 of 3). </unittitle>
+<unitdate>2009</unitdate>
+</did>
+<scopecontent><p>Press clippings.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.6" score="2" C-ORDER="223"><did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2009 collection (3 of 3). </unittitle>
+<unitdate>2009</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, text of portion of the "Joint Hearing of the Asia, the Pacific and the Global
+ Environment Subcommittee, and the Terrorism, Nonproliferation and Trade Subcommittee of the House Foreign Affairs
+ Committee," June 18, 2009.
+ Also includes information re: Watson-sponsored Congressional resolution to celebrate Citizenship Day and news
+ releases and statements from Watson's office.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.7" score="2" C-ORDER="225"><did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>Various press clippings and "The Best of Hollywood" event (1 of 2). </unittitle>
+<unitdate>2004-2007</unitdate>
+</did>
+<scopecontent><p>Includes press clippings from 2004-2007.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.8" score="2" C-ORDER="227"><did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>Various press clippings and "The Best of Hollywood" event (2 of 2). </unittitle>
+<unitdate>2003-2007</unitdate>
+</did>
+<scopecontent><p>Press clippings from 2005-2007 and documents related to "The Best of Hollywood" Fundraising
+ Birthday Celebration, November 15, 2003.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.9" score="2" C-ORDER="229"><did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">6 </container>
+<unittitle>2007 collection (1 of 2). </unittitle>
+<unitdate>2007</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, photos at various unspecified events, a photo of Watson being sworn in to
+ office, news releases from Watson's office, and invitations/flyers from various events. Notably, the folder includes a
+ program from Watson's mother's funeral (Dorothy Elizabeth Watson), text of an interview with Watson and Farai
+ Chideya, and a letter from Hillary Rodham Clinton thanking Watson for her support during the 2008 Democratic
+ presidential primary.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.10" score="2" C-ORDER="231"><did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">7 </container>
+<unittitle>2007 collection (2 of 2). </unittitle>
+<unitdate>2007</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, news releases and statements from Watson's office, information on an
+ organization called "African Americans Against the War," a flyer for a meeting of African Americans Against the War, an
+ invitation to the ribbon cutting for a new track and field at Crenshaw High School (August 30, 2007), a photo of Watson
+ making a presentation at the Los Angeles African American Women Political Action Committee 15th Annual
+ Empowerment Awards Dinner (April 22, 2007) and a "thank you" letter for Watson's support of the awards
+ dinner.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.11" score="2" C-ORDER="233"><did>
+<container type="box" label="Box">20</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2008 collection (1 of 3). </unittitle>
+<unitdate>2008</unitdate>
+</did>
+<scopecontent><p>Includes news releases from Watson's office, press clippings, photos from various events,
+ invitations/flyers, and printed emails and memos between Watson staff members. Also includes a program from
+ Astronaut Daniel Tani's visit to Dorsey High School (Oct. 21, 2008), includes text of remarks from a "Tribute to Percy
+ Pinkney, State President Black American Political Association of California (BAPAC)," photos of Watson receiving a
+ Distinguished Alumni Award from Claremont Graduate University, an official Congressional photo of Watson, and official
+ responses from Watson to the President's State of the Union address on January 28, 2008.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.12" score="2" C-ORDER="235"><did>
+<container type="box" label="Box">20</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2008 collection (2 of 3). </unittitle>
+<unitdate>2008</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, printed emails and memos between Watson staff members. Also includes a
+ program from a press conference for the Mayme A. Clayton Library &amp; Museum, and text of a congressional resolution
+ from Watson "Honoring the 50th Anniversary of the Motion Picture Sound Editors Golden Reel Awards
+ Ceremony.".</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.13" score="2" C-ORDER="237"><did>
+<container type="box" label="Box">20</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2008 collection (3 of 3). </unittitle>
+<unitdate>2008</unitdate>
+</did>
+<scopecontent><p>Includes press clippings from 2008, a program from the funeral of Tommy Tucker, a Los Angeles
+ businessman (April 19, 2008), and some press clippings and Watson news releases from 2006 and 2007–located at
+ the back of the folder.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.14" score="2" C-ORDER="239"><did>
+<container type="box" label="Box">20</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2006 collection. </unittitle>
+<unitdate>2006</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, a copy of an opinion article by Watson, news releases, media advisories,
+ and statements from Watson's office, photos from the LA Festival &amp; Parade, Feb. 11, 2006, and photos from various
+ events featuring Watson.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.15" score="2" C-ORDER="241"><did>
+<container type="box" label="Box">20</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2005 collection (1 of 5). </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, photos from the dedication of the United States Post Office, Ray Charles
+ Station, a letter of congratulations to Watson from Los Angeles City Councilwoman Jan Perry on Watson's birthday, a
+ transcript of a radio interview with Watson on "The Bobby Howe Show," KTYM Radio, news releases from Watson's
+ office.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.16" score="2" C-ORDER="243"><did>
+<container type="box" label="Box">21</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2005 collection (2 of 5). </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, a flyer for the "Hollywood in Black &amp; White" event, sponsored by Watson,
+ and black-and-white photo of Watson at an unspecified event.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.17" score="2" C-ORDER="245"><did>
+<container type="box" label="Box">21</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2005 collection (3 of 5). </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Includes press clippings and a program from the "The State of the African American Male" event,
+ March 12, 2005.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.18" score="2" C-ORDER="247"><did>
+<container type="box" label="Box">21</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2005 collection (4 of 5). </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, news releases and statements from Watson's office, and a flyer for a
+ Federal Grants Workshop sponsored by Watson on August 16, 2005.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.19" score="2" C-ORDER="249"><did>
+<container type="box" label="Box">21</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2005 collection (5 of 5). </unittitle>
+<unitdate>2005</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, news releases and statements from Watson's office, copies of Ray Charles
+ Post Office dedication ceremony program, copies of Watson's biography, and photos from various unspecified events
+ (undated).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.20" score="2" C-ORDER="251"><did>
+<container type="box" label="Box">21</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2003 collection. </unittitle>
+<unitdate>2003</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, news releases and press advisories from Watson's office, documents from
+ the "Government on the Move" event, April 22-23, 2003. Note that the folder includes one press clipping from March 25,
+ 2004 about the Bakewell family buying a controlling interest in the Los Angeles Sentinel (see Folders: '2004 press
+ clippings' for more press clippings from 2004).</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.21" score="2" C-ORDER="253"><did>
+<container type="box" label="Box">22</container>
+<container type="folder" label="Folder">1 </container>
+<unittitle>2002 collection (1 of 2). </unittitle>
+<unitdate>2002</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, black-and-white printed copy of official Diane Watson congressional photo,
+ black-and-white printed copies of photos from various events, advertisement for the "Congressional Black Caucus
+ Comes to Inglewood" event, color photos of Watson at unspecified events, news releases from Watson's office and other
+  sources, copy of a letter from the members of the U.S. House of Representatives to the President of the Republic of
+ Nigeria re: the case of Amina Lawal, and copy of letter from the Brotherhood Crusade to the Mayor of the City of
+ Inglewood re: the Donovan Jackson police brutality case.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.22" score="2" C-ORDER="255"><did>
+<container type="box" label="Box">22</container>
+<container type="folder" label="Folder">2 </container>
+<unittitle>2002 collection (2 of 2). </unittitle>
+<unitdate>2002</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, news releases from Watson's office, "Statement of Congresswoman Diane
+ E. Watson at Town Hall Meeting Regarding the Donovan Jackson Beating," a copy of a letter from Watson to Alan Kaye,
+ DDS, President of the California Dental Board, re: the "Dental Materials Fact Sheet," and a statement re: the NAACP
+ National Convention's endorsement of Watson's "Dental Amalgam Bill." Note that there are also two press clippings from
+ 2003 at the end of the folder.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.23" score="2" C-ORDER="257"><did>
+<container type="box" label="Box">22</container>
+<container type="folder" label="Folder">3 </container>
+<unittitle>2001-2003 collection (1 of 2). </unittitle>
+<unitdate>2001-2003</unitdate>
+</did>
+<scopecontent><p>Includes news releases, media advisories, and official statements from Watson's office, black and
+ white printed photos from unspecified events, and email correspondence among Watson's staff about various
+ topics.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.24" score="2" C-ORDER="259"><did>
+<container type="box" label="Box">22</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2001-2003 collection (2 of 2). </unittitle>
+<unitdate>2001-2003</unitdate>
+</did>
+<scopecontent><p>Includes news releases, media advisories, and official statements from Watson's office and other
+ sources, information about the With Ownership Wealth (WOW) Initiative, a flyer from a "Consumer Interest Day
+ Homebuyers Seminar" presented by Watson, various documents (letters, announcements, and background information)
+ about Watson's efforts to ban the use of mercury in dental fillings. Also includes text of Watson speeches, biographies,
+ biographical and background information in various forms, photocopies of photos from various events, copies of email
+ correspondence among Watson staff, invitation for constituents to a Town Hall Meeting featuring
+ Watson.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.25" score="2" C-ORDER="261"><did>
+<container type="box" label="Box">22</container>
+<container type="folder" label="Folder">5 </container>
+<unittitle>2001 collection (1 of 2). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, news releases from Watson's office, official statements from Watson re: the
+ September 11, 2001 terrorist attacks, a Q&amp;A document for addressing constituent questions about the September 11,
+ 2001 terrorist attacks from the "Working Group on Terrorism and Homeland Security, House Permanent Select
+ Committee on Intelligence," documents re: a Watson-led public forum about the September 11, 2001 terrorist attacks,
+ and a copy of Volume 1, Issue 1 of The Watson Report–a newsletter for Watson's constituents.</p></scopecontent>
+</c03>
+<c03 level="file" id="c03-1.2.8.3.12.26" score="2" C-ORDER="263"><did>
+<container type="box" label="Box">23</container>
+<container type="folder" label="Folder">4 </container>
+<unittitle>2001 collection (2 of 2). </unittitle>
+<unitdate>2001</unitdate>
+</did>
+<scopecontent><p>Includes press clippings, news releases and statements from Watson's office, black and white
+ printed photos from various events featuring Watson, agenda and talking points from Watson-led public forum about the
+  September 11, 2001 terrorist attacks on September 16, 2001, and a copy of Watson's biography on congressional
+ letterhead.</p></scopecontent>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
