@@ -1,0 +1,964 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ead>
+
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" mainagencycode="CLU" publicid="PUBLIC  &quot;-//University of California, Los Angeles::Performing Arts Special  Collections//TEXT (US::CLU::30-M::Gunther Tautenhahn Collection of Musical  Compositions)//EN&quot; &quot;tautenha.xml&quot;" identifier="ark:/13030/kt5s2038g2" cdlpath:parent="ark:/13030/kt4199r6d2" cdlpath:grandparent="ark:/13030/tf8z09p95s">tautenha.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding Aid for the Gunther Tautenhahn Collection of Musical 
+Compositions <date calendar="gregorian" era="ce">1968-1974</date></titleproper>
+<titleproper type="filing">Tautenhahn (Gunther) Collection of Musical 
+Compositions</titleproper>
+<author>Processed by .</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Performing Arts Special Collections </publisher>
+<address>
+<addressline>UCLA Performing Arts Special Collections</addressline>
+<addressline>Young Research Library, Room 22478 </addressline>
+<addressline>Box 95175</addressline>
+<addressline>Los Angeles, CA 90095-1575</addressline>
+<addressline>Phone: (310) 825-7253</addressline>
+<addressline>Fax: (310) 825-1210</addressline>
+<addressline>Email: pasc@library.ucla.edu</addressline>
+<addressline>URL: 
+http://www2.library.ucla.edu/specialcollections/performingarts/index.cfm</addressline>
+</address><date calendar="gregorian" era="ce">©2011</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from ColdFusion web application 
+and SQLServer relational database.</creation>
+<descrules>Finding aid prepared using <title render="italic"> 
+</title></descrules>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" id="archdesc-1.2">
+
+<did id="did-1.2.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">Gunther Tautenhahn Collection of Musical 
+Compositions,</unittitle> <unitdate type="inclusive">1968-1974</unitdate>
+<unitid label="Collection number" repositorycode="CLU" countrycode="US">30-M</unitid>
+<origination label="Creator"><persname source="lcnaf">Tautenhahn, 
+Gunther</persname></origination>
+<repository label="Repository">
+<corpname source="lcnaf">University of California, Los Angeles. Library. 
+<subarea>Performing Arts Special Collections </subarea></corpname>
+<address>
+<addressline>Los Angeles, California 90095-1490</addressline>
+</address>
+</repository>
+<abstract label="Abstract">Ozalid copies of musical scores by Tautenhahn and one 
+manuscript sketchbook in a 3-ring binder.</abstract>
+
+</did>
+
+<accessrestrict id="accessrestrict-1.2.2">
+<head>Access</head>
+<p>The collection is open for research.</p>
+</accessrestrict>
+
+<userestrict id="userestrict-1.2.3">
+<head>Publication Rights</head>
+<p>Property rights in the physical objects belong to the UCLA Music Library. 
+Literary rights, including copyright, are retained by the creators and their 
+heirs. It is the responsibility of the researcher to determine who holds the 
+copyright and pursue the copyright owner or his or her heir for permission to 
+publish if the Music Library does not hold the copyright.</p>
+</userestrict>
+
+<prefercite id="prefercite-1.2.4">
+<head>Preferred Citation</head>
+<p>[Identification of item], Gunther Tautenhahn Collection of Musical 
+Compositions, 30-M, Performing Arts Special Collections , University of 
+California, Los Angeles.</p>
+</prefercite>
+
+<bioghist id="bioghist-1.2.5">
+<head>Biographical Note</head>
+<p>Composer, Gunther Tautenhahn, was born in Kaunas, Lithuana on December 22, 
+1938. He came to the United States on November 30, 1951, and became a U.S. 
+citizen in 1953. He moved to California in 1967, residing there still.</p>
+<p>Tautenhahn studied composition in New York and Vienna, and has won many 
+awards for his compositions including six ASCAP Standard Awards</p>
+<p>His compositions have been performed and broadcast in Africa, Austria, 
+Australia, Canada, China, Colombia, Costa Rica, France, Germany, Greece, Italy, 
+Korea, Russia, Sweden, Taiwan, U.K., and United States, by chamber groups and 
+orchestras, and the the world's leading musicians.</p>
+</bioghist>
+
+<scopecontent id="scopecontent-1.2.6">
+<head>Scope and Content</head>
+<p>The collection consists of ozalid copies of musical scores by Tautenhahn.</p>
+<p>The collection is organized into the following series:
+<list>
+<item>Series 1. Sound Recordings</item>
+<item>Series 2. Printed Music</item>
+</list></p>
+</scopecontent>
+<dsc type="in-depth" id="dsc-1.2.7" score="1" C-ORDER="1" MAX-C-ORDER="89">
+
+<head>Container List</head>
+
+<c01 level="series" id="c01-1.2.7.2" score="1" C-ORDER="2">
+
+<did>
+<unitid>Series 1.</unitid>
+<unittitle>Sound Recordings</unittitle>
+</did>
+
+<c02 id="id6243" level="file" score="1" C-ORDER="3">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>Music from Two Millenniums</unittitle>
+<unitdate>2002</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunter</origination>
+<physdesc>Compact Disc
+</physdesc>
+</did>
+
+</c02>
+
+</c01>
+<c01 level="series" id="c01-1.2.7.3" score="1" C-ORDER="4">
+
+<did>
+<unitid>Series 2.</unitid>
+<unittitle>Printed Music</unittitle>
+</did>
+
+<c02 id="id128879" level="file" score="1" C-ORDER="5">
+
+<did>
+<container type="box" label="Box ">1</container>
+<unittitle>Pyramid Four</unittitle>
+<unitdate>1978 August</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Orchestra</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128867" level="file" score="1" C-ORDER="6">
+
+<did>
+<container type="box" label="Box ">1</container>
+<unittitle>The American Ode Symphony No. 3</unittitle>
+<unitdate>1967 October</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">orchestra, four part chorus, piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128862" level="file" score="1" C-ORDER="7">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>Sparks of Life</unittitle>
+<unitdate>2002 August</unitdate>
+<materialspec label="Parts: ">Mezzo Soprano, Tenor and Piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6245" level="file" score="1" C-ORDER="8">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>The Hoax</unittitle>
+<unitdate>1998 June</unitdate>
+<materialspec label="Parts: ">viola, piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6246" level="file" score="1" C-ORDER="9">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Micro Entity's</unittitle>
+<unitdate>1999 October-December</unitdate>
+<materialspec label="Parts: ">piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6247" level="file" score="1" C-ORDER="10">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle>Addiction</unittitle>
+<unitdate>2000 November</unitdate>
+<materialspec label="Parts: ">orchestra</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6248" level="file" score="1" C-ORDER="11">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">6</container>
+<unittitle>Lullaby for Two</unittitle>
+<unitdate>1995 November</unitdate>
+<materialspec label="Parts: ">oboe, piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6249" level="file" score="1" C-ORDER="12">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">7</container>
+<unittitle>Pryamid Four</unittitle>
+<unitdate>1978 August</unitdate>
+<materialspec label="Parts: ">orchestra</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6250" level="file" score="1" C-ORDER="13">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">8</container>
+<unittitle>Suite</unittitle>
+<unitdate>1972</unitdate>
+<materialspec label="Parts: ">double bass</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6251" level="file" score="1" C-ORDER="14">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">9</container>
+<unittitle>Poetical Rhapsody</unittitle>
+<unitdate>1968 June</unitdate>
+<materialspec label="Parts: ">string quartet</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6252" level="file" score="1" C-ORDER="15">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">10</container>
+<unittitle>A Brisk Romance</unittitle>
+</did>
+
+</c02>
+
+<c02 id="id6253" level="file" score="1" C-ORDER="16">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">11</container>
+<unittitle>Reflections</unittitle>
+<unitdate>1985 September</unitdate>
+<materialspec label="Parts: ">flute, bass</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6254" level="file" score="2" C-ORDER="17">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">12</container>
+<unittitle>The Vertical Man</unittitle>
+<unitdate>1982 August-December</unitdate>
+<materialspec label="Parts: ">trumpet, percussion</materialspec>
+</did>
+<note><p>Commissioned by Steven Trinkle and Eugenie Burket.</p></note>
+
+</c02>
+
+<c02 id="id6255" level="file" score="1" C-ORDER="19">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">13</container>
+<unittitle>The Vertical Man</unittitle>
+<unitdate>1982</unitdate>
+<materialspec label="Parts: ">trumpet in c</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6256" level="file" score="1" C-ORDER="20">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">14</container>
+<unittitle>Caprice Elegant</unittitle>
+<unitdate>1978</unitdate>
+<materialspec label="Parts: ">flute, accordian</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6257" level="file" score="1" C-ORDER="21">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">15</container>
+<unittitle>Sonata</unittitle>
+<unitdate>1971</unitdate>
+<materialspec label="Parts: ">violin</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6258" level="file" score="1" C-ORDER="22">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">16</container>
+<unittitle>Sonata</unittitle>
+<unitdate>1978 April</unitdate>
+<materialspec label="Parts: ">guitar</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6259" level="file" score="1" C-ORDER="23">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">17</container>
+<unittitle>String Quartet Nr. 2</unittitle>
+<unitdate>1981-1983</unitdate>
+<physdesc>full score and parts
+</physdesc>
+</did>
+
+</c02>
+
+<c02 id="id6260" level="file" score="1" C-ORDER="24">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">18</container>
+<unittitle>Elegy</unittitle>
+<unitdate>1973</unitdate>
+<materialspec label="Parts: ">flute, guitar</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6261" level="file" score="1" C-ORDER="25">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">19</container>
+<unittitle>Wilted Night. Prelude</unittitle>
+<unitdate>1976 August</unitdate>
+<materialspec label="Parts: ">piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6262" level="file" score="1" C-ORDER="26">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">20</container>
+<unittitle>Wilted Night</unittitle>
+<unitdate>1976 August</unitdate>
+<materialspec label="Parts: ">piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6263" level="file" score="1" C-ORDER="27">
+
+<did>
+<container type="box" label="Box ">2</container>
+<container type="folder" label="Folder ">21</container>
+<unittitle>Fivescape</unittitle>
+<unitdate>1984 January-March</unitdate>
+<materialspec label="Parts: ">violin, clarinet, marimba, French horn, 
+piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id114409" level="file" score="2" C-ORDER="28">
+
+<did>
+<container type="box" label="Box ">3</container>
+<unittitle>Dare To Love</unittitle>
+<unitdate>1996 June-1998 December</unitdate>
+<physdesc>14" x 11"
+<extent>494 p.</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>Complete original manuscript of the opera, Dare To Love, in two acts and six 
+scenes, including notes on orchestration, singers, and other miscellaneous 
+information.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id114413" level="file" score="1" C-ORDER="30">
+
+<did>
+<container type="box" label="Box ">4</container>
+<unittitle>Between Heaven and Hell</unittitle>
+<physdesc>18.5" x 12"
+<extent>183 p.</extent>
+</physdesc>
+</did>
+
+</c02>
+
+<c02 id="id114420" level="file" score="2" C-ORDER="31">
+
+<did>
+<container type="box" label="Box ">4</container>
+<unittitle>Between Heaven and Hell</unittitle>
+<physdesc>18.5" x 12"
+<extent>183 p.</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>Complete original manuscript of the opera, Between Heaven and Hell, in three 
+acts, contained in 5 pads of manuscript paper.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id115254" level="file" score="2" C-ORDER="33">
+
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>Quadrilingual, Mass for Peace, Cathedral Work #2</unittitle>
+<unitdate>1995</unitdate>
+<materialspec label="Parts: ">four part choir, orchestra</materialspec>
+</did>
+<scopecontent>
+<p>Original score.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id115257" level="file" score="2" C-ORDER="35">
+
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>Calendar Odyssey</unittitle>
+<unitdate>1990</unitdate>
+</did>
+<scopecontent>
+<p>Original score.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id115259" level="file" score="3" C-ORDER="37">
+
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>Concept, three. For orchestra.</unittitle>
+<unitdate>1976</unitdate>
+</did>
+<scopecontent>
+<p>Original score, bound.</p>
+</scopecontent>
+<note><p>On title page: Composed in celebration of the United States 
+Bicentennial (1776 - 1976).</p></note>
+
+</c02>
+
+<c02 id="id115260" level="file" score="2" C-ORDER="40">
+
+<did>
+<container type="box" label="Box ">5</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Piano Marathon, op. 162</unittitle>
+<unitdate>2007</unitdate>
+</did>
+<scopecontent>
+<p>Original score of 10 movements in two parts.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id115288" level="file" score="2" C-ORDER="42">
+
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">1</container>
+<unittitle>Composer scores</unittitle>
+</did>
+<scopecontent>
+<p>Article by Lee Sutter about Gunther Tautenhahn.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id115262" level="file" score="2" C-ORDER="44">
+
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">2</container>
+<unittitle>Addiction, for orchestra. Cathedral work #19.</unittitle>
+<unitdate>2000</unitdate>
+</did>
+<scopecontent>
+<p>Original score.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id115266" level="file" score="2" C-ORDER="46">
+
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">3</container>
+<unittitle>Concerto for a fantastic piano and orchestra.</unittitle>
+<unitdate>2000</unitdate>
+</did>
+<scopecontent>
+<p>Original score.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id115268" level="file" score="2" C-ORDER="48">
+
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">4</container>
+<unittitle>Veronica Paris, and opera in 2/5 and 2/A. Cathedral work 
+#10.</unittitle>
+<unitdate>1999</unitdate>
+</did>
+<scopecontent>
+<p>Original score.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id115270" level="file" score="2" C-ORDER="50">
+
+<did>
+<container type="box" label="Box ">6</container>
+<container type="folder" label="Folder ">5</container>
+<unittitle>Silence. An opera in 4/5 and 1/A. Cathedral work #17.</unittitle>
+<unitdate>2000</unitdate>
+</did>
+<scopecontent>
+<p>Original score.</p>
+</scopecontent>
+
+</c02>
+
+<c02 id="id128874" level="file" score="1" C-ORDER="52">
+
+<did>
+<container type="box" label="Box ">7</container>
+<unittitle>Match My Heart (From Corinna's Flowers)</unittitle>
+<unitdate>2007</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">soprano, piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128873" level="file" score="1" C-ORDER="53">
+
+<did>
+<container type="box" label="Box ">7</container>
+<unittitle>Millennium Concerto for Violin and Orchestra</unittitle>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Violin, orchestra</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128871" level="file" score="1" C-ORDER="54">
+
+<did>
+<container type="box" label="Box ">7</container>
+<unittitle>Self Destruction Blvd.</unittitle>
+<unitdate>2004-2005 January</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">French horn, percussion instruments</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128878" level="file" score="1" C-ORDER="55">
+
+<did>
+<container type="box" label="Box ">7</container>
+<unittitle>The Hoax</unittitle>
+<unitdate>1998 June</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">viola, piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128872" level="file" score="1" C-ORDER="56">
+
+<did>
+<container type="box" label="Box ">7</container>
+<unittitle>The Vertical Man</unittitle>
+<unitdate>1982</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">trumpet, percussion instruments</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128877" level="file" score="1" C-ORDER="57">
+
+<did>
+<container type="box" label="Box ">7</container>
+<unittitle>Veolmania</unittitle>
+<unitdate>2004 May 6</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">viola, piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128876" level="file" score="1" C-ORDER="58">
+
+<did>
+<container type="box" label="Box ">7</container>
+<unittitle>Veolmania for Viola and Piano</unittitle>
+<unitdate>2004 May 6</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Viola, piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128884" level="file" score="1" C-ORDER="59">
+
+<did>
+<container type="box" label="Box ">8</container>
+<unittitle>Fragmented Fragments</unittitle>
+<unitdate>2001 April-May</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">piccolo, flute, clarinet, trumpet, French horn, 
+xylophone, timpani, violin, cello, piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128880" level="file" score="1" C-ORDER="60">
+
+<did>
+<container type="box" label="Box ">8</container>
+<unittitle>Pyramid Four</unittitle>
+<unitdate>1978 August</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Orchestra</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128882" level="file" score="1" C-ORDER="61">
+
+<did>
+<container type="box" label="Box ">8</container>
+<unittitle>Terzer Variations</unittitle>
+<unitdate>2007 May</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">French horn</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128865" level="file" score="1" C-ORDER="62">
+
+<did>
+<container type="box" label="Box ">9</container>
+<unittitle>Interchange</unittitle>
+<unitdate>1980</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+</did>
+
+</c02>
+
+<c02 id="id128866" level="file" score="1" C-ORDER="63">
+
+<did>
+<container type="box" label="Box ">9</container>
+<unittitle>Piano Sonata No. 2 in C Minor</unittitle>
+<unitdate>1966 November-December</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128864" level="file" score="1" C-ORDER="64">
+
+<did>
+<container type="box" label="Box ">9</container>
+<unittitle>Poetical Rhapsody</unittitle>
+<materialspec label="Parts: ">string quartet</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128869" level="file" score="1" C-ORDER="65">
+
+<did>
+<container type="box" label="Box ">9</container>
+<unittitle>Quintet in C Major</unittitle>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Clarinet, 2 violins, viola, cello</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128870" level="file" score="1" C-ORDER="66">
+
+<did>
+<container type="box" label="Box ">9</container>
+<unittitle>Saxophone Quartet</unittitle>
+<unitdate>1976</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Soprano saxophone, alto saxophone, tenor 
+saxophone, baritone saxophone</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id6244" level="file" score="1" C-ORDER="67">
+
+<did>
+<container type="box" label="Box ">9</container>
+<unittitle>Sparks of Life</unittitle>
+<unitdate>2002 August</unitdate>
+<materialspec label="Parts: ">Mezzo Soprano, Tenor and Piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128868" level="file" score="1" C-ORDER="68">
+
+<did>
+<container type="box" label="Box ">9</container>
+<unittitle>The American Ode Symphony No. 3</unittitle>
+<unitdate>1967 October</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Orchestra, Four part chorus, Piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128863" level="file" score="1" C-ORDER="69">
+
+<did>
+<container type="box" label="Box ">9</container>
+<container type="folder" label="Folder ">21</container>
+<unittitle>Fivescape</unittitle>
+<unitdate>1984</unitdate>
+<materialspec label="Parts: ">Violin, Clarinet, Marimba, French/Horn, 
+Piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id128892" level="file" score="2" C-ORDER="70">
+
+<did>
+<container type="box" label="Box ">10</container>
+<unittitle>Everlasting Hatred</unittitle>
+<unitdate>2002</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Three pianos, four trumpets, one french horn, 
+chorus, soloists</materialspec>
+</did>
+<note><p>Part of "The Scrolls." Music is written on scroll.</p></note>
+
+</c02>
+
+<c02 id="id128895" level="file" score="2" C-ORDER="72">
+
+<did>
+<container type="box" label="Box ">10</container>
+<unittitle>I Sing</unittitle>
+<unitdate>2003</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Three pianos, four trumpets, one french horn, 
+chorus, soloists</materialspec>
+</did>
+<note><p>Part of "The Scrolls." Music is written on scroll.</p></note>
+
+</c02>
+
+<c02 id="id128896" level="file" score="2" C-ORDER="74">
+
+<did>
+<container type="box" label="Box ">10</container>
+<unittitle>While the Earth Remaineth</unittitle>
+<unitdate>2003</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Three pianos, four trumpets, one french horn, 
+chorus, soloists</materialspec>
+</did>
+<note><p>Part of "The Scrolls." Music is written on scroll.</p></note>
+
+</c02>
+
+<c02 id="id128893" level="file" score="2" C-ORDER="76">
+
+<did>
+<container type="box" label="Box ">10</container>
+<unittitle>With Water He Wipes the Clouds</unittitle>
+<unitdate>2003</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Three pianos, four trumpets, one french horn, 
+chorus, soloists</materialspec>
+</did>
+<note><p>Part of "The Scrolls." Music is written on scroll.</p></note>
+
+</c02>
+
+<c02 id="id128897" level="file" score="2" C-ORDER="78">
+
+<did>
+<container type="box" label="Box ">11</container>
+<unittitle>The Scrolls Part I</unittitle>
+<unitdate>2002</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Three pianos, four trumpets, one french horn, 
+chorus, soloists</materialspec>
+</did>
+<note><p>Part of "The Scrolls." Music is written on scroll.</p></note>
+
+</c02>
+
+<c02 id="id128898" level="file" score="2" C-ORDER="80">
+
+<did>
+<container type="box" label="Box ">11</container>
+<unittitle>The Scrolls Part II</unittitle>
+<unitdate>2003</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Three pianos, four trumpets, one french horn, 
+chorus, soloists</materialspec>
+</did>
+<note><p>Part of "The Scrolls." Music is written on scroll.</p></note>
+
+</c02>
+
+<c02 id="id128899" level="file" score="2" C-ORDER="82">
+
+<did>
+<container type="box" label="Box ">12</container>
+<unittitle>Do Not Worry</unittitle>
+<unitdate>2003</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">Three pianos, four trumpets, one french horn, 
+chorus, soloists</materialspec>
+</did>
+<note><p>Part of "The Scrolls." Music is written on scroll.</p></note>
+
+</c02>
+
+<c02 id="id132168" level="file" score="1" C-ORDER="84">
+
+<did>
+<container type="box" label="Box ">13</container>
+<unittitle>A Sixth of Tautenhahn</unittitle>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<origination label="Performer: ">2007</origination>
+<materialspec label="Parts: ">timpani, piano</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id132167" level="file" score="1" C-ORDER="85">
+
+<did>
+<container type="box" label="Box ">13</container>
+<unittitle>Concerto for Violin and Orchestra</unittitle>
+<unitdate>1979</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">violin, piccolo, flute, oboe, english horn, 
+clarinet, bass clarinet, bassoon, 2 horns, viola, harp, glockenspiel, 
+timpani</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id132169" level="file" score="1" C-ORDER="86">
+
+<did>
+<container type="box" label="Box ">13</container>
+<unittitle>Zeus</unittitle>
+<unitdate>1983-1984</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">orchestra</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id148125" level="file" score="1" C-ORDER="87">
+
+<did>
+<container type="box" label="Box ">14</container>
+<unittitle>Requiem in Four Languages Op. 177</unittitle>
+<unitdate>2007-2008</unitdate>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">orchestra</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id148311" level="file" score="1" C-ORDER="88">
+
+<did>
+<container type="box" label="Box ">15</container>
+<unittitle>In Cambrian Wet Arms</unittitle>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">orchestra</materialspec>
+</did>
+
+</c02>
+
+<c02 id="id148309" level="file" score="1" C-ORDER="89">
+
+<did>
+<container type="box" label="Box ">15</container>
+<unittitle>The Baltic Knight</unittitle>
+<origination label="Composer: ">Tautenhahn, Gunther</origination>
+<materialspec label="Parts: ">orchestra</materialspec>
+</did>
+
+</c02>
+
+</c01>
+
+</dsc>
+
+</archdesc>
+
+</ead>
