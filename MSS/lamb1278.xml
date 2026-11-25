@@ -1,301 +1,56 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ead>
-<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft">
-<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLU-SC" identifier="ark:/13030/kt2j49q74m" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">PUBLIC "-//University of California, Los Angeles::Library::Dept. of Special Collections//TEXT
-(US::CLU-SC::1278::Gavin Lambert Collection of Books and Tapes)//EN" "lamb1278.xml"</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Finding Aid for the Gavin Lambert Collection of Books and Tapes, ca. 1954-2004 (bulk 1994-2004)</titleproper>
-<titleproper type="filing">Lambert (Gavin) Collection of Books and Tapes</titleproper>
-<author>Processed by Aislinn Catherine Sotelo, with assistance from Elizabeth Sheehan, 2007; machine-readable finding aid created by Caroline Cubé.</author>
-</titlestmt>
-<publicationstmt>
-<publisher>UCLA Library, Department of Special Collections</publisher>
-<address>
-<addressline>Manuscripts Division</addressline>
-<addressline>Room A1713, Charles E. Young Research Library</addressline>
-<addressline>Box 951575</addressline>
-<addressline>Los Angeles, CA 90095-1575</addressline>
-<addressline>Email: spec-coll@library.ucla.edu</addressline>
-<addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
-</address>
-<date calendar="gregorian" era="ce">© 2007</date>
-<p>The Regents of the University of California. All rights reserved.</p>
-</publicationstmt>
-</filedesc>
-<profiledesc>
-<creation>Machine-readable finding aid derived from ColdFusion web application, SQLServer relational database and Notetab Pro. Date of source: <date calendar="gregorian" era="ce">2007</date> Supplementary encoding and revision by Caroline Cubé.</creation>
-<langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
-<descrules>Finding aid prepared using <title linktype="simple">Describing Archives: a Content Standard</title></descrules>
-</profiledesc>
-</eadheader>
-<archdesc level="collection" id="archdesc-1.2">
-<did id="did-1.2.1">
-<head>Descriptive Summary</head>
-<unittitle label="Title">Gavin Lambert Collection of Books and Tapes</unittitle>
-<unitdate type="inclusive" normal="1954/2004">ca. 1954-2004 (bulk 1994-2004) </unitdate>
-<unitid label="Collection number" repositorycode="CLU-SC" countrycode="US">1278</unitid>
-<origination label="Creator">
-<persname role="subject" source="lcnaf">Lambert, Gavin</persname></origination>
-<physdesc label="Extent">
-<extent>1 box (.5 linear feet)</extent>
-</physdesc>
-<abstract label="Abstract">This collection of Gavin Lambert materials consists of books, videocassettes, audio cassettes, and a computer disk.</abstract>
-<repository label="Repository">
-<corpname source="lcnaf">University of California, Los Angeles. Library. Department of Special Collections.</corpname>
-<address><addressline>Los Angeles, California 90095-1575</addressline></address>
-</repository>
-    <langmaterial>
-        <language langcode="eng"/>
-    </langmaterial>
-<physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
-</did>
-<accessrestrict encodinganalog="506" id="accessrestrict-1.2.2">
-<head>Restrictions on Access</head>
-<p>COLLECTION STORED OFF-SITE AT SRLF: Open for research. Advance notice required for access. Contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</p>
-</accessrestrict>
-<userestrict encodinganalog="540" id="userestrict-1.2.3">
-<head>Restrictions on Use and Reproduction</head>
-<p>Property rights to the physical object belong to the UCLA Library,
-Department of Special Collections. Literary rights, including copyright,
-are retained by the creators and their heirs. It is the responsibility of
-the researcher to determine who holds the copyright and pursue the
-copyright owner or his or her heir for permission to publish where The UC
-Regents do not hold the copyright.</p>
-</userestrict>
-<acqinfo encodinganalog="541" id="acqinfo-1.2.4">
-<head>Provenance/Source of Acquisition</head>
-<p>Collection was acquired in August 2005.</p>
-</acqinfo>
-<prefercite encodinganalog="524" id="prefercite-1.2.5">
-<head>Preferred Citation</head>
-<p>[Identification of item], Gavin Lambert Collection of Books and Tapes (Collection 1278). Department of Special Collections, Charles E. Young Research Library, UCLA.</p>
-</prefercite>
-<odd id="odd-1.2.6">
-<head>UCLA Catalog Record ID</head>
-<p> UCLA Catalog Record ID: <extref actuate="onrequest" show="new" href="http://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=5710760">5710760</extref></p>
-</odd>
-<bioghist encodinganalog="545" id="bioghist-1.2.7">
-<head>Biography</head>
-<p>Gavin Lambert was born July 23, 1924 in Sussex, England. Lambert was a screenwriter, author, and one-time director. His first book "The Slide Area" was published in 1959. His screenplays include "Sons and Lovers" and "Inside Daisy Clover", which was adapted from his book of the same title. He also wrote several bibliographies including "Nazimova," "Natalie Wood: A Life," and "Mainly About Lindsay Anderson." Mr. Lambert died [July 17, 2005], in Los Angeles, at aged 80.</p>
-</bioghist>
-<scopecontent encodinganalog="520" id="scopecontent-1.2.8">
-<head>Scope and Content</head>
-<p>This collection consists of books, audiovisual recordings, and other materials written by Lambert, including "Inside Daisy Clover" and two uncorrected proofs of "Natalie Wood: A Life." Included is Gavin Lambert's copy of "Another Sky," the only film he both wrote and directed.</p>
-</scopecontent>
-<phystech id="phystech-1.2.9">
-<head>Physical Characteristics and Technical Requirements</head>
-<p>This collection includes two compact audio cassettes, seven videocassettes, and a Zip disk.</p>
-<p>COLLECTION CONTAINS DIGITAL MATERIALS: Special equipment or further processing may be required for viewing.  To access digital materials you must notify the reference desk in advance of your visit.</p>
-</phystech>    
-<processinfo id="processinfo-1.2.10">
-<head>Processing Note</head>
-<p>Processed by the Center for Primary Research and Training by Aislinn Catherine Sotelo, with assistance from Elizabeth Sheehan, Spring 2007.</p>
-</processinfo>
-<controlaccess id="controlaccess-1.2.11">
-<head>Indexing Terms</head>
-<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
-<controlaccess>
-<head>Subjects</head>
-<persname role="subject" source="lcnaf" encodinganalog="600">Lambert, Gavin--Archives </persname>
-<occupation source="lcsh" encodinganalog="650">Authors--20th century--Archival resources.</occupation>
-<occupation source="lcsh" encodinganalog="650">Screenwriters--Archival resources. </occupation></controlaccess>
-</controlaccess>
-<dsc type="in-depth" id="dsc-1.2.12" score="1" C-ORDER="1" MAX-C-ORDER="24">
-<head>Container List</head>
-<c01 id="id112126" level="file" score="2" C-ORDER="2">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Audio cassette--Arts Show with Clare English : Gavin Lambert Interview</unittitle>
-<unitdate>2004 July 19</unitdate>
-<langmaterial><language>English</language></langmaterial>
-<physdesc>Audio cassette
-</physdesc>
-</did>
-<scopecontent>
-<p>Interview with Gavin Lambert produced by Hazel Marshall for BBC Radio Scotland.</p>
-</scopecontent>
-</c01>
-<c01 id="id112127" level="file" score="1" C-ORDER="4">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Audio cassette--Copy of Olga Viripaeff and Suzanne Finstad</unittitle>
-<unitdate>1999 May 8</unitdate>
-<langmaterial><language>English</language></langmaterial>
-<physdesc>Audio cassette
-</physdesc>
-</did>
-</c01>
-<c01 id="id112128" level="file" score="2" C-ORDER="5">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Book--Hollywood's first choices (or why Groucho Marx never played Rhett Butler) : how the greatest casting decisions were made, <edition>First edition</edition>.</unittitle>
-<unitdate>1994</unitdate>
-<origination>Burkhart, Jeff</origination>
-<origination>Stuart, Bruce</origination>
-<origination label="Publisher: ">New York: Crown Trade Paperbacks</origination>
-<langmaterial><language>English</language></langmaterial>
-<physdesc>21 cm.
-<extent>230 p.</extent>
-</physdesc>
-</did>
-<scopecontent>
-<p>Handwritten note on front endpage.</p>
-</scopecontent>
-</c01>
-<c01 id="id112129" level="file" score="2" C-ORDER="7">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Book--Inside Daisy Clover</unittitle>
-<unitdate>1996</unitdate>
-<origination>Lambert, Gavin</origination>
-<origination label="Publisher: ">London/ New York : Midnight Classics</origination>
-<langmaterial><language>English</language></langmaterial>
-<physdesc>20 cm.
-<extent>245 p.</extent>
-</physdesc>
-</did>
-<scopecontent>
-<p>Copy 1</p>
-</scopecontent>
-</c01>
-<c01 id="id112130" level="file" score="2" C-ORDER="9">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Book--Inside Daisy Clover</unittitle>
-<unitdate>1996</unitdate>
-<origination>Lambert, Gavin</origination>
-<origination label="Publisher: ">London/ New York : Midnight Classics</origination>
-<langmaterial><language>English</language></langmaterial>
-<physdesc>20 cm.
-<extent>245 p. </extent>
-</physdesc>
-</did>
-<scopecontent>
-<p>Copy 2</p>
-</scopecontent>
-</c01>
-<c01 id="id112131" level="file" score="2" C-ORDER="11">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Book--Natalie Wood: A life<edition>First</edition></unittitle>
-<unitdate>2004</unitdate>
-<origination>Lambert, Gavin</origination>
-<origination label="Publisher: ">New York : Alfred A. Knopf</origination>
-<langmaterial><language>English</language></langmaterial>
-<physdesc>24 cm.
-<extent>346 p.</extent>
-</physdesc>
-</did>
-<scopecontent>
-<p>Copy 1. This is an uncorrected proof.</p>
-</scopecontent>
-</c01>
-<c01 id="id112132" level="file" score="2" C-ORDER="13">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Book--Natalie Wood: A life<edition>First</edition></unittitle>
-<unitdate>2004</unitdate>
-<origination>Lambert, Gavin</origination>
-<langmaterial><language>English</language></langmaterial>
-<physdesc>24 cm.
-<extent>346</extent>
-</physdesc>
-</did>
-<scopecontent>
-<p>Copy 2. This is an uncorrected proof.</p>
-</scopecontent>
-</c01>
-<c01 id="id112133" level="file" score="2" C-ORDER="15">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Videocassette--Another Sky</unittitle>
-<unitdate>[1954]</unitdate>
-<origination>Lambert, Gavin</origination>
-<origination label="Publisher: ">The National Film Archive</origination>
-<langmaterial><language>English</language></langmaterial>
-<physdesc>16 mm.
-</physdesc>
-</did>
-<scopecontent>
-<p>Film release, 1954. Runtime, 86 mins. This is the only copy Gavin Lambert had of "Another Sky" on P.A.L format (British cassette). The only film Gavin Lambert both wrote and directed (see his Biography of Lindsay Anderson "Mainly About L.A." for details) 16 mm. 1955.</p>
-</scopecontent>
-</c01>
-<c01 id="id112134" level="file" score="1" C-ORDER="17">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Vidocassette--Gavin Lambert</unittitle>
-<origination>[Lambert, Gavin]</origination>
-</did>
-</c01>
-<c01 id="id112135" level="file" score="2" C-ORDER="18">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Videocassette--Saturday Night at the Movies: Natalie</unittitle>
-<unitdate>[2004 December 4]</unitdate>
-<origination>[Lambert, Gavin]</origination>
-<origination label="Publisher: ">Toronto, Ontario, Canada : tvo Television that Matters</origination>
-</did>
-<scopecontent>
-<p>"Original Airdate: December 4, 2004"</p>
-</scopecontent>
-</c01>
-<c01 id="id112136" level="file" score="1" C-ORDER="20">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Videocassette--Saturday Night at the Movies: Gavin Lambert, part 1 of 4</unittitle>
-<unitdate>2004 May 27</unitdate>
-<origination>[Lambert, Gavin]</origination>
-<origination label="Publisher: ">Toronto, Ontario, Canada : tvo Television that Matters</origination>
-<physdesc>30 mins.
-</physdesc>
-</did>
-</c01>
-<c01 id="id112137" level="file" score="1" C-ORDER="21">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Videocassette--Saturday Night at the Movies: Gavin Lambert, part 2 of 4</unittitle>
-<unitdate>2004 May 27</unitdate>
-<origination>[Lambert, Gavin]</origination>
-<origination label="Publisher: ">Toronto, Ontario, Canada : tvo Television that Matters</origination>
-<physdesc>30 mins.
-</physdesc>
-</did>
-</c01>
-<c01 id="id112138" level="file" score="1" C-ORDER="22">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Videocassette--Saturday Night at the Movies: Gavin Lambert, part 3 of 4</unittitle>
-<unitdate>2004 May 27</unitdate>
-<origination>[Lambert, Gavin]</origination>
-<origination label="Publisher: ">Toronto, Ontario, Canada : tvo Television that Matters</origination>
-<physdesc>30 mins.
-</physdesc>
-</did>
-</c01>
-<c01 id="id112139" level="file" score="1" C-ORDER="23">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Videocassette--Saturday Night at the Movies: Gavin Lambert, part 4 of 4</unittitle>
-<unitdate>2004 May 27</unitdate>
-<origination>[Lambert, Gavin]</origination>
-<origination label="Publisher: ">Toronto, Ontario, Canada : tvo Television that Matters</origination>
-<physdesc>16 mins.
-</physdesc>
-</did>
-</c01>
-<c01 id="id112140" level="file" score="2" C-ORDER="24">
-<did>
-<container type="box" label="Box ">1</container>
-<unittitle>Zip disk--Unknown content</unittitle>
-<unitdate>no date</unitdate>
-<origination>[Lambert, Gavin]</origination>
-</did>
-    <phystech>
-        <head>Physical Characteristics and Technical Requirements</head>
-        <p>Special equipment or further processing may be required for viewing.  To access digital materials you must notify the reference desk in advance of your visit.</p>
-    </phystech> 
-</c01>
-</dsc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-partial-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-CLU-SC" url="https://oac.cdlib.org/findaid/ark:/13030/kt2j49q74m/">lamb1278.xml</eadid><filedesc><titlestmt><titleproper type="filing">Lambert (Gavin) collection of books and tapes</titleproper><titleproper>Finding Aid for the Gavin Lambert Collection of Books and Tapes <num>LSC.1278</num></titleproper><author>Finding aid prepared by Aislinn Catherine Sotelo with assistance from Elizabeth Sheehan in the Center for Primary Research and Training (CFPRT), Spring 2007; front matter and EAD XML code edited by Caroline Cubé, 2026.</author></titlestmt><publicationstmt><publisher>UCLA Library Special Collections</publisher><p><date>Online finding aid last updated 2026 November 25.</date></p><address><addressline>Room A1713, Charles E. Young Research Library</addressline><addressline>Box 951575</addressline><addressline>Los Angeles, CA 90095-1575</addressline><addressline>Business Number: 310-825-4988</addressline><addressline>Fax Number: 310-206-1864</addressline><addressline>AskLSC@library.ucla.edu</addressline><addressline>URL: <extptr xlink:href="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:show="new" xlink:title="https://www.library.ucla.edu/visit/locations/library-special-collections/" xlink:type="simple"/></addressline></address><p>Finding aid description and metadata in this record are licensed under a Creative Commons Public Domain Designation (CC0 1.0 Universal). See <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2q81b7n">LSC's Metadata Rights Statement</extref> for more information.</p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2026-11-25 14:57:48 -0800</date>.</creation><langusage>Finding aid is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>UCLA Library Special Collections</corpname>
+    </repository>
+    <unittitle>Gavin Lambert collection of books and tapes</unittitle>
+    <origination label="Creator">
+      <persname rules="aacr" source="naf">Lambert, Gavin</persname>
+    </origination>
+    <unitid>LSC.1278</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 linear feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate certainty="approximate" datechar="creation" normal="1954/2004" type="inclusive">circa 1954-2004</unitdate>
+    <unitdate datechar="creation" normal="1994/2004" type="bulk">1994-2004</unitdate>
+    <abstract id="aspace_6958b725e1f53ba053ab2cb227a94d6d" label="Abstract">This collection of Gavin Lambert materials consists of books, videocassettes, audio cassettes, and a computer disk.</abstract>
+    <physloc id="aspace_658a0bb7f39682075870606ad1157585" label="Physical location">Stored off-site. All requests to access special collections material must be made in advance using the request button located on this page.</physloc>
+    <langmaterial id="aspace_eb1974e9ffadac60ce32682249b3d94a">Materials are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_fdc367ffad2d3027e496440656ad31a6">
+    <head>Restrictions on Access</head>
+<p>Open for research. All requests to access special collections materials must be made in advance using the request button located on this page.</p>  </accessrestrict>
+  <phystech id="aspace_2c3cef1926bf5d4480de3b5ea152678a">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>COLLECTION CONTAINS UNPROCESSED AUDIO, AUDIOVISUAL, AND DIGITAL MATERIALS: Audio, audiovisual, and digital materials are not currently available for access and will require further processing and assessment. Please see <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://www.library.ucla.edu/location/library-special-collections/discover-collections/access-unprocessed-collections-policy">LSC's Access to Unprocessed Collections Policy</extref> for more information about levels of discovery and access of special collections materials and to register interest in unprocessed collections.</p>  </phystech>
+  <userestrict id="aspace_b1b40c02b0d1e273ef898b95f0fbff12">
+    <head>Restrictions on Use and Reproduction</head>
+<p>Property rights to the physical objects belong to UCLA Library Special Collections. All other rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>  </userestrict>
+  <acqinfo id="aspace_3b25eee29be2ec273e8b9a324f9032fc">
+    <head>Provenance/Source of Acquisition</head>
+<p>Collection was acquired in August 2005.</p>  </acqinfo>
+  <odd id="aspace_698c6bf3a9bfbffa8491f43a47649768">
+    <head>UCLA Catalog Record ID</head>
+<p>UCLA Catalog Record ID: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://search.library.ucla.edu/permalink/01UCS_LAL/17p22dp/alma9957107603606533">9957107603606533</extref></p>  </odd>
+  <prefercite id="aspace_b3d8d12cb2f4cff34724a62cdd4d62c6">
+    <head>Preferred Citation</head>
+<p>[Identification of item], Gavin Lambert Collection of Books and Tapes (Collection 1278). UCLA Library Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>  </prefercite>
+  <processinfo id="aspace_31823c4c13824cbcc200196845872bdf">
+    <head>Processing Note</head>
+<p>Processed by Aislinn Catherine Sotelo with assistance from Elizabeth Sheehan in the Center for Primary Research and Training (CFPRT), Spring 2007.</p><p>Collections are processed to a variety of levels depending on the work necessary to make them usable, their perceived user interest and research value, availability of staff and resources, and competing priorities. Library Special Collections provides a standard level of preservation and access for all collections and, when time and resources permit, conducts more intensive processing. These materials have been arranged and described according to national and local standards and best practices.</p><p>We are committed to providing ethical, inclusive, and anti-racist description of the materials we steward, and to remediating existing description of our materials that contains language that may be offensive or cause harm. We invite you to submit feedback about how our collections are described, and how they could be described more accurately, by filling out the form located on our website: <extref xlink:actuate="onRequest" xlink:show="new" xlink:href="https://n2t.net/ark:/21198/r2zs2tnj">Report Problematic Content and Description in UCLA's Library Collections and Archives.</extref></p>  </processinfo>
+  <bioghist id="aspace_d8247951ad56a95a559689ba3bc69325">
+    <head>Biography</head>
+<p>Gavin Lambert was born July 23, 1924 in Sussex, England. Lambert was a screenwriter, author, and one-time director. His first book "The Slide Area" was published in 1959. His screenplays include "Sons and Lovers" and "Inside Daisy Clover", which was adapted from his book of the same title. He also wrote several bibliographies including "Nazimova," "Natalie Wood: A Life," and "Mainly About Lindsay Anderson." Mr. Lambert died [July 17, 2005], in Los Angeles, at aged 80.</p>  </bioghist>
+  <scopecontent id="aspace_f64cc445b16012a32a17f7f2f91a958c">
+    <head>Scope and Content</head>
+<p>This collection consists of books, audiovisual recordings, and other materials written by Lambert, including "Inside Daisy Clover" and two uncorrected proofs of "Natalie Wood: A Life." Included is Gavin Lambert's copy of "Another Sky," the only film he both wrote and directed.</p>  </scopecontent>
+  <controlaccess>
+    <occupation source="lcsh">Screenwriters -- Archives.</occupation>
+    <occupation source="lcsh">Authors -- 20th century -- Archives.</occupation>
+    <persname source="naf">Lambert, Gavin--Archives</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref11_pk1" level="file"><did><unittitle>Audio cassette--Arts Show with Clare English : Gavin Lambert Interview</unittitle><unitdate datechar="creation">2004 July 19</unitdate><physdesc id="aspace_f41e554036ecd4a9d4796faf32990d79" label="General Physical Description note">Audio cassette</physdesc><container id="aspace_dc29d30ddde2d7faa5aa42fc33930d6c" label="Mixed Materials" type="box">1</container></did><scopecontent id="aspace_4a2e58efcb5ed99454a1ca3f70cd9f98"><head>Scope and Contents note</head><p>Interview with Gavin Lambert produced by Hazel Marshall for BBC Radio Scotland.</p></scopecontent></c01><c01 id="aspace_ref14_ddy" level="file"><did><unittitle>Audio cassette--Copy of Olga Viripaeff and Suzanne Finstad</unittitle><unitdate datechar="creation">1999 May 8</unitdate><physdesc id="aspace_99e812de0ac36c3403235a6a0eabf489" label="General Physical Description note">Audio cassette</physdesc><container id="aspace_2b7c2919ff08ec4d318781407ec40bb1" label="Mixed Materials" type="box">1</container></did></c01><c01 id="aspace_ref16_p08" level="file"><did><unittitle>Book--Hollywood's first choices (or why Groucho Marx never played Rhett Butler) : how the greatest casting decisions were made, <edition>First edition</edition>.</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">230 pages</extent></physdesc><unitdate datechar="creation">1994</unitdate><physdesc id="aspace_293ae943c52b46d1e4213453fad0cb66" label="General Physical Description note">21 cm.</physdesc><container id="aspace_65f3df429cc6753946da2972a9e86120" label="Mixed Materials" type="box">1</container></did><scopecontent id="aspace_5cacb2ad71a0ac0277a1225725f68078"><head>Scope and Contents note</head><p>Handwritten note on front endpage.</p></scopecontent></c01><c01 id="aspace_ref19_e9g" level="file"><did><unittitle>Book--Inside Daisy Clover</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">245 pages</extent></physdesc><unitdate datechar="creation">1996</unitdate><physdesc id="aspace_90a11dd582eb28f1ddd14059dda0e02c" label="General Physical Description note">20 cm.</physdesc><container id="aspace_83e591c7183fe9aaf42d6c0ad2c0760e" label="Mixed Materials" type="box">1</container></did><scopecontent id="aspace_be7278d8a357737d7dc98e997a371d42"><head>Scope and Contents note</head><p>Copy 1</p></scopecontent></c01><c01 id="aspace_ref22_ls3" level="file"><did><unittitle>Book--Inside Daisy Clover</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">245 pages</extent></physdesc><unitdate datechar="creation">1996</unitdate><physdesc id="aspace_000a7436508c0722efde0519f006b9b7" label="General Physical Description note">20 cm.</physdesc><container id="aspace_b27eb8d465892fd4f66dd6871e9e9b35" label="Mixed Materials" type="box">1</container></did><scopecontent id="aspace_c560eb2416e5a2d6a4400cb4e9375734"><head>Scope and Contents note</head><p>Copy 2</p></scopecontent></c01><c01 id="aspace_ref25_mpl" level="file"><did><unittitle>Book--Natalie Wood: A life<edition>First</edition></unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">346 pages</extent></physdesc><unitdate datechar="creation">2004</unitdate><physdesc id="aspace_f5b90baf291cf613823f078c03e09e38" label="General Physical Description note">24 cm.</physdesc><container id="aspace_9bcb91e1fe830fa3463908a55edb8d2c" label="Mixed Materials" type="box">1</container></did><scopecontent id="aspace_a4caa62f1682d7fbe118fb0dc1b03365"><head>Scope and Contents note</head><p>Copy 1. This is an uncorrected proof.</p></scopecontent></c01><c01 id="aspace_ref28_vo5" level="file"><did><unittitle>Book--Natalie Wood: A life<edition>First</edition></unittitle><unitdate datechar="creation">2004</unitdate><physdesc id="aspace_06ff4a6ef634c7270e7d570564e9a6bb" label="General Physical Description note">24 cm.<extent>346</extent></physdesc><container id="aspace_2d3cdc8a0c08a23a8cc8c85c8bce0522" label="Mixed Materials" type="box">1</container></did><scopecontent id="aspace_3fdd477130f1a8af8d0d6bcd60c817ba"><head>Scope and Contents note</head><p>Copy 2. This is an uncorrected proof.</p></scopecontent></c01><c01 id="aspace_ref31_nb9" level="file"><did><unittitle>Videocassette--Another Sky</unittitle><unitdate datechar="creation">[1954]</unitdate><physdesc id="aspace_ba468cd881a405b778a2fa504e0fd678" label="General Physical Description note">16 mm.</physdesc><container id="aspace_6786860f427d170f42666dae9e409d1c" label="Mixed Materials" type="box">1</container></did><scopecontent id="aspace_4a03c11decb6f8c9f6a59cf1ae108c62"><head>Scope and Contents note</head><p>Film release, 1954. Runtime, 86 mins. This is the only copy Gavin Lambert had of "Another Sky" on P.A.L format (British cassette). The only film Gavin Lambert both wrote and directed (see his Biography of Lindsay Anderson "Mainly About L.A." for details) 16 mm. 1955.</p></scopecontent></c01><c01 id="aspace_ref34_iri" level="file"><did><unittitle>Vidocassette--Gavin Lambert</unittitle><container id="aspace_5528c92fdf59670bfefde4475700b0d1" label="Mixed Materials" type="box">1</container></did></c01><c01 id="aspace_ref35_n8x" level="file"><did><unittitle>Videocassette--Saturday Night at the Movies: Natalie</unittitle><unitdate datechar="creation">[2004 December 4]</unitdate><container id="aspace_b4bc4b86947d02b7fdd82d801b172f1b" label="Mixed Materials" type="box">1</container></did><scopecontent id="aspace_c27c3cacbfada3138fcaa5df46423032"><head>Scope and Contents note</head><p>"Original Airdate: December 4, 2004"</p></scopecontent></c01><c01 id="aspace_ref37_kys" level="file"><did><unittitle>Videocassette--Saturday Night at the Movies: Gavin Lambert, part 1 of 4</unittitle><unitdate datechar="creation">2004 May 27</unitdate><physdesc id="aspace_51361f426e008f2c22db4d915cb91295" label="General Physical Description note">30 mins.</physdesc><container id="aspace_74b8a4ba116b4dc24da04407ae70b502" label="Mixed Materials" type="box">1</container></did></c01><c01 id="aspace_ref39_366" level="file"><did><unittitle>Videocassette--Saturday Night at the Movies: Gavin Lambert, part 2 of 4</unittitle><unitdate datechar="creation">2004 May 27</unitdate><physdesc id="aspace_face0f92da438e1ec56ad119ec02d875" label="General Physical Description note">30 mins.</physdesc><container id="aspace_956331d0a6fbe983086dd6a21a1b8798" label="Mixed Materials" type="box">1</container></did></c01><c01 id="aspace_ref41_jsp" level="file"><did><unittitle>Videocassette--Saturday Night at the Movies: Gavin Lambert, part 3 of 4</unittitle><unitdate datechar="creation">2004 May 27</unitdate><physdesc id="aspace_741550952ac2cb84ea115c59702b608b" label="General Physical Description note">30 mins.</physdesc><container id="aspace_1cd70126bc95f34d5daf17276ff0ff65" label="Mixed Materials" type="box">1</container></did></c01><c01 id="aspace_ref43_99h" level="file"><did><unittitle>Videocassette--Saturday Night at the Movies: Gavin Lambert, part 4 of 4</unittitle><unitdate datechar="creation">2004 May 27</unitdate><physdesc id="aspace_a2d6aea574966fce5a4a33a630e54483" label="General Physical Description note">16 mins.</physdesc><container id="aspace_e2a9260666480d1e8a82003c47005375" label="Mixed Materials" type="box">1</container></did></c01><c01 id="aspace_ref45_mrj" level="file"><did><unittitle>Zip disk--Unknown content</unittitle><unitdate datechar="creation">no date</unitdate><container id="aspace_d95fe68e7eda63c8d1020ec720e23465" label="Mixed Materials" type="box">1</container></did><phystech id="aspace_ee3e323a854d7a69b012ecdbbbbedac8"><head>Physical Characteristics and Technical Requirements</head><p>Special equipment or further processing may be required for viewing.  To access digital materials you must notify the reference desk in advance of your visit.</p></phystech></c01></dsc>
 </archdesc>
 </ead>
